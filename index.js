@@ -6,35 +6,58 @@ import { groupBy } from 'lodash'
 const app = express()
 const port = 3000
 
-async function file() {
-	const data = await loadJsonFile('bn.json')
-	// const groupedData = groupBy(data, 'sura')
-
+async function addDeleteAndWrite() {
+	const data = await loadJsonFile('arabic.json')
 	function finished() {
 		console.log('finished')
 	}
-
-	// making separate files by mapping
-	// return await Object.keys(data).map((i) =>
-	// 	fs.writeFile(`${i}.js`, JSON.stringify(newArr[i], null), finished)
-	// )
-
 	// adding new field
-	const newArr = data.map((i) =>
-		Object.assign({}, i, { translation_bn: i['text'] })
-	)
-
+	const newArr = data.map((i) => Object.assign({}, i, { aya: i['VerseIDAr'] }))
 	// deleting previous field
-	await newArr.map((i) => delete i.text)
-
-	//writing the array to a new file
+	await newArr.map((i) => delete i.VerseIDAr)
+	//	writing the array to a new file
 	return await fs.writeFile(
-		'newBn.json',
+		'newArabic.json',
 		JSON.stringify(newArr, null),
 		finished
 	)
 }
 
+async function addDeleteTest() {
+	const data = await loadJsonFile('arabic.json')
+	function finished() {
+		console.log('finished')
+	}
+	// adding new field
+	const newArr = data.map((i) => Object.assign({}, i, { aya: i['VerseIDAr'] }))
+	// deleting previous field
+	await newArr.map((i) => delete i.VerseIDAr)
+	console.log(newArr)
+}
+
+async function groupTest() {
+	const data = await loadJsonFile('newEn.json')
+	const groupedData = groupBy(data, 'sura')
+	function finished() {
+		console.log('finished')
+	}
+	console.log(groupedData)
+}
+
+async function groupAndWrite() {
+	const data = await loadJsonFile('newEn.json')
+	const groupedData = groupBy(data, 'sura')
+	function finished() {
+		console.log('finished')
+	}
+	// making separate files by mapping
+	await fs.writeFile(
+		'groupedEn.json',
+		JSON.stringify(groupedData, null),
+		finished
+	)
+}
+
 app.listen(port, () => {
-	return file()
+	return addDeleteAndWrite()
 })
