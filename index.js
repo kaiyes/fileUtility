@@ -1,6 +1,6 @@
 import express from 'express'
 import loadJsonFile from 'load-json-file'
-import fs from 'fs'
+import { writeFile } from 'fs'
 import { groupBy, merge } from 'lodash'
 
 const app = express()
@@ -16,7 +16,7 @@ async function addDeleteAndWrite() {
 	// deleting previous field
 	await newArr.map((i) => delete i.VerseIDAr)
 	//	writing the array to a new file
-	return await fs.writeFile(
+	return await writeFile(
 		'newArabic.json',
 		JSON.stringify(newArr, null),
 		finished
@@ -51,7 +51,7 @@ async function groupAndWrite() {
 		console.log('finished')
 	}
 	// making separate files by mapping
-	await fs.writeFile(
+	await writeFile(
 		'groupedArabic.json',
 		JSON.stringify(groupedData, null),
 		finished
@@ -67,9 +67,20 @@ async function mergeAll() {
 		console.log('finished')
 	}
 	// making separate files by mapping
-	await fs.writeFile('merged.json', JSON.stringify(mergedData, null), finished)
+	await writeFile('merged.json', JSON.stringify(mergedData, null), finished)
+}
+
+async function splitFiles() {
+	const data = await loadJsonFile('merged.json')
+	function finished() {
+		console.log('finished')
+	}
+	// making separate files by mapping
+	return await Object.keys(data).map((i) =>
+		writeFile(`./suras/${i}.json`, JSON.stringify(data[i], null), finished)
+	)
 }
 
 app.listen(port, () => {
-	return mergeAll()
+	return splitFiles()
 })
