@@ -1,7 +1,7 @@
 import express from 'express'
 import loadJsonFile from 'load-json-file'
 import fs from 'fs'
-import { groupBy } from 'lodash'
+import { groupBy, merge } from 'lodash'
 
 const app = express()
 const port = 3000
@@ -36,7 +36,7 @@ async function addDeleteTest() {
 }
 
 async function groupTest() {
-	const data = await loadJsonFile('newEn.json')
+	const data = await loadJsonFile('newArabic.json')
 	const groupedData = groupBy(data, 'sura')
 	function finished() {
 		console.log('finished')
@@ -45,19 +45,31 @@ async function groupTest() {
 }
 
 async function groupAndWrite() {
-	const data = await loadJsonFile('newEn.json')
+	const data = await loadJsonFile('newArabic.json')
 	const groupedData = groupBy(data, 'sura')
 	function finished() {
 		console.log('finished')
 	}
 	// making separate files by mapping
 	await fs.writeFile(
-		'groupedEn.json',
+		'groupedArabic.json',
 		JSON.stringify(groupedData, null),
 		finished
 	)
 }
 
+async function mergeAll() {
+	const arabic = await loadJsonFile('groupedArabic.json')
+	const bangla = await loadJsonFile('groupedBn.json')
+	const english = await loadJsonFile('groupedEn.json')
+	const mergedData = await merge(arabic, bangla, english)
+	function finished() {
+		console.log('finished')
+	}
+	// making separate files by mapping
+	await fs.writeFile('merged.json', JSON.stringify(mergedData, null), finished)
+}
+
 app.listen(port, () => {
-	return addDeleteAndWrite()
+	return mergeAll()
 })
