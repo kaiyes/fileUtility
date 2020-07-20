@@ -1,0 +1,17 @@
+{
+	"name": "util",
+	"version": "1.0.0",
+	"description": "a basic server for some file utility",
+	"main": "index.js",
+	"author": "kaiyes",
+	"license": "MIT",
+	"scripts": {
+		"start": "nodemon -r esm index.js"
+	},
+	"dependencies": {
+		"esm": "^3.2.25",
+		"express": "^4.17.1",
+		"load-json-file": "^6.2.0",
+		"lodash": "^4.17.19"
+	}
+}
