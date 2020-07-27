@@ -7,31 +7,28 @@ const app = express()
 const port = 3000
 
 async function addDeleteAndWrite() {
-	const data = await loadJsonFile('arabic.json')
+	const data = await loadJsonFile('chapters.json')
+	// adding new field
+	const newArr = data.map((item, index) =>
+		Object.assign({}, item, { page: index + 1 })
+	)
 	function finished() {
 		console.log('finished')
 	}
-	// adding new field
-	const newArr = data.map((i) => Object.assign({}, i, { aya: i['VerseIDAr'] }))
-	// deleting previous field
-	await newArr.map((i) => delete i.VerseIDAr)
 	//	writing the array to a new file
 	return await writeFile(
-		'newArabic.json',
+		'chaptersNew.json',
 		JSON.stringify(newArr, null),
 		finished
 	)
 }
 
 async function addDeleteTest() {
-	const data = await loadJsonFile('arabic.json')
-	function finished() {
-		console.log('finished')
-	}
+	const data = await loadJsonFile('chapters.json')
 	// adding new field
-	const newArr = data.map((i) => Object.assign({}, i, { aya: i['VerseIDAr'] }))
-	// deleting previous field
-	await newArr.map((i) => delete i.VerseIDAr)
+	const newArr = data.map((item, index) =>
+		Object.assign({}, item, { page: index + 1 })
+	)
 	console.log(newArr)
 }
 
@@ -82,5 +79,5 @@ async function splitFiles() {
 }
 
 app.listen(port, () => {
-	return splitFiles()
+	return addDeleteAndWrite()
 })
