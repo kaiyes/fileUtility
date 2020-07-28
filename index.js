@@ -10,7 +10,7 @@ async function addDeleteAndWrite() {
 	const data = await loadJsonFile('chapters.json')
 	// adding new field
 	const newArr = data.map((item, index) =>
-		Object.assign({}, item, { page: index + 1 })
+		Object.assign({}, item, { page: index })
 	)
 	function finished() {
 		console.log('finished')
@@ -24,10 +24,10 @@ async function addDeleteAndWrite() {
 }
 
 async function addDeleteTest() {
-	const data = await loadJsonFile('chapters.json')
+	const data = await loadJsonFile('chaptersNew.json')
 	// adding new field
 	const newArr = data.map((item, index) =>
-		Object.assign({}, item, { page: index + 1 })
+		Object.assign({}, item, { ayas: [] })
 	)
 	console.log(newArr)
 }
