@@ -7,7 +7,7 @@ const app = express()
 const port = 3000
 
 async function addDeleteAndWrite() {
-	const data = await loadJsonFile('chapters.json')
+	const data = await loadJsonFile('pages.json')
 	// adding new field
 	const newArr = data.map((item, index) =>
 		Object.assign({}, item, { page: index })
@@ -16,15 +16,11 @@ async function addDeleteAndWrite() {
 		console.log('finished')
 	}
 	//	writing the array to a new file
-	return await writeFile(
-		'chaptersNew.json',
-		JSON.stringify(newArr, null),
-		finished
-	)
+	return await writeFile('pages.json', JSON.stringify(newArr, null), finished)
 }
 
 async function addDeleteTest() {
-	const pages = await loadJsonFile('chaptersNew.json')
+	const pages = await loadJsonFile('pages.json')
 
 	const arr = pages.slice(1, 4)
 	console.log(arr)
@@ -53,8 +49,32 @@ async function addDeleteTest() {
 	console.log(newArr)
 }
 
+async function groupTest() {
+	const data = await loadJsonFile('pages.json')
+	const groupedData = groupBy(data, 'page')
+	function finished() {
+		console.log('finished')
+	}
+	console.log(groupedData)
+}
+
+async function groupAndWrite() {
+	const data = await loadJsonFile('pages.json')
+	const groupedData = groupBy(data, 'page')
+	function finished() {
+		console.log('finished')
+	}
+	console.log(groupedData)
+	// making separate files by mapping
+	await writeFile(
+		'groupedPage.json',
+		JSON.stringify(groupedData, null),
+		finished
+	)
+}
+
 app.listen(port, () => {
-	return addDeleteTest()
+	return groupAndWrite()
 })
 
 function fetchSura(suraNumber) {
