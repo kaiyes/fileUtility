@@ -7,33 +7,37 @@ import fetch from 'node-fetch'
 const app = express()
 const port = 3000
 
-async function addDeleteAndWrite() {
-	function finished() {
-		console.log('finished')
-	}
-	//body
-	const pages = Array.from(Array(3).keys())
-	for (const page of pages) {
-		let data = await fetch(`http://api.alquran.cloud/v1/page/${page + 1}`, {
-			method: 'Get'
-		})
-		let jsonifiedData = await data.json()
-		//	writing the array to a new file
-		await writeFile('allPages.json', JSON.stringify(data, null), finished)
-	}
-}
-
 async function addDeleteTest() {
-	const pages = Array.from(Array(3).keys())
-	for (const page of pages) {
+	let futureArr = []
+	const pages = await Array.from(Array(5).keys())
+	console.log(pages)
+	//loop
+	pages.forEach(async (page) => {
+		//fetching
+
 		let data = await fetch(`http://api.alquran.cloud/v1/page/${page + 1}`, {
 			method: 'Get'
 		})
+
 		let jsonifiedData = await data.json()
-		return jsonifiedData.data.ayahs
-	}
+
+		futureArr.push(jsonifiedData.data)
+
+		console.log(futureArr)
+
+		//upon finished
+		function finished() {
+			console.log(`finished page: ${page}`)
+		}
+
+		// 		await writeFile(
+		// 			`page${page + 1}.json`,
+		// 			JSON.stringify(futureArr, null),
+		// 			finished
+		// 		)
+	})
 }
 
 app.listen(port, () => {
-	return addDeleteAndWrite()
+	return addDeleteTest()
 })
