@@ -9,10 +9,9 @@ const port = 3000
 
 async function addDeleteTest() {
 	let futureArr = []
-	const pages = await Array.from(Array(5).keys())
-	console.log(pages)
-	//loop
-	pages.forEach(async (page) => {
+	const pages = await Array.from(Array(604).keys())
+	let cutOutArr = pages.slice(0, 30)
+	cutOutArr.forEach(async (page) => {
 		//fetching
 
 		let data = await fetch(`http://api.alquran.cloud/v1/page/${page + 1}`, {
@@ -30,11 +29,11 @@ async function addDeleteTest() {
 			console.log(`finished page: ${page}`)
 		}
 
-		// 		await writeFile(
-		// 			`page${page + 1}.json`,
-		// 			JSON.stringify(futureArr, null),
-		// 			finished
-		// 		)
+		await writeFile(
+			`page${page + 1}.json`,
+			JSON.stringify(futureArr, null),
+			finished
+		)
 	})
 }
 
