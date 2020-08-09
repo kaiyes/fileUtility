@@ -49,30 +49,6 @@ async function addDeleteTest() {
 	console.log(newArr)
 }
 
-async function groupTest() {
-	const data = await loadJsonFile('pages.json')
-	const groupedData = groupBy(data, 'page')
-	function finished() {
-		console.log('finished')
-	}
-	console.log(groupedData)
-}
-
-async function groupAndWrite() {
-	const data = await loadJsonFile('pages.json')
-	const groupedData = groupBy(data, 'page')
-	function finished() {
-		console.log('finished')
-	}
-	console.log(groupedData)
-	// making separate files by mapping
-	await writeFile(
-		'groupedPage.json',
-		JSON.stringify(groupedData, null),
-		finished
-	)
-}
-
 app.listen(port, () => {
 	return groupAndWrite()
 })
