@@ -45,6 +45,21 @@ async function addDeleteTest() {
 	)
 }
 
+async function splitFiles() {
+	const data = await loadJsonFile('page-0-10.json')
+	function finished() {
+		console.log('finished')
+	}
+	// making separate files by mapping
+	return await Object.keys(data).map((i) =>
+		writeFile(
+			`./utility/pages/page-${i}.json`,
+			JSON.stringify(data[i], null),
+			finished
+		)
+	)
+}
+
 app.listen(port, () => {
-	return addDeleteTest()
+	return splitFiles()
 })
