@@ -10,8 +10,18 @@ const port = 3000
 async function addDeleteTest() {
 	let futureArr = []
 	const pages = await Array.from(Array(604).keys())
-	let cutOutArr = pages.slice(30, 40)
-	let pageNumber = '30-40'
+	let cutOutArr = pages.slice(240, 260)
+	// let cutOutArr = pages.slice(260, 280)
+	// let cutOutArr = pages.slice(280,300)
+	// let cutOutArr = pages.slice(300, 320)
+	// let cutOutArr = pages.slice(320, 340)
+	// let cutOutArr = pages.slice( 340,360)
+	let pageNumber = '240-260'
+	// let pageNumber = '260-280'
+	// let pageNumber = '280-300'
+	// let pageNumber = '320-340'
+	// let pageNumber = '340-360'
+	// let pageNumber = '360-380'
 
 	function finished() {
 		console.log('finished')
