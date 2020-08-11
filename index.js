@@ -7,16 +7,16 @@ import fetch from 'node-fetch'
 const app = express()
 const port = 3000
 
-async function addDeleteTest() {
+async function writeData() {
 	let futureArr = []
 	const pages = await Array.from(Array(604).keys())
-	let cutOutArr = pages.slice(240, 260)
+	let cutOutArr = pages.slice(0, 10)
 	// let cutOutArr = pages.slice(260, 280)
 	// let cutOutArr = pages.slice(280,300)
 	// let cutOutArr = pages.slice(300, 320)
 	// let cutOutArr = pages.slice(320, 340)
 	// let cutOutArr = pages.slice( 340,360)
-	let pageNumber = '240-260'
+	let pageNumber = '0-10'
 	// let pageNumber = '260-280'
 	// let pageNumber = '280-300'
 	// let pageNumber = '320-340'
@@ -45,21 +45,47 @@ async function addDeleteTest() {
 	)
 }
 
-async function splitFiles() {
+async function addDelete() {
 	const data = await loadJsonFile('page-0-10.json')
+
 	function finished() {
 		console.log('finished')
 	}
-	// making separate files by mapping
-	return await Object.keys(data).map((i) =>
-		writeFile(
-			`./utility/pages/page-${i}.json`,
-			JSON.stringify(data[i], null),
-			finished
-		)
-	)
+
+	// deleting field
+	await data.map((i) => {
+		delete i.edition
+		delete i.surahs
+		i.ayahs.map((j) => {
+			delete j.surah
+			delete j.number
+			delete j.page
+			delete j.manzil
+			delete j.juz
+			delete j.ruku
+			delete j.hizbQuarter, delete j.sajda
+		})
+	})
+
+	//writing the array to a new file
+	return await writeFile('test.json', JSON.stringify(data, null), finished)
 }
 
 app.listen(port, () => {
-	return splitFiles()
+	return addDelete()
 })
+
+// async function splitFiles() {
+// 	const data = await loadJsonFile('page-0-10.json')
+// 	function finished() {
+// 		console.log('finished')
+// 	}
+// 	// making separate files by mapping
+// 	return await Object.keys(data).map((i) =>
+// 		writeFile(
+// 			`./utility/pages/page-${i}.json`,
+// 			JSON.stringify(data[i], null),
+// 			finished
+// 		)
+// 	)
+// }
