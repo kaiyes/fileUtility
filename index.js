@@ -46,7 +46,7 @@ async function writeData() {
 }
 
 async function addDelete() {
-	const data = await loadJsonFile('page-0-10.json')
+	const data = await loadJsonFile('merged.json')
 
 	function finished() {
 		console.log('finished')
@@ -69,6 +69,17 @@ async function addDelete() {
 
 	//writing the array to a new file
 	return await writeFile('test.json', JSON.stringify(data, null), finished)
+}
+
+async function mergeAll() {
+	const page1 = await loadJsonFile('page-20-30.json')
+	const page2 = await loadJsonFile('page-10-20.json')
+	const mergedData = [...page1, ...page2]
+	function finished() {
+		console.log('finished')
+	}
+	// making separate files by mapping
+	await writeFile('merged.json', JSON.stringify(mergedData, null), finished)
 }
 
 app.listen(port, () => {
