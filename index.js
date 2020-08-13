@@ -10,18 +10,10 @@ const port = 3000
 async function writeData() {
 	let futureArr = []
 	const pages = await Array.from(Array(604).keys())
-	let cutOutArr = pages.slice(0, 10)
-	// let cutOutArr = pages.slice(260, 280)
-	// let cutOutArr = pages.slice(280,300)
-	// let cutOutArr = pages.slice(300, 320)
-	// let cutOutArr = pages.slice(320, 340)
-	// let cutOutArr = pages.slice( 340,360)
-	let pageNumber = '0-10'
-	// let pageNumber = '260-280'
-	// let pageNumber = '280-300'
-	// let pageNumber = '320-340'
-	// let pageNumber = '340-360'
-	// let pageNumber = '360-380'
+
+	let cutOutArr = pages.slice(600, 604)
+
+	let pageNumber = '600-604'
 
 	function finished() {
 		console.log('finished')
@@ -39,7 +31,7 @@ async function writeData() {
 
 	//	writing the array to a new file
 	await writeFile(
-		`page-${pageNumber}.json`,
+		`./pages/page-${pageNumber}.json`,
 		JSON.stringify(ultimateArr, null),
 		finished
 	)
@@ -83,5 +75,5 @@ async function mergeAll() {
 }
 
 app.listen(port, () => {
-	return addDelete()
+	return writeData()
 })
