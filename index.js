@@ -152,5 +152,5 @@ async function mergeAll() {
 }
 
 app.listen(port, () => {
-	return mergeAll()
+	return addDelete()
 })
