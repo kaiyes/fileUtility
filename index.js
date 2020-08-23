@@ -7,6 +7,34 @@ import fetch from 'node-fetch'
 const app = express()
 const port = 3000
 
+async function fetchData() {
+	const duas = await Array.from(Array(200).keys())
+
+	let ultimateArr = []
+	for (let dua of duas) {
+		let data = await fetch(
+			`https://dua.greentechapps.com/api/bn/details/${dua + 1}`,
+			{
+				method: 'Get'
+			}
+		)
+
+		let jsonifiedData = await data.json()
+
+		await ultimateArr.push(jsonifiedData)
+	}
+
+	function finished() {
+		console.log('finished')
+	}
+
+	await writeFile(
+		`./dua_bn_2.json`,
+		JSON.stringify(ultimateArr, null),
+		finished
+	)
+}
+
 async function writeData() {
 	let futureArr = []
 	const pages = await Array.from(Array(604).keys())
@@ -152,5 +180,5 @@ async function mergeAll() {
 }
 
 app.listen(port, () => {
-	return addDelete()
+	return fetchData()
 })
