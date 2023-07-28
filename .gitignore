@@ -1,0 +1,11 @@
+# OSX
+#
+.DS_Store
+# node.js
+#
+node_modules/
+field_icons/
+npm-debug.log
+yarn-error.log
+files/
+
