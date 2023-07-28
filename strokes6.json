@@ -1,0 +1,2634 @@
+[
+  {
+    "kanjiName": "休",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 642,
+    "meanings": [
+      "Rest",
+      "Day Off",
+      "Retire",
+      "Sleep"
+    ],
+    "on": [
+      "きゅう"
+    ],
+    "kun": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "先",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 173,
+    "meanings": [
+      "Before",
+      "Ahead",
+      "Previous",
+      "Future",
+      "Precedence"
+    ],
+    "on": [
+      "せん"
+    ],
+    "kun": [
+      "さき",
+      "ま.ず"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "名",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 177,
+    "meanings": [
+      "Name",
+      "Noted",
+      "Distinguished",
+      "Reputation"
+    ],
+    "on": [
+      "めい",
+      "みょう"
+    ],
+    "kun": [
+      "な",
+      "-な"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "年",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 6,
+    "meanings": [
+      "Year",
+      "Counter For Years"
+    ],
+    "on": [
+      "ねん"
+    ],
+    "kun": [
+      "とし"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "気",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 113,
+    "meanings": [
+      "Spirit",
+      "Mind",
+      "Air",
+      "Atmosphere",
+      "Mood"
+    ],
+    "on": [
+      "き",
+      "け"
+    ],
+    "kun": [
+      "いき"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "百",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 163,
+    "meanings": [
+      "Hundred"
+    ],
+    "on": [
+      "ひゃく",
+      "びゃく"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "毎",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 436,
+    "meanings": [
+      "Every"
+    ],
+    "on": [
+      "まい"
+    ],
+    "kun": [
+      "ごと",
+      "-ごと.に"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "行",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 20,
+    "meanings": [
+      "Going",
+      "Journey",
+      "Carry Out",
+      "Conduct",
+      "Act",
+      "Line",
+      "Row",
+      "Bank"
+    ],
+    "on": [
+      "こう",
+      "ぎょう",
+      "あん"
+    ],
+    "kun": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "西",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 259,
+    "meanings": [
+      "West",
+      "Spain"
+    ],
+    "on": [
+      "せい",
+      "さい",
+      "す"
+    ],
+    "kun": [
+      "にし"
+    ],
+    "jlpt": 5
+  },
+  {
+    "kanjiName": "字",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 485,
+    "meanings": [
+      "Character",
+      "Letter",
+      "Word",
+      "Section Of Village"
+    ],
+    "on": [
+      "じ"
+    ],
+    "kun": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "wk_meanings": [
+      "Letter",
+      "^Character",
+      "^Symbol"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "早",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 402,
+    "meanings": [
+      "Early",
+      "Fast"
+    ],
+    "on": [
+      "そう",
+      "さっ"
+    ],
+    "kun": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "wk_meanings": [
+      "Early",
+      "^Fast",
+      "^Quick"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "会",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 4,
+    "meanings": [
+      "Meeting",
+      "Meet",
+      "Party",
+      "Association",
+      "Interview",
+      "Join"
+    ],
+    "on": [
+      "かい",
+      "え"
+    ],
+    "kun": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "wk_meanings": [
+      "Meet"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "同",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 15,
+    "meanings": [
+      "Same",
+      "Agree",
+      "Equal"
+    ],
+    "on": [
+      "どう"
+    ],
+    "kun": [
+      "おな.じ"
+    ],
+    "wk_meanings": [
+      "Same"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "多",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 139,
+    "meanings": [
+      "Many",
+      "Frequent",
+      "Much"
+    ],
+    "on": [
+      "た"
+    ],
+    "kun": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "wk_meanings": [
+      "Many",
+      "^Much",
+      "^Lots Of"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "考",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 196,
+    "meanings": [
+      "Consider",
+      "Think Over"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "かんが.える",
+      "かんが.え"
+    ],
+    "wk_meanings": [
+      "Think",
+      "^Consider"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "肉",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 986,
+    "meanings": [
+      "Meat"
+    ],
+    "on": [
+      "にく"
+    ],
+    "kun": [
+      "しし"
+    ],
+    "wk_meanings": [
+      "Meat"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "自",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 19,
+    "meanings": [
+      "Oneself"
+    ],
+    "on": [
+      "じ",
+      "し"
+    ],
+    "kun": [
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "wk_meanings": [
+      "Self"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "色",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 621,
+    "meanings": [
+      "Color"
+    ],
+    "on": [
+      "しょく",
+      "しき"
+    ],
+    "kun": [
+      "いろ"
+    ],
+    "wk_meanings": [
+      "Color"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "地",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 40,
+    "meanings": [
+      "Ground",
+      "Earth"
+    ],
+    "on": [
+      "ち",
+      "じ"
+    ],
+    "kun": [],
+    "wk_meanings": [
+      "Earth",
+      "^Ground"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "安",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 144,
+    "meanings": [
+      "Relax",
+      "Cheap",
+      "Low",
+      "Quiet",
+      "Rested",
+      "Contented",
+      "Peaceful"
+    ],
+    "on": [
+      "あん"
+    ],
+    "kun": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "wk_meanings": [
+      "Relax",
+      "^Cheap"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "有",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 282,
+    "meanings": [
+      "Possess",
+      "Have",
+      "Exist",
+      "Happen",
+      "Occur",
+      "Approx"
+    ],
+    "on": [
+      "ゆう",
+      "う"
+    ],
+    "kun": [
+      "あ.る"
+    ],
+    "wk_meanings": [
+      "Have"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "死",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 229,
+    "meanings": [
+      "Death",
+      "Die"
+    ],
+    "on": [
+      "し"
+    ],
+    "kun": [
+      "し.ぬ",
+      "し.に-"
+    ],
+    "wk_meanings": [
+      "Death"
+    ],
+    "jlpt": 4
+  },
+  {
+    "kanjiName": "耳",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1328,
+    "meanings": [
+      "Ear"
+    ],
+    "on": [
+      "じ"
+    ],
+    "kun": [
+      "みみ"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "交",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 178,
+    "meanings": [
+      "Mingle",
+      "Mixing",
+      "Association",
+      "Coming & Going"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "光",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 527,
+    "meanings": [
+      "Ray",
+      "Light"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "回",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 50,
+    "meanings": [
+      "-times",
+      "Round",
+      "Game",
+      "Revolve",
+      "Counter For Occurrences"
+    ],
+    "on": [
+      "かい",
+      "え"
+    ],
+    "kun": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "当",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 91,
+    "meanings": [
+      "Hit",
+      "Right",
+      "Appropriate",
+      "Himself"
+    ],
+    "on": [
+      "とう"
+    ],
+    "kun": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "米",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 61,
+    "meanings": [
+      "Rice",
+      "Usa",
+      "Metre"
+    ],
+    "on": [
+      "べい",
+      "まい",
+      "めえとる"
+    ],
+    "kun": [
+      "こめ",
+      "よね"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "両",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 247,
+    "meanings": [
+      "Both",
+      "Old Japanese Coin",
+      "Counter For Carriages (e.g., In A Train)",
+      "Two"
+    ],
+    "on": [
+      "りょう"
+    ],
+    "kun": [
+      "てる",
+      "ふたつ"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "全",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 75,
+    "meanings": [
+      "Whole",
+      "Entire",
+      "All",
+      "Complete",
+      "Fulfill"
+    ],
+    "on": [
+      "ぜん"
+    ],
+    "kun": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "向",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 182,
+    "meanings": [
+      "Yonder",
+      "Facing",
+      "Beyond",
+      "Confront",
+      "Defy",
+      "Tend Toward",
+      "Approach"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "曲",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 810,
+    "meanings": [
+      "Bend",
+      "Music",
+      "Melody",
+      "Composition",
+      "Pleasure",
+      "Injustice",
+      "Fault",
+      "Curve",
+      "Crooked",
+      "Perverse",
+      "Lean"
+    ],
+    "on": [
+      "きょく"
+    ],
+    "kun": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "次",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 222,
+    "meanings": [
+      "Next",
+      "Order",
+      "Sequence"
+    ],
+    "on": [
+      "じ",
+      "し"
+    ],
+    "kun": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "争",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 271,
+    "meanings": [
+      "Contend",
+      "Dispute",
+      "Argue"
+    ],
+    "on": [
+      "そう"
+    ],
+    "kun": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "伝",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 416,
+    "meanings": [
+      "Transmit",
+      "Go Along",
+      "Walk Along",
+      "Follow",
+      "Report",
+      "Communicate",
+      "Legend",
+      "Tradition"
+    ],
+    "on": [
+      "でん",
+      "てん"
+    ],
+    "kun": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "共",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 174,
+    "meanings": [
+      "Together",
+      "Both",
+      "Neither",
+      "All",
+      "And",
+      "Alike",
+      "With"
+    ],
+    "on": [
+      "きょう"
+    ],
+    "kun": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "好",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 423,
+    "meanings": [
+      "Fond",
+      "Pleasing",
+      "Like Something"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "成",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 116,
+    "meanings": [
+      "Turn Into",
+      "Become",
+      "Get",
+      "Grow",
+      "Elapse",
+      "Reach"
+    ],
+    "on": [
+      "せい",
+      "じょう"
+    ],
+    "kun": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "老",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 803,
+    "meanings": [
+      "Old Man",
+      "Old Age",
+      "Grow Old"
+    ],
+    "on": [
+      "ろう"
+    ],
+    "kun": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "合",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 41,
+    "meanings": [
+      "Fit",
+      "Suit",
+      "Join",
+      "0.1"
+    ],
+    "on": [
+      "ごう",
+      "がっ",
+      "かっ"
+    ],
+    "kun": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "列",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 927,
+    "meanings": [
+      "File",
+      "Row",
+      "Rank",
+      "Tier",
+      "Column"
+    ],
+    "on": [
+      "れつ",
+      "れ"
+    ],
+    "kun": [],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "式",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 251,
+    "meanings": [
+      "Style",
+      "Ceremony",
+      "Rite",
+      "Function",
+      "Method",
+      "System",
+      "Form",
+      "Expression"
+    ],
+    "on": [
+      "しき"
+    ],
+    "kun": [],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "守",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 457,
+    "meanings": [
+      "Guard",
+      "Protect",
+      "Defend",
+      "Obey"
+    ],
+    "on": [
+      "しゅ",
+      "す"
+    ],
+    "kun": [
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "危",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 606,
+    "meanings": [
+      "Dangerous",
+      "Fear",
+      "Uneasy"
+    ],
+    "on": [
+      "き"
+    ],
+    "kun": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "存",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 577,
+    "meanings": [
+      "Exist",
+      "Suppose",
+      "Be Aware Of",
+      "Believe",
+      "Feel"
+    ],
+    "on": [
+      "そん",
+      "ぞん"
+    ],
+    "kun": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "因",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 636,
+    "meanings": [
+      "Cause",
+      "Factor",
+      "Be Associated With",
+      "Depend On",
+      "Be Limited To"
+    ],
+    "on": [
+      "いん"
+    ],
+    "kun": [
+      "よ.る",
+      "ちな.む"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "忙",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1475,
+    "meanings": [
+      "Busy",
+      "Occupied",
+      "Restless"
+    ],
+    "on": [
+      "ぼう",
+      "もう"
+    ],
+    "kun": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "在",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 211,
+    "meanings": [
+      "Exist",
+      "Outskirts",
+      "Suburbs",
+      "Located In"
+    ],
+    "on": [
+      "ざい"
+    ],
+    "kun": [
+      "あ.る"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "件",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 212,
+    "meanings": [
+      "Affair",
+      "Case",
+      "Matter",
+      "Item"
+    ],
+    "on": [
+      "けん"
+    ],
+    "kun": [
+      "くだん"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "任",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 217,
+    "meanings": [
+      "Responsibility",
+      "Duty",
+      "Term",
+      "Entrust To",
+      "Appoint"
+    ],
+    "on": [
+      "にん"
+    ],
+    "kun": [
+      "まか.せる",
+      "まか.す"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "吸",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1054,
+    "meanings": [
+      "Suck",
+      "Imbibe",
+      "Inhale",
+      "Sip"
+    ],
+    "on": [
+      "きゅう"
+    ],
+    "kun": [
+      "す.う"
+    ],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "宅",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 357,
+    "meanings": [
+      "Home",
+      "House",
+      "Residence",
+      "Our House",
+      "My Husband"
+    ],
+    "on": [
+      "たく"
+    ],
+    "kun": [],
+    "jlpt": 3
+  },
+  {
+    "kanjiName": "竹",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 593,
+    "meanings": [
+      "Bamboo"
+    ],
+    "on": [
+      "ちく"
+    ],
+    "kun": [
+      "たけ"
+    ],
+    "wk_meanings": [
+      "Bamboo"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "糸",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1488,
+    "meanings": [
+      "Thread"
+    ],
+    "on": [
+      "し"
+    ],
+    "kun": [
+      "いと"
+    ],
+    "wk_meanings": [
+      "Thread"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "虫",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1351,
+    "meanings": [
+      "Insect",
+      "Bug",
+      "Temper"
+    ],
+    "on": [
+      "ちゅう",
+      "き"
+    ],
+    "kun": [
+      "むし"
+    ],
+    "wk_meanings": [
+      "Insect",
+      "^Bug"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "池",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 827,
+    "meanings": [
+      "Pond",
+      "Cistern",
+      "Pool",
+      "Reservoir"
+    ],
+    "on": [
+      "ち"
+    ],
+    "kun": [
+      "いけ"
+    ],
+    "wk_meanings": [
+      "Pond"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "羽",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 748,
+    "meanings": [
+      "Feathers",
+      "Counter For Birds, Rabbits"
+    ],
+    "on": [
+      "う"
+    ],
+    "kun": [
+      "は",
+      "わ",
+      "はね"
+    ],
+    "wk_meanings": [
+      "Feather",
+      "^Feathers",
+      "^Wing",
+      "^Wings"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "州",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 386,
+    "meanings": [
+      "State",
+      "Province"
+    ],
+    "on": [
+      "しゅう",
+      "す"
+    ],
+    "kun": [
+      "す"
+    ],
+    "wk_meanings": [
+      "State",
+      "^Province",
+      "^County"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "血",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 832,
+    "meanings": [
+      "Blood"
+    ],
+    "on": [
+      "けつ"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "wk_meanings": [
+      "Blood"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "仲",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 919,
+    "meanings": [
+      "Go-between",
+      "Relationship"
+    ],
+    "on": [
+      "ちゅう"
+    ],
+    "kun": [
+      "なか"
+    ],
+    "wk_meanings": [
+      "Relationship"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "寺",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 879,
+    "meanings": [
+      "Buddhist Temple"
+    ],
+    "on": [
+      "じ"
+    ],
+    "kun": [
+      "てら"
+    ],
+    "wk_meanings": [
+      "Temple"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "宇",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 883,
+    "meanings": [
+      "Eaves",
+      "Roof",
+      "House",
+      "Heaven"
+    ],
+    "on": [
+      "う"
+    ],
+    "kun": [],
+    "wk_meanings": [
+      "Outer Space"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "団",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 213,
+    "meanings": [
+      "Group",
+      "Association"
+    ],
+    "on": [
+      "だん",
+      "とん"
+    ],
+    "kun": [
+      "かたまり",
+      "まる.い"
+    ],
+    "wk_meanings": [
+      "Group"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "各",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 243,
+    "meanings": [
+      "Each",
+      "Every",
+      "Either"
+    ],
+    "on": [
+      "かく"
+    ],
+    "kun": [
+      "おのおの"
+    ],
+    "wk_meanings": [
+      "Each"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "印",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 682,
+    "meanings": [
+      "Stamp",
+      "Seal",
+      "Mark",
+      "Imprint",
+      "Symbol",
+      "Emblem",
+      "Trademark",
+      "Evidence",
+      "Souvenir",
+      "India"
+    ],
+    "on": [
+      "いん"
+    ],
+    "kun": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "wk_meanings": [
+      "Seal",
+      "^Mark"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "汗",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1502,
+    "meanings": [
+      "Sweat",
+      "Perspire"
+    ],
+    "on": [
+      "かん"
+    ],
+    "kun": [
+      "あせ"
+    ],
+    "wk_meanings": [
+      "Sweat"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "再",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 275,
+    "meanings": [
+      "Again",
+      "Twice",
+      "Second Time"
+    ],
+    "on": [
+      "さい",
+      "さ"
+    ],
+    "kun": [
+      "ふたた.び"
+    ],
+    "wk_meanings": [
+      "Again"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "汚",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 908,
+    "meanings": [
+      "Dirty",
+      "Pollute",
+      "Disgrace",
+      "Rape",
+      "Defile"
+    ],
+    "on": [
+      "お"
+    ],
+    "kun": [
+      "けが.す",
+      "けが.れる",
+      "けが.らわしい",
+      "よご.す",
+      "よご.れる",
+      "きたな.い"
+    ],
+    "wk_meanings": [
+      "Dirty"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "机",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1671,
+    "meanings": [
+      "Desk",
+      "Table"
+    ],
+    "on": [
+      "き"
+    ],
+    "kun": [
+      "つくえ"
+    ],
+    "wk_meanings": [
+      "Desk"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "灰",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1717,
+    "meanings": [
+      "Ashes",
+      "Puckery Juice",
+      "Cremate"
+    ],
+    "on": [
+      "かい"
+    ],
+    "kun": [
+      "はい"
+    ],
+    "wk_meanings": [
+      "Ashes"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "兆",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1174,
+    "meanings": [
+      "Portent",
+      "10**12",
+      "Trillion",
+      "Sign",
+      "Omen",
+      "Symptoms"
+    ],
+    "on": [
+      "ちょう"
+    ],
+    "kun": [
+      "きざ.す",
+      "きざ.し"
+    ],
+    "wk_meanings": [
+      "Omen"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "衣",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1214,
+    "meanings": [
+      "Garment",
+      "Clothes",
+      "Dressing"
+    ],
+    "on": [
+      "い",
+      "え"
+    ],
+    "kun": [
+      "ころも",
+      "きぬ",
+      "-ぎ"
+    ],
+    "wk_meanings": [
+      "Clothes"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "叫",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1426,
+    "meanings": [
+      "Shout",
+      "Exclaim",
+      "Yell"
+    ],
+    "on": [
+      "きょう"
+    ],
+    "kun": [
+      "さけ.ぶ"
+    ],
+    "wk_meanings": [
+      "Shout"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "缶",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1543,
+    "meanings": [
+      "Tin Can",
+      "Container",
+      "Jar Radical (no. 121)"
+    ],
+    "on": [
+      "かん"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "wk_meanings": [
+      "Can",
+      "^Tin Can"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "肌",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1559,
+    "meanings": [
+      "Texture",
+      "Skin",
+      "Body",
+      "Grain"
+    ],
+    "on": [
+      "き"
+    ],
+    "kun": [
+      "はだ"
+    ],
+    "wk_meanings": [
+      "Skin"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "舟",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1786,
+    "meanings": [
+      "Boat",
+      "Ship"
+    ],
+    "on": [
+      "しゅう"
+    ],
+    "kun": [
+      "ふね",
+      "ふな-",
+      "-ぶね"
+    ],
+    "wk_meanings": [
+      "Boat"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "灯",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 1605,
+    "meanings": [
+      "Lamp",
+      "A Light",
+      "Light",
+      "Counter For Lights"
+    ],
+    "on": [
+      "とう"
+    ],
+    "kun": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "wk_meanings": [
+      "Lamp"
+    ],
+    "jlpt": 2
+  },
+  {
+    "kanjiName": "羊",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 1852,
+    "meanings": [
+      "Sheep"
+    ],
+    "on": [
+      "よう"
+    ],
+    "kun": [
+      "ひつじ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "仮",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 1039,
+    "meanings": [
+      "Sham",
+      "Temporary",
+      "Interim",
+      "Assumed (name)",
+      "Informal"
+    ],
+    "on": [
+      "か",
+      "け"
+    ],
+    "kun": [
+      "かり",
+      "かり-"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "舌",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 1830,
+    "meanings": [
+      "Tongue",
+      "Reed",
+      "Clapper"
+    ],
+    "on": [
+      "ぜつ"
+    ],
+    "kun": [
+      "した"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "企",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 278,
+    "meanings": [
+      "Undertake",
+      "Scheme",
+      "Design",
+      "Attempt",
+      "Plan"
+    ],
+    "on": [
+      "き"
+    ],
+    "kun": [
+      "くわだ.てる",
+      "たくら.む"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "江",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 704,
+    "meanings": [
+      "Creek",
+      "Inlet",
+      "Bay"
+    ],
+    "on": [
+      "こう"
+    ],
+    "kun": [
+      "え"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "吐",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1674,
+    "meanings": [
+      "Spit",
+      "Vomit",
+      "Belch",
+      "Confess",
+      "Tell (lies)"
+    ],
+    "on": [
+      "と"
+    ],
+    "kun": [
+      "は.く",
+      "つ.く"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "芋",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 2418,
+    "meanings": [
+      "Potato"
+    ],
+    "on": [
+      "う"
+    ],
+    "kun": [
+      "いも"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "伎",
+    "strokes": 6,
+    "grade": 8,
+    "freq": null,
+    "meanings": [
+      "Deed",
+      "Skill"
+    ],
+    "on": [
+      "ぎ",
+      "き"
+    ],
+    "kun": [
+      "わざ",
+      "わざおぎ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "刑",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 864,
+    "meanings": [
+      "Punish",
+      "Penalty",
+      "Sentence",
+      "Punishment"
+    ],
+    "on": [
+      "けい"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "旬",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1162,
+    "meanings": [
+      "Decameron",
+      "Ten-day Period",
+      "Season (for Specific Products)"
+    ],
+    "on": [
+      "じゅん",
+      "しゅん"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "扱",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1057,
+    "meanings": [
+      "Handle",
+      "Entertain",
+      "Thresh",
+      "Strip"
+    ],
+    "on": [
+      "そう",
+      "きゅう"
+    ],
+    "kun": [
+      "あつか.い",
+      "あつか.う",
+      "あつか.る",
+      "こ.く"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "充",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 949,
+    "meanings": [
+      "Allot",
+      "Fill"
+    ],
+    "on": [
+      "じゅう"
+    ],
+    "kun": [
+      "あ.てる",
+      "み.たす"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "巡",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1262,
+    "meanings": [
+      "Patrol",
+      "Go Around",
+      "Circumference"
+    ],
+    "on": [
+      "じゅん"
+    ],
+    "kun": [
+      "めぐ.る",
+      "めぐ.り"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "至",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 996,
+    "meanings": [
+      "Climax",
+      "Arrive",
+      "Proceed",
+      "Reach",
+      "Attain",
+      "Result In"
+    ],
+    "on": [
+      "し"
+    ],
+    "kun": [
+      "いた.る"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "芝",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1052,
+    "meanings": [
+      "Turf",
+      "Lawn"
+    ],
+    "on": [
+      "し"
+    ],
+    "kun": [
+      "しば"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "旨",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1166,
+    "meanings": [
+      "Delicious",
+      "Relish",
+      "Show A Liking For",
+      "Purport",
+      "Will",
+      "Clever",
+      "Expert"
+    ],
+    "on": [
+      "し"
+    ],
+    "kun": [
+      "むね",
+      "うま.い"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "吉",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 711,
+    "meanings": [
+      "Good Luck",
+      "Joy",
+      "Congratulations"
+    ],
+    "on": [
+      "きち",
+      "きつ"
+    ],
+    "kun": [
+      "よし"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "朱",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1788,
+    "meanings": [
+      "Vermilion",
+      "Cinnabar",
+      "Scarlet",
+      "Red",
+      "Bloody"
+    ],
+    "on": [
+      "しゅ"
+    ],
+    "kun": [
+      "あけ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "庄",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 1693,
+    "meanings": [
+      "Level",
+      "In The Country",
+      "Manor",
+      "Village",
+      "Hamlet"
+    ],
+    "on": [
+      "しょう",
+      "そ",
+      "そう",
+      "ほう"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "伊",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 703,
+    "meanings": [
+      "Italy",
+      "That One"
+    ],
+    "on": [
+      "い"
+    ],
+    "kun": [
+      "かれ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "如",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1704,
+    "meanings": [
+      "Likeness",
+      "Like",
+      "Such As",
+      "As If",
+      "Better",
+      "Best",
+      "Equal"
+    ],
+    "on": [
+      "じょ",
+      "にょ"
+    ],
+    "kun": [
+      "ごと.し"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "迅",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1888,
+    "meanings": [
+      "Swift",
+      "Fast"
+    ],
+    "on": [
+      "じん"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "尽",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1234,
+    "meanings": [
+      "Exhaust",
+      "Use Up",
+      "Run Out Of",
+      "Deplete",
+      "Befriend",
+      "Serve"
+    ],
+    "on": [
+      "じん",
+      "さん"
+    ],
+    "kun": [
+      "つ.くす",
+      "-つ.くす",
+      "-づ.くし",
+      "-つ.く",
+      "-づ.く",
+      "-ず.く",
+      "つ.きる",
+      "つ.かす",
+      "さかづき",
+      "ことごと.く",
+      "つか",
+      "つき"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "劣",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1620,
+    "meanings": [
+      "Inferiority",
+      "Be Inferior To",
+      "Be Worse"
+    ],
+    "on": [
+      "れつ"
+    ],
+    "kun": [
+      "おと.る"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "妃",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1752,
+    "meanings": [
+      "Queen",
+      "Princess"
+    ],
+    "on": [
+      "ひ"
+    ],
+    "kun": [
+      "きさき"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "后",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1583,
+    "meanings": [
+      "Empress",
+      "Queen",
+      "After",
+      "Behind",
+      "Back",
+      "Later"
+    ],
+    "on": [
+      "こう",
+      "ご"
+    ],
+    "kun": [
+      "きさき"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "仰",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1573,
+    "meanings": [
+      "Face-up",
+      "Look Up",
+      "Depend",
+      "Seek",
+      "Respect",
+      "Rever",
+      "Drink",
+      "Take"
+    ],
+    "on": [
+      "ぎょう",
+      "こう"
+    ],
+    "kun": [
+      "あお.ぐ",
+      "おお.せ",
+      "お.っしゃる",
+      "おっしゃ.る"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "壮",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1657,
+    "meanings": [
+      "Robust",
+      "Manhood",
+      "Prosperity"
+    ],
+    "on": [
+      "そう"
+    ],
+    "kun": [
+      "さかん"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "伏",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1604,
+    "meanings": [
+      "Prostrated",
+      "Bend Down",
+      "Bow",
+      "Cover",
+      "Lay (pipes)"
+    ],
+    "on": [
+      "ふく"
+    ],
+    "kun": [
+      "ふ.せる",
+      "ふ.す"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "朴",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1626,
+    "meanings": [
+      "Crude",
+      "Simple",
+      "Plain",
+      "Docile"
+    ],
+    "on": [
+      "ぼく"
+    ],
+    "kun": [
+      "ほう",
+      "ほお",
+      "えのき"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "匠",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1718,
+    "meanings": [
+      "Artisan",
+      "Workman",
+      "Carpenter"
+    ],
+    "on": [
+      "しょう"
+    ],
+    "kun": [
+      "たくみ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "伐",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1816,
+    "meanings": [
+      "Fell",
+      "Strike",
+      "Attack",
+      "Punish"
+    ],
+    "on": [
+      "ばつ",
+      "はつ",
+      "か",
+      "ぼち"
+    ],
+    "kun": [
+      "き.る",
+      "そむ.く",
+      "う.つ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "朽",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1891,
+    "meanings": [
+      "Decay",
+      "Rot",
+      "Remain In Seclusion"
+    ],
+    "on": [
+      "きゅう"
+    ],
+    "kun": [
+      "く.ちる"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "帆",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1923,
+    "meanings": [
+      "Sail"
+    ],
+    "on": [
+      "はん"
+    ],
+    "kun": [
+      "ほ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "妄",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 2264,
+    "meanings": [
+      "Delusion",
+      "Unnecessarily",
+      "Without Authority",
+      "Reckless"
+    ],
+    "on": [
+      "もう",
+      "ぼう"
+    ],
+    "kun": [
+      "みだ.りに"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "旭",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 1417,
+    "meanings": [
+      "Rising Sun",
+      "Morning Sun"
+    ],
+    "on": [
+      "きょく"
+    ],
+    "kun": [
+      "あさひ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "亥",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "meanings": [
+      "Sign Of The Hog",
+      "9-11pm",
+      "Twelfth Sign Of The Chinese Zodiac"
+    ],
+    "on": [
+      "がい",
+      "かい"
+    ],
+    "kun": [
+      "い"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "匡",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 2176,
+    "meanings": [
+      "Correct",
+      "Save",
+      "Assist"
+    ],
+    "on": [
+      "きょう",
+      "おう"
+    ],
+    "kun": [
+      "すく.う"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "圭",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 1837,
+    "meanings": [
+      "Square Jewel",
+      "Corner",
+      "Angle",
+      "Edge"
+    ],
+    "on": [
+      "けい",
+      "け"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "伍",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 1881,
+    "meanings": [
+      "Five",
+      "Five-man Squad",
+      "File",
+      "Line"
+    ],
+    "on": [
+      "ご"
+    ],
+    "kun": [
+      "いつつ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "汐",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 2314,
+    "meanings": [
+      "Eventide",
+      "Tide",
+      "Salt Water",
+      "Opportunity"
+    ],
+    "on": [
+      "せき"
+    ],
+    "kun": [
+      "しお",
+      "うしお",
+      "せい"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "丞",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "meanings": [
+      "Help"
+    ],
+    "on": [
+      "じょう",
+      "しょう"
+    ],
+    "kun": [
+      "すく.う",
+      "たす.ける"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "凪",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "meanings": [
+      "Lull",
+      "Calm",
+      "(kokuji)"
+    ],
+    "on": [],
+    "kun": [
+      "なぎ",
+      "な.ぐ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "弐",
+    "strokes": 6,
+    "grade": 8,
+    "freq": null,
+    "meanings": [
+      "Ii",
+      "Two",
+      "Second"
+    ],
+    "on": [
+      "に",
+      "じ"
+    ],
+    "kun": [
+      "ふた.つ",
+      "そえ"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "亦",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "meanings": [
+      "Also",
+      "Again"
+    ],
+    "on": [
+      "えき",
+      "やく"
+    ],
+    "kun": [
+      "また"
+    ],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "吏",
+    "strokes": 6,
+    "grade": 8,
+    "freq": null,
+    "meanings": [
+      "Officer",
+      "An Official"
+    ],
+    "on": [
+      "り"
+    ],
+    "kun": [],
+    "jlpt": 1
+  },
+  {
+    "kanjiName": "亘",
+    "strokes": 6,
+    "grade": 9,
+    "freq": 1728,
+    "meanings": [
+      "Span",
+      "Range",
+      "Extend Over"
+    ],
+    "on": [
+      "こう",
+      "かん",
+      "せん"
+    ],
+    "kun": [
+      "わた.る",
+      "もと.める"
+    ],
+    "jlpt": 1
+  }
+]

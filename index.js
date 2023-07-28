@@ -6,27 +6,32 @@ function readJsonFile(filePath) {
   return JSON.parse(rawData);
 }
 
-// Function to merge the contents of multiple JSON files into a single array
-function mergeJsonFiles(filePaths) {
-  let mergedData = [];
-  for (const filePath of filePaths) {
-    const jsonData = readJsonFile(filePath);
-    mergedData = [...mergedData, ...jsonData];
-  }
-  return mergedData;
+// Function to find all unique strokes in the data
+function findUniqueStrokes(data) {
+  const uniqueStrokes = new Set();
+  data.forEach((kanji) => uniqueStrokes.add(kanji.strokes));
+  return Array.from(uniqueStrokes);
 }
 
-// File paths of the JSON files to merge
-const filePaths = [
-  'jlpt5.json',
-  'jlpt4.json',
-  'jlpt3.json',
-  'jlpt2.json',
-  'jlpt1.json',
-];
+// Function to filter kanji based on the number of strokes
+function filterKanjiByStrokes(data, strokes) {
+  return data.filter((kanji) => kanji.strokes === strokes);
+}
 
-// Merging the JSON files
-const mergedData = mergeJsonFiles(filePaths);
+// File path of the JSON file containing kanji data
+const filePath = 'kanjiAll.json';
+
+// Reading the JSON file
+const jsonData = readJsonFile(filePath);
+
+// Finding all unique strokes in the data
+const uniqueStrokes = findUniqueStrokes(jsonData);
+
+// Filter kanji for each unique stroke count and store them in an object
+const filteredKanjiByStrokes = {};
+uniqueStrokes.forEach((strokes) => {
+  filteredKanjiByStrokes[strokes] = filterKanjiByStrokes(jsonData, strokes);
+});
 
 // Function to write data to a new JSON file
 function writeJsonFile(filePath, data) {
@@ -34,12 +39,11 @@ function writeJsonFile(filePath, data) {
   fs.writeFileSync(filePath, jsonData);
 }
 
-// Writing the merged data to a new file
-const outputFile = 'merged_jlpt_data.json';
-writeJsonFile(outputFile, mergedData);
-
-console.log('Merging and writing completed.');
-
-// app.listen(port, () => {
-//   return addLine();
-// });
+// Writing the filtered kanji data to new files for each unique stroke count
+Object.keys(filteredKanjiByStrokes).forEach((strokes) => {
+  const outputFile = `strokes${strokes}.json`;
+  writeJsonFile(outputFile, filteredKanjiByStrokes[strokes]);
+  console.log(
+    `Kanji with ${strokes} strokes filtered and written to ${outputFile}.`
+  );
+});
