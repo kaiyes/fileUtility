@@ -1,49 +1,77 @@
 const fs = require('fs');
 
-// Function to read the contents of a JSON file and parse it
-function readJsonFile(filePath) {
-  const rawData = fs.readFileSync(filePath);
-  return JSON.parse(rawData);
-}
+// Read the JSON data from the file
+fs.readFile('kanji_data.json', 'utf8', (err, data) => {
+  if (err) {
+    console.error('Error reading the file:', err);
+    return;
+  }
 
-// Function to find all unique strokes in the data
-function findUniqueStrokes(data) {
-  const uniqueStrokes = new Set();
-  data.forEach((kanji) => uniqueStrokes.add(kanji.strokes));
-  return Array.from(uniqueStrokes);
-}
+  // Parse the JSON data
+  const jsonData = JSON.parse(data);
 
-// Function to filter kanji based on the number of strokes
-function filterKanjiByStrokes(data, strokes) {
-  return data.filter((kanji) => kanji.strokes === strokes);
-}
+  // Calculate the number of keys
+  const keys = Object.keys(jsonData);
+  const numParts = 10;
+  const chunkSize = Math.ceil(keys.length / numParts);
 
-// File path of the JSON file containing kanji data
-const filePath = 'kanjiAll.json';
+  // Divide the keys into chunks sequentially
+  const dividedParts = Array.from({ length: numParts }, (_, index) =>
+    keys.slice(index * chunkSize, (index + 1) * chunkSize)
+  );
 
-// Reading the JSON file
-const jsonData = readJsonFile(filePath);
+  // Object to store the divided parts
+  const dividedObject = {};
 
-// Finding all unique strokes in the data
-const uniqueStrokes = findUniqueStrokes(jsonData);
+  // Create ten parts sequentially and store them in the dividedObject
+  dividedParts.forEach((partKeys, index) => {
+    dividedObject[`part${index + 1}`] = {};
 
-// Filter kanji for each unique stroke count and store them in an object
-const filteredKanjiByStrokes = {};
-uniqueStrokes.forEach((strokes) => {
-  filteredKanjiByStrokes[strokes] = filterKanjiByStrokes(jsonData, strokes);
-});
+    partKeys.forEach((key) => {
+      dividedObject[`part${index + 1}`][key] = jsonData[key].map(
+        (item) => item.kan
+      );
+    });
+  });
 
-// Function to write data to a new JSON file
-function writeJsonFile(filePath, data) {
-  const jsonData = JSON.stringify(data, null, 2);
-  fs.writeFileSync(filePath, jsonData);
-}
-
-// Writing the filtered kanji data to new files for each unique stroke count
-Object.keys(filteredKanjiByStrokes).forEach((strokes) => {
-  const outputFile = `strokes${strokes}.json`;
-  writeJsonFile(outputFile, filteredKanjiByStrokes[strokes]);
-  console.log(
-    `Kanji with ${strokes} strokes filtered and written to ${outputFile}.`
+  // Write the divided object to a file
+  fs.writeFile(
+    'divided_kanji_data.json',
+    JSON.stringify(dividedObject),
+    'utf8',
+    (err) => {
+      if (err) {
+        console.error('Error writing to file:', err);
+        return;
+      }
+      console.log(
+        keys.length,
+        keys,
+        'Data has been written to divided_kanji_data.json'
+      );
+    }
   );
 });
+
+// const fs = require('fs');
+//
+// // Function to read and process the JSON file
+// function processFile(filePath) {
+//   fs.readFile(filePath, 'utf8', (err, data) => {
+//     if (err) {
+//       console.error('Error reading file:', err);
+//       return;
+//     }
+//
+//     try {
+//       const json = JSON.parse(data);
+//       const kanjiNames = json['5'].map((item) => item.kanjiName);
+//       console.log(kanjiNames);
+//     } catch (parseErr) {
+//       console.error('Error parsing JSON:', parseErr);
+//     }
+//   });
+// }
+//
+// // Replace 'yourfile.json' with the path to your JSON file
+// processFile('./jlptAll.json');
