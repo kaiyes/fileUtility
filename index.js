@@ -1,59 +1,3 @@
-// const fs = require('fs');
-//
-// // Read the JSON data from the file
-// fs.readFile('kanji_data.json', 'utf8', (err, data) => {
-//   if (err) {
-//     console.error('Error reading the file:', err);
-//     return;
-//   }
-//
-//   // Parse the JSON data
-//   const jsonData = JSON.parse(data);
-//
-//   // Calculate the number of keys
-//   const keys = Object.keys(jsonData);
-//   const numParts = 10;
-//   const chunkSize = Math.ceil(keys.length / numParts);
-//
-//   // Divide the keys into chunks sequentially
-//   const dividedParts = Array.from({ length: numParts }, (_, index) =>
-//     keys.slice(index * chunkSize, (index + 1) * chunkSize)
-//   );
-//
-//   // Object to store the divided parts
-//   const dividedObject = {};
-//
-//   // Create ten parts sequentially and store them in the dividedObject
-//   dividedParts.forEach((partKeys, index) => {
-//     dividedObject[`part${index + 1}`] = {};
-//
-//     partKeys.forEach((key) => {
-//       dividedObject[`part${index + 1}`][key] = jsonData[key].map(
-//         (item) => item.kan
-//       );
-//     });
-//   });
-//
-//   // Write the divided object to a file
-//   fs.writeFile(
-//     'divided_kanji_data.json',
-//     JSON.stringify(dividedObject),
-//     'utf8',
-//     (err) => {
-//       if (err) {
-//         console.error('Error writing to file:', err);
-//         return;
-//       }
-//       console.log(
-//         keys.length,
-//         keys,
-//         'Data has been written to divided_kanji_data.json'
-//       );
-//     }
-//   );
-// });
-//
-
 const fs = require('fs');
 
 // Function to read and process the JSON file
@@ -66,8 +10,38 @@ function processFile(filePath) {
 
     try {
       const json = JSON.parse(data);
-      const kanjiNames = json['5'].map((item) => item.kanjiName);
-      console.log(kanjiNames);
+      const kanjiNames1 = json['1'].map(item => item.kanjiName);
+      const kanjiNames2 = json['2'].map(item => item.kanjiName);
+      const kanjiNames3 = json['3'].map(item => item.kanjiName);
+      const kanjiNames4 = json['4'].map(item => item.kanjiName);
+      const kanjiNames5 = json['5'].map(item => item.kanjiName);
+
+      console.log(
+        kanjiNames1.length,
+        kanjiNames2.length,
+        kanjiNames3.length,
+        kanjiNames4.length,
+        kanjiNames5.length
+      );
+
+      //const lastKanjiNames = kanjiNames4.slice(-67);
+      // console.log(lastKanjiNames);
+
+      // Create a new JSON object with the extracted information
+      const resultJson = kanjiNames1;
+
+      // Write the result to a new JSON file
+      fs.writeFile(
+        './jlpt1.json',
+        JSON.stringify(resultJson, null, 2),
+        writeErr => {
+          if (writeErr) {
+            console.error('Error writing result to file:', writeErr);
+          } else {
+            console.log('Result written to jlpt1.json');
+          }
+        }
+      );
     } catch (parseErr) {
       console.error('Error parsing JSON:', parseErr);
     }
