@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Read the JSON file
-const jsonData = fs.readFileSync('./jlpt5UsedInArrayPrevious.json', 'utf8');
+const jsonData = fs.readFileSync('jlpt5Array.json', 'utf8');
 const data = JSON.parse(jsonData);
 
 // Create an empty object to store grouped data
@@ -20,6 +20,6 @@ data.forEach(obj => {
 });
 
 // Write the grouped data to a new JSON file
-fs.writeFileSync('grouped_data.json', JSON.stringify(groupedData, null, 2));
+fs.writeFileSync('grouped_JLPT_5.json', JSON.stringify(groupedData, null, 2));
 
 console.log('Grouping completed. Check grouped_data.json');

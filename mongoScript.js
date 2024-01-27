@@ -37,10 +37,7 @@ const getJapaneseWords = async kanjis => {
     }
 
     // Write data to a JSON file
-    await fs.writeFile(
-      'jlpt1UsedIn.json',
-      JSON.stringify(dataToWrite, null, 2)
-    );
+    await fs.writeFile('llama13_jlpt5.json', JSON.stringify(dataToWrite, null, 2));
     console.log('Data written to json successfully.');
   } catch (error) {
     console.error('Error making local API request to Ollama:', error.message);
