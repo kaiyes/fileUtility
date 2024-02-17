@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"圭\"",
+        "strokes": 6,
+        "main_meanings": [
+            "square jewel",
+            "corner",
+            "angle",
+            "edge"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ケイ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1052": "Classic Nelson (Andrew Nelson)",
+                "1928": "Essential Kanji (P.G. O’Neill)",
+                "267": "Japanese Names (P.G. O’Neill)",
+                "2042": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2688": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1368": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1854": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "157": "Les Kanjis dans la tete (Yves Maniette)",
+                "4887": "Morohashi",
+                "2165": "New Japanese English Character Dictionary (Jack Halpern)",
+                "973": "New Nelson (John Haig)",
+                "155": "Remembering The Kanji (James Heisig)",
+                "167": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3b3.2": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "4-5-2": "SKIP code",
+                "4010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-29": "JIS X 0208-1997 kuten code",
+                "572d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 きよ、 たま、 よし、 かど、 きよし"
+                ],
+                "chinese": [
+                    "gui1"
+                ],
+                "korean": [
+                    "gyu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "土"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "圭角",
+                    "reading": "ケイカク",
+                    "meanings": [
+                        "rough edges (of one's character",
+                        "words",
+                        "etc.)",
+                        "abrasiveness",
+                        "harshness",
+                        "sharpness",
+                        "edges (of a gem)"
+                    ]
+                },
+                {
+                    "kanji": "圭璧",
+                    "reading": "ケイヘキ",
+                    "meanings": [
+                        "ritual jades worn by feudal lords in ancient China"
+                    ]
+                },
+                {
+                    "kanji": "刀圭",
+                    "reading": "トウケイ",
+                    "meanings": [
+                        "doctor"
+                    ]
+                },
+                {
+                    "kanji": "尖形",
+                    "reading": "センケイ",
+                    "meanings": [
+                        "pointed",
+                        "pointy",
+                        "acuminate"
+                    ]
+                },
+                {
+                    "kanji": "圭角",
+                    "reading": "ケイカク",
+                    "meanings": [
+                        "rough edges (of one's character",
+                        "words",
+                        "etc.)",
+                        "abrasiveness",
+                        "harshness",
+                        "sharpness",
+                        "edges (of a gem)"
+                    ]
+                },
+                {
+                    "kanji": "圭璧",
+                    "reading": "ケイヘキ",
+                    "meanings": [
+                        "ritual jades worn by feudal lords in ancient China"
+                    ]
+                }
+            ]
+        }
+    }
+}

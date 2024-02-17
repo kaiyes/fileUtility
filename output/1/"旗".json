@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"旗\"",
+        "strokes": 14,
+        "main_meanings": [
+            "national flag",
+            "banner",
+            "standard"
+        ],
+        "main_readings": {
+            "kun": [
+                "はた"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "371": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "474": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "451": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1174": "A New Dictionary of Kanji Usage",
+                "2093": "Japanese Names (P.G. O’Neill)",
+                "601": "Essential Kanji (P.G. O’Neill)",
+                "1401": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1006": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1043": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1528": "Kanji in Context (Nishiguchi and Kono)",
+                "962": "Kodansha Compact Kanji Guide",
+                "1321": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "716": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "958": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1780": "Les Kanjis dans la tete (Yves Maniette)",
+                "13687": "Morohashi",
+                "1047": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2402": "New Nelson (John Haig)",
+                "1764": "Remembering The Kanji (James Heisig)",
+                "1901": "Remembering The Kanji, 6th edition (James Heisig)",
+                "615": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "461": "2001 Kanji",
+                "4h10.1": "The Kanji Dictionary",
+                "1-4-10": "SKIP code",
+                "0828.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-90": "JIS X 0208-1997 kuten code",
+                "65d7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qi2"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "square",
+            "parts": [
+                "ハ",
+                "方",
+                "甘",
+                "乞"
+            ],
+            "basis": "方",
+            "kangxi_order": 70,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "旗",
+                    "reading": "はた",
+                    "meanings": [
+                        "flag",
+                        "pataka (banner)",
+                        "banner (administrative division of Inner Mongolia)"
+                    ]
+                },
+                {
+                    "kanji": "旗揚げ",
+                    "reading": "はたあげ",
+                    "meanings": [
+                        "raising an army",
+                        "raising a banner",
+                        "launching a new group",
+                        "launching a business",
+                        "launching a new party"
+                    ]
+                },
+                {
+                    "kanji": "白旗",
+                    "reading": "しらはた",
+                    "meanings": [
+                        "white flag",
+                        "truce flag",
+                        "surrender flag"
+                    ]
+                },
+                {
+                    "kanji": "大会旗",
+                    "reading": "たいかいはた",
+                    "meanings": [
+                        "tournament flag"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "旗手",
+                    "reading": "キシュ",
+                    "meanings": [
+                        "standard-bearer",
+                        "flag-bearer"
+                    ]
+                },
+                {
+                    "kanji": "旗色",
+                    "reading": "ハタイロ",
+                    "meanings": [
+                        "situation",
+                        "outlook",
+                        "one's allegiance",
+                        "affiliation",
+                        "position"
+                    ]
+                },
+                {
+                    "kanji": "日章旗",
+                    "reading": "ニッショウキ",
+                    "meanings": [
+                        "the Japanese (rising sun) flag"
+                    ]
+                },
+                {
+                    "kanji": "校旗",
+                    "reading": "コウキ",
+                    "meanings": [
+                        "school flag"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肺\"",
+        "strokes": 9,
+        "main_meanings": [
+            "lungs"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ハイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "968": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "958": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1778": "A New Dictionary of Kanji Usage",
+                "3752": "Classic Nelson (Andrew Nelson)",
+                "943": "Essential Kanji (P.G. O’Neill)",
+                "1670": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1277": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1351": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1343": "Kanji in Context (Nishiguchi and Kono)",
+                "1028": "Kodansha Compact Kanji Guide",
+                "1147": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "619": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "825": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "421": "Les Kanjis dans la tete (Yves Maniette)",
+                "29422P": "Morohashi",
+                "916": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4791": "New Nelson (John Haig)",
+                "414": "Remembering The Kanji (James Heisig)",
+                "443": "Remembering The Kanji, 6th edition (James Heisig)",
+                "894": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3944": "2001 Kanji",
+                "4b5.9": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "7022.7": "Four corner code",
+                "7522.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-57": "JIS X 0208-1997 kuten code",
+                "80ba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fei4"
+                ],
+                "korean": [
+                    "pye",
+                    "pae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "亠",
+                "巾",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "肺",
+                    "reading": "ハイ",
+                    "meanings": [
+                        "lung"
+                    ]
+                },
+                {
+                    "kanji": "肺炎",
+                    "reading": "ハイエン",
+                    "meanings": [
+                        "pneumonia"
+                    ]
+                },
+                {
+                    "kanji": "珪肺",
+                    "reading": "ケイハイ",
+                    "meanings": [
+                        "silicosis"
+                    ]
+                },
+                {
+                    "kanji": "人工肺",
+                    "reading": "ジンコウハイ",
+                    "meanings": [
+                        "artificial lung"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"希\"",
+        "strokes": 7,
+        "main_meanings": [
+            "hope",
+            "beg",
+            "request",
+            "pray",
+            "beseech",
+            "Greece",
+            "dilute (acid)",
+            "rare",
+            "few",
+            "phenomenal"
+        ],
+        "main_readings": {
+            "kun": [
+                "まれ",
+                "こいねが.う"
+            ],
+            "on": [
+                "キ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "575": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "470": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "447": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "798": "A New Dictionary of Kanji Usage",
+                "1470": "Classic Nelson (Andrew Nelson)",
+                "823": "Essential Kanji (P.G. O’Neill)",
+                "495": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "445": "Japanese Names (P.G. O’Neill)",
+                "676": "Kanji and Kana (Spahn and Hadamitzky)",
+                "689": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "888": "Kanji in Context (Nishiguchi and Kono)",
+                "559": "Kodansha Compact Kanji Guide",
+                "2543": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1294": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1763": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1501": "Les Kanjis dans la tete (Yves Maniette)",
+                "8813": "Morohashi",
+                "2049": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1553": "New Nelson (John Haig)",
+                "1489": "Remembering The Kanji (James Heisig)",
+                "1602": "Remembering The Kanji, 6th edition (James Heisig)",
+                "477": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2944": "2001 Kanji",
+                "3f4.1": "The Kanji Dictionary",
+                "2-2-5": "SKIP code",
+                "4-7-4": "SKIP code",
+                "3-4-3": "SKIP code",
+                "4022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-85": "JIS X 0208-1997 kuten code",
+                "5e0c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぞ、 のぞみ"
+                ],
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "一",
+                "ノ",
+                "巾"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "稀",
+                    "reading": "まれ",
+                    "meanings": [
+                        "rare",
+                        "seldom"
+                    ]
+                },
+                {
+                    "kanji": "稀に見る",
+                    "reading": "まれにみる",
+                    "meanings": [
+                        "rare",
+                        "extraordinary",
+                        "singular"
+                    ]
+                },
+                {
+                    "kanji": "類まれ",
+                    "reading": "たぐいまれ",
+                    "meanings": [
+                        "rare",
+                        "exceptional",
+                        "extraordinary",
+                        "unique",
+                        "incomparable",
+                        "unparalleled",
+                        "matchless"
+                    ]
+                },
+                {
+                    "kanji": "ごく稀",
+                    "reading": "ごくまれ",
+                    "meanings": [
+                        "extremely rare"
+                    ]
+                },
+                {
+                    "kanji": "希う",
+                    "reading": "こいねがう",
+                    "meanings": [
+                        "to beg",
+                        "to request",
+                        "to beseech",
+                        "to implore",
+                        "to entreat"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "希",
+                    "reading": "キ",
+                    "meanings": [
+                        "dilute",
+                        "rare",
+                        "Greece"
+                    ]
+                },
+                {
+                    "kanji": "希少",
+                    "reading": "キショウ",
+                    "meanings": [
+                        "scarce",
+                        "rare"
+                    ]
+                },
+                {
+                    "kanji": "古希",
+                    "reading": "コキ",
+                    "meanings": [
+                        "70th birthday",
+                        "ancient Greek (language)"
+                    ]
+                },
+                {
+                    "kanji": "七十古希",
+                    "reading": "シチジュウコキ",
+                    "meanings": [
+                        "men seldom live to be seventy",
+                        "few people live to be seventy"
+                    ]
+                },
+                {
+                    "kanji": "希有",
+                    "reading": "ケウ",
+                    "meanings": [
+                        "rare",
+                        "uncommon"
+                    ]
+                }
+            ]
+        }
+    }
+}

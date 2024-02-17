@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"丹\"",
+        "strokes": 4,
+        "main_meanings": [
+            "rust-colored",
+            "red",
+            "red lead",
+            "pills",
+            "sincerity"
+        ],
+        "main_readings": {
+            "kun": [
+                "に"
+            ],
+            "on": [
+                "タン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1563": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1263": "A New Dictionary of Kanji Usage",
+                "163": "Classic Nelson (Andrew Nelson)",
+                "1852": "Essential Kanji (P.G. O’Neill)",
+                "1028": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "79": "Japanese Names (P.G. O’Neill)",
+                "1093": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1144": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1813": "Kanji in Context (Nishiguchi and Kono)",
+                "18": "Kodansha Compact Kanji Guide",
+                "4249": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2147": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2897": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2058": "Les Kanjis dans la tete (Yves Maniette)",
+                "99": "Morohashi",
+                "3441": "New Japanese English Character Dictionary (Jack Halpern)",
+                "36": "New Nelson (John Haig)",
+                "2038": "Remembering The Kanji (James Heisig)",
+                "2196": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1016": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3647": "2001 Kanji",
+                "0a4.34": "The Kanji Dictionary",
+                "4-4-1": "SKIP code",
+                "7744.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-16": "JIS X 0208-1997 kuten code",
+                "4e39": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "た、 たみ、 まこと"
+                ],
+                "chinese": [
+                    "dan1"
+                ],
+                "korean": [
+                    "dan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "dot",
+            "parts": [
+                "一",
+                "丶",
+                "ノ",
+                "亅"
+            ],
+            "basis": "丶",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "丹",
+                    "reading": "に",
+                    "meanings": [
+                        "red earth (i.e. containing cinnabar or minium)",
+                        "vermilion"
+                    ]
+                },
+                {
+                    "kanji": "丹色",
+                    "reading": "にいろ",
+                    "meanings": [
+                        "red"
+                    ]
+                },
+                {
+                    "kanji": "海胆",
+                    "reading": "うに",
+                    "meanings": [
+                        "sea urchin",
+                        "seasoned sea urchin eggs"
+                    ]
+                },
+                {
+                    "kanji": "黄丹",
+                    "reading": "おうだん",
+                    "meanings": [
+                        "orange color traditionally worn by the crown prince"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "丹念",
+                    "reading": "タンネン",
+                    "meanings": [
+                        "painstaking",
+                        "careful",
+                        "meticulous",
+                        "scrupulous",
+                        "detailed",
+                        "elaborate"
+                    ]
+                },
+                {
+                    "kanji": "丹精",
+                    "reading": "タンセイ",
+                    "meanings": [
+                        "working earnestly",
+                        "sincerity",
+                        "diligence",
+                        "effort",
+                        "pains"
+                    ]
+                },
+                {
+                    "kanji": "伊勢丹",
+                    "reading": "イセタン",
+                    "meanings": [
+                        "Isetan (department store)"
+                    ]
+                },
+                {
+                    "kanji": "切支丹",
+                    "reading": "キリシタン",
+                    "meanings": [
+                        "Christianity (in feudal Japan)",
+                        "Christian"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"栄\"",
+        "strokes": 9,
+        "main_meanings": [
+            "flourish",
+            "prosperity",
+            "honor",
+            "glory",
+            "splendor"
+        ],
+        "main_readings": {
+            "kun": [
+                "さか.える",
+                "は.え",
+                "-ば.え",
+                "は.える",
+                "え"
+            ],
+            "on": [
+                "エイ",
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "549": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "450": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "427": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "745": "A New Dictionary of Kanji Usage",
+                "2239": "Classic Nelson (Andrew Nelson)",
+                "777": "Essential Kanji (P.G. O’Neill)",
+                "631": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "969": "Japanese Names (P.G. O’Neill)",
+                "723": "Kanji and Kana (Spahn and Hadamitzky)",
+                "736": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1188": "Kanji in Context (Nishiguchi and Kono)",
+                "1054": "Kodansha Compact Kanji Guide",
+                "3183": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1642": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2231": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "332": "Les Kanjis dans la tete (Yves Maniette)",
+                "14687P": "Morohashi",
+                "2574": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2635": "New Nelson (John Haig)",
+                "326": "Remembering The Kanji (James Heisig)",
+                "348": "Remembering The Kanji, 6th edition (James Heisig)",
+                "520": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "964": "2001 Kanji",
+                "3n6.1": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "2-3-6": "SKIP code",
+                "3290.4": "Four corner code",
+                "9090.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-41": "JIS X 0208-1997 kuten code",
+                "6804": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さかえ、 しげ、 てる、 なが、 ひで、 よし"
+                ],
+                "chinese": [
+                    "rong2"
+                ],
+                "korean": [
+                    "yeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "冖",
+                "尚",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": [
+                "榮"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "栄える",
+                    "reading": "さかえる",
+                    "meanings": [
+                        "to prosper",
+                        "to flourish"
+                    ]
+                },
+                {
+                    "kanji": "栄え",
+                    "reading": "はえ",
+                    "meanings": [
+                        "glory",
+                        "splendour",
+                        "honour"
+                    ]
+                },
+                {
+                    "kanji": "映える",
+                    "reading": "はえる",
+                    "meanings": [
+                        "to shine",
+                        "to glow",
+                        "to look attractive",
+                        "to look nice",
+                        "to be set off (by)"
+                    ]
+                },
+                {
+                    "kanji": "映える",
+                    "reading": "はえる",
+                    "meanings": [
+                        "to shine",
+                        "to glow",
+                        "to look attractive",
+                        "to look nice",
+                        "to be set off (by)"
+                    ]
+                },
+                {
+                    "kanji": "栄",
+                    "reading": "えい",
+                    "meanings": [
+                        "honor",
+                        "honour",
+                        "glory",
+                        "prosperity"
+                    ]
+                },
+                {
+                    "kanji": "栄冠",
+                    "reading": "えいかん",
+                    "meanings": [
+                        "laurels",
+                        "garland"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "栄",
+                    "reading": "エイ",
+                    "meanings": [
+                        "honor",
+                        "honour",
+                        "glory",
+                        "prosperity"
+                    ]
+                },
+                {
+                    "kanji": "栄冠",
+                    "reading": "エイカン",
+                    "meanings": [
+                        "laurels",
+                        "garland"
+                    ]
+                },
+                {
+                    "kanji": "共栄",
+                    "reading": "キョウエイ",
+                    "meanings": [
+                        "mutual prosperity"
+                    ]
+                },
+                {
+                    "kanji": "虚栄",
+                    "reading": "キョエイ",
+                    "meanings": [
+                        "vanity",
+                        "vainglory"
+                    ]
+                }
+            ]
+        }
+    }
+}

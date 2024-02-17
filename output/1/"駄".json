@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"駄\"",
+        "strokes": 14,
+        "main_meanings": [
+            "burdensome",
+            "pack horse",
+            "horse load",
+            "send by horse",
+            "trivial",
+            "worthless"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ダ",
+                "タ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1541": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1591": "A New Dictionary of Kanji Usage",
+                "5198": "Classic Nelson (Andrew Nelson)",
+                "1909": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1880": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2046": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1610": "Kanji in Context (Nishiguchi and Kono)",
+                "1917": "Kodansha Compact Kanji Guide",
+                "2291": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1183": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1617": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2005": "Les Kanjis dans la tete (Yves Maniette)",
+                "44633": "Morohashi",
+                "1821": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6734": "New Nelson (John Haig)",
+                "1986": "Remembering The Kanji (James Heisig)",
+                "2140": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1744": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3463": "2001 Kanji",
+                "10a4.1": "The Kanji Dictionary",
+                "1-10-4": "SKIP code",
+                "7433.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-44": "JIS X 0208-1997 kuten code",
+                "99c4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tuo2",
+                    "duo4"
+                ],
+                "korean": [
+                    "tae",
+                    "ta"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horse",
+            "parts": [
+                "丶",
+                "大",
+                "杰",
+                "馬"
+            ],
+            "basis": "馬",
+            "kangxi_order": 187,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "駄",
+                    "reading": "ダ",
+                    "meanings": [
+                        "poor",
+                        "low-grade",
+                        "trivial",
+                        "insignificant",
+                        "worthless",
+                        "load",
+                        "pack",
+                        "horse load",
+                        "packhorse"
+                    ]
+                },
+                {
+                    "kanji": "駄目",
+                    "reading": "ダメ",
+                    "meanings": [
+                        "no good",
+                        "not serving its purpose",
+                        "useless",
+                        "broken",
+                        "hopeless",
+                        "wasted",
+                        "in vain",
+                        "purposeless",
+                        "cannot",
+                        "must not",
+                        "not allowed",
+                        "neutral point",
+                        "intersection owned by neither player at the end of a game",
+                        "no!",
+                        "stop!"
+                    ]
+                },
+                {
+                    "kanji": "雪駄",
+                    "reading": "セッタ",
+                    "meanings": [
+                        "leather-soled sandals (geta)"
+                    ]
+                },
+                {
+                    "kanji": "足駄",
+                    "reading": "アシダ",
+                    "meanings": [
+                        "high clogs",
+                        "rain clogs"
+                    ]
+                },
+                {
+                    "kanji": "中下駄",
+                    "reading": "チュウゲタ",
+                    "meanings": [
+                        "medium height geta"
+                    ]
+                },
+                {
+                    "kanji": "高下駄",
+                    "reading": "タカゲタ",
+                    "meanings": [
+                        "tall wooden clogs"
+                    ]
+                }
+            ]
+        }
+    }
+}

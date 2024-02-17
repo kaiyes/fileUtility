@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"沖\"",
+        "strokes": 7,
+        "main_meanings": [
+            "open sea",
+            "offing",
+            "rise high into sky"
+        ],
+        "main_readings": {
+            "kun": [
+                "おき",
+                "おきつ",
+                "ちゅう.する",
+                "わく"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1583": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "829": "A New Dictionary of Kanji Usage",
+                "2505": "Classic Nelson (Andrew Nelson)",
+                "1317": "Essential Kanji (P.G. O’Neill)",
+                "1460": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "400": "Japanese Names (P.G. O’Neill)",
+                "1346": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1429": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "912": "Kanji in Context (Nishiguchi and Kono)",
+                "1165": "Kodansha Compact Kanji Guide",
+                "307": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "196": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "232": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "140": "Les Kanjis dans la tete (Yves Maniette)",
+                "17209": "Morohashi",
+                "262": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3065": "New Nelson (John Haig)",
+                "138": "Remembering The Kanji (James Heisig)",
+                "146": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1138": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "355": "2001 Kanji",
+                "3a4.5": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "3510.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-13": "JIS X 0208-1997 kuten code",
+                "6c96": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chong1"
+                ],
+                "korean": [
+                    "chung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "｜",
+                "口",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "冲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "沖",
+                    "reading": "おき",
+                    "meanings": [
+                        "open sea",
+                        "Okinawa"
+                    ]
+                },
+                {
+                    "kanji": "沖合",
+                    "reading": "おきあい",
+                    "meanings": [
+                        "off the coast",
+                        "offshore",
+                        "out at sea"
+                    ]
+                },
+                {
+                    "kanji": "在沖",
+                    "reading": "ざいちゅう",
+                    "meanings": [
+                        "staying in Okinawa",
+                        "resident in Okinawa",
+                        "stationed in Okinawa"
+                    ]
+                },
+                {
+                    "kanji": "来沖",
+                    "reading": "らいおき",
+                    "meanings": [
+                        "coming to Okinawa",
+                        "visit to Okinawa"
+                    ]
+                },
+                {
+                    "kanji": "沖する",
+                    "reading": "ちゅうする",
+                    "meanings": [
+                        "to rise up into the air",
+                        "to ascend into the sky"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "沖する",
+                    "reading": "チュウスル",
+                    "meanings": [
+                        "to rise up into the air",
+                        "to ascend into the sky"
+                    ]
+                },
+                {
+                    "kanji": "沖積",
+                    "reading": "チュウセキ",
+                    "meanings": [
+                        "alluvial"
+                    ]
+                },
+                {
+                    "kanji": "在沖",
+                    "reading": "ザイチュウ",
+                    "meanings": [
+                        "staying in Okinawa",
+                        "resident in Okinawa",
+                        "stationed in Okinawa"
+                    ]
+                }
+            ]
+        }
+    }
+}

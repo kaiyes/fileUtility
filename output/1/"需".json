@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"需\"",
+        "strokes": 14,
+        "main_meanings": [
+            "demand",
+            "request",
+            "need"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ジュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "804": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "887": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1011": "A New Dictionary of Kanji Usage",
+                "5052": "Classic Nelson (Andrew Nelson)",
+                "754": "Essential Kanji (P.G. O’Neill)",
+                "1890": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2220": "Japanese Names (P.G. O’Neill)",
+                "1416": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1505": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "681": "Kanji in Context (Nishiguchi and Kono)",
+                "1865": "Kodansha Compact Kanji Guide",
+                "3472": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1790": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2438": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1173": "Les Kanjis dans la tete (Yves Maniette)",
+                "42275": "Morohashi",
+                "2797": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6528": "New Nelson (John Haig)",
+                "1165": "Remembering The Kanji (James Heisig)",
+                "1249": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1742": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3153": "2001 Kanji",
+                "8d6.1": "The Kanji Dictionary",
+                "2-8-6": "SKIP code",
+                "1022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-91": "JIS X 0208-1997 kuten code",
+                "9700": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xu1"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "而",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "需要",
+                    "reading": "ジュヨウ",
+                    "meanings": [
+                        "demand",
+                        "request"
+                    ]
+                },
+                {
+                    "kanji": "需給",
+                    "reading": "ジュキュウ",
+                    "meanings": [
+                        "supply and demand"
+                    ]
+                },
+                {
+                    "kanji": "外需",
+                    "reading": "ガイジュ",
+                    "meanings": [
+                        "foreign demand"
+                    ]
+                },
+                {
+                    "kanji": "内需",
+                    "reading": "ナイジュ",
+                    "meanings": [
+                        "domestic demand"
+                    ]
+                }
+            ]
+        }
+    }
+}

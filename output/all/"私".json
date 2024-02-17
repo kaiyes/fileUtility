@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"私\"",
+        "strokes": 7,
+        "main_meanings": [
+            "private",
+            "I",
+            "me"
+        ],
+        "main_readings": {
+            "kun": [
+                "わたくし",
+                "わたし"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "797": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "887": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "876": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "221": "A New Dictionary of Kanji Usage",
+                "3265": "Classic Nelson (Andrew Nelson)",
+                "367": "Essential Kanji (P.G. O’Neill)",
+                "232": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "637": "Japanese Names (P.G. O’Neill)",
+                "2.7": "Japanese for Busy People",
+                "125": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "72": "Kanji in Context (Nishiguchi and Kono)",
+                "1428": "Kodansha Compact Kanji Guide",
+                "1432": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "758": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1030": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "911": "Les Kanjis dans la tete (Yves Maniette)",
+                "24913": "Morohashi",
+                "1115": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4124": "New Nelson (John Haig)",
+                "902": "Remembering The Kanji (James Heisig)",
+                "968": "Remembering The Kanji, 6th edition (James Heisig)",
+                "17": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "852": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2271": "2001 Kanji",
+                "5d2.2": "The Kanji Dictionary",
+                "1-5-2": "SKIP code",
+                "2293.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-68": "JIS X 0208-1997 kuten code",
+                "79c1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "si1"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "厶",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "私",
+                    "reading": "わたくし",
+                    "meanings": [
+                        "I",
+                        "me",
+                        "personal (affairs",
+                        "etc.)",
+                        "private",
+                        "selfishness",
+                        "partiality",
+                        "secrecy",
+                        "confidentiality"
+                    ]
+                },
+                {
+                    "kanji": "私立",
+                    "reading": "しりつ",
+                    "meanings": [
+                        "private (establishment)"
+                    ]
+                },
+                {
+                    "kanji": "不肖私",
+                    "reading": "ふしょうわたくし",
+                    "meanings": [
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "私",
+                    "reading": "わたし",
+                    "meanings": [
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "私たち",
+                    "reading": "わたしたち",
+                    "meanings": [
+                        "we",
+                        "us"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "私",
+                    "reading": "シ",
+                    "meanings": [
+                        "private affairs",
+                        "personal matter"
+                    ]
+                },
+                {
+                    "kanji": "私案",
+                    "reading": "シアン",
+                    "meanings": [
+                        "private plan",
+                        "one's own plan"
+                    ]
+                },
+                {
+                    "kanji": "無私",
+                    "reading": "ムシ",
+                    "meanings": [
+                        "unselfish",
+                        "selfless",
+                        "disinterested"
+                    ]
+                },
+                {
+                    "kanji": "滅私",
+                    "reading": "メッシ",
+                    "meanings": [
+                        "selflessness",
+                        "being unselfish"
+                    ]
+                }
+            ]
+        }
+    }
+}

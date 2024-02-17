@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"弊\"",
+        "strokes": 15,
+        "main_meanings": [
+            "abuse",
+            "evil",
+            "vice",
+            "breakage"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヘイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1779": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1406": "A New Dictionary of Kanji Usage",
+                "1551": "Classic Nelson (Andrew Nelson)",
+                "1457": "Essential Kanji (P.G. O’Neill)",
+                "1266": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1782": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1914": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1797": "Kanji in Context (Nishiguchi and Kono)",
+                "601": "Kodansha Compact Kanji Guide",
+                "3583": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1843": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2508": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1050": "Les Kanjis dans la tete (Yves Maniette)",
+                "9644X": "Morohashi",
+                "2884": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1670": "New Nelson (John Haig)",
+                "1041": "Remembering The Kanji (James Heisig)",
+                "1120": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1757": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1055": "2001 Kanji",
+                "4i11.3": "The Kanji Dictionary",
+                "2-12-3": "SKIP code",
+                "9844.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-32": "JIS X 0208-1997 kuten code",
+                "5f0a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bi4"
+                ],
+                "korean": [
+                    "pye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "two",
+            "parts": [
+                "｜",
+                "并",
+                "冂",
+                "尚",
+                "巾",
+                "廾",
+                "乞",
+                "攵"
+            ],
+            "basis": "廾",
+            "kangxi_order": 55,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "弊",
+                    "reading": "ヘイ",
+                    "meanings": [
+                        "bad habit",
+                        "harm",
+                        "my",
+                        "our"
+                    ]
+                },
+                {
+                    "kanji": "弊害",
+                    "reading": "ヘイガイ",
+                    "meanings": [
+                        "harmful effect",
+                        "harmful influence",
+                        "evil practice",
+                        "abuse",
+                        "malady"
+                    ]
+                },
+                {
+                    "kanji": "疲弊",
+                    "reading": "ヒヘイ",
+                    "meanings": [
+                        "exhaustion",
+                        "fatigue",
+                        "impoverishment",
+                        "(financial) exhaustion",
+                        "ruin"
+                    ]
+                },
+                {
+                    "kanji": "病弊",
+                    "reading": "ビョウヘイ",
+                    "meanings": [
+                        "evil influence",
+                        "ill effect"
+                    ]
+                }
+            ]
+        }
+    }
+}

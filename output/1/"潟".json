@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"潟\"",
+        "strokes": 15,
+        "main_meanings": [
+            "lagoon"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた",
+                "-がた"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1084": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1036": "A New Dictionary of Kanji Usage",
+                "2695": "Classic Nelson (Andrew Nelson)",
+                "1502": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2273": "Japanese Names (P.G. O’Neill)",
+                "1626": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1736": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1847": "Kanji in Context (Nishiguchi and Kono)",
+                "1248": "Kodansha Compact Kanji Guide",
+                "921": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "520": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "679": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2059": "Les Kanjis dans la tete (Yves Maniette)",
+                "18247": "Morohashi",
+                "745": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3328": "New Nelson (John Haig)",
+                "2039": "Remembering The Kanji (James Heisig)",
+                "2195": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1778": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "350": "2001 Kanji",
+                "3a12.9": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "1-3-11": "SKIP code",
+                "3712.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-67": "JIS X 0208-1997 kuten code",
+                "6f5f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "がら"
+                ],
+                "chinese": [
+                    "xi4"
+                ],
+                "korean": [
+                    "seog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "勹",
+                "汁",
+                "杰",
+                "臼"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "潟",
+                    "reading": "かた",
+                    "meanings": [
+                        "lagoon",
+                        "inlet",
+                        "creek",
+                        "tidal beach",
+                        "tidal flat",
+                        "tideland"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "潟湖",
+                    "reading": "セキコ",
+                    "meanings": [
+                        "lagoon"
+                    ]
+                }
+            ]
+        }
+    }
+}

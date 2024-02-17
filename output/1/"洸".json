@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"洸\"",
+        "strokes": 9,
+        "main_meanings": [
+            "sparkling water"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "813": "Japanese Names (P.G. O’Neill)",
+                "2137": "Kanji and Kana (Spahn and Hadamitzky)",
+                "462": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "287": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "347": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17419": "Morohashi",
+                "387": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3113": "New Nelson (John Haig)",
+                "2286": "Remembering The Kanji (James Heisig)",
+                "2383": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a6.15": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3911.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-62-11": "JIS X 0208-1997 kuten code",
+                "6d38": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ、 ひろし、 たけし、 ひかり"
+                ],
+                "chinese": [
+                    "guang1",
+                    "huang3"
+                ],
+                "korean": [
+                    "gwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "儿",
+                "尚",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "洸洸",
+                    "reading": "コウコウ",
+                    "meanings": [
+                        "valiant",
+                        "brave",
+                        "surge (of water)"
+                    ]
+                },
+                {
+                    "kanji": "洸洋",
+                    "reading": "コウヨウ",
+                    "meanings": [
+                        "unfathomable",
+                        "great expanse of water",
+                        "incoherent"
+                    ]
+                },
+                {
+                    "kanji": "洸洸",
+                    "reading": "コウコウ",
+                    "meanings": [
+                        "valiant",
+                        "brave",
+                        "surge (of water)"
+                    ]
+                }
+            ]
+        }
+    }
+}

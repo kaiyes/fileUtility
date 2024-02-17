@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"跡\"",
+        "strokes": 13,
+        "main_meanings": [
+            "tracks",
+            "mark",
+            "print",
+            "impression"
+        ],
+        "main_readings": {
+            "kun": [
+                "あと"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1485": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "931": "A New Dictionary of Kanji Usage",
+                "4560": "Classic Nelson (Andrew Nelson)",
+                "1502": "Essential Kanji (P.G. O’Neill)",
+                "1792": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1926": "Japanese Names (P.G. O’Neill)",
+                "1569": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1673": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1587": "Kanji in Context (Nishiguchi and Kono)",
+                "1761": "Kodansha Compact Kanji Guide",
+                "1937": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1032": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1395": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1762": "Les Kanjis dans la tete (Yves Maniette)",
+                "37493": "Morohashi",
+                "1534": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5875": "New Nelson (John Haig)",
+                "1746": "Remembering The Kanji (James Heisig)",
+                "1883": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1671": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3741": "2001 Kanji",
+                "7d6.7": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "6013.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-55": "JIS X 0208-1997 kuten code",
+                "8de1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "jeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⻊"
+            ],
+            "meaning": "foot",
+            "parts": [
+                "亠",
+                "口",
+                "止",
+                "赤",
+                "足"
+            ],
+            "basis": "足",
+            "kangxi_order": 157,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "跡",
+                    "reading": "あと",
+                    "meanings": [
+                        "trace",
+                        "tracks",
+                        "mark",
+                        "sign",
+                        "site",
+                        "remains",
+                        "ruins",
+                        "scar"
+                    ]
+                },
+                {
+                    "kanji": "後始末",
+                    "reading": "あとしまつ",
+                    "meanings": [
+                        "settlement (of a matter)",
+                        "sorting out",
+                        "winding up (affairs)",
+                        "dealing with the aftermath",
+                        "cleaning up afterwards",
+                        "tidying up (when finished)"
+                    ]
+                },
+                {
+                    "kanji": "焼け跡",
+                    "reading": "やけあと",
+                    "meanings": [
+                        "ruins of a fire",
+                        "fire-devastated area"
+                    ]
+                },
+                {
+                    "kanji": "後々",
+                    "reading": "あとあと",
+                    "meanings": [
+                        "future",
+                        "distant future"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "跡",
+                    "reading": "セキ",
+                    "meanings": [
+                        "trace"
+                    ]
+                },
+                {
+                    "kanji": "史跡",
+                    "reading": "シセキ",
+                    "meanings": [
+                        "historic landmark",
+                        "historic site",
+                        "historic remains"
+                    ]
+                },
+                {
+                    "kanji": "軌跡",
+                    "reading": "キセキ",
+                    "meanings": [
+                        "tire track",
+                        "traces of a person or thing",
+                        "path one has taken",
+                        "locus"
+                    ]
+                }
+            ]
+        }
+    }
+}

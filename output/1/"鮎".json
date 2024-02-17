@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鮎\"",
+        "strokes": 16,
+        "main_meanings": [
+            "freshwater trout",
+            "smelt"
+        ],
+        "main_readings": {
+            "kun": [
+                "あゆ",
+                "なまず"
+            ],
+            "on": [
+                "デン",
+                "ネン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5288": "Classic Nelson (Andrew Nelson)",
+                "2547": "Japanese Names (P.G. O’Neill)",
+                "2270": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2352": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1209": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1655": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "46070": "Morohashi",
+                "1876": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6855": "New Nelson (John Haig)",
+                "2817": "Remembering The Kanji (James Heisig)",
+                "2832": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "11a5.7": "The Kanji Dictionary",
+                "1-11-5": "SKIP code",
+                "2136.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-30": "JIS X 0208-1997 kuten code",
+                "9b8e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あい"
+                ],
+                "chinese": [
+                    "nian2"
+                ],
+                "korean": [
+                    "jeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fish",
+            "parts": [
+                "卜",
+                "口",
+                "杰",
+                "田",
+                "魚"
+            ],
+            "basis": "魚",
+            "kangxi_order": 195,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鮎",
+                    "reading": "あゆ",
+                    "meanings": [
+                        "sweetfish (Plecoglossus altivelis altivelis)",
+                        "ayu",
+                        "salmon"
+                    ]
+                },
+                {
+                    "kanji": "鮎掛け",
+                    "reading": "あゆかけ",
+                    "meanings": [
+                        "fourspine sculpin (Cottus kazika)"
+                    ]
+                },
+                {
+                    "kanji": "琉球鮎",
+                    "reading": "りゅうきゅうあゆ",
+                    "meanings": [
+                        "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
+                    ]
+                },
+                {
+                    "kanji": "若鮎",
+                    "reading": "わかあゆ",
+                    "meanings": [
+                        "young sweetfish"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鮎",
+                    "reading": "アユ",
+                    "meanings": [
+                        "sweetfish (Plecoglossus altivelis altivelis)",
+                        "ayu",
+                        "salmon"
+                    ]
+                }
+            ]
+        }
+    }
+}

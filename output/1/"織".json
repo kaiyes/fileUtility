@@ -1,0 +1,219 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"織\"",
+        "strokes": 18,
+        "main_meanings": [
+            "weave",
+            "fabric"
+        ],
+        "main_readings": {
+            "kun": [
+                "お.る",
+                "お.り",
+                "おり",
+                "-おり",
+                "-お.り"
+            ],
+            "on": [
+                "ショク",
+                "シキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "644": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "742": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "720": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "753": "A New Dictionary of Kanji Usage",
+                "3613": "Classic Nelson (Andrew Nelson)",
+                "431": "Essential Kanji (P.G. O’Neill)",
+                "1649": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2879": "Japanese Names (P.G. O’Neill)",
+                "680": "Kanji and Kana (Spahn and Hadamitzky)",
+                "693": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "882": "Kanji in Context (Nishiguchi and Kono)",
+                "1561": "Kodansha Compact Kanji Guide",
+                "1801": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "958": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1295": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1346": "Les Kanjis dans la tete (Yves Maniette)",
+                "27892": "Morohashi",
+                "1422": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4596": "New Nelson (John Haig)",
+                "1334": "Remembering The Kanji (James Heisig)",
+                "1432": "Remembering The Kanji, 6th edition (James Heisig)",
+                "822": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2759": "2001 Kanji",
+                "6a12.6": "The Kanji Dictionary",
+                "1-6-12": "SKIP code",
+                "2395.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-05": "JIS X 0208-1997 kuten code",
+                "7e54": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こおり、 こり、 のり"
+                ],
+                "chinese": [
+                    "zhi1"
+                ],
+                "korean": [
+                    "jig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "小",
+                "幺",
+                "戈",
+                "日",
+                "立",
+                "糸",
+                "音"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "織る",
+                    "reading": "おる",
+                    "meanings": [
+                        "to weave"
+                    ]
+                },
+                {
+                    "kanji": "織り",
+                    "reading": "おり",
+                    "meanings": [
+                        "weave",
+                        "weaving",
+                        "woven item"
+                    ]
+                },
+                {
+                    "kanji": "織物",
+                    "reading": "おりもの",
+                    "meanings": [
+                        "textile",
+                        "fabric"
+                    ]
+                },
+                {
+                    "kanji": "羽織",
+                    "reading": "はおり",
+                    "meanings": [
+                        "haori (Japanese formal coat)"
+                    ]
+                },
+                {
+                    "kanji": "手織り",
+                    "reading": "ており",
+                    "meanings": [
+                        "handwoven",
+                        "handspun",
+                        "weaving by hand"
+                    ]
+                },
+                {
+                    "kanji": "織り",
+                    "reading": "おり",
+                    "meanings": [
+                        "weave",
+                        "weaving",
+                        "woven item"
+                    ]
+                },
+                {
+                    "kanji": "織物",
+                    "reading": "おりもの",
+                    "meanings": [
+                        "textile",
+                        "fabric"
+                    ]
+                },
+                {
+                    "kanji": "羽織",
+                    "reading": "はおり",
+                    "meanings": [
+                        "haori (Japanese formal coat)"
+                    ]
+                },
+                {
+                    "kanji": "手織り",
+                    "reading": "ており",
+                    "meanings": [
+                        "handwoven",
+                        "handspun",
+                        "weaving by hand"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "織布",
+                    "reading": "ショクフ",
+                    "meanings": [
+                        "woven fabric"
+                    ]
+                },
+                {
+                    "kanji": "織女",
+                    "reading": "ショクジョ",
+                    "meanings": [
+                        "female weaver",
+                        "Vega (star in the constellation Lyra)",
+                        "Alpha Lyrae"
+                    ]
+                },
+                {
+                    "kanji": "染織",
+                    "reading": "センショク",
+                    "meanings": [
+                        "dyeing and weaving"
+                    ]
+                },
+                {
+                    "kanji": "紡織",
+                    "reading": "ボウショク",
+                    "meanings": [
+                        "spinning and weaving"
+                    ]
+                },
+                {
+                    "kanji": "子宮旁結合織",
+                    "reading": "シキュウボウケツゴウシキ",
+                    "meanings": [
+                        "parametrium"
+                    ]
+                },
+                {
+                    "kanji": "間充織",
+                    "reading": "カンジュウシキ",
+                    "meanings": [
+                        "mesenchyme"
+                    ]
+                }
+            ]
+        }
+    }
+}

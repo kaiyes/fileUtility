@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"於\"",
+        "strokes": 8,
+        "main_meanings": [
+            "at",
+            "in",
+            "on",
+            "as for"
+        ],
+        "main_readings": {
+            "kun": [
+                "おい.て",
+                "お.ける",
+                "ああ",
+                "より"
+            ],
+            "on": [
+                "オ",
+                "ヨ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2083": "Classic Nelson (Andrew Nelson)",
+                "607": "Japanese Names (P.G. O’Neill)",
+                "2084": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1059": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "571": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "755": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "508": "Les Kanjis dans la tete (Yves Maniette)",
+                "13628X": "Morohashi",
+                "854": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2390": "New Nelson (John Haig)",
+                "2900": "Remembering The Kanji (James Heisig)",
+                "2909": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "440": "2001 Kanji",
+                "4h4.2": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "0821.3": "Four corner code",
+                "0823.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-87": "JIS X 0208-1997 kuten code",
+                "65bc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yu2",
+                    "wu1",
+                    "yu1"
+                ],
+                "korean": [
+                    "eo",
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "square",
+            "parts": [
+                "个",
+                "方"
+            ],
+            "basis": "方",
+            "kangxi_order": 70,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "於て",
+                    "reading": "おいて",
+                    "meanings": [
+                        "at",
+                        "in",
+                        "on"
+                    ]
+                },
+                {
+                    "kanji": "於ける",
+                    "reading": "おける",
+                    "meanings": [
+                        "in",
+                        "at",
+                        "for"
+                    ]
+                },
+                {
+                    "kanji": "嗚呼",
+                    "reading": "ああ",
+                    "meanings": [
+                        "ah!",
+                        "oh!",
+                        "alas!",
+                        "yes",
+                        "indeed",
+                        "that is correct",
+                        "aah",
+                        "gah",
+                        "argh",
+                        "hey!",
+                        "yo!",
+                        "uh huh",
+                        "yeah yeah",
+                        "right",
+                        "gotcha"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "於て",
+                    "reading": "オイテ",
+                    "meanings": [
+                        "at",
+                        "in",
+                        "on"
+                    ]
+                },
+                {
+                    "kanji": "於かれましては",
+                    "reading": "オカレマシテハ",
+                    "meanings": [
+                        "in respect of",
+                        "in regards to",
+                        "as for"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"性\"",
+        "strokes": 8,
+        "main_meanings": [
+            "sex",
+            "gender",
+            "nature"
+        ],
+        "main_readings": {
+            "kun": [
+                "さが"
+            ],
+            "on": [
+                "セイ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "645": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "745": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "723": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "199": "A New Dictionary of Kanji Usage",
+                "1666": "Classic Nelson (Andrew Nelson)",
+                "280": "Essential Kanji (P.G. O’Neill)",
+                "535": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "564": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "98": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "421": "Kanji in Context (Nishiguchi and Kono)",
+                "811": "Kodansha Compact Kanji Guide",
+                "357": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "222": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "266": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1572": "Les Kanjis dans la tete (Yves Maniette)",
+                "10478": "Morohashi",
+                "299": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1822": "New Nelson (John Haig)",
+                "1558": "Remembering The Kanji (James Heisig)",
+                "1679": "Remembering The Kanji, 6th edition (James Heisig)",
+                "119": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "690": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1172": "2001 Kanji",
+                "4k5.4": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "1-1-7": "SKIP code",
+                "9501.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-13": "JIS X 0208-1997 kuten code",
+                "6027": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xing4"
+                ],
+                "korean": [
+                    "seong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "忙",
+                "生"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "性",
+                    "reading": "さが",
+                    "meanings": [
+                        "one's nature",
+                        "one's destiny",
+                        "custom",
+                        "tradition",
+                        "habit",
+                        "convention"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "性",
+                    "reading": "セイ",
+                    "meanings": [
+                        "nature (of a person)",
+                        "sex",
+                        "gender",
+                        "sex (i.e. sexual attraction",
+                        "activity",
+                        "etc.)",
+                        "gender",
+                        "-ty",
+                        "-ity",
+                        "-ness",
+                        "-cy"
+                    ]
+                },
+                {
+                    "kanji": "性格",
+                    "reading": "セイカク",
+                    "meanings": [
+                        "character (of a person)",
+                        "personality",
+                        "disposition",
+                        "nature",
+                        "characteristics",
+                        "nature (of a thing",
+                        "event",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "耐性",
+                    "reading": "タイセイ",
+                    "meanings": [
+                        "resistance (e.g. to antibiotics)",
+                        "tolerance (e.g. drug tolerance)"
+                    ]
+                },
+                {
+                    "kanji": "社会性",
+                    "reading": "シャカイセイ",
+                    "meanings": [
+                        "sociality"
+                    ]
+                },
+                {
+                    "kanji": "性",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "nature",
+                        "disposition",
+                        "temperament",
+                        "character",
+                        "quality",
+                        "that which does not change according to external influences"
+                    ]
+                },
+                {
+                    "kanji": "性根",
+                    "reading": "ショウネ",
+                    "meanings": [
+                        "nature",
+                        "character",
+                        "disposition"
+                    ]
+                },
+                {
+                    "kanji": "冷え性",
+                    "reading": "ヒエショウ",
+                    "meanings": [
+                        "sensitivity to cold"
+                    ]
+                },
+                {
+                    "kanji": "凝り性",
+                    "reading": "コリショウ",
+                    "meanings": [
+                        "tendency to become totally absorbed in something",
+                        "monomania",
+                        "perfectionism",
+                        "fastidiousness",
+                        "meticulousness",
+                        "susceptibility for a stiffening of the shoulders"
+                    ]
+                }
+            ]
+        }
+    }
+}

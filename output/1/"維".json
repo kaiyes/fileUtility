@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"維\"",
+        "strokes": 14,
+        "main_meanings": [
+            "fiber",
+            "tie",
+            "rope"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1007": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "926": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "3552": "Classic Nelson (Andrew Nelson)",
+                "1187": "Essential Kanji (P.G. O’Neill)",
+                "1634": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2540": "Japanese Names (P.G. O’Neill)",
+                "1231": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1295": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1297": "Kanji in Context (Nishiguchi and Kono)",
+                "1540": "Kodansha Compact Kanji Guide",
+                "1733": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1251": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1353": "Les Kanjis dans la tete (Yves Maniette)",
+                "27568": "Morohashi",
+                "1370": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4516": "New Nelson (John Haig)",
+                "1341": "Remembering The Kanji (James Heisig)",
+                "1441": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1722": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2775": "2001 Kanji",
+                "6a8.1": "The Kanji Dictionary",
+                "1-6-8": "SKIP code",
+                "2091.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-61": "JIS X 0208-1997 kuten code",
+                "7dad": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "これ、 たもつ、 つぐ、 ゆい、 ゆき"
+                ],
+                "chinese": [
+                    "wei2"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "小",
+                "幺",
+                "糸",
+                "隹"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "維持",
+                    "reading": "イジ",
+                    "meanings": [
+                        "maintenance",
+                        "preservation",
+                        "improvement"
+                    ]
+                },
+                {
+                    "kanji": "維新",
+                    "reading": "イシン",
+                    "meanings": [
+                        "reformation",
+                        "revolution",
+                        "renewal",
+                        "Meiji Restoration",
+                        "Nippon Ishin no Kai",
+                        "Japan Innovation Party"
+                    ]
+                },
+                {
+                    "kanji": "化学繊維",
+                    "reading": "カガクセンイ",
+                    "meanings": [
+                        "synthetic fiber",
+                        "synthetic fibre",
+                        "chemical fiber",
+                        "chemical fibre"
+                    ]
+                },
+                {
+                    "kanji": "合成繊維",
+                    "reading": "ゴウセイセンイ",
+                    "meanings": [
+                        "synthetic fibre",
+                        "synthetic fiber"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"熙\"",
+        "strokes": 15,
+        "main_meanings": [
+            "bright",
+            "sunny",
+            "prosperous",
+            "merry"
+        ],
+        "main_readings": {
+            "kun": [
+                "たのし.む",
+                "ひか.る",
+                "ひろ.い",
+                "よろこ.ぶ",
+                "かわ.く",
+                "あきらか",
+                "ひろ.める",
+                "ひろ.まる"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2148": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3559": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1837": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2499": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "3464": "New Nelson (John Haig)"
+            },
+            "classifications": {
+                "4d9.11": "The Kanji Dictionary",
+                "2-11-4": "SKIP code",
+                "7733.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-84-06": "JIS X 0208-1997 kuten code",
+                "7199": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "匚",
+                "口",
+                "已",
+                "杰"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": [
+                "煕"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "煕々",
+                    "reading": "キキ",
+                    "meanings": [
+                        "relaxed and enjoyable",
+                        "spacious",
+                        "vast",
+                        "heavily trafficked",
+                        "bustling",
+                        "busy"
+                    ]
+                },
+                {
+                    "kanji": "煕々",
+                    "reading": "キキ",
+                    "meanings": [
+                        "relaxed and enjoyable",
+                        "spacious",
+                        "vast",
+                        "heavily trafficked",
+                        "bustling",
+                        "busy"
+                    ]
+                }
+            ]
+        }
+    }
+}

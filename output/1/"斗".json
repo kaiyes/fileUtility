@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"斗\"",
+        "strokes": 4,
+        "main_meanings": [
+            "Big Dipper",
+            "ten sho (vol)",
+            "sake dipper",
+            "dots and cross radical (no. 68)"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ト",
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1633": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1782": "A New Dictionary of Kanji Usage",
+                "2073": "Classic Nelson (Andrew Nelson)",
+                "1815": "Essential Kanji (P.G. O’Neill)",
+                "1395": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "71": "Japanese Names (P.G. O’Neill)",
+                "1899": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2075": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1920": "Kanji in Context (Nishiguchi and Kono)",
+                "950": "Kodansha Compact Kanji Guide",
+                "3671": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1874": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2554": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1185": "Les Kanjis dans la tete (Yves Maniette)",
+                "13489": "Morohashi",
+                "2953": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2373": "New Nelson (John Haig)",
+                "1177": "Remembering The Kanji (James Heisig)",
+                "1261": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1033": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1255": "2001 Kanji",
+                "0a4.17": "The Kanji Dictionary",
+                "3-2-2": "SKIP code",
+                "4-4-3": "SKIP code",
+                "3400.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-45": "JIS X 0208-1997 kuten code",
+                "6597": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ます"
+                ],
+                "chinese": [
+                    "dou3",
+                    "dou4"
+                ],
+                "korean": [
+                    "du"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "dipper",
+            "parts": [
+                "斗"
+            ],
+            "basis": "斗",
+            "kangxi_order": 68,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "斗",
+                    "reading": "ト",
+                    "meanings": [
+                        "to",
+                        "traditional unit of volume",
+                        "approx. 18 litres",
+                        "square bearing block (at the top of a pillar)",
+                        "Chinese \"Dipper\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "斗",
+                    "reading": "トマス",
+                    "meanings": [
+                        "kanji radical 68 at right"
+                    ]
+                },
+                {
+                    "kanji": "星斗",
+                    "reading": "セイト",
+                    "meanings": [
+                        "star"
+                    ]
+                },
+                {
+                    "kanji": "泰斗",
+                    "reading": "タイト",
+                    "meanings": [
+                        "great authority",
+                        "eminent person",
+                        "luminary"
+                    ]
+                },
+                {
+                    "kanji": "闘争",
+                    "reading": "トウソウ",
+                    "meanings": [
+                        "fight",
+                        "battle",
+                        "combat",
+                        "conflict",
+                        "struggle (for rights",
+                        "higher wages",
+                        "etc.)",
+                        "strife",
+                        "(labor) dispute",
+                        "strike"
+                    ]
+                },
+                {
+                    "kanji": "闘魂",
+                    "reading": "トウコン",
+                    "meanings": [
+                        "fighting spirit"
+                    ]
+                },
+                {
+                    "kanji": "擬闘",
+                    "reading": "ギトウ",
+                    "meanings": [
+                        "stage combat",
+                        "staged fighting",
+                        "fight choreography"
+                    ]
+                }
+            ]
+        }
+    }
+}

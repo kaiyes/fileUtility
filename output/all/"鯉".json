@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鯉\"",
+        "strokes": 18,
+        "main_meanings": [
+            "carp"
+        ],
+        "main_readings": {
+            "kun": [
+                "こい"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5299": "Classic Nelson (Andrew Nelson)",
+                "1991": "Essential Kanji (P.G. O’Neill)",
+                "2764": "Japanese Names (P.G. O’Neill)",
+                "2271": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2358": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1211": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1658": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "178": "Les Kanjis dans la tete (Yves Maniette)",
+                "46182": "Morohashi",
+                "1879": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6874": "New Nelson (John Haig)",
+                "176": "Remembering The Kanji (James Heisig)",
+                "188": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "11a7.2": "The Kanji Dictionary",
+                "1-11-7": "SKIP code",
+                "2631.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-81": "JIS X 0208-1997 kuten code",
+                "9bc9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "li3"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fish",
+            "parts": [
+                "杰",
+                "田",
+                "里",
+                "魚"
+            ],
+            "basis": "魚",
+            "kangxi_order": 195,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鯉",
+                    "reading": "こい",
+                    "meanings": [
+                        "common carp (Cyprinus carpio)",
+                        "koi carp"
+                    ]
+                },
+                {
+                    "kanji": "鯉口",
+                    "reading": "こいぐち",
+                    "meanings": [
+                        "mouth of a (sword) sheath"
+                    ]
+                },
+                {
+                    "kanji": "俎上の鯉",
+                    "reading": "そじょうのこい",
+                    "meanings": [
+                        "someone doomed to their fate",
+                        "fish on the chopping board"
+                    ]
+                },
+                {
+                    "kanji": "まな板の上の鯉",
+                    "reading": "まないたのうえのこい",
+                    "meanings": [
+                        "someone doomed to their fate",
+                        "fish on the chopping board"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "養鯉",
+                    "reading": "ヨウリ",
+                    "meanings": [
+                        "carp breeding"
+                    ]
+                }
+            ]
+        }
+    }
+}

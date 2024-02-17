@@ -1,0 +1,315 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"頭\"",
+        "strokes": 16,
+        "main_meanings": [
+            "head",
+            "counter for large animals"
+        ],
+        "main_readings": {
+            "kun": [
+                "あたま",
+                "かしら",
+                "-がしら",
+                "かぶり"
+            ],
+            "on": [
+                "トウ",
+                "ズ",
+                "ト"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "294": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "203": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "186": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "386": "A New Dictionary of Kanji Usage",
+                "4469": "Classic Nelson (Andrew Nelson)",
+                "519": "Essential Kanji (P.G. O’Neill)",
+                "275": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2504": "Japanese Names (P.G. O’Neill)",
+                "276": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "166": "Kanji in Context (Nishiguchi and Kono)",
+                "1889": "Kodansha Compact Kanji Guide",
+                "2019": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1073": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1450": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1453": "Les Kanjis dans la tete (Yves Maniette)",
+                "43490": "Morohashi",
+                "1604": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6639": "New Nelson (John Haig)",
+                "1441": "Remembering The Kanji (James Heisig)",
+                "1549": "Remembering The Kanji, 6th edition (James Heisig)",
+                "234": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "238": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3061": "2001 Kanji",
+                "9a7.6": "The Kanji Dictionary",
+                "1-7-9": "SKIP code",
+                "1118.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-12": "JIS X 0208-1997 kuten code",
+                "982d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かみ、 がみ、 ちゃん、 つむり、 づ"
+                ],
+                "chinese": [
+                    "tou2",
+                    "tou5"
+                ],
+                "korean": [
+                    "du"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "ハ",
+                "并",
+                "口",
+                "目",
+                "豆",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "頭",
+                    "reading": "あたま",
+                    "meanings": [
+                        "head",
+                        "hair (on one's head)",
+                        "mind",
+                        "brains",
+                        "intellect",
+                        "leader",
+                        "chief",
+                        "boss",
+                        "captain",
+                        "top",
+                        "tip",
+                        "beginning",
+                        "start",
+                        "head",
+                        "person",
+                        "down payment",
+                        "deposit",
+                        "top structural component of a kanji",
+                        "pair"
+                    ]
+                },
+                {
+                    "kanji": "頭打ち",
+                    "reading": "あたまうち",
+                    "meanings": [
+                        "reaching a peak",
+                        "reaching the limit",
+                        "plateauing",
+                        "maxing out"
+                    ]
+                },
+                {
+                    "kanji": "石頭",
+                    "reading": "いしあたま",
+                    "meanings": [
+                        "obstinate person",
+                        "stubbornness",
+                        "pigheadedness",
+                        "hard head (like a rock)"
+                    ]
+                },
+                {
+                    "kanji": "ごま塩頭",
+                    "reading": "ごましおあたま",
+                    "meanings": [
+                        "salt and pepper hair",
+                        "dark hair streaked with gray"
+                    ]
+                },
+                {
+                    "kanji": "頭",
+                    "reading": "あたま",
+                    "meanings": [
+                        "head",
+                        "hair (on one's head)",
+                        "mind",
+                        "brains",
+                        "intellect",
+                        "leader",
+                        "chief",
+                        "boss",
+                        "captain",
+                        "top",
+                        "tip",
+                        "beginning",
+                        "start",
+                        "head",
+                        "person",
+                        "down payment",
+                        "deposit",
+                        "top structural component of a kanji",
+                        "pair"
+                    ]
+                },
+                {
+                    "kanji": "頭文字",
+                    "reading": "かしらもじ",
+                    "meanings": [
+                        "first letter of a word",
+                        "capital letter (at the start of a word or sentence)",
+                        "initials (of one's name)"
+                    ]
+                },
+                {
+                    "kanji": "お頭",
+                    "reading": "おかしら",
+                    "meanings": [
+                        "leader",
+                        "chief",
+                        "head",
+                        "boss",
+                        "(another person's) head"
+                    ]
+                },
+                {
+                    "kanji": "鯛の尾より鰯の頭",
+                    "reading": "たいのおよりいわしのかしら",
+                    "meanings": [
+                        "better be the head of a dog than the tail of a lion"
+                    ]
+                },
+                {
+                    "kanji": "頭",
+                    "reading": "かぶり",
+                    "meanings": [
+                        "head"
+                    ]
+                },
+                {
+                    "kanji": "頭を振る",
+                    "reading": "かぶりをふる",
+                    "meanings": [
+                        "to shake one's head (in denial)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "頭",
+                    "reading": "トウ",
+                    "meanings": [
+                        "counter for large animals (e.g. head of cattle)",
+                        "counter for insects in a collection",
+                        "counter for helmets",
+                        "masks",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "頭角",
+                    "reading": "トウカク",
+                    "meanings": [
+                        "top of the head"
+                    ]
+                },
+                {
+                    "kanji": "教頭",
+                    "reading": "キョウトウ",
+                    "meanings": [
+                        "deputy head teacher",
+                        "vice principal"
+                    ]
+                },
+                {
+                    "kanji": "会頭",
+                    "reading": "カイトウ",
+                    "meanings": [
+                        "society president"
+                    ]
+                },
+                {
+                    "kanji": "頭",
+                    "reading": "ズ",
+                    "meanings": [
+                        "head"
+                    ]
+                },
+                {
+                    "kanji": "頭打ち",
+                    "reading": "アタマウチ",
+                    "meanings": [
+                        "reaching a peak",
+                        "reaching the limit",
+                        "plateauing",
+                        "maxing out"
+                    ]
+                },
+                {
+                    "kanji": "馬頭",
+                    "reading": "メズ",
+                    "meanings": [
+                        "horse-headed demon (in hell)"
+                    ]
+                },
+                {
+                    "kanji": "竜頭",
+                    "reading": "リュウズ",
+                    "meanings": [
+                        "crown (of a watch)",
+                        "stem",
+                        "canon (of a bell)",
+                        "something in the shape of a dragon's head (esp. a helmet crest)"
+                    ]
+                },
+                {
+                    "kanji": "頭",
+                    "reading": "トウ",
+                    "meanings": [
+                        "counter for large animals (e.g. head of cattle)",
+                        "counter for insects in a collection",
+                        "counter for helmets",
+                        "masks",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "頭角",
+                    "reading": "トウカク",
+                    "meanings": [
+                        "top of the head"
+                    ]
+                },
+                {
+                    "kanji": "鳥兜",
+                    "reading": "トリカブト",
+                    "meanings": [
+                        "aconite (esp. species Aconitum japonicum)",
+                        "wolfsbane",
+                        "monkshood",
+                        "traditional bugaku hat"
+                    ]
+                }
+            ]
+        }
+    }
+}

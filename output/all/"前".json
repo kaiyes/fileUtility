@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"前\"",
+        "strokes": 9,
+        "main_meanings": [
+            "in front",
+            "before"
+        ],
+        "main_readings": {
+            "kun": [
+                "まえ",
+                "-まえ"
+            ],
+            "on": [
+                "ゼン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "102": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "177": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "159": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "38": "A New Dictionary of Kanji Usage",
+                "595": "Classic Nelson (Andrew Nelson)",
+                "139": "Essential Kanji (P.G. O’Neill)",
+                "23": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "921": "Japanese Names (P.G. O’Neill)",
+                "2.3": "Japanese for Busy People",
+                "47": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "29": "Kanji in Context (Nishiguchi and Kono)",
+                "196": "Kodansha Compact Kanji Guide",
+                "2819": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1453": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1957": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "296": "Les Kanjis dans la tete (Yves Maniette)",
+                "2011X": "Morohashi",
+                "2266": "New Japanese English Character Dictionary (Jack Halpern)",
+                "490": "New Nelson (John Haig)",
+                "290": "Remembering The Kanji (James Heisig)",
+                "309": "Remembering The Kanji, 6th edition (James Heisig)",
+                "53": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "182": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "943": "2001 Kanji",
+                "2o7.3": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "2-2-7": "SKIP code",
+                "8022.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-16": "JIS X 0208-1997 kuten code",
+                "524d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さき、 さと、 まい"
+                ],
+                "chinese": [
+                    "qian2"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "一",
+                "并",
+                "刈",
+                "月"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "前",
+                    "reading": "まえ",
+                    "meanings": [
+                        "in front (of)",
+                        "before (e.g. a building)",
+                        "before",
+                        "earlier",
+                        "previously",
+                        "prior",
+                        "ago",
+                        "(minutes) to (the hour)",
+                        "(the) front",
+                        "frontal part",
+                        "fore",
+                        "head (e.g. of a line)",
+                        "forward",
+                        "ahead",
+                        "(in the) presence (of)",
+                        "in front (of someone)",
+                        "previous (e.g. page)",
+                        "prior (e.g. engagement)",
+                        "first (e.g. half)",
+                        "former (e.g. example)",
+                        "portion",
+                        "helping",
+                        "front (of one's body or clothing)",
+                        "breast (of a coat",
+                        "kimono",
+                        "etc.)",
+                        "privates",
+                        "private parts",
+                        "criminal record",
+                        "previous conviction",
+                        "(a) prior"
+                    ]
+                },
+                {
+                    "kanji": "前売り",
+                    "reading": "まえうり",
+                    "meanings": [
+                        "advance sale",
+                        "booking"
+                    ]
+                },
+                {
+                    "kanji": "左前",
+                    "reading": "ひだりまえ",
+                    "meanings": [
+                        "wearing a kimono with the right side over the left (normally used only for the dead)",
+                        "going badly (one's business",
+                        "one's fortune",
+                        "the economy)",
+                        "being in a bad financial situation",
+                        "front left",
+                        "front and left",
+                        "before and left"
+                    ]
+                },
+                {
+                    "kanji": "出前",
+                    "reading": "でまえ",
+                    "meanings": [
+                        "home delivery (of food)",
+                        "outside catering"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "前",
+                    "reading": "ゼン",
+                    "meanings": [
+                        "last (i.e. immediately preceding)",
+                        "previous",
+                        "ex-",
+                        "former",
+                        "pre- (e.g. premodern)",
+                        "before",
+                        "before",
+                        "earlier"
+                    ]
+                },
+                {
+                    "kanji": "前衛",
+                    "reading": "ゼンエイ",
+                    "meanings": [
+                        "advance guard",
+                        "vanguard",
+                        "avant-garde",
+                        "forward (player)"
+                    ]
+                },
+                {
+                    "kanji": "中前",
+                    "reading": "チュウゼン",
+                    "meanings": [
+                        "front of center field",
+                        "front of centre field"
+                    ]
+                },
+                {
+                    "kanji": "風前",
+                    "reading": "フウゼン",
+                    "meanings": [
+                        "where the wind blows"
+                    ]
+                }
+            ]
+        }
+    }
+}

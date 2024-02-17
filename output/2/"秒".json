@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"秒\"",
+        "strokes": 9,
+        "main_meanings": [
+            "second (1/60 minute)"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ビョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "499": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "403": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "380": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "831": "A New Dictionary of Kanji Usage",
+                "3271": "Classic Nelson (Andrew Nelson)",
+                "867": "Essential Kanji (P.G. O’Neill)",
+                "779": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1152": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1207": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1151": "Kanji in Context (Nishiguchi and Kono)",
+                "1432": "Kodansha Compact Kanji Guide",
+                "1462": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "774": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1052": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "908": "Les Kanjis dans la tete (Yves Maniette)",
+                "24952": "Morohashi",
+                "1137": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4129": "New Nelson (John Haig)",
+                "899": "Remembering The Kanji (James Heisig)",
+                "965": "Remembering The Kanji, 6th edition (James Heisig)",
+                "344": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2260": "2001 Kanji",
+                "5d4.2": "The Kanji Dictionary",
+                "1-5-4": "SKIP code",
+                "2992.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-35": "JIS X 0208-1997 kuten code",
+                "79d2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "miao3"
+                ],
+                "korean": [
+                    "cho",
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "ノ",
+                "小",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "秒",
+                    "reading": "ビョウ",
+                    "meanings": [
+                        "second (unit of time)",
+                        "arc second"
+                    ]
+                },
+                {
+                    "kanji": "秒速",
+                    "reading": "ビョウソク",
+                    "meanings": [
+                        "speed per second",
+                        "velocity per second",
+                        "instant",
+                        "moment",
+                        "a few seconds"
+                    ]
+                },
+                {
+                    "kanji": "壊変毎秒",
+                    "reading": "カイヘンマイビョウ",
+                    "meanings": [
+                        "decays per second",
+                        "disintegrations per second",
+                        "dps"
+                    ]
+                },
+                {
+                    "kanji": "閏秒",
+                    "reading": "ウルウビョウ",
+                    "meanings": [
+                        "leap second"
+                    ]
+                }
+            ]
+        }
+    }
+}

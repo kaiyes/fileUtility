@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"倖\"",
+        "strokes": 10,
+        "main_meanings": [
+            "happiness",
+            "luck"
+        ],
+        "main_readings": {
+            "kun": [
+                "しあわ.せ",
+                "さいわ.い"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "462": "Classic Nelson (Andrew Nelson)",
+                "2020": "Kanji and Kana (Spahn and Hadamitzky)",
+                "134": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "88": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "102": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "771": "Morohashi",
+                "118": "New Japanese English Character Dictionary (Jack Halpern)",
+                "228": "New Nelson (John Haig)",
+                "2119": "Remembering The Kanji (James Heisig)"
+            },
+            "classifications": {
+                "2a8.23": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "2424.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-86": "JIS X 0208-1997 kuten code",
+                "5016": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xing4"
+                ],
+                "korean": [
+                    "haeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "亠",
+                "化",
+                "十",
+                "立",
+                "辛"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幸せ",
+                    "reading": "しあわせ",
+                    "meanings": [
+                        "happiness",
+                        "good fortune",
+                        "luck",
+                        "blessing"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幸臣",
+                    "reading": "コウシン",
+                    "meanings": [
+                        "favorite retainer",
+                        "court favorite"
+                    ]
+                },
+                {
+                    "kanji": "僥倖",
+                    "reading": "ギョウコウ",
+                    "meanings": [
+                        "luck",
+                        "windfall",
+                        "godsend",
+                        "good fortune"
+                    ]
+                },
+                {
+                    "kanji": "射幸",
+                    "reading": "シャコウ",
+                    "meanings": [
+                        "speculation"
+                    ]
+                }
+            ]
+        }
+    }
+}

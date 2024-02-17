@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"沢\"",
+        "strokes": 7,
+        "main_meanings": [
+            "swamp",
+            "marsh",
+            "brilliance",
+            "grace"
+        ],
+        "main_readings": {
+            "kun": [
+                "さわ",
+                "うるお.い",
+                "うるお.す",
+                "つや"
+            ],
+            "on": [
+                "タク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1552": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "403": "A New Dictionary of Kanji Usage",
+                "2503": "Classic Nelson (Andrew Nelson)",
+                "908": "Essential Kanji (P.G. O’Neill)",
+                "1462": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "404": "Japanese Names (P.G. O’Neill)",
+                "994": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1031": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1395": "Kanji in Context (Nishiguchi and Kono)",
+                "1164": "Kodansha Compact Kanji Guide",
+                "313": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "201": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "238": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1081": "Les Kanjis dans la tete (Yves Maniette)",
+                "17234": "Morohashi",
+                "267": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3062": "New Nelson (John Haig)",
+                "1072": "Remembering The Kanji (James Heisig)",
+                "1153": "Remembering The Kanji, 6th edition (James Heisig)",
+                "442": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1137": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "362": "2001 Kanji",
+                "3a4.18": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "3718.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-84": "JIS X 0208-1997 kuten code",
+                "6ca2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おも、 さ、 さわん、 わさ"
+                ],
+                "chinese": [
+                    "ze2"
+                ],
+                "korean": [
+                    "taeg",
+                    "seog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "尸",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "澤"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "沢",
+                    "reading": "さわ",
+                    "meanings": [
+                        "mountain stream",
+                        "valley",
+                        "dale",
+                        "wetlands",
+                        "swamp",
+                        "marsh"
+                    ]
+                },
+                {
+                    "kanji": "沢地",
+                    "reading": "さわち",
+                    "meanings": [
+                        "marshy land"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "沢",
+                    "reading": "タク",
+                    "meanings": [
+                        "blessing",
+                        "grace",
+                        "favour",
+                        "favor",
+                        "benefit"
+                    ]
+                },
+                {
+                    "kanji": "沢山",
+                    "reading": "タクサン",
+                    "meanings": [
+                        "a lot",
+                        "lots",
+                        "plenty",
+                        "many",
+                        "a large number",
+                        "much",
+                        "a great deal",
+                        "a good deal",
+                        "enough",
+                        "sufficient",
+                        "enough",
+                        "too many",
+                        "too much"
+                    ]
+                },
+                {
+                    "kanji": "沼沢",
+                    "reading": "ショウタク",
+                    "meanings": [
+                        "marsh",
+                        "swamp",
+                        "bog"
+                    ]
+                },
+                {
+                    "kanji": "恵沢",
+                    "reading": "ケイタク",
+                    "meanings": [
+                        "blessing",
+                        "pity",
+                        "favor",
+                        "favour",
+                        "benefit"
+                    ]
+                }
+            ]
+        }
+    }
+}

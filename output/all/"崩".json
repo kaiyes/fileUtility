@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"崩\"",
+        "strokes": 11,
+        "main_meanings": [
+            "crumble",
+            "die",
+            "demolish",
+            "level"
+        ],
+        "main_readings": {
+            "kun": [
+                "くず.れる",
+                "-くず.れ",
+                "くず.す"
+            ],
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1801": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1700": "A New Dictionary of Kanji Usage",
+                "1430": "Classic Nelson (Andrew Nelson)",
+                "1490": "Essential Kanji (P.G. O’Neill)",
+                "1244": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1122": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1174": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1663": "Kanji in Context (Nishiguchi and Kono)",
+                "547": "Kodansha Compact Kanji Guide",
+                "2863": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1478": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1989": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "781": "Les Kanjis dans la tete (Yves Maniette)",
+                "8212P": "Morohashi",
+                "2296": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1491": "New Nelson (John Haig)",
+                "774": "Remembering The Kanji (James Heisig)",
+                "836": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1426": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1246": "2001 Kanji",
+                "3o8.7": "The Kanji Dictionary",
+                "2-3-8": "SKIP code",
+                "2222.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-88": "JIS X 0208-1997 kuten code",
+                "5d29": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "beng1"
+                ],
+                "korean": [
+                    "bung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "山",
+                "月"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "崩れる",
+                    "reading": "くずれる",
+                    "meanings": [
+                        "to collapse",
+                        "to crumble",
+                        "to get out of shape",
+                        "to lose one's shape",
+                        "to become disorganized",
+                        "to become untidy",
+                        "to break down",
+                        "to be thrown into disarray",
+                        "to crash (stock market)",
+                        "to slump",
+                        "to decline",
+                        "to break money into small change",
+                        "to turn bad (e.g. weather)",
+                        "to change for the worse",
+                        "to deteriorate"
+                    ]
+                },
+                {
+                    "kanji": "崩す",
+                    "reading": "くずす",
+                    "meanings": [
+                        "to destroy",
+                        "to demolish",
+                        "to pull down",
+                        "to tear down",
+                        "to level",
+                        "to disturb",
+                        "to put into disorder",
+                        "to throw off balance",
+                        "to make shaky",
+                        "to relax (one's pose)",
+                        "to make oneself at ease",
+                        "to break (a bill)",
+                        "to change",
+                        "to make change",
+                        "to write in cursive style",
+                        "to write in running style",
+                        "to break into a smile",
+                        "to let off a smile",
+                        "to lower (a price)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "崩落",
+                    "reading": "ホウラク",
+                    "meanings": [
+                        "collapse",
+                        "break",
+                        "cave-in",
+                        "crash",
+                        "market decline",
+                        "market crash"
+                    ]
+                },
+                {
+                    "kanji": "崩壊",
+                    "reading": "ホウカイ",
+                    "meanings": [
+                        "collapse",
+                        "crumbling",
+                        "breaking down",
+                        "caving in",
+                        "(radioactive) decay",
+                        "disintegration"
+                    ]
+                },
+                {
+                    "kanji": "壊崩",
+                    "reading": "カイホウ",
+                    "meanings": [
+                        "collapse",
+                        "crumbling",
+                        "breaking down",
+                        "caving in"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"筋\"",
+        "strokes": 12,
+        "main_meanings": [
+            "muscle",
+            "sinew",
+            "tendon",
+            "fiber",
+            "plot",
+            "plan",
+            "descent"
+        ],
+        "main_readings": {
+            "kun": [
+                "すじ"
+            ],
+            "on": [
+                "キン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "854": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "843": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "713": "A New Dictionary of Kanji Usage",
+                "3395": "Classic Nelson (Andrew Nelson)",
+                "1137": "Essential Kanji (P.G. O’Neill)",
+                "1603": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1090": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1141": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1059": "Kanji in Context (Nishiguchi and Kono)",
+                "1476": "Kodansha Compact Kanji Guide",
+                "3319": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1719": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2337": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "950": "Les Kanjis dans la tete (Yves Maniette)",
+                "25994": "Morohashi",
+                "2678": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4286": "New Nelson (John Haig)",
+                "941": "Remembering The Kanji (James Heisig)",
+                "1012": "Remembering The Kanji, 6th edition (James Heisig)",
+                "942": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2345": "2001 Kanji",
+                "6f6.4": "The Kanji Dictionary",
+                "2-6-6": "SKIP code",
+                "8822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-58": "JIS X 0208-1997 kuten code",
+                "7b4b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jin1"
+                ],
+                "korean": [
+                    "geun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "力",
+                "月",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": [
+                "觔"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "筋",
+                    "reading": "すじ",
+                    "meanings": [
+                        "muscle",
+                        "tendon",
+                        "sinew",
+                        "vein",
+                        "artery",
+                        "fiber",
+                        "fibre",
+                        "string",
+                        "line",
+                        "stripe",
+                        "streak",
+                        "reason",
+                        "logic",
+                        "plot",
+                        "storyline",
+                        "lineage",
+                        "descent",
+                        "school (e.g. of scholarship or arts)",
+                        "aptitude",
+                        "talent",
+                        "source (of information",
+                        "etc.)",
+                        "circle",
+                        "channel",
+                        "well-informed person (in a transaction)",
+                        "logical move (in go",
+                        "shogi",
+                        "etc.)",
+                        "ninth vertical line",
+                        "seam on a helmet",
+                        "gristly fish paste (made of muscle",
+                        "tendons",
+                        "skin",
+                        "etc.)",
+                        "social position",
+                        "status",
+                        "on (a river",
+                        "road",
+                        "etc.)",
+                        "along",
+                        "counter for long thin things",
+                        "counter for roads or blocks when giving directions",
+                        "street (in Osaka)",
+                        "(Edo period) counter for hundreds of mon (obsolete unit of currency)"
+                    ]
+                },
+                {
+                    "kanji": "筋書き",
+                    "reading": "すじがき",
+                    "meanings": [
+                        "synopsis",
+                        "outline",
+                        "plot"
+                    ]
+                },
+                {
+                    "kanji": "粗筋",
+                    "reading": "あらすじ",
+                    "meanings": [
+                        "outline",
+                        "summary",
+                        "argument"
+                    ]
+                },
+                {
+                    "kanji": "売れ筋",
+                    "reading": "うれすじ",
+                    "meanings": [
+                        "popular line (of products)",
+                        "best-selling line",
+                        "hot sellers"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "筋",
+                    "reading": "キン",
+                    "meanings": [
+                        "muscle"
+                    ]
+                },
+                {
+                    "kanji": "筋肉",
+                    "reading": "キンニク",
+                    "meanings": [
+                        "muscle"
+                    ]
+                },
+                {
+                    "kanji": "心筋",
+                    "reading": "シンキン",
+                    "meanings": [
+                        "heart muscle",
+                        "myocardium"
+                    ]
+                },
+                {
+                    "kanji": "鉄筋",
+                    "reading": "テッキン",
+                    "meanings": [
+                        "rebar",
+                        "(iron) reinforcing bar",
+                        "reinforcing steel",
+                        "reinforced concrete"
+                    ]
+                }
+            ]
+        }
+    }
+}

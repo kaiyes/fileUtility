@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"了\"",
+        "strokes": 2,
+        "main_meanings": [
+            "complete",
+            "finish"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1905": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "919": "A New Dictionary of Kanji Usage",
+                "268": "Classic Nelson (Andrew Nelson)",
+                "1018": "Essential Kanji (P.G. O’Neill)",
+                "293": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "9": "Japanese Names (P.G. O’Neill)",
+                "941": "Kanji and Kana (Spahn and Hadamitzky)",
+                "971": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "818": "Kanji in Context (Nishiguchi and Kono)",
+                "273": "Kodansha Compact Kanji Guide",
+                "4157": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2107": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2852": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "98": "Les Kanjis dans la tete (Yves Maniette)",
+                "226": "Morohashi",
+                "3350": "New Japanese English Character Dictionary (Jack Halpern)",
+                "67": "New Nelson (John Haig)",
+                "97": "Remembering The Kanji (James Heisig)",
+                "101": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1008": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3553": "2001 Kanji",
+                "2c0.3": "The Kanji Dictionary",
+                "4-2-1": "SKIP code",
+                "4-1-1": "SKIP code",
+                "1720.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-27": "JIS X 0208-1997 kuten code",
+                "4e86": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さとる"
+                ],
+                "chinese": [
+                    "liao3",
+                    "le5"
+                ],
+                "korean": [
+                    "ryo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "hook",
+            "parts": [
+                "一",
+                "亅"
+            ],
+            "basis": "亅",
+            "kangxi_order": 6,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "了",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "finish",
+                        "completion",
+                        "the end"
+                    ]
+                },
+                {
+                    "kanji": "諒",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "fact",
+                        "truth",
+                        "understanding",
+                        "consideration"
+                    ]
+                },
+                {
+                    "kanji": "満了",
+                    "reading": "マンリョウ",
+                    "meanings": [
+                        "expiration",
+                        "termination"
+                    ]
+                },
+                {
+                    "kanji": "未了",
+                    "reading": "ミリョウ",
+                    "meanings": [
+                        "unfinished",
+                        "unfilled (order)",
+                        "unexecuted"
+                    ]
+                }
+            ]
+        }
+    }
+}

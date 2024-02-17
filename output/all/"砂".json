@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"砂\"",
+        "strokes": 9,
+        "main_meanings": [
+            "sand"
+        ],
+        "main_readings": {
+            "kun": [
+                "すな"
+            ],
+            "on": [
+                "サ",
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "879": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "869": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1031": "A New Dictionary of Kanji Usage",
+                "3181": "Classic Nelson (Andrew Nelson)",
+                "1127": "Essential Kanji (P.G. O’Neill)",
+                "764": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "876": "Japanese Names (P.G. O’Neill)",
+                "1151": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1204": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1152": "Kanji in Context (Nishiguchi and Kono)",
+                "1399": "Kodansha Compact Kanji Guide",
+                "1457": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "772": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1047": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "118": "Les Kanjis dans la tete (Yves Maniette)",
+                "24046": "Morohashi",
+                "1133": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3992": "New Nelson (John Haig)",
+                "117": "Remembering The Kanji (James Heisig)",
+                "122": "Remembering The Kanji, 6th edition (James Heisig)",
+                "882": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3360": "2001 Kanji",
+                "5a4.3": "The Kanji Dictionary",
+                "1-5-4": "SKIP code",
+                "1962.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-29": "JIS X 0208-1997 kuten code",
+                "7802": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いさ、 ご"
+                ],
+                "chinese": [
+                    "sha1"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "ノ",
+                "口",
+                "小",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "砂",
+                    "reading": "すな",
+                    "meanings": [
+                        "sand",
+                        "grit"
+                    ]
+                },
+                {
+                    "kanji": "砂浜",
+                    "reading": "すなはま",
+                    "meanings": [
+                        "sandy beach"
+                    ]
+                },
+                {
+                    "kanji": "鳴き砂",
+                    "reading": "なきすな",
+                    "meanings": [
+                        "singing sand (which produces sound when stepped on)",
+                        "whistling sand",
+                        "squeaking sand",
+                        "barking sand"
+                    ]
+                },
+                {
+                    "kanji": "猫砂",
+                    "reading": "ねこすな",
+                    "meanings": [
+                        "cat litter",
+                        "kitty litter"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "砂漠",
+                    "reading": "サバク",
+                    "meanings": [
+                        "desert"
+                    ]
+                },
+                {
+                    "kanji": "砂糖",
+                    "reading": "サトウ",
+                    "meanings": [
+                        "sugar"
+                    ]
+                },
+                {
+                    "kanji": "土砂",
+                    "reading": "ドシャ",
+                    "meanings": [
+                        "sediment",
+                        "earth and sand"
+                    ]
+                },
+                {
+                    "kanji": "流砂",
+                    "reading": "リュウサ",
+                    "meanings": [
+                        "quicksand"
+                    ]
+                },
+                {
+                    "kanji": "砂岩",
+                    "reading": "サガン",
+                    "meanings": [
+                        "sandstone"
+                    ]
+                },
+                {
+                    "kanji": "砂丘",
+                    "reading": "サキュウ",
+                    "meanings": [
+                        "sand dune",
+                        "sand hill"
+                    ]
+                },
+                {
+                    "kanji": "土砂",
+                    "reading": "ドシャ",
+                    "meanings": [
+                        "sediment",
+                        "earth and sand"
+                    ]
+                },
+                {
+                    "kanji": "流砂",
+                    "reading": "リュウサ",
+                    "meanings": [
+                        "quicksand"
+                    ]
+                }
+            ]
+        }
+    }
+}

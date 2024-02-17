@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"効\"",
+        "strokes": 8,
+        "main_meanings": [
+            "merit",
+            "efficacy",
+            "efficiency",
+            "benefit"
+        ],
+        "main_readings": {
+            "kun": [
+                "き.く",
+                "ききめ",
+                "なら.う"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "782": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "697": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "671": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "515": "A New Dictionary of Kanji Usage",
+                "722": "Classic Nelson (Andrew Nelson)",
+                "623": "Essential Kanji (P.G. O’Neill)",
+                "370": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "653": "Japanese Names (P.G. O’Neill)",
+                "816": "Kanji and Kana (Spahn and Hadamitzky)",
+                "835": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "501": "Kanji in Context (Nishiguchi and Kono)",
+                "216": "Kodansha Compact Kanji Guide",
+                "1617": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "849": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1164": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1284": "Les Kanjis dans la tete (Yves Maniette)",
+                "2334": "Morohashi",
+                "1265": "New Japanese English Character Dictionary (Jack Halpern)",
+                "535": "New Nelson (John Haig)",
+                "1276": "Remembering The Kanji (James Heisig)",
+                "1369": "Remembering The Kanji, 6th edition (James Heisig)",
+                "682": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "445": "2001 Kanji",
+                "2g6.2": "The Kanji Dictionary",
+                "1-6-2": "SKIP code",
+                "0442.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-90": "JIS X 0208-1997 kuten code",
+                "52b9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xiao4"
+                ],
+                "korean": [
+                    "hyo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "亠",
+                "力",
+                "父"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": [
+                "效"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "効く",
+                    "reading": "きく",
+                    "meanings": [
+                        "to be effective",
+                        "to take effect",
+                        "to be good (for)",
+                        "to work",
+                        "to function well",
+                        "to be possible (to do",
+                        "use",
+                        "etc.)",
+                        "to be able to",
+                        "to taste (alcohol)",
+                        "to try"
+                    ]
+                },
+                {
+                    "kanji": "効き目",
+                    "reading": "ききめ",
+                    "meanings": [
+                        "effect",
+                        "virtue",
+                        "efficacy",
+                        "impression",
+                        "one's dominant eye"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "効",
+                    "reading": "コウ",
+                    "meanings": [
+                        "efficacy",
+                        "benefit",
+                        "efficiency",
+                        "effect",
+                        "result",
+                        "success"
+                    ]
+                },
+                {
+                    "kanji": "効果",
+                    "reading": "コウカ",
+                    "meanings": [
+                        "effect",
+                        "effectiveness",
+                        "efficacy",
+                        "result",
+                        "effects (e.g. sound effects",
+                        "visual effects",
+                        "special effects)"
+                    ]
+                },
+                {
+                    "kanji": "実効",
+                    "reading": "ジッコウ",
+                    "meanings": [
+                        "practical effect",
+                        "efficacy",
+                        "efficiency"
+                    ]
+                },
+                {
+                    "kanji": "時効",
+                    "reading": "ジコウ",
+                    "meanings": [
+                        "statute of limitations",
+                        "lapse of rights after a period of time",
+                        "prescription (including acquisitive and extinctive prescription)",
+                        "becoming invalid or void after a set time",
+                        "ageing",
+                        "aging"
+                    ]
+                }
+            ]
+        }
+    }
+}

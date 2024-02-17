@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"致\"",
+        "strokes": 10,
+        "main_meanings": [
+            "doth",
+            "do",
+            "send",
+            "forward",
+            "cause",
+            "exert",
+            "incur",
+            "engage"
+        ],
+        "main_readings": {
+            "kun": [
+                "いた.す"
+            ],
+            "on": [
+                "チ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1573": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "916": "A New Dictionary of Kanji Usage",
+                "3847": "Classic Nelson (Andrew Nelson)",
+                "1114": "Essential Kanji (P.G. O’Neill)",
+                "1686": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1407": "Japanese Names (P.G. O’Neill)",
+                "903": "Kanji and Kana (Spahn and Hadamitzky)",
+                "925": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "725": "Kanji in Context (Nishiguchi and Kono)",
+                "1590": "Kodansha Compact Kanji Guide",
+                "1668": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "883": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1202": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "763": "Les Kanjis dans la tete (Yves Maniette)",
+                "30149X": "Morohashi",
+                "1316": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4904": "New Nelson (John Haig)",
+                "756": "Remembering The Kanji (James Heisig)",
+                "818": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1384": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3166": "2001 Kanji",
+                "4i6.2": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "1814.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-55": "JIS X 0208-1997 kuten code",
+                "81f4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "chi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "arrive",
+            "parts": [
+                "厶",
+                "土",
+                "至",
+                "乞",
+                "攵"
+            ],
+            "basis": "至",
+            "kangxi_order": 133,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "致す",
+                    "reading": "いたす",
+                    "meanings": [
+                        "to do"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "致命傷",
+                    "reading": "チメイショウ",
+                    "meanings": [
+                        "fatal wound"
+                    ]
+                },
+                {
+                    "kanji": "致死",
+                    "reading": "チシ",
+                    "meanings": [
+                        "lethal",
+                        "fatal"
+                    ]
+                },
+                {
+                    "kanji": "招致",
+                    "reading": "ショウチ",
+                    "meanings": [
+                        "invitation",
+                        "summons",
+                        "bidding (e.g. to host the Olympics)",
+                        "calling"
+                    ]
+                },
+                {
+                    "kanji": "誘致",
+                    "reading": "ユウチ",
+                    "meanings": [
+                        "attraction",
+                        "lure",
+                        "invitation"
+                    ]
+                }
+            ]
+        }
+    }
+}

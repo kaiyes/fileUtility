@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"魂\"",
+        "strokes": 14,
+        "main_meanings": [
+            "soul",
+            "spirit"
+        ],
+        "main_readings": {
+            "kun": [
+                "たましい",
+                "たま"
+            ],
+            "on": [
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1280": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1655": "A New Dictionary of Kanji Usage",
+                "5278": "Classic Nelson (Andrew Nelson)",
+                "1584": "Essential Kanji (P.G. O’Neill)",
+                "1917": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2488": "Japanese Names (P.G. O’Neill)",
+                "1525": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1626": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1754": "Kanji in Context (Nishiguchi and Kono)",
+                "1927": "Kodansha Compact Kanji Guide",
+                "1346": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "729": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "975": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2040": "Les Kanjis dans la tete (Yves Maniette)",
+                "45787": "Morohashi",
+                "1063": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6835": "New Nelson (John Haig)",
+                "2021": "Remembering The Kanji (James Heisig)",
+                "2177": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1746": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3057": "2001 Kanji",
+                "5f9.2": "The Kanji Dictionary",
+                "1-4-10": "SKIP code",
+                "1671.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-18": "JIS X 0208-1997 kuten code",
+                "9b42": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hun2"
+                ],
+                "korean": [
+                    "hon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ghost,",
+            "parts": [
+                "二",
+                "儿",
+                "匕",
+                "厶",
+                "田",
+                "鬼"
+            ],
+            "basis": "鬼",
+            "kangxi_order": 194,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "魂",
+                    "reading": "たましい",
+                    "meanings": [
+                        "soul",
+                        "spirit"
+                    ]
+                },
+                {
+                    "kanji": "魂不死説",
+                    "reading": "たましいふしせつ",
+                    "meanings": [
+                        "(theory of) the immortality of the soul"
+                    ]
+                },
+                {
+                    "kanji": "一寸の虫にも五分の魂",
+                    "reading": "いっすんのむしにもごぶのたましい",
+                    "meanings": [
+                        "tread on a worm and it will turn",
+                        "even a tiny bug will defend itself",
+                        "even the weakest and smallest beings have their own wills",
+                        "so do not make light of them"
+                    ]
+                },
+                {
+                    "kanji": "死せる魂",
+                    "reading": "しせるたましい",
+                    "meanings": [
+                        "Dead Souls (novel by Gogol)",
+                        "Myortvye dushi"
+                    ]
+                },
+                {
+                    "kanji": "魂",
+                    "reading": "たましい",
+                    "meanings": [
+                        "soul",
+                        "spirit"
+                    ]
+                },
+                {
+                    "kanji": "魂送り",
+                    "reading": "たまおくり",
+                    "meanings": [
+                        "sending off the spirits of the dead"
+                    ]
+                },
+                {
+                    "kanji": "稲魂",
+                    "reading": "うかのみたま",
+                    "meanings": [
+                        "the god of foodstuffs (esp. of rice)"
+                    ]
+                },
+                {
+                    "kanji": "亡き魂",
+                    "reading": "なきたま",
+                    "meanings": [
+                        "departed soul",
+                        "spirit"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "魂",
+                    "reading": "コン",
+                    "meanings": [
+                        "Yang energy",
+                        "spirit"
+                    ]
+                },
+                {
+                    "kanji": "魂胆",
+                    "reading": "コンタン",
+                    "meanings": [
+                        "ulterior motive",
+                        "plot",
+                        "scheme",
+                        "complicated circumstances",
+                        "intricacies"
+                    ]
+                },
+                {
+                    "kanji": "鎮魂",
+                    "reading": "チンコン",
+                    "meanings": [
+                        "repose of a soul",
+                        "ceremony for the repose of a departed soul"
+                    ]
+                },
+                {
+                    "kanji": "入魂",
+                    "reading": "ニュウコン",
+                    "meanings": [
+                        "putting one's heart and soul (into)",
+                        "giving one's all",
+                        "breathing a soul into (e.g. a Buddhist statue)",
+                        "intimacy",
+                        "familiarity"
+                    ]
+                }
+            ]
+        }
+    }
+}

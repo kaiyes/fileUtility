@@ -1,0 +1,171 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"尺\"",
+        "strokes": 4,
+        "main_meanings": [
+            "shaku",
+            "Japanese foot",
+            "measure",
+            "scale",
+            "rule"
+        ],
+        "main_readings": {
+            "kun": [
+                "さし"
+            ],
+            "on": [
+                "シャク",
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "895": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "884": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1842": "A New Dictionary of Kanji Usage",
+                "1377": "Classic Nelson (Andrew Nelson)",
+                "1781": "Essential Kanji (P.G. O’Neill)",
+                "1227": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "96": "Japanese Names (P.G. O’Neill)",
+                "1895": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2071": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "762": "Kanji in Context (Nishiguchi and Kono)",
+                "521": "Kodansha Compact Kanji Guide",
+                "4248": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2146": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2896": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1079": "Les Kanjis dans la tete (Yves Maniette)",
+                "7632": "Morohashi",
+                "3440": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1404": "New Nelson (John Haig)",
+                "1070": "Remembering The Kanji (James Heisig)",
+                "1151": "Remembering The Kanji, 6th edition (James Heisig)",
+                "830": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3762": "2001 Kanji",
+                "3r1.1": "The Kanji Dictionary",
+                "4-4-1": "SKIP code",
+                "3-3-1": "SKIP code",
+                "7780.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-60": "JIS X 0208-1997 kuten code",
+                "5c3a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chi3",
+                    "che3"
+                ],
+                "korean": [
+                    "cheog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "丶",
+                "尸"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "尺",
+                    "reading": "さし",
+                    "meanings": [
+                        "ruler",
+                        "measure"
+                    ]
+                },
+                {
+                    "kanji": "畳尺",
+                    "reading": "たたみじゃく",
+                    "meanings": [
+                        "folding ruler",
+                        "collapsible ruler"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "尺",
+                    "reading": "シャク",
+                    "meanings": [
+                        "shaku (unit of distance approximately equal to 30.3 cm)",
+                        "rule",
+                        "measure",
+                        "scale",
+                        "length"
+                    ]
+                },
+                {
+                    "kanji": "尺度",
+                    "reading": "シャクド",
+                    "meanings": [
+                        "gauge",
+                        "standard",
+                        "measure",
+                        "criterion",
+                        "index",
+                        "length",
+                        "size",
+                        "(measuring) rule",
+                        "scale"
+                    ]
+                },
+                {
+                    "kanji": "大尺",
+                    "reading": "ダイシャク",
+                    "meanings": [
+                        "large shaku (approx. 35.6cm)"
+                    ]
+                },
+                {
+                    "kanji": "対数尺",
+                    "reading": "タイスウジャク",
+                    "meanings": [
+                        "logarithmic scale"
+                    ]
+                },
+                {
+                    "kanji": "尺寸",
+                    "reading": "シャクスン",
+                    "meanings": [
+                        "(something) tiny",
+                        "trifle"
+                    ]
+                },
+                {
+                    "kanji": "尺地",
+                    "reading": "セキチ",
+                    "meanings": [
+                        "small plot of land"
+                    ]
+                },
+                {
+                    "kanji": "咫尺",
+                    "reading": "シセキ",
+                    "meanings": [
+                        "very short distance"
+                    ]
+                }
+            ]
+        }
+    }
+}

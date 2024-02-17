@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"顕\"",
+        "strokes": 18,
+        "main_meanings": [
+            "appear",
+            "existing"
+        ],
+        "main_readings": {
+            "kun": [
+                "あきらか",
+                "あらわ.れる"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1224": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1682": "A New Dictionary of Kanji Usage",
+                "5137": "Classic Nelson (Andrew Nelson)",
+                "1245": "Essential Kanji (P.G. O’Neill)",
+                "1901": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2757": "Japanese Names (P.G. O’Neill)",
+                "1170": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1227": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1647": "Kanji in Context (Nishiguchi and Kono)",
+                "1894": "Kodansha Compact Kanji Guide",
+                "2274": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1175": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1605": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1806": "New Japanese English Character Dictionary (Jack Halpern)",
+                "43609P": "Morohashi",
+                "6646": "New Nelson (John Haig)",
+                "1789": "Remembering The Kanji (James Heisig)",
+                "1928": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1911": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3861": "2001 Kanji",
+                "9a9.5": "The Kanji Dictionary",
+                "1-9-9": "SKIP code",
+                "6118.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-18": "JIS X 0208-1997 kuten code",
+                "9855": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら"
+                ],
+                "chinese": [
+                    "xian3"
+                ],
+                "korean": [
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "ハ",
+                "日",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": 181,
+            "variants": [
+                "顯"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "明らか",
+                    "reading": "あきらか",
+                    "meanings": [
+                        "clear",
+                        "obvious",
+                        "evident",
+                        "plain",
+                        "definite",
+                        "bright",
+                        "light"
+                    ]
+                },
+                {
+                    "kanji": "現れる",
+                    "reading": "あらわれる",
+                    "meanings": [
+                        "to appear",
+                        "to come in sight",
+                        "to become visible",
+                        "to come out",
+                        "to embody",
+                        "to materialize",
+                        "to materialise",
+                        "to be expressed (e.g. emotions)",
+                        "to become apparent (e.g. trends",
+                        "effects)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "顕",
+                    "reading": "ケン",
+                    "meanings": [
+                        "exposure",
+                        "clarity",
+                        "exoteric Buddhism",
+                        "public Buddhist teachings"
+                    ]
+                },
+                {
+                    "kanji": "顕在",
+                    "reading": "ケンザイ",
+                    "meanings": [
+                        "being actual (as opposed to hidden or latent)",
+                        "being apparent",
+                        "being obvious",
+                        "being tangible",
+                        "being revealed"
+                    ]
+                },
+                {
+                    "kanji": "貴顕",
+                    "reading": "キケン",
+                    "meanings": [
+                        "distinguished person"
+                    ]
+                },
+                {
+                    "kanji": "丕顕",
+                    "reading": "ヒケン",
+                    "meanings": [
+                        "great and brilliant",
+                        "splendid"
+                    ]
+                }
+            ]
+        }
+    }
+}

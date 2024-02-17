@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"槙\"",
+        "strokes": 14,
+        "main_meanings": [
+            "twig",
+            "ornamental evergreen"
+        ],
+        "main_readings": {
+            "kun": [
+                "まき",
+                "こずえ"
+            ],
+            "on": [
+                "テン",
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2125": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1330": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "722": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "967": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "0": "Morohashi",
+                "1051": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2819": "New Nelson (John Haig)",
+                "2492": "Remembering The Kanji (James Heisig)",
+                "2555": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a10.27": "The Kanji Dictionary",
+                "1-4-10": "SKIP code",
+                "4198.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-74": "JIS X 0208-1997 kuten code",
+                "69d9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dian1"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "ハ",
+                "十",
+                "木",
+                "目"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": [
+                "槇"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "槙",
+                    "reading": "まき",
+                    "meanings": [
+                        "yew plum pine (Podocarpus macrophyllus)"
+                    ]
+                },
+                {
+                    "kanji": "槇皮",
+                    "reading": "まいはだ",
+                    "meanings": [
+                        "caulking",
+                        "calking",
+                        "oakum"
+                    ]
+                },
+                {
+                    "kanji": "犬槙",
+                    "reading": "いぬまき",
+                    "meanings": [
+                        "yew plum pine (Podocarpus macrophyllus)"
+                    ]
+                },
+                {
+                    "kanji": "棈",
+                    "reading": "あべまき",
+                    "meanings": [
+                        "Chinese cork oak (Quercus variabilis)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "柏槙",
+                    "reading": "ビャクシン",
+                    "meanings": [
+                        "Chinese juniper (Juniperus chinensis)"
+                    ]
+                },
+                {
+                    "kanji": "新高柏槇",
+                    "reading": "ニイタカビャクシン",
+                    "meanings": [
+                        "flaky juniper (Juniperus squamata)",
+                        "Himalayan juniper"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寸\"",
+        "strokes": 3,
+        "main_meanings": [
+            "measurement",
+            "tenth of a shaku",
+            "a little",
+            "small"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "スン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "920": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "909": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1523": "A New Dictionary of Kanji Usage",
+                "1348": "Classic Nelson (Andrew Nelson)",
+                "1045": "Essential Kanji (P.G. O’Neill)",
+                "1220": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "34": "Japanese Names (P.G. O’Neill)",
+                "1894": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2070": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "367": "Kanji in Context (Nishiguchi and Kono)",
+                "499": "Kodansha Compact Kanji Guide",
+                "3652": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1864": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2541": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "45": "Remembering The Kanji, 6th edition (James Heisig)",
+                "7411": "Morohashi",
+                "2935": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1372": "New Nelson (John Haig)",
+                "828": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1448": "2001 Kanji",
+                "0a3.17": "The Kanji Dictionary",
+                "3-2-1": "SKIP code",
+                "4-3-3": "SKIP code",
+                "4030.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-03": "JIS X 0208-1997 kuten code",
+                "5bf8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "す、 みき"
+                ],
+                "chinese": [
+                    "cun4"
+                ],
+                "korean": [
+                    "chon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "thumb,",
+            "parts": [
+                "寸"
+            ],
+            "basis": "寸",
+            "kangxi_order": 41,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "寸",
+                    "reading": "スン",
+                    "meanings": [
+                        "sun (approx. 3 cm)",
+                        "length",
+                        "measurement",
+                        "shortness",
+                        "tininess"
+                    ]
+                },
+                {
+                    "kanji": "寸前",
+                    "reading": "スンゼン",
+                    "meanings": [
+                        "just before",
+                        "on the verge of",
+                        "on the brink of",
+                        "just in front of",
+                        "just ahead of"
+                    ]
+                },
+                {
+                    "kanji": "原寸",
+                    "reading": "ゲンスン",
+                    "meanings": [
+                        "actual size",
+                        "full size"
+                    ]
+                },
+                {
+                    "kanji": "外寸",
+                    "reading": "ガイスン",
+                    "meanings": [
+                        "external dimensions",
+                        "outer size"
+                    ]
+                }
+            ]
+        }
+    }
+}

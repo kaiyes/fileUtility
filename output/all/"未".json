@@ -1,0 +1,246 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"未\"",
+        "strokes": 5,
+        "main_meanings": [
+            "un-",
+            "not yet",
+            "hitherto",
+            "still",
+            "even now",
+            "sign of the ram",
+            "1-3PM",
+            "eighth sign of Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "いま.だ",
+                "ま.だ",
+                "ひつじ"
+            ],
+            "on": [
+                "ミ",
+                "ビ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "872": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "617": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "794": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "801": "A New Dictionary of Kanji Usage",
+                "179": "Classic Nelson (Andrew Nelson)",
+                "626": "Essential Kanji (P.G. O’Neill)",
+                "615": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "210": "Japanese Names (P.G. O’Neill)",
+                "306": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "583": "Kanji in Context (Nishiguchi and Kono)",
+                "1048": "Kodansha Compact Kanji Guide",
+                "4318": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2185": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2941": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "221": "Les Kanjis dans la tete (Yves Maniette)",
+                "14419": "Morohashi",
+                "3506": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2535": "New Nelson (John Haig)",
+                "216": "Remembering The Kanji (James Heisig)",
+                "229": "Remembering The Kanji, 6th edition (James Heisig)",
+                "458": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1464": "2001 Kanji",
+                "0a5.27": "The Kanji Dictionary",
+                "4-5-3": "SKIP code",
+                "5090.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-04": "JIS X 0208-1997 kuten code",
+                "672a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei4"
+                ],
+                "korean": [
+                    "mi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "｜",
+                "二",
+                "亠",
+                "ハ",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "未だ",
+                    "reading": "まだ",
+                    "meanings": [
+                        "still",
+                        "as yet",
+                        "only",
+                        "(not) yet",
+                        "more",
+                        "(more) still",
+                        "at least",
+                        "comparatively",
+                        "relatively",
+                        "unfinished",
+                        "incomplete",
+                        "not yet done"
+                    ]
+                },
+                {
+                    "kanji": "未だかつて",
+                    "reading": "いまだかつて",
+                    "meanings": [
+                        "never (before)"
+                    ]
+                },
+                {
+                    "kanji": "未だ",
+                    "reading": "まだ",
+                    "meanings": [
+                        "still",
+                        "as yet",
+                        "only",
+                        "(not) yet",
+                        "more",
+                        "(more) still",
+                        "at least",
+                        "comparatively",
+                        "relatively",
+                        "unfinished",
+                        "incomplete",
+                        "not yet done"
+                    ]
+                },
+                {
+                    "kanji": "未だしも",
+                    "reading": "まだしも",
+                    "meanings": [
+                        "rather",
+                        "better"
+                    ]
+                },
+                {
+                    "kanji": "未",
+                    "reading": "ひつじ",
+                    "meanings": [
+                        "the Sheep (eighth sign of the Chinese zodiac)",
+                        "the Ram",
+                        "the Goat",
+                        "hour of the Sheep (around 2pm",
+                        "1-3pm",
+                        "or 2-4pm)",
+                        "south-southwest",
+                        "sixth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "未草",
+                    "reading": "ひつじぐさ",
+                    "meanings": [
+                        "pygmy waterlily (Nymphaea tetragona)"
+                    ]
+                },
+                {
+                    "kanji": "辛未",
+                    "reading": "かのとひつじ",
+                    "meanings": [
+                        "Metal Sheep (8th term of the sexagenary cycle",
+                        "e.g. 1931",
+                        "1991",
+                        "2051)"
+                    ]
+                },
+                {
+                    "kanji": "乙未",
+                    "reading": "きのとひつじ",
+                    "meanings": [
+                        "Wood Sheep (32nd term of the sexagenary cycle",
+                        "e.g. 1955",
+                        "2015",
+                        "2075)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "未",
+                    "reading": "ミ",
+                    "meanings": [
+                        "not yet",
+                        "un-"
+                    ]
+                },
+                {
+                    "kanji": "未解決",
+                    "reading": "ミカイケツ",
+                    "meanings": [
+                        "unsolved",
+                        "unresolved",
+                        "unsettled",
+                        "pending",
+                        "outstanding"
+                    ]
+                },
+                {
+                    "kanji": "過現未",
+                    "reading": "カゲンミ",
+                    "meanings": [
+                        "past",
+                        "present and future",
+                        "three states of existence"
+                    ]
+                },
+                {
+                    "kanji": "未央柳",
+                    "reading": "ビヨウヤナギ",
+                    "meanings": [
+                        "Chinese hypericum (Hypericum monogynum)"
+                    ]
+                },
+                {
+                    "kanji": "丁未",
+                    "reading": "ヒノトヒツジ",
+                    "meanings": [
+                        "Fire Sheep (44th term of the sexagenary cycle",
+                        "e.g. 1907",
+                        "1967",
+                        "2027)"
+                    ]
+                },
+                {
+                    "kanji": "癸未",
+                    "reading": "ミズノトヒツジ",
+                    "meanings": [
+                        "Water Sheep (20th term of the sexagenary cycle",
+                        "e.g. 1943",
+                        "2003",
+                        "2063)"
+                    ]
+                }
+            ]
+        }
+    }
+}

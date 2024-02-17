@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"診\"",
+        "strokes": 12,
+        "main_meanings": [
+            "checkup",
+            "seeing",
+            "diagnose",
+            "examine"
+        ],
+        "main_readings": {
+            "kun": [
+                "み.る"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1440": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1069": "A New Dictionary of Kanji Usage",
+                "4338": "Classic Nelson (Andrew Nelson)",
+                "1081": "Essential Kanji (P.G. O’Neill)",
+                "1745": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1214": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1277": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1361": "Kanji in Context (Nishiguchi and Kono)",
+                "1674": "Kodansha Compact Kanji Guide",
+                "1898": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1008": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1364": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1740": "Les Kanjis dans la tete (Yves Maniette)",
+                "35337": "Morohashi",
+                "1504": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5586": "New Nelson (John Haig)",
+                "1724": "Remembering The Kanji (James Heisig)",
+                "1860": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1586": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3060": "2001 Kanji",
+                "7a5.9": "The Kanji Dictionary",
+                "1-7-5": "SKIP code",
+                "0862.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-39": "JIS X 0208-1997 kuten code",
+                "8a3a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhen3",
+                    "zhen1"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "个",
+                "彡",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "診る",
+                    "reading": "みる",
+                    "meanings": [
+                        "to examine (medically)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "診断",
+                    "reading": "シンダン",
+                    "meanings": [
+                        "diagnosis",
+                        "medical examination"
+                    ]
+                },
+                {
+                    "kanji": "診察",
+                    "reading": "シンサツ",
+                    "meanings": [
+                        "medical examination",
+                        "checkup",
+                        "consultation"
+                    ]
+                },
+                {
+                    "kanji": "検診",
+                    "reading": "ケンシン",
+                    "meanings": [
+                        "physical examination",
+                        "medical examination",
+                        "health checkup",
+                        "health screening"
+                    ]
+                },
+                {
+                    "kanji": "受診",
+                    "reading": "ジュシン",
+                    "meanings": [
+                        "having a medical examination",
+                        "seeing a doctor"
+                    ]
+                }
+            ]
+        }
+    }
+}

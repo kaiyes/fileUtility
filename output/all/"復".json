@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"復\"",
+        "strokes": 12,
+        "main_meanings": [
+            "restore",
+            "return to",
+            "revert",
+            "resume"
+        ],
+        "main_readings": {
+            "kun": [
+                "また"
+            ],
+            "on": [
+                "フク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "710": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "803": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "782": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "585": "A New Dictionary of Kanji Usage",
+                "1627": "Classic Nelson (Andrew Nelson)",
+                "588": "Essential Kanji (P.G. O’Neill)",
+                "525": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1571": "Japanese Names (P.G. O’Neill)",
+                "917": "Kanji and Kana (Spahn and Hadamitzky)",
+                "939": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "521": "Kanji in Context (Nishiguchi and Kono)",
+                "634": "Kodansha Compact Kanji Guide",
+                "701": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "420": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "527": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "884": "Les Kanjis dans la tete (Yves Maniette)",
+                "10183": "Morohashi",
+                "575": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1760": "New Nelson (John Haig)",
+                "875": "Remembering The Kanji (James Heisig)",
+                "940": "Remembering The Kanji, 6th edition (James Heisig)",
+                "766": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2067": "2001 Kanji",
+                "3i9.4": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "2824.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-92": "JIS X 0208-1997 kuten code",
+                "5fa9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bog",
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "一",
+                "ノ",
+                "人",
+                "夂",
+                "彳",
+                "日",
+                "乞"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "又",
+                    "reading": "また",
+                    "meanings": [
+                        "again",
+                        "once more",
+                        "once again",
+                        "another time",
+                        "some other time",
+                        "also",
+                        "too",
+                        "as well",
+                        "likewise",
+                        "on the other hand",
+                        "while",
+                        "and",
+                        "in addition",
+                        "besides",
+                        "moreover",
+                        "furthermore",
+                        "or",
+                        "otherwise",
+                        "really",
+                        "how",
+                        "(what",
+                        "why) on earth",
+                        "indirect"
+                    ]
+                },
+                {
+                    "kanji": "又々",
+                    "reading": "またまた",
+                    "meanings": [
+                        "once again",
+                        "yet again",
+                        "(there you go) again"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "復旧",
+                    "reading": "フッキュウ",
+                    "meanings": [
+                        "restoration",
+                        "restitution",
+                        "rehabilitation"
+                    ]
+                },
+                {
+                    "kanji": "復員",
+                    "reading": "フクイン",
+                    "meanings": [
+                        "demobilization",
+                        "demobilisation",
+                        "repatriation"
+                    ]
+                },
+                {
+                    "kanji": "重複",
+                    "reading": "チョウフク",
+                    "meanings": [
+                        "duplication",
+                        "repetition",
+                        "overlapping",
+                        "redundancy",
+                        "restoration"
+                    ]
+                },
+                {
+                    "kanji": "障害回復",
+                    "reading": "ショウガイカイフク",
+                    "meanings": [
+                        "fault recovery"
+                    ]
+                }
+            ]
+        }
+    }
+}

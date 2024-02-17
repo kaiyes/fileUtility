@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"体\"",
+        "strokes": 7,
+        "main_meanings": [
+            "body",
+            "substance",
+            "object",
+            "reality",
+            "counter for images"
+        ],
+        "main_readings": {
+            "kun": [
+                "からだ",
+                "かたち"
+            ],
+            "on": [
+                "タイ",
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "270": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "182": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "165": "New Nelson (John Haig)",
+                "110": "A New Dictionary of Kanji Usage",
+                "405": "Classic Nelson (Andrew Nelson)",
+                "176": "Essential Kanji (P.G. O’Neill)",
+                "115": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "358": "Japanese Names (P.G. O’Neill)",
+                "2.11": "Japanese for Busy People",
+                "61": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "80": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "52": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "55": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "966": "Les Kanjis dans la tete (Yves Maniette)",
+                "509": "Morohashi",
+                "71": "New Japanese English Character Dictionary (Jack Halpern)",
+                "957": "Remembering The Kanji (James Heisig)",
+                "1030": "Remembering The Kanji, 6th edition (James Heisig)",
+                "96": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "149": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2155": "2001 Kanji",
+                "2a5.6": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "2523.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-46": "JIS X 0208-1997 kuten code",
+                "4f53": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なり"
+                ],
+                "chinese": [
+                    "ti3",
+                    "ben4"
+                ],
+                "korean": [
+                    "che"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "化",
+                "木"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "躰"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "体",
+                    "reading": "からだ",
+                    "meanings": [
+                        "body",
+                        "torso",
+                        "trunk",
+                        "build",
+                        "physique",
+                        "frame",
+                        "figure",
+                        "health",
+                        "constitution",
+                        "corpse",
+                        "dead body"
+                    ]
+                },
+                {
+                    "kanji": "体つき",
+                    "reading": "からだつき",
+                    "meanings": [
+                        "body build",
+                        "figure"
+                    ]
+                },
+                {
+                    "kanji": "お体",
+                    "reading": "おからだ",
+                    "meanings": [
+                        "body"
+                    ]
+                },
+                {
+                    "kanji": "御体",
+                    "reading": "おんからだ",
+                    "meanings": [
+                        "body of Christ (Eucharist)"
+                    ]
+                },
+                {
+                    "kanji": "形体",
+                    "reading": "なりかたち",
+                    "meanings": [
+                        "one's appearance"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "体",
+                    "reading": "タイ",
+                    "meanings": [
+                        "body",
+                        "physique",
+                        "posture",
+                        "shape",
+                        "form",
+                        "style",
+                        "substance",
+                        "identity",
+                        "reality",
+                        "field",
+                        "counter for humanoid forms (e.g. dolls",
+                        "statues",
+                        "corpses",
+                        "etc.)",
+                        "typeface",
+                        "type"
+                    ]
+                },
+                {
+                    "kanji": "体育",
+                    "reading": "タイイク",
+                    "meanings": [
+                        "physical education",
+                        "PE",
+                        "gym (class)"
+                    ]
+                },
+                {
+                    "kanji": "生体",
+                    "reading": "セイタイ",
+                    "meanings": [
+                        "organism",
+                        "living body"
+                    ]
+                },
+                {
+                    "kanji": "解体",
+                    "reading": "カイタイ",
+                    "meanings": [
+                        "demolition",
+                        "taking down",
+                        "dismantling",
+                        "disassembly",
+                        "taking apart",
+                        "dissolution (of an organization",
+                        "company",
+                        "etc.)",
+                        "breaking up",
+                        "dissection (of a body)",
+                        "dismemberment"
+                    ]
+                },
+                {
+                    "kanji": "体",
+                    "reading": "テイ",
+                    "meanings": [
+                        "appearance",
+                        "air",
+                        "condition",
+                        "state",
+                        "form"
+                    ]
+                },
+                {
+                    "kanji": "体裁",
+                    "reading": "テイサイ",
+                    "meanings": [
+                        "(outward) appearance",
+                        "(proper) format (e.g. of an essay)",
+                        "form",
+                        "style",
+                        "appearances",
+                        "decency",
+                        "show",
+                        "display",
+                        "lip-service",
+                        "insincere words",
+                        "glib talk"
+                    ]
+                },
+                {
+                    "kanji": "身体",
+                    "reading": "シンタイ",
+                    "meanings": [
+                        "body",
+                        "physical system",
+                        "(the) person"
+                    ]
+                },
+                {
+                    "kanji": "風体",
+                    "reading": "フウテイ",
+                    "meanings": [
+                        "appearance",
+                        "look",
+                        "dress"
+                    ]
+                }
+            ]
+        }
+    }
+}

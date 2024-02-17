@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"紀\"",
+        "strokes": 9,
+        "main_meanings": [
+            "chronicle",
+            "account",
+            "narrative",
+            "history",
+            "annals",
+            "geologic period"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "578": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "472": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "449": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "930": "A New Dictionary of Kanji Usage",
+                "3497": "Classic Nelson (Andrew Nelson)",
+                "666": "Essential Kanji (P.G. O’Neill)",
+                "1619": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1424": "Japanese Names (P.G. O’Neill)",
+                "372": "Kanji and Kana (Spahn and Hadamitzky)",
+                "373": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "634": "Kanji in Context (Nishiguchi and Kono)",
+                "1512": "Kodansha Compact Kanji Guide",
+                "1628": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "856": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1173": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1366": "Les Kanjis dans la tete (Yves Maniette)",
+                "27234": "Morohashi",
+                "1276": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4439": "New Nelson (John Haig)",
+                "1354": "Remembering The Kanji (James Heisig)",
+                "1454": "Remembering The Kanji, 6th edition (James Heisig)",
+                "521": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2756": "2001 Kanji",
+                "6a3.5": "The Kanji Dictionary",
+                "1-6-3": "SKIP code",
+                "2791.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-10": "JIS X 0208-1997 kuten code",
+                "7d00": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おさむ、 ただす、 とし、 とも、 のり、 もと"
+                ],
+                "chinese": [
+                    "ji4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "小",
+                "已",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "紀",
+                    "reading": "キ",
+                    "meanings": [
+                        "period",
+                        "Nihon Shoki (second oldest work of Japanese history",
+                        "compiled in 720 CE)",
+                        "Nihongi",
+                        "Chronicles of Japan",
+                        "Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+                    ]
+                },
+                {
+                    "kanji": "紀元前",
+                    "reading": "キゲンゼン",
+                    "meanings": [
+                        "pre-era",
+                        "BC",
+                        "BCE"
+                    ]
+                },
+                {
+                    "kanji": "デボン紀",
+                    "reading": "デボンキ",
+                    "meanings": [
+                        "Devonian period"
+                    ]
+                },
+                {
+                    "kanji": "前世紀",
+                    "reading": "ゼンセイキ",
+                    "meanings": [
+                        "last century",
+                        "previous century",
+                        "ancient times",
+                        "old times"
+                    ]
+                }
+            ]
+        }
+    }
+}

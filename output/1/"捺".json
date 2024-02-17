@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"捺\"",
+        "strokes": 11,
+        "main_meanings": [
+            "press",
+            "print",
+            "affix a seal",
+            "stamp"
+        ],
+        "main_readings": {
+            "kun": [
+                "さ.す",
+                "お.す"
+            ],
+            "on": [
+                "ナツ",
+                "ダツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1929": "Classic Nelson (Andrew Nelson)",
+                "2080": "Kanji and Kana (Spahn and Hadamitzky)",
+                "603": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "366": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "456": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "12221": "Morohashi",
+                "2189": "New Nelson (John Haig)",
+                "2250": "Remembering The Kanji (James Heisig)",
+                "2355": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3c8.17": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5409.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-72": "JIS X 0208-1997 kuten code",
+                "637a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "na4"
+                ],
+                "korean": [
+                    "nal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "二",
+                "大",
+                "小",
+                "扎",
+                "示"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "押す",
+                    "reading": "おす",
+                    "meanings": [
+                        "to push",
+                        "to thrust",
+                        "to shove",
+                        "to press (down)",
+                        "to push (e.g. a button)",
+                        "to exert pressure on",
+                        "to stamp (e.g. one's name)",
+                        "to affix (a seal)",
+                        "to affix (e.g. gold leaf)",
+                        "to push (someone for something)",
+                        "to press",
+                        "to put pressure on (someone)",
+                        "to overwhelm",
+                        "to overpower",
+                        "to put (someone) under pressure",
+                        "to be superior to",
+                        "to push ahead (with a policy",
+                        "plan",
+                        "etc.)",
+                        "to proceed",
+                        "to stick to",
+                        "to do ... in spite of ...",
+                        "to defy",
+                        "to brave",
+                        "to push aside",
+                        "to make sure",
+                        "to fall behind schedule"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "捺印",
+                    "reading": "ナツイン",
+                    "meanings": [
+                        "affixing a seal (to)",
+                        "putting one's seal (on)"
+                    ]
+                },
+                {
+                    "kanji": "押捺",
+                    "reading": "オウナツ",
+                    "meanings": [
+                        "stamping",
+                        "impressing",
+                        "affixing a seal"
+                    ]
+                },
+                {
+                    "kanji": "指紋押捺",
+                    "reading": "シモンオウナツ",
+                    "meanings": [
+                        "fingerprinting"
+                    ]
+                }
+            ]
+        }
+    }
+}

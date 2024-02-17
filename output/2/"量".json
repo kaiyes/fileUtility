@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"量\"",
+        "strokes": 12,
+        "main_meanings": [
+            "quantity",
+            "measure",
+            "weight",
+            "amount",
+            "consider",
+            "estimate",
+            "surmise"
+        ],
+        "main_readings": {
+            "kun": [
+                "はか.る"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "734": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "630": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "600": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "544": "A New Dictionary of Kanji Usage",
+                "2141": "Classic Nelson (Andrew Nelson)",
+                "743": "Essential Kanji (P.G. O’Neill)",
+                "973": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1741": "Japanese Names (P.G. O’Neill)",
+                "411": "Kanji and Kana (Spahn and Hadamitzky)",
+                "417": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "435": "Kanji in Context (Nishiguchi and Kono)",
+                "1804": "Kodansha Compact Kanji Guide",
+                "3119": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1598": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2180": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "179": "Les Kanjis dans la tete (Yves Maniette)",
+                "40138": "Morohashi",
+                "2471": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6209": "New Nelson (John Haig)",
+                "177": "Remembering The Kanji (James Heisig)",
+                "189": "Remembering The Kanji, 6th edition (James Heisig)",
+                "601": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3872": "2001 Kanji",
+                "4c8.9": "The Kanji Dictionary",
+                "2-4-8": "SKIP code",
+                "6010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-44": "JIS X 0208-1997 kuten code",
+                "91cf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かず"
+                ],
+                "chinese": [
+                    "liang4",
+                    "liang2"
+                ],
+                "korean": [
+                    "ryang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "village,",
+            "parts": [
+                "一",
+                "日",
+                "里"
+            ],
+            "basis": "里",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "計る",
+                    "reading": "はかる",
+                    "meanings": [
+                        "to measure",
+                        "to weigh",
+                        "to survey",
+                        "to time (sound",
+                        "gauge",
+                        "estimate)",
+                        "to conjecture",
+                        "to infer",
+                        "to surmise"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "量",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "quantity",
+                        "amount",
+                        "volume",
+                        "capacity",
+                        "portion (of food)",
+                        "generosity",
+                        "magnanimity",
+                        "tolerance",
+                        "pramana (means by which one gains accurate and valid knowledge; in Indian philosophy)"
+                    ]
+                },
+                {
+                    "kanji": "量刑",
+                    "reading": "リョウケイ",
+                    "meanings": [
+                        "judge's sentence",
+                        "assessment of a case"
+                    ]
+                },
+                {
+                    "kanji": "裁量",
+                    "reading": "サイリョウ",
+                    "meanings": [
+                        "discretion",
+                        "judgement",
+                        "judgment"
+                    ]
+                },
+                {
+                    "kanji": "軽量",
+                    "reading": "ケイリョウ",
+                    "meanings": [
+                        "light weight"
+                    ]
+                }
+            ]
+        }
+    }
+}

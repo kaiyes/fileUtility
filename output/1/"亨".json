@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"亨\"",
+        "strokes": 7,
+        "main_meanings": [
+            "pass through",
+            "go smoothly"
+        ],
+        "main_readings": {
+            "kun": [
+                "とお.る"
+            ],
+            "on": [
+                "コウ",
+                "キョウ",
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1934": "Essential Kanji (P.G. O’Neill)",
+                "440": "Japanese Names (P.G. O’Neill)",
+                "2009": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2530": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1286": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1754": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "295": "Morohashi",
+                "2037": "New Japanese English Character Dictionary (Jack Halpern)",
+                "91": "New Nelson (John Haig)",
+                "3001": "Remembering The Kanji (James Heisig)"
+            },
+            "classifications": {
+                "2j4.2": "The Kanji Dictionary",
+                "2-2-5": "SKIP code",
+                "2-2-4": "SKIP code",
+                "0020.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-92": "JIS X 0208-1997 kuten code",
+                "4ea8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とうる、 みち、 ゆき、 あきら、 なが、 あき、 とおる、 とおるふ"
+                ],
+                "chinese": [
+                    "heng1"
+                ],
+                "korean": [
+                    "hyeong",
+                    "paeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lid",
+            "parts": [
+                "一",
+                "亅",
+                "亠",
+                "口"
+            ],
+            "basis": "亠",
+            "kangxi_order": 8,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "亨運",
+                    "reading": "コウウン",
+                    "meanings": [
+                        "good fortune"
+                    ]
+                },
+                {
+                    "kanji": "亨通",
+                    "reading": "コウツウ",
+                    "meanings": [
+                        "doing well",
+                        "prosperous"
+                    ]
+                },
+                {
+                    "kanji": "元亨",
+                    "reading": "ゲンコウ",
+                    "meanings": [
+                        "Genkō era (1321.2.23-1324.12.9)"
+                    ]
+                }
+            ]
+        }
+    }
+}

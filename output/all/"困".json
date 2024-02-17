@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"困\"",
+        "strokes": 7,
+        "main_meanings": [
+            "quandary",
+            "become distressed",
+            "annoyed"
+        ],
+        "main_readings": {
+            "kun": [
+                "こま.る"
+            ],
+            "on": [
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "878": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "868": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "860": "A New Dictionary of Kanji Usage",
+                "1033": "Classic Nelson (Andrew Nelson)",
+                "969": "Essential Kanji (P.G. O’Neill)",
+                "422": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "3.9": "Japanese for Busy People",
+                "558": "Kanji and Kana (Spahn and Hadamitzky)",
+                "567": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "254": "Kanji in Context (Nishiguchi and Kono)",
+                "341": "Kodansha Compact Kanji Guide",
+                "3808": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1950": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2644": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "586": "Les Kanjis dans la tete (Yves Maniette)",
+                "4717": "Morohashi",
+                "3070": "New Japanese English Character Dictionary (Jack Halpern)",
+                "946": "New Nelson (John Haig)",
+                "579": "Remembering The Kanji (James Heisig)",
+                "621": "Remembering The Kanji, 6th edition (James Heisig)",
+                "437": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "851": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1864": "2001 Kanji",
+                "3s4.1": "The Kanji Dictionary",
+                "3-3-4": "SKIP code",
+                "6090.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-04": "JIS X 0208-1997 kuten code",
+                "56f0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kun4"
+                ],
+                "korean": [
+                    "gon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "enclosure",
+            "parts": [
+                "囗",
+                "木"
+            ],
+            "basis": "囗",
+            "kangxi_order": 31,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "困る",
+                    "reading": "こまる",
+                    "meanings": [
+                        "to be troubled",
+                        "to have difficulty",
+                        "to be in a fix",
+                        "to be at a loss",
+                        "to be stumped",
+                        "to be embarrassed",
+                        "to be bothered",
+                        "to be inconvenienced",
+                        "to be annoyed",
+                        "to be badly off",
+                        "to be hard up",
+                        "to be in straitened circumstances"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "困惑",
+                    "reading": "コンワク",
+                    "meanings": [
+                        "bewilderment",
+                        "perplexity",
+                        "embarrassment",
+                        "discomfiture",
+                        "bafflement"
+                    ]
+                },
+                {
+                    "kanji": "困難",
+                    "reading": "コンナン",
+                    "meanings": [
+                        "difficulty",
+                        "hardship",
+                        "trouble",
+                        "distress",
+                        "infeasibility",
+                        "inability (to carry out)"
+                    ]
+                },
+                {
+                    "kanji": "絶対貧困",
+                    "reading": "ゼッタイヒンコン",
+                    "meanings": [
+                        "absolute poverty"
+                    ]
+                },
+                {
+                    "kanji": "絶対的貧困",
+                    "reading": "ゼッタイテキヒンコン",
+                    "meanings": [
+                        "absolute poverty"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"漸\"",
+        "strokes": 14,
+        "main_meanings": [
+            "steadily",
+            "gradually advancing",
+            "finally",
+            "barely"
+        ],
+        "main_readings": {
+            "kun": [
+                "ようや.く",
+                "やや",
+                "ようよ.う",
+                "すす.む"
+            ],
+            "on": [
+                "ゼン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1503": "Kanji in Context (Nishiguchi and Kono)",
+                "1867": "A New Dictionary of Kanji Usage",
+                "2680": "Classic Nelson (Andrew Nelson)",
+                "1184": "Essential Kanji (P.G. O’Neill)",
+                "1499": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2081": "Japanese Names (P.G. O’Neill)",
+                "1400": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1489": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1242": "Kodansha Compact Kanji Guide",
+                "867": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "500": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "641": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1144": "Les Kanjis dans la tete (Yves Maniette)",
+                "18179": "Morohashi",
+                "706": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3305": "New Nelson (John Haig)",
+                "1135": "Remembering The Kanji (James Heisig)",
+                "1217": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1712": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "354": "2001 Kanji",
+                "3a11.2": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "3212.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-18": "JIS X 0208-1997 kuten code",
+                "6f38": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jian4",
+                    "jian1"
+                ],
+                "korean": [
+                    "jeom",
+                    "cham"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "汁",
+                "斤",
+                "車"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "漸く",
+                    "reading": "ようやく",
+                    "meanings": [
+                        "finally",
+                        "at last",
+                        "barely",
+                        "narrowly",
+                        "hardly",
+                        "only just",
+                        "gradually",
+                        "little by little",
+                        "by degrees"
+                    ]
+                },
+                {
+                    "kanji": "稍",
+                    "reading": "やや",
+                    "meanings": [
+                        "a little",
+                        "partially",
+                        "somewhat",
+                        "slightly",
+                        "semi-",
+                        "-ish",
+                        "on the ... side",
+                        "a short time",
+                        "a while"
+                    ]
+                },
+                {
+                    "kanji": "漸う",
+                    "reading": "ようよう",
+                    "meanings": [
+                        "finally",
+                        "barely",
+                        "narrowly",
+                        "hardly",
+                        "only just",
+                        "gradually",
+                        "little by little",
+                        "by degrees"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "漸",
+                    "reading": "ゼン",
+                    "meanings": [
+                        "gradual progress"
+                    ]
+                },
+                {
+                    "kanji": "漸減",
+                    "reading": "ゼンゲン",
+                    "meanings": [
+                        "gradual decrease",
+                        "decline"
+                    ]
+                },
+                {
+                    "kanji": "西漸",
+                    "reading": "セイゼン",
+                    "meanings": [
+                        "westward advance"
+                    ]
+                },
+                {
+                    "kanji": "東漸",
+                    "reading": "トウゼン",
+                    "meanings": [
+                        "eastward advance"
+                    ]
+                }
+            ]
+        }
+    }
+}

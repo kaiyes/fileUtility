@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"洵\"",
+        "strokes": 9,
+        "main_meanings": [
+            "alike",
+            "truth"
+        ],
+        "main_readings": {
+            "kun": [
+                "の.ぶ",
+                "まこと.に"
+            ],
+            "on": [
+                "ジュン",
+                "シュン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2538": "Classic Nelson (Andrew Nelson)",
+                "815": "Japanese Names (P.G. O’Neill)",
+                "2139": "Kanji and Kana (Spahn and Hadamitzky)",
+                "458": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "283": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "343": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17416": "Morohashi",
+                "383": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3116": "New Nelson (John Haig)",
+                "2290": "Remembering The Kanji (James Heisig)",
+                "2387": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a6.23": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-62-13": "JIS X 0208-1997 kuten code",
+                "6d35": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xun2"
+                ],
+                "korean": [
+                    "sun",
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "勹",
+                "汁",
+                "日"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "誠に",
+                    "reading": "まことに",
+                    "meanings": [
+                        "indeed",
+                        "really",
+                        "absolutely",
+                        "truly",
+                        "actually",
+                        "very",
+                        "quite"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "洵美",
+                    "reading": "ジュンビ",
+                    "meanings": [
+                        "exquisite",
+                        "truly beautiful"
+                    ]
+                }
+            ]
+        }
+    }
+}

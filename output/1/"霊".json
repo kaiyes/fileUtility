@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"霊\"",
+        "strokes": 15,
+        "main_meanings": [
+            "spirits",
+            "soul"
+        ],
+        "main_readings": {
+            "kun": [
+                "たま"
+            ],
+            "on": [
+                "レイ",
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1923": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1361": "A New Dictionary of Kanji Usage",
+                "5056": "Classic Nelson (Andrew Nelson)",
+                "1299": "Essential Kanji (P.G. O’Neill)",
+                "1891": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2390": "Japanese Names (P.G. O’Neill)",
+                "1168": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1225": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1688": "Kanji in Context (Nishiguchi and Kono)",
+                "1867": "Kodansha Compact Kanji Guide",
+                "3480": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1793": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2442": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1808": "Les Kanjis dans la tete (Yves Maniette)",
+                "42309P": "Morohashi",
+                "2805": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6532": "New Nelson (John Haig)",
+                "1791": "Remembering The Kanji (James Heisig)",
+                "1930": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1815": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3174": "2001 Kanji",
+                "8d7.2": "The Kanji Dictionary",
+                "2-8-7": "SKIP code",
+                "1010.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-78": "JIS X 0208-1997 kuten code",
+                "970a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ling2"
+                ],
+                "korean": [
+                    "ryeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": [
+                "靈"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "魂",
+                    "reading": "たましい",
+                    "meanings": [
+                        "soul",
+                        "spirit"
+                    ]
+                },
+                {
+                    "kanji": "魂送り",
+                    "reading": "たまおくり",
+                    "meanings": [
+                        "sending off the spirits of the dead"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "霊",
+                    "reading": "レイ",
+                    "meanings": [
+                        "soul",
+                        "spirit",
+                        "departed soul",
+                        "ghost"
+                    ]
+                },
+                {
+                    "kanji": "霊園",
+                    "reading": "レイエン",
+                    "meanings": [
+                        "(garden) cemetery",
+                        "park-style cemetery",
+                        "memorial park"
+                    ]
+                },
+                {
+                    "kanji": "心霊",
+                    "reading": "シンレイ",
+                    "meanings": [
+                        "spirit (e.g. human spirit)",
+                        "soul",
+                        "spirit",
+                        "ghost",
+                        "ethereal being"
+                    ]
+                },
+                {
+                    "kanji": "英霊",
+                    "reading": "エイレイ",
+                    "meanings": [
+                        "spirits of war dead",
+                        "person of great ability",
+                        "soul of a talented person"
+                    ]
+                },
+                {
+                    "kanji": "霊",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "vengeful spirit",
+                        "revengeful ghost"
+                    ]
+                },
+                {
+                    "kanji": "霊異",
+                    "reading": "レイイ",
+                    "meanings": [
+                        "miracle",
+                        "wonder",
+                        "wondrous thing"
+                    ]
+                },
+                {
+                    "kanji": "怨霊",
+                    "reading": "オンリョウ",
+                    "meanings": [
+                        "revengeful ghost",
+                        "apparition"
+                    ]
+                },
+                {
+                    "kanji": "新精霊",
+                    "reading": "アラショウリョウ",
+                    "meanings": [
+                        "spirit of someone on the first Obon after their death"
+                    ]
+                }
+            ]
+        }
+    }
+}

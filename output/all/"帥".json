@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"帥\"",
+        "strokes": 9,
+        "main_meanings": [
+            "commander",
+            "leading troops",
+            "governor"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1454": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2025": "A New Dictionary of Kanji Usage",
+                "109": "Classic Nelson (Andrew Nelson)",
+                "1741": "Essential Kanji (P.G. O’Neill)",
+                "883": "Japanese Names (P.G. O’Neill)",
+                "1935": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2120": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1894": "Kanji in Context (Nishiguchi and Kono)",
+                "560": "Kodansha Compact Kanji Guide",
+                "1642": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "868": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1185": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1278": "Les Kanjis dans la tete (Yves Maniette)",
+                "8886": "Morohashi",
+                "1290": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1559": "New Nelson (John Haig)",
+                "1270": "Remembering The Kanji (James Heisig)",
+                "1362": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1249": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "844": "2001 Kanji",
+                "3f6.1": "The Kanji Dictionary",
+                "1-6-3": "SKIP code",
+                "2472.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-67": "JIS X 0208-1997 kuten code",
+                "5e25": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shuai4",
+                    "shuo4"
+                ],
+                "korean": [
+                    "sol",
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "｜",
+                "口",
+                "巾"
+            ],
+            "basis": "巾",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "元帥",
+                    "reading": "ゲンスイ",
+                    "meanings": [
+                        "(field) marshal",
+                        "(fleet) admiral",
+                        "general of the army"
+                    ]
+                },
+                {
+                    "kanji": "総帥",
+                    "reading": "ソウスイ",
+                    "meanings": [
+                        "commander-in-chief",
+                        "leader",
+                        "head of a group of companies"
+                    ]
+                }
+            ]
+        }
+    }
+}

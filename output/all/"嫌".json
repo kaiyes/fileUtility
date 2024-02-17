@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"嫌\"",
+        "strokes": 13,
+        "main_meanings": [
+            "dislike",
+            "detest",
+            "hate"
+        ],
+        "main_readings": {
+            "kun": [
+                "きら.う",
+                "きら.い",
+                "いや"
+            ],
+            "on": [
+                "ケン",
+                "ゲン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1218": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1931": "A New Dictionary of Kanji Usage",
+                "1250": "Classic Nelson (Andrew Nelson)",
+                "1901": "Essential Kanji (P.G. O’Neill)",
+                "1200": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1688": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1803": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1325": "Kanji in Context (Nishiguchi and Kono)",
+                "452": "Kodansha Compact Kanji Guide",
+                "781": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "459": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "583": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1612": "Les Kanjis dans la tete (Yves Maniette)",
+                "6618X": "Morohashi",
+                "636": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1257": "New Nelson (John Haig)",
+                "1598": "Remembering The Kanji (James Heisig)",
+                "1724": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1618": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1764": "2001 Kanji",
+                "3e10.7": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "4843.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-89": "JIS X 0208-1997 kuten code",
+                "5acc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xian2"
+                ],
+                "korean": [
+                    "hyeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "｜",
+                "ハ",
+                "并",
+                "女",
+                "ヨ"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "嫌う",
+                    "reading": "きらう",
+                    "meanings": [
+                        "to hate",
+                        "to dislike",
+                        "to loathe"
+                    ]
+                },
+                {
+                    "kanji": "嫌い",
+                    "reading": "きらい",
+                    "meanings": [
+                        "disliked",
+                        "hated",
+                        "disagreeable",
+                        "tendency",
+                        "smack (of)",
+                        "touch (of)",
+                        "distinction",
+                        "discrimination"
+                    ]
+                },
+                {
+                    "kanji": "嫌いがある",
+                    "reading": "きらいがある",
+                    "meanings": [
+                        "to have a tendency to",
+                        "to be liable to",
+                        "to have a touch of",
+                        "to have a smack of"
+                    ]
+                },
+                {
+                    "kanji": "嫌",
+                    "reading": "いや",
+                    "meanings": [
+                        "disliking",
+                        "not wanting",
+                        "unwilling (to do)",
+                        "reluctant",
+                        "unpleasant",
+                        "disagreeable",
+                        "nasty",
+                        "horrible",
+                        "disgusting",
+                        "undesirable",
+                        "unwelcome",
+                        "no!",
+                        "quit it!",
+                        "stop!"
+                    ]
+                },
+                {
+                    "kanji": "嫌がらせ",
+                    "reading": "いやがらせ",
+                    "meanings": [
+                        "harassment",
+                        "pestering"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "嫌気",
+                    "reading": "イヤキ",
+                    "meanings": [
+                        "dislike",
+                        "disgust",
+                        "disinclination",
+                        "tired of"
+                    ]
+                },
+                {
+                    "kanji": "嫌悪",
+                    "reading": "ケンオ",
+                    "meanings": [
+                        "disgust",
+                        "hate",
+                        "repugnance",
+                        "loathing"
+                    ]
+                },
+                {
+                    "kanji": "酒機嫌",
+                    "reading": "サカキゲン",
+                    "meanings": [
+                        "one's mood when drinking alcohol"
+                    ]
+                },
+                {
+                    "kanji": "屠蘇機嫌",
+                    "reading": "トソキゲン",
+                    "meanings": [
+                        "feeling a little drunk with the New Year's sake"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肌\"",
+        "strokes": 6,
+        "main_meanings": [
+            "texture",
+            "skin",
+            "body",
+            "grain"
+        ],
+        "main_readings": {
+            "kun": [
+                "はだ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1704": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1130": "A New Dictionary of Kanji Usage",
+                "3726": "Classic Nelson (Andrew Nelson)",
+                "1890": "Essential Kanji (P.G. O’Neill)",
+                "840": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1306": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1385": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1345": "Kanji in Context (Nishiguchi and Kono)",
+                "1021": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "553": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "731": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "66": "Remembering The Kanji (James Heisig)",
+                "29242": "Morohashi",
+                "827": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4755": "New Nelson (John Haig)",
+                "70": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1079": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3957": "2001 Kanji",
+                "4b2.2": "The Kanji Dictionary",
+                "1-4-2": "SKIP code",
+                "7721.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-09": "JIS X 0208-1997 kuten code",
+                "808c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "几",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "肌",
+                    "reading": "はだ",
+                    "meanings": [
+                        "skin",
+                        "body (in the context of intimate bodily contact)",
+                        "surface",
+                        "grain (e.g. of wood)",
+                        "texture",
+                        "disposition",
+                        "temperament",
+                        "character",
+                        "type"
+                    ]
+                },
+                {
+                    "kanji": "肌色",
+                    "reading": "はだいろ",
+                    "meanings": [
+                        "flesh colour (of a Japanese person)",
+                        "flesh color",
+                        "pale orange",
+                        "(one's) skin color",
+                        "skin colour",
+                        "skin tone"
+                    ]
+                },
+                {
+                    "kanji": "素肌",
+                    "reading": "すはだ",
+                    "meanings": [
+                        "bare skin",
+                        "naked skin"
+                    ]
+                },
+                {
+                    "kanji": "地肌",
+                    "reading": "じはだ",
+                    "meanings": [
+                        "texture",
+                        "grain",
+                        "one's skin (lacking makeup",
+                        "etc.)",
+                        "natural skin",
+                        "bare skin",
+                        "scalp",
+                        "surface of the earth",
+                        "bare ground",
+                        "surface of a sword blade"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "肌骨",
+                    "reading": "キコツ",
+                    "meanings": [
+                        "skin and bones"
+                    ]
+                },
+                {
+                    "kanji": "肌膚",
+                    "reading": "キフ",
+                    "meanings": [
+                        "skin"
+                    ]
+                },
+                {
+                    "kanji": "雪肌",
+                    "reading": "ユキハダ",
+                    "meanings": [
+                        "snow's surface",
+                        "lily-white skin",
+                        "fair skin"
+                    ]
+                },
+                {
+                    "kanji": "美肌",
+                    "reading": "ビハダ",
+                    "meanings": [
+                        "beautiful skin"
+                    ]
+                }
+            ]
+        }
+    }
+}

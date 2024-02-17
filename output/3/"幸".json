@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"幸\"",
+        "strokes": 8,
+        "main_meanings": [
+            "happiness",
+            "blessing",
+            "fortune"
+        ],
+        "main_readings": {
+            "kun": [
+                "さいわ.い",
+                "さち",
+                "しあわ.せ"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "395": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "295": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "279": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "683": "A New Dictionary of Kanji Usage",
+                "1073": "Classic Nelson (Andrew Nelson)",
+                "712": "Essential Kanji (P.G. O’Neill)",
+                "504": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "661": "Japanese Names (P.G. O’Neill)",
+                "684": "Kanji and Kana (Spahn and Hadamitzky)",
+                "697": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "894": "Kanji in Context (Nishiguchi and Kono)",
+                "575": "Kodansha Compact Kanji Guide",
+                "2755": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1408": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1901": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1519": "Les Kanjis dans la tete (Yves Maniette)",
+                "9176": "Morohashi",
+                "2216": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1595": "New Nelson (John Haig)",
+                "1505": "Remembering The Kanji (James Heisig)",
+                "1622": "Remembering The Kanji, 6th edition (James Heisig)",
+                "423": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "297": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1455": "2001 Kanji",
+                "3b5.9": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4040.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-12": "JIS X 0208-1997 kuten code",
+                "5e78": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こ、 さき、 さし、 さっ、 とも、 ひろ、 みゆき、 ゆ、 ゆき、 よし"
+                ],
+                "chinese": [
+                    "xing4"
+                ],
+                "korean": [
+                    "haeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "pestle",
+            "parts": [
+                "亠",
+                "十",
+                "立",
+                "辛"
+            ],
+            "basis": "干",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幸い",
+                    "reading": "さいわい",
+                    "meanings": [
+                        "happiness",
+                        "blessedness",
+                        "luck",
+                        "fortune",
+                        "felicity",
+                        "luckily",
+                        "fortunately"
+                    ]
+                },
+                {
+                    "kanji": "幸いあれ",
+                    "reading": "さいわいあれ",
+                    "meanings": [
+                        "be happy!",
+                        "cheer up!"
+                    ]
+                },
+                {
+                    "kanji": "幸",
+                    "reading": "さち",
+                    "meanings": [
+                        "good luck",
+                        "fortune",
+                        "happiness",
+                        "harvest",
+                        "yield"
+                    ]
+                },
+                {
+                    "kanji": "幸ある",
+                    "reading": "さちある",
+                    "meanings": [
+                        "fortunate",
+                        "happy",
+                        "lucky"
+                    ]
+                },
+                {
+                    "kanji": "川の幸",
+                    "reading": "かわのさち",
+                    "meanings": [
+                        "catch (fish) of the river",
+                        "products of the river",
+                        "fruits of the river"
+                    ]
+                },
+                {
+                    "kanji": "山幸",
+                    "reading": "やまさち",
+                    "meanings": [
+                        "food of the mountains (wild game",
+                        "mountain vegetables",
+                        "mushrooms",
+                        "etc.)",
+                        "fruits of the land"
+                    ]
+                },
+                {
+                    "kanji": "幸せ",
+                    "reading": "しあわせ",
+                    "meanings": [
+                        "happiness",
+                        "good fortune",
+                        "luck",
+                        "blessing"
+                    ]
+                },
+                {
+                    "kanji": "幸せにする",
+                    "reading": "しあわせにする",
+                    "meanings": [
+                        "to bring someone happiness",
+                        "to make someone happy"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幸",
+                    "reading": "サチ",
+                    "meanings": [
+                        "good luck",
+                        "fortune",
+                        "happiness",
+                        "harvest",
+                        "yield"
+                    ]
+                },
+                {
+                    "kanji": "幸運",
+                    "reading": "コウウン",
+                    "meanings": [
+                        "good luck",
+                        "fortune"
+                    ]
+                },
+                {
+                    "kanji": "親不孝",
+                    "reading": "オヤフコウ",
+                    "meanings": [
+                        "lack of filial piety",
+                        "disobedience to one's parents"
+                    ]
+                },
+                {
+                    "kanji": "御幸",
+                    "reading": "ギョウキ",
+                    "meanings": [
+                        "imperial visit",
+                        "imperial outing"
+                    ]
+                }
+            ]
+        }
+    }
+}

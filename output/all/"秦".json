@@ -1,0 +1,103 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"秦\"",
+        "strokes": 10,
+        "main_meanings": [
+            "Manchu dynasty",
+            "name given to naturalized foreigners"
+        ],
+        "main_readings": {
+            "kun": [
+                "はた"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3274": "Classic Nelson (Andrew Nelson)",
+                "1202": "Japanese Names (P.G. O’Neill)",
+                "2181": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3192": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1649": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2238": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "24995": "Morohashi",
+                "4133": "New Nelson (John Haig)",
+                "2877": "Remembering The Kanji (James Heisig)",
+                "2889": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5d5.10": "The Kanji Dictionary",
+                "2-5-5": "SKIP code",
+                "5090.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-33": "JIS X 0208-1997 kuten code",
+                "79e6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たい、 はだ、 やす"
+                ],
+                "chinese": [
+                    "qin2"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "一",
+                "二",
+                "人",
+                "大",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "秦",
+                    "reading": "しん",
+                    "meanings": [
+                        "Qin dynasty (of China; 221-207 BCE)",
+                        "Ch'in dynasty"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "秦",
+                    "reading": "シン",
+                    "meanings": [
+                        "Qin dynasty (of China; 221-207 BCE)",
+                        "Ch'in dynasty"
+                    ]
+                },
+                {
+                    "kanji": "先秦",
+                    "reading": "センシン",
+                    "meanings": [
+                        "pre-Qin period (of China)"
+                    ]
+                }
+            ]
+        }
+    }
+}

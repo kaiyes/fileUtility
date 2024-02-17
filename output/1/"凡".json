@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"凡\"",
+        "strokes": 3,
+        "main_meanings": [
+            "commonplace",
+            "ordinary",
+            "mediocre"
+        ],
+        "main_readings": {
+            "kun": [
+                "およ.そ",
+                "おうよ.そ",
+                "すべ.て"
+            ],
+            "on": [
+                "ボン",
+                "ハン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1827": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1507": "A New Dictionary of Kanji Usage",
+                "654": "Classic Nelson (Andrew Nelson)",
+                "1338": "Essential Kanji (P.G. O’Neill)",
+                "1084": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "37": "Japanese Names (P.G. O’Neill)",
+                "1102": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1153": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "467": "Kanji in Context (Nishiguchi and Kono)",
+                "170": "Kodansha Compact Kanji Guide",
+                "3656": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1866": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2543": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "62": "Remembering The Kanji (James Heisig)",
+                "1739": "Morohashi",
+                "2938": "New Japanese English Character Dictionary (Jack Halpern)",
+                "433": "New Nelson (John Haig)",
+                "66": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1013": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3656": "2001 Kanji",
+                "2s1.1": "The Kanji Dictionary",
+                "3-2-1": "SKIP code",
+                "7721.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-62": "JIS X 0208-1997 kuten code",
+                "51e1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なみ、 ひろ、 みな"
+                ],
+                "chinese": [
+                    "fan2"
+                ],
+                "korean": [
+                    "beom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "table",
+            "parts": [
+                "丶",
+                "几"
+            ],
+            "basis": "几",
+            "kangxi_order": 16,
+            "variants": [
+                "凢"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "凡そ",
+                    "reading": "およそ",
+                    "meanings": [
+                        "about",
+                        "roughly",
+                        "approximately",
+                        "generally",
+                        "on the whole",
+                        "as a rule",
+                        "completely",
+                        "quite",
+                        "entirely",
+                        "altogether",
+                        "totally",
+                        "not at all (with neg. verb)",
+                        "outline",
+                        "gist"
+                    ]
+                },
+                {
+                    "kanji": "全て",
+                    "reading": "すべて",
+                    "meanings": [
+                        "everything",
+                        "all",
+                        "the whole",
+                        "entirely",
+                        "completely",
+                        "wholly",
+                        "all"
+                    ]
+                },
+                {
+                    "kanji": "すべての道はローマに通ず",
+                    "reading": "すべてのみちはローマにつうず",
+                    "meanings": [
+                        "all roads lead to Rome"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "凡",
+                    "reading": "ボン",
+                    "meanings": [
+                        "ordinary",
+                        "common",
+                        "mediocre"
+                    ]
+                },
+                {
+                    "kanji": "凡人",
+                    "reading": "ボンジン",
+                    "meanings": [
+                        "ordinary person",
+                        "average person",
+                        "mediocre person"
+                    ]
+                },
+                {
+                    "kanji": "超凡",
+                    "reading": "チョウボン",
+                    "meanings": [
+                        "extraordinary"
+                    ]
+                },
+                {
+                    "kanji": "不凡",
+                    "reading": "フボン",
+                    "meanings": [
+                        "uncommon",
+                        "outstanding"
+                    ]
+                },
+                {
+                    "kanji": "凡百",
+                    "reading": "ボンピャク",
+                    "meanings": [
+                        "various",
+                        "many",
+                        "all kinds of"
+                    ]
+                },
+                {
+                    "kanji": "凡例",
+                    "reading": "ハンレイ",
+                    "meanings": [
+                        "explanatory notes (at the start of a book)",
+                        "introductory remarks",
+                        "usage guide (e.g. of a dictionary)",
+                        "legend (on maps",
+                        "drawings",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

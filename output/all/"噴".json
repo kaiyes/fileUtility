@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"噴\"",
+        "strokes": 15,
+        "main_meanings": [
+            "erupt",
+            "spout",
+            "emit",
+            "flush out"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふ.く"
+            ],
+            "on": [
+                "フン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1770": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1635": "A New Dictionary of Kanji Usage",
+                "995": "Classic Nelson (Andrew Nelson)",
+                "1239": "Essential Kanji (P.G. O’Neill)",
+                "1145": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1660": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1774": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1633": "Kanji in Context (Nishiguchi and Kono)",
+                "312": "Kodansha Compact Kanji Guide",
+                "879": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "505": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "649": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1205": "Les Kanjis dans la tete (Yves Maniette)",
+                "4345": "Morohashi",
+                "717": "New Japanese English Character Dictionary (Jack Halpern)",
+                "900": "New Nelson (John Haig)",
+                "1197": "Remembering The Kanji (James Heisig)",
+                "1281": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1749": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3761": "2001 Kanji",
+                "3d12.8": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "6408.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-14": "JIS X 0208-1997 kuten code",
+                "5674": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pen1",
+                    "pen4"
+                ],
+                "korean": [
+                    "bun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "ハ",
+                "十",
+                "口",
+                "艾",
+                "目",
+                "貝"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "噴く",
+                    "reading": "ふく",
+                    "meanings": [
+                        "to emit",
+                        "to spout",
+                        "to spurt",
+                        "to boil over"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "噴煙",
+                    "reading": "フンエン",
+                    "meanings": [
+                        "(eruption of) smoke"
+                    ]
+                },
+                {
+                    "kanji": "噴火",
+                    "reading": "フンカ",
+                    "meanings": [
+                        "eruption",
+                        "volcanic eruption"
+                    ]
+                },
+                {
+                    "kanji": "暴噴",
+                    "reading": "ボウフン",
+                    "meanings": [
+                        "blowout (oil well",
+                        "gas field",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "自噴",
+                    "reading": "ジフン",
+                    "meanings": [
+                        "gushing forth (e.g. of oil)",
+                        "spouting",
+                        "natural emergence (of a hot spring)"
+                    ]
+                }
+            ]
+        }
+    }
+}

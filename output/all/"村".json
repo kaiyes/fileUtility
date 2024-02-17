@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"村\"",
+        "strokes": 7,
+        "main_meanings": [
+            "village",
+            "town"
+        ],
+        "main_readings": {
+            "kun": [
+                "むら"
+            ],
+            "on": [
+                "ソン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "107": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "62": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "52": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "210": "A New Dictionary of Kanji Usage",
+                "2191": "Classic Nelson (Andrew Nelson)",
+                "154": "Essential Kanji (P.G. O’Neill)",
+                "196": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "424": "Japanese Names (P.G. O’Neill)",
+                "191": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "364": "Kanji in Context (Nishiguchi and Kono)",
+                "1073": "Kodansha Compact Kanji Guide",
+                "1029": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "558": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "738": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "212": "Les Kanjis dans la tete (Yves Maniette)",
+                "14464": "Morohashi",
+                "834": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2564": "New Nelson (John Haig)",
+                "208": "Remembering The Kanji (James Heisig)",
+                "221": "Remembering The Kanji, 6th edition (James Heisig)",
+                "241": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "65": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1848": "2001 Kanji",
+                "4a3.11": "The Kanji Dictionary",
+                "1-4-3": "SKIP code",
+                "4490.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-28": "JIS X 0208-1997 kuten code",
+                "6751": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "え、 むた、 ら"
+                ],
+                "chinese": [
+                    "cun1"
+                ],
+                "korean": [
+                    "chon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "寸",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "村",
+                    "reading": "むら",
+                    "meanings": [
+                        "village"
+                    ]
+                },
+                {
+                    "kanji": "村長",
+                    "reading": "そんちょう",
+                    "meanings": [
+                        "village headman",
+                        "village mayor"
+                    ]
+                },
+                {
+                    "kanji": "選手村",
+                    "reading": "せんしゅむら",
+                    "meanings": [
+                        "Olympic village",
+                        "athlete's village"
+                    ]
+                },
+                {
+                    "kanji": "隣村",
+                    "reading": "りんそん",
+                    "meanings": [
+                        "neighboring village",
+                        "neighbouring village"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "村",
+                    "reading": "ムラ",
+                    "meanings": [
+                        "village"
+                    ]
+                },
+                {
+                    "kanji": "村議会",
+                    "reading": "ソンギカイ",
+                    "meanings": [
+                        "village assembly"
+                    ]
+                },
+                {
+                    "kanji": "町村",
+                    "reading": "チョウソン",
+                    "meanings": [
+                        "towns and villages"
+                    ]
+                },
+                {
+                    "kanji": "農村",
+                    "reading": "ノウソン",
+                    "meanings": [
+                        "agricultural community",
+                        "farm village",
+                        "rural"
+                    ]
+                }
+            ]
+        }
+    }
+}

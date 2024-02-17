@@ -1,0 +1,208 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"考\"",
+        "strokes": 6,
+        "main_meanings": [
+            "consider",
+            "think over"
+        ],
+        "main_readings": {
+            "kun": [
+                "かんが.える",
+                "かんが.え"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "74": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "130": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "117": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "191": "A New Dictionary of Kanji Usage",
+                "3684": "Classic Nelson (Andrew Nelson)",
+                "197": "Essential Kanji (P.G. O’Neill)",
+                "239": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "540": "Japanese Names (P.G. O’Neill)",
+                "2.18": "Japanese for Busy People",
+                "541": "Kanji and Kana (Spahn and Hadamitzky)",
+                "550": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "212": "Kanji in Context (Nishiguchi and Kono)",
+                "1577": "Kodansha Compact Kanji Guide",
+                "3962": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2039": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2753": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1260": "Les Kanjis dans la tete (Yves Maniette)",
+                "28843": "Morohashi",
+                "3196": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4697": "New Nelson (John Haig)",
+                "1252": "Remembering The Kanji (James Heisig)",
+                "1341": "Remembering The Kanji, 6th edition (James Heisig)",
+                "63": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "122": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1452": "2001 Kanji",
+                "2k4.4": "The Kanji Dictionary",
+                "2-4-2": "SKIP code",
+                "3-4-2": "SKIP code",
+                "4-7-4": "SKIP code",
+                "4-6-4": "SKIP code",
+                "2-4-3": "SKIP code",
+                "3-4-3": "SKIP code",
+                "4420.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-45": "JIS X 0208-1997 kuten code",
+                "8003": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たか"
+                ],
+                "chinese": [
+                    "kao3"
+                ],
+                "korean": [
+                    "go"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "耂"
+            ],
+            "meaning": "old",
+            "parts": [
+                "勹",
+                "老"
+            ],
+            "basis": "老",
+            "kangxi_order": 125,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "考える",
+                    "reading": "かんがえる",
+                    "meanings": [
+                        "to think (about",
+                        "of)",
+                        "to think over",
+                        "to ponder",
+                        "to contemplate",
+                        "to reflect (on)",
+                        "to meditate (on)",
+                        "to consider",
+                        "to bear in mind",
+                        "to allow for",
+                        "to take into consideration",
+                        "to think (that)",
+                        "to believe",
+                        "to hold (a view)",
+                        "to judge",
+                        "to conclude",
+                        "to suspect",
+                        "to intend (to do)",
+                        "to think of (doing)",
+                        "to plan",
+                        "to predict",
+                        "to anticipate",
+                        "to expect",
+                        "to imagine",
+                        "to come up with",
+                        "to think up",
+                        "to contrive",
+                        "to devise",
+                        "to consider (as)",
+                        "to regard (as)",
+                        "to look on (as)",
+                        "to take",
+                        "to view"
+                    ]
+                },
+                {
+                    "kanji": "考え",
+                    "reading": "かんがえ",
+                    "meanings": [
+                        "thinking",
+                        "thought",
+                        "view",
+                        "opinion",
+                        "concept",
+                        "idea",
+                        "notion",
+                        "imagination",
+                        "intention",
+                        "plan",
+                        "design",
+                        "consideration",
+                        "judgement",
+                        "deliberation",
+                        "reflection",
+                        "wish",
+                        "hope",
+                        "expectation"
+                    ]
+                },
+                {
+                    "kanji": "考え方",
+                    "reading": "かんがえかた",
+                    "meanings": [
+                        "way of thinking"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "考",
+                    "reading": "コウ",
+                    "meanings": [
+                        "thought",
+                        "report on one's investigation into ...",
+                        "deceased father"
+                    ]
+                },
+                {
+                    "kanji": "考古学",
+                    "reading": "コウコガク",
+                    "meanings": [
+                        "archaeology",
+                        "archeology"
+                    ]
+                },
+                {
+                    "kanji": "備考",
+                    "reading": "ビコウ",
+                    "meanings": [
+                        "note (for reference)",
+                        "remarks",
+                        "N.B."
+                    ]
+                },
+                {
+                    "kanji": "論考",
+                    "reading": "ロンコウ",
+                    "meanings": [
+                        "study (of)",
+                        "discussion",
+                        "discourse",
+                        "inquiry",
+                        "research article",
+                        "academic paper"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"白\"",
+        "strokes": 5,
+        "main_meanings": [
+            "white"
+        ],
+        "main_readings": {
+            "kun": [
+                "しろ",
+                "しら-",
+                "しろ.い"
+            ],
+            "on": [
+                "ハク",
+                "ビャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "37": "Remembering The Kanji, 6th edition (James Heisig)",
+                "53": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "65": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "266": "A New Dictionary of Kanji Usage",
+                "3095": "Classic Nelson (Andrew Nelson)",
+                "79": "Essential Kanji (P.G. O’Neill)",
+                "73": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "216": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "205": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "44": "Kanji in Context (Nishiguchi and Kono)",
+                "1362": "Kodansha Compact Kanji Guide",
+                "4305": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2175": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2929": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "22678": "Morohashi",
+                "3493": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3863": "New Nelson (John Haig)",
+                "242": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "46": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "878": "2001 Kanji",
+                "4c1.3": "The Kanji Dictionary",
+                "4-5-2": "SKIP code",
+                "2600.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-82": "JIS X 0208-1997 kuten code",
+                "767d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 か、 はっ"
+                ],
+                "chinese": [
+                    "bai2"
+                ],
+                "korean": [
+                    "baeg",
+                    "bae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "white",
+            "parts": [
+                "白"
+            ],
+            "basis": "白",
+            "kangxi_order": 106,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "白",
+                    "reading": "しろ",
+                    "meanings": [
+                        "white",
+                        "innocence",
+                        "innocent person",
+                        "blank space",
+                        "white stone",
+                        "white dragon tile",
+                        "skewered grilled pig intestine"
+                    ]
+                },
+                {
+                    "kanji": "白い",
+                    "reading": "しろい",
+                    "meanings": [
+                        "white"
+                    ]
+                },
+                {
+                    "kanji": "面白",
+                    "reading": "おもしろ",
+                    "meanings": [
+                        "amusing",
+                        "funny",
+                        "interesting"
+                    ]
+                },
+                {
+                    "kanji": "蘿蔔",
+                    "reading": "すずしろ",
+                    "meanings": [
+                        "daikon (variety of large white Oriental radish",
+                        "Raphanus sativus var. longipinnatus)"
+                    ]
+                },
+                {
+                    "kanji": "白い",
+                    "reading": "しろい",
+                    "meanings": [
+                        "white"
+                    ]
+                },
+                {
+                    "kanji": "白色",
+                    "reading": "しろいろ",
+                    "meanings": [
+                        "white"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "白",
+                    "reading": "ハク",
+                    "meanings": [
+                        "white",
+                        "striped mullet fry (Mugil cephalus)",
+                        "(spoken) line (in a play",
+                        "film",
+                        "etc.)",
+                        "one's lines",
+                        "white dragon tile",
+                        "winning hand with a pung (or kong) of white dragon tiles",
+                        "Belgium",
+                        "white person",
+                        "Caucasian"
+                    ]
+                },
+                {
+                    "kanji": "白衣",
+                    "reading": "ハクイ",
+                    "meanings": [
+                        "white clothes",
+                        "white robe",
+                        "white gown (worn by doctors",
+                        "chemists",
+                        "etc.)",
+                        "commoner without rank (in ancient China)",
+                        "layperson"
+                    ]
+                },
+                {
+                    "kanji": "美白",
+                    "reading": "ビハク",
+                    "meanings": [
+                        "beautifully white (esp. of skin)",
+                        "whitening (of skin",
+                        "teeth",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "漂白",
+                    "reading": "ヒョウハク",
+                    "meanings": [
+                        "blanching",
+                        "bleaching"
+                    ]
+                },
+                {
+                    "kanji": "白衣",
+                    "reading": "ハクイ",
+                    "meanings": [
+                        "white clothes",
+                        "white robe",
+                        "white gown (worn by doctors",
+                        "chemists",
+                        "etc.)",
+                        "commoner without rank (in ancient China)",
+                        "layperson"
+                    ]
+                },
+                {
+                    "kanji": "白夜",
+                    "reading": "ビャクヤ",
+                    "meanings": [
+                        "night under the midnight sun",
+                        "white night (at extreme latitudes)",
+                        "night during which the sun doesn't set"
+                    ]
+                },
+                {
+                    "kanji": "敬白",
+                    "reading": "ケイハク",
+                    "meanings": [
+                        "yours sincerely",
+                        "sincerely yours",
+                        "yours truly"
+                    ]
+                },
+                {
+                    "kanji": "恐惶敬白",
+                    "reading": "キョウコウケイハク",
+                    "meanings": [
+                        "very truly yours",
+                        "very respectfully yours"
+                    ]
+                }
+            ]
+        }
+    }
+}

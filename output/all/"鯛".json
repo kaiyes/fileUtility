@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鯛\"",
+        "strokes": 19,
+        "main_meanings": [
+            "sea bream",
+            "red snapper"
+        ],
+        "main_readings": {
+            "kun": [
+                "たい"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5305": "Classic Nelson (Andrew Nelson)",
+                "1971": "Essential Kanji (P.G. O’Neill)",
+                "2832": "Japanese Names (P.G. O’Neill)",
+                "2272": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2360": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1213": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1660": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "46226P": "Morohashi",
+                "1881": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6884": "New Nelson (John Haig)",
+                "2812": "Remembering The Kanji (James Heisig)",
+                "2827": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "11a8.11": "The Kanji Dictionary",
+                "1-11-8": "SKIP code",
+                "2732.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-68": "JIS X 0208-1997 kuten code",
+                "9bdb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "diao1"
+                ],
+                "korean": [
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fish",
+            "parts": [
+                "冂",
+                "口",
+                "土",
+                "杰",
+                "田",
+                "魚"
+            ],
+            "basis": "魚",
+            "kangxi_order": 195,
+            "variants": [
+                "鮉"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "鯛",
+                    "reading": "たい",
+                    "meanings": [
+                        "sea bream (Sparidae)",
+                        "porgy",
+                        "tai (species of reddish-brown Pacific sea bream",
+                        "Pagrus major)"
+                    ]
+                },
+                {
+                    "kanji": "鯛車",
+                    "reading": "たいぐるま",
+                    "meanings": [
+                        "traditional sea bream-shaped toy car"
+                    ]
+                },
+                {
+                    "kanji": "青武鯛",
+                    "reading": "あおぶたい",
+                    "meanings": [
+                        "Scarus ovifrons (species of parrotfish)"
+                    ]
+                },
+                {
+                    "kanji": "腐っても鯛",
+                    "reading": "くさってもたい",
+                    "meanings": [
+                        "a diamond on a dunghill is still a diamond",
+                        "quality is quality",
+                        "an old eagle is better than a young crow",
+                        "even if it's rotten",
+                        "it's still sea bream"
+                    ]
+                }
+            ]
+        }
+    }
+}

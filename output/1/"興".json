@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"興\"",
+        "strokes": 16,
+        "main_meanings": [
+            "entertain",
+            "revive",
+            "retrieve",
+            "interest",
+            "pleasure"
+        ],
+        "main_readings": {
+            "kun": [
+                "おこ.る",
+                "おこ.す"
+            ],
+            "on": [
+                "コウ",
+                "キョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "589": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "702": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "652": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "695": "A New Dictionary of Kanji Usage",
+                "615": "Classic Nelson (Andrew Nelson)",
+                "338": "Essential Kanji (P.G. O’Neill)",
+                "1687": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2586": "Japanese Names (P.G. O’Neill)",
+                "368": "Kanji and Kana (Spahn and Hadamitzky)",
+                "369": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "631": "Kanji in Context (Nishiguchi and Kono)",
+                "158": "Kodansha Compact Kanji Guide",
+                "3622": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1852": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2525": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1438": "Les Kanjis dans la tete (Yves Maniette)",
+                "30226": "Morohashi",
+                "2909": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4913": "New Nelson (John Haig)",
+                "1426": "Remembering The Kanji (James Heisig)",
+                "1533": "Remembering The Kanji, 6th edition (James Heisig)",
+                "490": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "814": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2661": "2001 Kanji",
+                "2o14.2": "The Kanji Dictionary",
+                "2-14-2": "SKIP code",
+                "7780.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-29": "JIS X 0208-1997 kuten code",
+                "8208": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おき、 おこっ、 とも"
+                ],
+                "chinese": [
+                    "xing1",
+                    "xing4"
+                ],
+                "korean": [
+                    "heung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mortar",
+            "parts": [
+                "一",
+                "ハ",
+                "冂",
+                "口",
+                "臼"
+            ],
+            "basis": "臼",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "興る",
+                    "reading": "おこる",
+                    "meanings": [
+                        "to rise",
+                        "to flourish"
+                    ]
+                },
+                {
+                    "kanji": "興す",
+                    "reading": "おこす",
+                    "meanings": [
+                        "to vitalize (e.g. an industry)",
+                        "to invigorate",
+                        "to energize",
+                        "to revive",
+                        "to promote",
+                        "to make prosperous",
+                        "to establish (e.g. a company)",
+                        "to build up",
+                        "to set up",
+                        "to launch",
+                        "to commence"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "興業",
+                    "reading": "コウギョウ",
+                    "meanings": [
+                        "promotion of industry",
+                        "inauguration of a new industrial enterprise"
+                    ]
+                },
+                {
+                    "kanji": "興行",
+                    "reading": "コウギョウ",
+                    "meanings": [
+                        "show",
+                        "performance",
+                        "act",
+                        "entertainment industry",
+                        "show business"
+                    ]
+                },
+                {
+                    "kanji": "新興",
+                    "reading": "シンコウ",
+                    "meanings": [
+                        "rising",
+                        "developing",
+                        "emergent",
+                        "burgeoning",
+                        "new"
+                    ]
+                },
+                {
+                    "kanji": "再興",
+                    "reading": "サイコウ",
+                    "meanings": [
+                        "revival",
+                        "restoration",
+                        "resuscitation"
+                    ]
+                },
+                {
+                    "kanji": "興",
+                    "reading": "キョウ",
+                    "meanings": [
+                        "interest",
+                        "entertainment",
+                        "pleasure",
+                        "implicit comparison (style of the Shi Jing)"
+                    ]
+                },
+                {
+                    "kanji": "興味",
+                    "reading": "キョウミ",
+                    "meanings": [
+                        "interest (in something)",
+                        "curiosity (about something)",
+                        "zest (for)"
+                    ]
+                },
+                {
+                    "kanji": "一興",
+                    "reading": "イッキョウ",
+                    "meanings": [
+                        "amusement",
+                        "fun",
+                        "brief entertainment"
+                    ]
+                },
+                {
+                    "kanji": "遊興",
+                    "reading": "ユウキョウ",
+                    "meanings": [
+                        "merrymaking (esp. wine and women)",
+                        "pleasures"
+                    ]
+                }
+            ]
+        }
+    }
+}

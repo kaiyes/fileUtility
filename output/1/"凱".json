@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"凱\"",
+        "strokes": 12,
+        "main_meanings": [
+            "victory song"
+        ],
+        "main_readings": {
+            "kun": [
+                "かちどき",
+                "やわらぐ"
+            ],
+            "on": [
+                "ガイ",
+                "カイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "661": "Classic Nelson (Andrew Nelson)",
+                "1967": "Japanese Names (P.G. O’Neill)",
+                "2028": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2286": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1181": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1612": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1790": "Morohashi",
+                "440": "New Nelson (John Haig)",
+                "2077": "Remembering The Kanji (James Heisig)",
+                "2224": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2s10.1": "The Kanji Dictionary",
+                "1-10-2": "SKIP code",
+                "2711.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-14": "JIS X 0208-1997 kuten code",
+                "51f1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kai3"
+                ],
+                "korean": [
+                    "gae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "table",
+            "parts": [
+                "并",
+                "几",
+                "口",
+                "山",
+                "豆"
+            ],
+            "basis": "几",
+            "kangxi_order": 16,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "凱歌",
+                    "reading": "ガイカ",
+                    "meanings": [
+                        "victory song",
+                        "victory"
+                    ]
+                },
+                {
+                    "kanji": "凱旋",
+                    "reading": "ガイセン",
+                    "meanings": [
+                        "triumphant return",
+                        "returning in triumph"
+                    ]
+                }
+            ]
+        }
+    }
+}

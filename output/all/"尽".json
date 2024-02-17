@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"尽\"",
+        "strokes": 6,
+        "main_meanings": [
+            "exhaust",
+            "use up",
+            "run out of",
+            "deplete",
+            "befriend",
+            "serve"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.きる",
+                "つ.くす",
+                "つ.かす",
+                "-づ.く",
+                "-ず.く",
+                "ことごと.く"
+            ],
+            "on": [
+                "ジン",
+                "サン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1447": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1603": "A New Dictionary of Kanji Usage",
+                "1380": "Classic Nelson (Andrew Nelson)",
+                "1530": "Essential Kanji (P.G. O’Neill)",
+                "1229": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "290": "Japanese Names (P.G. O’Neill)",
+                "1726": "Kanji in Context (Nishiguchi and Kono)",
+                "1844": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "523": "Kodansha Compact Kanji Guide",
+                "3786": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1932": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2624": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1080": "Les Kanjis dans la tete (Yves Maniette)",
+                "7642": "Morohashi",
+                "3050": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1408": "New Nelson (John Haig)",
+                "1071": "Remembering The Kanji (James Heisig)",
+                "1152": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1072": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3740": "2001 Kanji",
+                "3r3.1": "The Kanji Dictionary",
+                "3-3-3": "SKIP code",
+                "3-4-2": "SKIP code",
+                "7730.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-52": "JIS X 0208-1997 kuten code",
+                "5c3d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jin3",
+                    "jin4"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "丶",
+                "尸"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": [
+                "盡"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "尽きる",
+                    "reading": "つきる",
+                    "meanings": [
+                        "to be used up",
+                        "to be run out",
+                        "to be exhausted",
+                        "to be consumed",
+                        "to come to an end"
+                    ]
+                },
+                {
+                    "kanji": "尽くす",
+                    "reading": "つくす",
+                    "meanings": [
+                        "to use up",
+                        "to exhaust",
+                        "to run out of",
+                        "to devote oneself (to)",
+                        "to do one's utmost (for)",
+                        "to serve",
+                        "to work (for a cause)",
+                        "to do to exhaustion",
+                        "to do completely",
+                        "to do fully"
+                    ]
+                },
+                {
+                    "kanji": "尽かす",
+                    "reading": "つかす",
+                    "meanings": [
+                        "to use completely",
+                        "to use up",
+                        "to exhaust",
+                        "to exhaust someone's civility",
+                        "to give up (on someone)"
+                    ]
+                },
+                {
+                    "kanji": "悉く",
+                    "reading": "ことごとく",
+                    "meanings": [
+                        "altogether",
+                        "entirely"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "尽",
+                    "reading": "ジン",
+                    "meanings": [
+                        "last day (of the month)"
+                    ]
+                },
+                {
+                    "kanji": "尽力",
+                    "reading": "ジンリョク",
+                    "meanings": [
+                        "efforts",
+                        "exertion",
+                        "endeavour",
+                        "assistance",
+                        "services"
+                    ]
+                },
+                {
+                    "kanji": "理不尽",
+                    "reading": "リフジン",
+                    "meanings": [
+                        "unreasonable",
+                        "irrational",
+                        "outrageous",
+                        "absurd"
+                    ]
+                },
+                {
+                    "kanji": "縦横無尽",
+                    "reading": "ジュウオウムジン",
+                    "meanings": [
+                        "freely",
+                        "right and left",
+                        "as one pleases"
+                    ]
+                }
+            ]
+        }
+    }
+}

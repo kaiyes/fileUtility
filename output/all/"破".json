@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"破\"",
+        "strokes": 10,
+        "main_meanings": [
+            "rend",
+            "rip",
+            "tear",
+            "break",
+            "destroy",
+            "defeat",
+            "frustrate"
+        ],
+        "main_readings": {
+            "kun": [
+                "やぶ.る",
+                "やぶ.れる",
+                "わ.れる"
+            ],
+            "on": [
+                "ハ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "692": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "788": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "767": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "634": "A New Dictionary of Kanji Usage",
+                "3186": "Classic Nelson (Andrew Nelson)",
+                "645": "Essential Kanji (P.G. O’Neill)",
+                "765": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1113": "Japanese Names (P.G. O’Neill)",
+                "665": "Kanji and Kana (Spahn and Hadamitzky)",
+                "676": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1037": "Kanji in Context (Nishiguchi and Kono)",
+                "1401": "Kodansha Compact Kanji Guide",
+                "1478": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "784": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1064": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "814": "Les Kanjis dans la tete (Yves Maniette)",
+                "24124": "Morohashi",
+                "1150": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3999": "New Nelson (John Haig)",
+                "806": "Remembering The Kanji (James Heisig)",
+                "869": "Remembering The Kanji, 6th edition (James Heisig)",
+                "427": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "719": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3367": "2001 Kanji",
+                "5a5.1": "The Kanji Dictionary",
+                "1-5-5": "SKIP code",
+                "1464.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-43": "JIS X 0208-1997 kuten code",
+                "7834": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "po4"
+                ],
+                "korean": [
+                    "pa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "又",
+                "口",
+                "皮",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "破る",
+                    "reading": "やぶる",
+                    "meanings": [
+                        "to tear",
+                        "to rip",
+                        "to break",
+                        "to destroy",
+                        "to break through (cordon",
+                        "opponent's defense",
+                        "etc.)",
+                        "to breach",
+                        "to defeat",
+                        "to beat",
+                        "to break (e.g. silence)",
+                        "to disturb (e.g. peace)",
+                        "to shatter (e.g. dream)",
+                        "to disrupt",
+                        "to spoil",
+                        "to violate (e.g. rule)",
+                        "to break (e.g. promise)",
+                        "to infringe",
+                        "to break (a record)"
+                    ]
+                },
+                {
+                    "kanji": "破れる",
+                    "reading": "やぶれる",
+                    "meanings": [
+                        "to get torn",
+                        "to tear",
+                        "to rip",
+                        "to break",
+                        "to wear out",
+                        "to be broken off (of negotiations",
+                        "etc.)",
+                        "to break down",
+                        "to collapse",
+                        "to fall into ruin"
+                    ]
+                },
+                {
+                    "kanji": "割れる",
+                    "reading": "われる",
+                    "meanings": [
+                        "to break",
+                        "to be smashed",
+                        "to split",
+                        "to crack",
+                        "to fissure",
+                        "to be torn",
+                        "to be divided (opinion",
+                        "vote",
+                        "etc.)",
+                        "to split (e.g. of a party)",
+                        "to come to light",
+                        "to become clear",
+                        "to be identified",
+                        "to be revealed",
+                        "to become distorted (of sound)",
+                        "to clip",
+                        "to be divisible (without a remainder)",
+                        "to drop below a minimum"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "破",
+                    "reading": "ハ",
+                    "meanings": [
+                        "middle section of a song (in gagaku or noh)"
+                    ]
+                },
+                {
+                    "kanji": "破壊",
+                    "reading": "ハカイ",
+                    "meanings": [
+                        "destruction",
+                        "disruption",
+                        "(application) crash"
+                    ]
+                },
+                {
+                    "kanji": "大破",
+                    "reading": "タイハ",
+                    "meanings": [
+                        "serious damage",
+                        "heavy damage",
+                        "being wrecked",
+                        "thrashing (an opponent)",
+                        "crushing",
+                        "giving a drubbing"
+                    ]
+                },
+                {
+                    "kanji": "踏破",
+                    "reading": "トウハ",
+                    "meanings": [
+                        "travelling (a long and difficult journey) on foot",
+                        "walking (all the way) across",
+                        "travelling through",
+                        "hiking across",
+                        "traversing",
+                        "travelling all over (e.g. a country)",
+                        "visiting all the major locations (of a region",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

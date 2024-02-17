@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宣\"",
+        "strokes": 9,
+        "main_meanings": [
+            "proclaim",
+            "say",
+            "announce"
+        ],
+        "main_readings": {
+            "kun": [
+                "のたま.う"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "829": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "924": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "913": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1012": "A New Dictionary of Kanji Usage",
+                "1301": "Classic Nelson (Andrew Nelson)",
+                "569": "Essential Kanji (P.G. O’Neill)",
+                "1208": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "919": "Japanese Names (P.G. O’Neill)",
+                "625": "Kanji and Kana (Spahn and Hadamitzky)",
+                "635": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "850": "Kanji in Context (Nishiguchi and Kono)",
+                "475": "Kodansha Compact Kanji Guide",
+                "2799": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1440": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1940": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "191": "Les Kanjis dans la tete (Yves Maniette)",
+                "7132": "Morohashi",
+                "2252": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1328": "New Nelson (John Haig)",
+                "188": "Remembering The Kanji (James Heisig)",
+                "200": "Remembering The Kanji, 6th edition (James Heisig)",
+                "885": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "772": "2001 Kanji",
+                "3m6.2": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "3010.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-75": "JIS X 0208-1997 kuten code",
+                "5ba3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とおる、 のぶ、 のぼる、 のり、 ひさ、 よし"
+                ],
+                "chinese": [
+                    "xuan1"
+                ],
+                "korean": [
+                    "seon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "宀",
+                "日"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "宣ふ",
+                    "reading": "のたまう",
+                    "meanings": [
+                        "to say"
+                    ]
+                },
+                {
+                    "kanji": "宣う",
+                    "reading": "のたまう",
+                    "meanings": [
+                        "to say",
+                        "to be pleased to say"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "宣",
+                    "reading": "セン",
+                    "meanings": [
+                        "imperial order",
+                        "imperial decree"
+                    ]
+                },
+                {
+                    "kanji": "宣教師",
+                    "reading": "センキョウシ",
+                    "meanings": [
+                        "missionary"
+                    ]
+                },
+                {
+                    "kanji": "託宣",
+                    "reading": "タクセン",
+                    "meanings": [
+                        "oracle",
+                        "revelation",
+                        "divine message"
+                    ]
+                },
+                {
+                    "kanji": "街宣",
+                    "reading": "ガイセン",
+                    "meanings": [
+                        "carrying out (political) propaganda activity on the streets"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"犠\"",
+        "strokes": 17,
+        "main_meanings": [
+            "sacrifice"
+        ],
+        "main_readings": {
+            "kun": [
+                "いけにえ"
+            ],
+            "on": [
+                "ギ",
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1140": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1292": "A New Dictionary of Kanji Usage",
+                "2865": "Classic Nelson (Andrew Nelson)",
+                "1811": "Essential Kanji (P.G. O’Neill)",
+                "1522": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "728": "Kanji and Kana (Spahn and Hadamitzky)",
+                "741": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "937": "Kanji in Context (Nishiguchi and Kono)",
+                "1294": "Kodansha Compact Kanji Guide",
+                "1394": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "746": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1010": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "650": "Les Kanjis dans la tete (Yves Maniette)",
+                "20190P": "Morohashi",
+                "1089": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3550": "New Nelson (John Haig)",
+                "643": "Remembering The Kanji (James Heisig)",
+                "693": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1874": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2459": "2001 Kanji",
+                "4g13.1": "The Kanji Dictionary",
+                "1-4-13": "SKIP code",
+                "2855.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-30": "JIS X 0208-1997 kuten code",
+                "72a0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "牜"
+            ],
+            "meaning": "cow",
+            "parts": [
+                "一",
+                "亅",
+                "并",
+                "手",
+                "戈",
+                "牛",
+                "王",
+                "羊"
+            ],
+            "basis": "牛",
+            "kangxi_order": 93,
+            "variants": [
+                "犧"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "生贄",
+                    "reading": "いけにえ",
+                    "meanings": [
+                        "(living) sacrifice",
+                        "victim",
+                        "scapegoat"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "犠牲者",
+                    "reading": "ギセイシャ",
+                    "meanings": [
+                        "victim (esp. someone killed)",
+                        "casualty"
+                    ]
+                },
+                {
+                    "kanji": "犠牲",
+                    "reading": "ギセイ",
+                    "meanings": [
+                        "sacrifice",
+                        "victim (esp. someone killed)",
+                        "casualty",
+                        "sacrifice (to a deity)"
+                    ]
+                },
+                {
+                    "kanji": "供犠",
+                    "reading": "クギ",
+                    "meanings": [
+                        "sacrifice",
+                        "sacrificial animal"
+                    ]
+                }
+            ]
+        }
+    }
+}

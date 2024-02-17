@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"撮\"",
+        "strokes": 15,
+        "main_meanings": [
+            "snapshot",
+            "take pictures"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.る",
+                "つま.む",
+                "-ど.り"
+            ],
+            "on": [
+                "サツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1305": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1134": "A New Dictionary of Kanji Usage",
+                "2001": "Classic Nelson (Andrew Nelson)",
+                "1241": "Essential Kanji (P.G. O’Neill)",
+                "1383": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1520": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1621": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1267": "Kanji in Context (Nishiguchi and Kono)",
+                "925": "Kodansha Compact Kanji Guide",
+                "910": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "514": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "671": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "830": "Les Kanjis dans la tete (Yves Maniette)",
+                "12748": "Morohashi",
+                "737": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2282": "New Nelson (John Haig)",
+                "822": "Remembering The Kanji (James Heisig)",
+                "885": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1769": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1367": "2001 Kanji",
+                "3c12.13": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "5604.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-03": "JIS X 0208-1997 kuten code",
+                "64ae": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cuo1",
+                    "zuo3",
+                    "cuo4"
+                ],
+                "korean": [
+                    "chwal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "又",
+                "扎",
+                "日",
+                "耳"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "撮る",
+                    "reading": "とる",
+                    "meanings": [
+                        "to take (a photograph)",
+                        "to record (audio or video)",
+                        "to film",
+                        "to shoot"
+                    ]
+                },
+                {
+                    "kanji": "摘む",
+                    "reading": "つまむ",
+                    "meanings": [
+                        "to pinch",
+                        "to hold (between one's fingers)",
+                        "to pick up (with chopsticks",
+                        "tweezers",
+                        "etc.)",
+                        "to pick up and eat",
+                        "to snack on",
+                        "to pick out (the main point)",
+                        "to summarize",
+                        "to sum up",
+                        "to bewitch",
+                        "to possess",
+                        "to fascinate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "撮影",
+                    "reading": "サツエイ",
+                    "meanings": [
+                        "photography (still or motion)",
+                        "photographing",
+                        "filming",
+                        "shooting",
+                        "(video) recording"
+                    ]
+                },
+                {
+                    "kanji": "撮影会",
+                    "reading": "サツエイカイ",
+                    "meanings": [
+                        "photography event",
+                        "photo session",
+                        "photo shoot"
+                    ]
+                },
+                {
+                    "kanji": "特撮",
+                    "reading": "トクサツ",
+                    "meanings": [
+                        "special effects",
+                        "SFX",
+                        "tokusatsu (genre of live-action film or television drama that makes heavy use of special effects",
+                        "e.g. Godzilla)"
+                    ]
+                },
+                {
+                    "kanji": "空撮",
+                    "reading": "クウサツ",
+                    "meanings": [
+                        "aerial photography"
+                    ]
+                }
+            ]
+        }
+    }
+}

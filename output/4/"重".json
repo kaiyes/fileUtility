@@ -1,0 +1,326 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"重\"",
+        "strokes": 9,
+        "main_meanings": [
+            "heavy",
+            "important",
+            "esteem",
+            "respect",
+            "heap up",
+            "pile up",
+            "nest of boxes",
+            "-fold"
+        ],
+        "main_readings": {
+            "kun": [
+                "え",
+                "おも.い",
+                "おも.り",
+                "おも.なう",
+                "かさ.ねる",
+                "かさ.なる",
+                "おも"
+            ],
+            "on": [
+                "ジュウ",
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "245": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "326": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "311": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "155": "A New Dictionary of Kanji Usage",
+                "224": "Classic Nelson (Andrew Nelson)",
+                "161": "Essential Kanji (P.G. O’Neill)",
+                "266": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1017": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "227": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "115": "Kanji in Context (Nishiguchi and Kono)",
+                "1802": "Kodansha Compact Kanji Guide",
+                "4390": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2223": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2991": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1691": "Les Kanjis dans la tete (Yves Maniette)",
+                "40132": "Morohashi",
+                "3573": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6207": "New Nelson (John Haig)",
+                "1675": "Remembering The Kanji (James Heisig)",
+                "1805": "Remembering The Kanji, 6th edition (James Heisig)",
+                "136": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "330": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2272": "2001 Kanji",
+                "0a9.18": "The Kanji Dictionary",
+                "4-9-2": "SKIP code",
+                "2-1-8": "SKIP code",
+                "2010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-37": "JIS X 0208-1997 kuten code",
+                "91cd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さね、 しげ、 しげる"
+                ],
+                "chinese": [
+                    "zhong4",
+                    "chong2"
+                ],
+                "korean": [
+                    "jung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "village,",
+            "parts": [
+                "一",
+                "｜",
+                "ノ",
+                "日",
+                "里"
+            ],
+            "basis": "里",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "重",
+                    "reading": "え",
+                    "meanings": [
+                        "-fold",
+                        "-ply"
+                    ]
+                },
+                {
+                    "kanji": "八重",
+                    "reading": "やえ",
+                    "meanings": [
+                        "multilayered",
+                        "doubled"
+                    ]
+                },
+                {
+                    "kanji": "九重",
+                    "reading": "ここのえ",
+                    "meanings": [
+                        "ninefold",
+                        "imperial palace",
+                        "the Court"
+                    ]
+                },
+                {
+                    "kanji": "重い",
+                    "reading": "おもい",
+                    "meanings": [
+                        "heavy",
+                        "weighty",
+                        "heavy (feeling)",
+                        "depressed",
+                        "gloomy",
+                        "blue",
+                        "uneasy",
+                        "slow",
+                        "sluggish",
+                        "lumbering",
+                        "ponderous",
+                        "clumsy",
+                        "important (position",
+                        "responsibility",
+                        "etc.)",
+                        "serious",
+                        "grave",
+                        "serious (punishment",
+                        "illness",
+                        "etc.)",
+                        "severe",
+                        "critical",
+                        "solid",
+                        "established",
+                        "dignified",
+                        "sensible"
+                    ]
+                },
+                {
+                    "kanji": "重い腰を上げる",
+                    "reading": "おもいこしをあげる",
+                    "meanings": [
+                        "to get off one's backside",
+                        "to bestir oneself"
+                    ]
+                },
+                {
+                    "kanji": "重り",
+                    "reading": "おもり",
+                    "meanings": [
+                        "weight",
+                        "sinker"
+                    ]
+                },
+                {
+                    "kanji": "重ねる",
+                    "reading": "かさねる",
+                    "meanings": [
+                        "to pile up",
+                        "to heap up",
+                        "to stack up",
+                        "to put on top of another",
+                        "to repeat many times over",
+                        "to go through repeatedly",
+                        "to accumulate"
+                    ]
+                },
+                {
+                    "kanji": "重なる",
+                    "reading": "かさなる",
+                    "meanings": [
+                        "to be piled up",
+                        "to lie on top of one another",
+                        "to come one after another",
+                        "to happen over and over",
+                        "to pile up (e.g. stress)",
+                        "to accumulate",
+                        "to overlap (each other)",
+                        "to occur at the same time",
+                        "to happen simultaneously"
+                    ]
+                },
+                {
+                    "kanji": "主",
+                    "reading": "おも",
+                    "meanings": [
+                        "chief",
+                        "main",
+                        "principal",
+                        "important",
+                        "main secondary or supporting role (in kyogen)"
+                    ]
+                },
+                {
+                    "kanji": "重き",
+                    "reading": "おもき",
+                    "meanings": [
+                        "importance",
+                        "emphasis",
+                        "stress"
+                    ]
+                },
+                {
+                    "kanji": "身重",
+                    "reading": "みおも",
+                    "meanings": [
+                        "pregnant"
+                    ]
+                },
+                {
+                    "kanji": "気重",
+                    "reading": "きおも",
+                    "meanings": [
+                        "heavy-hearted"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "重",
+                    "reading": "ジュウ",
+                    "meanings": [
+                        "jūbako",
+                        "multi-tiered food box",
+                        "heavy",
+                        "serious",
+                        "extreme",
+                        "-fold",
+                        "-ply"
+                    ]
+                },
+                {
+                    "kanji": "重圧",
+                    "reading": "ジュウアツ",
+                    "meanings": [
+                        "strong pressure",
+                        "heavy pressure"
+                    ]
+                },
+                {
+                    "kanji": "九重",
+                    "reading": "ココノエ",
+                    "meanings": [
+                        "ninefold",
+                        "imperial palace",
+                        "the Court"
+                    ]
+                },
+                {
+                    "kanji": "加重",
+                    "reading": "カジュウ",
+                    "meanings": [
+                        "weighting (in averaging)",
+                        "aggravation"
+                    ]
+                },
+                {
+                    "kanji": "重複",
+                    "reading": "チョウフク",
+                    "meanings": [
+                        "duplication",
+                        "repetition",
+                        "overlapping",
+                        "redundancy",
+                        "restoration"
+                    ]
+                },
+                {
+                    "kanji": "重厚",
+                    "reading": "ジュウコウ",
+                    "meanings": [
+                        "profound",
+                        "deep",
+                        "grave",
+                        "solid",
+                        "dignified",
+                        "stately",
+                        "solemn",
+                        "composed",
+                        "substantial",
+                        "massive"
+                    ]
+                },
+                {
+                    "kanji": "加重",
+                    "reading": "カジュウ",
+                    "meanings": [
+                        "weighting (in averaging)",
+                        "aggravation"
+                    ]
+                },
+                {
+                    "kanji": "九重",
+                    "reading": "ココノエ",
+                    "meanings": [
+                        "ninefold",
+                        "imperial palace",
+                        "the Court"
+                    ]
+                }
+            ]
+        }
+    }
+}

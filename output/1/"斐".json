@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"斐\"",
+        "strokes": 12,
+        "main_meanings": [
+            "beautiful",
+            "patterned"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヒ",
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5081": "Classic Nelson (Andrew Nelson)",
+                "1781": "Japanese Names (P.G. O’Neill)",
+                "2082": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3449": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1776": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2417": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "13469": "Morohashi",
+                "2776": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2370": "New Nelson (John Haig)",
+                "2897": "Remembering The Kanji (James Heisig)",
+                "2906": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2j10.4": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "1140.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-69": "JIS X 0208-1997 kuten code",
+                "6590": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あや"
+                ],
+                "chinese": [
+                    "fei3"
+                ],
+                "korean": [
+                    "bi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "script,",
+            "parts": [
+                "文",
+                "非"
+            ],
+            "basis": "文",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "斐紙",
+                    "reading": "ヒシ",
+                    "meanings": [
+                        "traditional Japanese paper made from the fibre of plant species Diplomorpha sikokiana (high quality",
+                        "glossy)"
+                    ]
+                },
+                {
+                    "kanji": "斐然",
+                    "reading": "ヒゼン",
+                    "meanings": [
+                        "beautiful",
+                        "florid"
+                    ]
+                },
+                {
+                    "kanji": "甲斐",
+                    "reading": "ガイ",
+                    "meanings": [
+                        "effect",
+                        "result",
+                        "worth",
+                        "use",
+                        "avail"
+                    ]
+                },
+                {
+                    "kanji": "言い甲斐",
+                    "reading": "イイガイ",
+                    "meanings": [
+                        "worth mentioning"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"奮\"",
+        "strokes": 16,
+        "main_meanings": [
+            "stirred up",
+            "be invigorated",
+            "flourish"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふる.う"
+            ],
+            "on": [
+                "フン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "866": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "976": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "966": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1501": "A New Dictionary of Kanji Usage",
+                "1184": "Classic Nelson (Andrew Nelson)",
+                "818": "Essential Kanji (P.G. O’Neill)",
+                "1183": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1309": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1388": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1406": "Kanji in Context (Nishiguchi and Kono)",
+                "422": "Kodansha Compact Kanji Guide",
+                "3000": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1532": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2090": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "572": "Les Kanjis dans la tete (Yves Maniette)",
+                "6012": "Morohashi",
+                "2367": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1172": "New Nelson (John Haig)",
+                "565": "Remembering The Kanji (James Heisig)",
+                "607": "Remembering The Kanji, 6th edition (James Heisig)",
+                "997": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1476": "2001 Kanji",
+                "5f11.2": "The Kanji Dictionary",
+                "2-3-13": "SKIP code",
+                "2-11-5": "SKIP code",
+                "4060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-19": "JIS X 0208-1997 kuten code",
+                "596e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fen4"
+                ],
+                "korean": [
+                    "bun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "big,",
+            "parts": [
+                "大",
+                "田",
+                "隹"
+            ],
+            "basis": "大",
+            "kangxi_order": 37,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "奮う",
+                    "reading": "ふるう",
+                    "meanings": [
+                        "to muster (e.g. one's courage)",
+                        "to call forth",
+                        "to rouse up",
+                        "to be enlivened",
+                        "to be invigorated"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "奮闘",
+                    "reading": "フントウ",
+                    "meanings": [
+                        "strenuous effort",
+                        "hard struggle",
+                        "working hard",
+                        "hard fighting",
+                        "fierce fighting"
+                    ]
+                },
+                {
+                    "kanji": "奮起",
+                    "reading": "フンキ",
+                    "meanings": [
+                        "stirring",
+                        "rousing oneself"
+                    ]
+                },
+                {
+                    "kanji": "性的興奮",
+                    "reading": "セイテキコウフン",
+                    "meanings": [
+                        "sexual arousal",
+                        "sexual excitation"
+                    ]
+                }
+            ]
+        }
+    }
+}

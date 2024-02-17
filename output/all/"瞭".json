@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"瞭\"",
+        "strokes": 17,
+        "main_meanings": [
+            "clear"
+        ],
+        "main_readings": {
+            "kun": [
+                "あきらか"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3156": "Classic Nelson (Andrew Nelson)",
+                "2629": "Japanese Names (P.G. O’Neill)",
+                "2174": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1407": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1584": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "837": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1145": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "23697": "Morohashi",
+                "1238": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3960": "New Nelson (John Haig)",
+                "2582": "Remembering The Kanji (James Heisig)",
+                "1843": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5c12.4": "The Kanji Dictionary",
+                "1-5-12": "SKIP code",
+                "6409.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-38": "JIS X 0208-1997 kuten code",
+                "77ad": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "liao3",
+                    "liao4"
+                ],
+                "korean": [
+                    "ryo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eye",
+            "parts": [
+                "并",
+                "大",
+                "小",
+                "日",
+                "目"
+            ],
+            "basis": "目",
+            "kangxi_order": 109,
+            "variants": [
+                "暸"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "瞭然",
+                    "reading": "リョウゼン",
+                    "meanings": [
+                        "obvious",
+                        "evident",
+                        "clear"
+                    ]
+                },
+                {
+                    "kanji": "簡潔明瞭",
+                    "reading": "カンケツメイリョウ",
+                    "meanings": [
+                        "clear and concise"
+                    ]
+                },
+                {
+                    "kanji": "簡単明瞭",
+                    "reading": "カンタンメイリョウ",
+                    "meanings": [
+                        "simple and clear"
+                    ]
+                }
+            ]
+        }
+    }
+}

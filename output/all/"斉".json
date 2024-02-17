@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"斉\"",
+        "strokes": 8,
+        "main_meanings": [
+            "adjusted",
+            "alike",
+            "equal",
+            "similar variety of"
+        ],
+        "main_readings": {
+            "kun": [
+                "そろ.う",
+                "ひと.しい",
+                "ひと.しく",
+                "あたる",
+                "はやい"
+            ],
+            "on": [
+                "セイ",
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1473": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1528": "A New Dictionary of Kanji Usage",
+                "5423": "Classic Nelson (Andrew Nelson)",
+                "1958": "Essential Kanji (P.G. O’Neill)",
+                "1393": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "701": "Japanese Names (P.G. O’Neill)",
+                "1477": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1574": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1779": "Kanji in Context (Nishiguchi and Kono)",
+                "1874": "Kodansha Compact Kanji Guide",
+                "2548": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1299": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1768": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1745": "Les Kanjis dans la tete (Yves Maniette)",
+                "13454": "Morohashi",
+                "2054": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2366": "New Nelson (John Haig)",
+                "1729": "Remembering The Kanji (James Heisig)",
+                "1866": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1223": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "454": "2001 Kanji",
+                "2j6.5": "The Kanji Dictionary",
+                "2-2-6": "SKIP code",
+                "4-8-4": "SKIP code",
+                "2-4-4": "SKIP code",
+                "0022.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-38": "JIS X 0208-1997 kuten code",
+                "6589": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ただ、 なり、 ひと、 ひとし"
+                ],
+                "chinese": [
+                    "qi2",
+                    "ji4",
+                    "qi4"
+                ],
+                "korean": [
+                    "ja",
+                    "che",
+                    "chae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "script,",
+            "parts": [
+                "｜",
+                "ノ",
+                "廾",
+                "文",
+                "斉"
+            ],
+            "basis": "文",
+            "kangxi_order": null,
+            "variants": [
+                "齊"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "等しい",
+                    "reading": "ひとしい",
+                    "meanings": [
+                        "equal",
+                        "identical",
+                        "the same",
+                        "no different (from)",
+                        "just like",
+                        "equivalent"
+                    ]
+                },
+                {
+                    "kanji": "等しく",
+                    "reading": "ひとしく",
+                    "meanings": [
+                        "equally",
+                        "evenly",
+                        "similarly",
+                        "alike",
+                        "just as ...",
+                        "as soon as ...",
+                        "the moment (that) ...",
+                        "immediately upon ..."
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "斉",
+                    "reading": "セイ",
+                    "meanings": [
+                        "Qi (kingdom in China during the Spring and Autumn Period and the Period of the Warring States)",
+                        "Ch'i"
+                    ]
+                },
+                {
+                    "kanji": "斉唱",
+                    "reading": "セイショウ",
+                    "meanings": [
+                        "singing in unison",
+                        "chanting in unison"
+                    ]
+                },
+                {
+                    "kanji": "一斉",
+                    "reading": "イッセイ",
+                    "meanings": [
+                        "simultaneous",
+                        "all at once"
+                    ]
+                },
+                {
+                    "kanji": "整斉",
+                    "reading": "セイセイ",
+                    "meanings": [
+                        "arranged",
+                        "organized",
+                        "orderly",
+                        "neat"
+                    ]
+                },
+                {
+                    "kanji": "斎行",
+                    "reading": "サイコウ",
+                    "meanings": [
+                        "carrying out (a religious festival or ceremony)"
+                    ]
+                },
+                {
+                    "kanji": "斉衡",
+                    "reading": "サイコウ",
+                    "meanings": [
+                        "Saikō era (854.11.30-857.2.21)"
+                    ]
+                }
+            ]
+        }
+    }
+}

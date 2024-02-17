@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"近\"",
+        "strokes": 7,
+        "main_meanings": [
+            "near",
+            "early",
+            "akin",
+            "tantamount"
+        ],
+        "main_readings": {
+            "kun": [
+                "ちか.い"
+            ],
+            "on": [
+                "キン",
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "195": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "113": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "103": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "127": "Essential Kanji (P.G. O’Neill)",
+                "4671": "Classic Nelson (Andrew Nelson)",
+                "259": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "506": "Japanese Names (P.G. O’Neill)",
+                "2.12": "Japanese for Busy People",
+                "445": "Kanji and Kana (Spahn and Hadamitzky)",
+                "452": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "109": "Kanji in Context (Nishiguchi and Kono)",
+                "679": "Kodansha Compact Kanji Guide",
+                "3798": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1941": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2634": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1136": "Les Kanjis dans la tete (Yves Maniette)",
+                "38752P": "Morohashi",
+                "3061": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6021": "New Nelson (John Haig)",
+                "1129": "Remembering The Kanji (James Heisig)",
+                "1210": "Remembering The Kanji, 6th edition (James Heisig)",
+                "149": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "140": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2654": "2001 Kanji",
+                "2q4.3": "The Kanji Dictionary",
+                "3-3-4": "SKIP code",
+                "3-2-4": "SKIP code",
+                "3230.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-65": "JIS X 0208-1997 kuten code",
+                "8fd1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おう、 おお、 この"
+                ],
+                "chinese": [
+                    "jin4"
+                ],
+                "korean": [
+                    "geun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "斤"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "近い",
+                    "reading": "ちかい",
+                    "meanings": [
+                        "near",
+                        "close",
+                        "short (distance)",
+                        "close (in time)",
+                        "soon",
+                        "close (relationship)",
+                        "friendly",
+                        "intimate",
+                        "closely related",
+                        "similar",
+                        "almost the same",
+                        "close to",
+                        "nearly"
+                    ]
+                },
+                {
+                    "kanji": "近いうちに",
+                    "reading": "ちかいうちに",
+                    "meanings": [
+                        "soon",
+                        "shortly",
+                        "before long"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "近畿",
+                    "reading": "キンキ",
+                    "meanings": [
+                        "Kinki (region around Osaka",
+                        "Kyoto",
+                        "Nara)"
+                    ]
+                },
+                {
+                    "kanji": "近海",
+                    "reading": "キンカイ",
+                    "meanings": [
+                        "coastal waters",
+                        "adjacent seas"
+                    ]
+                },
+                {
+                    "kanji": "ごく最近",
+                    "reading": "ゴクサイキン",
+                    "meanings": [
+                        "very recently",
+                        "in the very recent past"
+                    ]
+                },
+                {
+                    "kanji": "至近",
+                    "reading": "シキン",
+                    "meanings": [
+                        "very near"
+                    ]
+                },
+                {
+                    "kanji": "近流",
+                    "reading": "コンル",
+                    "meanings": [
+                        "banishment (to a nearby province)",
+                        "the least severe of the three banishment punishments under the ritsuryō system"
+                    ]
+                }
+            ]
+        }
+    }
+}

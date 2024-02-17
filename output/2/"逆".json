@@ -1,0 +1,215 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"逆\"",
+        "strokes": 9,
+        "main_meanings": [
+            "inverted",
+            "reverse",
+            "opposite",
+            "wicked"
+        ],
+        "main_readings": {
+            "kun": [
+                "さか",
+                "さか.さ",
+                "さか.らう"
+            ],
+            "on": [
+                "ギャク",
+                "ゲキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "758": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "675": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "646": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "857": "A New Dictionary of Kanji Usage",
+                "4685": "Classic Nelson (Andrew Nelson)",
+                "790": "Essential Kanji (P.G. O’Neill)",
+                "956": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1235": "Japanese Names (P.G. O’Neill)",
+                "444": "Kanji and Kana (Spahn and Hadamitzky)",
+                "451": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "386": "Kanji in Context (Nishiguchi and Kono)",
+                "685": "Kodansha Compact Kanji Guide",
+                "3835": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1966": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2662": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1978": "Les Kanjis dans la tete (Yves Maniette)",
+                "38849P": "Morohashi",
+                "3091": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6041": "New Nelson (John Haig)",
+                "1959": "Remembering The Kanji (James Heisig)",
+                "2109": "Remembering The Kanji, 6th edition (James Heisig)",
+                "695": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "960": "2001 Kanji",
+                "2q6.8": "The Kanji Dictionary",
+                "3-3-6": "SKIP code",
+                "3830.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-53": "JIS X 0208-1997 kuten code",
+                "9006": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ni4"
+                ],
+                "korean": [
+                    "yeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "并",
+                "込",
+                "屮"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "逆",
+                    "reading": "さか",
+                    "meanings": [
+                        "inverse",
+                        "reverse"
+                    ]
+                },
+                {
+                    "kanji": "逆さ",
+                    "reading": "さかさ",
+                    "meanings": [
+                        "inverted",
+                        "upside down",
+                        "reversed",
+                        "back to front"
+                    ]
+                },
+                {
+                    "kanji": "逆さ",
+                    "reading": "さかさ",
+                    "meanings": [
+                        "inverted",
+                        "upside down",
+                        "reversed",
+                        "back to front"
+                    ]
+                },
+                {
+                    "kanji": "逆さま",
+                    "reading": "さかさま",
+                    "meanings": [
+                        "inverted",
+                        "upside down",
+                        "reversed",
+                        "back to front",
+                        "wrong way round"
+                    ]
+                },
+                {
+                    "kanji": "逆らう",
+                    "reading": "さからう",
+                    "meanings": [
+                        "to go against",
+                        "to oppose",
+                        "to disobey",
+                        "to defy"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "逆",
+                    "reading": "ギャク",
+                    "meanings": [
+                        "reverse",
+                        "opposite",
+                        "converse (of a hypothesis",
+                        "etc.)",
+                        "inverse (function)"
+                    ]
+                },
+                {
+                    "kanji": "逆効果",
+                    "reading": "ギャクコウカ",
+                    "meanings": [
+                        "opposite effect",
+                        "adverse effect",
+                        "backfiring"
+                    ]
+                },
+                {
+                    "kanji": "反逆",
+                    "reading": "ハンギャク",
+                    "meanings": [
+                        "treason",
+                        "treachery",
+                        "mutiny",
+                        "rebellion",
+                        "insurrection"
+                    ]
+                },
+                {
+                    "kanji": "可逆",
+                    "reading": "カギャク",
+                    "meanings": [
+                        "reversible",
+                        "invertible"
+                    ]
+                },
+                {
+                    "kanji": "逆旅",
+                    "reading": "ゲキリョ",
+                    "meanings": [
+                        "inn"
+                    ]
+                },
+                {
+                    "kanji": "逆鱗",
+                    "reading": "ゲキリン",
+                    "meanings": [
+                        "one's superior's anger",
+                        "imperial wrath"
+                    ]
+                },
+                {
+                    "kanji": "莫逆",
+                    "reading": "バクギャク",
+                    "meanings": [
+                        "cordial relations"
+                    ]
+                },
+                {
+                    "kanji": "乱逆",
+                    "reading": "ランギャク",
+                    "meanings": [
+                        "rebellion"
+                    ]
+                }
+            ]
+        }
+    }
+}

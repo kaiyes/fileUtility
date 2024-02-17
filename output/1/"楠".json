@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"楠\"",
+        "strokes": 13,
+        "main_meanings": [
+            "camphor tree"
+        ],
+        "main_readings": {
+            "kun": [
+                "くす",
+                "くすのき"
+            ],
+            "on": [
+                "ナン",
+                "ダン",
+                "ゼン",
+                "ネン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2317": "Classic Nelson (Andrew Nelson)",
+                "1978": "Essential Kanji (P.G. O’Neill)",
+                "1901": "Japanese Names (P.G. O’Neill)",
+                "2119": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1283": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "696": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "930": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1628": "Les Kanjis dans la tete (Yves Maniette)",
+                "15152": "Morohashi",
+                "1018": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2779": "New Nelson (John Haig)",
+                "1614": "Remembering The Kanji (James Heisig)",
+                "1741": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a9.25": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "4492.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-79": "JIS X 0208-1997 kuten code",
+                "6960": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くず、 な"
+                ],
+                "chinese": [
+                    "nan2"
+                ],
+                "korean": [
+                    "nam"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "并",
+                "冂",
+                "十",
+                "干",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": [
+                "枏"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "樟",
+                    "reading": "くすのき",
+                    "meanings": [
+                        "camphor tree (Cinnamomum camphora)",
+                        "camphorwood",
+                        "camphor laurel"
+                    ]
+                },
+                {
+                    "kanji": "樟",
+                    "reading": "くすのき",
+                    "meanings": [
+                        "camphor tree (Cinnamomum camphora)",
+                        "camphorwood",
+                        "camphor laurel"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"欠\"",
+        "strokes": 4,
+        "main_meanings": [
+            "lack",
+            "gap",
+            "fail",
+            "yawning radical (no. 76)"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.ける",
+                "か.く"
+            ],
+            "on": [
+                "ケツ",
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "597": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "496": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "471": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "968": "A New Dictionary of Kanji Usage",
+                "2412": "Classic Nelson (Andrew Nelson)",
+                "713": "Essential Kanji (P.G. O’Neill)",
+                "647": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "383": "Kanji and Kana (Spahn and Hadamitzky)",
+                "384": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "659": "Kanji in Context (Nishiguchi and Kono)",
+                "1119": "Kodansha Compact Kanji Guide",
+                "2481": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1255": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1721": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "477": "Les Kanjis dans la tete (Yves Maniette)",
+                "15991": "Morohashi",
+                "1987": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2928": "New Nelson (John Haig)",
+                "466": "Remembering The Kanji (James Heisig)",
+                "505": "Remembering The Kanji, 6th edition (James Heisig)",
+                "442": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2562": "2001 Kanji",
+                "4j0.1": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "4-4-4": "SKIP code",
+                "2780.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-71": "JIS X 0208-1997 kuten code",
+                "6b20": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qian4"
+                ],
+                "korean": [
+                    "heum",
+                    "gam",
+                    "gyeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lack,",
+            "parts": [
+                "人",
+                "勹",
+                "欠"
+            ],
+            "basis": "欠",
+            "kangxi_order": 76,
+            "variants": [
+                "缺"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "欠ける",
+                    "reading": "かける",
+                    "meanings": [
+                        "to chip",
+                        "to be chipped",
+                        "to break (off)",
+                        "to be damaged",
+                        "to be missing (from a set",
+                        "team",
+                        "etc.)",
+                        "to be absent",
+                        "to become lost",
+                        "to be lacking (in)",
+                        "to be short (of)",
+                        "to be deficient",
+                        "to be wanting (in)",
+                        "to wane (of the moon)",
+                        "to go into eclipse"
+                    ]
+                },
+                {
+                    "kanji": "欠く",
+                    "reading": "かく",
+                    "meanings": [
+                        "to chip",
+                        "to nick",
+                        "to break",
+                        "to crack",
+                        "to lack"
+                    ]
+                },
+                {
+                    "kanji": "欠くことができない",
+                    "reading": "かくことができない",
+                    "meanings": [
+                        "indispensable",
+                        "essential",
+                        "necessary"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "欠",
+                    "reading": "ケツ",
+                    "meanings": [
+                        "lack",
+                        "deficiency",
+                        "vacancy",
+                        "absence",
+                        "non-attendance"
+                    ]
+                },
+                {
+                    "kanji": "欠員",
+                    "reading": "ケツイン",
+                    "meanings": [
+                        "vacancy",
+                        "vacant position"
+                    ]
+                },
+                {
+                    "kanji": "補欠",
+                    "reading": "ホケツ",
+                    "meanings": [
+                        "filling a vacancy",
+                        "supplementation",
+                        "substitute",
+                        "deputy",
+                        "alternate",
+                        "spare"
+                    ]
+                },
+                {
+                    "kanji": "出欠",
+                    "reading": "シュッケツ",
+                    "meanings": [
+                        "attendance or absence"
+                    ]
+                },
+                {
+                    "kanji": "欠缺",
+                    "reading": "ケンケツ",
+                    "meanings": [
+                        "lacuna",
+                        "gap where something is lacked"
+                    ]
+                },
+                {
+                    "kanji": "欠缺利札",
+                    "reading": "ケンケツリサツ",
+                    "meanings": [
+                        "invalid coupon"
+                    ]
+                },
+                {
+                    "kanji": "阿毘羅吽欠",
+                    "reading": "アビラウンケン",
+                    "meanings": [
+                        "a-bi-ra-un-ken (mantra directed to Vairocana)"
+                    ]
+                }
+            ]
+        }
+    }
+}

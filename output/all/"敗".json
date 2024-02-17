@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"敗\"",
+        "strokes": 11,
+        "main_meanings": [
+            "failure",
+            "defeat",
+            "reversal"
+        ],
+        "main_readings": {
+            "kun": [
+                "やぶ.れる"
+            ],
+            "on": [
+                "ハイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "693": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "591": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "562": "A New Dictionary of Kanji Usage",
+                "4494": "Classic Nelson (Andrew Nelson)",
+                "670": "Essential Kanji (P.G. O’Neill)",
+                "589": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "511": "Kanji and Kana (Spahn and Hadamitzky)",
+                "520": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "718": "Kanji in Context (Nishiguchi and Kono)",
+                "941": "Kodansha Compact Kanji Guide",
+                "1868": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "991": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1342": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "337": "Les Kanjis dans la tete (Yves Maniette)",
+                "13227": "Morohashi",
+                "1476": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2343": "New Nelson (John Haig)",
+                "331": "Remembering The Kanji (James Heisig)",
+                "353": "Remembering The Kanji, 6th edition (James Heisig)",
+                "420": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "575": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3966": "2001 Kanji",
+                "7b4.1": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "6884.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-52": "JIS X 0208-1997 kuten code",
+                "6557": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bai4"
+                ],
+                "korean": [
+                    "pae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "攵"
+            ],
+            "meaning": "rap",
+            "parts": [
+                "ハ",
+                "目",
+                "貝",
+                "乞",
+                "攵"
+            ],
+            "basis": "攴",
+            "kangxi_order": null,
+            "variants": [
+                "贁"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "敗れる",
+                    "reading": "やぶれる",
+                    "meanings": [
+                        "to be defeated",
+                        "to be beaten",
+                        "to be unsuccessful",
+                        "to lose"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "敗",
+                    "reading": "ハイ",
+                    "meanings": [
+                        "loss",
+                        "defeat",
+                        "counter for losses"
+                    ]
+                },
+                {
+                    "kanji": "敗因",
+                    "reading": "ハイイン",
+                    "meanings": [
+                        "cause of defeat"
+                    ]
+                },
+                {
+                    "kanji": "惜敗",
+                    "reading": "セキハイ",
+                    "meanings": [
+                        "regrettable defeat",
+                        "defeat by a narrow margin"
+                    ]
+                },
+                {
+                    "kanji": "零敗",
+                    "reading": "レイハイ",
+                    "meanings": [
+                        "losing without scoring",
+                        "shutout",
+                        "whitewash",
+                        "having no losses",
+                        "being undefeated"
+                    ]
+                }
+            ]
+        }
+    }
+}

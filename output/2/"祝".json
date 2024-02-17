@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"祝\"",
+        "strokes": 9,
+        "main_meanings": [
+            "celebrate",
+            "congratulate"
+        ],
+        "main_readings": {
+            "kun": [
+                "いわ.う"
+            ],
+            "on": [
+                "シュク",
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "635": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "533": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "706": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "984": "A New Dictionary of Kanji Usage",
+                "3244": "Classic Nelson (Andrew Nelson)",
+                "756": "Essential Kanji (P.G. O’Neill)",
+                "773": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "851": "Kanji and Kana (Spahn and Hadamitzky)",
+                "870": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1018": "Kanji in Context (Nishiguchi and Kono)",
+                "1421": "Kodansha Compact Kanji Guide",
+                "1144": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "616": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "822": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1098": "Les Kanjis dans la tete (Yves Maniette)",
+                "24672P": "Morohashi",
+                "913": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4085": "New Nelson (John Haig)",
+                "1089": "Remembering The Kanji (James Heisig)",
+                "1170": "Remembering The Kanji, 6th edition (James Heisig)",
+                "526": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "657": "2001 Kanji",
+                "4e5.5": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "3621.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-43": "JIS X 0208-1997 kuten code",
+                "795d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のり、 ほぎ、 ゆわい"
+                ],
+                "chinese": [
+                    "zhu4"
+                ],
+                "korean": [
+                    "chug",
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "礻"
+            ],
+            "meaning": "sign",
+            "parts": [
+                "儿",
+                "口",
+                "礼"
+            ],
+            "basis": "示",
+            "kangxi_order": 113,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "祝う",
+                    "reading": "いわう",
+                    "meanings": [
+                        "to celebrate",
+                        "to congratulate",
+                        "to observe (a festival)",
+                        "to present (a gift) in celebration",
+                        "to drink in celebration",
+                        "to wish for (a happy future",
+                        "good fortune",
+                        "etc.)",
+                        "to pray for"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "祝",
+                    "reading": "シュク",
+                    "meanings": [
+                        "public holiday",
+                        "celebration (of)"
+                    ]
+                },
+                {
+                    "kanji": "祝賀",
+                    "reading": "シュクガ",
+                    "meanings": [
+                        "celebration",
+                        "congratulations"
+                    ]
+                },
+                {
+                    "kanji": "慶祝",
+                    "reading": "ケイシュク",
+                    "meanings": [
+                        "congratulation",
+                        "celebration"
+                    ]
+                },
+                {
+                    "kanji": "奉祝",
+                    "reading": "ホウシュク",
+                    "meanings": [
+                        "celebration"
+                    ]
+                },
+                {
+                    "kanji": "祝儀",
+                    "reading": "シュウギ",
+                    "meanings": [
+                        "celebration",
+                        "celebratory event",
+                        "wedding ceremony",
+                        "congratulatory gift",
+                        "tip",
+                        "gratuity"
+                    ]
+                },
+                {
+                    "kanji": "祝儀袋",
+                    "reading": "シュウギブクロ",
+                    "meanings": [
+                        "special envelope for monetary gifts"
+                    ]
+                }
+            ]
+        }
+    }
+}

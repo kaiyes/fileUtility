@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鎮\"",
+        "strokes": 18,
+        "main_meanings": [
+            "tranquilize",
+            "ancient peace-preservation centers"
+        ],
+        "main_readings": {
+            "kun": [
+                "しず.める",
+                "しず.まる",
+                "おさえ"
+            ],
+            "on": [
+                "チン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1605": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1520": "A New Dictionary of Kanji Usage",
+                "4903": "Classic Nelson (Andrew Nelson)",
+                "1348": "Essential Kanji (P.G. O’Neill)",
+                "1857": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2751": "Japanese Names (P.G. O’Neill)",
+                "1786": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1919": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1606": "Kanji in Context (Nishiguchi and Kono)",
+                "1833": "Kodansha Compact Kanji Guide",
+                "2210": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1154": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1570": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "282": "Les Kanjis dans la tete (Yves Maniette)",
+                "40745": "Morohashi",
+                "1759": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6328": "New Nelson (John Haig)",
+                "276": "Remembering The Kanji (James Heisig)",
+                "294": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1909": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2861": "2001 Kanji",
+                "8a10.6": "The Kanji Dictionary",
+                "1-8-10": "SKIP code",
+                "8418.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-35": "JIS X 0208-1997 kuten code",
+                "93ae": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しげ、 じん、 ちか、 しん"
+                ],
+                "chinese": [
+                    "zhen4"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "釒"
+            ],
+            "meaning": "metal,",
+            "parts": [
+                "一",
+                "ハ",
+                "并",
+                "十",
+                "目",
+                "金"
+            ],
+            "basis": "金",
+            "kangxi_order": 167,
+            "variants": [
+                "鎭"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "静める",
+                    "reading": "しずめる",
+                    "meanings": [
+                        "to quiet (a child",
+                        "crowd",
+                        "etc.)",
+                        "to quieten",
+                        "to make quiet",
+                        "to calm (one's nerves",
+                        "excitement",
+                        "etc.)",
+                        "to compose (oneself)",
+                        "to appease (someone's anger)",
+                        "to pacify",
+                        "to settle (e.g. discord)",
+                        "to suppress (a rebellion",
+                        "riot",
+                        "fire",
+                        "etc.)",
+                        "to quell",
+                        "to put down",
+                        "to get under control",
+                        "to relieve (a cough",
+                        "pain",
+                        "etc.)",
+                        "to soothe",
+                        "to alleviate",
+                        "to ease",
+                        "to appease (a spirit",
+                        "soul",
+                        "etc.)",
+                        "to pacify",
+                        "to soothe"
+                    ]
+                },
+                {
+                    "kanji": "静まる",
+                    "reading": "しずまる",
+                    "meanings": [
+                        "to become quiet",
+                        "to quiet down",
+                        "to quieten down",
+                        "to calm down",
+                        "to die down",
+                        "to subside",
+                        "to abate",
+                        "to be suppressed"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鎮",
+                    "reading": "チン",
+                    "meanings": [
+                        "a weight",
+                        "temple supervisor",
+                        "town (of China)"
+                    ]
+                },
+                {
+                    "kanji": "鎮圧",
+                    "reading": "チンアツ",
+                    "meanings": [
+                        "suppression (of a riot",
+                        "revolt",
+                        "etc.)",
+                        "repression",
+                        "putting down",
+                        "quelling"
+                    ]
+                },
+                {
+                    "kanji": "重鎮",
+                    "reading": "ジュウチン",
+                    "meanings": [
+                        "leader",
+                        "authority",
+                        "mainstay"
+                    ]
+                },
+                {
+                    "kanji": "郷鎮",
+                    "reading": "ゴウチン",
+                    "meanings": [
+                        "township and village enterprises (in China)",
+                        "TVE"
+                    ]
+                }
+            ]
+        }
+    }
+}

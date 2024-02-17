@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鵬\"",
+        "strokes": 19,
+        "main_meanings": [
+            "phoenix"
+        ],
+        "main_readings": {
+            "kun": [
+                "おおとり"
+            ],
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3831": "Classic Nelson (Andrew Nelson)",
+                "2795": "Japanese Names (P.G. O’Neill)",
+                "2276": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1416": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "752": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1021": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "47005": "Morohashi",
+                "6979": "New Nelson (John Haig)",
+                "2829": "Remembering The Kanji (James Heisig)",
+                "2844": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4b15.1": "The Kanji Dictionary",
+                "1-4-15": "SKIP code",
+                "7722.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-18": "JIS X 0208-1997 kuten code",
+                "9d6c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "peng2"
+                ],
+                "korean": [
+                    "bung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "月",
+                "杰",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "大鳥",
+                    "reading": "おおとり",
+                    "meanings": [
+                        "large bird",
+                        "peng (giant bird said to transform from a fish)",
+                        "fenghuang (Chinese phoenix)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鵬",
+                    "reading": "ホウ",
+                    "meanings": [
+                        "peng (giant bird said to transform from a fish)"
+                    ]
+                },
+                {
+                    "kanji": "鵬程",
+                    "reading": "ホウテイ",
+                    "meanings": [
+                        "long cruise",
+                        "great distance"
+                    ]
+                },
+                {
+                    "kanji": "大鵬",
+                    "reading": "タイホウ",
+                    "meanings": [
+                        "dapeng (giant bird in Chinese mythology",
+                        "similar to the roc or Garuda)"
+                    ]
+                },
+                {
+                    "kanji": "柏鵬",
+                    "reading": "ハクホウ",
+                    "meanings": [
+                        "era during 1960s dominated by grand champions Taiho and Kashiwado"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"禎\"",
+        "strokes": 13,
+        "main_meanings": [
+            "happiness",
+            "blessed",
+            "good fortune",
+            "auspicious"
+        ],
+        "main_readings": {
+            "kun": [
+                "さいわ.い"
+            ],
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3252": "Classic Nelson (Andrew Nelson)",
+                "1973": "Essential Kanji (P.G. O’Neill)",
+                "1887": "Japanese Names (P.G. O’Neill)",
+                "2180": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1305": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "707": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "946": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "24767P": "Morohashi",
+                "1031": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4099": "New Nelson (John Haig)",
+                "2603": "Remembering The Kanji (James Heisig)",
+                "2649": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4e9.3": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "3128.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-87": "JIS X 0208-1997 kuten code",
+                "798e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さだ、 ただし、 よし、 さち、 とも、 のり"
+                ],
+                "chinese": [
+                    "zhen1"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "礻"
+            ],
+            "meaning": "sign",
+            "parts": [
+                "ハ",
+                "卜",
+                "礼",
+                "目",
+                "貝"
+            ],
+            "basis": "示",
+            "kangxi_order": 113,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "禎祥",
+                    "reading": "テイショウ",
+                    "meanings": [
+                        "good omen"
+                    ]
+                },
+                {
+                    "kanji": "嘉禎",
+                    "reading": "カテイ",
+                    "meanings": [
+                        "Katei era (1235.9.19-1238.11.23)"
+                    ]
+                }
+            ]
+        }
+    }
+}

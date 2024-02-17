@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"動\"",
+        "strokes": 11,
+        "main_meanings": [
+            "move",
+            "motion",
+            "change",
+            "confusion",
+            "shift",
+            "shake"
+        ],
+        "main_readings": {
+            "kun": [
+                "うご.く",
+                "うご.かす"
+            ],
+            "on": [
+                "ドウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "296": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "384": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "362": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "86": "A New Dictionary of Kanji Usage",
+                "730": "Classic Nelson (Andrew Nelson)",
+                "169": "Essential Kanji (P.G. O’Neill)",
+                "130": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2.14": "Japanese for Busy People",
+                "231": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "64": "Kanji in Context (Nishiguchi and Kono)",
+                "221": "Kodansha Compact Kanji Guide",
+                "2232": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1163": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1583": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1692": "Les Kanjis dans la tete (Yves Maniette)",
+                "2390": "Morohashi",
+                "1778": "New Japanese English Character Dictionary (Jack Halpern)",
+                "549": "New Nelson (John Haig)",
+                "1676": "Remembering The Kanji (James Heisig)",
+                "1806": "Remembering The Kanji, 6th edition (James Heisig)",
+                "47": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "385": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2245": "2001 Kanji",
+                "2g9.1": "The Kanji Dictionary",
+                "1-9-2": "SKIP code",
+                "2412.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-16": "JIS X 0208-1997 kuten code",
+                "52d5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "るぎ"
+                ],
+                "chinese": [
+                    "dong4"
+                ],
+                "korean": [
+                    "dong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "一",
+                "｜",
+                "ノ",
+                "力",
+                "日",
+                "里"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "動く",
+                    "reading": "うごく",
+                    "meanings": [
+                        "to move",
+                        "to stir",
+                        "to shift",
+                        "to shake",
+                        "to swing",
+                        "to operate",
+                        "to run",
+                        "to go",
+                        "to work",
+                        "to make a move",
+                        "to take action",
+                        "to act",
+                        "to go into action",
+                        "to be touched",
+                        "to be influenced",
+                        "to change",
+                        "to vary",
+                        "to fluctuate",
+                        "to waver",
+                        "to be transferred"
+                    ]
+                },
+                {
+                    "kanji": "動く歩道",
+                    "reading": "うごくほどう",
+                    "meanings": [
+                        "moving walkway",
+                        "moving sidewalk",
+                        "travelator"
+                    ]
+                },
+                {
+                    "kanji": "動かす",
+                    "reading": "うごかす",
+                    "meanings": [
+                        "to move",
+                        "to shift",
+                        "to stir",
+                        "to budge",
+                        "to change position",
+                        "to inspire",
+                        "to rouse",
+                        "to move (e.g. feeling)",
+                        "to influence",
+                        "to change",
+                        "to alter",
+                        "to deny",
+                        "to operate",
+                        "to set in motion",
+                        "to get going",
+                        "to mobilize (e.g. troops)",
+                        "to mobilise",
+                        "to deploy",
+                        "to manage (e.g. funds)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "動",
+                    "reading": "ドウ",
+                    "meanings": [
+                        "motion"
+                    ]
+                },
+                {
+                    "kanji": "動員",
+                    "reading": "ドウイン",
+                    "meanings": [
+                        "mobilization",
+                        "mobilisation"
+                    ]
+                },
+                {
+                    "kanji": "人事異動",
+                    "reading": "ジンジイドウ",
+                    "meanings": [
+                        "personnel change",
+                        "personnel shift",
+                        "reshuffle",
+                        "(annual) staff reassignment"
+                    ]
+                },
+                {
+                    "kanji": "異動",
+                    "reading": "イドウ",
+                    "meanings": [
+                        "(personnel) change",
+                        "transfer",
+                        "relocation",
+                        "reassignment",
+                        "reshuffle"
+                    ]
+                }
+            ]
+        }
+    }
+}

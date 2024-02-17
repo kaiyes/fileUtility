@@ -1,0 +1,97 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"侃\"",
+        "strokes": 8,
+        "main_meanings": [
+            "strong",
+            "just",
+            "righteous",
+            "peace-loving"
+        ],
+        "main_readings": {
+            "kun": [
+                "つよ.い"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "416": "Classic Nelson (Andrew Nelson)",
+                "551": "Japanese Names (P.G. O’Neill)",
+                "2017": "Kanji and Kana (Spahn and Hadamitzky)",
+                "97": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "65": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "69": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "577": "Morohashi",
+                "182": "New Nelson (John Haig)",
+                "2123": "Remembering The Kanji (James Heisig)",
+                "2255": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2a6.12": "The Kanji Dictionary",
+                "1-2-6": "SKIP code",
+                "2621.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-06": "JIS X 0208-1997 kuten code",
+                "4f83": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 ただし"
+                ],
+                "chinese": [
+                    "kan3"
+                ],
+                "korean": [
+                    "gan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "口",
+                "川"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "侃侃諤諤",
+                    "reading": "カンカンガクガク",
+                    "meanings": [
+                        "outspoken",
+                        "arguing (heatedly) what one believes in",
+                        "insisting on something without restraint"
+                    ]
+                },
+                {
+                    "kanji": "侃直",
+                    "reading": "カンチョク",
+                    "meanings": [
+                        "firm and upright (character)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"彰\"",
+        "strokes": 14,
+        "main_meanings": [
+            "patent",
+            "clear"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1410": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1338": "A New Dictionary of Kanji Usage",
+                "1593": "Classic Nelson (Andrew Nelson)",
+                "1386": "Essential Kanji (P.G. O’Neill)",
+                "1275": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2174": "Japanese Names (P.G. O’Neill)",
+                "1827": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1976": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1620": "Kanji in Context (Nishiguchi and Kono)",
+                "618": "Kodansha Compact Kanji Guide",
+                "2337": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1203": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1647": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1731": "Les Kanjis dans la tete (Yves Maniette)",
+                "10015": "Morohashi",
+                "1860": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1721": "New Nelson (John Haig)",
+                "1715": "Remembering The Kanji (James Heisig)",
+                "1851": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1701": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "460": "2001 Kanji",
+                "3j11.1": "The Kanji Dictionary",
+                "1-11-3": "SKIP code",
+                "0242.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-20": "JIS X 0208-1997 kuten code",
+                "5f70": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら"
+                ],
+                "chinese": [
+                    "zhang1"
+                ],
+                "korean": [
+                    "chang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bristle,",
+            "parts": [
+                "十",
+                "彡",
+                "日",
+                "立",
+                "音"
+            ],
+            "basis": "彡",
+            "kangxi_order": 59,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "彰義隊",
+                    "reading": "ショウギタイ",
+                    "meanings": [
+                        "Shōgitai (group of former Tokugawa retainers opposed to the Meiji government and fought in the battle of Ueno)"
+                    ]
+                },
+                {
+                    "kanji": "彰徳",
+                    "reading": "ショウトク",
+                    "meanings": [
+                        "public praise",
+                        "making another's virtues well-known"
+                    ]
+                },
+                {
+                    "kanji": "顕彰",
+                    "reading": "ケンショウ",
+                    "meanings": [
+                        "honouring (publicly)",
+                        "honoring",
+                        "making someone's good deeds or achievements well-known"
+                    ]
+                },
+                {
+                    "kanji": "表彰",
+                    "reading": "ヒョウショウ",
+                    "meanings": [
+                        "(official) commendation",
+                        "public recognition (of someone's achievements",
+                        "good deeds",
+                        "etc.)",
+                        "awarding",
+                        "honouring"
+                    ]
+                }
+            ]
+        }
+    }
+}

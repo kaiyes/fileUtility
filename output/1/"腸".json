@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"腸\"",
+        "strokes": 13,
+        "main_meanings": [
+            "intestines",
+            "guts",
+            "bowels",
+            "viscera"
+        ],
+        "main_readings": {
+            "kun": [
+                "はらわた",
+                "わた"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "676": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "574": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "547": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1087": "A New Dictionary of Kanji Usage",
+                "3798": "Classic Nelson (Andrew Nelson)",
+                "810": "Essential Kanji (P.G. O’Neill)",
+                "1680": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1270": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1344": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1106": "Kanji in Context (Nishiguchi and Kono)",
+                "1039": "Kodansha Compact Kanji Guide",
+                "1307": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "709": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "948": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "550": "Les Kanjis dans la tete (Yves Maniette)",
+                "29721": "Morohashi",
+                "1033": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4849": "New Nelson (John Haig)",
+                "544": "Remembering The Kanji (James Heisig)",
+                "583": "Remembering The Kanji, 6th edition (James Heisig)",
+                "611": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3951": "2001 Kanji",
+                "4b9.8": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "7622.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-18": "JIS X 0208-1997 kuten code",
+                "8178": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chang2"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "一",
+                "日",
+                "月",
+                "勿"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": [
+                "膓"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "腸",
+                    "reading": "ちょう",
+                    "meanings": [
+                        "guts",
+                        "bowels",
+                        "intestines"
+                    ]
+                },
+                {
+                    "kanji": "はらわたが煮えくり返る",
+                    "reading": "はらわたがにえくりかえる",
+                    "meanings": [
+                        "to be furious",
+                        "to seethe with anger",
+                        "to have one's blood boiling"
+                    ]
+                },
+                {
+                    "kanji": "腸",
+                    "reading": "ちょう",
+                    "meanings": [
+                        "guts",
+                        "bowels",
+                        "intestines"
+                    ]
+                },
+                {
+                    "kanji": "腸香",
+                    "reading": "わたか",
+                    "meanings": [
+                        "Ischikauia steenackeri (species of cyprinid fish)"
+                    ]
+                },
+                {
+                    "kanji": "大腸",
+                    "reading": "だいちょう",
+                    "meanings": [
+                        "large intestine",
+                        "large bowel",
+                        "colon"
+                    ]
+                },
+                {
+                    "kanji": "背わた",
+                    "reading": "せわた",
+                    "meanings": [
+                        "vein of a shrimp (prawn)",
+                        "digestive tract of a shrimp",
+                        "sand vein"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "腸",
+                    "reading": "チョウ",
+                    "meanings": [
+                        "guts",
+                        "bowels",
+                        "intestines"
+                    ]
+                },
+                {
+                    "kanji": "腸炎",
+                    "reading": "チョウエン",
+                    "meanings": [
+                        "enteritis"
+                    ]
+                },
+                {
+                    "kanji": "大腸",
+                    "reading": "ダイチョウ",
+                    "meanings": [
+                        "large intestine",
+                        "large bowel",
+                        "colon"
+                    ]
+                },
+                {
+                    "kanji": "胃腸",
+                    "reading": "イチョウ",
+                    "meanings": [
+                        "stomach and intestines",
+                        "gastrointestinal tract",
+                        "digestive organs"
+                    ]
+                }
+            ]
+        }
+    }
+}

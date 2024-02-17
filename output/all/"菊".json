@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"菊\"",
+        "strokes": 11,
+        "main_meanings": [
+            "chrysanthemum"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "キク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1141": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1082": "A New Dictionary of Kanji Usage",
+                "3981": "Classic Nelson (Andrew Nelson)",
+                "1158": "Essential Kanji (P.G. O’Neill)",
+                "1702": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1451": "Japanese Names (P.G. O’Neill)",
+                "475": "Kanji and Kana (Spahn and Hadamitzky)",
+                "483": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1833": "Kanji in Context (Nishiguchi and Kono)",
+                "658": "Kodansha Compact Kanji Guide",
+                "2875": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1483": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1999": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "936": "Les Kanjis dans la tete (Yves Maniette)",
+                "31153P": "Morohashi",
+                "2303": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5096": "New Nelson (John Haig)",
+                "927": "Remembering The Kanji (James Heisig)",
+                "996": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1479": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1952": "2001 Kanji",
+                "3k8.30": "The Kanji Dictionary",
+                "2-3-8": "SKIP code",
+                "4492.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-38": "JIS X 0208-1997 kuten code",
+                "83ca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ju2"
+                ],
+                "korean": [
+                    "gug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "勹",
+                "艾",
+                "米"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "菊",
+                    "reading": "キク",
+                    "meanings": [
+                        "chrysanthemum (Chrysanthemum morifolium)"
+                    ]
+                },
+                {
+                    "kanji": "菊花",
+                    "reading": "キッカ",
+                    "meanings": [
+                        "chrysanthemum flower"
+                    ]
+                },
+                {
+                    "kanji": "一菊",
+                    "reading": "イッキク",
+                    "meanings": [
+                        "one scoop (of water)"
+                    ]
+                },
+                {
+                    "kanji": "斧琴菊",
+                    "reading": "ヨキコトキク",
+                    "meanings": [
+                        "dyeing pattern with a yoki",
+                        "koto bridge and a chrysanthemum"
+                    ]
+                }
+            ]
+        }
+    }
+}

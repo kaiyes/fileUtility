@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"置\"",
+        "strokes": 13,
+        "main_meanings": [
+            "placement",
+            "put",
+            "set",
+            "deposit",
+            "leave behind",
+            "keep",
+            "employ",
+            "pawn"
+        ],
+        "main_readings": {
+            "kun": [
+                "お.く",
+                "-お.き"
+            ],
+            "on": [
+                "チ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "469": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "570": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "545": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "322": "A New Dictionary of Kanji Usage",
+                "3644": "Classic Nelson (Andrew Nelson)",
+                "345": "Essential Kanji (P.G. O’Neill)",
+                "831": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2232": "Japanese Names (P.G. O’Neill)",
+                "426": "Kanji and Kana (Spahn and Hadamitzky)",
+                "432": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "262": "Kanji in Context (Nishiguchi and Kono)",
+                "1466": "Kodansha Compact Kanji Guide",
+                "3222": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1671": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2262": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "840": "Les Kanjis dans la tete (Yves Maniette)",
+                "28298": "Morohashi",
+                "2608": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4645": "New Nelson (John Haig)",
+                "832": "Remembering The Kanji (James Heisig)",
+                "895": "Remembering The Kanji, 6th edition (James Heisig)",
+                "312": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "610": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3675": "2001 Kanji",
+                "5g8.8": "The Kanji Dictionary",
+                "2-5-8": "SKIP code",
+                "3-1-12": "SKIP code",
+                "6071.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-54": "JIS X 0208-1997 kuten code",
+                "7f6e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おき、 おけ、 き"
+                ],
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "chi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "罒",
+                "⺲",
+                "罓",
+                "⺳"
+            ],
+            "meaning": "net",
+            "parts": [
+                "一",
+                "｜",
+                "十",
+                "目",
+                "買"
+            ],
+            "basis": "网",
+            "kangxi_order": 122,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "置く",
+                    "reading": "おく",
+                    "meanings": [
+                        "to put",
+                        "to place",
+                        "to leave (behind)",
+                        "to establish (an organization",
+                        "a facility",
+                        "a position",
+                        "etc.)",
+                        "to set up",
+                        "to appoint (someone to a certain position)",
+                        "to hire",
+                        "to employ",
+                        "to place (one's trust",
+                        "one's faith",
+                        "etc.)",
+                        "to bear (in mind",
+                        "etc.)",
+                        "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool",
+                        "to take in (boarders",
+                        "etc.)",
+                        "to provide lodging in one's house",
+                        "to separate spatially or temporally",
+                        "to do something in advance",
+                        "to leave something in a certain state",
+                        "to keep something in a certain state"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "置換",
+                    "reading": "チカン",
+                    "meanings": [
+                        "substitution",
+                        "replacement",
+                        "permutation",
+                        "substitution",
+                        "displacement"
+                    ]
+                },
+                {
+                    "kanji": "置換可能引数データ",
+                    "reading": "チカンカノウヒキスウデータ",
+                    "meanings": [
+                        "replaceable parameter data"
+                    ]
+                },
+                {
+                    "kanji": "留置",
+                    "reading": "リュウチ",
+                    "meanings": [
+                        "detention (usu. during investigation)",
+                        "imprisonment",
+                        "poundage",
+                        "custody"
+                    ]
+                },
+                {
+                    "kanji": "倒置",
+                    "reading": "トウチ",
+                    "meanings": [
+                        "turning upside down",
+                        "inversion"
+                    ]
+                }
+            ]
+        }
+    }
+}

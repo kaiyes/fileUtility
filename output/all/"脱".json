@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"脱\"",
+        "strokes": 11,
+        "main_meanings": [
+            "undress",
+            "removing",
+            "escape from",
+            "get rid of",
+            "be left out",
+            "take off"
+        ],
+        "main_readings": {
+            "kun": [
+                "ぬ.ぐ",
+                "ぬ.げる"
+            ],
+            "on": [
+                "ダツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1560": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "843": "A New Dictionary of Kanji Usage",
+                "3775": "Classic Nelson (Andrew Nelson)",
+                "1173": "Essential Kanji (P.G. O’Neill)",
+                "1678": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1370": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1457": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "191": "Kanji in Context (Nishiguchi and Kono)",
+                "1035": "Kodansha Compact Kanji Guide",
+                "1225": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "663": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "886": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "510": "Les Kanjis dans la tete (Yves Maniette)",
+                "29539P": "Morohashi",
+                "973": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4822": "New Nelson (John Haig)",
+                "498": "Remembering The Kanji (James Heisig)",
+                "537": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1450": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3957": "2001 Kanji",
+                "4b7.8": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "7821.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-06": "JIS X 0208-1997 kuten code",
+                "8131": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tuo1"
+                ],
+                "korean": [
+                    "tal",
+                    "tae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "儿",
+                "并",
+                "口",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "脱ぐ",
+                    "reading": "ぬぐ",
+                    "meanings": [
+                        "to take off (clothes",
+                        "shoes",
+                        "etc.)",
+                        "to undress"
+                    ]
+                },
+                {
+                    "kanji": "脱げる",
+                    "reading": "ぬげる",
+                    "meanings": [
+                        "to come off",
+                        "to slip down",
+                        "to slip off"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "脱",
+                    "reading": "ダツ",
+                    "meanings": [
+                        "de- (indicating reversal",
+                        "removal",
+                        "etc.)",
+                        "post-"
+                    ]
+                },
+                {
+                    "kanji": "脱税",
+                    "reading": "ダツゼイ",
+                    "meanings": [
+                        "tax evasion"
+                    ]
+                },
+                {
+                    "kanji": "逸脱",
+                    "reading": "イツダツ",
+                    "meanings": [
+                        "deviation",
+                        "departure",
+                        "omission"
+                    ]
+                },
+                {
+                    "kanji": "解脱",
+                    "reading": "ゲダツ",
+                    "meanings": [
+                        "liberation from earthly desires and the woes of man",
+                        "deliverance of one's soul",
+                        "moksha",
+                        "mukti",
+                        "vimukti"
+                    ]
+                }
+            ]
+        }
+    }
+}

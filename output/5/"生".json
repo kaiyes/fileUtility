@@ -1,0 +1,478 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"生\"",
+        "strokes": 5,
+        "main_meanings": [
+            "life",
+            "genuine",
+            "birth"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.きる",
+                "い.かす",
+                "い.ける",
+                "う.まれる",
+                "うま.れる",
+                "う.まれ",
+                "うまれ",
+                "う.む",
+                "お.う",
+                "は.える",
+                "は.やす",
+                "き",
+                "なま",
+                "なま-",
+                "な.る",
+                "な.す",
+                "む.す",
+                "-う"
+            ],
+            "on": [
+                "セイ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "34": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "44": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "42": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "29": "A New Dictionary of Kanji Usage",
+                "2991": "Classic Nelson (Andrew Nelson)",
+                "67": "Essential Kanji (P.G. O’Neill)",
+                "71": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "214": "Japanese Names (P.G. O’Neill)",
+                "2.4": "Japanese for Busy People",
+                "49": "Kanji in Context (Nishiguchi and Kono)",
+                "1327": "Kodansha Compact Kanji Guide",
+                "4309": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2179": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2933": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1569": "Les Kanjis dans la tete (Yves Maniette)",
+                "21670": "Morohashi",
+                "3497": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3715": "New Nelson (John Haig)",
+                "1555": "Remembering The Kanji (James Heisig)",
+                "1675": "Remembering The Kanji, 6th edition (James Heisig)",
+                "9": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "43": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2472": "2001 Kanji",
+                "0a5.29": "The Kanji Dictionary",
+                "4-5-2": "SKIP code",
+                "2510.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-24": "JIS X 0208-1997 kuten code",
+                "751f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あさ、 いき、 いく、 いけ、 うぶ、 うまい、 え、 おい、 ぎゅう、 くるみ、 ごせ、 さ、 じょう、 すぎ、 そ、 そう、 ちる、 なば、 にう、 にゅう、 ふ、 み、 もう、 よい、 りゅう"
+                ],
+                "chinese": [
+                    "sheng1"
+                ],
+                "korean": [
+                    "saeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "life",
+            "parts": [
+                "生"
+            ],
+            "basis": "生",
+            "kangxi_order": 100,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "生きる",
+                    "reading": "いきる",
+                    "meanings": [
+                        "to live",
+                        "to exist",
+                        "to make a living",
+                        "to subsist",
+                        "to be in effect",
+                        "to be in use",
+                        "to function",
+                        "to come to life",
+                        "to be enlivened",
+                        "to be safe (in baseball",
+                        "go",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "生きる糧",
+                    "reading": "いきるかて",
+                    "meanings": [
+                        "source of vitality",
+                        "life sustenance"
+                    ]
+                },
+                {
+                    "kanji": "生かす",
+                    "reading": "いかす",
+                    "meanings": [
+                        "to make (the best) use of",
+                        "to put to good use",
+                        "to leverage (skills",
+                        "attributes",
+                        "experience",
+                        "etc.)",
+                        "to capitalise on (experience",
+                        "etc.)",
+                        "to let live",
+                        "to keep alive",
+                        "to revive",
+                        "to resuscitate",
+                        "to bring back to life",
+                        "to restore (a deleted passage; in proofreading)"
+                    ]
+                },
+                {
+                    "kanji": "生ける",
+                    "reading": "いける",
+                    "meanings": [
+                        "to arrange (flowers)",
+                        "to plant",
+                        "living",
+                        "live"
+                    ]
+                },
+                {
+                    "kanji": "生ける屍",
+                    "reading": "いけるしかばね",
+                    "meanings": [
+                        "living corpse"
+                    ]
+                },
+                {
+                    "kanji": "生まれる",
+                    "reading": "うまれる",
+                    "meanings": [
+                        "to be born"
+                    ]
+                },
+                {
+                    "kanji": "生まれる",
+                    "reading": "うまれる",
+                    "meanings": [
+                        "to be born"
+                    ]
+                },
+                {
+                    "kanji": "生まれ",
+                    "reading": "うまれ",
+                    "meanings": [
+                        "birth",
+                        "birthplace",
+                        "born in (country",
+                        "month",
+                        "imperial era",
+                        "zodiac year",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "生まれつき",
+                    "reading": "うまれつき",
+                    "meanings": [
+                        "by nature",
+                        "by birth",
+                        "naturally",
+                        "natural",
+                        "innate"
+                    ]
+                },
+                {
+                    "kanji": "生まれ",
+                    "reading": "うまれ",
+                    "meanings": [
+                        "birth",
+                        "birthplace",
+                        "born in (country",
+                        "month",
+                        "imperial era",
+                        "zodiac year",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "生まれつき",
+                    "reading": "うまれつき",
+                    "meanings": [
+                        "by nature",
+                        "by birth",
+                        "naturally",
+                        "natural",
+                        "innate"
+                    ]
+                },
+                {
+                    "kanji": "生む",
+                    "reading": "うむ",
+                    "meanings": [
+                        "to give birth",
+                        "to bear (child)",
+                        "to lay (eggs)",
+                        "to produce",
+                        "to yield",
+                        "to give rise to",
+                        "to deliver"
+                    ]
+                },
+                {
+                    "kanji": "生う",
+                    "reading": "おう",
+                    "meanings": [
+                        "to grow (of plants)",
+                        "to spring up"
+                    ]
+                },
+                {
+                    "kanji": "生える",
+                    "reading": "はえる",
+                    "meanings": [
+                        "to grow",
+                        "to spring up",
+                        "to sprout",
+                        "to cut (teeth)"
+                    ]
+                },
+                {
+                    "kanji": "生やす",
+                    "reading": "はやす",
+                    "meanings": [
+                        "to grow",
+                        "to cultivate",
+                        "to let grow (e.g. weeds)"
+                    ]
+                },
+                {
+                    "kanji": "生",
+                    "reading": "き",
+                    "meanings": [
+                        "pure",
+                        "undiluted",
+                        "raw",
+                        "crude"
+                    ]
+                },
+                {
+                    "kanji": "生地",
+                    "reading": "きじ",
+                    "meanings": [
+                        "cloth",
+                        "fabric",
+                        "material",
+                        "texture",
+                        "dough",
+                        "batter",
+                        "inherent quality",
+                        "one's true character",
+                        "one's true colours",
+                        "unglazed pottery",
+                        "skin with no make-up",
+                        "uncoated metal"
+                    ]
+                },
+                {
+                    "kanji": "死に生き",
+                    "reading": "しにいき",
+                    "meanings": [
+                        "death and life",
+                        "death or life",
+                        "death"
+                    ]
+                },
+                {
+                    "kanji": "生",
+                    "reading": "なま",
+                    "meanings": [
+                        "raw",
+                        "uncooked",
+                        "fresh",
+                        "natural",
+                        "as it is",
+                        "unedited",
+                        "unprocessed",
+                        "unprotected (sex)",
+                        "raw",
+                        "bareback",
+                        "live (i.e. not recorded)",
+                        "inexperienced",
+                        "unpolished",
+                        "green",
+                        "crude",
+                        "impudence",
+                        "sauciness",
+                        "unpasteurized beer",
+                        "draft beer",
+                        "draught beer",
+                        "blank (e.g. disk)",
+                        "unused",
+                        "just a little",
+                        "somehow",
+                        "vaguely",
+                        "partially",
+                        "somewhat",
+                        "half-",
+                        "semi-",
+                        "insufficient",
+                        "incomplete",
+                        "half-baked",
+                        "half-hearted",
+                        "perfunctory",
+                        "cash",
+                        "tipsiness"
+                    ]
+                },
+                {
+                    "kanji": "生り",
+                    "reading": "なまり",
+                    "meanings": [
+                        "boiled and half-dried bonito"
+                    ]
+                },
+                {
+                    "kanji": "お生",
+                    "reading": "おなま",
+                    "meanings": [
+                        "impudence",
+                        "sauciness"
+                    ]
+                },
+                {
+                    "kanji": "現ナマ",
+                    "reading": "げんナマ",
+                    "meanings": [
+                        "cold cash",
+                        "hard cash"
+                    ]
+                },
+                {
+                    "kanji": "生る",
+                    "reading": "なる",
+                    "meanings": [
+                        "to bear fruit"
+                    ]
+                },
+                {
+                    "kanji": "生す",
+                    "reading": "なす",
+                    "meanings": [
+                        "to have a child"
+                    ]
+                },
+                {
+                    "kanji": "生す",
+                    "reading": "むす",
+                    "meanings": [
+                        "to grow (of moss",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "生",
+                    "reading": "セイ",
+                    "meanings": [
+                        "life",
+                        "living",
+                        "I",
+                        "me",
+                        "myself",
+                        "student"
+                    ]
+                },
+                {
+                    "kanji": "生育",
+                    "reading": "セイイク",
+                    "meanings": [
+                        "birth and growth",
+                        "giving birth and raising",
+                        "development",
+                        "breeding"
+                    ]
+                },
+                {
+                    "kanji": "回生",
+                    "reading": "カイセイ",
+                    "meanings": [
+                        "resurrection",
+                        "resuscitation",
+                        "coming back to life",
+                        "regeneration",
+                        "nth-year university student"
+                    ]
+                },
+                {
+                    "kanji": "公衆衛生",
+                    "reading": "コウシュウエイセイ",
+                    "meanings": [
+                        "public health",
+                        "public hygiene",
+                        "sanitation"
+                    ]
+                },
+                {
+                    "kanji": "生",
+                    "reading": "セイ",
+                    "meanings": [
+                        "life",
+                        "living",
+                        "I",
+                        "me",
+                        "myself",
+                        "student"
+                    ]
+                },
+                {
+                    "kanji": "生家",
+                    "reading": "セイカ",
+                    "meanings": [
+                        "house where one was born",
+                        "one's parents' house"
+                    ]
+                },
+                {
+                    "kanji": "殺生",
+                    "reading": "セッショウ",
+                    "meanings": [
+                        "killing",
+                        "destruction of life",
+                        "cruel",
+                        "heartless",
+                        "callous",
+                        "brutal"
+                    ]
+                },
+                {
+                    "kanji": "死生",
+                    "reading": "シセイ",
+                    "meanings": [
+                        "life and death"
+                    ]
+                }
+            ]
+        }
+    }
+}

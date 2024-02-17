@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"詐\"",
+        "strokes": 12,
+        "main_meanings": [
+            "lie",
+            "falsehood",
+            "deceive",
+            "pretend"
+        ],
+        "main_readings": {
+            "kun": [
+                "いつわ.る"
+            ],
+            "on": [
+                "サ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1285": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1464": "A New Dictionary of Kanji Usage",
+                "4337": "Classic Nelson (Andrew Nelson)",
+                "1278": "Essential Kanji (P.G. O’Neill)",
+                "1747": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1498": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1597": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1575": "Kanji in Context (Nishiguchi and Kono)",
+                "1670": "Kodansha Compact Kanji Guide",
+                "1896": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1006": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1362": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1150": "Les Kanjis dans la tete (Yves Maniette)",
+                "35373": "Morohashi",
+                "1502": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5585": "New Nelson (John Haig)",
+                "1141": "Remembering The Kanji (James Heisig)",
+                "1223": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1584": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3054": "2001 Kanji",
+                "7a5.6": "The Kanji Dictionary",
+                "1-7-5": "SKIP code",
+                "0861.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-30": "JIS X 0208-1997 kuten code",
+                "8a50": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zha4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "｜",
+                "ノ",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "偽る",
+                    "reading": "いつわる",
+                    "meanings": [
+                        "to lie",
+                        "to pretend",
+                        "to feign",
+                        "to falsify",
+                        "to deceive",
+                        "to trick"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "詐欺",
+                    "reading": "サギ",
+                    "meanings": [
+                        "fraud",
+                        "swindle",
+                        "graft",
+                        "cheating",
+                        "trick",
+                        "scam",
+                        "saying you're going to do something but in the end not doing it",
+                        "making promises without keeping them",
+                        "flaking out"
+                    ]
+                },
+                {
+                    "kanji": "詐欺師",
+                    "reading": "サギシ",
+                    "meanings": [
+                        "swindler",
+                        "fraudster",
+                        "trickster",
+                        "con man"
+                    ]
+                },
+                {
+                    "kanji": "欺詐",
+                    "reading": "ギサ",
+                    "meanings": [
+                        "fraud",
+                        "fraudulence",
+                        "dupery",
+                        "hoax"
+                    ]
+                },
+                {
+                    "kanji": "譎詐",
+                    "reading": "キッサ",
+                    "meanings": [
+                        "falsehood",
+                        "fabrication",
+                        "dissimulation"
+                    ]
+                }
+            ]
+        }
+    }
+}

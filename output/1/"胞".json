@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"胞\"",
+        "strokes": 9,
+        "main_meanings": [
+            "placenta",
+            "sac",
+            "sheath"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1796": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1764": "A New Dictionary of Kanji Usage",
+                "3749": "Classic Nelson (Andrew Nelson)",
+                "1237": "Essential Kanji (P.G. O’Neill)",
+                "1673": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1284": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1358": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1630": "Kanji in Context (Nishiguchi and Kono)",
+                "1029": "Kodansha Compact Kanji Guide",
+                "1148": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "620": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "826": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "537": "Les Kanjis dans la tete (Yves Maniette)",
+                "29396P": "Morohashi",
+                "917": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4788": "New Nelson (John Haig)",
+                "531": "Remembering The Kanji (James Heisig)",
+                "570": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1266": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3956": "2001 Kanji",
+                "4b5.5": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "7721.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-06": "JIS X 0208-1997 kuten code",
+                "80de": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bao1"
+                ],
+                "korean": [
+                    "po"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "勹",
+                "已",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "胞子",
+                    "reading": "ホウシ",
+                    "meanings": [
+                        "spore"
+                    ]
+                },
+                {
+                    "kanji": "胞衣",
+                    "reading": "エナ",
+                    "meanings": [
+                        "afterbirth",
+                        "placenta"
+                    ]
+                },
+                {
+                    "kanji": "卵胞",
+                    "reading": "ランポウ",
+                    "meanings": [
+                        "(ovarian) follicle"
+                    ]
+                },
+                {
+                    "kanji": "肺胞",
+                    "reading": "ハイホウ",
+                    "meanings": [
+                        "pulmonary alveolus",
+                        "alveoli",
+                        "air cell",
+                        "air sac"
+                    ]
+                }
+            ]
+        }
+    }
+}

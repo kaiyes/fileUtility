@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"屯\"",
+        "strokes": 4,
+        "main_meanings": [
+            "barracks",
+            "police station",
+            "camp",
+            "ton"
+        ],
+        "main_readings": {
+            "kun": [
+                "たむろ"
+            ],
+            "on": [
+                "トン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1669": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2038": "A New Dictionary of Kanji Usage",
+                "264": "Classic Nelson (Andrew Nelson)",
+                "1235": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "222": "Japanese Names (P.G. O’Neill)",
+                "1936": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2121": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1918": "Kanji in Context (Nishiguchi and Kono)",
+                "22": "Kodansha Compact Kanji Guide",
+                "4268": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2156": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2908": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2055": "Les Kanjis dans la tete (Yves Maniette)",
+                "7828": "Morohashi",
+                "3457": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1438": "New Nelson (John Haig)",
+                "2033": "Remembering The Kanji (James Heisig)",
+                "2189": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1029": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1456": "2001 Kanji",
+                "0a4.35": "The Kanji Dictionary",
+                "4-4-3": "SKIP code",
+                "4-4-4": "SKIP code",
+                "5071.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-54": "JIS X 0208-1997 kuten code",
+                "5c6f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tun2",
+                    "zhun1"
+                ],
+                "korean": [
+                    "dun",
+                    "jun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sprout",
+            "parts": [
+                "ノ",
+                "乙",
+                "凵",
+                "屯"
+            ],
+            "basis": "屮",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "屯",
+                    "reading": "たむろ",
+                    "meanings": [
+                        "gathering",
+                        "place where people gather",
+                        "police station",
+                        "camp",
+                        "barracks"
+                    ]
+                },
+                {
+                    "kanji": "屯う",
+                    "reading": "たむろう",
+                    "meanings": [
+                        "to gather (of people)",
+                        "to assemble",
+                        "to hang out"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "屯",
+                    "reading": "トン",
+                    "meanings": [
+                        "ton (esp. a metric ton",
+                        "i.e. 1000 kg)",
+                        "tonne"
+                    ]
+                },
+                {
+                    "kanji": "屯営",
+                    "reading": "トンエイ",
+                    "meanings": [
+                        "military camp",
+                        "barracks",
+                        "camping"
+                    ]
+                },
+                {
+                    "kanji": "駐屯",
+                    "reading": "チュウトン",
+                    "meanings": [
+                        "stationing (troops)",
+                        "garrisoning"
+                    ]
+                },
+                {
+                    "kanji": "英トン",
+                    "reading": "エイトン",
+                    "meanings": [
+                        "long ton",
+                        "British ton"
+                    ]
+                }
+            ]
+        }
+    }
+}

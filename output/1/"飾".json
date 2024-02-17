@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"飾\"",
+        "strokes": 13,
+        "main_meanings": [
+            "decorate",
+            "ornament",
+            "adorn",
+            "embellish"
+        ],
+        "main_readings": {
+            "kun": [
+                "かざ.る",
+                "かざ.り"
+            ],
+            "on": [
+                "ショク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1427": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "972": "A New Dictionary of Kanji Usage",
+                "5161": "Classic Nelson (Andrew Nelson)",
+                "1014": "Essential Kanji (P.G. O’Neill)",
+                "1906": "Kodansha Compact Kanji Guide",
+                "2164": "Japanese Names (P.G. O’Neill)",
+                "979": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1013": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "603": "Kanji in Context (Nishiguchi and Kono)",
+                "2150": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1129": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1530": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1489": "Les Kanjis dans la tete (Yves Maniette)",
+                "44111P": "Morohashi",
+                "1717": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6683": "New Nelson (John Haig)",
+                "1477": "Remembering The Kanji (James Heisig)",
+                "1587": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1690": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2844": "2001 Kanji",
+                "8b5.3": "The Kanji Dictionary",
+                "1-8-5": "SKIP code",
+                "8872.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-94": "JIS X 0208-1997 kuten code",
+                "98fe": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しか"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "sig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "飠"
+            ],
+            "meaning": "eat,",
+            "parts": [
+                "一",
+                "ノ",
+                "人",
+                "巾",
+                "食",
+                "乞"
+            ],
+            "basis": "食",
+            "kangxi_order": 184,
+            "variants": [
+                "餝"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "飾る",
+                    "reading": "かざる",
+                    "meanings": [
+                        "to decorate",
+                        "to ornament",
+                        "to adorn",
+                        "to display",
+                        "to exhibit",
+                        "to put on show",
+                        "to arrange",
+                        "to mark (e.g. the day with a victory)",
+                        "to adorn (e.g. the front page)",
+                        "to grace (e.g. the cover)",
+                        "to affect (a manner)",
+                        "to keep up (appearances)",
+                        "to embellish",
+                        "to dress up",
+                        "to be showy",
+                        "to be pretentious"
+                    ]
+                },
+                {
+                    "kanji": "飾り",
+                    "reading": "かざり",
+                    "meanings": [
+                        "decoration",
+                        "ornament",
+                        "trimmings"
+                    ]
+                },
+                {
+                    "kanji": "飾り気",
+                    "reading": "かざりけ",
+                    "meanings": [
+                        "affectation",
+                        "showiness",
+                        "pretence"
+                    ]
+                },
+                {
+                    "kanji": "耳飾り",
+                    "reading": "みみかざり",
+                    "meanings": [
+                        "earring"
+                    ]
+                },
+                {
+                    "kanji": "蓬莱飾り",
+                    "reading": "ほうらいかざり",
+                    "meanings": [
+                        "Kansai New Year decoration (made from food)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "飾緒",
+                    "reading": "ショクショ",
+                    "meanings": [
+                        "aiguillette (ornamental braided cord)"
+                    ]
+                },
+                {
+                    "kanji": "服飾",
+                    "reading": "フクショク",
+                    "meanings": [
+                        "clothing and accessories",
+                        "attire"
+                    ]
+                },
+                {
+                    "kanji": "潤色",
+                    "reading": "ジュンショク",
+                    "meanings": [
+                        "rhetorical flourishes"
+                    ]
+                }
+            ]
+        }
+    }
+}

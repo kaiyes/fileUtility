@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"控\"",
+        "strokes": 11,
+        "main_meanings": [
+            "withdraw",
+            "draw in",
+            "hold back",
+            "refrain from",
+            "be moderate"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひか.える",
+                "ひか.え"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1258": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1301": "A New Dictionary of Kanji Usage",
+                "1941": "Classic Nelson (Andrew Nelson)",
+                "1658": "Essential Kanji (P.G. O’Neill)",
+                "1363": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1718": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1835": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1479": "Kanji in Context (Nishiguchi and Kono)",
+                "899": "Kodansha Compact Kanji Guide",
+                "600": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "363": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "453": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1329": "Les Kanjis dans la tete (Yves Maniette)",
+                "12283": "Morohashi",
+                "495": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2202": "New Nelson (John Haig)",
+                "1318": "Remembering The Kanji (James Heisig)",
+                "1415": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1440": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1372": "2001 Kanji",
+                "3c8.11": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5301.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-21": "JIS X 0208-1997 kuten code",
+                "63a7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kong4"
+                ],
+                "korean": [
+                    "gong",
+                    "gang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "儿",
+                "宀",
+                "工",
+                "扎",
+                "穴"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "控える",
+                    "reading": "ひかえる",
+                    "meanings": [
+                        "to be temperate in",
+                        "to refrain",
+                        "to abstain",
+                        "to hold back",
+                        "to restrain oneself from excessive ...",
+                        "to make notes",
+                        "to jot down (e.g. phone number)",
+                        "to be in preparation for",
+                        "to be in waiting for",
+                        "to be soon",
+                        "to be in the offing",
+                        "to be in a close relationship (e.g. as a backer",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "控え",
+                    "reading": "ひかえ",
+                    "meanings": [
+                        "reserve",
+                        "spare",
+                        "backup",
+                        "note",
+                        "memorandum",
+                        "duplicate",
+                        "copy",
+                        "stub (of a ticket",
+                        "etc.)",
+                        "receipt",
+                        "waiting one's turn"
+                    ]
+                },
+                {
+                    "kanji": "控え室",
+                    "reading": "ひかえしつ",
+                    "meanings": [
+                        "waiting room",
+                        "anteroom",
+                        "antechamber",
+                        "green room"
+                    ]
+                },
+                {
+                    "kanji": "お客様控え",
+                    "reading": "おきゃくさまひかえ",
+                    "meanings": [
+                        "customer copy (of a receipt",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "控訴",
+                    "reading": "コウソ",
+                    "meanings": [
+                        "appeal to a higher court",
+                        "intermediate appeal"
+                    ]
+                },
+                {
+                    "kanji": "控除",
+                    "reading": "コウジョ",
+                    "meanings": [
+                        "subtraction",
+                        "deduction (e.g. tax)",
+                        "subsidy"
+                    ]
+                }
+            ]
+        }
+    }
+}

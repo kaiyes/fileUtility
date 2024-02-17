@@ -1,0 +1,214 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"飛\"",
+        "strokes": 9,
+        "main_meanings": [
+            "fly",
+            "skip (pages)",
+            "scatter"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.ぶ",
+                "と.ばす",
+                "-と.ばす"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "493": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "595": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "566": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "440": "A New Dictionary of Kanji Usage",
+                "5152": "Classic Nelson (Andrew Nelson)",
+                "404": "Essential Kanji (P.G. O’Neill)",
+                "1013": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1014": "Japanese Names (P.G. O’Neill)",
+                "530": "Kanji and Kana (Spahn and Hadamitzky)",
+                "539": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "265": "Kanji in Context (Nishiguchi and Kono)",
+                "1899": "Kodansha Compact Kanji Guide",
+                "4389": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2222": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2990": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1905": "Les Kanjis dans la tete (Yves Maniette)",
+                "44000": "Morohashi",
+                "3572": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6672": "New Nelson (John Haig)",
+                "1887": "Remembering The Kanji (James Heisig)",
+                "2032": "Remembering The Kanji, 6th edition (James Heisig)",
+                "531": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3556": "2001 Kanji",
+                "0a9.4": "The Kanji Dictionary",
+                "4-9-1": "SKIP code",
+                "3-3-6": "SKIP code",
+                "1241.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-84": "JIS X 0208-1997 kuten code",
+                "98db": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あす、 とび"
+                ],
+                "chinese": [
+                    "fei1"
+                ],
+                "korean": [
+                    "bi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fly",
+            "parts": [
+                "飛"
+            ],
+            "basis": "飛",
+            "kangxi_order": 183,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "飛ぶ",
+                    "reading": "とぶ",
+                    "meanings": [
+                        "to fly",
+                        "to soar",
+                        "to jump",
+                        "to leap",
+                        "to spring",
+                        "to bound",
+                        "to hop",
+                        "to spatter",
+                        "to scatter",
+                        "to splash",
+                        "to fly (e.g. of sparks)",
+                        "to hurry",
+                        "to rush",
+                        "to flee",
+                        "to run off",
+                        "to escape",
+                        "to disappear",
+                        "to vanish",
+                        "to fade",
+                        "to thin out",
+                        "to break off",
+                        "to come off",
+                        "to fall off",
+                        "to blow (of a fuse)",
+                        "to be sent out (of an order)",
+                        "to fly (of false rumours",
+                        "catcalls",
+                        "etc.)",
+                        "to come flying (of a punch",
+                        "kick",
+                        "etc.)",
+                        "to be missing (of a page",
+                        "stitch",
+                        "etc.)",
+                        "to skip",
+                        "to jump (e.g. of a conversation)"
+                    ]
+                },
+                {
+                    "kanji": "飛ぶ鳥",
+                    "reading": "とぶとり",
+                    "meanings": [
+                        "flying bird",
+                        "soaring bird"
+                    ]
+                },
+                {
+                    "kanji": "飛ばす",
+                    "reading": "とばす",
+                    "meanings": [
+                        "to let fly",
+                        "to make fly",
+                        "to send flying",
+                        "to blow off (e.g. in the wind)",
+                        "to launch",
+                        "to fire",
+                        "to hurl",
+                        "to shoot",
+                        "to skip over",
+                        "to leave out",
+                        "to omit",
+                        "to drop (e.g. a stitch)",
+                        "to run fast",
+                        "to drive fast",
+                        "to gallop",
+                        "to spray",
+                        "to splash",
+                        "to spatter",
+                        "to say without reservation",
+                        "to call out (e.g. a jeer)",
+                        "to rattle off (e.g. a joke)",
+                        "to spread (e.g. a rumour)",
+                        "to circulate",
+                        "to send out (a message)",
+                        "to issue (e.g. an appeal)",
+                        "to transfer (to a less important post)",
+                        "to send away (e.g. to a provincial branch)",
+                        "to demote",
+                        "to dispatch quickly (e.g. a reporter)",
+                        "to get rid of",
+                        "to burn off (alcohol)",
+                        "to attack (e.g. with a leg manoeuvre)",
+                        "to do vigorously",
+                        "to do roughly",
+                        "to do energetically"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "飛",
+                    "reading": "ヒ",
+                    "meanings": [
+                        "rook",
+                        "fly ball"
+                    ]
+                },
+                {
+                    "kanji": "飛球",
+                    "reading": "ヒキュウ",
+                    "meanings": [
+                        "fly (ball)"
+                    ]
+                },
+                {
+                    "kanji": "犠飛",
+                    "reading": "ギヒ",
+                    "meanings": [
+                        "sacrifice fly"
+                    ]
+                },
+                {
+                    "kanji": "中飛",
+                    "reading": "チュウヒ",
+                    "meanings": [
+                        "center fly",
+                        "centre fly"
+                    ]
+                }
+            ]
+        }
+    }
+}

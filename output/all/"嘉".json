@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"嘉\"",
+        "strokes": 14,
+        "main_meanings": [
+            "applaud",
+            "praise",
+            "esteem",
+            "happy",
+            "auspicious"
+        ],
+        "main_readings": {
+            "kun": [
+                "よみ.する",
+                "よい"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1136": "Classic Nelson (Andrew Nelson)",
+                "1915": "Essential Kanji (P.G. O’Neill)",
+                "2184": "Japanese Names (P.G. O’Neill)",
+                "2041": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2953": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1516": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2056": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "4176": "Morohashi",
+                "2340": "New Japanese English Character Dictionary (Jack Halpern)",
+                "887": "New Nelson (John Haig)",
+                "2852": "Remembering The Kanji (James Heisig)",
+                "2868": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3p11.1": "The Kanji Dictionary",
+                "2-3-11": "SKIP code",
+                "4046.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-37": "JIS X 0208-1997 kuten code",
+                "5609": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ、 よし、 よしみ、 かず、 よ"
+                ],
+                "chinese": [
+                    "jia1"
+                ],
+                "korean": [
+                    "ga"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "力",
+                "口",
+                "士"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "嘉する",
+                    "reading": "よみする",
+                    "meanings": [
+                        "to praise (someone of lower status)",
+                        "to extol",
+                        "to applaud",
+                        "to esteem"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "歌留多",
+                    "reading": "カルタ",
+                    "meanings": [
+                        "karuta",
+                        "traditional Japanese playing cards",
+                        "esp. hyakunin isshu karuta or iroha karuta"
+                    ]
+                },
+                {
+                    "kanji": "嘉納",
+                    "reading": "カノウ",
+                    "meanings": [
+                        "accepting with pleasure"
+                    ]
+                },
+                {
+                    "kanji": "正嘉",
+                    "reading": "ショウカ",
+                    "meanings": [
+                        "Shōka era (1257.3.14-1259.3.26)"
+                    ]
+                }
+            ]
+        }
+    }
+}

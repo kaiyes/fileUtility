@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"茜\"",
+        "strokes": 9,
+        "main_meanings": [
+            "madder",
+            "red dye",
+            "Turkey red"
+        ],
+        "main_readings": {
+            "kun": [
+                "あかね"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3932": "Classic Nelson (Andrew Nelson)",
+                "928": "Japanese Names (P.G. O’Neill)",
+                "2216": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2811": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1448": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1951": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "30871X": "Morohashi",
+                "2261": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5019": "New Nelson (John Haig)",
+                "2407": "Remembering The Kanji (James Heisig)",
+                "2487": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k6.3": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "4460.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-11": "JIS X 0208-1997 kuten code",
+                "831c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qian4",
+                    "xi1"
+                ],
+                "korean": [
+                    "cheon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "西"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "茜",
+                    "reading": "あかね",
+                    "meanings": [
+                        "madder (esp. Japanese madder",
+                        "Rubia argyi)",
+                        "madder (red color)"
+                    ]
+                },
+                {
+                    "kanji": "茜色",
+                    "reading": "あかねいろ",
+                    "meanings": [
+                        "madder red",
+                        "dark red",
+                        "crimson"
+                    ]
+                },
+                {
+                    "kanji": "秋茜",
+                    "reading": "あきあかね",
+                    "meanings": [
+                        "var. of red dragonfly (Sympetrum frequens)"
+                    ]
+                },
+                {
+                    "kanji": "蝦夷茜",
+                    "reading": "えぞあかね",
+                    "meanings": [
+                        "yellow-winged darter (Sympetrum flaveolum)"
+                    ]
+                }
+            ]
+        }
+    }
+}

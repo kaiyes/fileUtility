@@ -1,0 +1,216 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"慎\"",
+        "strokes": 13,
+        "main_meanings": [
+            "humility",
+            "be careful",
+            "discreet",
+            "prudent"
+        ],
+        "main_readings": {
+            "kun": [
+                "つつし.む",
+                "つつ.ましい",
+                "つつし",
+                "つつし.み"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1442": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1089": "A New Dictionary of Kanji Usage",
+                "1742": "Classic Nelson (Andrew Nelson)",
+                "1669": "Essential Kanji (P.G. O’Neill)",
+                "1312": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1839": "Japanese Names (P.G. O’Neill)",
+                "1785": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1918": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1220": "Kanji in Context (Nishiguchi and Kono)",
+                "826": "Kodansha Compact Kanji Guide",
+                "792": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "463": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "590": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "637": "Les Kanjis dans la tete (Yves Maniette)",
+                "11024P": "Morohashi",
+                "643": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1945": "New Nelson (John Haig)",
+                "630": "Remembering The Kanji (James Heisig)",
+                "677": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1627": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1161": "2001 Kanji",
+                "4k10.4": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "1-1-12": "SKIP code",
+                "9408.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-21": "JIS X 0208-1997 kuten code",
+                "614e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ちか、 のり、 まこと、 みつ"
+                ],
+                "chinese": [
+                    "shen4"
+                ],
+                "korean": [
+                    "sin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "一",
+                "ハ",
+                "十",
+                "忙",
+                "目"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": [
+                "愼"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "慎む",
+                    "reading": "つつしむ",
+                    "meanings": [
+                        "to be careful",
+                        "to be discreet",
+                        "to do in moderation",
+                        "to refrain (from overdoing)",
+                        "to abstain",
+                        "to be reverent",
+                        "to be purified",
+                        "to be chaste"
+                    ]
+                },
+                {
+                    "kanji": "慎ましい",
+                    "reading": "つつましい",
+                    "meanings": [
+                        "modest",
+                        "reserved",
+                        "quiet",
+                        "humble",
+                        "frugal",
+                        "simple",
+                        "plain"
+                    ]
+                },
+                {
+                    "kanji": "慎む",
+                    "reading": "つつしむ",
+                    "meanings": [
+                        "to be careful",
+                        "to be discreet",
+                        "to do in moderation",
+                        "to refrain (from overdoing)",
+                        "to abstain",
+                        "to be reverent",
+                        "to be purified",
+                        "to be chaste"
+                    ]
+                },
+                {
+                    "kanji": "慎み",
+                    "reading": "つつしみ",
+                    "meanings": [
+                        "modesty",
+                        "self-control",
+                        "discretion"
+                    ]
+                },
+                {
+                    "kanji": "慎み",
+                    "reading": "つつしみ",
+                    "meanings": [
+                        "modesty",
+                        "self-control",
+                        "discretion"
+                    ]
+                },
+                {
+                    "kanji": "慎み深い",
+                    "reading": "つつしみぶかい",
+                    "meanings": [
+                        "discreet",
+                        "modest",
+                        "cautious"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "慎重",
+                    "reading": "シンチョウ",
+                    "meanings": [
+                        "careful",
+                        "cautious",
+                        "prudent",
+                        "discreet",
+                        "deliberate"
+                    ]
+                },
+                {
+                    "kanji": "慎重吟味",
+                    "reading": "シンチョウギンミ",
+                    "meanings": [
+                        "scrutiny",
+                        "careful (close) examination (investigation)",
+                        "careful inquiry",
+                        "careful selection"
+                    ]
+                },
+                {
+                    "kanji": "謹慎",
+                    "reading": "キンシン",
+                    "meanings": [
+                        "self restraint",
+                        "moderating one's own behavior",
+                        "penitence",
+                        "discipline",
+                        "confinement (esp. to one's home)",
+                        "house arrest",
+                        "suspension (from work or school)"
+                    ]
+                },
+                {
+                    "kanji": "不謹慎",
+                    "reading": "フキンシン",
+                    "meanings": [
+                        "imprudent",
+                        "indiscreet",
+                        "immodest",
+                        "indecent",
+                        "inconsiderate",
+                        "inappropriate"
+                    ]
+                }
+            ]
+        }
+    }
+}

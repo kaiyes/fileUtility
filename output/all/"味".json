@@ -1,0 +1,201 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"味\"",
+        "strokes": 8,
+        "main_meanings": [
+            "flavor",
+            "taste"
+        ],
+        "main_readings": {
+            "kun": [
+                "あじ",
+                "あじ.わう"
+            ],
+            "on": [
+                "ミ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "516": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "415": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "393": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "295": "A New Dictionary of Kanji Usage",
+                "913": "Classic Nelson (Andrew Nelson)",
+                "339": "Essential Kanji (P.G. O’Neill)",
+                "137": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "572": "Japanese Names (P.G. O’Neill)",
+                "2.19": "Japanese for Busy People",
+                "307": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "311": "Kanji in Context (Nishiguchi and Kono)",
+                "302": "Kodansha Compact Kanji Guide",
+                "325": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "206": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "247": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "224": "Les Kanjis dans la tete (Yves Maniette)",
+                "3456": "Morohashi",
+                "274": "New Japanese English Character Dictionary (Jack Halpern)",
+                "766": "New Nelson (John Haig)",
+                "219": "Remembering The Kanji (James Heisig)",
+                "233": "Remembering The Kanji, 6th edition (James Heisig)",
+                "169": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "315": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3764": "2001 Kanji",
+                "3d5.3": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "6509.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-03": "JIS X 0208-1997 kuten code",
+                "5473": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei4"
+                ],
+                "korean": [
+                    "mi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "｜",
+                "二",
+                "亠",
+                "ハ",
+                "口",
+                "木"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "味",
+                    "reading": "あじ",
+                    "meanings": [
+                        "flavor",
+                        "flavour",
+                        "taste",
+                        "charm",
+                        "appeal",
+                        "uniqueness",
+                        "attractiveness",
+                        "experience",
+                        "taste (e.g. of victory)",
+                        "smart",
+                        "clever",
+                        "witty",
+                        "strange"
+                    ]
+                },
+                {
+                    "kanji": "味付け",
+                    "reading": "あじつけ",
+                    "meanings": [
+                        "seasoning",
+                        "flavour",
+                        "flavor"
+                    ]
+                },
+                {
+                    "kanji": "切れ味",
+                    "reading": "きれあじ",
+                    "meanings": [
+                        "sharpness",
+                        "cutting ability",
+                        "quickness (of wit)",
+                        "incisiveness",
+                        "technical proficiency",
+                        "skill",
+                        "peppiness (of a ball)"
+                    ]
+                },
+                {
+                    "kanji": "下味",
+                    "reading": "したあじ",
+                    "meanings": [
+                        "seasoning of food"
+                    ]
+                },
+                {
+                    "kanji": "味わう",
+                    "reading": "あじわう",
+                    "meanings": [
+                        "to taste",
+                        "to savor",
+                        "to savour",
+                        "to relish",
+                        "to appreciate",
+                        "to enjoy",
+                        "to relish",
+                        "to digest",
+                        "to experience",
+                        "to go through",
+                        "to taste (e.g. victory)",
+                        "to know (e.g. pain)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "味",
+                    "reading": "ミ",
+                    "meanings": [
+                        "(sense of) taste",
+                        "counter for food",
+                        "drink",
+                        "medicine",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "味覚",
+                    "reading": "ミカク",
+                    "meanings": [
+                        "taste",
+                        "palate",
+                        "sense of taste"
+                    ]
+                },
+                {
+                    "kanji": "厚み",
+                    "reading": "アツミ",
+                    "meanings": [
+                        "thickness",
+                        "profundity",
+                        "depth"
+                    ]
+                },
+                {
+                    "kanji": "加味",
+                    "reading": "カミ",
+                    "meanings": [
+                        "seasoning",
+                        "flavoring",
+                        "flavouring",
+                        "addition",
+                        "inclusion",
+                        "taking into account"
+                    ]
+                }
+            ]
+        }
+    }
+}

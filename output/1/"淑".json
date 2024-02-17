@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"淑\"",
+        "strokes": 11,
+        "main_meanings": [
+            "graceful",
+            "gentle",
+            "pure"
+        ],
+        "main_readings": {
+            "kun": [
+                "しと.やか"
+            ],
+            "on": [
+                "シュク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1368": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1857": "A New Dictionary of Kanji Usage",
+                "2592": "Classic Nelson (Andrew Nelson)",
+                "1487": "Essential Kanji (P.G. O’Neill)",
+                "1478": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1335": "Japanese Names (P.G. O’Neill)",
+                "1668": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1783": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1767": "Kanji in Context (Nishiguchi and Kono)",
+                "1210": "Kodansha Compact Kanji Guide",
+                "639": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "388": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "483": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "728": "Les Kanjis dans la tete (Yves Maniette)",
+                "17634": "Morohashi",
+                "527": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3191": "New Nelson (John Haig)",
+                "721": "Remembering The Kanji (James Heisig)",
+                "778": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1456": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "367": "2001 Kanji",
+                "3a8.5": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3714.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-42": "JIS X 0208-1997 kuten code",
+                "6dd1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "すく、 とし、 よし"
+                ],
+                "chinese": [
+                    "shu2",
+                    "shu1"
+                ],
+                "korean": [
+                    "sug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "卜",
+                "又",
+                "小",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "淑やか",
+                    "reading": "しとやか",
+                    "meanings": [
+                        "graceful",
+                        "ladylike",
+                        "modest",
+                        "gentle",
+                        "polite",
+                        "quiet",
+                        "well-mannered",
+                        "refined (behavior)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "淑徳",
+                    "reading": "シュクトク",
+                    "meanings": [
+                        "womanly virtues"
+                    ]
+                },
+                {
+                    "kanji": "淑女",
+                    "reading": "シュクジョ",
+                    "meanings": [
+                        "lady",
+                        "(female) pervert"
+                    ]
+                },
+                {
+                    "kanji": "貞淑",
+                    "reading": "テイシュク",
+                    "meanings": [
+                        "chastity",
+                        "virtue",
+                        "fidelity",
+                        "feminine modesty"
+                    ]
+                },
+                {
+                    "kanji": "私淑",
+                    "reading": "シシュク",
+                    "meanings": [
+                        "looking up to a person as one's own master or model",
+                        "being influenced by a person through his works",
+                        "idolizing"
+                    ]
+                }
+            ]
+        }
+    }
+}

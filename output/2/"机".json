@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"机\"",
+        "strokes": 6,
+        "main_meanings": [
+            "desk",
+            "table"
+        ],
+        "main_readings": {
+            "kun": [
+                "つくえ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "845": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "832": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1610": "A New Dictionary of Kanji Usage",
+                "2174": "Classic Nelson (Andrew Nelson)",
+                "1785": "Essential Kanji (P.G. O’Neill)",
+                "618": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1305": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1384": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "38": "Kanji in Context (Nishiguchi and Kono)",
+                "1068": "Kodansha Compact Kanji Guide",
+                "1014": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "549": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "726": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "214": "Les Kanjis dans la tete (Yves Maniette)",
+                "14435": "Morohashi",
+                "820": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2543": "New Nelson (John Haig)",
+                "210": "Remembering The Kanji (James Heisig)",
+                "223": "Remembering The Kanji, 6th edition (James Heisig)",
+                "842": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1857": "2001 Kanji",
+                "4a2.4": "The Kanji Dictionary",
+                "1-4-2": "SKIP code",
+                "4791.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-89": "JIS X 0208-1997 kuten code",
+                "673a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "gwe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "几",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "机",
+                    "reading": "つくえ",
+                    "meanings": [
+                        "desk"
+                    ]
+                },
+                {
+                    "kanji": "机に向かう",
+                    "reading": "つくえにむかう",
+                    "meanings": [
+                        "to sit at a desk (to study)",
+                        "to be at one's desk",
+                        "to set to work on revision",
+                        "homework",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "片袖机",
+                    "reading": "かたそでづくえ",
+                    "meanings": [
+                        "desk with a tier of drawers on one side"
+                    ]
+                },
+                {
+                    "kanji": "八足の机",
+                    "reading": "やつあしのつくえ",
+                    "meanings": [
+                        "eight-legged table (used as a stand for religious offerings",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "机上",
+                    "reading": "キジョウ",
+                    "meanings": [
+                        "on the desk",
+                        "theoretical",
+                        "academic",
+                        "armchair (e.g. plan)",
+                        "desktop",
+                        "paper",
+                        "not yet implemented"
+                    ]
+                },
+                {
+                    "kanji": "几案",
+                    "reading": "キアン",
+                    "meanings": [
+                        "desk"
+                    ]
+                },
+                {
+                    "kanji": "明窓浄机",
+                    "reading": "メイソウジョウキ",
+                    "meanings": [
+                        "dustless desk by a well-lit window",
+                        "well-lit and clean study conducive to learning"
+                    ]
+                }
+            ]
+        }
+    }
+}

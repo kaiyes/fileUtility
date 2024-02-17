@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"状\"",
+        "strokes": 7,
+        "main_meanings": [
+            "status quo",
+            "conditions",
+            "circumstances",
+            "form",
+            "appearance"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "818": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "739": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "717": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "414": "A New Dictionary of Kanji Usage",
+                "2839": "Classic Nelson (Andrew Nelson)",
+                "512": "Essential Kanji (P.G. O’Neill)",
+                "727": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "365A": "Japanese Names (P.G. O’Neill)",
+                "626": "Kanji and Kana (Spahn and Hadamitzky)",
+                "636": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "829": "Kanji in Context (Nishiguchi and Kono)",
+                "1296": "Kodansha Compact Kanji Guide",
+                "322": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "204": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "244": "Les Kanjis dans la tete (Yves Maniette)",
+                "20257": "Morohashi",
+                "272": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3556": "New Nelson (John Haig)",
+                "239": "Remembering The Kanji (James Heisig)",
+                "254": "Remembering The Kanji, 6th edition (James Heisig)",
+                "430": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "672": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1263": "2001 Kanji",
+                "2b5.1": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "3313.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-85": "JIS X 0208-1997 kuten code",
+                "72b6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhuang4"
+                ],
+                "korean": [
+                    "jang",
+                    "sang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "爿",
+                "犬"
+            ],
+            "basis": "犬",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "状",
+                    "reading": "ジョウ",
+                    "meanings": [
+                        "form",
+                        "shape",
+                        "appearance",
+                        "state",
+                        "condition",
+                        "circumstances",
+                        "letter",
+                        "correspondence"
+                    ]
+                },
+                {
+                    "kanji": "状況",
+                    "reading": "ジョウキョウ",
+                    "meanings": [
+                        "state of affairs",
+                        "situation",
+                        "conditions",
+                        "circumstances"
+                    ]
+                },
+                {
+                    "kanji": "内情",
+                    "reading": "ナイジョウ",
+                    "meanings": [
+                        "internal conditions",
+                        "true state of affairs"
+                    ]
+                },
+                {
+                    "kanji": "形状",
+                    "reading": "ケイジョウ",
+                    "meanings": [
+                        "shape",
+                        "form"
+                    ]
+                }
+            ]
+        }
+    }
+}

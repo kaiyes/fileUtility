@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伯\"",
+        "strokes": 7,
+        "main_meanings": [
+            "chief",
+            "count",
+            "earl",
+            "uncle",
+            "Brazil"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ハク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1694": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1671": "A New Dictionary of Kanji Usage",
+                "397": "Classic Nelson (Andrew Nelson)",
+                "1679": "Essential Kanji (P.G. O’Neill)",
+                "1041": "Remembering The Kanji, 6th edition (James Heisig)",
+                "363": "Japanese Names (P.G. O’Neill)",
+                "1176": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1234": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1877": "Kanji in Context (Nishiguchi and Kono)",
+                "83": "Kodansha Compact Kanji Guide",
+                "67": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "40": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "43": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "976": "Les Kanjis dans la tete (Yves Maniette)",
+                "466": "Morohashi",
+                "59": "New Japanese English Character Dictionary (Jack Halpern)",
+                "158": "New Nelson (John Haig)",
+                "967": "Remembering The Kanji (James Heisig)",
+                "1097": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2178": "2001 Kanji",
+                "2a5.7": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "2620.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-76": "JIS X 0208-1997 kuten code",
+                "4f2f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いき、 えき、 か、 き、 は、 ひろ"
+                ],
+                "chinese": [
+                    "bo2",
+                    "bai3",
+                    "ba4"
+                ],
+                "korean": [
+                    "baeg",
+                    "pae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "白"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "伯",
+                    "reading": "ハク",
+                    "meanings": [
+                        "count",
+                        "earl",
+                        "chief official of the Department of Worship (under the ritsuryō system)",
+                        "Brazil"
+                    ]
+                },
+                {
+                    "kanji": "伯爵",
+                    "reading": "ハクシャク",
+                    "meanings": [
+                        "count",
+                        "earl"
+                    ]
+                },
+                {
+                    "kanji": "画伯",
+                    "reading": "ガハク",
+                    "meanings": [
+                        "master painter",
+                        "artist"
+                    ]
+                },
+                {
+                    "kanji": "医伯",
+                    "reading": "イハク",
+                    "meanings": [
+                        "doctor"
+                    ]
+                }
+            ]
+        }
+    }
+}

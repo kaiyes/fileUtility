@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"弔\"",
+        "strokes": 4,
+        "main_meanings": [
+            "condolences",
+            "mourning",
+            "funeral"
+        ],
+        "main_readings": {
+            "kun": [
+                "とむら.う",
+                "とぶら.う"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1588": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1987": "A New Dictionary of Kanji Usage",
+                "80": "Classic Nelson (Andrew Nelson)",
+                "1690": "Essential Kanji (P.G. O’Neill)",
+                "1269": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1796": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1934": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1815": "Kanji in Context (Nishiguchi and Kono)",
+                "606": "Kodansha Compact Kanji Guide",
+                "4240": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2139": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2888": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1241": "Les Kanjis dans la tete (Yves Maniette)",
+                "9698": "Morohashi",
+                "3432": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1680": "New Nelson (John Haig)",
+                "1233": "Remembering The Kanji (James Heisig)",
+                "1319": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1032": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3544": "2001 Kanji",
+                "0a4.41": "The Kanji Dictionary",
+                "4-4-1": "SKIP code",
+                "1752.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-04": "JIS X 0208-1997 kuten code",
+                "5f14": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "diao4"
+                ],
+                "korean": [
+                    "jo",
+                    "jeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bow",
+            "parts": [
+                "｜",
+                "弓"
+            ],
+            "basis": "弓",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "弔う",
+                    "reading": "とむらう",
+                    "meanings": [
+                        "to mourn for",
+                        "to grieve for",
+                        "to condole with (the bereaved family",
+                        "etc.)",
+                        "to hold a memorial service for",
+                        "to hold a funeral service for"
+                    ]
+                },
+                {
+                    "kanji": "弔う",
+                    "reading": "とむらう",
+                    "meanings": [
+                        "to mourn for",
+                        "to grieve for",
+                        "to condole with (the bereaved family",
+                        "etc.)",
+                        "to hold a memorial service for",
+                        "to hold a funeral service for"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "弔問",
+                    "reading": "チョウモン",
+                    "meanings": [
+                        "condolence call",
+                        "visiting a bereaved family to offer condolences"
+                    ]
+                },
+                {
+                    "kanji": "弔辞",
+                    "reading": "チョウジ",
+                    "meanings": [
+                        "message of condolence",
+                        "memorial address"
+                    ]
+                },
+                {
+                    "kanji": "慶弔",
+                    "reading": "ケイチョウ",
+                    "meanings": [
+                        "congratulations and condolences"
+                    ]
+                },
+                {
+                    "kanji": "哀弔",
+                    "reading": "アイチョウ",
+                    "meanings": [
+                        "sympathetic condolences"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"坂\"",
+        "strokes": 7,
+        "main_meanings": [
+            "slope",
+            "incline",
+            "hill"
+        ],
+        "main_readings": {
+            "kun": [
+                "さか"
+            ],
+            "on": [
+                "ハン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "304": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "394": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "372": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "595": "A New Dictionary of Kanji Usage",
+                "1061": "Classic Nelson (Andrew Nelson)",
+                "343": "Essential Kanji (P.G. O’Neill)",
+                "428": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "390": "Japanese Names (P.G. O’Neill)",
+                "443": "Kanji and Kana (Spahn and Hadamitzky)",
+                "449": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "605": "Kanji in Context (Nishiguchi and Kono)",
+                "370": "Kodansha Compact Kanji Guide",
+                "275": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "172": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "206": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "731": "Les Kanjis dans la tete (Yves Maniette)",
+                "4910": "Morohashi",
+                "234": "New Japanese English Character Dictionary (Jack Halpern)",
+                "985": "New Nelson (John Haig)",
+                "723": "Remembering The Kanji (James Heisig)",
+                "780": "Remembering The Kanji, 6th edition (James Heisig)",
+                "282": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1467": "2001 Kanji",
+                "3b4.7": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "4114.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-68": "JIS X 0208-1997 kuten code",
+                "5742": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 ざ"
+                ],
+                "chinese": [
+                    "ban3"
+                ],
+                "korean": [
+                    "pan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "厂",
+                "又",
+                "土"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": [
+                "阪"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "坂",
+                    "reading": "さか",
+                    "meanings": [
+                        "slope",
+                        "incline",
+                        "hill",
+                        "milestone",
+                        "(age) mark"
+                    ]
+                },
+                {
+                    "kanji": "坂道",
+                    "reading": "さかみち",
+                    "meanings": [
+                        "hill road"
+                    ]
+                },
+                {
+                    "kanji": "海境",
+                    "reading": "うなさか",
+                    "meanings": [
+                        "boundary between the world of men and the world of the sea god"
+                    ]
+                },
+                {
+                    "kanji": "急な坂",
+                    "reading": "きゅうなさか",
+                    "meanings": [
+                        "sudden drop",
+                        "precipitous slope"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "坂路",
+                    "reading": "ハンロ",
+                    "meanings": [
+                        "ramp",
+                        "slope"
+                    ]
+                },
+                {
+                    "kanji": "京阪",
+                    "reading": "ケイハン",
+                    "meanings": [
+                        "Kyoto and Osaka",
+                        "Kyoto-Osaka area"
+                    ]
+                },
+                {
+                    "kanji": "登坂",
+                    "reading": "トウハン",
+                    "meanings": [
+                        "climbing a slope (hill)",
+                        "ascending a hill"
+                    ]
+                }
+            ]
+        }
+    }
+}

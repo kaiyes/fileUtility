@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"岸\"",
+        "strokes": 8,
+        "main_meanings": [
+            "beach"
+        ],
+        "main_readings": {
+            "kun": [
+                "きし"
+            ],
+            "on": [
+                "ガン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "177": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "267": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "248": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "847": "A New Dictionary of Kanji Usage",
+                "1413": "Classic Nelson (Andrew Nelson)",
+                "687": "Essential Kanji (P.G. O’Neill)",
+                "488": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "941": "Japanese Names (P.G. O’Neill)",
+                "586": "Kanji and Kana (Spahn and Hadamitzky)",
+                "595": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "456": "Kanji in Context (Nishiguchi and Kono)",
+                "539": "Kodansha Compact Kanji Guide",
+                "2777": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1424": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1920": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1668": "Les Kanjis dans la tete (Yves Maniette)",
+                "8009": "Morohashi",
+                "2236": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1459": "New Nelson (John Haig)",
+                "1653": "Remembering The Kanji (James Heisig)",
+                "1782": "Remembering The Kanji, 6th edition (James Heisig)",
+                "294": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1255": "2001 Kanji",
+                "3o5.11": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "2224.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-63": "JIS X 0208-1997 kuten code",
+                "5cb8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "けし"
+                ],
+                "chinese": [
+                    "an4"
+                ],
+                "korean": [
+                    "an"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "厂",
+                "山",
+                "干"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "岸",
+                    "reading": "きし",
+                    "meanings": [
+                        "bank",
+                        "coast",
+                        "shore"
+                    ]
+                },
+                {
+                    "kanji": "岸辺",
+                    "reading": "きしべ",
+                    "meanings": [
+                        "shore",
+                        "bank (of a body of water)"
+                    ]
+                },
+                {
+                    "kanji": "片岸",
+                    "reading": "かたぎし",
+                    "meanings": [
+                        "one bank (of a river)"
+                    ]
+                },
+                {
+                    "kanji": "彼の岸",
+                    "reading": "かのきし",
+                    "meanings": [
+                        "nirvana"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "岸壁",
+                    "reading": "ガンペキ",
+                    "meanings": [
+                        "quay",
+                        "wharf",
+                        "jetty",
+                        "wall-like shoreline",
+                        "cliff wall"
+                    ]
+                },
+                {
+                    "kanji": "岸頭",
+                    "reading": "ガントウ",
+                    "meanings": [
+                        "shore",
+                        "wharf"
+                    ]
+                },
+                {
+                    "kanji": "護岸",
+                    "reading": "ゴガン",
+                    "meanings": [
+                        "river dike"
+                    ]
+                },
+                {
+                    "kanji": "対岸",
+                    "reading": "タイガン",
+                    "meanings": [
+                        "opposite shore"
+                    ]
+                }
+            ]
+        }
+    }
+}

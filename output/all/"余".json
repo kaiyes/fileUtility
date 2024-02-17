@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"余\"",
+        "strokes": 7,
+        "main_meanings": [
+            "too much",
+            "myself",
+            "surplus",
+            "other",
+            "remainder"
+        ],
+        "main_readings": {
+            "kun": [
+                "あま.る",
+                "あま.り",
+                "あま.す",
+                "あんま.り"
+            ],
+            "on": [
+                "ヨ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "728": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "820": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "800": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "735": "A New Dictionary of Kanji Usage",
+                "408": "Classic Nelson (Andrew Nelson)",
+                "483": "Essential Kanji (P.G. O’Neill)",
+                "313": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "448": "Japanese Names (P.G. O’Neill)",
+                "1063": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1109": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "959": "Kanji in Context (Nishiguchi and Kono)",
+                "50": "Kodansha Compact Kanji Guide",
+                "2535": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1289": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1757": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1673": "Les Kanjis dans la tete (Yves Maniette)",
+                "515": "Morohashi",
+                "2042": "New Japanese English Character Dictionary (Jack Halpern)",
+                "168": "New Nelson (John Haig)",
+                "1657": "Remembering The Kanji (James Heisig)",
+                "1786": "Remembering The Kanji, 6th edition (James Heisig)",
+                "468": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "675": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2841": "2001 Kanji",
+                "2a5.24": "The Kanji Dictionary",
+                "2-2-5": "SKIP code",
+                "8090.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-30": "JIS X 0208-1997 kuten code",
+                "4f59": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あまる"
+                ],
+                "chinese": [
+                    "yu2",
+                    "tu2"
+                ],
+                "korean": [
+                    "yeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "亅",
+                "二",
+                "个",
+                "ハ",
+                "小",
+                "示"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "餘"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "余る",
+                    "reading": "あまる",
+                    "meanings": [
+                        "to remain",
+                        "to be left over",
+                        "to be in excess",
+                        "to be too many"
+                    ]
+                },
+                {
+                    "kanji": "余り",
+                    "reading": "あまり",
+                    "meanings": [
+                        "remainder",
+                        "remnant",
+                        "rest",
+                        "balance",
+                        "surplus",
+                        "remains (of a meal)",
+                        "leftovers",
+                        "(not) very",
+                        "(not) much",
+                        "too much",
+                        "excessively",
+                        "overly",
+                        "extreme",
+                        "great",
+                        "severe",
+                        "tremendous",
+                        "terrible",
+                        "more than",
+                        "over"
+                    ]
+                },
+                {
+                    "kanji": "余りに",
+                    "reading": "あまりに",
+                    "meanings": [
+                        "too (much)",
+                        "overly",
+                        "excessively"
+                    ]
+                },
+                {
+                    "kanji": "余す",
+                    "reading": "あます",
+                    "meanings": [
+                        "to save",
+                        "to leave over",
+                        "to spare"
+                    ]
+                },
+                {
+                    "kanji": "余すところなく",
+                    "reading": "あますところなく",
+                    "meanings": [
+                        "fully",
+                        "thoroughly"
+                    ]
+                },
+                {
+                    "kanji": "余り",
+                    "reading": "あまり",
+                    "meanings": [
+                        "remainder",
+                        "remnant",
+                        "rest",
+                        "balance",
+                        "surplus",
+                        "remains (of a meal)",
+                        "leftovers",
+                        "(not) very",
+                        "(not) much",
+                        "too much",
+                        "excessively",
+                        "overly",
+                        "extreme",
+                        "great",
+                        "severe",
+                        "tremendous",
+                        "terrible",
+                        "more than",
+                        "over"
+                    ]
+                },
+                {
+                    "kanji": "余りに",
+                    "reading": "あまりに",
+                    "meanings": [
+                        "too (much)",
+                        "overly",
+                        "excessively"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "余",
+                    "reading": "ヨ",
+                    "meanings": [
+                        "other",
+                        "another",
+                        "remaining",
+                        "leftover",
+                        "over",
+                        "more than",
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "余韻",
+                    "reading": "ヨイン",
+                    "meanings": [
+                        "reverberation",
+                        "swelling (of a hymn)",
+                        "trailing note",
+                        "lingering memory",
+                        "aftertaste",
+                        "suggestiveness (of a book",
+                        "poem",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "残余",
+                    "reading": "ザンヨ",
+                    "meanings": [
+                        "remainder",
+                        "the rest",
+                        "residue"
+                    ]
+                },
+                {
+                    "kanji": "窮余",
+                    "reading": "キュウヨ",
+                    "meanings": [
+                        "extremity",
+                        "desperation"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寛\"",
+        "strokes": 13,
+        "main_meanings": [
+            "tolerant",
+            "leniency",
+            "generosity",
+            "relax",
+            "feel at home",
+            "be at ease",
+            "broadminded"
+        ],
+        "main_readings": {
+            "kun": [
+                "くつろ.ぐ",
+                "ひろ.い",
+                "ゆる.やか"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1110": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1471": "A New Dictionary of Kanji Usage",
+                "1325": "Classic Nelson (Andrew Nelson)",
+                "1192": "Essential Kanji (P.G. O’Neill)",
+                "1215": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1977": "Japanese Names (P.G. O’Neill)",
+                "1050": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1093": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1379": "Kanji in Context (Nishiguchi and Kono)",
+                "492": "Kodansha Compact Kanji Guide",
+                "2922": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1502": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2031": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "231": "Les Kanjis dans la tete (Yves Maniette)",
+                "7276": "Morohashi",
+                "2327": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1352": "New Nelson (John Haig)",
+                "226": "Remembering The Kanji (James Heisig)",
+                "241": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1619": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "757": "2001 Kanji",
+                "3m10.3": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "3021.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-18": "JIS X 0208-1997 kuten code",
+                "5bdb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とも、 のぶ、 のり、 ひろし、 ひろん、 ゆた、 ゆたか"
+                ],
+                "chinese": [
+                    "kuan1"
+                ],
+                "korean": [
+                    "gwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "宀",
+                "艾",
+                "見"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "寛ぐ",
+                    "reading": "くつろぐ",
+                    "meanings": [
+                        "to relax",
+                        "to feel at home"
+                    ]
+                },
+                {
+                    "kanji": "寛い",
+                    "reading": "ひろい",
+                    "meanings": [
+                        "broadminded"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "寛",
+                    "reading": "カン",
+                    "meanings": [
+                        "lenient",
+                        "gentle"
+                    ]
+                },
+                {
+                    "kanji": "寛大",
+                    "reading": "カンダイ",
+                    "meanings": [
+                        "tolerant",
+                        "generous",
+                        "lenient",
+                        "broad-minded",
+                        "magnanimous"
+                    ]
+                },
+                {
+                    "kanji": "長寛",
+                    "reading": "チョウカン",
+                    "meanings": [
+                        "Chōkan era (1163.3.29-1165.6.5)"
+                    ]
+                },
+                {
+                    "kanji": "寛緩",
+                    "reading": "カンカン",
+                    "meanings": [
+                        "looking cool and collect",
+                        "with an air of perfect composure"
+                    ]
+                }
+            ]
+        }
+    }
+}

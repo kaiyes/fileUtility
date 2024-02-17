@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"幣\"",
+        "strokes": 15,
+        "main_meanings": [
+            "cash",
+            "bad habit",
+            "humble prefix",
+            "gift",
+            "Shinto offerings of cloth",
+            "rope",
+            "cut paper"
+        ],
+        "main_readings": {
+            "kun": [
+                "ぬさ"
+            ],
+            "on": [
+                "ヘイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1778": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1902": "A New Dictionary of Kanji Usage",
+                "1490": "Classic Nelson (Andrew Nelson)",
+                "1400": "Essential Kanji (P.G. O’Neill)",
+                "1253": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2414": "Japanese Names (P.G. O’Neill)",
+                "1781": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1913": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1796": "Kanji in Context (Nishiguchi and Kono)",
+                "571": "Kodansha Compact Kanji Guide",
+                "3582": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1844": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2507": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1049": "Les Kanjis dans la tete (Yves Maniette)",
+                "9088X": "Morohashi",
+                "2885": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1585": "New Nelson (John Haig)",
+                "1040": "Remembering The Kanji (James Heisig)",
+                "1118": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1756": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1044": "2001 Kanji",
+                "3f12.4": "The Kanji Dictionary",
+                "2-12-3": "SKIP code",
+                "9822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-30": "JIS X 0208-1997 kuten code",
+                "5e63": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しで"
+                ],
+                "chinese": [
+                    "bi4"
+                ],
+                "korean": [
+                    "pye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "并",
+                "冂",
+                "巾",
+                "乞",
+                "攵"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": [
+                "幤"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幣",
+                    "reading": "へい",
+                    "meanings": [
+                        "staff with plaited paper streamers"
+                    ]
+                },
+                {
+                    "kanji": "幣を奉る",
+                    "reading": "ぬさをたてまつる",
+                    "meanings": [
+                        "to offer a wand with hemp and paper streamers to a Shinto god"
+                    ]
+                },
+                {
+                    "kanji": "大幣",
+                    "reading": "おおぬさ",
+                    "meanings": [
+                        "streamers (made of linen",
+                        "paper",
+                        "etc.) attached to a long pole (used as a wand in grand purification ceremonies)",
+                        "being in great demand"
+                    ]
+                },
+                {
+                    "kanji": "小幣",
+                    "reading": "こぬさ",
+                    "meanings": [
+                        "small purification wand",
+                        "thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幣",
+                    "reading": "ヘイ",
+                    "meanings": [
+                        "staff with plaited paper streamers"
+                    ]
+                },
+                {
+                    "kanji": "弊害",
+                    "reading": "ヘイガイ",
+                    "meanings": [
+                        "harmful effect",
+                        "harmful influence",
+                        "evil practice",
+                        "abuse",
+                        "malady"
+                    ]
+                },
+                {
+                    "kanji": "造幣",
+                    "reading": "ゾウヘイ",
+                    "meanings": [
+                        "coinage",
+                        "mintage"
+                    ]
+                },
+                {
+                    "kanji": "衰幣",
+                    "reading": "スイヘイ",
+                    "meanings": [
+                        "decline"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"頂\"",
+        "strokes": 11,
+        "main_meanings": [
+            "place on the head",
+            "receive",
+            "top of head",
+            "top",
+            "summit",
+            "peak"
+        ],
+        "main_readings": {
+            "kun": [
+                "いただ.く",
+                "いただき"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "951": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "940": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1308": "A New Dictionary of Kanji Usage",
+                "5118": "Classic Nelson (Andrew Nelson)",
+                "986": "Essential Kanji (P.G. O’Neill)",
+                "1005": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1440": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1530": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1643": "Kanji in Context (Nishiguchi and Kono)",
+                "1882": "Kodansha Compact Kanji Guide",
+                "164": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "108": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "125": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "95": "Les Kanjis dans la tete (Yves Maniette)",
+                "43335": "Morohashi",
+                "145": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6616": "New Nelson (John Haig)",
+                "94": "Remembering The Kanji (James Heisig)",
+                "98": "Remembering The Kanji, 6th edition (James Heisig)",
+                "929": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3161": "2001 Kanji",
+                "9a2.1": "The Kanji Dictionary",
+                "1-2-9": "SKIP code",
+                "1128.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-26": "JIS X 0208-1997 kuten code",
+                "9802": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ding3"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "一",
+                "亅",
+                "ハ",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": 181,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "頂く",
+                    "reading": "いただく",
+                    "meanings": [
+                        "to receive",
+                        "to get",
+                        "to accept",
+                        "to take",
+                        "to buy",
+                        "to eat",
+                        "to drink",
+                        "to be crowned with",
+                        "to wear (on one's head)",
+                        "to have (on top)",
+                        "to have (as one's leader)",
+                        "to live under (a ruler)",
+                        "to install (a president)",
+                        "to get someone to do something"
+                    ]
+                },
+                {
+                    "kanji": "頂",
+                    "reading": "いただき",
+                    "meanings": [
+                        "crown (of head)",
+                        "summit (of mountain)",
+                        "spire",
+                        "easy win for one",
+                        "something received"
+                    ]
+                },
+                {
+                    "kanji": "頂きます",
+                    "reading": "いただきます",
+                    "meanings": [
+                        "thank you (for the meal just served)",
+                        "I receive (this meal)"
+                    ]
+                },
+                {
+                    "kanji": "山の頂",
+                    "reading": "やまのいただき",
+                    "meanings": [
+                        "mountain top",
+                        "summit",
+                        "peak"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "頂点",
+                    "reading": "チョウテン",
+                    "meanings": [
+                        "vertex",
+                        "apex",
+                        "top (e.g. of a mountain)",
+                        "summit",
+                        "peak",
+                        "top (of a profession",
+                        "field",
+                        "etc.)",
+                        "summit",
+                        "peak (of popularity",
+                        "a boom",
+                        "etc.)",
+                        "height (e.g. of prosperity)",
+                        "apex",
+                        "zenith",
+                        "climax"
+                    ]
+                },
+                {
+                    "kanji": "頂上",
+                    "reading": "チョウジョウ",
+                    "meanings": [
+                        "top",
+                        "summit",
+                        "peak"
+                    ]
+                },
+                {
+                    "kanji": "頭頂",
+                    "reading": "トウチョウ",
+                    "meanings": [
+                        "top of the head",
+                        "vertex",
+                        "parietal"
+                    ]
+                },
+                {
+                    "kanji": "茎頂",
+                    "reading": "ケイチョウ",
+                    "meanings": [
+                        "tip of a stem (of a plant)"
+                    ]
+                }
+            ]
+        }
+    }
+}

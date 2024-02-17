@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"絃\"",
+        "strokes": 11,
+        "main_meanings": [
+            "string",
+            "cord",
+            "samisen music"
+        ],
+        "main_readings": {
+            "kun": [
+                "いと"
+            ],
+            "on": [
+                "ゲン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3519": "Classic Nelson (Andrew Nelson)",
+                "2331": "Japanese Names (P.G. O’Neill)",
+                "2192": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1685": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "897": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1216": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27373": "Morohashi",
+                "1330": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4468": "New Nelson (John Haig)",
+                "2669": "Remembering The Kanji (James Heisig)",
+                "2711": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6a5.12": "The Kanji Dictionary",
+                "1-6-5": "SKIP code",
+                "2093.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-30": "JIS X 0208-1997 kuten code",
+                "7d43": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xian2"
+                ],
+                "korean": [
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "亠",
+                "小",
+                "幺",
+                "玄",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "絃",
+                    "reading": "ゲン",
+                    "meanings": [
+                        "string (of a shamisen",
+                        "etc.)",
+                        "stringed instrument"
+                    ]
+                },
+                {
+                    "kanji": "弦楽",
+                    "reading": "ゲンガク",
+                    "meanings": [
+                        "music for strings",
+                        "string music"
+                    ]
+                },
+                {
+                    "kanji": "三弦",
+                    "reading": "サンゲン",
+                    "meanings": [
+                        "shamisen",
+                        "samisen",
+                        "sanxian (Chinese lute)",
+                        "the three string instruments used in gagaku (biwa",
+                        "wagon and sou)",
+                        "three strings",
+                        "three-stringed instrument"
+                    ]
+                },
+                {
+                    "kanji": "五弦",
+                    "reading": "ゴゲン",
+                    "meanings": [
+                        "five strings",
+                        "five-stringed instrument"
+                    ]
+                }
+            ]
+        }
+    }
+}

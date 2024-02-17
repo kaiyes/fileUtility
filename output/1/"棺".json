@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"棺\"",
+        "strokes": 12,
+        "main_meanings": [
+            "coffin",
+            "casket"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1107": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1447": "A New Dictionary of Kanji Usage",
+                "2298": "Classic Nelson (Andrew Nelson)",
+                "1730": "Essential Kanji (P.G. O’Neill)",
+                "1441": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1825": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1974": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1534": "Kanji in Context (Nishiguchi and Kono)",
+                "1098": "Kodansha Compact Kanji Guide",
+                "1240": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "673": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "897": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1280": "Les Kanjis dans la tete (Yves Maniette)",
+                "14993": "Morohashi",
+                "985": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2746": "New Nelson (John Haig)",
+                "1272": "Remembering The Kanji (James Heisig)",
+                "1364": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1551": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1877": "2001 Kanji",
+                "4a8.25": "The Kanji Dictionary",
+                "1-4-8": "SKIP code",
+                "4397.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-29": "JIS X 0208-1997 kuten code",
+                "68fa": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "guan1"
+                ],
+                "korean": [
+                    "gwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "｜",
+                "口",
+                "宀",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "棺",
+                    "reading": "カン",
+                    "meanings": [
+                        "coffin",
+                        "casket"
+                    ]
+                },
+                {
+                    "kanji": "棺桶",
+                    "reading": "カンオケ",
+                    "meanings": [
+                        "coffin",
+                        "casket"
+                    ]
+                },
+                {
+                    "kanji": "石棺",
+                    "reading": "セッカン",
+                    "meanings": [
+                        "sarcophagus",
+                        "stone coffin"
+                    ]
+                },
+                {
+                    "kanji": "納棺",
+                    "reading": "ノウカン",
+                    "meanings": [
+                        "placing a body in a coffin"
+                    ]
+                }
+            ]
+        }
+    }
+}

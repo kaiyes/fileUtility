@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"念\"",
+        "strokes": 8,
+        "main_meanings": [
+            "wish",
+            "sense",
+            "idea",
+            "thought",
+            "feeling",
+            "desire",
+            "attention"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ネン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "689": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "590": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "561": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "469": "A New Dictionary of Kanji Usage",
+                "424": "Classic Nelson (Andrew Nelson)",
+                "316": "Essential Kanji (P.G. O’Neill)",
+                "532": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "670": "Japanese Names (P.G. O’Neill)",
+                "579": "Kanji and Kana (Spahn and Hadamitzky)",
+                "588": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1117": "Kanji in Context (Nishiguchi and Kono)",
+                "774": "Kodansha Compact Kanji Guide",
+                "2554": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1304": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1773": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1604": "Les Kanjis dans la tete (Yves Maniette)",
+                "10390": "Morohashi",
+                "2059": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1800": "New Nelson (John Haig)",
+                "1590": "Remembering The Kanji (James Heisig)",
+                "1715": "Remembering The Kanji, 6th edition (James Heisig)",
+                "333": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "514": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2858": "2001 Kanji",
+                "2a6.24": "The Kanji Dictionary",
+                "2-2-6": "SKIP code",
+                "2-4-4": "SKIP code",
+                "8033.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-16": "JIS X 0208-1997 kuten code",
+                "5ff5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "nian4"
+                ],
+                "korean": [
+                    "nyeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "一",
+                "｜",
+                "个",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "念",
+                    "reading": "ネン",
+                    "meanings": [
+                        "sense",
+                        "idea",
+                        "thought",
+                        "feeling",
+                        "desire",
+                        "concern",
+                        "attention",
+                        "care"
+                    ]
+                },
+                {
+                    "kanji": "念願",
+                    "reading": "ネンガン",
+                    "meanings": [
+                        "one's heart's desire",
+                        "one's dearest wish"
+                    ]
+                },
+                {
+                    "kanji": "執念",
+                    "reading": "シュウネン",
+                    "meanings": [
+                        "tenacity",
+                        "persistence",
+                        "obsession",
+                        "implacability"
+                    ]
+                },
+                {
+                    "kanji": "通念",
+                    "reading": "ツウネン",
+                    "meanings": [
+                        "common idea",
+                        "common wisdom",
+                        "generally accepted idea"
+                    ]
+                }
+            ]
+        }
+    }
+}

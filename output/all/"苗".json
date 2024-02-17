@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"苗\"",
+        "strokes": 8,
+        "main_meanings": [
+            "seedling",
+            "sapling",
+            "shoot"
+        ],
+        "main_readings": {
+            "kun": [
+                "なえ",
+                "なわ-"
+            ],
+            "on": [
+                "ビョウ",
+                "ミョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1740": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1767": "A New Dictionary of Kanji Usage",
+                "3923": "Classic Nelson (Andrew Nelson)",
+                "1287": "Essential Kanji (P.G. O’Neill)",
+                "1698": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "685": "Japanese Names (P.G. O’Neill)",
+                "1468": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1565": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1837": "Kanji in Context (Nishiguchi and Kono)",
+                "649": "Kodansha Compact Kanji Guide",
+                "2781": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1426": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1924": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "239": "Les Kanjis dans la tete (Yves Maniette)",
+                "30781P": "Morohashi",
+                "2237": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5004": "New Nelson (John Haig)",
+                "234": "Remembering The Kanji (James Heisig)",
+                "249": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1215": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1976": "2001 Kanji",
+                "3k5.2": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4460.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-36": "JIS X 0208-1997 kuten code",
+                "82d7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ねい、 のら、 みう、 みつ"
+                ],
+                "chinese": [
+                    "miao2"
+                ],
+                "korean": [
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "田"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "苗",
+                    "reading": "なえ",
+                    "meanings": [
+                        "seedling",
+                        "young plant",
+                        "rice seedling"
+                    ]
+                },
+                {
+                    "kanji": "苗木",
+                    "reading": "なえぎ",
+                    "meanings": [
+                        "seedling",
+                        "sapling",
+                        "young tree"
+                    ]
+                },
+                {
+                    "kanji": "早苗",
+                    "reading": "さなえ",
+                    "meanings": [
+                        "rice seedling"
+                    ]
+                },
+                {
+                    "kanji": "花苗",
+                    "reading": "はななえ",
+                    "meanings": [
+                        "flower seedling"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "苗",
+                    "reading": "ミャオ",
+                    "meanings": [
+                        "Miao (people)",
+                        "Hmong"
+                    ]
+                },
+                {
+                    "kanji": "苗裔",
+                    "reading": "ビョウエイ",
+                    "meanings": [
+                        "descendant"
+                    ]
+                },
+                {
+                    "kanji": "種苗",
+                    "reading": "シュビョウ",
+                    "meanings": [
+                        "seeds and seedlings",
+                        "eggs and hatchlings",
+                        "(fish) eggs and fry"
+                    ]
+                },
+                {
+                    "kanji": "育苗",
+                    "reading": "イクビョウ",
+                    "meanings": [
+                        "raising seedlings"
+                    ]
+                },
+                {
+                    "kanji": "苗字",
+                    "reading": "ミョウジ",
+                    "meanings": [
+                        "surname",
+                        "family name",
+                        "last name"
+                    ]
+                },
+                {
+                    "kanji": "苗字帯刀",
+                    "reading": "ミョウジタイトウ",
+                    "meanings": [
+                        "the right to bear a surname and to wear a sword (during the Edo period)"
+                    ]
+                },
+                {
+                    "kanji": "豆苗",
+                    "reading": "トウミョウ",
+                    "meanings": [
+                        "pea sprouts"
+                    ]
+                }
+            ]
+        }
+    }
+}

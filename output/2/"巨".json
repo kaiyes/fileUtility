@@ -1,0 +1,106 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"巨\"",
+        "strokes": 5,
+        "main_meanings": [
+            "gigantic",
+            "big",
+            "large",
+            "great"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "キョ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1153": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "764": "A New Dictionary of Kanji Usage",
+                "758": "Classic Nelson (Andrew Nelson)",
+                "1537": "Essential Kanji (P.G. O’Neill)",
+                "491": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "199": "Japanese Names (P.G. O’Neill)",
+                "1293": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1368": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1004": "Kanji in Context (Nishiguchi and Kono)",
+                "235": "Kodansha Compact Kanji Guide",
+                "3773": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1924": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2616": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "864": "Les Kanjis dans la tete (Yves Maniette)",
+                "8722X": "Morohashi",
+                "3039": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1534": "New Nelson (John Haig)",
+                "856": "Remembering The Kanji (James Heisig)",
+                "920": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1041": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3475": "2001 Kanji",
+                "2t2.2": "The Kanji Dictionary",
+                "3-3-2": "SKIP code",
+                "3-2-2": "SKIP code",
+                "7171.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-80": "JIS X 0208-1997 kuten code",
+                "5de8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おお、 か、 こ、 なお"
+                ],
+                "chinese": [
+                    "ju4"
+                ],
+                "korean": [
+                    "geo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "work",
+            "parts": [
+                "匚",
+                "巨"
+            ],
+            "basis": "工",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "巨匠",
+                    "reading": "キョショウ",
+                    "meanings": [
+                        "master",
+                        "masterhand",
+                        "maestro"
+                    ]
+                },
+                {
+                    "kanji": "巨額",
+                    "reading": "キョガク",
+                    "meanings": [
+                        "huge sum (esp. of money)",
+                        "enormous sum",
+                        "massive amount"
+                    ]
+                }
+            ]
+        }
+    }
+}

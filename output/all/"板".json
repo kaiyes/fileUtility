@@ -1,0 +1,207 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"板\"",
+        "strokes": 8,
+        "main_meanings": [
+            "plank",
+            "board",
+            "plate",
+            "stage"
+        ],
+        "main_readings": {
+            "kun": [
+                "いた"
+            ],
+            "on": [
+                "ハン",
+                "バン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "305": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "395": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "373": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "709": "A New Dictionary of Kanji Usage",
+                "2213": "Classic Nelson (Andrew Nelson)",
+                "468": "Essential Kanji (P.G. O’Neill)",
+                "623": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "632": "Japanese Names (P.G. O’Neill)",
+                "1047": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1090": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "987": "Kanji in Context (Nishiguchi and Kono)",
+                "1079": "Kodansha Compact Kanji Guide",
+                "1067": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "575": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "762": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "732": "Les Kanjis dans la tete (Yves Maniette)",
+                "14518": "Morohashi",
+                "858": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2595": "New Nelson (John Haig)",
+                "724": "Remembering The Kanji (James Heisig)",
+                "781": "Remembering The Kanji, 6th edition (James Heisig)",
+                "310": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1867": "2001 Kanji",
+                "4a4.21": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "4194.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-36": "JIS X 0208-1997 kuten code",
+                "677f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ban3"
+                ],
+                "korean": [
+                    "pan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "厂",
+                "又",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "板",
+                    "reading": "いた",
+                    "meanings": [
+                        "board",
+                        "plank",
+                        "sheet (of metal)",
+                        "plate (of glass)",
+                        "pane",
+                        "slab",
+                        "cutting board",
+                        "chopping board",
+                        "chef (esp. of high-end Japanese cuisine)",
+                        "cook",
+                        "stage (i.e. at a theatre)"
+                    ]
+                },
+                {
+                    "kanji": "板ガラス",
+                    "reading": "いたガラス",
+                    "meanings": [
+                        "plate glass",
+                        "sheet glass"
+                    ]
+                },
+                {
+                    "kanji": "まな板",
+                    "reading": "まないた",
+                    "meanings": [
+                        "chopping board",
+                        "cutting board",
+                        "flat chest",
+                        "tiny breasts"
+                    ]
+                },
+                {
+                    "kanji": "厚板",
+                    "reading": "あついた",
+                    "meanings": [
+                        "thick board",
+                        "plank",
+                        "steel plate (with a thickness of at least 3 mm)",
+                        "heavy brocade cloth",
+                        "Elaphoglossum yoshinagae (species of fern)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "板門店",
+                    "reading": "パンムンジョム",
+                    "meanings": [
+                        "Panmunjon (Korea)",
+                        "Joint Security Area (Korean Demilitarized Zone)"
+                    ]
+                },
+                {
+                    "kanji": "版画",
+                    "reading": "ハンガ",
+                    "meanings": [
+                        "woodcut",
+                        "woodblock print",
+                        "art print"
+                    ]
+                },
+                {
+                    "kanji": "合板",
+                    "reading": "ゴウハン",
+                    "meanings": [
+                        "veneer board",
+                        "plywood",
+                        "joint publication"
+                    ]
+                },
+                {
+                    "kanji": "鋼板",
+                    "reading": "コウハン",
+                    "meanings": [
+                        "steel sheet",
+                        "steel plate"
+                    ]
+                },
+                {
+                    "kanji": "版木",
+                    "reading": "ハンギ",
+                    "meanings": [
+                        "(printing) block",
+                        "woodcut"
+                    ]
+                },
+                {
+                    "kanji": "板金",
+                    "reading": "バンキン",
+                    "meanings": [
+                        "sheet metal",
+                        "metal plate"
+                    ]
+                },
+                {
+                    "kanji": "降板",
+                    "reading": "コウバン",
+                    "meanings": [
+                        "leaving the mound",
+                        "being knocked out",
+                        "resignation",
+                        "stepping down",
+                        "withdrawing"
+                    ]
+                },
+                {
+                    "kanji": "鋼板",
+                    "reading": "コウハン",
+                    "meanings": [
+                        "steel sheet",
+                        "steel plate"
+                    ]
+                }
+            ]
+        }
+    }
+}

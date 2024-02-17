@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"篤\"",
+        "strokes": 16,
+        "main_meanings": [
+            "fervent",
+            "kind",
+            "cordial",
+            "serious",
+            "deliberate"
+        ],
+        "main_readings": {
+            "kun": [
+                "あつ.い"
+            ],
+            "on": [
+                "トク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1666": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1749": "A New Dictionary of Kanji Usage",
+                "3434": "Classic Nelson (Andrew Nelson)",
+                "1561": "Essential Kanji (P.G. O’Neill)",
+                "1607": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2576": "Japanese Names (P.G. O’Neill)",
+                "1883": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2051": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1683": "Kanji in Context (Nishiguchi and Kono)",
+                "1489": "Kodansha Compact Kanji Guide",
+                "3371": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1744": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2370": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2007": "Les Kanjis dans la tete (Yves Maniette)",
+                "26344": "Morohashi",
+                "2716": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4342": "New Nelson (John Haig)",
+                "1988": "Remembering The Kanji (James Heisig)",
+                "2142": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1842": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2350": "2001 Kanji",
+                "6f10.1": "The Kanji Dictionary",
+                "2-6-10": "SKIP code",
+                "2021.9": "Four corner code",
+                "8832.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-38": "JIS X 0208-1997 kuten code",
+                "7be4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "du3"
+                ],
+                "korean": [
+                    "dog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "杰",
+                "竹",
+                "馬",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "厚い",
+                    "reading": "あつい",
+                    "meanings": [
+                        "thick",
+                        "deep",
+                        "heavy",
+                        "kind",
+                        "cordial",
+                        "hospitable",
+                        "warm",
+                        "faithful",
+                        "serious (of an illness)",
+                        "abundant"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "篤志家",
+                    "reading": "トクシカ",
+                    "meanings": [
+                        "charitable person",
+                        "philanthropist",
+                        "volunteer",
+                        "supporter"
+                    ]
+                },
+                {
+                    "kanji": "篤学",
+                    "reading": "トクガク",
+                    "meanings": [
+                        "love of learning"
+                    ]
+                },
+                {
+                    "kanji": "重篤",
+                    "reading": "ジュウトク",
+                    "meanings": [
+                        "critical (condition)",
+                        "serious"
+                    ]
+                },
+                {
+                    "kanji": "懇篤",
+                    "reading": "コントク",
+                    "meanings": [
+                        "cordial",
+                        "kind",
+                        "warm",
+                        "genial"
+                    ]
+                }
+            ]
+        }
+    }
+}

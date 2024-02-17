@@ -1,0 +1,175 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"究\"",
+        "strokes": 7,
+        "main_meanings": [
+            "research",
+            "study"
+        ],
+        "main_readings": {
+            "kun": [
+                "きわ.める"
+            ],
+            "on": [
+                "キュウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "185": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "271": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "253": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "427": "A New Dictionary of Kanji Usage",
+                "3314": "Classic Nelson (Andrew Nelson)",
+                "599": "Essential Kanji (P.G. O’Neill)",
+                "234": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "492": "Japanese Names (P.G. O’Neill)",
+                "2.8": "Japanese for Busy People",
+                "895": "Kanji and Kana (Spahn and Hadamitzky)",
+                "917": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "298": "Kanji in Context (Nishiguchi and Kono)",
+                "1451": "Kodansha Compact Kanji Guide",
+                "2729": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1398": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1885": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1331": "Les Kanjis dans la tete (Yves Maniette)",
+                "25409": "Morohashi",
+                "2203": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4189": "New Nelson (John Haig)",
+                "1320": "Remembering The Kanji (James Heisig)",
+                "1417": "Remembering The Kanji, 6th edition (James Heisig)",
+                "261": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "278": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "757": "2001 Kanji",
+                "3m4.5": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "2-5-2": "SKIP code",
+                "3041.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-70": "JIS X 0208-1997 kuten code",
+                "7a76": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "きゅ"
+                ],
+                "chinese": [
+                    "jiu4",
+                    "jiu1"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cave",
+            "parts": [
+                "儿",
+                "九",
+                "宀",
+                "穴"
+            ],
+            "basis": "穴",
+            "kangxi_order": 116,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "極める",
+                    "reading": "きわめる",
+                    "meanings": [
+                        "to carry to extremes",
+                        "to go to the end of something",
+                        "to reach the limits of something",
+                        "to reach the peak of something (e.g. luxury",
+                        "hardships",
+                        "etc)",
+                        "to be extremely (e.g. busy)",
+                        "to investigate thoroughly",
+                        "to research thoroughly",
+                        "to master",
+                        "to understand completely",
+                        "to exhaust completely",
+                        "to have nothing left (e.g. to say)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "究明",
+                    "reading": "キュウメイ",
+                    "meanings": [
+                        "investigation (esp. in academic and scientific contexts)"
+                    ]
+                },
+                {
+                    "kanji": "究極",
+                    "reading": "キュウキョク",
+                    "meanings": [
+                        "ultimate",
+                        "final",
+                        "last",
+                        "eventual"
+                    ]
+                },
+                {
+                    "kanji": "最新研究",
+                    "reading": "サイシンケンキュウ",
+                    "meanings": [
+                        "the newest research"
+                    ]
+                },
+                {
+                    "kanji": "学究",
+                    "reading": "ガッキュウ",
+                    "meanings": [
+                        "scholar",
+                        "student"
+                    ]
+                },
+                {
+                    "kanji": "究竟",
+                    "reading": "クキョウ",
+                    "meanings": [
+                        "culmination",
+                        "conclusion"
+                    ]
+                },
+                {
+                    "kanji": "究竟",
+                    "reading": "クッキョウ",
+                    "meanings": [
+                        "after all",
+                        "in the end",
+                        "finally",
+                        "excellent",
+                        "superb",
+                        "handy",
+                        "appropriate",
+                        "ideal",
+                        "robust",
+                        "brawny",
+                        "muscular",
+                        "strong",
+                        "sturdy"
+                    ]
+                }
+            ]
+        }
+    }
+}

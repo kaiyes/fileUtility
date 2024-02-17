@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"皓\"",
+        "strokes": 12,
+        "main_meanings": [
+            "white",
+            "clear"
+        ],
+        "main_readings": {
+            "kun": [
+                "しろ.い",
+                "ひか.る"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3105": "Classic Nelson (Andrew Nelson)",
+                "1639": "Japanese Names (P.G. O’Neill)",
+                "2169": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1513": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "800": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1092": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "22732X": "Morohashi",
+                "1180": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3875": "New Nelson (John Haig)",
+                "2934": "Remembering The Kanji (James Heisig)",
+                "2941": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4c8.13": "The Kanji Dictionary",
+                "1-5-7": "SKIP code",
+                "2466.1": "Four corner code",
+                "2566.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-66-11": "JIS X 0208-1997 kuten code",
+                "7693": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 てる、 あき、 ひろ、 ひろし"
+                ],
+                "chinese": [
+                    "hao4"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "white",
+            "parts": [
+                "ノ",
+                "口",
+                "土",
+                "白"
+            ],
+            "basis": "白",
+            "kangxi_order": 106,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "皓月",
+                    "reading": "コウゲツ",
+                    "meanings": [
+                        "bright white moon"
+                    ]
+                },
+                {
+                    "kanji": "皓々",
+                    "reading": "コウコウ",
+                    "meanings": [
+                        "bright (esp. of the moon)",
+                        "broad and empty"
+                    ]
+                },
+                {
+                    "kanji": "皓々",
+                    "reading": "コウコウ",
+                    "meanings": [
+                        "bright (esp. of the moon)",
+                        "broad and empty"
+                    ]
+                }
+            ]
+        }
+    }
+}

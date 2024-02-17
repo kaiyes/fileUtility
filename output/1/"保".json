@@ -1,0 +1,185 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"保\"",
+        "strokes": 9,
+        "main_meanings": [
+            "protect",
+            "guarantee",
+            "keep",
+            "preserve",
+            "sustain",
+            "support"
+        ],
+        "main_readings": {
+            "kun": [
+                "たも.つ"
+            ],
+            "on": [
+                "ホ",
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "716": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "808": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "787": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "166": "A New Dictionary of Kanji Usage",
+                "455": "Classic Nelson (Andrew Nelson)",
+                "351": "Essential Kanji (P.G. O’Neill)",
+                "319": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "781": "Japanese Names (P.G. O’Neill)",
+                "489": "Kanji and Kana (Spahn and Hadamitzky)",
+                "498": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "665": "Kanji in Context (Nishiguchi and Kono)",
+                "102": "Kodansha Compact Kanji Guide",
+                "107": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "72": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "77": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1006": "Les Kanjis dans la tete (Yves Maniette)",
+                "702": "Morohashi",
+                "96": "New Japanese English Character Dictionary (Jack Halpern)",
+                "222": "New Nelson (John Haig)",
+                "997": "Remembering The Kanji (James Heisig)",
+                "1072": "Remembering The Kanji, 6th edition (James Heisig)",
+                "163": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "705": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2164": "2001 Kanji",
+                "2a7.11": "The Kanji Dictionary",
+                "1-2-7": "SKIP code",
+                "2629.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-61": "JIS X 0208-1997 kuten code",
+                "4fdd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "う、 お、 ぶ、 もり、 やす、 やすし"
+                ],
+                "chinese": [
+                    "bao3"
+                ],
+                "korean": [
+                    "bo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "口",
+                "木"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "保つ",
+                    "reading": "たもつ",
+                    "meanings": [
+                        "to keep",
+                        "to preserve",
+                        "to hold",
+                        "to retain",
+                        "to maintain",
+                        "to sustain",
+                        "to last",
+                        "to endure",
+                        "to keep well (food)",
+                        "to wear well",
+                        "to be durable"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "保育",
+                    "reading": "ホイク",
+                    "meanings": [
+                        "nurturing",
+                        "rearing",
+                        "childcare",
+                        "day care",
+                        "nursing",
+                        "suckling"
+                    ]
+                },
+                {
+                    "kanji": "保安",
+                    "reading": "ホアン",
+                    "meanings": [
+                        "peace preservation",
+                        "security",
+                        "safety"
+                    ]
+                },
+                {
+                    "kanji": "留保",
+                    "reading": "リュウホ",
+                    "meanings": [
+                        "reserving",
+                        "withholding"
+                    ]
+                },
+                {
+                    "kanji": "生保",
+                    "reading": "セイホ",
+                    "meanings": [
+                        "life insurance",
+                        "livelihood protection",
+                        "public assistance",
+                        "welfare"
+                    ]
+                },
+                {
+                    "kanji": "保する",
+                    "reading": "ホスル",
+                    "meanings": [
+                        "to guarantee"
+                    ]
+                },
+                {
+                    "kanji": "保安",
+                    "reading": "ホウアン",
+                    "meanings": [
+                        "Hōan era (1120.4.10-1124.4.3)"
+                    ]
+                },
+                {
+                    "kanji": "永保",
+                    "reading": "エイホウ",
+                    "meanings": [
+                        "Eihō era (1081.2.10-1084.2.7)",
+                        "Eiho era"
+                    ]
+                },
+                {
+                    "kanji": "太保",
+                    "reading": "タイホウ",
+                    "meanings": [
+                        "Grand Protector (lowest of the top three civil positions of the Zhou dynasty)",
+                        "Minister of the Right (official in Nara and Heian periods)"
+                    ]
+                }
+            ]
+        }
+    }
+}

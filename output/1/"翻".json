@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"翻\"",
+        "strokes": 18,
+        "main_meanings": [
+            "flip",
+            "turn over",
+            "wave",
+            "flutter",
+            "change (mind)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひるがえ.る",
+                "ひるがえ.す"
+            ],
+            "on": [
+                "ホン",
+                "ハン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1826": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1779": "A New Dictionary of Kanji Usage",
+                "3681": "Classic Nelson (Andrew Nelson)",
+                "1551": "Essential Kanji (P.G. O’Neill)",
+                "1659": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "596": "Kanji and Kana (Spahn and Hadamitzky)",
+                "606": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "760": "Kanji in Context (Nishiguchi and Kono)",
+                "1575": "Kodansha Compact Kanji Guide",
+                "2391": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1219": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1676": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1930": "Les Kanjis dans la tete (Yves Maniette)",
+                "28814X": "Morohashi",
+                "1897": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4694": "New Nelson (John Haig)",
+                "1911": "Remembering The Kanji (James Heisig)",
+                "2060": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1903": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2253": "2001 Kanji",
+                "6b12.3": "The Kanji Dictionary",
+                "1-12-6": "SKIP code",
+                "2762.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-61": "JIS X 0208-1997 kuten code",
+                "7ffb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fan1"
+                ],
+                "korean": [
+                    "beon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "feather",
+            "parts": [
+                "冫",
+                "田",
+                "米",
+                "羽",
+                "釆"
+            ],
+            "basis": "羽",
+            "kangxi_order": 124,
+            "variants": [
+                "飜"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "翻る",
+                    "reading": "ひるがえる",
+                    "meanings": [
+                        "to flutter (in the wind)",
+                        "to wave",
+                        "to flap",
+                        "to fly",
+                        "to turn over",
+                        "to flip over",
+                        "to suddenly change (attitude",
+                        "opinion",
+                        "etc.)",
+                        "to suddenly switch",
+                        "to alter",
+                        "to flip"
+                    ]
+                },
+                {
+                    "kanji": "翻す",
+                    "reading": "ひるがえす",
+                    "meanings": [
+                        "to turn over",
+                        "to turn around",
+                        "to change (one's mind)",
+                        "to reverse (one's decision)",
+                        "to take back (one's words)",
+                        "to fly (flag",
+                        "etc.)",
+                        "to wave (skirt",
+                        "cape",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "翻訳",
+                    "reading": "ホンヤク",
+                    "meanings": [
+                        "translation",
+                        "deciphering",
+                        "decoding",
+                        "translation"
+                    ]
+                },
+                {
+                    "kanji": "翻案",
+                    "reading": "ホンアン",
+                    "meanings": [
+                        "adaptation (of a novel",
+                        "play",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "翻",
+                    "reading": "ハン",
+                    "meanings": [
+                        "han",
+                        "fan",
+                        "unit that doubles the score of a hand"
+                    ]
+                },
+                {
+                    "kanji": "翻刻",
+                    "reading": "ホンコク",
+                    "meanings": [
+                        "reprinting (of a book)"
+                    ]
+                }
+            ]
+        }
+    }
+}

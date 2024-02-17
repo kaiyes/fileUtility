@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"澪\"",
+        "strokes": 16,
+        "main_meanings": [
+            "water route",
+            "shipping channel"
+        ],
+        "main_readings": {
+            "kun": [
+                "みお"
+            ],
+            "on": [
+                "レイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2147": "Kanji and Kana (Spahn and Hadamitzky)",
+                "957": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "536": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "698": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "18398": "Morohashi",
+                "3342": "New Nelson (John Haig)",
+                "2285": "Remembering The Kanji (James Heisig)",
+                "2382": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a13.6": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "3113.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-63-26": "JIS X 0208-1997 kuten code",
+                "6faa": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ling2"
+                ],
+                "korean": [
+                    "ryeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "个",
+                "卩",
+                "汁",
+                "雨"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "澪",
+                    "reading": "みお",
+                    "meanings": [
+                        "waterway",
+                        "channel",
+                        "wake (of a ship)"
+                    ]
+                },
+                {
+                    "kanji": "澪標",
+                    "reading": "みおつくし",
+                    "meanings": [
+                        "marks in a water channel",
+                        "channel buoys"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "澪標",
+                    "reading": "ミオツクシ",
+                    "meanings": [
+                        "marks in a water channel",
+                        "channel buoys"
+                    ]
+                }
+            ]
+        }
+    }
+}

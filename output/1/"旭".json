@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"旭\"",
+        "strokes": 6,
+        "main_meanings": [
+            "rising sun",
+            "morning sun"
+        ],
+        "main_readings": {
+            "kun": [
+                "あさひ"
+            ],
+            "on": [
+                "キョク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1146": "A New Dictionary of Kanji Usage",
+                "2099": "Classic Nelson (Andrew Nelson)",
+                "300": "Japanese Names (P.G. O’Neill)",
+                "2086": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3697": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1890": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2571": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27": "Remembering The Kanji, 6th edition (James Heisig)",
+                "13747": "Morohashi",
+                "2977": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2416": "New Nelson (John Haig)"
+            },
+            "classifications": {
+                "1657": "2001 Kanji",
+                "4c2.6": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "4601.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-16": "JIS X 0208-1997 kuten code",
+                "65ed": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 あき、 てる、 ひ"
+                ],
+                "chinese": [
+                    "xu4"
+                ],
+                "korean": [
+                    "ug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "九",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "朝日",
+                    "reading": "あさひ",
+                    "meanings": [
+                        "morning sun"
+                    ]
+                },
+                {
+                    "kanji": "旭",
+                    "reading": "あさひ",
+                    "meanings": [
+                        "McIntosh (apple)",
+                        "McIntosh red"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "旭日",
+                    "reading": "キョクジツ",
+                    "meanings": [
+                        "rising sun"
+                    ]
+                },
+                {
+                    "kanji": "旭日旗",
+                    "reading": "キョクジツキ",
+                    "meanings": [
+                        "Rising Sun flag",
+                        "naval ensign of Japan"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"殺\"",
+        "strokes": 10,
+        "main_meanings": [
+            "kill",
+            "murder",
+            "butcher",
+            "slice off",
+            "split",
+            "diminish",
+            "reduce",
+            "spoil"
+        ],
+        "main_readings": {
+            "kun": [
+                "ころ.す",
+                "-ごろ.し",
+                "そ.ぐ",
+                "あや.める"
+            ],
+            "on": [
+                "サツ",
+                "サイ",
+                "セツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "614": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "515": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "488": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "546": "A New Dictionary of Kanji Usage",
+                "2454": "Classic Nelson (Andrew Nelson)",
+                "419": "Essential Kanji (P.G. O’Neill)",
+                "657": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1138": "Japanese Names (P.G. O’Neill)",
+                "576": "Kanji and Kana (Spahn and Hadamitzky)",
+                "585": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "610": "Kanji in Context (Nishiguchi and Kono)",
+                "1140": "Kodansha Compact Kanji Guide",
+                "1677": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "889": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1208": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1507": "Les Kanjis dans la tete (Yves Maniette)",
+                "16629": "Morohashi",
+                "1324": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2994": "New Nelson (John Haig)",
+                "1493": "Remembering The Kanji (James Heisig)",
+                "1607": "Remembering The Kanji, 6th edition (James Heisig)",
+                "470": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "545": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2968": "2001 Kanji",
+                "4a6.35": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "4794.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-06": "JIS X 0208-1997 kuten code",
+                "6bba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sha1",
+                    "shai4"
+                ],
+                "korean": [
+                    "sal",
+                    "soe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "weapon,",
+            "parts": [
+                "丶",
+                "ノ",
+                "几",
+                "又",
+                "木",
+                "殳"
+            ],
+            "basis": "殳",
+            "kangxi_order": 79,
+            "variants": [
+                "煞"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "殺す",
+                    "reading": "ころす",
+                    "meanings": [
+                        "to kill",
+                        "to slay",
+                        "to murder",
+                        "to slaughter",
+                        "to suppress",
+                        "to block",
+                        "to hamper",
+                        "to destroy (e.g. talent)",
+                        "to eliminate (e.g. an odour)",
+                        "to spoil (e.g. a flavour)",
+                        "to kill (e.g. one's speed)",
+                        "to suppress (a voice",
+                        "feelings",
+                        "etc.)",
+                        "to hold back",
+                        "to stifle (a yawn",
+                        "laugh",
+                        "etc.)",
+                        "to hold (one's breath)",
+                        "to put out (a runner)",
+                        "to pawn",
+                        "to put in hock"
+                    ]
+                },
+                {
+                    "kanji": "削ぐ",
+                    "reading": "そぐ",
+                    "meanings": [
+                        "to chip (off)",
+                        "to shave off",
+                        "to slice off",
+                        "to cut off",
+                        "to sharpen",
+                        "to dampen (one's enthusiasm",
+                        "interest",
+                        "etc.)",
+                        "to reduce",
+                        "to diminish",
+                        "to weaken",
+                        "to spoil"
+                    ]
+                },
+                {
+                    "kanji": "殺める",
+                    "reading": "あやめる",
+                    "meanings": [
+                        "to wound",
+                        "to murder"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "殺意",
+                    "reading": "サツイ",
+                    "meanings": [
+                        "intent to kill",
+                        "intent to murder",
+                        "urge to kill",
+                        "murderous impulse"
+                    ]
+                },
+                {
+                    "kanji": "殺害",
+                    "reading": "サツガイ",
+                    "meanings": [
+                        "killing",
+                        "murder"
+                    ]
+                },
+                {
+                    "kanji": "他殺",
+                    "reading": "タサツ",
+                    "meanings": [
+                        "murder"
+                    ]
+                },
+                {
+                    "kanji": "併殺",
+                    "reading": "ヘイサツ",
+                    "meanings": [
+                        "double play"
+                    ]
+                },
+                {
+                    "kanji": "相殺",
+                    "reading": "ソウサイ",
+                    "meanings": [
+                        "offset",
+                        "offsetting each other",
+                        "cancelling each other out",
+                        "counterbalancing",
+                        "set-off",
+                        "setoff",
+                        "killing each other"
+                    ]
+                },
+                {
+                    "kanji": "減殺",
+                    "reading": "ゲンサイ",
+                    "meanings": [
+                        "lessening",
+                        "diminishing",
+                        "reducing"
+                    ]
+                },
+                {
+                    "kanji": "殺害",
+                    "reading": "サツガイ",
+                    "meanings": [
+                        "killing",
+                        "murder"
+                    ]
+                },
+                {
+                    "kanji": "刹那",
+                    "reading": "セツナ",
+                    "meanings": [
+                        "moment",
+                        "instant",
+                        "kshana",
+                        "duration of a single mental event (about 1/75 second)",
+                        "shortest possible interval of time"
+                    ]
+                },
+                {
+                    "kanji": "歳殺",
+                    "reading": "サイセツ",
+                    "meanings": [
+                        "Saisetsu",
+                        "one of the eight gods of the traditional calendar"
+                    ]
+                }
+            ]
+        }
+    }
+}

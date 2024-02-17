@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"術\"",
+        "strokes": 11,
+        "main_meanings": [
+            "art",
+            "technique",
+            "skill",
+            "means",
+            "trick",
+            "resources",
+            "magic"
+        ],
+        "main_readings": {
+            "kun": [
+                "すべ"
+            ],
+            "on": [
+                "ジュツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "636": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "732": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "708": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "299": "A New Dictionary of Kanji Usage",
+                "1621": "Classic Nelson (Andrew Nelson)",
+                "447": "Essential Kanji (P.G. O’Neill)",
+                "877": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1298": "Japanese Names (P.G. O’Neill)",
+                "187": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "370": "Kanji in Context (Nishiguchi and Kono)",
+                "1614": "Kodansha Compact Kanji Guide",
+                "575": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "350": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "433": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1539": "Les Kanjis dans la tete (Yves Maniette)",
+                "34046P": "Morohashi",
+                "476": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1754": "New Nelson (John Haig)",
+                "1525": "Remembering The Kanji (James Heisig)",
+                "1644": "Remembering The Kanji, 6th edition (James Heisig)",
+                "322": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "736": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2053": "2001 Kanji",
+                "3i8.2": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "2122.1": "Four corner code",
+                "2190.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-49": "JIS X 0208-1997 kuten code",
+                "8853": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shu4",
+                    "zhu2"
+                ],
+                "korean": [
+                    "sul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "go,",
+            "parts": [
+                "丶",
+                "十",
+                "彳",
+                "木",
+                "行"
+            ],
+            "basis": "行",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "術",
+                    "reading": "すべ",
+                    "meanings": [
+                        "way",
+                        "method",
+                        "means"
+                    ]
+                },
+                {
+                    "kanji": "術無し",
+                    "reading": "すべなし",
+                    "meanings": [
+                        "having no choice",
+                        "at a loss for what to do",
+                        "at one's wits' end"
+                    ]
+                },
+                {
+                    "kanji": "なす術",
+                    "reading": "なすすべ",
+                    "meanings": [
+                        "means",
+                        "method",
+                        "way"
+                    ]
+                },
+                {
+                    "kanji": "為ん術",
+                    "reading": "せんすべ",
+                    "meanings": [
+                        "(proper) methods"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "術",
+                    "reading": "ジュツ",
+                    "meanings": [
+                        "art",
+                        "technique",
+                        "means",
+                        "way",
+                        "trick",
+                        "trap",
+                        "plot",
+                        "stratagem",
+                        "magic"
+                    ]
+                },
+                {
+                    "kanji": "術後",
+                    "reading": "ジュツゴ",
+                    "meanings": [
+                        "postoperative",
+                        "after surgery"
+                    ]
+                },
+                {
+                    "kanji": "奇術",
+                    "reading": "キジュツ",
+                    "meanings": [
+                        "magic",
+                        "conjuring",
+                        "sleight of hand",
+                        "legerdemain"
+                    ]
+                },
+                {
+                    "kanji": "占星術",
+                    "reading": "センセイジュツ",
+                    "meanings": [
+                        "astrology"
+                    ]
+                }
+            ]
+        }
+    }
+}

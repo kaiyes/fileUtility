@@ -1,0 +1,232 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"赤\"",
+        "strokes": 7,
+        "main_meanings": [
+            "red"
+        ],
+        "main_readings": {
+            "kun": [
+                "あか",
+                "あか-",
+                "あか.い",
+                "あか.らむ",
+                "あか.らめる"
+            ],
+            "on": [
+                "セキ",
+                "シャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "35": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "51": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "46": "Kanji in Context (Nishiguchi and Kono)",
+                "476": "A New Dictionary of Kanji Usage",
+                "4534": "Classic Nelson (Andrew Nelson)",
+                "275": "Essential Kanji (P.G. O’Neill)",
+                "254": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "443": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "207": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1751": "Kodansha Compact Kanji Guide",
+                "2719": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1389": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1876": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1759": "Les Kanjis dans la tete (Yves Maniette)",
+                "36993": "Morohashi",
+                "2193": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5840": "New Nelson (John Haig)",
+                "1743": "Remembering The Kanji (James Heisig)",
+                "1880": "Remembering The Kanji, 6th edition (James Heisig)",
+                "406": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "68": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1441": "2001 Kanji",
+                "3b4.10": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "4023.1": "Four corner code",
+                "4033.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-54": "JIS X 0208-1997 kuten code",
+                "8d64": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あこ、 あま"
+                ],
+                "chinese": [
+                    "chi4"
+                ],
+                "korean": [
+                    "jeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "red,",
+            "parts": [
+                "土",
+                "赤"
+            ],
+            "basis": "赤",
+            "kangxi_order": 155,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "赤",
+                    "reading": "あか",
+                    "meanings": [
+                        "red",
+                        "crimson",
+                        "scarlet",
+                        "red-containing colour (e.g. brown",
+                        "pink",
+                        "orange)",
+                        "Red (i.e. communist)",
+                        "red light (traffic)",
+                        "red ink (i.e. in finance or proof-reading)",
+                        "(in) the red",
+                        "complete",
+                        "total",
+                        "perfect",
+                        "obvious",
+                        "copper",
+                        "red 5-point card"
+                    ]
+                },
+                {
+                    "kanji": "銅",
+                    "reading": "どう",
+                    "meanings": [
+                        "copper (Cu)",
+                        "bronze (medal)"
+                    ]
+                },
+                {
+                    "kanji": "紅赤",
+                    "reading": "べにあか",
+                    "meanings": [
+                        "beniaka",
+                        "variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region",
+                        "bright red tinged with yellow"
+                    ]
+                },
+                {
+                    "kanji": "真赤",
+                    "reading": "まあか",
+                    "meanings": [
+                        "bright red",
+                        "deep red"
+                    ]
+                },
+                {
+                    "kanji": "赤い",
+                    "reading": "あかい",
+                    "meanings": [
+                        "red",
+                        "crimson",
+                        "scarlet",
+                        "vermilion",
+                        "Red",
+                        "communist"
+                    ]
+                },
+                {
+                    "kanji": "赤色",
+                    "reading": "あかいろ",
+                    "meanings": [
+                        "red",
+                        "red color (colour)",
+                        "communism",
+                        "the left"
+                    ]
+                },
+                {
+                    "kanji": "赤らむ",
+                    "reading": "あからむ",
+                    "meanings": [
+                        "to become red",
+                        "to redden",
+                        "to blush"
+                    ]
+                },
+                {
+                    "kanji": "赤らめる",
+                    "reading": "あからめる",
+                    "meanings": [
+                        "to blush",
+                        "to redden"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "赤軍",
+                    "reading": "セキグン",
+                    "meanings": [
+                        "Red Army (Soviet Union",
+                        "1918-1946)",
+                        "Workers' and Peasants' Red Army",
+                        "Japanese Red Army",
+                        "JRA"
+                    ]
+                },
+                {
+                    "kanji": "赤外線",
+                    "reading": "セキガイセン",
+                    "meanings": [
+                        "infrared rays",
+                        "infrared radiation"
+                    ]
+                },
+                {
+                    "kanji": "七赤",
+                    "reading": "シチセキ",
+                    "meanings": [
+                        "seventh of nine traditional astrological signs (corresponding to Venus and west)"
+                    ]
+                },
+                {
+                    "kanji": "日赤",
+                    "reading": "ニッセキ",
+                    "meanings": [
+                        "Japanese Red Cross Society (abbr)",
+                        "Nisseki"
+                    ]
+                },
+                {
+                    "kanji": "赤銅",
+                    "reading": "シャクドウ",
+                    "meanings": [
+                        "shakudo",
+                        "gold-copper alloy",
+                        "often with a blue patina"
+                    ]
+                },
+                {
+                    "kanji": "赤銅色",
+                    "reading": "シャクドウイロ",
+                    "meanings": [
+                        "brown",
+                        "tan"
+                    ]
+                }
+            ]
+        }
+    }
+}

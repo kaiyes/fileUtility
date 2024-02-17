@@ -1,0 +1,176 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"如\"",
+        "strokes": 6,
+        "main_meanings": [
+            "likeness",
+            "like",
+            "such as",
+            "as if",
+            "better",
+            "best",
+            "equal"
+        ],
+        "main_readings": {
+            "kun": [
+                "ごと.し"
+            ],
+            "on": [
+                "ジョ",
+                "ニョ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1383": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1521": "A New Dictionary of Kanji Usage",
+                "1189": "Classic Nelson (Andrew Nelson)",
+                "1539": "Essential Kanji (P.G. O’Neill)",
+                "1184": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "412": "Japanese Names (P.G. O’Neill)",
+                "1747": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1870": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1441": "Kanji in Context (Nishiguchi and Kono)",
+                "433": "Kodansha Compact Kanji Guide",
+                "239": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "154": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "183": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "101": "Les Kanjis dans la tete (Yves Maniette)",
+                "6060": "Morohashi",
+                "207": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1178": "New Nelson (John Haig)",
+                "100": "Remembering The Kanji (James Heisig)",
+                "104": "Remembering The Kanji, 6th edition (James Heisig)",
+                "337": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1069": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1777": "2001 Kanji",
+                "3e3.1": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "4640.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-01": "JIS X 0208-1997 kuten code",
+                "5982": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "き、 ね、 ゆき、 よし"
+                ],
+                "chinese": [
+                    "ru2"
+                ],
+                "korean": [
+                    "yeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "口",
+                "女"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "如し",
+                    "reading": "ごとし",
+                    "meanings": [
+                        "like",
+                        "as if",
+                        "the same as"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "如月",
+                    "reading": "キサラギ",
+                    "meanings": [
+                        "second month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "如雨露",
+                    "reading": "ジョウロ",
+                    "meanings": [
+                        "watering can",
+                        "watering pot",
+                        "sprinkling can"
+                    ]
+                },
+                {
+                    "kanji": "躍如",
+                    "reading": "ヤクジョ",
+                    "meanings": [
+                        "vivid",
+                        "lifelike",
+                        "graphic"
+                    ]
+                },
+                {
+                    "kanji": "鞠躬如",
+                    "reading": "キッキュウジョ",
+                    "meanings": [
+                        "deferential",
+                        "humble",
+                        "reverent",
+                        "respectful"
+                    ]
+                },
+                {
+                    "kanji": "如",
+                    "reading": "ニョ",
+                    "meanings": [
+                        "tathata (the ultimate nature of all things)"
+                    ]
+                },
+                {
+                    "kanji": "如実",
+                    "reading": "ニョジツ",
+                    "meanings": [
+                        "reality",
+                        "actuality",
+                        "actual conditions",
+                        "true situation",
+                        "faithful representation",
+                        "vivid depiction",
+                        "ultimate reality",
+                        "absolute truth"
+                    ]
+                },
+                {
+                    "kanji": "一如",
+                    "reading": "イチニョ",
+                    "meanings": [
+                        "oneness"
+                    ]
+                },
+                {
+                    "kanji": "形影一如",
+                    "reading": "ケイエイイチニョ",
+                    "meanings": [
+                        "being inseparable as a form and its shadow",
+                        "a person's deed mirrors the good or evil of his mind",
+                        "husband and wife being never apart"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"項\"",
+        "strokes": 12,
+        "main_meanings": [
+            "paragraph",
+            "nape of neck",
+            "clause",
+            "item",
+            "term (expression)"
+        ],
+        "main_readings": {
+            "kun": [
+                "うなじ"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1262": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "995": "A New Dictionary of Kanji Usage",
+                "1459": "Classic Nelson (Andrew Nelson)",
+                "1138": "Essential Kanji (P.G. O’Neill)",
+                "1897": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1543": "Japanese Names (P.G. O’Neill)",
+                "1439": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1529": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1222": "Kanji in Context (Nishiguchi and Kono)",
+                "1883": "Kodansha Compact Kanji Guide",
+                "692": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "415": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "521": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "82": "Remembering The Kanji (James Heisig)",
+                "43343": "Morohashi",
+                "567": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6617": "New Nelson (John Haig)",
+                "86": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1604": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3161": "2001 Kanji",
+                "9a3.1": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "1118.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-64": "JIS X 0208-1997 kuten code",
+                "9805": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xiang4"
+                ],
+                "korean": [
+                    "hang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "ハ",
+                "工",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "項",
+                    "reading": "うなじ",
+                    "meanings": [
+                        "nape (of the neck)",
+                        "nucha"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "項",
+                    "reading": "コウ",
+                    "meanings": [
+                        "clause",
+                        "paragraph",
+                        "item",
+                        "argument",
+                        "term (of an equation)",
+                        "nape (of the neck)"
+                    ]
+                },
+                {
+                    "kanji": "項目",
+                    "reading": "コウモク",
+                    "meanings": [
+                        "item",
+                        "heading",
+                        "category",
+                        "clause",
+                        "headword (in a dictionary",
+                        "encyclopedia",
+                        "etc.)",
+                        "entry"
+                    ]
+                },
+                {
+                    "kanji": "要項",
+                    "reading": "ヨウコウ",
+                    "meanings": [
+                        "important points",
+                        "main points",
+                        "gist",
+                        "list of requirements"
+                    ]
+                },
+                {
+                    "kanji": "別項",
+                    "reading": "ベッコウ",
+                    "meanings": [
+                        "special heading",
+                        "separate paragraph"
+                    ]
+                }
+            ]
+        }
+    }
+}

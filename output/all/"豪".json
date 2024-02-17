@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"豪\"",
+        "strokes": 14,
+        "main_meanings": [
+            "overpowering",
+            "great",
+            "powerful",
+            "excelling",
+            "Australia"
+        ],
+        "main_readings": {
+            "kun": [
+                "えら.い"
+            ],
+            "on": [
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1271": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "898": "A New Dictionary of Kanji Usage",
+                "329": "Classic Nelson (Andrew Nelson)",
+                "1377": "Essential Kanji (P.G. O’Neill)",
+                "1775": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2177": "Japanese Names (P.G. O’Neill)",
+                "1671": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1786": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1277": "Kanji in Context (Nishiguchi and Kono)",
+                "1719": "Kodansha Compact Kanji Guide",
+                "2657": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1355": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1838": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "549": "Les Kanjis dans la tete (Yves Maniette)",
+                "36406": "Morohashi",
+                "2140": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5749": "New Nelson (John Haig)",
+                "543": "Remembering The Kanji (James Heisig)",
+                "582": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1730": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "451": "2001 Kanji",
+                "2j12.3": "The Kanji Dictionary",
+                "2-2-12": "SKIP code",
+                "0023.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-75": "JIS X 0208-1997 kuten code",
+                "8c6a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こう、 ご、 すぐる、 たけ、 たけし、 ひで、 まさる"
+                ],
+                "chinese": [
+                    "hao2"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "pig",
+            "parts": [
+                "亠",
+                "冖",
+                "口",
+                "豕"
+            ],
+            "basis": "豕",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "偉い",
+                    "reading": "えらい",
+                    "meanings": [
+                        "great",
+                        "excellent",
+                        "admirable",
+                        "remarkable",
+                        "distinguished",
+                        "important",
+                        "celebrated",
+                        "famous",
+                        "eminent",
+                        "very troublesome",
+                        "awful",
+                        "terrible",
+                        "tiring",
+                        "tough",
+                        "very",
+                        "extremely"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "豪",
+                    "reading": "ゴウ",
+                    "meanings": [
+                        "Australia"
+                    ]
+                },
+                {
+                    "kanji": "剛",
+                    "reading": "ゴウ",
+                    "meanings": [
+                        "strong",
+                        "hard",
+                        "manly"
+                    ]
+                },
+                {
+                    "kanji": "強豪",
+                    "reading": "キョウゴウ",
+                    "meanings": [
+                        "overwhelming strength",
+                        "extremely strong person",
+                        "powerhouse",
+                        "very strong player",
+                        "very strong team"
+                    ]
+                },
+                {
+                    "kanji": "古豪",
+                    "reading": "コゴウ",
+                    "meanings": [
+                        "veteran",
+                        "old-timer",
+                        "experienced person"
+                    ]
+                }
+            ]
+        }
+    }
+}

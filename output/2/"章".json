@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"章\"",
+        "strokes": 11,
+        "main_meanings": [
+            "badge",
+            "chapter",
+            "composition",
+            "poem",
+            "design"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "432": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "334": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "318": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "967": "A New Dictionary of Kanji Usage",
+                "5112": "Classic Nelson (Andrew Nelson)",
+                "505": "Essential Kanji (P.G. O’Neill)",
+                "787": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1461": "Japanese Names (P.G. O’Neill)",
+                "857": "Kanji and Kana (Spahn and Hadamitzky)",
+                "876": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1027": "Kanji in Context (Nishiguchi and Kono)",
+                "1460": "Kodansha Compact Kanji Guide",
+                "2624": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1342": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1819": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "440": "Les Kanjis dans la tete (Yves Maniette)",
+                "25761": "Morohashi",
+                "2117": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4235": "New Nelson (John Haig)",
+                "433": "Remembering The Kanji (James Heisig)",
+                "464": "Remembering The Kanji, 6th edition (James Heisig)",
+                "376": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "455": "2001 Kanji",
+                "5b6.3": "The Kanji Dictionary",
+                "2-2-9": "SKIP code",
+                "2-5-6": "SKIP code",
+                "0040.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-47": "JIS X 0208-1997 kuten code",
+                "7ae0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら、 あや、 ふみ"
+                ],
+                "chinese": [
+                    "zhang1"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stand,",
+            "parts": [
+                "十",
+                "日",
+                "立",
+                "音"
+            ],
+            "basis": "立",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "章",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "chapter",
+                        "section",
+                        "medal",
+                        "badge",
+                        "insignia"
+                    ]
+                },
+                {
+                    "kanji": "章句",
+                    "reading": "ショウク",
+                    "meanings": [
+                        "chapter and verse",
+                        "paragraph",
+                        "passage"
+                    ]
+                },
+                {
+                    "kanji": "受章",
+                    "reading": "ジュショウ",
+                    "meanings": [
+                        "reception of a decoration",
+                        "reception of an order"
+                    ]
+                },
+                {
+                    "kanji": "楽章",
+                    "reading": "ガクショウ",
+                    "meanings": [
+                        "movement"
+                    ]
+                }
+            ]
+        }
+    }
+}

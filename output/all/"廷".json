@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"廷\"",
+        "strokes": 7,
+        "main_meanings": [
+            "courts",
+            "imperial court",
+            "government office"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1610": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1493": "A New Dictionary of Kanji Usage",
+                "1546": "Classic Nelson (Andrew Nelson)",
+                "1417": "Essential Kanji (P.G. O’Neill)",
+                "1264": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "501": "Japanese Names (P.G. O’Neill)",
+                "1111": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1163": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1211": "Kanji in Context (Nishiguchi and Kono)",
+                "598": "Kodansha Compact Kanji Guide",
+                "3795": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1938": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2631": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "520": "Les Kanjis dans la tete (Yves Maniette)",
+                "9571X": "Morohashi",
+                "3058": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1654": "New Nelson (John Haig)",
+                "508": "Remembering The Kanji (James Heisig)",
+                "547": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1120": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3567": "2001 Kanji",
+                "2q4.2": "The Kanji Dictionary",
+                "3-3-4": "SKIP code",
+                "3-2-4": "SKIP code",
+                "1240.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-78": "JIS X 0208-1997 kuten code",
+                "5ef7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たか"
+                ],
+                "chinese": [
+                    "ting2"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "long",
+            "parts": [
+                "士",
+                "廴",
+                "王"
+            ],
+            "basis": "廴",
+            "kangxi_order": 54,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "廷臣",
+                    "reading": "テイシン",
+                    "meanings": [
+                        "courtier"
+                    ]
+                },
+                {
+                    "kanji": "廷丁",
+                    "reading": "テイテイ",
+                    "meanings": [
+                        "court attendant"
+                    ]
+                },
+                {
+                    "kanji": "朝廷",
+                    "reading": "チョウテイ",
+                    "meanings": [
+                        "Imperial Court"
+                    ]
+                },
+                {
+                    "kanji": "閉廷",
+                    "reading": "ヘイテイ",
+                    "meanings": [
+                        "adjourning court"
+                    ]
+                }
+            ]
+        }
+    }
+}

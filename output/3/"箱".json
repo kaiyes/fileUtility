@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"箱\"",
+        "strokes": 15,
+        "main_meanings": [
+            "box",
+            "chest",
+            "case",
+            "bin",
+            "railway car"
+        ],
+        "main_readings": {
+            "kun": [
+                "はこ"
+            ],
+            "on": [
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "390": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "1703": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "944": "A New Dictionary of Kanji Usage",
+                "3425": "Classic Nelson (Andrew Nelson)",
+                "935": "Essential Kanji (P.G. O’Neill)",
+                "799": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2383": "Japanese Names (P.G. O’Neill)",
+                "1091": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1142": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1060": "Kanji in Context (Nishiguchi and Kono)",
+                "1486": "Kodansha Compact Kanji Guide",
+                "3362": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1741": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2366": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "951": "Les Kanjis dans la tete (Yves Maniette)",
+                "26209": "Morohashi",
+                "2711": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4331": "New Nelson (John Haig)",
+                "942": "Remembering The Kanji (James Heisig)",
+                "1013": "Remembering The Kanji, 6th edition (James Heisig)",
+                "435": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2379": "2001 Kanji",
+                "6f9.4": "The Kanji Dictionary",
+                "2-6-9": "SKIP code",
+                "8896.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-02": "JIS X 0208-1997 kuten code",
+                "7bb1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xiang1"
+                ],
+                "korean": [
+                    "sang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "木",
+                "目",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "箱",
+                    "reading": "はこ",
+                    "meanings": [
+                        "box",
+                        "case",
+                        "chest",
+                        "package",
+                        "pack",
+                        "crate",
+                        "car (of a train",
+                        "etc.)",
+                        "shamisen case",
+                        "shamisen",
+                        "public building",
+                        "community building",
+                        "man who carries a geisha's shamisen",
+                        "receptacle for human waste",
+                        "feces (faeces)",
+                        "counter for boxes (or boxed objects)"
+                    ]
+                },
+                {
+                    "kanji": "箱入り",
+                    "reading": "はこいり",
+                    "meanings": [
+                        "cased",
+                        "boxed",
+                        "precious",
+                        "cherished",
+                        "girl who has been sheltered from the world",
+                        "one's special talent"
+                    ]
+                },
+                {
+                    "kanji": "リサイクル用の箱",
+                    "reading": "リサイクルようのはこ",
+                    "meanings": [
+                        "recycling bin",
+                        "recycling box"
+                    ]
+                },
+                {
+                    "kanji": "契約の箱",
+                    "reading": "けいやくのはこ",
+                    "meanings": [
+                        "Ark of the Covenant"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "百葉箱",
+                    "reading": "ヒャクヨウバコ",
+                    "meanings": [
+                        "Stevenson screen (louvre-sided box housing for meteorological gauges)",
+                        "instrument shelter"
+                    ]
+                },
+                {
+                    "kanji": "書箱",
+                    "reading": "ショソウ",
+                    "meanings": [
+                        "bookcase"
+                    ]
+                }
+            ]
+        }
+    }
+}

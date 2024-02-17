@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"試\"",
+        "strokes": 13,
+        "main_meanings": [
+            "test",
+            "try",
+            "attempt",
+            "experiment",
+            "ordeal"
+        ],
+        "main_readings": {
+            "kun": [
+                "こころ.みる",
+                "ため.す"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "416": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "525": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "499": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "409": "A New Dictionary of Kanji Usage",
+                "4361": "Classic Nelson (Andrew Nelson)",
+                "354": "Remembering The Kanji (James Heisig)",
+                "250": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1932": "Japanese Names (P.G. O’Neill)",
+                "2.9": "Japanese for Busy People",
+                "526": "Kanji and Kana (Spahn and Hadamitzky)",
+                "535": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "795": "Kanji in Context (Nishiguchi and Kono)",
+                "1680": "Kodansha Compact Kanji Guide",
+                "1925": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1025": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1385": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "360": "Les Kanjis dans la tete (Yves Maniette)",
+                "35415": "Morohashi",
+                "1525": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5611": "New Nelson (John Haig)",
+                "378": "Remembering The Kanji, 6th edition (James Heisig)",
+                "604": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3056": "2001 Kanji",
+                "7a6.18": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "0364.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-78": "JIS X 0208-1997 kuten code",
+                "8a66": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "si"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "工",
+                "弋",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "試みる",
+                    "reading": "こころみる",
+                    "meanings": [
+                        "to try",
+                        "to attempt",
+                        "to have a go (at)"
+                    ]
+                },
+                {
+                    "kanji": "試す",
+                    "reading": "ためす",
+                    "meanings": [
+                        "to try (out)",
+                        "to have a try (at)",
+                        "to test",
+                        "to put to the test"
+                    ]
+                },
+                {
+                    "kanji": "試筋",
+                    "reading": "ためすじ",
+                    "meanings": [
+                        "patron",
+                        "effective means"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "試",
+                    "reading": "シ",
+                    "meanings": [
+                        "testing",
+                        "experiment",
+                        "test",
+                        "examination",
+                        "exam",
+                        "trial"
+                    ]
+                },
+                {
+                    "kanji": "試合",
+                    "reading": "シアイ",
+                    "meanings": [
+                        "match",
+                        "game",
+                        "bout",
+                        "contest"
+                    ]
+                },
+                {
+                    "kanji": "公試",
+                    "reading": "コウシ",
+                    "meanings": [
+                        "national examinations"
+                    ]
+                },
+                {
+                    "kanji": "考試",
+                    "reading": "コウシ",
+                    "meanings": [
+                        "test",
+                        "exam"
+                    ]
+                }
+            ]
+        }
+    }
+}

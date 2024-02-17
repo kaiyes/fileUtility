@@ -1,0 +1,92 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"裟\"",
+        "strokes": 13,
+        "main_meanings": [
+            "Buddhist surplice"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サ",
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4237": "Classic Nelson (Andrew Nelson)",
+                "2239": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3420": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1762": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2398": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "34325": "Morohashi",
+                "5457": "New Nelson (John Haig)",
+                "2701": "Remembering The Kanji (James Heisig)",
+                "2739": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5e7.6": "The Kanji Dictionary",
+                "2-7-6": "SKIP code",
+                "3973.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-32": "JIS X 0208-1997 kuten code",
+                "88df": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sha1"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "ノ",
+                "亠",
+                "小",
+                "汁",
+                "衣"
+            ],
+            "basis": "衣",
+            "kangxi_order": 145,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "袈裟",
+                    "reading": "ケサ",
+                    "meanings": [
+                        "kasaya",
+                        "monk's stole",
+                        "wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder)"
+                    ]
+                },
+                {
+                    "kanji": "輪袈裟",
+                    "reading": "ワゲサ",
+                    "meanings": [
+                        "loop-shaped monk's stole"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"沙\"",
+        "strokes": 7,
+        "main_meanings": [
+            "sand"
+        ],
+        "main_readings": {
+            "kun": [
+                "すな",
+                "よなげる"
+            ],
+            "on": [
+                "サ",
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2504": "Classic Nelson (Andrew Nelson)",
+                "392": "Japanese Names (P.G. O’Neill)",
+                "2135": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1205": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "311": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "199": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "236": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17212": "Morohashi",
+                "266": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3063": "New Nelson (John Haig)",
+                "2296": "Remembering The Kanji (James Heisig)",
+                "151": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a4.13": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "3912.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-27": "JIS X 0208-1997 kuten code",
+                "6c99": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sha1",
+                    "sha4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "ノ",
+                "小",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "砂",
+                    "reading": "すな",
+                    "meanings": [
+                        "sand",
+                        "grit"
+                    ]
+                },
+                {
+                    "kanji": "砂子",
+                    "reading": "すなご",
+                    "meanings": [
+                        "gold dust",
+                        "silver dust",
+                        "sand",
+                        "grit"
+                    ]
+                },
+                {
+                    "kanji": "白砂",
+                    "reading": "はくしゃ",
+                    "meanings": [
+                        "white sand"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "沙",
+                    "reading": "シャ",
+                    "meanings": [
+                        "one hundred-millionth"
+                    ]
+                },
+                {
+                    "kanji": "砂漠",
+                    "reading": "サバク",
+                    "meanings": [
+                        "desert"
+                    ]
+                },
+                {
+                    "kanji": "流砂",
+                    "reading": "リュウサ",
+                    "meanings": [
+                        "quicksand"
+                    ]
+                },
+                {
+                    "kanji": "秋沙",
+                    "reading": "アイサ",
+                    "meanings": [
+                        "merganser (any duck of genus Mergus)"
+                    ]
+                },
+                {
+                    "kanji": "沙",
+                    "reading": "シャ",
+                    "meanings": [
+                        "one hundred-millionth"
+                    ]
+                },
+                {
+                    "kanji": "砂丘",
+                    "reading": "サキュウ",
+                    "meanings": [
+                        "sand dune",
+                        "sand hill"
+                    ]
+                },
+                {
+                    "kanji": "流砂",
+                    "reading": "リュウサ",
+                    "meanings": [
+                        "quicksand"
+                    ]
+                },
+                {
+                    "kanji": "泥砂",
+                    "reading": "デイサ",
+                    "meanings": [
+                        "mud and sand"
+                    ]
+                }
+            ]
+        }
+    }
+}

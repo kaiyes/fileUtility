@@ -1,0 +1,241 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"力\"",
+        "strokes": 2,
+        "main_meanings": [
+            "power",
+            "strength",
+            "strong",
+            "strain",
+            "bear up",
+            "exert"
+        ],
+        "main_readings": {
+            "kun": [
+                "ちから"
+            ],
+            "on": [
+                "リョク",
+                "リキ",
+                "リイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "148": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "38": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "74": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "69": "A New Dictionary of Kanji Usage",
+                "715": "Classic Nelson (Andrew Nelson)",
+                "53": "Essential Kanji (P.G. O’Neill)",
+                "128": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "11": "Japanese Names (P.G. O’Neill)",
+                "3.15": "Japanese for Busy People",
+                "100": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "173": "Kanji in Context (Nishiguchi and Kono)",
+                "207": "Kodansha Compact Kanji Guide",
+                "4178": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2114": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2860": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "866": "Les Kanjis dans la tete (Yves Maniette)",
+                "2288": "Morohashi",
+                "3371": "New Japanese English Character Dictionary (Jack Halpern)",
+                "521": "New Nelson (John Haig)",
+                "858": "Remembering The Kanji (James Heisig)",
+                "922": "Remembering The Kanji, 6th edition (James Heisig)",
+                "9": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1645": "2001 Kanji",
+                "2g0.1": "The Kanji Dictionary",
+                "4-2-4": "SKIP code",
+                "4002.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-47": "JIS X 0208-1997 kuten code",
+                "529b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "じから、 つとむ"
+                ],
+                "chinese": [
+                    "li4"
+                ],
+                "korean": [
+                    "ryeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "力"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "力",
+                    "reading": "ちから",
+                    "meanings": [
+                        "force",
+                        "strength",
+                        "might",
+                        "vigour",
+                        "vigor",
+                        "energy",
+                        "capability",
+                        "ability",
+                        "proficiency",
+                        "capacity",
+                        "faculty",
+                        "efficacy",
+                        "effect",
+                        "effort",
+                        "endeavours",
+                        "endeavors",
+                        "exertions",
+                        "power",
+                        "authority",
+                        "influence",
+                        "good offices",
+                        "agency",
+                        "support",
+                        "help",
+                        "aid",
+                        "assistance",
+                        "stress",
+                        "emphasis",
+                        "means",
+                        "resources"
+                    ]
+                },
+                {
+                    "kanji": "力強い",
+                    "reading": "ちからづよい",
+                    "meanings": [
+                        "powerful",
+                        "strong",
+                        "forceful",
+                        "vigorous",
+                        "reassuring",
+                        "encouraging"
+                    ]
+                },
+                {
+                    "kanji": "強い力",
+                    "reading": "つよいちから",
+                    "meanings": [
+                        "strong interaction",
+                        "strong force"
+                    ]
+                },
+                {
+                    "kanji": "弱い力",
+                    "reading": "よわいちから",
+                    "meanings": [
+                        "weak force",
+                        "weak interaction"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "力",
+                    "reading": "リョク",
+                    "meanings": [
+                        "strength",
+                        "power",
+                        "proficiency",
+                        "ability"
+                    ]
+                },
+                {
+                    "kanji": "力作",
+                    "reading": "リキサク",
+                    "meanings": [
+                        "painstaking piece of work",
+                        "work of great effort",
+                        "tour de force",
+                        "outstanding work",
+                        "toil",
+                        "labor",
+                        "labour"
+                    ]
+                },
+                {
+                    "kanji": "水力",
+                    "reading": "スイリョク",
+                    "meanings": [
+                        "hydraulic power",
+                        "water power"
+                    ]
+                },
+                {
+                    "kanji": "威力",
+                    "reading": "イリョク",
+                    "meanings": [
+                        "power",
+                        "might",
+                        "authority",
+                        "influence"
+                    ]
+                },
+                {
+                    "kanji": "力",
+                    "reading": "リキ",
+                    "meanings": [
+                        "strength",
+                        "power",
+                        "proficiency",
+                        "ability",
+                        "the strength of ... people",
+                        "the strength of ... men"
+                    ]
+                },
+                {
+                    "kanji": "力学",
+                    "reading": "リキガク",
+                    "meanings": [
+                        "mechanics",
+                        "dynamics"
+                    ]
+                },
+                {
+                    "kanji": "地力",
+                    "reading": "ジリキ",
+                    "meanings": [
+                        "one's own potential",
+                        "real ability",
+                        "one's own strength"
+                    ]
+                },
+                {
+                    "kanji": "合力",
+                    "reading": "ゴウリョク",
+                    "meanings": [
+                        "resultant force",
+                        "assistance",
+                        "help",
+                        "donation",
+                        "alms",
+                        "almsgiving"
+                    ]
+                }
+            ]
+        }
+    }
+}

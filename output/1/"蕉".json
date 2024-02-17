@@ -1,0 +1,108 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"蕉\"",
+        "strokes": 15,
+        "main_meanings": [
+            "banana",
+            "plantain"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4048": "Classic Nelson (Andrew Nelson)",
+                "2372": "Japanese Names (P.G. O’Neill)",
+                "2229": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2994": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1529": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2087": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "31937X": "Morohashi",
+                "5191": "New Nelson (John Haig)",
+                "2367": "Remembering The Kanji (James Heisig)",
+                "2453": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k12.6": "The Kanji Dictionary",
+                "2-3-12": "SKIP code",
+                "4433.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-54": "JIS X 0208-1997 kuten code",
+                "8549": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiao1",
+                    "qiao2"
+                ],
+                "korean": [
+                    "cho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "杰",
+                "隹"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "蕉風",
+                    "reading": "ショウフウ",
+                    "meanings": [
+                        "correct style in a haiku (like Basho's)"
+                    ]
+                },
+                {
+                    "kanji": "蕉門",
+                    "reading": "ショウモン",
+                    "meanings": [
+                        "disciple of Basho"
+                    ]
+                },
+                {
+                    "kanji": "蓬莱蕉",
+                    "reading": "ホウライショウ",
+                    "meanings": [
+                        "Swiss cheese plant (Monstera deliciosa)",
+                        "split-leaf philodendron",
+                        "cerimen",
+                        "Mexican breadfruit",
+                        "fruit salad plant"
+                    ]
+                },
+                {
+                    "kanji": "香蕉",
+                    "reading": "コウショウ",
+                    "meanings": [
+                        "banana"
+                    ]
+                }
+            ]
+        }
+    }
+}

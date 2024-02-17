@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"披\"",
+        "strokes": 8,
+        "main_meanings": [
+            "expose",
+            "open"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1726": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1417": "A New Dictionary of Kanji Usage",
+                "1874": "Classic Nelson (Andrew Nelson)",
+                "1841": "Essential Kanji (P.G. O’Neill)",
+                "1342": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "582": "Japanese Names (P.G. O’Neill)",
+                "1712": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1829": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1468": "Kanji in Context (Nishiguchi and Kono)",
+                "882": "Kodansha Compact Kanji Guide",
+                "362": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "226": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "270": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "813": "Les Kanjis dans la tete (Yves Maniette)",
+                "11909": "Morohashi",
+                "305": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2116": "New Nelson (John Haig)",
+                "805": "Remembering The Kanji (James Heisig)",
+                "868": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1185": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1367": "2001 Kanji",
+                "3c5.13": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5404.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-68": "JIS X 0208-1997 kuten code",
+                "62ab": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pi1"
+                ],
+                "korean": [
+                    "pi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "又",
+                "扎",
+                "皮"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "披露",
+                    "reading": "ヒロウ",
+                    "meanings": [
+                        "announcement",
+                        "presentation",
+                        "demonstration",
+                        "displaying",
+                        "showing",
+                        "introducing",
+                        "unveiling",
+                        "revealing",
+                        "performing"
+                    ]
+                },
+                {
+                    "kanji": "披露宴",
+                    "reading": "ヒロウエン",
+                    "meanings": [
+                        "reception (e.g. wedding)",
+                        "banquet",
+                        "celebration",
+                        "party"
+                    ]
+                },
+                {
+                    "kanji": "開披",
+                    "reading": "カイヒ",
+                    "meanings": [
+                        "opening (a letter)",
+                        "unsealing"
+                    ]
+                },
+                {
+                    "kanji": "直披",
+                    "reading": "ジキヒ",
+                    "meanings": [
+                        "personal",
+                        "confidential (letter)"
+                    ]
+                }
+            ]
+        }
+    }
+}

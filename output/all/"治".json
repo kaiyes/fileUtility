@@ -1,0 +1,234 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"治\"",
+        "strokes": 8,
+        "main_meanings": [
+            "reign",
+            "be at peace",
+            "calm down",
+            "subdue",
+            "quell",
+            "govt",
+            "cure",
+            "heal",
+            "rule",
+            "conserve"
+        ],
+        "main_readings": {
+            "kun": [
+                "おさ.める",
+                "おさ.まる",
+                "なお.る",
+                "なお.す"
+            ],
+            "on": [
+                "ジ",
+                "チ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "468": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "527": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "544": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "181": "A New Dictionary of Kanji Usage",
+                "2528": "Classic Nelson (Andrew Nelson)",
+                "214": "Essential Kanji (P.G. O’Neill)",
+                "672": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "825": "Japanese Names (P.G. O’Neill)",
+                "493": "Kanji and Kana (Spahn and Hadamitzky)",
+                "502": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "531": "Kanji in Context (Nishiguchi and Kono)",
+                "1174": "Kodansha Compact Kanji Guide",
+                "393": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "250": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "297": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "754": "Les Kanjis dans la tete (Yves Maniette)",
+                "17256": "Morohashi",
+                "335": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3100": "New Nelson (John Haig)",
+                "746": "Remembering The Kanji (James Heisig)",
+                "807": "Remembering The Kanji, 6th edition (James Heisig)",
+                "88": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "506": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "377": "2001 Kanji",
+                "3a5.28": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3316.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-03": "JIS X 0208-1997 kuten code",
+                "6cbb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "し、 ぢ、 はり、 はる、 みち"
+                ],
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "chi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "厶",
+                "口",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "治める",
+                    "reading": "おさめる",
+                    "meanings": [
+                        "to rule",
+                        "to govern",
+                        "to reign over",
+                        "to administer",
+                        "to manage (e.g. a household)",
+                        "to subdue",
+                        "to suppress",
+                        "to quell",
+                        "to settle (e.g. a dispute)"
+                    ]
+                },
+                {
+                    "kanji": "治まる",
+                    "reading": "おさまる",
+                    "meanings": [
+                        "to die down (storm",
+                        "anger",
+                        "conflict",
+                        "etc.)",
+                        "to calm down",
+                        "to cool off",
+                        "to abate",
+                        "to be settled",
+                        "to be brought under control",
+                        "to be at peace",
+                        "to be governed well",
+                        "to subside (of pain",
+                        "symptoms",
+                        "etc.)",
+                        "to be alleviated",
+                        "to get better",
+                        "to ease off"
+                    ]
+                },
+                {
+                    "kanji": "治る",
+                    "reading": "なおる",
+                    "meanings": [
+                        "to get better",
+                        "to get well",
+                        "to recover (from an illness)",
+                        "to be cured",
+                        "to be restored",
+                        "to heal"
+                    ]
+                },
+                {
+                    "kanji": "治す",
+                    "reading": "なおす",
+                    "meanings": [
+                        "to cure",
+                        "to heal"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "治療",
+                    "reading": "チリョウ",
+                    "meanings": [
+                        "(medical) treatment",
+                        "care",
+                        "therapy",
+                        "cure",
+                        "remedy"
+                    ]
+                },
+                {
+                    "kanji": "治安",
+                    "reading": "ジアン",
+                    "meanings": [
+                        "Jian era (1021.2.2-1024.7.13)"
+                    ]
+                },
+                {
+                    "kanji": "完治",
+                    "reading": "カンチ",
+                    "meanings": [
+                        "complete recovery"
+                    ]
+                },
+                {
+                    "kanji": "政党政治",
+                    "reading": "セイトウセイジ",
+                    "meanings": [
+                        "party politics"
+                    ]
+                },
+                {
+                    "kanji": "治",
+                    "reading": "チ",
+                    "meanings": [
+                        "politics",
+                        "government",
+                        "administration",
+                        "rule",
+                        "peace",
+                        "medical treatment",
+                        "cure"
+                    ]
+                },
+                {
+                    "kanji": "治安",
+                    "reading": "チアン",
+                    "meanings": [
+                        "public order",
+                        "public peace",
+                        "public security",
+                        "law and order"
+                    ]
+                },
+                {
+                    "kanji": "完治",
+                    "reading": "カンチ",
+                    "meanings": [
+                        "complete recovery"
+                    ]
+                },
+                {
+                    "kanji": "地方自治",
+                    "reading": "チホウジチ",
+                    "meanings": [
+                        "local (governmental) autonomy"
+                    ]
+                }
+            ]
+        }
+    }
+}

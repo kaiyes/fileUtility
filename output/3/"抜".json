@@ -1,0 +1,300 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"抜\"",
+        "strokes": 7,
+        "main_meanings": [
+            "slip out",
+            "extract",
+            "pull out",
+            "pilfer",
+            "quote",
+            "remove",
+            "omit"
+        ],
+        "main_readings": {
+            "kun": [
+                "ぬ.く",
+                "-ぬ.く",
+                "ぬ.き",
+                "ぬ.ける",
+                "ぬ.かす",
+                "ぬ.かる"
+            ],
+            "on": [
+                "バツ",
+                "ハツ",
+                "ハイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1708": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "684": "A New Dictionary of Kanji Usage",
+                "1854": "Classic Nelson (Andrew Nelson)",
+                "1525": "Essential Kanji (P.G. O’Neill)",
+                "561": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "384": "Japanese Names (P.G. O’Neill)",
+                "1713": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1830": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "769": "Kanji in Context (Nishiguchi and Kono)",
+                "864": "Kodansha Compact Kanji Guide",
+                "290": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "183": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "219": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "712": "Les Kanjis dans la tete (Yves Maniette)",
+                "11901P": "Morohashi",
+                "246": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2093": "New Nelson (John Haig)",
+                "705": "Remembering The Kanji (James Heisig)",
+                "761": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1129": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1367": "2001 Kanji",
+                "3c4.10": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5404.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-20": "JIS X 0208-1997 kuten code",
+                "629c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぬき"
+                ],
+                "chinese": [
+                    "ba2"
+                ],
+                "korean": [
+                    "bal",
+                    "pae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "亠",
+                "又",
+                "夂",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "拔"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "抜く",
+                    "reading": "ぬく",
+                    "meanings": [
+                        "to pull out",
+                        "to draw out",
+                        "to extract",
+                        "to unplug",
+                        "to weed",
+                        "to omit",
+                        "to leave out",
+                        "to go without",
+                        "to skip",
+                        "to do to the end",
+                        "to do thoroughly",
+                        "to do completely",
+                        "to do severely",
+                        "to let out (e.g. air from a tyre)",
+                        "to drain (e.g. water from a bath)",
+                        "to empty",
+                        "to pick out",
+                        "to choose",
+                        "to select",
+                        "to extract",
+                        "to pilfer",
+                        "to steal",
+                        "to remove",
+                        "to get rid of",
+                        "to take out",
+                        "to pass",
+                        "to overtake",
+                        "to outstrip",
+                        "to get ahead of",
+                        "to pierce",
+                        "to break through",
+                        "to go through",
+                        "to cut out (a shape)",
+                        "to create (a pattern) by dying the surrounding area",
+                        "to seize",
+                        "to capture",
+                        "to reduce",
+                        "to scoop (a story)",
+                        "to take out (an opponent's stones; in go)",
+                        "to masturbate (of a male)",
+                        "to ejaculate (while masturbating)",
+                        "to take (a photo)",
+                        "to record (video)"
+                    ]
+                },
+                {
+                    "kanji": "抜くべからざる",
+                    "reading": "ぬくべからざる",
+                    "meanings": [
+                        "deep-rooted (suspicion",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "抜き",
+                    "reading": "ぬき",
+                    "meanings": [
+                        "leaving out",
+                        "omitting",
+                        "skipping",
+                        "dispensing with",
+                        "(beating) in succession",
+                        "in a row"
+                    ]
+                },
+                {
+                    "kanji": "抜き打ち",
+                    "reading": "ぬきうち",
+                    "meanings": [
+                        "drawing a katana and attacking in the same stroke",
+                        "doing (something) suddenly and without warning",
+                        "doing without prior notice"
+                    ]
+                },
+                {
+                    "kanji": "手抜き",
+                    "reading": "てぬき",
+                    "meanings": [
+                        "omitting crucial steps",
+                        "cutting corners",
+                        "skimping",
+                        "intentional negligence",
+                        "tenuki",
+                        "making a move which is not a direct counter to one's opponent's last move"
+                    ]
+                },
+                {
+                    "kanji": "栓抜き",
+                    "reading": "せんぬき",
+                    "meanings": [
+                        "bottle opener",
+                        "corkscrew"
+                    ]
+                },
+                {
+                    "kanji": "抜ける",
+                    "reading": "ぬける",
+                    "meanings": [
+                        "to come out",
+                        "to fall out",
+                        "to be omitted",
+                        "to be missing",
+                        "to escape",
+                        "to come loose",
+                        "to fade",
+                        "to discolour",
+                        "to wear a hole (e.g. clothes)",
+                        "to leave (e.g. a meeting)",
+                        "to be clear",
+                        "to be transparent (e.g. of the sky)",
+                        "to be absentminded",
+                        "to be careless",
+                        "to be inattentive",
+                        "to be foolish",
+                        "to exit (a program loop)",
+                        "to go through",
+                        "to pass through",
+                        "to give way",
+                        "to collapse",
+                        "to finish a round with more than 88 points (not counting points gained from scoring combinations)"
+                    ]
+                },
+                {
+                    "kanji": "抜けるような青空",
+                    "reading": "ぬけるようなあおぞら",
+                    "meanings": [
+                        "deep blue sky",
+                        "bottomless blue sky"
+                    ]
+                },
+                {
+                    "kanji": "抜かす",
+                    "reading": "ぬかす",
+                    "meanings": [
+                        "to omit",
+                        "to leave out",
+                        "to skip",
+                        "to overtake",
+                        "to pass",
+                        "to say",
+                        "to speak"
+                    ]
+                },
+                {
+                    "kanji": "抜かる",
+                    "reading": "ぬかる",
+                    "meanings": [
+                        "to make a mistake"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "抜群",
+                    "reading": "バツグン",
+                    "meanings": [
+                        "outstanding",
+                        "excellent",
+                        "exceptional",
+                        "distinguished",
+                        "unrivaled",
+                        "surpassing (e.g. beauty)",
+                        "beyond compare"
+                    ]
+                },
+                {
+                    "kanji": "抜山蓋世",
+                    "reading": "バツザンガイセイ",
+                    "meanings": [
+                        "great strength and energy (of a mighty hero)",
+                        "Herculean strength and vitality"
+                    ]
+                },
+                {
+                    "kanji": "卓抜",
+                    "reading": "タクバツ",
+                    "meanings": [
+                        "excellence",
+                        "superiority",
+                        "preeminence",
+                        "prevalence"
+                    ]
+                },
+                {
+                    "kanji": "警抜",
+                    "reading": "ケイバツ",
+                    "meanings": [
+                        "scintillating",
+                        "extraordinarily excellent"
+                    ]
+                }
+            ]
+        }
+    }
+}

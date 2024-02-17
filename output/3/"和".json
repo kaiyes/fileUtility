@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"和\"",
+        "strokes": 8,
+        "main_meanings": [
+            "harmony",
+            "Japanese style",
+            "peace",
+            "soften",
+            "Japan"
+        ],
+        "main_readings": {
+            "kun": [
+                "やわ.らぐ",
+                "やわ.らげる",
+                "なご.む",
+                "なご.やか",
+                "あ.える"
+            ],
+            "on": [
+                "ワ",
+                "オ",
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "338": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "440": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "416": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "151": "A New Dictionary of Kanji Usage",
+                "3268": "Classic Nelson (Andrew Nelson)",
+                "277": "Essential Kanji (P.G. O’Neill)",
+                "412": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "638": "Japanese Names (P.G. O’Neill)",
+                "3.5": "Japanese for Busy People",
+                "124": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "352": "Kanji in Context (Nishiguchi and Kono)",
+                "326": "Kodansha Compact Kanji Guide",
+                "1450": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "769": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1044": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "906": "Les Kanjis dans la tete (Yves Maniette)",
+                "3490": "Morohashi",
+                "1130": "New Japanese English Character Dictionary (Jack Halpern)",
+                "770": "New Nelson (John Haig)",
+                "897": "Remembering The Kanji (James Heisig)",
+                "963": "Remembering The Kanji, 6th edition (James Heisig)",
+                "85": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "318": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2277": "2001 Kanji",
+                "5d3.1": "The Kanji Dictionary",
+                "1-5-3": "SKIP code",
+                "2690.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-34": "JIS X 0208-1997 kuten code",
+                "548c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あい、 いず、 かず、 かつ、 かつり、 かづ、 たけ、 ち、 とも、 な、 にぎ、 まさ、 やす、 よし、 より、 わだこ、 わっ"
+                ],
+                "chinese": [
+                    "he2",
+                    "he4",
+                    "huo2",
+                    "huo4",
+                    "huo5",
+                    "hai1",
+                    "he5"
+                ],
+                "korean": [
+                    "hwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "禾"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": [
+                "龢"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "和らぐ",
+                    "reading": "やわらぐ",
+                    "meanings": [
+                        "to soften",
+                        "to calm down",
+                        "to be eased",
+                        "to be mitigated",
+                        "to subside",
+                        "to abate"
+                    ]
+                },
+                {
+                    "kanji": "和らげる",
+                    "reading": "やわらげる",
+                    "meanings": [
+                        "to soften",
+                        "to moderate",
+                        "to relieve"
+                    ]
+                },
+                {
+                    "kanji": "和む",
+                    "reading": "なごむ",
+                    "meanings": [
+                        "to be softened",
+                        "to calm down"
+                    ]
+                },
+                {
+                    "kanji": "和やか",
+                    "reading": "なごやか",
+                    "meanings": [
+                        "mild",
+                        "calm",
+                        "gentle",
+                        "quiet",
+                        "congenial",
+                        "amicable",
+                        "amiable",
+                        "friendly",
+                        "genial",
+                        "harmonious",
+                        "peaceful"
+                    ]
+                },
+                {
+                    "kanji": "和える",
+                    "reading": "あえる",
+                    "meanings": [
+                        "to dress (vegetables",
+                        "salad",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "和",
+                    "reading": "ワ",
+                    "meanings": [
+                        "sum",
+                        "harmony",
+                        "peace",
+                        "Japan",
+                        "Japanese-style"
+                    ]
+                },
+                {
+                    "kanji": "和歌",
+                    "reading": "ワカ",
+                    "meanings": [
+                        "waka",
+                        "classic Japanese poem",
+                        "esp. a tanka",
+                        "often 31 morae"
+                    ]
+                },
+                {
+                    "kanji": "講和",
+                    "reading": "コウワ",
+                    "meanings": [
+                        "reconciliation (between warring nations)",
+                        "(making of) peace"
+                    ]
+                },
+                {
+                    "kanji": "英和",
+                    "reading": "エイワ",
+                    "meanings": [
+                        "English-Japanese",
+                        "English-Japanese dictionary"
+                    ]
+                },
+                {
+                    "kanji": "阿蘭陀",
+                    "reading": "オランダ",
+                    "meanings": [
+                        "Netherlands",
+                        "Holland"
+                    ]
+                },
+                {
+                    "kanji": "和尚",
+                    "reading": "オショウ",
+                    "meanings": [
+                        "priestly teacher",
+                        "preceptor",
+                        "monk (esp. the head monk of a temple)",
+                        "priest",
+                        "head priest",
+                        "second highest priestly rank in Buddhism",
+                        "master (of one's art",
+                        "trade",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "和声",
+                    "reading": "ワセイ",
+                    "meanings": [
+                        "harmony",
+                        "concord",
+                        "consonance"
+                    ]
+                },
+                {
+                    "kanji": "和尚",
+                    "reading": "オショウ",
+                    "meanings": [
+                        "priestly teacher",
+                        "preceptor",
+                        "monk (esp. the head monk of a temple)",
+                        "priest",
+                        "head priest",
+                        "second highest priestly rank in Buddhism",
+                        "master (of one's art",
+                        "trade",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "諧和",
+                    "reading": "カイワ",
+                    "meanings": [
+                        "gentle mutual affection",
+                        "harmony",
+                        "harmony"
+                    ]
+                }
+            ]
+        }
+    }
+}

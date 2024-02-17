@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"波\"",
+        "strokes": 8,
+        "main_meanings": [
+            "waves",
+            "billows",
+            "Poland"
+        ],
+        "main_readings": {
+            "kun": [
+                "なみ"
+            ],
+            "on": [
+                "ハ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "298": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "387": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "367": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "606": "A New Dictionary of Kanji Usage",
+                "2529": "Classic Nelson (Andrew Nelson)",
+                "484": "Essential Kanji (P.G. O’Neill)",
+                "677": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "596": "Japanese Names (P.G. O’Neill)",
+                "666": "Kanji and Kana (Spahn and Hadamitzky)",
+                "913": "Kanji in Context (Nishiguchi and Kono)",
+                "1177": "Kodansha Compact Kanji Guide",
+                "388": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "245": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "292": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "811": "Les Kanjis dans la tete (Yves Maniette)",
+                "17308": "Morohashi",
+                "330": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3101": "New Nelson (John Haig)",
+                "803": "Remembering The Kanji (James Heisig)",
+                "866": "Remembering The Kanji, 6th edition (James Heisig)",
+                "309": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "367": "2001 Kanji",
+                "3a5.9": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3414.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-40": "JIS X 0208-1997 kuten code",
+                "6ce2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひら、 みな、 みなみ、 わ"
+                ],
+                "chinese": [
+                    "bo1",
+                    "po1"
+                ],
+                "korean": [
+                    "pa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "又",
+                "汁",
+                "皮"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "波",
+                    "reading": "なみ",
+                    "meanings": [
+                        "wave",
+                        "ups and downs"
+                    ]
+                },
+                {
+                    "kanji": "波間",
+                    "reading": "なみま",
+                    "meanings": [
+                        "interval between the waves",
+                        "gap between waves"
+                    ]
+                },
+                {
+                    "kanji": "高波",
+                    "reading": "たかなみ",
+                    "meanings": [
+                        "high waves",
+                        "heavy seas"
+                    ]
+                },
+                {
+                    "kanji": "横波",
+                    "reading": "よこなみ",
+                    "meanings": [
+                        "transverse wave",
+                        "beam sea"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "波",
+                    "reading": "ハ",
+                    "meanings": [
+                        "counter for waves (of a repeated occurrence)"
+                    ]
+                },
+                {
+                    "kanji": "波及",
+                    "reading": "ハキュウ",
+                    "meanings": [
+                        "spread",
+                        "extension",
+                        "influence",
+                        "aftereffect",
+                        "ripple"
+                    ]
+                },
+                {
+                    "kanji": "低周波",
+                    "reading": "テイシュウハ",
+                    "meanings": [
+                        "low frequency"
+                    ]
+                },
+                {
+                    "kanji": "横波",
+                    "reading": "ヨコナミ",
+                    "meanings": [
+                        "transverse wave",
+                        "beam sea"
+                    ]
+                }
+            ]
+        }
+    }
+}

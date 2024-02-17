@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"辛\"",
+        "strokes": 7,
+        "main_meanings": [
+            "spicy",
+            "bitter",
+            "hot",
+            "acrid"
+        ],
+        "main_readings": {
+            "kun": [
+                "から.い",
+                "つら.い",
+                "-づら.い",
+                "かのと"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1432": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1628": "A New Dictionary of Kanji Usage",
+                "4646": "Classic Nelson (Andrew Nelson)",
+                "1312": "Essential Kanji (P.G. O’Neill)",
+                "944": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "493": "Japanese Names (P.G. O’Neill)",
+                "1487": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1584": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "344": "Kanji in Context (Nishiguchi and Kono)",
+                "1784": "Kodansha Compact Kanji Guide",
+                "2531": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1287": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1755": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1510": "Les Kanjis dans la tete (Yves Maniette)",
+                "38630": "Morohashi",
+                "2038": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5996": "New Nelson (John Haig)",
+                "1496": "Remembering The Kanji (James Heisig)",
+                "1612": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1144": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "455": "2001 Kanji",
+                "5b2.2": "The Kanji Dictionary",
+                "2-2-5": "SKIP code",
+                "2-5-2": "SKIP code",
+                "0040.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-41": "JIS X 0208-1997 kuten code",
+                "8f9b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xin1"
+                ],
+                "korean": [
+                    "sin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bitter",
+            "parts": [
+                "十",
+                "立",
+                "辛"
+            ],
+            "basis": "辛",
+            "kangxi_order": 160,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "辛い",
+                    "reading": "からい",
+                    "meanings": [
+                        "spicy",
+                        "hot",
+                        "salty",
+                        "harsh (criticism)",
+                        "severe (punishment)",
+                        "strict",
+                        "painful",
+                        "bitter",
+                        "difficult",
+                        "tough"
+                    ]
+                },
+                {
+                    "kanji": "辛い味",
+                    "reading": "からいあじ",
+                    "meanings": [
+                        "pungent taste"
+                    ]
+                },
+                {
+                    "kanji": "辛い",
+                    "reading": "つらい",
+                    "meanings": [
+                        "painful",
+                        "bitter",
+                        "heart-breaking",
+                        "difficult (emotionally)",
+                        "tough",
+                        "difficult",
+                        "hard (usu. of situations)",
+                        "cruel",
+                        "harsh",
+                        "cold"
+                    ]
+                },
+                {
+                    "kanji": "辛い目に会う",
+                    "reading": "つらいめにあう",
+                    "meanings": [
+                        "to have a hard time of it"
+                    ]
+                },
+                {
+                    "kanji": "辛",
+                    "reading": "かのと",
+                    "meanings": [
+                        "8th in rank",
+                        "eighth sign of the Chinese calendar"
+                    ]
+                },
+                {
+                    "kanji": "辛卯",
+                    "reading": "かのとう",
+                    "meanings": [
+                        "Metal Rabbit (28th term of the sexagenary cycle",
+                        "e.g. 1951",
+                        "2011",
+                        "2071)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "辛",
+                    "reading": "カノト",
+                    "meanings": [
+                        "8th in rank",
+                        "eighth sign of the Chinese calendar"
+                    ]
+                },
+                {
+                    "kanji": "辛抱",
+                    "reading": "シンボウ",
+                    "meanings": [
+                        "patience",
+                        "endurance",
+                        "perseverance"
+                    ]
+                },
+                {
+                    "kanji": "細辛",
+                    "reading": "サイシン",
+                    "meanings": [
+                        "Siebold's wild ginger (esp. its dried root or rhizome",
+                        "used as an antitussive and analgesic in traditional Chinese medicine)"
+                    ]
+                },
+                {
+                    "kanji": "薄葉細辛",
+                    "reading": "ウスバサイシン",
+                    "meanings": [
+                        "Siebold's wild ginger (Asarum sieboldii)"
+                    ]
+                }
+            ]
+        }
+    }
+}

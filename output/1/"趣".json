@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"趣\"",
+        "strokes": 15,
+        "main_meanings": [
+            "purport",
+            "gist",
+            "elegance",
+            "interest",
+            "proceed to",
+            "tend",
+            "become"
+        ],
+        "main_readings": {
+            "kun": [
+                "おもむき",
+                "おもむ.く"
+            ],
+            "on": [
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1350": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1193": "A New Dictionary of Kanji Usage",
+                "4544": "Classic Nelson (Andrew Nelson)",
+                "1047": "Essential Kanji (P.G. O’Neill)",
+                "1790": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2422": "Japanese Names (P.G. O’Neill)",
+                "1002": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1039": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "310": "Kanji in Context (Nishiguchi and Kono)",
+                "1758": "Kodansha Compact Kanji Guide",
+                "4111": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2087": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2827": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "828": "Les Kanjis dans la tete (Yves Maniette)",
+                "37207": "Morohashi",
+                "3317": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5854": "New Nelson (John Haig)",
+                "820": "Remembering The Kanji (James Heisig)",
+                "883": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1805": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1470": "2001 Kanji",
+                "6e9.1": "The Kanji Dictionary",
+                "3-7-8": "SKIP code",
+                "4780.4": "Four corner code",
+                "4180.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-81": "JIS X 0208-1997 kuten code",
+                "8da3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qu4",
+                    "cu4"
+                ],
+                "korean": [
+                    "chwi",
+                    "chug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "赱"
+            ],
+            "meaning": "run",
+            "parts": [
+                "又",
+                "土",
+                "耳",
+                "走"
+            ],
+            "basis": "走",
+            "kangxi_order": 156,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "趣",
+                    "reading": "おもむき",
+                    "meanings": [
+                        "meaning",
+                        "tenor",
+                        "gist",
+                        "effect",
+                        "influence",
+                        "appearance",
+                        "aspect",
+                        "grace",
+                        "charm",
+                        "refinement",
+                        "taste",
+                        "elegance"
+                    ]
+                },
+                {
+                    "kanji": "趣のある",
+                    "reading": "おもむきのある",
+                    "meanings": [
+                        "tasteful",
+                        "elegant",
+                        "refined",
+                        "charming",
+                        "attractive"
+                    ]
+                },
+                {
+                    "kanji": "赴く",
+                    "reading": "おもむく",
+                    "meanings": [
+                        "to go in the direction of",
+                        "to proceed toward",
+                        "to proceed according to",
+                        "to repair to",
+                        "to betake oneself to",
+                        "to become",
+                        "to face (facts",
+                        "circumstances",
+                        "etc.)",
+                        "to abide by",
+                        "to agree to",
+                        "to consent to",
+                        "to obey"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "趣旨",
+                    "reading": "シュシ",
+                    "meanings": [
+                        "meaning",
+                        "point (e.g. of a statement)",
+                        "gist",
+                        "effect",
+                        "goal",
+                        "intent",
+                        "object",
+                        "aim",
+                        "point"
+                    ]
+                },
+                {
+                    "kanji": "趣向",
+                    "reading": "シュコウ",
+                    "meanings": [
+                        "plan",
+                        "idea",
+                        "design",
+                        "plot",
+                        "taste",
+                        "liking",
+                        "preference"
+                    ]
+                },
+                {
+                    "kanji": "異趣",
+                    "reading": "イシュ",
+                    "meanings": [
+                        "extraordinary appearance"
+                    ]
+                },
+                {
+                    "kanji": "意趣",
+                    "reading": "イシュ",
+                    "meanings": [
+                        "grudge",
+                        "malice",
+                        "spite",
+                        "intention",
+                        "disposition",
+                        "obstinacy",
+                        "reason",
+                        "revenge"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"奨\"",
+        "strokes": 13,
+        "main_meanings": [
+            "exhort",
+            "urge",
+            "encourage"
+        ],
+        "main_readings": {
+            "kun": [
+                "すす.める"
+            ],
+            "on": [
+                "ショウ",
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1408": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1582": "A New Dictionary of Kanji Usage",
+                "1181": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1519": "Essential Kanji (P.G. O’Neill)",
+                "2036": "Japanese Names (P.G. O’Neill)",
+                "1332": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1415": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "831": "Kanji in Context (Nishiguchi and Kono)",
+                "420": "Kodansha Compact Kanji Guide",
+                "3524": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1819": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2474": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "740": "Les Kanjis dans la tete (Yves Maniette)",
+                "5990P": "Morohashi",
+                "2842": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1167": "New Nelson (John Haig)",
+                "732": "Remembering The Kanji (James Heisig)",
+                "790": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1616": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1263": "2001 Kanji",
+                "3n10.4": "The Kanji Dictionary",
+                "2-10-3": "SKIP code",
+                "3243.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-09": "JIS X 0208-1997 kuten code",
+                "5968": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まさし"
+                ],
+                "chinese": [
+                    "jiang3"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "big,",
+            "parts": [
+                "大",
+                "寸",
+                "爪",
+                "爿"
+            ],
+            "basis": "大",
+            "kangxi_order": 37,
+            "variants": [
+                "奬"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "勧める",
+                    "reading": "すすめる",
+                    "meanings": [
+                        "to recommend (someone to do)",
+                        "to advise",
+                        "to encourage",
+                        "to urge",
+                        "to recommend (a book",
+                        "someone for a position",
+                        "etc.)",
+                        "to suggest",
+                        "to offer (a drink",
+                        "cigarette",
+                        "seat",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "奨学",
+                    "reading": "ショウガク",
+                    "meanings": [
+                        "encouragement to study"
+                    ]
+                },
+                {
+                    "kanji": "奨学金",
+                    "reading": "ショウガクキン",
+                    "meanings": [
+                        "scholarship",
+                        "stipend",
+                        "bursary",
+                        "student loan"
+                    ]
+                },
+                {
+                    "kanji": "勧奨",
+                    "reading": "カンショウ",
+                    "meanings": [
+                        "encouragement",
+                        "stimulation"
+                    ]
+                },
+                {
+                    "kanji": "推奨",
+                    "reading": "スイショウ",
+                    "meanings": [
+                        "recommendation",
+                        "endorsement"
+                    ]
+                }
+            ]
+        }
+    }
+}

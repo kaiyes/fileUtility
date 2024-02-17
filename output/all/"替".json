@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"替\"",
+        "strokes": 12,
+        "main_meanings": [
+            "exchange",
+            "spare",
+            "substitute",
+            "per-"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.える",
+                "か.え-",
+                "か.わる"
+            ],
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1548": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "849": "A New Dictionary of Kanji Usage",
+                "2140": "Classic Nelson (Andrew Nelson)",
+                "1398": "Essential Kanji (P.G. O’Neill)",
+                "611": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "744": "Kanji and Kana (Spahn and Hadamitzky)",
+                "757": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "375": "Kanji in Context (Nishiguchi and Kono)",
+                "1001": "Kodansha Compact Kanji Guide",
+                "3457": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1780": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2424": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "850": "Les Kanjis dans la tete (Yves Maniette)",
+                "14300": "Morohashi",
+                "2783": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2486": "New Nelson (John Haig)",
+                "842": "Remembering The Kanji (James Heisig)",
+                "905": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1547": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1478": "2001 Kanji",
+                "4c8.12": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "5560.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-56": "JIS X 0208-1997 kuten code",
+                "66ff": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かえ"
+                ],
+                "chinese": [
+                    "ti4"
+                ],
+                "korean": [
+                    "che"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "say",
+            "parts": [
+                "二",
+                "亠",
+                "人",
+                "大",
+                "日"
+            ],
+            "basis": "曰",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "換える",
+                    "reading": "かえる",
+                    "meanings": [
+                        "to replace",
+                        "to exchange",
+                        "to interchange",
+                        "to substitute"
+                    ]
+                },
+                {
+                    "kanji": "替わる",
+                    "reading": "かわる",
+                    "meanings": [
+                        "to succeed",
+                        "to relieve",
+                        "to replace",
+                        "to take the place of",
+                        "to substitute for",
+                        "to take over for",
+                        "to represent",
+                        "to hand over (telephone)",
+                        "to be exchanged",
+                        "to change (places with)",
+                        "to switch"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "移替",
+                    "reading": "イタイ",
+                    "meanings": [
+                        "changing (person in charge",
+                        "etc.)",
+                        "shifting"
+                    ]
+                },
+                {
+                    "kanji": "衰替",
+                    "reading": "スイタイ",
+                    "meanings": [
+                        "weakening",
+                        "declining"
+                    ]
+                }
+            ]
+        }
+    }
+}

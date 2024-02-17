@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"車\"",
+        "strokes": 7,
+        "main_meanings": [
+            "car"
+        ],
+        "main_readings": {
+            "kun": [
+                "くるま"
+            ],
+            "on": [
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "88": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "63": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "31": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "162": "A New Dictionary of Kanji Usage",
+                "4608": "Classic Nelson (Andrew Nelson)",
+                "54": "Essential Kanji (P.G. O’Neill)",
+                "91": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "532": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "133": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "62": "Kanji in Context (Nishiguchi and Kono)",
+                "1769": "Kodansha Compact Kanji Guide",
+                "4367": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2212": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2976": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "292": "Les Kanjis dans la tete (Yves Maniette)",
+                "38172": "Morohashi",
+                "3552": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5939": "New Nelson (John Haig)",
+                "286": "Remembering The Kanji (James Heisig)",
+                "304": "Remembering The Kanji, 6th edition (James Heisig)",
+                "231": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "64": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1555": "2001 Kanji",
+                "7c0.1": "The Kanji Dictionary",
+                "4-7-3": "SKIP code",
+                "5000.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-54": "JIS X 0208-1997 kuten code",
+                "8eca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くら、 くろま"
+                ],
+                "chinese": [
+                    "che1",
+                    "ju1"
+                ],
+                "korean": [
+                    "cha",
+                    "geo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "車",
+                    "reading": "くるま",
+                    "meanings": [
+                        "car",
+                        "automobile",
+                        "vehicle",
+                        "wheel",
+                        "castor",
+                        "caster"
+                    ]
+                },
+                {
+                    "kanji": "車椅子",
+                    "reading": "くるまいす",
+                    "meanings": [
+                        "wheelchair"
+                    ]
+                },
+                {
+                    "kanji": "火の車",
+                    "reading": "ひのくるま",
+                    "meanings": [
+                        "fiery chariot (that carries the souls of sinners into hell)",
+                        "desperate financial situation",
+                        "dire straits"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "車",
+                    "reading": "シャ",
+                    "meanings": [
+                        "car",
+                        "vehicle",
+                        "van",
+                        "truck",
+                        "wagon",
+                        "lorry",
+                        "(train) car",
+                        "carriage"
+                    ]
+                },
+                {
+                    "kanji": "車検",
+                    "reading": "シャケン",
+                    "meanings": [
+                        "vehicle inspection"
+                    ]
+                },
+                {
+                    "kanji": "軽自動車",
+                    "reading": "ケイジドウシャ",
+                    "meanings": [
+                        "light motor vehicle (up to 660cc and 64bhp)",
+                        "k-car",
+                        "kei car"
+                    ]
+                },
+                {
+                    "kanji": "台車",
+                    "reading": "ダイシャ",
+                    "meanings": [
+                        "platform truck",
+                        "hand truck",
+                        "trolley",
+                        "dolly",
+                        "cart",
+                        "truck",
+                        "bogie"
+                    ]
+                }
+            ]
+        }
+    }
+}

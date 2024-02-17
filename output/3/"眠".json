@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"眠\"",
+        "strokes": 10,
+        "main_meanings": [
+            "sleep",
+            "die",
+            "sleepy"
+        ],
+        "main_readings": {
+            "kun": [
+                "ねむ.る",
+                "ねむ.い"
+            ],
+            "on": [
+                "ミン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1842": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1298": "A New Dictionary of Kanji Usage",
+                "3132": "Classic Nelson (Andrew Nelson)",
+                "1144": "Essential Kanji (P.G. O’Neill)",
+                "762": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1376": "Japanese Names (P.G. O’Neill)",
+                "3.17": "Japanese for Busy People",
+                "849": "Kanji and Kana (Spahn and Hadamitzky)",
+                "868": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "978": "Kanji in Context (Nishiguchi and Kono)",
+                "1386": "Kodansha Compact Kanji Guide",
+                "1474": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "782": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1061": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1852": "Les Kanjis dans la tete (Yves Maniette)",
+                "23240": "Morohashi",
+                "1147": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3925": "New Nelson (John Haig)",
+                "1835": "Remembering The Kanji (James Heisig)",
+                "1977": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1371": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3956": "2001 Kanji",
+                "5c5.2": "The Kanji Dictionary",
+                "1-5-5": "SKIP code",
+                "6704.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-18": "JIS X 0208-1997 kuten code",
+                "7720": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ね"
+                ],
+                "chinese": [
+                    "mian2"
+                ],
+                "korean": [
+                    "myeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eye",
+            "parts": [
+                "口",
+                "尸",
+                "氏",
+                "目"
+            ],
+            "basis": "目",
+            "kangxi_order": 109,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "眠る",
+                    "reading": "ねむる",
+                    "meanings": [
+                        "to sleep",
+                        "to die",
+                        "to rest (in peace)",
+                        "to lie (buried)",
+                        "to sleep (in the grave)",
+                        "to lie idle (e.g. of resources)",
+                        "to lie unused",
+                        "to lie untapped",
+                        "to lie untouched",
+                        "to close one's eyes"
+                    ]
+                },
+                {
+                    "kanji": "眠い",
+                    "reading": "ねむい",
+                    "meanings": [
+                        "sleepy",
+                        "drowsy",
+                        "somnolent"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "眠剤",
+                    "reading": "ミンザイ",
+                    "meanings": [
+                        "sleeping pills"
+                    ]
+                },
+                {
+                    "kanji": "冬眠",
+                    "reading": "トウミン",
+                    "meanings": [
+                        "hibernation",
+                        "winter sleep",
+                        "torpor"
+                    ]
+                },
+                {
+                    "kanji": "安眠",
+                    "reading": "アンミン",
+                    "meanings": [
+                        "sound sleep",
+                        "good sleep",
+                        "quiet sleep"
+                    ]
+                }
+            ]
+        }
+    }
+}

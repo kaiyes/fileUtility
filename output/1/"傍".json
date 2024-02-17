@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"傍\"",
+        "strokes": 12,
+        "main_meanings": [
+            "bystander",
+            "side",
+            "besides",
+            "while",
+            "nearby",
+            "third person"
+        ],
+        "main_readings": {
+            "kun": [
+                "かたわ.ら",
+                "わき",
+                "おか-",
+                "はた",
+                "そば"
+            ],
+            "on": [
+                "ボウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1815": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1689": "A New Dictionary of Kanji Usage",
+                "520": "Classic Nelson (Andrew Nelson)",
+                "1406": "Essential Kanji (P.G. O’Neill)",
+                "1062": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1538": "Japanese Names (P.G. O’Neill)",
+                "1183": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1242": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1429": "Kanji in Context (Nishiguchi and Kono)",
+                "125": "Kodansha Compact Kanji Guide",
+                "166": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "110": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "127": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1024": "Les Kanjis dans la tete (Yves Maniette)",
+                "948": "Morohashi",
+                "147": "New Japanese English Character Dictionary (Jack Halpern)",
+                "286": "New Nelson (John Haig)",
+                "1015": "Remembering The Kanji (James Heisig)",
+                "1090": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1506": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2145": "2001 Kanji",
+                "2a10.6": "The Kanji Dictionary",
+                "1-2-10": "SKIP code",
+                "2022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-21": "JIS X 0208-1997 kuten code",
+                "508d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "び"
+                ],
+                "chinese": [
+                    "bang4",
+                    "bang1"
+                ],
+                "korean": [
+                    "bang",
+                    "paeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "亠",
+                "化",
+                "并",
+                "冖",
+                "方",
+                "立"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "傍ら",
+                    "reading": "かたわら",
+                    "meanings": [
+                        "side",
+                        "edge",
+                        "beside",
+                        "besides",
+                        "nearby",
+                        "while (doing)",
+                        "in addition to",
+                        "at the same time"
+                    ]
+                },
+                {
+                    "kanji": "傍らに",
+                    "reading": "かたわらに",
+                    "meanings": [
+                        "beside",
+                        "nearby"
+                    ]
+                },
+                {
+                    "kanji": "脇役",
+                    "reading": "わきやく",
+                    "meanings": [
+                        "supporting role (actor)",
+                        "minor role"
+                    ]
+                },
+                {
+                    "kanji": "脇見",
+                    "reading": "わきみ",
+                    "meanings": [
+                        "looking from the side",
+                        "looking aside"
+                    ]
+                },
+                {
+                    "kanji": "側",
+                    "reading": "そば",
+                    "meanings": [
+                        "near",
+                        "close",
+                        "beside",
+                        "vicinity",
+                        "proximity",
+                        "besides",
+                        "while",
+                        "third person"
+                    ]
+                },
+                {
+                    "kanji": "端から",
+                    "reading": "はたから",
+                    "meanings": [
+                        "from outside",
+                        "from the side"
+                    ]
+                },
+                {
+                    "kanji": "側",
+                    "reading": "そば",
+                    "meanings": [
+                        "near",
+                        "close",
+                        "beside",
+                        "vicinity",
+                        "proximity",
+                        "besides",
+                        "while",
+                        "third person"
+                    ]
+                },
+                {
+                    "kanji": "側から",
+                    "reading": "そばから",
+                    "meanings": [
+                        "as soon as",
+                        "right after"
+                    ]
+                },
+                {
+                    "kanji": "お側",
+                    "reading": "おそば",
+                    "meanings": [
+                        "near",
+                        "close",
+                        "beside",
+                        "vicinity",
+                        "proximity",
+                        "besides",
+                        "while",
+                        "attendant",
+                        "retainer",
+                        "vassal"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "傍聴",
+                    "reading": "ボウチョウ",
+                    "meanings": [
+                        "listening (to a lecture",
+                        "hearing",
+                        "parliament session",
+                        "etc.)",
+                        "attending (without participating)",
+                        "sitting in (e.g. on a meeting)",
+                        "observing"
+                    ]
+                },
+                {
+                    "kanji": "脇見",
+                    "reading": "ワキミ",
+                    "meanings": [
+                        "looking from the side",
+                        "looking aside"
+                    ]
+                },
+                {
+                    "kanji": "路傍",
+                    "reading": "ロボウ",
+                    "meanings": [
+                        "roadside"
+                    ]
+                },
+                {
+                    "kanji": "道傍",
+                    "reading": "ドウボウ",
+                    "meanings": [
+                        "side of the road",
+                        "roadside"
+                    ]
+                }
+            ]
+        }
+    }
+}

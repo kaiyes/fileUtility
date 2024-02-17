@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"憤\"",
+        "strokes": 15,
+        "main_meanings": [
+            "aroused",
+            "resent",
+            "be indignant",
+            "anger"
+        ],
+        "main_readings": {
+            "kun": [
+                "いきどお.る"
+            ],
+            "on": [
+                "フン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1772": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1796": "A New Dictionary of Kanji Usage",
+                "1773": "Classic Nelson (Andrew Nelson)",
+                "1254": "Essential Kanji (P.G. O’Neill)",
+                "1320": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1661": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1775": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1634": "Kanji in Context (Nishiguchi and Kono)",
+                "830": "Kodansha Compact Kanji Guide",
+                "897": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "512": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "662": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1207": "Les Kanjis dans la tete (Yves Maniette)",
+                "11239": "Morohashi",
+                "730": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1990": "New Nelson (John Haig)",
+                "1199": "Remembering The Kanji (James Heisig)",
+                "1283": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1765": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1161": "2001 Kanji",
+                "4k12.6": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "1-1-14": "SKIP code",
+                "9408.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-16": "JIS X 0208-1997 kuten code",
+                "61a4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fen4"
+                ],
+                "korean": [
+                    "bun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "ハ",
+                "十",
+                "忙",
+                "艾",
+                "目",
+                "貝"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "憤る",
+                    "reading": "いきどおる",
+                    "meanings": [
+                        "to be angry",
+                        "to resent",
+                        "to be enraged",
+                        "to be indignant"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "憤慨",
+                    "reading": "フンガイ",
+                    "meanings": [
+                        "indignation",
+                        "resentment"
+                    ]
+                },
+                {
+                    "kanji": "憤激",
+                    "reading": "フンゲキ",
+                    "meanings": [
+                        "fury",
+                        "flying into a rage",
+                        "outrage"
+                    ]
+                },
+                {
+                    "kanji": "公憤",
+                    "reading": "コウフン",
+                    "meanings": [
+                        "public indignation",
+                        "anger (as a citizen)"
+                    ]
+                },
+                {
+                    "kanji": "痛憤",
+                    "reading": "ツウフン",
+                    "meanings": [
+                        "strong indignation"
+                    ]
+                }
+            ]
+        }
+    }
+}

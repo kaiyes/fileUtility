@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"壁\"",
+        "strokes": 16,
+        "main_meanings": [
+            "wall",
+            "lining (stomach)",
+            "fence"
+        ],
+        "main_readings": {
+            "kun": [
+                "かべ"
+            ],
+            "on": [
+                "ヘキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1780": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1064": "A New Dictionary of Kanji Usage",
+                "1148": "Classic Nelson (Andrew Nelson)",
+                "1369": "Essential Kanji (P.G. O’Neill)",
+                "442": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2585": "Japanese Names (P.G. O’Neill)",
+                "1489": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1587": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1029": "Kanji in Context (Nishiguchi and Kono)",
+                "366": "Kodansha Compact Kanji Guide",
+                "3601": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1849": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2515": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1514": "Les Kanjis dans la tete (Yves Maniette)",
+                "5516": "Morohashi",
+                "2895": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1103": "New Nelson (John Haig)",
+                "1500": "Remembering The Kanji (James Heisig)",
+                "1616": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1826": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3772": "2001 Kanji",
+                "3b13.7": "The Kanji Dictionary",
+                "2-13-3": "SKIP code",
+                "7010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-41": "JIS X 0208-1997 kuten code",
+                "58c1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bi4"
+                ],
+                "korean": [
+                    "byeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "十",
+                "口",
+                "土",
+                "尸",
+                "立",
+                "辛"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "壁",
+                    "reading": "かべ",
+                    "meanings": [
+                        "wall",
+                        "partition",
+                        "barrier",
+                        "obstacle",
+                        "Chinese \"Wall\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "壁掛け",
+                    "reading": "かべかけ",
+                    "meanings": [
+                        "wall-mounted ornament",
+                        "wall decoration",
+                        "wall hanging",
+                        "wall-mounted"
+                    ]
+                },
+                {
+                    "kanji": "白壁",
+                    "reading": "しらかべ",
+                    "meanings": [
+                        "white plaster wall",
+                        "tofu",
+                        "bean curd"
+                    ]
+                },
+                {
+                    "kanji": "厚い壁",
+                    "reading": "あついかべ",
+                    "meanings": [
+                        "hard-to-overcome obstacle",
+                        "high hurdle",
+                        "thick wall"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "壁",
+                    "reading": "カベ",
+                    "meanings": [
+                        "wall",
+                        "partition",
+                        "barrier",
+                        "obstacle",
+                        "Chinese \"Wall\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "壁画",
+                    "reading": "ヘキガ",
+                    "meanings": [
+                        "fresco",
+                        "mural",
+                        "wall painting"
+                    ]
+                },
+                {
+                    "kanji": "隔壁",
+                    "reading": "カクヘキ",
+                    "meanings": [
+                        "barrier wall",
+                        "bulkhead",
+                        "partition",
+                        "septum",
+                        "diaphragm"
+                    ]
+                },
+                {
+                    "kanji": "内壁",
+                    "reading": "ナイヘキ",
+                    "meanings": [
+                        "inner wall"
+                    ]
+                }
+            ]
+        }
+    }
+}

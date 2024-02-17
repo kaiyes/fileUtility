@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寮\"",
+        "strokes": 15,
+        "main_meanings": [
+            "dormitory",
+            "hostel",
+            "villa",
+            "tea pavillion"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1910": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1462": "A New Dictionary of Kanji Usage",
+                "1340": "Classic Nelson (Andrew Nelson)",
+                "1459": "Essential Kanji (P.G. O’Neill)",
+                "1219": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2364": "Japanese Names (P.G. O’Neill)",
+                "1323": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1405": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1183": "Kanji in Context (Nishiguchi and Kono)",
+                "498": "Kodansha Compact Kanji Guide",
+                "2984": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1526": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2079": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1724": "Les Kanjis dans la tete (Yves Maniette)",
+                "7325": "Morohashi",
+                "2359": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1366": "New Nelson (John Haig)",
+                "1708": "Remembering The Kanji (James Heisig)",
+                "1844": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1754": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "741": "2001 Kanji",
+                "3m12.2": "The Kanji Dictionary",
+                "2-3-12": "SKIP code",
+                "3090.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-32": "JIS X 0208-1997 kuten code",
+                "5bee": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "liao2"
+                ],
+                "korean": [
+                    "ryo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "并",
+                "大",
+                "宀",
+                "小",
+                "日"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "寮",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "hostel",
+                        "dormitory",
+                        "bureau (government department beneath a ministry under the ritsuryō system)",
+                        "tea-ceremony room",
+                        "villa"
+                    ]
+                },
+                {
+                    "kanji": "寮生",
+                    "reading": "リョウセイ",
+                    "meanings": [
+                        "boarder",
+                        "boarding student"
+                    ]
+                },
+                {
+                    "kanji": "大炊寮",
+                    "reading": "オオイリョウ",
+                    "meanings": [
+                        "Bureau of the Imperial Palace Kitchens (under the ritsuryō system)"
+                    ]
+                },
+                {
+                    "kanji": "女男性寮",
+                    "reading": "メオセイリョウ",
+                    "meanings": [
+                        "co-ed dormitory",
+                        "mixed student accommodation"
+                    ]
+                }
+            ]
+        }
+    }
+}

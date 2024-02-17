@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"片\"",
+        "strokes": 4,
+        "main_meanings": [
+            "one-sided",
+            "leaf",
+            "sheet",
+            "right-side kata radical (no. 91)"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた-",
+                "かた"
+            ],
+            "on": [
+                "ヘン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "980": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "969": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "905": "A New Dictionary of Kanji Usage",
+                "2842": "Classic Nelson (Andrew Nelson)",
+                "937": "Essential Kanji (P.G. O’Neill)",
+                "724": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "82": "Japanese Names (P.G. O’Neill)",
+                "1045": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1088": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1143": "Kanji in Context (Nishiguchi and Kono)",
+                "1287": "Kodansha Compact Kanji Guide",
+                "4272": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2158": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2910": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1220": "Les Kanjis dans la tete (Yves Maniette)",
+                "19813": "Morohashi",
+                "3461": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3525": "New Nelson (John Haig)",
+                "1212": "Remembering The Kanji (James Heisig)",
+                "1297": "Remembering The Kanji, 6th edition (James Heisig)",
+                "833": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1254": "2001 Kanji",
+                "2j2.5": "The Kanji Dictionary",
+                "4-4-4": "SKIP code",
+                "3-3-1": "SKIP code",
+                "2202.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-50": "JIS X 0208-1997 kuten code",
+                "7247": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pian4",
+                    "pian1"
+                ],
+                "korean": [
+                    "pyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "slice",
+            "parts": [
+                "片"
+            ],
+            "basis": "片",
+            "kangxi_order": 91,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "片",
+                    "reading": "かた",
+                    "meanings": [
+                        "one (of a pair)",
+                        "incomplete",
+                        "imperfect",
+                        "fragmentary",
+                        "few",
+                        "little",
+                        "off-centre",
+                        "remote",
+                        "side",
+                        "problem",
+                        "question",
+                        "matters"
+                    ]
+                },
+                {
+                    "kanji": "片側",
+                    "reading": "かたがわ",
+                    "meanings": [
+                        "one side"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "片",
+                    "reading": "ヘン",
+                    "meanings": [
+                        "counter for scraps",
+                        "fragments",
+                        "petals",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "片時",
+                    "reading": "カタトキ",
+                    "meanings": [
+                        "a (single) moment",
+                        "an instant"
+                    ]
+                },
+                {
+                    "kanji": "紙片",
+                    "reading": "シヘン",
+                    "meanings": [
+                        "piece (scrap",
+                        "bit",
+                        "strip) of paper"
+                    ]
+                },
+                {
+                    "kanji": "砕片",
+                    "reading": "サイヘン",
+                    "meanings": [
+                        "debris"
+                    ]
+                }
+            ]
+        }
+    }
+}

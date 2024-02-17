@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"泉\"",
+        "strokes": 9,
+        "main_meanings": [
+            "spring",
+            "fountain"
+        ],
+        "main_readings": {
+            "kun": [
+                "いずみ"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "926": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "915": "Essential Kanji (P.G. O’Neill)",
+                "902": "A New Dictionary of Kanji Usage",
+                "3099": "Classic Nelson (Andrew Nelson)",
+                "674": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "965": "Japanese Names (P.G. O’Neill)",
+                "1192": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1253": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "840": "Kanji in Context (Nishiguchi and Kono)",
+                "1154": "Kodansha Compact Kanji Guide",
+                "3176": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1636": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2224": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "135": "Les Kanjis dans la tete (Yves Maniette)",
+                "17274": "Morohashi",
+                "2567": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3095": "New Nelson (John Haig)",
+                "133": "Remembering The Kanji (James Heisig)",
+                "140": "Remembering The Kanji, 6th edition (James Heisig)",
+                "887": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "842": "2001 Kanji",
+                "3a5.33": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "2623.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-84": "JIS X 0208-1997 kuten code",
+                "6cc9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いず、 ずい、 ずみ、 ぜい、 ぜん、 の"
+                ],
+                "chinese": [
+                    "quan2"
+                ],
+                "korean": [
+                    "cheon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "水",
+                "白"
+            ],
+            "basis": "水",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "泉",
+                    "reading": "いずみ",
+                    "meanings": [
+                        "spring",
+                        "fountain"
+                    ]
+                },
+                {
+                    "kanji": "泉熱",
+                    "reading": "いずみねつ",
+                    "meanings": [
+                        "Izumi fever (resembles scarlet fever)"
+                    ]
+                },
+                {
+                    "kanji": "知識の泉",
+                    "reading": "ちしきのいずみ",
+                    "meanings": [
+                        "source of knowledge"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "泉水",
+                    "reading": "センスイ",
+                    "meanings": [
+                        "garden pond",
+                        "miniature lake",
+                        "fountain"
+                    ]
+                },
+                {
+                    "kanji": "泉下",
+                    "reading": "センカ",
+                    "meanings": [
+                        "Hades",
+                        "the hereafter"
+                    ]
+                },
+                {
+                    "kanji": "源泉",
+                    "reading": "ゲンセン",
+                    "meanings": [
+                        "source (of a spring",
+                        "etc.)",
+                        "source (of payment",
+                        "energy",
+                        "knowledge",
+                        "etc.)",
+                        "origin",
+                        "wellspring"
+                    ]
+                },
+                {
+                    "kanji": "天然温泉",
+                    "reading": "テンネンオンセン",
+                    "meanings": [
+                        "natural hot spring"
+                    ]
+                }
+            ]
+        }
+    }
+}

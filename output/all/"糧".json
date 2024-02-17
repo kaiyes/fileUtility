@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"糧\"",
+        "strokes": 18,
+        "main_meanings": [
+            "provisions",
+            "food",
+            "bread"
+        ],
+        "main_readings": {
+            "kun": [
+                "かて"
+            ],
+            "on": [
+                "リョウ",
+                "ロウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1912": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1375": "A New Dictionary of Kanji Usage",
+                "3490": "Classic Nelson (Andrew Nelson)",
+                "1552": "Essential Kanji (P.G. O’Neill)",
+                "1616": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1704": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1820": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1282": "Kanji in Context (Nishiguchi and Kono)",
+                "1502": "Kodansha Compact Kanji Guide",
+                "1800": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "957": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1294": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "935": "Les Kanjis dans la tete (Yves Maniette)",
+                "27132": "Morohashi",
+                "1421": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4426": "New Nelson (John Haig)",
+                "926": "Remembering The Kanji (James Heisig)",
+                "995": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1900": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1072": "2001 Kanji",
+                "6b12.1": "The Kanji Dictionary",
+                "1-6-12": "SKIP code",
+                "9691.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-40": "JIS X 0208-1997 kuten code",
+                "7ce7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "liang2"
+                ],
+                "korean": [
+                    "ryang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rice",
+            "parts": [
+                "一",
+                "日",
+                "米",
+                "里"
+            ],
+            "basis": "米",
+            "kangxi_order": 119,
+            "variants": [
+                "粮"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "糧",
+                    "reading": "かて",
+                    "meanings": [
+                        "food",
+                        "provisions",
+                        "nourishment (mental",
+                        "spiritual",
+                        "etc.)",
+                        "sustenance (e.g. of one's life)",
+                        "source of encouragement"
+                    ]
+                },
+                {
+                    "kanji": "日々の糧",
+                    "reading": "ひびのかて",
+                    "meanings": [
+                        "one's daily bread"
+                    ]
+                },
+                {
+                    "kanji": "心の糧",
+                    "reading": "こころのかて",
+                    "meanings": [
+                        "food for thought"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "糧",
+                    "reading": "カテ",
+                    "meanings": [
+                        "food",
+                        "provisions",
+                        "nourishment (mental",
+                        "spiritual",
+                        "etc.)",
+                        "sustenance (e.g. of one's life)",
+                        "source of encouragement"
+                    ]
+                },
+                {
+                    "kanji": "糧食",
+                    "reading": "リョウショク",
+                    "meanings": [
+                        "provisions"
+                    ]
+                },
+                {
+                    "kanji": "衣糧",
+                    "reading": "イリョウ",
+                    "meanings": [
+                        "food and clothing"
+                    ]
+                },
+                {
+                    "kanji": "口糧",
+                    "reading": "コウリョウ",
+                    "meanings": [
+                        "rations"
+                    ]
+                },
+                {
+                    "kanji": "兵糧",
+                    "reading": "ヒョウロウ",
+                    "meanings": [
+                        "(army) provisions",
+                        "food"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"秋\"",
+        "strokes": 9,
+        "main_meanings": [
+            "autumn"
+        ],
+        "main_readings": {
+            "kun": [
+                "あき",
+                "とき"
+            ],
+            "on": [
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "89": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "156": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "140": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "540": "A New Dictionary of Kanji Usage",
+                "3273": "Classic Nelson (Andrew Nelson)",
+                "164": "Essential Kanji (P.G. O’Neill)",
+                "233": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "878": "Japanese Names (P.G. O’Neill)",
+                "2.20": "Japanese for Busy People",
+                "462": "Kanji and Kana (Spahn and Hadamitzky)",
+                "470": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "98": "Kanji in Context (Nishiguchi and Kono)",
+                "1431": "Kodansha Compact Kanji Guide",
+                "1464": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "776": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1054": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "909": "Les Kanjis dans la tete (Yves Maniette)",
+                "24940": "Morohashi",
+                "1139": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4131": "New Nelson (John Haig)",
+                "900": "Remembering The Kanji (James Heisig)",
+                "966": "Remembering The Kanji, 6th edition (James Heisig)",
+                "178": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2262": "2001 Kanji",
+                "5d4.1": "The Kanji Dictionary",
+                "1-5-4": "SKIP code",
+                "2998.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-09": "JIS X 0208-1997 kuten code",
+                "79cb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あい"
+                ],
+                "chinese": [
+                    "qiu1"
+                ],
+                "korean": [
+                    "chu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "火",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": [
+                "穐"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "秋",
+                    "reading": "あき",
+                    "meanings": [
+                        "autumn",
+                        "fall"
+                    ]
+                },
+                {
+                    "kanji": "秋口",
+                    "reading": "あきぐち",
+                    "meanings": [
+                        "beginning of autumn",
+                        "beginning of fall"
+                    ]
+                },
+                {
+                    "kanji": "春秋",
+                    "reading": "しゅんじゅう",
+                    "meanings": [
+                        "spring and autumn",
+                        "spring and fall",
+                        "years",
+                        "age",
+                        "The Spring and Autumn Annals",
+                        "The Chronicles of Lu",
+                        "Chunqiu",
+                        "Ch'un Ch'iu"
+                    ]
+                },
+                {
+                    "kanji": "中秋",
+                    "reading": "ちゅうしゅう",
+                    "meanings": [
+                        "15th day of the 8th lunar month",
+                        "eighth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "時",
+                    "reading": "とき",
+                    "meanings": [
+                        "time",
+                        "hour",
+                        "moment",
+                        "occasion",
+                        "case",
+                        "chance",
+                        "opportunity",
+                        "season",
+                        "the times",
+                        "the age",
+                        "the day",
+                        "tense"
+                    ]
+                },
+                {
+                    "kanji": "危急存亡の秋",
+                    "reading": "ききゅうそんぼうのとき",
+                    "meanings": [
+                        "crisis",
+                        "critical moment",
+                        "critical time"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "秋季",
+                    "reading": "シュウキ",
+                    "meanings": [
+                        "fall season",
+                        "autumn season"
+                    ]
+                },
+                {
+                    "kanji": "秋風",
+                    "reading": "アキカゼ",
+                    "meanings": [
+                        "autumn breeze",
+                        "fall breeze"
+                    ]
+                },
+                {
+                    "kanji": "今秋",
+                    "reading": "コンシュウ",
+                    "meanings": [
+                        "this autumn",
+                        "this fall",
+                        "autumn of this year"
+                    ]
+                },
+                {
+                    "kanji": "中秋",
+                    "reading": "チュウシュウ",
+                    "meanings": [
+                        "15th day of the 8th lunar month",
+                        "eighth month of the lunar calendar"
+                    ]
+                }
+            ]
+        }
+    }
+}

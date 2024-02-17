@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"褒\"",
+        "strokes": 15,
+        "main_meanings": [
+            "praise",
+            "extol"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほ.める"
+            ],
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1803": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1883": "A New Dictionary of Kanji Usage",
+                "331": "Classic Nelson (Andrew Nelson)",
+                "1732": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2556": "Japanese Names (P.G. O’Neill)",
+                "803": "Kanji and Kana (Spahn and Hadamitzky)",
+                "818": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1936": "Kanji in Context (Nishiguchi and Kono)",
+                "1629": "Kodansha Compact Kanji Guide",
+                "2662": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1356": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1841": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1007": "Les Kanjis dans la tete (Yves Maniette)",
+                "34437": "Morohashi",
+                "2144": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5483": "New Nelson (John Haig)",
+                "998": "Remembering The Kanji (James Heisig)",
+                "1073": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1797": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "465": "2001 Kanji",
+                "2j13.1": "The Kanji Dictionary",
+                "2-2-13": "SKIP code",
+                "0073.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-11": "JIS X 0208-1997 kuten code",
+                "8912": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bao1"
+                ],
+                "korean": [
+                    "po"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "亠",
+                "化",
+                "口",
+                "小",
+                "衣"
+            ],
+            "basis": "衣",
+            "kangxi_order": null,
+            "variants": [
+                "襃"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "褒める",
+                    "reading": "ほめる",
+                    "meanings": [
+                        "to praise",
+                        "to commend",
+                        "to compliment",
+                        "to speak well of",
+                        "to speak highly of"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "報奨金",
+                    "reading": "ホウショウキン",
+                    "meanings": [
+                        "cash bonus",
+                        "reward",
+                        "bounty"
+                    ]
+                },
+                {
+                    "kanji": "褒美",
+                    "reading": "ホウビ",
+                    "meanings": [
+                        "reward",
+                        "prize"
+                    ]
+                },
+                {
+                    "kanji": "過褒",
+                    "reading": "カホウ",
+                    "meanings": [
+                        "excessive praise",
+                        "overpraise"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"座\"",
+        "strokes": 10,
+        "main_meanings": [
+            "squat",
+            "seat",
+            "cushion",
+            "gathering",
+            "sit"
+        ],
+        "main_readings": {
+            "kun": [
+                "すわ.る"
+            ],
+            "on": [
+                "ザ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "880": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "870": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "377": "A New Dictionary of Kanji Usage",
+                "1515": "Classic Nelson (Andrew Nelson)",
+                "1089": "Essential Kanji (P.G. O’Neill)",
+                "510": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1245": "Japanese Names (P.G. O’Neill)",
+                "786": "Kanji and Kana (Spahn and Hadamitzky)",
+                "800": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "175": "Kanji in Context (Nishiguchi and Kono)",
+                "590": "Kodansha Compact Kanji Guide",
+                "3868": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1989": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2686": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1033": "Les Kanjis dans la tete (Yves Maniette)",
+                "9319": "Morohashi",
+                "3116": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1619": "New Nelson (John Haig)",
+                "1024": "Remembering The Kanji (James Heisig)",
+                "1100": "Remembering The Kanji, 6th edition (James Heisig)",
+                "900": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "572": "2001 Kanji",
+                "3q7.2": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "0021.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-34": "JIS X 0208-1997 kuten code",
+                "5ea7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zuo4"
+                ],
+                "korean": [
+                    "jwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "｜",
+                "人",
+                "土",
+                "广"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "座る",
+                    "reading": "すわる",
+                    "meanings": [
+                        "to sit",
+                        "to squat",
+                        "to assume (a position)",
+                        "to hold steady",
+                        "to hold still"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "座",
+                    "reading": "ザ",
+                    "meanings": [
+                        "seat",
+                        "place",
+                        "position",
+                        "status",
+                        "gathering",
+                        "party",
+                        "company",
+                        "atmosphere (of a gathering)",
+                        "stand",
+                        "pedestal",
+                        "platform",
+                        "trade guild",
+                        "attaches to the names of constellations",
+                        "attaches to the names of theatres",
+                        "cinemas and theatrical troupes",
+                        "counter for theatres",
+                        "deities",
+                        "Buddhist images",
+                        "tall mountains",
+                        "and satokagura songs"
+                    ]
+                },
+                {
+                    "kanji": "座敷",
+                    "reading": "ザシキ",
+                    "meanings": [
+                        "tatami room",
+                        "tatami mat room",
+                        "formal Japanese room",
+                        "dinner party in a tatami room (esp. when a geisha or maiko attends)"
+                    ]
+                },
+                {
+                    "kanji": "連座",
+                    "reading": "レンザ",
+                    "meanings": [
+                        "implication (in a crime)",
+                        "involvement",
+                        "sitting in a row (in the same seat)"
+                    ]
+                },
+                {
+                    "kanji": "同坐",
+                    "reading": "ドウザ",
+                    "meanings": [
+                        "sitting together",
+                        "the same theater (theatre)",
+                        "involvement",
+                        "entanglement",
+                        "implication"
+                    ]
+                }
+            ]
+        }
+    }
+}

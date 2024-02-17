@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"接\"",
+        "strokes": 11,
+        "main_meanings": [
+            "touch",
+            "contact",
+            "adjoin",
+            "piece together"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.ぐ"
+            ],
+            "on": [
+                "セツ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "652": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "753": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "730": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "576": "A New Dictionary of Kanji Usage",
+                "1951": "Classic Nelson (Andrew Nelson)",
+                "417": "Essential Kanji (P.G. O’Neill)",
+                "579": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1548": "Japanese Names (P.G. O’Neill)",
+                "3.1": "Japanese for Busy People",
+                "486": "Kanji and Kana (Spahn and Hadamitzky)",
+                "495": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "748": "Kanji in Context (Nishiguchi and Kono)",
+                "905": "Kodansha Compact Kanji Guide",
+                "607": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "368": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "460": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "679": "Les Kanjis dans la tete (Yves Maniette)",
+                "12280": "Morohashi",
+                "500": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2213": "New Nelson (John Haig)",
+                "672": "Remembering The Kanji (James Heisig)",
+                "725": "Remembering The Kanji, 6th edition (James Heisig)",
+                "399": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "740": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1369": "2001 Kanji",
+                "3c8.10": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5004.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-60": "JIS X 0208-1997 kuten code",
+                "63a5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jie1"
+                ],
+                "korean": [
+                    "jeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "女",
+                "扎",
+                "立"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "擑"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "接ぐ",
+                    "reading": "つぐ",
+                    "meanings": [
+                        "to join",
+                        "to piece together",
+                        "to set (bones)",
+                        "to graft (onto a tree)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "接続",
+                    "reading": "セツゾク",
+                    "meanings": [
+                        "connection",
+                        "attachment",
+                        "union",
+                        "join",
+                        "joint",
+                        "link",
+                        "changing trains",
+                        "conjunction"
+                    ]
+                },
+                {
+                    "kanji": "切断",
+                    "reading": "セツダン",
+                    "meanings": [
+                        "cutting",
+                        "severance",
+                        "section",
+                        "amputation",
+                        "disconnection"
+                    ]
+                },
+                {
+                    "kanji": "溶接",
+                    "reading": "ヨウセツ",
+                    "meanings": [
+                        "welding"
+                    ]
+                },
+                {
+                    "kanji": "応接",
+                    "reading": "オウセツ",
+                    "meanings": [
+                        "reception (e.g. of visitors)",
+                        "dealing with"
+                    ]
+                },
+                {
+                    "kanji": "接心",
+                    "reading": "セッシン",
+                    "meanings": [
+                        "concentration",
+                        "period of intensive zazen"
+                    ]
+                }
+            ]
+        }
+    }
+}

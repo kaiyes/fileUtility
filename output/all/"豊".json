@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"豊\"",
+        "strokes": 13,
+        "main_meanings": [
+            "bountiful",
+            "excellent",
+            "rich"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆた.か",
+                "とよ"
+            ],
+            "on": [
+                "ホウ",
+                "ブ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "870": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "811": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "790": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "642": "A New Dictionary of Kanji Usage",
+                "4466": "Classic Nelson (Andrew Nelson)",
+                "624": "Essential Kanji (P.G. O’Neill)",
+                "915": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2013": "Japanese Names (P.G. O’Neill)",
+                "959": "Kanji and Kana (Spahn and Hadamitzky)",
+                "989": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "628": "Kanji in Context (Nishiguchi and Kono)",
+                "1716": "Kodansha Compact Kanji Guide",
+                "3344": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1732": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2352": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1455": "Les Kanjis dans la tete (Yves Maniette)",
+                "36263": "Morohashi",
+                "2697": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5737": "New Nelson (John Haig)",
+                "1443": "Remembering The Kanji (James Heisig)",
+                "1551": "Remembering The Kanji, 6th edition (James Heisig)",
+                "782": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1973": "2001 Kanji",
+                "3d10.15": "The Kanji Dictionary",
+                "2-6-7": "SKIP code",
+                "5510.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-13": "JIS X 0208-1997 kuten code",
+                "8c4a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "て、 で、 と、 ひろし、 ふう、 ぶん、 ほ、 ゆたか"
+                ],
+                "chinese": [
+                    "feng1",
+                    "li3"
+                ],
+                "korean": [
+                    "pung",
+                    "rye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bean",
+            "parts": [
+                "一",
+                "｜",
+                "并",
+                "口",
+                "日",
+                "豆"
+            ],
+            "basis": "豆",
+            "kangxi_order": 151,
+            "variants": [
+                "豐"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "豊か",
+                    "reading": "ゆたか",
+                    "meanings": [
+                        "abundant",
+                        "plentiful",
+                        "rich",
+                        "ample",
+                        "rich",
+                        "wealthy",
+                        "affluent",
+                        "well-off",
+                        "open (mind)",
+                        "relaxed",
+                        "easy",
+                        "plump (e.g. breasts)",
+                        "full",
+                        "ample",
+                        "(well) over",
+                        "(easily) in excess of"
+                    ]
+                },
+                {
+                    "kanji": "豊かの海",
+                    "reading": "ゆたかのうみ",
+                    "meanings": [
+                        "Mare Fecunditatis (lunar mare)",
+                        "Sea of Fertility"
+                    ]
+                },
+                {
+                    "kanji": "豊葦原瑞穂国",
+                    "reading": "とよあしはらのみずほのくに",
+                    "meanings": [
+                        "Japan"
+                    ]
+                },
+                {
+                    "kanji": "豊受大神宮",
+                    "reading": "とようけだいじんぐう",
+                    "meanings": [
+                        "Toyouke Shrine (the outer shrine of Ise Shrine)",
+                        "Toyuke Shrine"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "豊富",
+                    "reading": "ホウフ",
+                    "meanings": [
+                        "abundant",
+                        "plentiful",
+                        "rich",
+                        "ample"
+                    ]
+                },
+                {
+                    "kanji": "豊作",
+                    "reading": "ホウサク",
+                    "meanings": [
+                        "abundant harvest",
+                        "bumper crop"
+                    ]
+                },
+                {
+                    "kanji": "両豊",
+                    "reading": "リョウホウ",
+                    "meanings": [
+                        "Ryōhō (the two former provinces of Buzen and Bungo)"
+                    ]
+                },
+                {
+                    "kanji": "二豊",
+                    "reading": "ニホウ",
+                    "meanings": [
+                        "Nihō (the two former provinces of Buzen and Bungo)"
+                    ]
+                },
+                {
+                    "kanji": "豊饒",
+                    "reading": "ホウジョウ",
+                    "meanings": [
+                        "fertile",
+                        "productive",
+                        "fruitful"
+                    ]
+                },
+                {
+                    "kanji": "豊山派",
+                    "reading": "ブザンハ",
+                    "meanings": [
+                        "Buzan sect (of Shingi Shingon Buddhism)"
+                    ]
+                }
+            ]
+        }
+    }
+}

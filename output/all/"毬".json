@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"毬\"",
+        "strokes": 11,
+        "main_meanings": [
+            "burr",
+            "ball"
+        ],
+        "main_readings": {
+            "kun": [
+                "いが",
+                "まり"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2474": "Classic Nelson (Andrew Nelson)",
+                "1510": "Japanese Names (P.G. O’Neill)",
+                "2132": "Kanji and Kana (Spahn and Hadamitzky)",
+                "4001": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2052": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2773": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "16837": "Morohashi",
+                "3016": "New Nelson (John Haig)",
+                "2533": "Remembering The Kanji (James Heisig)",
+                "2593": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2b9.1": "The Kanji Dictionary",
+                "3-4-7": "SKIP code",
+                "2371.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-61-60": "JIS X 0208-1997 kuten code",
+                "6bec": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qiu2"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fur,",
+            "parts": [
+                "丶",
+                "亠",
+                "毛",
+                "水"
+            ],
+            "basis": "毛",
+            "kangxi_order": 82,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "毬",
+                    "reading": "いが",
+                    "meanings": [
+                        "burr (e.g. chestnut)",
+                        "bur",
+                        "cupule",
+                        "case"
+                    ]
+                },
+                {
+                    "kanji": "毬栗",
+                    "reading": "いがぐり",
+                    "meanings": [
+                        "chestnut in its burr"
+                    ]
+                },
+                {
+                    "kanji": "鞠",
+                    "reading": "まり",
+                    "meanings": [
+                        "ball (for sport",
+                        "games",
+                        "etc.)",
+                        "kemari",
+                        "type of football played by courtiers in ancient Japan"
+                    ]
+                },
+                {
+                    "kanji": "毬投げ",
+                    "reading": "まりなげ",
+                    "meanings": [
+                        "playing catch"
+                    ]
+                },
+                {
+                    "kanji": "手毬",
+                    "reading": "てまり",
+                    "meanings": [
+                        "traditional Japanese handball game"
+                    ]
+                },
+                {
+                    "kanji": "大手毬",
+                    "reading": "おおでまり",
+                    "meanings": [
+                        "Japanese snowball",
+                        "Viburnum plicatum"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "球果",
+                    "reading": "キュウカ",
+                    "meanings": [
+                        "cone",
+                        "strobile",
+                        "strobilus"
+                    ]
+                },
+                {
+                    "kanji": "打毬",
+                    "reading": "ダキュウ",
+                    "meanings": [
+                        "dakyū",
+                        "polo-like game"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"医\"",
+        "strokes": 7,
+        "main_meanings": [
+            "doctor",
+            "medicine"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.やす",
+                "い.する",
+                "くすし"
+            ],
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "345": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "244": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "225": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "555": "A New Dictionary of Kanji Usage",
+                "763": "Classic Nelson (Andrew Nelson)",
+                "440": "Essential Kanji (P.G. O’Neill)",
+                "132": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "743": "Japanese Names (P.G. O’Neill)",
+                "3.20": "Japanese for Busy People",
+                "220": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "325": "Kanji in Context (Nishiguchi and Kono)",
+                "237": "Kodansha Compact Kanji Guide",
+                "3715": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1902": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2583": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1710": "Les Kanjis dans la tete (Yves Maniette)",
+                "2680": "Morohashi",
+                "2993": "New Japanese English Character Dictionary (Jack Halpern)",
+                "590": "New Nelson (John Haig)",
+                "1694": "Remembering The Kanji (James Heisig)",
+                "1829": "Remembering The Kanji, 6th edition (James Heisig)",
+                "277": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3475": "2001 Kanji",
+                "2t5.2": "The Kanji Dictionary",
+                "3-2-5": "SKIP code",
+                "7171.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-69": "JIS X 0208-1997 kuten code",
+                "533b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi1"
+                ],
+                "korean": [
+                    "ye",
+                    "eui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "hiding",
+            "parts": [
+                "匚",
+                "矢",
+                "乞"
+            ],
+            "basis": "匸",
+            "kangxi_order": null,
+            "variants": [
+                "醫"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "医する",
+                    "reading": "いする",
+                    "meanings": [
+                        "to cure",
+                        "to heal"
+                    ]
+                },
+                {
+                    "kanji": "薬師",
+                    "reading": "くすし",
+                    "meanings": [
+                        "doctor"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "医",
+                    "reading": "イ",
+                    "meanings": [
+                        "medicine",
+                        "the healing art",
+                        "healing",
+                        "curing",
+                        "doctor"
+                    ]
+                },
+                {
+                    "kanji": "医院",
+                    "reading": "イイン",
+                    "meanings": [
+                        "doctor's office",
+                        "doctor's surgery",
+                        "clinic"
+                    ]
+                },
+                {
+                    "kanji": "軍医",
+                    "reading": "グンイ",
+                    "meanings": [
+                        "military physician or surgeon"
+                    ]
+                },
+                {
+                    "kanji": "校医",
+                    "reading": "コウイ",
+                    "meanings": [
+                        "school doctor"
+                    ]
+                }
+            ]
+        }
+    }
+}

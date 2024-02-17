@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"塁\"",
+        "strokes": 12,
+        "main_meanings": [
+            "bases",
+            "fort",
+            "rampart",
+            "walls",
+            "base(ball)"
+        ],
+        "main_readings": {
+            "kun": [
+                "とりで"
+            ],
+            "on": [
+                "ルイ",
+                "ライ",
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1918": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "648": "A New Dictionary of Kanji Usage",
+                "3009": "Classic Nelson (Andrew Nelson)",
+                "1571": "Essential Kanji (P.G. O’Neill)",
+                "1160": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1694": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1810": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1692": "Kanji in Context (Nishiguchi and Kono)",
+                "358": "Kodansha Compact Kanji Guide",
+                "3206": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1660": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2250": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1750": "Les Kanjis dans la tete (Yves Maniette)",
+                "5316P": "Morohashi",
+                "2593": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1056": "New Nelson (John Haig)",
+                "1734": "Remembering The Kanji (James Heisig)",
+                "1871": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1519": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3672": "2001 Kanji",
+                "5f7.2": "The Kanji Dictionary",
+                "2-5-7": "SKIP code",
+                "6010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-61": "JIS X 0208-1997 kuten code",
+                "5841": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "る"
+                ],
+                "chinese": [
+                    "lei3"
+                ],
+                "korean": [
+                    "ru",
+                    "roe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "冫",
+                "土",
+                "田"
+            ],
+            "basis": "土",
+            "kangxi_order": null,
+            "variants": [
+                "壘"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "砦",
+                    "reading": "とりで",
+                    "meanings": [
+                        "fort",
+                        "fortress",
+                        "stronghold",
+                        "fortification"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "塁",
+                    "reading": "ルイ",
+                    "meanings": [
+                        "base",
+                        "bag",
+                        "sack",
+                        "fortress",
+                        "stronghold"
+                    ]
+                },
+                {
+                    "kanji": "塁審",
+                    "reading": "ルイシン",
+                    "meanings": [
+                        "base umpire"
+                    ]
+                },
+                {
+                    "kanji": "二塁",
+                    "reading": "ニルイ",
+                    "meanings": [
+                        "second base"
+                    ]
+                },
+                {
+                    "kanji": "走塁",
+                    "reading": "ソウルイ",
+                    "meanings": [
+                        "base running"
+                    ]
+                }
+            ]
+        }
+    }
+}

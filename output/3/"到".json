@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"到\"",
+        "strokes": 8,
+        "main_meanings": [
+            "arrival",
+            "proceed",
+            "reach",
+            "attain",
+            "result in"
+        ],
+        "main_readings": {
+            "kun": [
+                "いた.る"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1641": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "989": "A New Dictionary of Kanji Usage",
+                "3846": "Classic Nelson (Andrew Nelson)",
+                "1041": "Essential Kanji (P.G. O’Neill)",
+                "356": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "901": "Japanese Names (P.G. O’Neill)",
+                "904": "Kanji and Kana (Spahn and Hadamitzky)",
+                "926": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "287": "Kanji in Context (Nishiguchi and Kono)",
+                "194": "Kodansha Compact Kanji Guide",
+                "1615": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "848": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1163": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "762": "Les Kanjis dans la tete (Yves Maniette)",
+                "1950": "Morohashi",
+                "1264": "New Japanese English Character Dictionary (Jack Halpern)",
+                "477": "New Nelson (John Haig)",
+                "755": "Remembering The Kanji (James Heisig)",
+                "817": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1155": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3143": "2001 Kanji",
+                "2f6.4": "The Kanji Dictionary",
+                "1-6-2": "SKIP code",
+                "1210.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-94": "JIS X 0208-1997 kuten code",
+                "5230": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dao4"
+                ],
+                "korean": [
+                    "do"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "刈",
+                "厶",
+                "土",
+                "至"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "至る",
+                    "reading": "いたる",
+                    "meanings": [
+                        "to arrive at (e.g. a decision)",
+                        "to reach (a stage)",
+                        "to attain",
+                        "to lead to (a place)",
+                        "to get to",
+                        "in the extreme case of",
+                        "to come",
+                        "to arrive",
+                        "to result in"
+                    ]
+                },
+                {
+                    "kanji": "至る所",
+                    "reading": "いたるところ",
+                    "meanings": [
+                        "everywhere",
+                        "all over",
+                        "throughout"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "到着",
+                    "reading": "トウチャク",
+                    "meanings": [
+                        "arrival"
+                    ]
+                },
+                {
+                    "kanji": "到達",
+                    "reading": "トウタツ",
+                    "meanings": [
+                        "reaching",
+                        "attaining",
+                        "arrival"
+                    ]
+                },
+                {
+                    "kanji": "前人未到",
+                    "reading": "ゼンジンミトウ",
+                    "meanings": [
+                        "untrodden (region",
+                        "field of study",
+                        "etc.)",
+                        "unprecedented (discovery",
+                        "achievement",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "精到",
+                    "reading": "セイトウ",
+                    "meanings": [
+                        "meticulous"
+                    ]
+                }
+            ]
+        }
+    }
+}

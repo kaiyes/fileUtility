@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"汐\"",
+        "strokes": 6,
+        "main_meanings": [
+            "eventide",
+            "tide",
+            "salt water",
+            "opportunity"
+        ],
+        "main_readings": {
+            "kun": [
+                "しお",
+                "うしお",
+                "せい"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2488": "Classic Nelson (Andrew Nelson)",
+                "250": "Japanese Names (P.G. O’Neill)",
+                "2134": "Kanji and Kana (Spahn and Hadamitzky)",
+                "259": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "164": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "197": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "111": "Les Kanjis dans la tete (Yves Maniette)",
+                "17122": "Morohashi",
+                "223": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3041": "New Nelson (John Haig)",
+                "110": "Remembering The Kanji (James Heisig)",
+                "115": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "360": "2001 Kanji",
+                "3a3.9": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "3712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-14": "JIS X 0208-1997 kuten code",
+                "6c50": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いそ"
+                ],
+                "chinese": [
+                    "xi1",
+                    "xi4"
+                ],
+                "korean": [
+                    "seog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "夕",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "潮",
+                    "reading": "しお",
+                    "meanings": [
+                        "tide",
+                        "current",
+                        "sea water",
+                        "opportunity",
+                        "chance",
+                        "thin soup of fish or shellfish boiled in seawater"
+                    ]
+                },
+                {
+                    "kanji": "潮時",
+                    "reading": "しおどき",
+                    "meanings": [
+                        "tidal hour",
+                        "right time",
+                        "favourable opportunity (favorable)"
+                    ]
+                },
+                {
+                    "kanji": "夕潮",
+                    "reading": "ゆうしお",
+                    "meanings": [
+                        "evening tide"
+                    ]
+                },
+                {
+                    "kanji": "引き潮",
+                    "reading": "ひきしお",
+                    "meanings": [
+                        "ebb tide"
+                    ]
+                },
+                {
+                    "kanji": "潮",
+                    "reading": "しお",
+                    "meanings": [
+                        "tide",
+                        "current",
+                        "sea water",
+                        "opportunity",
+                        "chance",
+                        "thin soup of fish or shellfish boiled in seawater"
+                    ]
+                },
+                {
+                    "kanji": "夕潮",
+                    "reading": "ゆうしお",
+                    "meanings": [
+                        "evening tide"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "潮汐",
+                    "reading": "チョウセキ",
+                    "meanings": [
+                        "tide"
+                    ]
+                }
+            ]
+        }
+    }
+}

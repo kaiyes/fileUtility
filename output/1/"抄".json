@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"抄\"",
+        "strokes": 7,
+        "main_meanings": [
+            "extract",
+            "selection",
+            "summary",
+            "copy",
+            "spread thin"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1390": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1970": "A New Dictionary of Kanji Usage",
+                "1849": "Classic Nelson (Andrew Nelson)",
+                "1675": "Essential Kanji (P.G. O’Neill)",
+                "1337": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1153": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1208": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1465": "Kanji in Context (Nishiguchi and Kono)",
+                "859": "Kodansha Compact Kanji Guide",
+                "298": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "190": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "226": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "654": "Les Kanjis dans la tete (Yves Maniette)",
+                "11863": "Morohashi",
+                "254": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2087": "New Nelson (John Haig)",
+                "647": "Remembering The Kanji (James Heisig)",
+                "699": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1126": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1360": "2001 Kanji",
+                "3c4.11": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5902.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-22": "JIS X 0208-1997 kuten code",
+                "6284": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さ、 り"
+                ],
+                "chinese": [
+                    "chao1"
+                ],
+                "korean": [
+                    "cho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "ノ",
+                "小",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "抄",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "excerpt",
+                        "extract",
+                        "annotation",
+                        "shō (unit of volume",
+                        "approx. 1.8 ml)",
+                        "banknote",
+                        "paper money"
+                    ]
+                },
+                {
+                    "kanji": "抄本",
+                    "reading": "ショウホン",
+                    "meanings": [
+                        "excerpt",
+                        "abridgment",
+                        "abridgement",
+                        "book of selections"
+                    ]
+                },
+                {
+                    "kanji": "和名抄",
+                    "reading": "ワミョウショウ",
+                    "meanings": [
+                        "Wamyōruijushō (famous Heian-period Japanese dictionary)"
+                    ]
+                },
+                {
+                    "kanji": "史記抄",
+                    "reading": "シキショウ",
+                    "meanings": [
+                        "commentary on Shiki"
+                    ]
+                }
+            ]
+        }
+    }
+}

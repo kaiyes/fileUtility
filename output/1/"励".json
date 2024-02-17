@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"励\"",
+        "strokes": 7,
+        "main_meanings": [
+            "encourage",
+            "be diligent",
+            "inspire"
+        ],
+        "main_readings": {
+            "kun": [
+                "はげ.む",
+                "はげ.ます"
+            ],
+            "on": [
+                "レイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1919": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1227": "A New Dictionary of Kanji Usage",
+                "193": "Classic Nelson (Andrew Nelson)",
+                "1495": "Essential Kanji (P.G. O’Neill)",
+                "1101": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "430": "Japanese Names (P.G. O’Neill)",
+                "1340": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1423": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "832": "Kanji in Context (Nishiguchi and Kono)",
+                "213": "Kodansha Compact Kanji Guide",
+                "1438": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "762": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1035": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "875": "Les Kanjis dans la tete (Yves Maniette)",
+                "2326": "Morohashi",
+                "1119": "New Japanese English Character Dictionary (Jack Halpern)",
+                "528": "New Nelson (John Haig)",
+                "866": "Remembering The Kanji (James Heisig)",
+                "931": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1100": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3345": "2001 Kanji",
+                "2g5.4": "The Kanji Dictionary",
+                "1-5-2": "SKIP code",
+                "7422.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-69": "JIS X 0208-1997 kuten code",
+                "52b1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "li4"
+                ],
+                "korean": [
+                    "ryeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "力",
+                "厂",
+                "斤"
+            ],
+            "basis": "力",
+            "kangxi_order": null,
+            "variants": [
+                "勵"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "励む",
+                    "reading": "はげむ",
+                    "meanings": [
+                        "to work hard",
+                        "to try hard",
+                        "to strive",
+                        "to endeavour",
+                        "to endeavor",
+                        "to devote oneself to",
+                        "to make an effort",
+                        "to be zealous"
+                    ]
+                },
+                {
+                    "kanji": "励ます",
+                    "reading": "はげます",
+                    "meanings": [
+                        "to encourage",
+                        "to cheer on",
+                        "to cheer (someone) up",
+                        "to raise (one's voice)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "励起",
+                    "reading": "レイキ",
+                    "meanings": [
+                        "(electrical) excitation"
+                    ]
+                },
+                {
+                    "kanji": "励起状態",
+                    "reading": "レイキジョウタイ",
+                    "meanings": [
+                        "excited state"
+                    ]
+                },
+                {
+                    "kanji": "精励",
+                    "reading": "セイレイ",
+                    "meanings": [
+                        "diligence",
+                        "industry",
+                        "assiduity",
+                        "hard work"
+                    ]
+                },
+                {
+                    "kanji": "刻苦精励",
+                    "reading": "コックセイレイ",
+                    "meanings": [
+                        "being arduous",
+                        "working diligently enduring hardships",
+                        "making a strenuous effort"
+                    ]
+                }
+            ]
+        }
+    }
+}

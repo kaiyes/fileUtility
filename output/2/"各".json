@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"各\"",
+        "strokes": 6,
+        "main_meanings": [
+            "each",
+            "every",
+            "either"
+        ],
+        "main_readings": {
+            "kun": [
+                "おのおの"
+            ],
+            "on": [
+                "カク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "568": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "462": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "438": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "182": "A New Dictionary of Kanji Usage",
+                "1163": "Classic Nelson (Andrew Nelson)",
+                "620": "Essential Kanji (P.G. O’Neill)",
+                "401": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "277": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "642": "Kanji and Kana (Spahn and Hadamitzky)",
+                "652": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "851": "Kanji in Context (Nishiguchi and Kono)",
+                "281": "Kodansha Compact Kanji Guide",
+                "2692": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1370": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1856": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "297": "Les Kanjis dans la tete (Yves Maniette)",
+                "3281": "Morohashi",
+                "2168": "New Japanese English Character Dictionary (Jack Halpern)",
+                "714": "New Nelson (John Haig)",
+                "291": "Remembering The Kanji (James Heisig)",
+                "311": "Remembering The Kanji, 6th edition (James Heisig)",
+                "363": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "463": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2577": "2001 Kanji",
+                "4i3.3": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "4-6-1": "SKIP code",
+                "2760.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-38": "JIS X 0208-1997 kuten code",
+                "5404": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かか、 かが"
+                ],
+                "chinese": [
+                    "ge4"
+                ],
+                "korean": [
+                    "gag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "夂",
+                "攵"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "各々",
+                    "reading": "おのおの",
+                    "meanings": [
+                        "each",
+                        "you (plural)"
+                    ]
+                },
+                {
+                    "kanji": "各々方",
+                    "reading": "おのおのがた",
+                    "meanings": [
+                        "all of you"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "各",
+                    "reading": "カク",
+                    "meanings": [
+                        "each",
+                        "every",
+                        "all"
+                    ]
+                },
+                {
+                    "kanji": "各自",
+                    "reading": "カクジ",
+                    "meanings": [
+                        "each (person)",
+                        "everyone",
+                        "individual",
+                        "respective"
+                    ]
+                }
+            ]
+        }
+    }
+}

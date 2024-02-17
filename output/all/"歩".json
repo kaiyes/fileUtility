@@ -1,0 +1,222 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"歩\"",
+        "strokes": 8,
+        "main_meanings": [
+            "walk",
+            "counter for steps"
+        ],
+        "main_readings": {
+            "kun": [
+                "ある.く",
+                "あゆ.む"
+            ],
+            "on": [
+                "ホ",
+                "ブ",
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "136": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "221": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "202": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "312": "A New Dictionary of Kanji Usage",
+                "2433": "Classic Nelson (Andrew Nelson)",
+                "433": "Essential Kanji (P.G. O’Neill)",
+                "204": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "694": "Japanese Names (P.G. O’Neill)",
+                "2.14": "Japanese for Busy People",
+                "431": "Kanji and Kana (Spahn and Hadamitzky)",
+                "437": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "176": "Kanji in Context (Nishiguchi and Kono)",
+                "1130": "Kodansha Compact Kanji Guide",
+                "3071": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1566": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2141": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "377": "Les Kanjis dans la tete (Yves Maniette)",
+                "16284": "Morohashi",
+                "2416": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2958": "New Nelson (John Haig)",
+                "371": "Remembering The Kanji (James Heisig)",
+                "397": "Remembering The Kanji, 6th edition (James Heisig)",
+                "267": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "165": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1260": "2001 Kanji",
+                "3n5.3": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "2120.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-66": "JIS X 0208-1997 kuten code",
+                "6b69": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 ゆき、 ゆみ"
+                ],
+                "chinese": [
+                    "bu4"
+                ],
+                "korean": [
+                    "bo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stop",
+            "parts": [
+                "ノ",
+                "小",
+                "止"
+            ],
+            "basis": "止",
+            "kangxi_order": 77,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "歩く",
+                    "reading": "あるく",
+                    "meanings": [
+                        "to walk"
+                    ]
+                },
+                {
+                    "kanji": "歩む",
+                    "reading": "あゆむ",
+                    "meanings": [
+                        "to walk",
+                        "to go on foot",
+                        "to tread (a figurative path)",
+                        "to follow",
+                        "to lead (a life)",
+                        "to experience",
+                        "to advance towards (e.g. a solution)",
+                        "to set out (e.g. on the path to destruction",
+                        "ruin",
+                        "etc.)",
+                        "to embark (on the road to ...)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "歩",
+                    "reading": "ホ",
+                    "meanings": [
+                        "step",
+                        "stride",
+                        "counter for steps"
+                    ]
+                },
+                {
+                    "kanji": "歩行",
+                    "reading": "ホコウ",
+                    "meanings": [
+                        "walking",
+                        "walk"
+                    ]
+                },
+                {
+                    "kanji": "遊歩",
+                    "reading": "ユウホ",
+                    "meanings": [
+                        "walk",
+                        "promenade"
+                    ]
+                },
+                {
+                    "kanji": "牛歩",
+                    "reading": "ギュウホ",
+                    "meanings": [
+                        "snail's pace",
+                        "slow progress"
+                    ]
+                },
+                {
+                    "kanji": "歩",
+                    "reading": "ブ",
+                    "meanings": [
+                        "bu",
+                        "traditional unit of area",
+                        "approx. 3.31 square metres",
+                        "commission",
+                        "percentage",
+                        "exactly",
+                        "precisely"
+                    ]
+                },
+                {
+                    "kanji": "歩合",
+                    "reading": "ブアイ",
+                    "meanings": [
+                        "rate",
+                        "ratio",
+                        "percentage",
+                        "commission",
+                        "poundage",
+                        "percentage"
+                    ]
+                },
+                {
+                    "kanji": "町歩",
+                    "reading": "チョウブ",
+                    "meanings": [
+                        "hectare (2.471 acres)"
+                    ]
+                },
+                {
+                    "kanji": "町段畝歩",
+                    "reading": "チョウタンセブ",
+                    "meanings": [
+                        "units of square measure (for rice fields",
+                        "forests",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "歩",
+                    "reading": "フ",
+                    "meanings": [
+                        "pawn"
+                    ]
+                },
+                {
+                    "kanji": "歩兵",
+                    "reading": "フヒョウ",
+                    "meanings": [
+                        "pawn"
+                    ]
+                },
+                {
+                    "kanji": "敵歩",
+                    "reading": "テキフ",
+                    "meanings": [
+                        "opponents pawn"
+                    ]
+                },
+                {
+                    "kanji": "二歩",
+                    "reading": "ニフ",
+                    "meanings": [
+                        "dropping two unpromoted pawns on the same file (illegal move)"
+                    ]
+                }
+            ]
+        }
+    }
+}

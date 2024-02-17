@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"辰\"",
+        "strokes": 7,
+        "main_meanings": [
+            "sign of the dragon",
+            "7-9AM",
+            "fifth sign of Chinese zodiac",
+            "shin dragon radical (no. 161)"
+        ],
+        "main_readings": {
+            "kun": [
+                "たつ"
+            ],
+            "on": [
+                "シン",
+                "ジン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1562": "A New Dictionary of Kanji Usage",
+                "4653": "Classic Nelson (Andrew Nelson)",
+                "1954": "Essential Kanji (P.G. O’Neill)",
+                "738": "Japanese Names (P.G. O’Neill)",
+                "2246": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3713": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1901": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2582": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2027": "Les Kanjis dans la tete (Yves Maniette)",
+                "38682": "Morohashi",
+                "2992": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6006": "New Nelson (John Haig)",
+                "2008": "Remembering The Kanji (James Heisig)",
+                "2164": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2p5.1": "The Kanji Dictionary",
+                "3-2-5": "SKIP code",
+                "7123.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-04": "JIS X 0208-1997 kuten code",
+                "8fb0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とき、 のぶ、 のぶる"
+                ],
+                "chinese": [
+                    "chen2"
+                ],
+                "korean": [
+                    "jin",
+                    "sin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "morning",
+            "parts": [
+                "厂",
+                "衣",
+                "辰"
+            ],
+            "basis": "辰",
+            "kangxi_order": 161,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "辰",
+                    "reading": "たつ",
+                    "meanings": [
+                        "the Dragon (fifth sign of the Chinese zodiac)",
+                        "hour of the Dragon (around 8am",
+                        "7-9am",
+                        "or 8-10am)",
+                        "east-southeast",
+                        "third month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "辰年",
+                    "reading": "たつどし",
+                    "meanings": [
+                        "year of the Dragon"
+                    ]
+                },
+                {
+                    "kanji": "庚辰",
+                    "reading": "かのえたつ",
+                    "meanings": [
+                        "Metal Dragon (17th term of the sexagenary cycle",
+                        "e.g. 1940",
+                        "2000",
+                        "2060)"
+                    ]
+                },
+                {
+                    "kanji": "甲辰",
+                    "reading": "きのえたつ",
+                    "meanings": [
+                        "Wood Dragon (41st term of the sexagenary cycle",
+                        "e.g. 1904",
+                        "1964",
+                        "2024)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "辰砂",
+                    "reading": "シンシャ",
+                    "meanings": [
+                        "cinnabar",
+                        "cinnabarite",
+                        "cinnabar lacquer",
+                        "cinnabar lacquerware"
+                    ]
+                },
+                {
+                    "kanji": "辰星",
+                    "reading": "シンセイ",
+                    "meanings": [
+                        "celestial bodies",
+                        "stars",
+                        "bright star used for timekeeping (e.g. Sirius)",
+                        "Mercury (in ancient Chinese astronomy)",
+                        "Chinese \"room\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "星辰",
+                    "reading": "セイシン",
+                    "meanings": [
+                        "celestial bodies",
+                        "stars"
+                    ]
+                },
+                {
+                    "kanji": "日月星辰",
+                    "reading": "ジツゲツセイシン",
+                    "meanings": [
+                        "the Sun",
+                        "the Moon and the stars",
+                        "the heavenly bodies"
+                    ]
+                }
+            ]
+        }
+    }
+}

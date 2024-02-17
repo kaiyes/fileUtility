@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"卸\"",
+        "strokes": 9,
+        "main_meanings": [
+            "wholesale"
+        ],
+        "main_readings": {
+            "kun": [
+                "おろ.す",
+                "おろし",
+                "おろ.し"
+            ],
+            "on": [
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1042": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1270": "A New Dictionary of Kanji Usage",
+                "812": "Classic Nelson (Andrew Nelson)",
+                "1728": "Essential Kanji (P.G. O’Neill)",
+                "1115": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "707": "Kanji and Kana (Spahn and Hadamitzky)",
+                "720": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "918": "Kanji in Context (Nishiguchi and Kono)",
+                "255": "Kodansha Compact Kanji Guide",
+                "1835": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "971": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1315": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1409": "Les Kanjis dans la tete (Yves Maniette)",
+                "2861X": "Morohashi",
+                "1447": "New Japanese English Character Dictionary (Jack Halpern)",
+                "641": "New Nelson (John Haig)",
+                "1397": "Remembering The Kanji (James Heisig)",
+                "1499": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1236": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2344": "2001 Kanji",
+                "2e7.1": "The Kanji Dictionary",
+                "1-7-2": "SKIP code",
+                "8712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-23": "JIS X 0208-1997 kuten code",
+                "5378": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xie4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "kneel",
+            "parts": [
+                "ノ",
+                "卩",
+                "止",
+                "乞"
+            ],
+            "basis": "卩",
+            "kangxi_order": 26,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "卸す",
+                    "reading": "おろす",
+                    "meanings": [
+                        "to sell wholesale",
+                        "to grate (e.g. vegetables)",
+                        "to cut up fish"
+                    ]
+                },
+                {
+                    "kanji": "卸",
+                    "reading": "おろし",
+                    "meanings": [
+                        "wholesale"
+                    ]
+                },
+                {
+                    "kanji": "下ろし",
+                    "reading": "おろし",
+                    "meanings": [
+                        "dropping",
+                        "unloading",
+                        "removing",
+                        "grated vegetables",
+                        "fruit",
+                        "etc.",
+                        "grater",
+                        "using new tools (or clothes",
+                        "etc.)",
+                        "new tools (or clothes",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "仲卸",
+                    "reading": "なかおろし",
+                    "meanings": [
+                        "intermediate wholesaler",
+                        "middle trader",
+                        "middleman",
+                        "broker"
+                    ]
+                },
+                {
+                    "kanji": "貴金属卸",
+                    "reading": "ききんぞくおろし",
+                    "meanings": [
+                        "wholesale (wholesaler) in precious metals"
+                    ]
+                },
+                {
+                    "kanji": "卸",
+                    "reading": "おろし",
+                    "meanings": [
+                        "wholesale"
+                    ]
+                },
+                {
+                    "kanji": "下ろし",
+                    "reading": "おろし",
+                    "meanings": [
+                        "dropping",
+                        "unloading",
+                        "removing",
+                        "grated vegetables",
+                        "fruit",
+                        "etc.",
+                        "grater",
+                        "using new tools (or clothes",
+                        "etc.)",
+                        "new tools (or clothes",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "仲卸",
+                    "reading": "なかおろし",
+                    "meanings": [
+                        "intermediate wholesaler",
+                        "middle trader",
+                        "middleman",
+                        "broker"
+                    ]
+                },
+                {
+                    "kanji": "貴金属卸",
+                    "reading": "ききんぞくおろし",
+                    "meanings": [
+                        "wholesale (wholesaler) in precious metals"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "卸下",
+                    "reading": "シャガ",
+                    "meanings": [
+                        "cargo unloading"
+                    ]
+                }
+            ]
+        }
+    }
+}

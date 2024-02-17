@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"亥\"",
+        "strokes": 6,
+        "main_meanings": [
+            "sign of the hog",
+            "9-11PM",
+            "twelfth sign of the Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "い"
+            ],
+            "on": [
+                "ガイ",
+                "カイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2055": "A New Dictionary of Kanji Usage",
+                "287": "Classic Nelson (Andrew Nelson)",
+                "1916": "Essential Kanji (P.G. O’Neill)",
+                "519": "Japanese Names (P.G. O’Neill)",
+                "2008": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2505": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1269": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1735": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1533": "Les Kanjis dans la tete (Yves Maniette)",
+                "292": "Morohashi",
+                "2012": "New Japanese English Character Dictionary (Jack Halpern)",
+                "89": "New Nelson (John Haig)",
+                "1519": "Remembering The Kanji (James Heisig)",
+                "1637": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2j4.1": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "0080.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-71": "JIS X 0208-1997 kuten code",
+                "4ea5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "り"
+                ],
+                "chinese": [
+                    "hai4"
+                ],
+                "korean": [
+                    "hae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lid",
+            "parts": [
+                "丶",
+                "ノ",
+                "亠",
+                "人"
+            ],
+            "basis": "亠",
+            "kangxi_order": 8,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "亥",
+                    "reading": "い",
+                    "meanings": [
+                        "the Boar (twelfth sign of the Chinese zodiac)",
+                        "the Pig",
+                        "hour of the Boar (around 10pm",
+                        "9-11pm",
+                        "or 10pm to 12 midnight)",
+                        "north-northwest",
+                        "tenth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "亥年",
+                    "reading": "いどし",
+                    "meanings": [
+                        "year of the Boar",
+                        "year of the Pig"
+                    ]
+                },
+                {
+                    "kanji": "丁亥",
+                    "reading": "ていがい",
+                    "meanings": [
+                        "Fire Boar (24th term of the sexagenary cycle",
+                        "e.g. 1947",
+                        "2007",
+                        "2067)"
+                    ]
+                },
+                {
+                    "kanji": "己亥",
+                    "reading": "つちのとい",
+                    "meanings": [
+                        "Earth Boar (36th term of the sexagenary cycle",
+                        "e.g. 1959",
+                        "2019",
+                        "2079)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "亥月",
+                    "reading": "ガイゲツ",
+                    "meanings": [
+                        "tenth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "丁亥",
+                    "reading": "テイガイ",
+                    "meanings": [
+                        "Fire Boar (24th term of the sexagenary cycle",
+                        "e.g. 1947",
+                        "2007",
+                        "2067)"
+                    ]
+                },
+                {
+                    "kanji": "己亥",
+                    "reading": "ツチノトイ",
+                    "meanings": [
+                        "Earth Boar (36th term of the sexagenary cycle",
+                        "e.g. 1959",
+                        "2019",
+                        "2079)"
+                    ]
+                }
+            ]
+        }
+    }
+}

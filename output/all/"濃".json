@@ -1,0 +1,171 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"濃\"",
+        "strokes": 16,
+        "main_meanings": [
+            "concentrated",
+            "thick",
+            "dark",
+            "undiluted"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ.い"
+            ],
+            "on": [
+                "ノウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1681": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1185": "A New Dictionary of Kanji Usage",
+                "2711": "Classic Nelson (Andrew Nelson)",
+                "1503": "Essential Kanji (P.G. O’Neill)",
+                "709": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2612": "Japanese Names (P.G. O’Neill)",
+                "957": "Kanji and Kana (Spahn and Hadamitzky)",
+                "987": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "627": "Kanji in Context (Nishiguchi and Kono)",
+                "1256": "Kodansha Compact Kanji Guide",
+                "956": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "535": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "697": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2034": "Les Kanjis dans la tete (Yves Maniette)",
+                "18442": "Morohashi",
+                "777": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3349": "New Nelson (John Haig)",
+                "2015": "Remembering The Kanji (James Heisig)",
+                "2171": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1837": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "365": "2001 Kanji",
+                "3a13.7": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "3513.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-27": "JIS X 0208-1997 kuten code",
+                "6fc3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "の"
+                ],
+                "chinese": [
+                    "nong2"
+                ],
+                "korean": [
+                    "nong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "｜",
+                "厂",
+                "汁",
+                "日",
+                "衣",
+                "辰"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "濃い",
+                    "reading": "こい",
+                    "meanings": [
+                        "deep (colour)",
+                        "dark",
+                        "strong (flavour",
+                        "smell",
+                        "etc.)",
+                        "thick (consistency)",
+                        "dense",
+                        "strong (possibility",
+                        "etc.)",
+                        "thick (i.e. \"as thick as thieves\")",
+                        "close",
+                        "deep (love",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "濃い口",
+                    "reading": "こいくち",
+                    "meanings": [
+                        "rich (taste)",
+                        "dark-coloured",
+                        "thick",
+                        "heavy",
+                        "dark soy sauce"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "濃",
+                    "reading": "ノウ",
+                    "meanings": [
+                        "dark (color)",
+                        "concentrated",
+                        "thick"
+                    ]
+                },
+                {
+                    "kanji": "濃厚",
+                    "reading": "ノウコウ",
+                    "meanings": [
+                        "rich (flavor",
+                        "color",
+                        "etc.)",
+                        "strong (e.g. odor)",
+                        "heavy",
+                        "thick (soup",
+                        "makeup",
+                        "etc.)",
+                        "dense",
+                        "probable",
+                        "(very) likely",
+                        "strong (suspicion",
+                        "sense",
+                        "etc.)",
+                        "pronounced",
+                        "passionate",
+                        "sensuous",
+                        "hot"
+                    ]
+                },
+                {
+                    "kanji": "特濃",
+                    "reading": "トクノウ",
+                    "meanings": [
+                        "highly concentrated",
+                        "thick",
+                        "rich",
+                        "dark"
+                    ]
+                }
+            ]
+        }
+    }
+}

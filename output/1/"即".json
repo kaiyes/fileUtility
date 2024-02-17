@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"即\"",
+        "strokes": 7,
+        "main_meanings": [
+            "instant",
+            "namely",
+            "as is",
+            "conform",
+            "agree",
+            "adapt"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.く",
+                "つ.ける",
+                "すなわ.ち"
+            ],
+            "on": [
+                "ソク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1534": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1052": "A New Dictionary of Kanji Usage",
+                "3886": "Classic Nelson (Andrew Nelson)",
+                "1678": "Essential Kanji (P.G. O’Neill)",
+                "1113": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "648": "Japanese Names (P.G. O’Neill)",
+                "463": "Kanji and Kana (Spahn and Hadamitzky)",
+                "471": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "700": "Kanji in Context (Nishiguchi and Kono)",
+                "253": "Kodansha Compact Kanji Guide",
+                "1439": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "763": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1036": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1474": "Les Kanjis dans la tete (Yves Maniette)",
+                "2855": "Morohashi",
+                "1120": "New Japanese English Character Dictionary (Jack Halpern)",
+                "633": "New Nelson (John Haig)",
+                "1462": "Remembering The Kanji (James Heisig)",
+                "1572": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1102": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3844": "2001 Kanji",
+                "2e5.1": "The Kanji Dictionary",
+                "1-5-2": "SKIP code",
+                "7772.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-08": "JIS X 0208-1997 kuten code",
+                "5373": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji2"
+                ],
+                "korean": [
+                    "jeug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "kneel",
+            "parts": [
+                "卩",
+                "艮"
+            ],
+            "basis": "卩",
+            "kangxi_order": null,
+            "variants": [
+                "皍"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "就く",
+                    "reading": "つく",
+                    "meanings": [
+                        "to take (seat",
+                        "position",
+                        "course",
+                        "office",
+                        "etc.)",
+                        "to assume",
+                        "to be hired",
+                        "to be employed",
+                        "to ascend (the throne)",
+                        "to accede",
+                        "to start (on a journey)",
+                        "to commence",
+                        "to depart",
+                        "to study (under teacher)",
+                        "to be an apprentice"
+                    ]
+                },
+                {
+                    "kanji": "就ける",
+                    "reading": "つける",
+                    "meanings": [
+                        "to install (a king",
+                        "emperor",
+                        "etc.)",
+                        "to appoint (to a post)",
+                        "to promote",
+                        "to assign (to study under)"
+                    ]
+                },
+                {
+                    "kanji": "即ち",
+                    "reading": "すなわち",
+                    "meanings": [
+                        "that is (to say)",
+                        "namely",
+                        "i.e.",
+                        "precisely",
+                        "exactly",
+                        "just",
+                        "nothing but",
+                        "neither more nor less",
+                        "(and) then"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "即",
+                    "reading": "ソク",
+                    "meanings": [
+                        "instantly",
+                        "immediately",
+                        "at once",
+                        "equals",
+                        "means",
+                        "is",
+                        "oneness (of two opposing things)",
+                        "inseparability"
+                    ]
+                },
+                {
+                    "kanji": "即位",
+                    "reading": "ソクイ",
+                    "meanings": [
+                        "accession to the throne",
+                        "enthronement"
+                    ]
+                },
+                {
+                    "kanji": "相即",
+                    "reading": "ソウソク",
+                    "meanings": [
+                        "coming together and dissolving into oneness",
+                        "being closely related",
+                        "being inseparable"
+                    ]
+                },
+                {
+                    "kanji": "即即",
+                    "reading": "ソクソク",
+                    "meanings": [
+                        "immediate sex (without taking a shower first)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"障\"",
+        "strokes": 14,
+        "main_meanings": [
+            "hinder",
+            "hurt",
+            "harm"
+        ],
+        "main_readings": {
+            "kun": [
+                "さわ.る"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "913": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "902": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "676": "A New Dictionary of Kanji Usage",
+                "5019": "Classic Nelson (Andrew Nelson)",
+                "1145": "Essential Kanji (P.G. O’Neill)",
+                "1880": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "858": "Kanji and Kana (Spahn and Hadamitzky)",
+                "877": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1028": "Kanji in Context (Nishiguchi and Kono)",
+                "751": "Kodansha Compact Kanji Guide",
+                "875": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "504": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "647": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1307": "Les Kanjis dans la tete (Yves Maniette)",
+                "41821": "Morohashi",
+                "715": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6479": "New Nelson (John Haig)",
+                "1297": "Remembering The Kanji (James Heisig)",
+                "1393": "Remembering The Kanji, 6th edition (James Heisig)",
+                "976": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3655": "2001 Kanji",
+                "2d11.2": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "7024.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-67": "JIS X 0208-1997 kuten code",
+                "969c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhang4"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 left) 阜 (阝"
+            ],
+            "meaning": "mound,",
+            "parts": [
+                "十",
+                "阡",
+                "日",
+                "立",
+                "音"
+            ],
+            "basis": "dam",
+            "kangxi_order": 170,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "障る",
+                    "reading": "さわる",
+                    "meanings": [
+                        "to be harmful to",
+                        "to hinder",
+                        "to interfere with",
+                        "to irritate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "障害者",
+                    "reading": "ショウガイシャ",
+                    "meanings": [
+                        "disabled person",
+                        "person with a (physical or mental) disability"
+                    ]
+                },
+                {
+                    "kanji": "障害",
+                    "reading": "ショウガイ",
+                    "meanings": [
+                        "obstacle",
+                        "impediment",
+                        "hindrance",
+                        "barrier",
+                        "difficulty",
+                        "disorder",
+                        "defect",
+                        "disability",
+                        "handicap",
+                        "impairment",
+                        "dysfunction",
+                        "steeplechase",
+                        "obstacle race",
+                        "steeplechase (athletics)"
+                    ]
+                },
+                {
+                    "kanji": "安全保障",
+                    "reading": "アンゼンホショウ",
+                    "meanings": [
+                        "security guarantee (e.g. military security",
+                        "network security",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "囲障",
+                    "reading": "イショウ",
+                    "meanings": [
+                        "fence (esp. between buildings)"
+                    ]
+                }
+            ]
+        }
+    }
+}

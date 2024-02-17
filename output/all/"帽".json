@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"帽\"",
+        "strokes": 12,
+        "main_meanings": [
+            "cap",
+            "headgear"
+        ],
+        "main_readings": {
+            "kun": [
+                "ずきん",
+                "おお.う"
+            ],
+            "on": [
+                "ボウ",
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1816": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1556": "A New Dictionary of Kanji Usage",
+                "1483": "Classic Nelson (Andrew Nelson)",
+                "1105": "Kanji and Kana (Spahn and Hadamitzky)",
+                "500": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1157": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1279": "Kanji in Context (Nishiguchi and Kono)",
+                "569": "Kodansha Compact Kanji Guide",
+                "693": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "416": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "522": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "415": "Les Kanjis dans la tete (Yves Maniette)",
+                "8972": "Morohashi",
+                "568": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1573": "New Nelson (John Haig)",
+                "408": "Remembering The Kanji (James Heisig)",
+                "436": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1525": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1679": "2001 Kanji",
+                "3f9.1": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "4626.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-25": "JIS X 0208-1997 kuten code",
+                "5e3d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mao4"
+                ],
+                "korean": [
+                    "mo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "巾",
+                "日",
+                "目"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": [
+                "冃"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "帽",
+                    "reading": "ボウ",
+                    "meanings": [
+                        "hat",
+                        "cap"
+                    ]
+                },
+                {
+                    "kanji": "帽子",
+                    "reading": "ボウシ",
+                    "meanings": [
+                        "hat",
+                        "cap"
+                    ]
+                },
+                {
+                    "kanji": "水泳帽",
+                    "reading": "スイエイボウ",
+                    "meanings": [
+                        "swimming or bathing cap"
+                    ]
+                },
+                {
+                    "kanji": "海水帽",
+                    "reading": "カイスイボウ",
+                    "meanings": [
+                        "bathing cap",
+                        "swimcap"
+                    ]
+                }
+            ]
+        }
+    }
+}

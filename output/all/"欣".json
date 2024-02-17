@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"欣\"",
+        "strokes": 8,
+        "main_meanings": [
+            "take pleasure in",
+            "rejoice"
+        ],
+        "main_readings": {
+            "kun": [
+                "よろこ.ぶ",
+                "よろこ.び"
+            ],
+            "on": [
+                "キン",
+                "ゴン",
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2077": "Classic Nelson (Andrew Nelson)",
+                "1924": "Essential Kanji (P.G. O’Neill)",
+                "603": "Japanese Names (P.G. O’Neill)",
+                "2129": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1057": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "569": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "753": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "16008": "Morohashi",
+                "852": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2930": "New Nelson (John Haig)",
+                "2888": "Remembering The Kanji (James Heisig)",
+                "2897": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4j4.1": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "7728.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-53": "JIS X 0208-1997 kuten code",
+                "6b23": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "やすし、 よし、 し"
+                ],
+                "chinese": [
+                    "xin1"
+                ],
+                "korean": [
+                    "heun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lack,",
+            "parts": [
+                "斤",
+                "欠"
+            ],
+            "basis": "欠",
+            "kangxi_order": null,
+            "variants": [
+                "俽"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "喜ぶ",
+                    "reading": "よろこぶ",
+                    "meanings": [
+                        "to be delighted",
+                        "to be glad",
+                        "to be pleased",
+                        "to congratulate",
+                        "to gratefully accept"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "欣栄",
+                    "reading": "キンエイ",
+                    "meanings": [
+                        "joy and glory",
+                        "joyous glory",
+                        "pleasure"
+                    ]
+                },
+                {
+                    "kanji": "欣悦",
+                    "reading": "キンエツ",
+                    "meanings": [
+                        "joy",
+                        "gladness"
+                    ]
+                },
+                {
+                    "kanji": "欣求",
+                    "reading": "ゴング",
+                    "meanings": [
+                        "earnest aspiration (to go to paradise)"
+                    ]
+                },
+                {
+                    "kanji": "欣求浄土",
+                    "reading": "ゴングジョウド",
+                    "meanings": [
+                        "seeking rebirth in the Pure Land"
+                    ]
+                }
+            ]
+        }
+    }
+}

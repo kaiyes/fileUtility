@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"茉\"",
+        "strokes": 8,
+        "main_meanings": [
+            "jasmine"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "マツ",
+                "バツ",
+                "マ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "682A": "Japanese Names (P.G. O’Neill)",
+                "2215": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2790": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1434": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1933": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "30841X": "Morohashi",
+                "2244": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4994": "New Nelson (John Haig)",
+                "2348": "Remembering The Kanji (James Heisig)",
+                "2436": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k5.6": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4490.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-71-93": "JIS X 0208-1997 kuten code",
+                "8309": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "み"
+                ],
+                "chinese": [
+                    "mo4"
+                ],
+                "korean": [
+                    "mal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "一",
+                "｜",
+                "亠",
+                "ハ",
+                "艾",
+                "木"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "茉莉",
+                    "reading": "マツリ",
+                    "meanings": [
+                        "Arabian jasmine (Jasminum sambac)"
+                    ]
+                },
+                {
+                    "kanji": "茉莉花",
+                    "reading": "マツリカ",
+                    "meanings": [
+                        "Arabian jasmine (Jasminum sambac)"
+                    ]
+                },
+                {
+                    "kanji": "茉莉",
+                    "reading": "マツリ",
+                    "meanings": [
+                        "Arabian jasmine (Jasminum sambac)"
+                    ]
+                },
+                {
+                    "kanji": "茉莉花",
+                    "reading": "マツリカ",
+                    "meanings": [
+                        "Arabian jasmine (Jasminum sambac)"
+                    ]
+                }
+            ]
+        }
+    }
+}

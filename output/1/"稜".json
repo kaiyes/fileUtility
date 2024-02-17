@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"稜\"",
+        "strokes": 13,
+        "main_meanings": [
+            "angle",
+            "edge",
+            "corner",
+            "power",
+            "majesty"
+        ],
+        "main_readings": {
+            "kun": [
+                "いつ",
+                "かど"
+            ],
+            "on": [
+                "リョウ",
+                "ロウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3291": "Classic Nelson (Andrew Nelson)",
+                "1917": "Japanese Names (P.G. O’Neill)",
+                "2184": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1545": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "816": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1116": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "25123": "Morohashi",
+                "4152": "New Nelson (John Haig)",
+                "2610": "Remembering The Kanji (James Heisig)",
+                "2656": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5d8.4": "The Kanji Dictionary",
+                "1-5-8": "SKIP code",
+                "2494.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-39": "JIS X 0208-1997 kuten code",
+                "7a1c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "leng2"
+                ],
+                "korean": [
+                    "reung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "儿",
+                "土",
+                "夂",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "稜威言別",
+                    "reading": "いつのことわき",
+                    "meanings": [
+                        "Notes on the Songs of the Kojiki and the Nihonshoki (by Tachibana Moribe",
+                        "1850)"
+                    ]
+                },
+                {
+                    "kanji": "稜威道別",
+                    "reading": "いつのちわき",
+                    "meanings": [
+                        "The Parting Ways of Power (by Tachibana Moribe",
+                        "1844)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "稜",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "edge",
+                        "angle",
+                        "ridge (e.g. of a mountain)"
+                    ]
+                },
+                {
+                    "kanji": "稜角",
+                    "reading": "リョウカク",
+                    "meanings": [
+                        "corner",
+                        "sharp corner",
+                        "dihedral angle"
+                    ]
+                },
+                {
+                    "kanji": "気骨稜々",
+                    "reading": "キコツリョウリョウ",
+                    "meanings": [
+                        "(a person with) strong moral fiber (backbone",
+                        "determination)"
+                    ]
+                },
+                {
+                    "kanji": "岩稜",
+                    "reading": "ガンリョウ",
+                    "meanings": [
+                        "ridge of a cliff",
+                        "rock ridge"
+                    ]
+                }
+            ]
+        }
+    }
+}

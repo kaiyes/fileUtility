@@ -1,0 +1,230 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"傷\"",
+        "strokes": 13,
+        "main_meanings": [
+            "wound",
+            "hurt",
+            "injure",
+            "impair",
+            "pain",
+            "injury",
+            "cut",
+            "gash",
+            "scar",
+            "weak point"
+        ],
+        "main_readings": {
+            "kun": [
+                "きず",
+                "いた.む",
+                "いた.める"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "912": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "901": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "723": "A New Dictionary of Kanji Usage",
+                "535": "Classic Nelson (Andrew Nelson)",
+                "1008": "Essential Kanji (P.G. O’Neill)",
+                "1067": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "633": "Kanji and Kana (Spahn and Hadamitzky)",
+                "643": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "835": "Kanji in Context (Nishiguchi and Kono)",
+                "130": "Kodansha Compact Kanji Guide",
+                "179": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "118": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "137": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1005": "Les Kanjis dans la tete (Yves Maniette)",
+                "1029": "Morohashi",
+                "158": "New Japanese English Character Dictionary (Jack Halpern)",
+                "301": "New Nelson (John Haig)",
+                "996": "Remembering The Kanji (James Heisig)",
+                "1071": "Remembering The Kanji, 6th edition (James Heisig)",
+                "960": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2151": "2001 Kanji",
+                "2a11.10": "The Kanji Dictionary",
+                "1-2-11": "SKIP code",
+                "2822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-93": "JIS X 0208-1997 kuten code",
+                "50b7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shang1"
+                ],
+                "korean": [
+                    "sang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "ノ",
+                "人",
+                "化",
+                "勹",
+                "日",
+                "勿",
+                "乞"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "傷",
+                    "reading": "きず",
+                    "meanings": [
+                        "wound",
+                        "injury",
+                        "cut",
+                        "gash",
+                        "bruise",
+                        "scratch",
+                        "scrape",
+                        "scar",
+                        "chip",
+                        "crack",
+                        "scratch",
+                        "nick",
+                        "flaw",
+                        "defect",
+                        "weakness",
+                        "weak point",
+                        "stain (on one's reputation)",
+                        "disgrace",
+                        "dishonor",
+                        "dishonour",
+                        "(emotional) hurt",
+                        "hurt feelings"
+                    ]
+                },
+                {
+                    "kanji": "傷跡",
+                    "reading": "きずあと",
+                    "meanings": [
+                        "scar"
+                    ]
+                },
+                {
+                    "kanji": "無傷",
+                    "reading": "むきず",
+                    "meanings": [
+                        "unhurt",
+                        "uninjured",
+                        "unwounded",
+                        "unscathed",
+                        "unharmed",
+                        "flawless (e.g. gem)",
+                        "unblemished",
+                        "undamaged",
+                        "perfect (condition)",
+                        "spotless (e.g. reputation)",
+                        "faultless (e.g. performance)",
+                        "perfect (record)",
+                        "without failure",
+                        "without defeat"
+                    ]
+                },
+                {
+                    "kanji": "古傷",
+                    "reading": "ふるきず",
+                    "meanings": [
+                        "old wound",
+                        "scar",
+                        "unpleasant past experience",
+                        "painful memory",
+                        "past misdeed"
+                    ]
+                },
+                {
+                    "kanji": "痛む",
+                    "reading": "いたむ",
+                    "meanings": [
+                        "to hurt",
+                        "to ache",
+                        "to feel a pain",
+                        "to be injured",
+                        "to be spoiled (e.g. food)",
+                        "to be damaged"
+                    ]
+                },
+                {
+                    "kanji": "痛める",
+                    "reading": "いためる",
+                    "meanings": [
+                        "to hurt",
+                        "to injure",
+                        "to cause pain",
+                        "to harm",
+                        "to damage",
+                        "to spoil",
+                        "to worry",
+                        "to bother",
+                        "to be grieved over",
+                        "to afflict",
+                        "to cause financial loss",
+                        "to hurt one's pocket"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "傷跡",
+                    "reading": "キズアト",
+                    "meanings": [
+                        "scar"
+                    ]
+                },
+                {
+                    "kanji": "傷害",
+                    "reading": "ショウガイ",
+                    "meanings": [
+                        "injury",
+                        "inflicting bodily injury"
+                    ]
+                },
+                {
+                    "kanji": "殺傷",
+                    "reading": "サッショウ",
+                    "meanings": [
+                        "killing and wounding",
+                        "bloodshed"
+                    ]
+                },
+                {
+                    "kanji": "脳挫傷",
+                    "reading": "ノウザショウ",
+                    "meanings": [
+                        "cerebral contusion"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"平\"",
+        "strokes": 5,
+        "main_meanings": [
+            "even",
+            "flat",
+            "peace"
+        ],
+        "main_readings": {
+            "kun": [
+                "たい.ら",
+                "たい.らげる",
+                "ひら"
+            ],
+            "on": [
+                "ヘイ",
+                "ビョウ",
+                "ヒョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "315": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "411": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "388": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "143": "A New Dictionary of Kanji Usage",
+                "26": "Classic Nelson (Andrew Nelson)",
+                "136": "Essential Kanji (P.G. O’Neill)",
+                "503": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "203": "Japanese Names (P.G. O’Neill)",
+                "202": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "351": "Kanji in Context (Nishiguchi and Kono)",
+                "573": "Kodansha Compact Kanji Guide",
+                "4291": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2167": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2921": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1496": "Les Kanjis dans la tete (Yves Maniette)",
+                "9167X": "Morohashi",
+                "3478": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1590": "New Nelson (John Haig)",
+                "1484": "Remembering The Kanji (James Heisig)",
+                "1596": "Remembering The Kanji, 6th edition (James Heisig)",
+                "98": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "260": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3155": "2001 Kanji",
+                "2k3.4": "The Kanji Dictionary",
+                "4-5-1": "SKIP code",
+                "1040.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-31": "JIS X 0208-1997 kuten code",
+                "5e73": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たいら、 たら、 はち、 ひ、 ひとし、 へ、 へん"
+                ],
+                "chinese": [
+                    "ping2"
+                ],
+                "korean": [
+                    "pyeong",
+                    "pyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "pestle",
+            "parts": [
+                "并",
+                "干"
+            ],
+            "basis": "干",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "平ら",
+                    "reading": "たいら",
+                    "meanings": [
+                        "flat",
+                        "level",
+                        "even",
+                        "smooth",
+                        "calm",
+                        "tranquil",
+                        "placid",
+                        "composed",
+                        "stable",
+                        "relaxed (sitting posture)",
+                        "comfortable",
+                        "plateau",
+                        "tableland",
+                        "plain"
+                    ]
+                },
+                {
+                    "kanji": "平らか",
+                    "reading": "たいらか",
+                    "meanings": [
+                        "level",
+                        "just",
+                        "peaceful"
+                    ]
+                },
+                {
+                    "kanji": "平らげる",
+                    "reading": "たいらげる",
+                    "meanings": [
+                        "to eat up (completely)",
+                        "to put down (a rebellion)",
+                        "to suppress",
+                        "to subjugate",
+                        "to make flat",
+                        "to level out"
+                    ]
+                },
+                {
+                    "kanji": "平",
+                    "reading": "ひら",
+                    "meanings": [
+                        "something broad and flat",
+                        "common",
+                        "ordinary",
+                        "plain",
+                        "rank-and-file",
+                        "low-ranking employee",
+                        "freshman",
+                        "novice",
+                        "private"
+                    ]
+                },
+                {
+                    "kanji": "平泳ぎ",
+                    "reading": "ひらおよぎ",
+                    "meanings": [
+                        "breaststroke (swimming)"
+                    ]
+                },
+                {
+                    "kanji": "嘉平次平",
+                    "reading": "かへいじひら",
+                    "meanings": [
+                        "hakama fabric made from meisen silk"
+                    ]
+                },
+                {
+                    "kanji": "金平",
+                    "reading": "かねひら",
+                    "meanings": [
+                        "Acheilognathus rhombeus (species of cyprinid)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "平",
+                    "reading": "ヘイ",
+                    "meanings": [
+                        "nth year in the Heisei era (1989.1.8-2019.4.30)"
+                    ]
+                },
+                {
+                    "kanji": "平安",
+                    "reading": "ヘイアン",
+                    "meanings": [
+                        "peace",
+                        "tranquility",
+                        "tranquillity",
+                        "Heian period (794-1185)"
+                    ]
+                },
+                {
+                    "kanji": "和平",
+                    "reading": "ワヘイ",
+                    "meanings": [
+                        "peace"
+                    ]
+                },
+                {
+                    "kanji": "公平",
+                    "reading": "コウヘイ",
+                    "meanings": [
+                        "fairness",
+                        "impartiality",
+                        "justice",
+                        "objectivity"
+                    ]
+                },
+                {
+                    "kanji": "平等",
+                    "reading": "ビョウドウ",
+                    "meanings": [
+                        "equality",
+                        "impartiality",
+                        "evenness"
+                    ]
+                },
+                {
+                    "kanji": "平常心",
+                    "reading": "ビョウジョウシン",
+                    "meanings": [
+                        "everyday feelings",
+                        "usual feelings"
+                    ]
+                },
+                {
+                    "kanji": "寛平",
+                    "reading": "カンピョウ",
+                    "meanings": [
+                        "Kanpyō era (889.4.27-898.4.26)",
+                        "Kanbyō era"
+                    ]
+                },
+                {
+                    "kanji": "天平",
+                    "reading": "テンピョウ",
+                    "meanings": [
+                        "Tenpyō era (729.8.5-749.4.14)",
+                        "Tenbyō era",
+                        "Tenhei era"
+                    ]
+                },
+                {
+                    "kanji": "平韻",
+                    "reading": "ヒョウイン",
+                    "meanings": [
+                        "level-tone rhyme (of Chinese)"
+                    ]
+                },
+                {
+                    "kanji": "平声",
+                    "reading": "ヒョウショウ",
+                    "meanings": [
+                        "first tone in old Chinese phonetics",
+                        "level tone",
+                        "(of a Japanese accent) having a low",
+                        "flat tone"
+                    ]
+                }
+            ]
+        }
+    }
+}

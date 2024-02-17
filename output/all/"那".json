@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"那\"",
+        "strokes": 7,
+        "main_meanings": [
+            "what?"
+        ],
+        "main_readings": {
+            "kun": [
+                "なに",
+                "なんぞ",
+                "いかん"
+            ],
+            "on": [
+                "ナ",
+                "ダ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1257": "A New Dictionary of Kanji Usage",
+                "4757": "Classic Nelson (Andrew Nelson)",
+                "416": "Japanese Names (P.G. O’Neill)",
+                "2251": "Kanji and Kana (Spahn and Hadamitzky)",
+                "826": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1047": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "564": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "748": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "39306X": "Morohashi",
+                "843": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6129": "New Nelson (John Haig)",
+                "2960": "Remembering The Kanji (James Heisig)",
+                "1992": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2d4.6": "The Kanji Dictionary",
+                "1-4-3": "SKIP code",
+                "1-4-2": "SKIP code",
+                "1752.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-65": "JIS X 0208-1997 kuten code",
+                "90a3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とも、 やす"
+                ],
+                "chinese": [
+                    "na4",
+                    "na1",
+                    "na3"
+                ],
+                "korean": [
+                    "na"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "二",
+                "刀",
+                "邦"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "那覇",
+                    "reading": "ナハ",
+                    "meanings": [
+                        "Naha (city in Okinawa)"
+                    ]
+                },
+                {
+                    "kanji": "那覇港湾空港工事事務所",
+                    "reading": "ナハコウワンクウコウコウジジムショ",
+                    "meanings": [
+                        "Naha Harbour and Airport Construction Office"
+                    ]
+                },
+                {
+                    "kanji": "刹那",
+                    "reading": "セツナ",
+                    "meanings": [
+                        "moment",
+                        "instant",
+                        "kshana",
+                        "duration of a single mental event (about 1/75 second)",
+                        "shortest possible interval of time"
+                    ]
+                },
+                {
+                    "kanji": "印度支那",
+                    "reading": "インドシナ",
+                    "meanings": [
+                        "Indochina"
+                    ]
+                }
+            ]
+        }
+    }
+}

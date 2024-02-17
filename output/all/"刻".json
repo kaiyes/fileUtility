@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"刻\"",
+        "strokes": 8,
+        "main_meanings": [
+            "engrave",
+            "cut fine",
+            "chop",
+            "hash",
+            "mince",
+            "time",
+            "carving"
+        ],
+        "main_readings": {
+            "kun": [
+                "きざ.む",
+                "きざ.み"
+            ],
+            "on": [
+                "コク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "875": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "865": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1033": "A New Dictionary of Kanji Usage",
+                "681": "Classic Nelson (Andrew Nelson)",
+                "1444": "Essential Kanji (P.G. O’Neill)",
+                "361": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "900": "Japanese Names (P.G. O’Neill)",
+                "1211": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1274": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1139": "Kanji in Context (Nishiguchi and Kono)",
+                "190": "Kodansha Compact Kanji Guide",
+                "1619": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "851": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1166": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1535": "Les Kanjis dans la tete (Yves Maniette)",
+                "1970": "Morohashi",
+                "1267": "New Japanese English Character Dictionary (Jack Halpern)",
+                "478": "New Nelson (John Haig)",
+                "1521": "Remembering The Kanji (James Heisig)",
+                "1639": "Remembering The Kanji, 6th edition (James Heisig)",
+                "863": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "443": "2001 Kanji",
+                "2f6.7": "The Kanji Dictionary",
+                "1-6-2": "SKIP code",
+                "0280.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-79": "JIS X 0208-1997 kuten code",
+                "523b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ke4",
+                    "ke1"
+                ],
+                "korean": [
+                    "gag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "丶",
+                "ノ",
+                "亠",
+                "人",
+                "刈"
+            ],
+            "basis": "刀",
+            "kangxi_order": 18,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "刻む",
+                    "reading": "きざむ",
+                    "meanings": [
+                        "to mince",
+                        "to cut fine",
+                        "to chop up",
+                        "to hash",
+                        "to shred",
+                        "to carve",
+                        "to engrave",
+                        "to chisel",
+                        "to notch",
+                        "to tick away (time)",
+                        "to beat out (e.g. rhythm)",
+                        "to record the passing moments",
+                        "to etch (into one's mind)",
+                        "to remember distinctly",
+                        "to have tattooed",
+                        "to torment"
+                    ]
+                },
+                {
+                    "kanji": "刻み",
+                    "reading": "きざみ",
+                    "meanings": [
+                        "mincing",
+                        "cutting",
+                        "chopping",
+                        "notch",
+                        "nick",
+                        "rapping (a percussion instrument)",
+                        "beating",
+                        "shredded tobacco",
+                        "interval"
+                    ]
+                },
+                {
+                    "kanji": "刻み足",
+                    "reading": "きざみあし",
+                    "meanings": [
+                        "mincing steps"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "刻",
+                    "reading": "コク",
+                    "meanings": [
+                        "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac)",
+                        "carving",
+                        "engraving",
+                        "cutting",
+                        "mincing",
+                        "victory",
+                        "strictness",
+                        "cruelty"
+                    ]
+                },
+                {
+                    "kanji": "刻々",
+                    "reading": "コッコク",
+                    "meanings": [
+                        "moment by moment",
+                        "hour by hour"
+                    ]
+                },
+                {
+                    "kanji": "復刻",
+                    "reading": "フッコク",
+                    "meanings": [
+                        "republication",
+                        "reissue",
+                        "reprinting",
+                        "reproduction"
+                    ]
+                },
+                {
+                    "kanji": "刻一刻",
+                    "reading": "コクイッコク",
+                    "meanings": [
+                        "moment by moment",
+                        "hour by hour"
+                    ]
+                }
+            ]
+        }
+    }
+}

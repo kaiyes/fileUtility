@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"竹\"",
+        "strokes": 6,
+        "main_meanings": [
+            "bamboo"
+        ],
+        "main_readings": {
+            "kun": [
+                "たけ"
+            ],
+            "on": [
+                "チク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "113": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "71": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "170": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "719": "A New Dictionary of Kanji Usage",
+                "3366": "Classic Nelson (Andrew Nelson)",
+                "68": "Essential Kanji (P.G. O’Neill)",
+                "790": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "247": "Japanese Names (P.G. O’Neill)",
+                "129": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "374": "Kanji in Context (Nishiguchi and Kono)",
+                "1471": "Kodansha Compact Kanji Guide",
+                "267": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "168": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "201": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "946": "Les Kanjis dans la tete (Yves Maniette)",
+                "25841": "Morohashi",
+                "228": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4246": "New Nelson (John Haig)",
+                "937": "Remembering The Kanji (James Heisig)",
+                "1007": "Remembering The Kanji, 6th edition (James Heisig)",
+                "59": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2353": "2001 Kanji",
+                "6f0.1": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "8822.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-61": "JIS X 0208-1997 kuten code",
+                "7af9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たか"
+                ],
+                "chinese": [
+                    "zhu2"
+                ],
+                "korean": [
+                    "jug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "竹",
+                    "reading": "たけ",
+                    "meanings": [
+                        "bamboo (any grass of subfamily Bambusoideae)",
+                        "middle (of a three-tier ranking system)"
+                    ]
+                },
+                {
+                    "kanji": "竹馬",
+                    "reading": "たけうま",
+                    "meanings": [
+                        "stilts (for walking)",
+                        "hobby horse"
+                    ]
+                },
+                {
+                    "kanji": "笛竹",
+                    "reading": "ふえたけ",
+                    "meanings": [
+                        "bamboo flute",
+                        "bamboo for making flutes",
+                        "wind and string instruments"
+                    ]
+                },
+                {
+                    "kanji": "苦竹",
+                    "reading": "にがたけ",
+                    "meanings": [
+                        "Japanese timber bamboo (Phyllostachys bambusoides)",
+                        "giant timber bamboo",
+                        "madake",
+                        "Simon bamboo (Pleioblastus simonii)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "竹林",
+                    "reading": "チクリン",
+                    "meanings": [
+                        "bamboo thicket",
+                        "bamboo grove"
+                    ]
+                },
+                {
+                    "kanji": "竹馬",
+                    "reading": "タケウマ",
+                    "meanings": [
+                        "stilts (for walking)",
+                        "hobby horse"
+                    ]
+                },
+                {
+                    "kanji": "爆竹",
+                    "reading": "バクチク",
+                    "meanings": [
+                        "firecracker"
+                    ]
+                },
+                {
+                    "kanji": "破竹",
+                    "reading": "ハチク",
+                    "meanings": [
+                        "breaking bamboo"
+                    ]
+                }
+            ]
+        }
+    }
+}

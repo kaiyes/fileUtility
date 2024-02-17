@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"婆\"",
+        "strokes": 11,
+        "main_meanings": [
+            "old woman",
+            "grandma",
+            "wet nurse"
+        ],
+        "main_readings": {
+            "kun": [
+                "ばば",
+                "ばあ"
+            ],
+            "on": [
+                "バ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1684": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2039": "A New Dictionary of Kanji Usage",
+                "1234": "Classic Nelson (Andrew Nelson)",
+                "1262": "Essential Kanji (P.G. O’Neill)",
+                "1931": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2116": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1902": "Kanji in Context (Nishiguchi and Kono)",
+                "430": "Kodansha Compact Kanji Guide",
+                "3433": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1768": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2407": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "812": "Les Kanjis dans la tete (Yves Maniette)",
+                "6390": "Morohashi",
+                "2762": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1240": "New Nelson (John Haig)",
+                "804": "Remembering The Kanji (James Heisig)",
+                "867": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1421": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "369": "2001 Kanji",
+                "3e8.9": "The Kanji Dictionary",
+                "2-8-3": "SKIP code",
+                "3440.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-44": "JIS X 0208-1997 kuten code",
+                "5a46": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "po2"
+                ],
+                "korean": [
+                    "pa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "又",
+                "女",
+                "汁",
+                "皮"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "婆",
+                    "reading": "ばば",
+                    "meanings": [
+                        "old woman",
+                        "joker (in old maid)"
+                    ]
+                },
+                {
+                    "kanji": "婆",
+                    "reading": "ばばあ",
+                    "meanings": [
+                        "old woman",
+                        "hag",
+                        "old bag"
+                    ]
+                },
+                {
+                    "kanji": "祖父祖母",
+                    "reading": "じじばば",
+                    "meanings": [
+                        "old people",
+                        "grandparents"
+                    ]
+                },
+                {
+                    "kanji": "遣り手婆",
+                    "reading": "やりてばば",
+                    "meanings": [
+                        "brothel madam"
+                    ]
+                },
+                {
+                    "kanji": "婆さん",
+                    "reading": "ばあさん",
+                    "meanings": [
+                        "grandmother",
+                        "old woman",
+                        "female senior citizen"
+                    ]
+                },
+                {
+                    "kanji": "婆ちゃん",
+                    "reading": "ばあちゃん",
+                    "meanings": [
+                        "granny",
+                        "grandma",
+                        "gran",
+                        "old lady",
+                        "old woman"
+                    ]
+                },
+                {
+                    "kanji": "糞婆",
+                    "reading": "くそばばあ",
+                    "meanings": [
+                        "old hag",
+                        "old woman",
+                        "old bat"
+                    ]
+                },
+                {
+                    "kanji": "鬼婆",
+                    "reading": "おにばば",
+                    "meanings": [
+                        "hag",
+                        "witch",
+                        "bitch",
+                        "penurious or spiteful old woman",
+                        "termagant",
+                        "virago"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "婆",
+                    "reading": "ババ",
+                    "meanings": [
+                        "old woman",
+                        "joker (in old maid)"
+                    ]
+                },
+                {
+                    "kanji": "婆",
+                    "reading": "ババア",
+                    "meanings": [
+                        "old woman",
+                        "hag",
+                        "old bag"
+                    ]
+                },
+                {
+                    "kanji": "提婆",
+                    "reading": "ダイバ",
+                    "meanings": [
+                        "deva (being with god-like characteristics)"
+                    ]
+                },
+                {
+                    "kanji": "湯婆",
+                    "reading": "タンポ",
+                    "meanings": [
+                        "hot-water bottle",
+                        "metal sake jug",
+                        "sake warmer"
+                    ]
+                }
+            ]
+        }
+    }
+}

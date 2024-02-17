@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"血\"",
+        "strokes": 6,
+        "main_meanings": [
+            "blood"
+        ],
+        "main_readings": {
+            "kun": [
+                "ち"
+            ],
+            "on": [
+                "ケツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "389": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "288": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "270": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "637": "A New Dictionary of Kanji Usage",
+                "4205": "Classic Nelson (Andrew Nelson)",
+                "344": "Essential Kanji (P.G. O’Neill)",
+                "876": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "337": "Japanese Names (P.G. O’Neill)",
+                "789": "Kanji and Kana (Spahn and Hadamitzky)",
+                "803": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "928": "Kanji in Context (Nishiguchi and Kono)",
+                "1611": "Kodansha Compact Kanji Guide",
+                "4339": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2196": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2955": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1460": "Les Kanjis dans la tete (Yves Maniette)",
+                "33964": "Morohashi",
+                "3526": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5411": "New Nelson (John Haig)",
+                "1448": "Remembering The Kanji (James Heisig)",
+                "1556": "Remembering The Kanji, 6th edition (James Heisig)",
+                "489": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "265": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "874": "2001 Kanji",
+                "5h1.1": "The Kanji Dictionary",
+                "4-6-2": "SKIP code",
+                "2710.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-76": "JIS X 0208-1997 kuten code",
+                "8840": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xie3",
+                    "xue4"
+                ],
+                "korean": [
+                    "hyeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "blood",
+            "parts": [
+                "皿",
+                "血"
+            ],
+            "basis": "血",
+            "kangxi_order": 143,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "血",
+                    "reading": "ち",
+                    "meanings": [
+                        "blood",
+                        "blood",
+                        "ancestry",
+                        "lineage",
+                        "stock",
+                        "(the) blood",
+                        "feelings",
+                        "passions"
+                    ]
+                },
+                {
+                    "kanji": "血筋",
+                    "reading": "ちすじ",
+                    "meanings": [
+                        "lineage",
+                        "stock",
+                        "descent",
+                        "strain",
+                        "blood relationship"
+                    ]
+                },
+                {
+                    "kanji": "黄色い血",
+                    "reading": "きいろいち",
+                    "meanings": [
+                        "blood low in blood cells (caused by frequent blood donations)",
+                        "yellow blood"
+                    ]
+                },
+                {
+                    "kanji": "生き血",
+                    "reading": "いきち",
+                    "meanings": [
+                        "lifeblood"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "血液",
+                    "reading": "ケツエキ",
+                    "meanings": [
+                        "blood"
+                    ]
+                },
+                {
+                    "kanji": "血圧",
+                    "reading": "ケツアツ",
+                    "meanings": [
+                        "blood pressure"
+                    ]
+                },
+                {
+                    "kanji": "脳出血",
+                    "reading": "ノウシュッケツ",
+                    "meanings": [
+                        "cerebral hemorrhage",
+                        "cerebral haemorrhage"
+                    ]
+                },
+                {
+                    "kanji": "熱血",
+                    "reading": "ネッケツ",
+                    "meanings": [
+                        "hot blood",
+                        "warm blood",
+                        "zeal",
+                        "fervor",
+                        "fervour",
+                        "ardor",
+                        "ardour",
+                        "enthusiasm"
+                    ]
+                }
+            ]
+        }
+    }
+}

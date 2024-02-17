@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"渓\"",
+        "strokes": 11,
+        "main_meanings": [
+            "mountain stream",
+            "valley"
+        ],
+        "main_readings": {
+            "kun": [
+                "たに",
+                "たにがわ"
+            ],
+            "on": [
+                "ケイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1199": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1822": "A New Dictionary of Kanji Usage",
+                "2581": "Classic Nelson (Andrew Nelson)",
+                "1846": "Essential Kanji (P.G. O’Neill)",
+                "1484": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1330A": "Japanese Names (P.G. O’Neill)",
+                "1884": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2053": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1843": "Kanji in Context (Nishiguchi and Kono)",
+                "1206": "Kodansha Compact Kanji Guide",
+                "628": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "380": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "474": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "848": "Les Kanjis dans la tete (Yves Maniette)",
+                "516": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3196": "New Nelson (John Haig)",
+                "840": "Remembering The Kanji (James Heisig)",
+                "903": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1454": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "363": "2001 Kanji",
+                "3a8.16": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3213.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-44": "JIS X 0208-1997 kuten code",
+                "6e13": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "gye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "二",
+                "人",
+                "土",
+                "大",
+                "汁",
+                "爪"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "溪"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "谷",
+                    "reading": "たに",
+                    "meanings": [
+                        "valley"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "渓谷",
+                    "reading": "ケイコク",
+                    "meanings": [
+                        "valley (with a river running through it)",
+                        "gorge",
+                        "ravine",
+                        "canyon"
+                    ]
+                },
+                {
+                    "kanji": "渓流",
+                    "reading": "ケイリュウ",
+                    "meanings": [
+                        "mountain stream",
+                        "mountain torrent"
+                    ]
+                },
+                {
+                    "kanji": "雪渓",
+                    "reading": "セッケイ",
+                    "meanings": [
+                        "snowy valley"
+                    ]
+                },
+                {
+                    "kanji": "猊鼻渓",
+                    "reading": "ゲイビケイ",
+                    "meanings": [
+                        "Geibi Gorge (Ichinoseki",
+                        "Iwate)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"溝\"",
+        "strokes": 13,
+        "main_meanings": [
+            "gutter",
+            "ditch",
+            "sewer",
+            "drain",
+            "10**32"
+        ],
+        "main_readings": {
+            "kun": [
+                "みぞ"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1263": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1706": "A New Dictionary of Kanji Usage",
+                "2657": "Classic Nelson (Andrew Nelson)",
+                "1487": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1859": "Japanese Names (P.G. O’Neill)",
+                "1012": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1050": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1499": "Kanji in Context (Nishiguchi and Kono)",
+                "1232": "Kodansha Compact Kanji Guide",
+                "810": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "473": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "604": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1836": "Les Kanjis dans la tete (Yves Maniette)",
+                "17944X": "Morohashi",
+                "659": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3275": "New Nelson (John Haig)",
+                "1819": "Remembering The Kanji (James Heisig)",
+                "1960": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1639": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "347": "2001 Kanji",
+                "3a10.9": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "3514.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-34": "JIS X 0208-1997 kuten code",
+                "6e9d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "どぶ"
+                ],
+                "chinese": [
+                    "gou1"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "｜",
+                "冂",
+                "十",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "溝",
+                    "reading": "みぞ",
+                    "meanings": [
+                        "ditch",
+                        "drain",
+                        "gutter",
+                        "trench",
+                        "groove",
+                        "tread",
+                        "indentation",
+                        "gap (between people",
+                        "countries",
+                        "etc.)",
+                        "gulf",
+                        "rift"
+                    ]
+                },
+                {
+                    "kanji": "溝隠",
+                    "reading": "みぞかくし",
+                    "meanings": [
+                        "Chinese lobelia (Lobelia chinensis)"
+                    ]
+                },
+                {
+                    "kanji": "押さえ溝",
+                    "reading": "おさえみぞ",
+                    "meanings": [
+                        "groove in the body of wooden plane which holds the blade"
+                    ]
+                },
+                {
+                    "kanji": "逃げ溝",
+                    "reading": "にげみぞ",
+                    "meanings": [
+                        "clearance groove",
+                        "under cut"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "溝",
+                    "reading": "コウ",
+                    "meanings": [
+                        "10^32",
+                        "hundred nonillion"
+                    ]
+                },
+                {
+                    "kanji": "溝渠",
+                    "reading": "コウキョ",
+                    "meanings": [
+                        "ditch",
+                        "sewer",
+                        "canal"
+                    ]
+                },
+                {
+                    "kanji": "排水溝",
+                    "reading": "ハイスイコウ",
+                    "meanings": [
+                        "drainage",
+                        "gutter",
+                        "ditch"
+                    ]
+                },
+                {
+                    "kanji": "海溝",
+                    "reading": "カイコウ",
+                    "meanings": [
+                        "oceanic trench",
+                        "deep-sea trench",
+                        "deep"
+                    ]
+                }
+            ]
+        }
+    }
+}

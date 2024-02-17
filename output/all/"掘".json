@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"掘\"",
+        "strokes": 11,
+        "main_meanings": [
+            "dig",
+            "delve",
+            "excavate"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほ.る"
+            ],
+            "on": [
+                "クツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1189": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1276": "A New Dictionary of Kanji Usage",
+                "1943": "Classic Nelson (Andrew Nelson)",
+                "1265": "Essential Kanji (P.G. O’Neill)",
+                "576": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1803": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1941": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1259": "Kanji in Context (Nishiguchi and Kono)",
+                "897": "Kodansha Compact Kanji Guide",
+                "601": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "364": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "454": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1070": "Les Kanjis dans la tete (Yves Maniette)",
+                "12264": "Morohashi",
+                "496": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2204": "New Nelson (John Haig)",
+                "1061": "Remembering The Kanji (James Heisig)",
+                "1141": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1438": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1376": "2001 Kanji",
+                "3c8.32": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5707.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-01": "JIS X 0208-1997 kuten code",
+                "6398": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぼり"
+                ],
+                "chinese": [
+                    "jue2"
+                ],
+                "korean": [
+                    "gul",
+                    "gweol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "｜",
+                "尸",
+                "山",
+                "扎",
+                "凵"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "掘る",
+                    "reading": "ほる",
+                    "meanings": [
+                        "to dig",
+                        "to excavate",
+                        "to hollow",
+                        "to delve into",
+                        "to dig up (e.g. vegetables)",
+                        "(for two men) to have anal sex"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "採掘",
+                    "reading": "サイクツ",
+                    "meanings": [
+                        "mining",
+                        "digging",
+                        "working (a mine)"
+                    ]
+                },
+                {
+                    "kanji": "盗掘",
+                    "reading": "トウクツ",
+                    "meanings": [
+                        "illegal digging",
+                        "illegal mining",
+                        "grave robbing",
+                        "tomb robbing"
+                    ]
+                }
+            ]
+        }
+    }
+}

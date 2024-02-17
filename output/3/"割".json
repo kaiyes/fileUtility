@@ -1,0 +1,295 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"割\"",
+        "strokes": 12,
+        "main_meanings": [
+            "proportion",
+            "comparatively",
+            "divide",
+            "cut",
+            "separate",
+            "split"
+        ],
+        "main_readings": {
+            "kun": [
+                "わ.る",
+                "わり",
+                "わ.り",
+                "わ.れる",
+                "さ.く"
+            ],
+            "on": [
+                "カツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "838": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "823": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "357": "A New Dictionary of Kanji Usage",
+                "703": "Classic Nelson (Andrew Nelson)",
+                "1274": "Essential Kanji (P.G. O’Neill)",
+                "364": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1696A": "Japanese Names (P.G. O’Neill)",
+                "519": "Kanji and Kana (Spahn and Hadamitzky)",
+                "528": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "786": "Kanji in Context (Nishiguchi and Kono)",
+                "204": "Kodansha Compact Kanji Guide",
+                "2284": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1180": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1611": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1567": "Les Kanjis dans la tete (Yves Maniette)",
+                "2112P": "Morohashi",
+                "1816": "New Japanese English Character Dictionary (Jack Halpern)",
+                "507": "New Nelson (John Haig)",
+                "1553": "Remembering The Kanji (James Heisig)",
+                "1673": "Remembering The Kanji, 6th edition (James Heisig)",
+                "414": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "938": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "743": "2001 Kanji",
+                "2f10.1": "The Kanji Dictionary",
+                "1-10-2": "SKIP code",
+                "3260.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-68": "JIS X 0208-1997 kuten code",
+                "5272": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ge1"
+                ],
+                "korean": [
+                    "hal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "二",
+                "亠",
+                "刈",
+                "口",
+                "土",
+                "宀"
+            ],
+            "basis": "刀",
+            "kangxi_order": 18,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "割る",
+                    "reading": "わる",
+                    "meanings": [
+                        "to divide",
+                        "to cut",
+                        "to halve",
+                        "to separate",
+                        "to split",
+                        "to rip",
+                        "to break",
+                        "to crack",
+                        "to smash",
+                        "to dilute",
+                        "to fall below",
+                        "to discount",
+                        "to step over (a line",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "割り",
+                    "reading": "わり",
+                    "meanings": [
+                        "rate",
+                        "ratio",
+                        "proportion",
+                        "one tenth",
+                        "ten percent",
+                        "(comparative) profit",
+                        "gain",
+                        "assignment",
+                        "allotment",
+                        "allocation",
+                        "match",
+                        "schedule of matches",
+                        "diluted with (of drinks)",
+                        "mixed with",
+                        "discount",
+                        "rebate"
+                    ]
+                },
+                {
+                    "kanji": "割合",
+                    "reading": "わりあい",
+                    "meanings": [
+                        "rate",
+                        "ratio",
+                        "percentage",
+                        "proportion",
+                        "comparatively",
+                        "contrary to expectations"
+                    ]
+                },
+                {
+                    "kanji": "学割",
+                    "reading": "がくわり",
+                    "meanings": [
+                        "student discount"
+                    ]
+                },
+                {
+                    "kanji": "手合割",
+                    "reading": "てあいわり",
+                    "meanings": [
+                        "handicap (go",
+                        "shogi)"
+                    ]
+                },
+                {
+                    "kanji": "割り",
+                    "reading": "わり",
+                    "meanings": [
+                        "rate",
+                        "ratio",
+                        "proportion",
+                        "one tenth",
+                        "ten percent",
+                        "(comparative) profit",
+                        "gain",
+                        "assignment",
+                        "allotment",
+                        "allocation",
+                        "match",
+                        "schedule of matches",
+                        "diluted with (of drinks)",
+                        "mixed with",
+                        "discount",
+                        "rebate"
+                    ]
+                },
+                {
+                    "kanji": "割合",
+                    "reading": "わりあい",
+                    "meanings": [
+                        "rate",
+                        "ratio",
+                        "percentage",
+                        "proportion",
+                        "comparatively",
+                        "contrary to expectations"
+                    ]
+                },
+                {
+                    "kanji": "学割",
+                    "reading": "がくわり",
+                    "meanings": [
+                        "student discount"
+                    ]
+                },
+                {
+                    "kanji": "手合割",
+                    "reading": "てあいわり",
+                    "meanings": [
+                        "handicap (go",
+                        "shogi)"
+                    ]
+                },
+                {
+                    "kanji": "割れる",
+                    "reading": "われる",
+                    "meanings": [
+                        "to break",
+                        "to be smashed",
+                        "to split",
+                        "to crack",
+                        "to fissure",
+                        "to be torn",
+                        "to be divided (opinion",
+                        "vote",
+                        "etc.)",
+                        "to split (e.g. of a party)",
+                        "to come to light",
+                        "to become clear",
+                        "to be identified",
+                        "to be revealed",
+                        "to become distorted (of sound)",
+                        "to clip",
+                        "to be divisible (without a remainder)",
+                        "to drop below a minimum"
+                    ]
+                },
+                {
+                    "kanji": "裂く",
+                    "reading": "さく",
+                    "meanings": [
+                        "to tear",
+                        "to rip up",
+                        "to cut up",
+                        "to cleave",
+                        "to cut open (esp. the abdomen)",
+                        "to forcibly separate (e.g. two lovers)",
+                        "to spare (time",
+                        "money",
+                        "etc.)",
+                        "to use part of something",
+                        "to have a tattoo in the corner of one's eye"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "割愛",
+                    "reading": "カツアイ",
+                    "meanings": [
+                        "omitting (reluctantly)",
+                        "leaving out",
+                        "dropping",
+                        "giving up (reluctantly)",
+                        "parting with",
+                        "sharing",
+                        "sparing"
+                    ]
+                },
+                {
+                    "kanji": "割譲",
+                    "reading": "カツジョウ",
+                    "meanings": [
+                        "cession (of territory)"
+                    ]
+                },
+                {
+                    "kanji": "正割",
+                    "reading": "セイカツ",
+                    "meanings": [
+                        "secant (trigonometric function)"
+                    ]
+                },
+                {
+                    "kanji": "等割",
+                    "reading": "トウカツ",
+                    "meanings": [
+                        "equal cleavage (embryology)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"似\"",
+        "strokes": 7,
+        "main_meanings": [
+            "becoming",
+            "resemble",
+            "counterfeit",
+            "imitate",
+            "suitable"
+        ],
+        "main_readings": {
+            "kun": [
+                "に.る",
+                "ひ.る"
+            ],
+            "on": [
+                "ジ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "625": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "724": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "696": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1219": "A New Dictionary of Kanji Usage",
+                "376": "Classic Nelson (Andrew Nelson)",
+                "775": "Essential Kanji (P.G. O’Neill)",
+                "311": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "350": "Japanese Names (P.G. O’Neill)",
+                "1486": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1583": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1172": "Kanji in Context (Nishiguchi and Kono)",
+                "77": "Kodansha Compact Kanji Guide",
+                "71": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "43": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "46": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1038": "Les Kanjis dans la tete (Yves Maniette)",
+                "485": "Morohashi",
+                "63": "New Japanese English Character Dictionary (Jack Halpern)",
+                "138": "New Nelson (John Haig)",
+                "1029": "Remembering The Kanji (James Heisig)",
+                "1106": "Remembering The Kanji, 6th edition (James Heisig)",
+                "669": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2162": "2001 Kanji",
+                "2a5.11": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "2820.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-87": "JIS X 0208-1997 kuten code",
+                "4f3c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "にた"
+                ],
+                "chinese": [
+                    "si4",
+                    "shi4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "丶",
+                "人",
+                "化"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "佀"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "似る",
+                    "reading": "にる",
+                    "meanings": [
+                        "to resemble",
+                        "to look like",
+                        "to be like",
+                        "to be alike",
+                        "to be similar",
+                        "to take after"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "似我蜂",
+                    "reading": "ジガバチ",
+                    "meanings": [
+                        "red-banded sand wasp (Ammophila sabulosa)",
+                        "thread-waisted wasp (any wasp of family Sphecidae",
+                        "incl. digger wasps and mud daubers)"
+                    ]
+                },
+                {
+                    "kanji": "酷似",
+                    "reading": "コクジ",
+                    "meanings": [
+                        "resembling closely",
+                        "being strikingly similar",
+                        "bearing a strong likeness"
+                    ]
+                },
+                {
+                    "kanji": "疑似",
+                    "reading": "ギジ",
+                    "meanings": [
+                        "pseudo",
+                        "quasi",
+                        "false",
+                        "para-",
+                        "mock",
+                        "sham",
+                        "suspected (case",
+                        "e.g. of disease)"
+                    ]
+                }
+            ]
+        }
+    }
+}

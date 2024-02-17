@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"略\"",
+        "strokes": 11,
+        "main_meanings": [
+            "abbreviation",
+            "omission",
+            "outline",
+            "shorten",
+            "capture",
+            "plunder"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほぼ",
+                "はぶ.く",
+                "おか.す",
+                "おさ.める",
+                "はかりごと",
+                "はか.る"
+            ],
+            "on": [
+                "リャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "879": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "823": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "804": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "921": "A New Dictionary of Kanji Usage",
+                "3007": "Classic Nelson (Andrew Nelson)",
+                "678": "Essential Kanji (P.G. O’Neill)",
+                "744": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "841": "Kanji and Kana (Spahn and Hadamitzky)",
+                "860": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1195": "Kanji in Context (Nishiguchi and Kono)",
+                "1343": "Kodansha Compact Kanji Guide",
+                "1501": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "793": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1081": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "299": "Les Kanjis dans la tete (Yves Maniette)",
+                "21839": "Morohashi",
+                "1169": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3755": "New Nelson (John Haig)",
+                "293": "Remembering The Kanji (James Heisig)",
+                "314": "Remembering The Kanji, 6th edition (James Heisig)",
+                "478": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "748": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3677": "2001 Kanji",
+                "5f6.4": "The Kanji Dictionary",
+                "1-5-6": "SKIP code",
+                "6706.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-12": "JIS X 0208-1997 kuten code",
+                "7565": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lu:e4"
+                ],
+                "korean": [
+                    "ryag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "field",
+            "parts": [
+                "口",
+                "夂",
+                "田"
+            ],
+            "basis": "田",
+            "kangxi_order": 102,
+            "variants": [
+                "畧"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "略",
+                    "reading": "ほぼ",
+                    "meanings": [
+                        "almost",
+                        "roughly",
+                        "approximately",
+                        "about",
+                        "around"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "略",
+                    "reading": "リャク",
+                    "meanings": [
+                        "abbreviation",
+                        "omission",
+                        "outline",
+                        "gist",
+                        "plan",
+                        "strategy",
+                        "scheme"
+                    ]
+                },
+                {
+                    "kanji": "略式",
+                    "reading": "リャクシキ",
+                    "meanings": [
+                        "informal",
+                        "simplified"
+                    ]
+                },
+                {
+                    "kanji": "党略",
+                    "reading": "トウリャク",
+                    "meanings": [
+                        "party politics (tactics)"
+                    ]
+                },
+                {
+                    "kanji": "攻略",
+                    "reading": "コウリャク",
+                    "meanings": [
+                        "capture (of enemy territory)",
+                        "taking (by storm)",
+                        "conquest",
+                        "attack",
+                        "assault",
+                        "defeating (an opponent)",
+                        "attacking (a problem) strategically"
+                    ]
+                }
+            ]
+        }
+    }
+}

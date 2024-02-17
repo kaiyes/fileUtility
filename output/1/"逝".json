@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"逝\"",
+        "strokes": 10,
+        "main_meanings": [
+            "departed",
+            "die"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆ.く",
+                "い.く"
+            ],
+            "on": [
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1475": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1944": "A New Dictionary of Kanji Usage",
+                "4691": "Classic Nelson (Andrew Nelson)",
+                "1810": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1396": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1485": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1747": "Kanji in Context (Nishiguchi and Kono)",
+                "691": "Kodansha Compact Kanji Guide",
+                "3850": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1977": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2673": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1141": "Les Kanjis dans la tete (Yves Maniette)",
+                "38895X": "Morohashi",
+                "3104": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6051": "New Nelson (John Haig)",
+                "1132": "Remembering The Kanji (James Heisig)",
+                "1213": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1395": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1354": "2001 Kanji",
+                "2q7.8": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "3230.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-34": "JIS X 0208-1997 kuten code",
+                "901d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "seo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "扎",
+                "斤"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "逝く",
+                    "reading": "いく",
+                    "meanings": [
+                        "to die",
+                        "to pass away"
+                    ]
+                },
+                {
+                    "kanji": "逝く",
+                    "reading": "いく",
+                    "meanings": [
+                        "to die",
+                        "to pass away"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "逝去",
+                    "reading": "セイキョ",
+                    "meanings": [
+                        "death",
+                        "passing"
+                    ]
+                },
+                {
+                    "kanji": "永逝",
+                    "reading": "エイセイ",
+                    "meanings": [
+                        "death",
+                        "dying"
+                    ]
+                },
+                {
+                    "kanji": "薨逝",
+                    "reading": "コウセイ",
+                    "meanings": [
+                        "death (of a nobleman)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"憲\"",
+        "strokes": 16,
+        "main_meanings": [
+            "constitution",
+            "law"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "773": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "863": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "852": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "943": "A New Dictionary of Kanji Usage",
+                "1342": "Classic Nelson (Andrew Nelson)",
+                "622": "Essential Kanji (P.G. O’Neill)",
+                "1322": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2562": "Japanese Names (P.G. O’Neill)",
+                "521": "Kanji and Kana (Spahn and Hadamitzky)",
+                "530": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "787": "Kanji in Context (Nishiguchi and Kono)",
+                "803": "Kodansha Compact Kanji Guide",
+                "3001": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1533": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2091": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1568": "Les Kanjis dans la tete (Yves Maniette)",
+                "11269P": "Morohashi",
+                "2368": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1988": "New Nelson (John Haig)",
+                "1554": "Remembering The Kanji (James Heisig)",
+                "1674": "Remembering The Kanji, 6th edition (James Heisig)",
+                "429": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "991": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "758": "2001 Kanji",
+                "3m13.2": "The Kanji Dictionary",
+                "2-3-13": "SKIP code",
+                "3033.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-91": "JIS X 0208-1997 kuten code",
+                "61b2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かず、 のり、 よし"
+                ],
+                "chinese": [
+                    "xian4"
+                ],
+                "korean": [
+                    "heon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "宀",
+                "心",
+                "買"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "憲章",
+                    "reading": "ケンショウ",
+                    "meanings": [
+                        "charter"
+                    ]
+                },
+                {
+                    "kanji": "憲政",
+                    "reading": "ケンセイ",
+                    "meanings": [
+                        "constitutional government",
+                        "exemplary government",
+                        "excellent government"
+                    ]
+                },
+                {
+                    "kanji": "違憲",
+                    "reading": "イケン",
+                    "meanings": [
+                        "unconstitutionality"
+                    ]
+                },
+                {
+                    "kanji": "改憲",
+                    "reading": "カイケン",
+                    "meanings": [
+                        "constitutional change",
+                        "revising the constitution"
+                    ]
+                }
+            ]
+        }
+    }
+}

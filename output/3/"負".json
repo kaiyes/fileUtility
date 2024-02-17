@@ -1,0 +1,207 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"負\"",
+        "strokes": 9,
+        "main_meanings": [
+            "defeat",
+            "negative",
+            "-",
+            "minus",
+            "bear",
+            "owe",
+            "assume a responsibility"
+        ],
+        "main_readings": {
+            "kun": [
+                "ま.ける",
+                "ま.かす",
+                "お.う"
+            ],
+            "on": [
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "312": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "406": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "383": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "473": "A New Dictionary of Kanji Usage",
+                "4488": "Classic Nelson (Andrew Nelson)",
+                "503": "Essential Kanji (P.G. O’Neill)",
+                "918": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "981": "Japanese Names (P.G. O’Neill)",
+                "510": "Kanji and Kana (Spahn and Hadamitzky)",
+                "519": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "717": "Kanji in Context (Nishiguchi and Kono)",
+                "1722": "Kodansha Compact Kanji Guide",
+                "2594": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1327": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1799": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "63": "Remembering The Kanji (James Heisig)",
+                "36660X": "Morohashi",
+                "2091": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5769": "New Nelson (John Haig)",
+                "67": "Remembering The Kanji, 6th edition (James Heisig)",
+                "346": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2561": "2001 Kanji",
+                "2n7.1": "The Kanji Dictionary",
+                "2-2-7": "SKIP code",
+                "2-7-2": "SKIP code",
+                "2780.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-73": "JIS X 0208-1997 kuten code",
+                "8ca0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "ハ",
+                "勹",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "負ける",
+                    "reading": "まける",
+                    "meanings": [
+                        "to lose",
+                        "to be defeated",
+                        "to succumb",
+                        "to give in",
+                        "to surrender",
+                        "to yield",
+                        "to be inferior to",
+                        "to break out in a rash due to (e.g. lacquer",
+                        "shaving",
+                        "etc.)",
+                        "to reduce the price",
+                        "to give a discount",
+                        "to throw in (something extra) for free"
+                    ]
+                },
+                {
+                    "kanji": "負けるが勝ち",
+                    "reading": "まけるがかち",
+                    "meanings": [
+                        "he that fights and runs away may live to fight another day",
+                        "sometimes you have to lose to win",
+                        "losing is winning"
+                    ]
+                },
+                {
+                    "kanji": "負かす",
+                    "reading": "まかす",
+                    "meanings": [
+                        "to defeat"
+                    ]
+                },
+                {
+                    "kanji": "負う",
+                    "reading": "おう",
+                    "meanings": [
+                        "to carry on one's back",
+                        "to bear",
+                        "to shoulder",
+                        "to take (responsibility)",
+                        "to assume",
+                        "to accept",
+                        "to bear (the blame",
+                        "costs",
+                        "etc.)",
+                        "to have (a duty",
+                        "obligation",
+                        "etc.)",
+                        "to become responsible for",
+                        "to be burdened with (work",
+                        "debt",
+                        "etc.)",
+                        "to suffer (an injury)",
+                        "to sustain (a wound)",
+                        "to receive",
+                        "to incur (a loss",
+                        "damage",
+                        "etc.)",
+                        "to owe (a debt of gratitude to)",
+                        "to be indebted to",
+                        "to have (something) behind one",
+                        "to be backed by"
+                    ]
+                },
+                {
+                    "kanji": "負うた子に教えられて浅瀬を渡る",
+                    "reading": "おうたこにおしえられてあさせをわたる",
+                    "meanings": [
+                        "some things can be learned from the young",
+                        "a fool may give a wise man counsel",
+                        "to be led across the shallows by the child on one's shoulders"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "負",
+                    "reading": "フ",
+                    "meanings": [
+                        "negative",
+                        "minus"
+                    ]
+                },
+                {
+                    "kanji": "負荷",
+                    "reading": "フカ",
+                    "meanings": [
+                        "burden",
+                        "load (electrical",
+                        "CPU",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "正負",
+                    "reading": "セイフ",
+                    "meanings": [
+                        "positive and negative",
+                        "+-",
+                        "plus and minus"
+                    ]
+                },
+                {
+                    "kanji": "非負",
+                    "reading": "ヒフ",
+                    "meanings": [
+                        "non-negative"
+                    ]
+                }
+            ]
+        }
+    }
+}

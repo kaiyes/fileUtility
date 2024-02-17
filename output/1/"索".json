@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"索\"",
+        "strokes": 10,
+        "main_meanings": [
+            "cord",
+            "rope",
+            "searching",
+            "inquiring"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1299": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1155": "A New Dictionary of Kanji Usage",
+                "782": "Classic Nelson (Andrew Nelson)",
+                "1762": "Essential Kanji (P.G. O’Neill)",
+                "1625": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1703": "Japanese Names (P.G. O’Neill)",
+                "1059": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1104": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1301": "Kanji in Context (Nishiguchi and Kono)",
+                "1505": "Kodansha Compact Kanji Guide",
+                "3105": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1587": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2168": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1377": "Les Kanjis dans la tete (Yves Maniette)",
+                "27306": "Morohashi",
+                "2455": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4449": "New Nelson (John Haig)",
+                "1365": "Remembering The Kanji (James Heisig)",
+                "1465": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1378": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1541": "2001 Kanji",
+                "2k8.2": "The Kanji Dictionary",
+                "2-4-6": "SKIP code",
+                "2-2-8": "SKIP code",
+                "4090.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-87": "JIS X 0208-1997 kuten code",
+                "7d22": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "suo3"
+                ],
+                "korean": [
+                    "sag",
+                    "saeg"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "冖",
+                "十",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "索",
+                    "reading": "サク",
+                    "meanings": [
+                        "rope",
+                        "cord"
+                    ]
+                },
+                {
+                    "kanji": "索引",
+                    "reading": "サクイン",
+                    "meanings": [
+                        "index (in a book)"
+                    ]
+                },
+                {
+                    "kanji": "模索",
+                    "reading": "モサク",
+                    "meanings": [
+                        "groping (for)",
+                        "fumbling around (for)",
+                        "searching (for an answer",
+                        "solution",
+                        "etc.)",
+                        "trying to find"
+                    ]
+                },
+                {
+                    "kanji": "神経索",
+                    "reading": "シンケイサク",
+                    "meanings": [
+                        "nerve cord"
+                    ]
+                }
+            ]
+        }
+    }
+}

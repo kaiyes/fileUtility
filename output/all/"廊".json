@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"廊\"",
+        "strokes": 12,
+        "main_meanings": [
+            "corridor",
+            "hall",
+            "tower"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ロウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1938": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1348": "A New Dictionary of Kanji Usage",
+                "1519": "Classic Nelson (Andrew Nelson)",
+                "1567": "Essential Kanji (P.G. O’Neill)",
+                "1263": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "981": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1015": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "545": "Kanji in Context (Nishiguchi and Kono)",
+                "596": "Kodansha Compact Kanji Guide",
+                "3903": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2011": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2713": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1869": "Les Kanjis dans la tete (Yves Maniette)",
+                "9437X": "Morohashi",
+                "3147": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1622": "New Nelson (John Haig)",
+                "1852": "Remembering The Kanji (James Heisig)",
+                "1996": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1528": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "544": "2001 Kanji",
+                "3q8.4": "The Kanji Dictionary",
+                "3-3-9": "SKIP code",
+                "3-3-8": "SKIP code",
+                "0022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-13": "JIS X 0208-1997 kuten code",
+                "5eca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lang2"
+                ],
+                "korean": [
+                    "rang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "广",
+                "邦",
+                "艮"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "廊",
+                    "reading": "ロウ",
+                    "meanings": [
+                        "corridor",
+                        "passage",
+                        "hall"
+                    ]
+                },
+                {
+                    "kanji": "廊下",
+                    "reading": "ロウカ",
+                    "meanings": [
+                        "corridor",
+                        "hallway",
+                        "passageway"
+                    ]
+                },
+                {
+                    "kanji": "回廊",
+                    "reading": "カイロウ",
+                    "meanings": [
+                        "corridor",
+                        "gallery",
+                        "hallway",
+                        "cloister (i.e. covered walk typically circling a building or garden",
+                        "esp. in a palace or place of worship)"
+                    ]
+                },
+                {
+                    "kanji": "人道回廊",
+                    "reading": "ジンドウカイロウ",
+                    "meanings": [
+                        "humanitarian corridor"
+                    ]
+                }
+            ]
+        }
+    }
+}

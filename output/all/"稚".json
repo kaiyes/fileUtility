@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"稚\"",
+        "strokes": 13,
+        "main_meanings": [
+            "immature",
+            "young"
+        ],
+        "main_readings": {
+            "kun": [
+                "いとけない",
+                "おさない",
+                "おくて",
+                "おでる"
+            ],
+            "on": [
+                "チ",
+                "ジ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1576": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1368": "A New Dictionary of Kanji Usage",
+                "3292": "Classic Nelson (Andrew Nelson)",
+                "1513": "Essential Kanji (P.G. O’Neill)",
+                "1587": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1914": "Japanese Names (P.G. O’Neill)",
+                "1230": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1294": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1100": "Kanji in Context (Nishiguchi and Kono)",
+                "1440": "Kodansha Compact Kanji Guide",
+                "1543": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "814": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1114": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "905": "Les Kanjis dans la tete (Yves Maniette)",
+                "25120": "Morohashi",
+                "1206": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4154": "New Nelson (John Haig)",
+                "896": "Remembering The Kanji (James Heisig)",
+                "962": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1655": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2275": "2001 Kanji",
+                "5d8.1": "The Kanji Dictionary",
+                "1-5-8": "SKIP code",
+                "2091.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-53": "JIS X 0208-1997 kuten code",
+                "7a1a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まさ、 わか、 わく、 わっか"
+                ],
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "chi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "禾",
+                "隹"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": [
+                "穉"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幼い",
+                    "reading": "おさない",
+                    "meanings": [
+                        "very young",
+                        "little",
+                        "childish",
+                        "immature"
+                    ]
+                },
+                {
+                    "kanji": "幼い",
+                    "reading": "おさない",
+                    "meanings": [
+                        "very young",
+                        "little",
+                        "childish",
+                        "immature"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "稚魚",
+                    "reading": "チギョ",
+                    "meanings": [
+                        "fry",
+                        "juvenile fish",
+                        "fingerling"
+                    ]
+                },
+                {
+                    "kanji": "稚拙",
+                    "reading": "チセツ",
+                    "meanings": [
+                        "unskillful",
+                        "childish",
+                        "immature",
+                        "naive",
+                        "artless",
+                        "clumsy",
+                        "crude"
+                    ]
+                },
+                {
+                    "kanji": "丁稚",
+                    "reading": "デッチ",
+                    "meanings": [
+                        "apprentice",
+                        "shop boy"
+                    ]
+                }
+            ]
+        }
+    }
+}

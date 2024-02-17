@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"損\"",
+        "strokes": 13,
+        "main_meanings": [
+            "damage",
+            "loss",
+            "disadvantage",
+            "hurt",
+            "injure"
+        ],
+        "main_readings": {
+            "kun": [
+                "そこ.なう",
+                "そこな.う",
+                "-そこ.なう",
+                "そこ.ねる",
+                "-そこ.ねる"
+            ],
+            "on": [
+                "ソン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "837": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "768": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "745": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1070": "A New Dictionary of Kanji Usage",
+                "1979": "Classic Nelson (Andrew Nelson)",
+                "449": "Essential Kanji (P.G. O’Neill)",
+                "581": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "350": "Kanji and Kana (Spahn and Hadamitzky)",
+                "351": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "396": "Kanji in Context (Nishiguchi and Kono)",
+                "922": "Kodansha Compact Kanji Guide",
+                "801": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "468": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "596": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "673": "Les Kanjis dans la tete (Yves Maniette)",
+                "12459": "Morohashi",
+                "651": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2255": "New Nelson (John Haig)",
+                "666": "Remembering The Kanji (James Heisig)",
+                "719": "Remembering The Kanji, 6th edition (James Heisig)",
+                "780": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1361": "2001 Kanji",
+                "3c10.12": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "5608.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-27": "JIS X 0208-1997 kuten code",
+                "640d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sun3"
+                ],
+                "korean": [
+                    "son"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "ハ",
+                "口",
+                "扎",
+                "目",
+                "貝"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "損なう",
+                    "reading": "そこなう",
+                    "meanings": [
+                        "to harm",
+                        "to hurt",
+                        "to injure",
+                        "to damage",
+                        "to spoil",
+                        "to mar",
+                        "to ruin",
+                        "to fail to do",
+                        "to do amiss",
+                        "to miss one's opportunity to do",
+                        "to almost do",
+                        "to come close to doing"
+                    ]
+                },
+                {
+                    "kanji": "損なう",
+                    "reading": "そこなう",
+                    "meanings": [
+                        "to harm",
+                        "to hurt",
+                        "to injure",
+                        "to damage",
+                        "to spoil",
+                        "to mar",
+                        "to ruin",
+                        "to fail to do",
+                        "to do amiss",
+                        "to miss one's opportunity to do",
+                        "to almost do",
+                        "to come close to doing"
+                    ]
+                },
+                {
+                    "kanji": "損ねる",
+                    "reading": "そこねる",
+                    "meanings": [
+                        "to harm",
+                        "to hurt",
+                        "to injure",
+                        "to wreck",
+                        "to miss one's chance to (do something)",
+                        "to fail to (do what one ought to have done)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "損",
+                    "reading": "ソン",
+                    "meanings": [
+                        "loss",
+                        "damage",
+                        "harm",
+                        "unprofitable",
+                        "disadvantage",
+                        "handicap",
+                        "drawback",
+                        "unfavorable"
+                    ]
+                },
+                {
+                    "kanji": "損益",
+                    "reading": "ソンエキ",
+                    "meanings": [
+                        "profit and loss",
+                        "advantage and disadvantage"
+                    ]
+                },
+                {
+                    "kanji": "毀損",
+                    "reading": "キソン",
+                    "meanings": [
+                        "damage",
+                        "injury",
+                        "defamation",
+                        "harm"
+                    ]
+                },
+                {
+                    "kanji": "海損",
+                    "reading": "カイソン",
+                    "meanings": [
+                        "sea damage",
+                        "average loss"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"窯\"",
+        "strokes": 15,
+        "main_meanings": [
+            "kiln",
+            "oven",
+            "furnace"
+        ],
+        "main_readings": {
+            "kun": [
+                "かま"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1881": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2045": "A New Dictionary of Kanji Usage",
+                "3336": "Classic Nelson (Andrew Nelson)",
+                "1821": "Essential Kanji (P.G. O’Neill)",
+                "1599": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1789": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1925": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1900": "Kanji in Context (Nishiguchi and Kono)",
+                "1458": "Kodansha Compact Kanji Guide",
+                "2986": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1528": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2081": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1337": "Les Kanjis dans la tete (Yves Maniette)",
+                "25594": "Morohashi",
+                "2361": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4210": "New Nelson (John Haig)",
+                "1325": "Remembering The Kanji (James Heisig)",
+                "1423": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1788": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "740": "2001 Kanji",
+                "3m12.5": "The Kanji Dictionary",
+                "2-3-12": "SKIP code",
+                "2-11-4": "SKIP code",
+                "3033.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-50": "JIS X 0208-1997 kuten code",
+                "7aaf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yao2"
+                ],
+                "korean": [
+                    "yo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cave",
+            "parts": [
+                "儿",
+                "并",
+                "宀",
+                "杰",
+                "王",
+                "穴",
+                "羊"
+            ],
+            "basis": "穴",
+            "kangxi_order": 116,
+            "variants": [
+                "窰"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "窯",
+                    "reading": "かま",
+                    "meanings": [
+                        "stove",
+                        "furnace",
+                        "kiln"
+                    ]
+                },
+                {
+                    "kanji": "窯元",
+                    "reading": "かまもと",
+                    "meanings": [
+                        "pottery (i.e. the place)",
+                        "potter"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "窯業",
+                    "reading": "ヨウギョウ",
+                    "meanings": [
+                        "ceramics",
+                        "ceramic industry"
+                    ]
+                },
+                {
+                    "kanji": "窯変",
+                    "reading": "ヨウヘン",
+                    "meanings": [
+                        "deformation during firing (ceramics)",
+                        "color variation during firing"
+                    ]
+                },
+                {
+                    "kanji": "瓦窯",
+                    "reading": "ガヨウ",
+                    "meanings": [
+                        "tile kiln"
+                    ]
+                },
+                {
+                    "kanji": "官窯",
+                    "reading": "カンヨウ",
+                    "meanings": [
+                        "governmental porcelain furnace"
+                    ]
+                }
+            ]
+        }
+    }
+}

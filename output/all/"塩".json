@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"塩\"",
+        "strokes": 13,
+        "main_meanings": [
+            "salt"
+        ],
+        "main_readings": {
+            "kun": [
+                "しお"
+            ],
+            "on": [
+                "エン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "354": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "451": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "428": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1058": "A New Dictionary of Kanji Usage",
+                "1125": "Classic Nelson (Andrew Nelson)",
+                "730": "Essential Kanji (P.G. O’Neill)",
+                "439": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1846": "Japanese Names (P.G. O’Neill)",
+                "1101": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1152": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "924": "Kanji in Context (Nishiguchi and Kono)",
+                "385": "Kodansha Compact Kanji Guide",
+                "774": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "456": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "578": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1470": "Les Kanjis dans la tete (Yves Maniette)",
+                "5382": "Morohashi",
+                "631": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1075": "New Nelson (John Haig)",
+                "1458": "Remembering The Kanji (James Heisig)",
+                "1568": "Remembering The Kanji, 6th edition (James Heisig)",
+                "603": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1474": "2001 Kanji",
+                "3b10.4": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "4811.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-86": "JIS X 0208-1997 kuten code",
+                "5869": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "yeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "一",
+                "ノ",
+                "人",
+                "口",
+                "土",
+                "皿",
+                "乞"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": [
+                "鹽"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "塩",
+                    "reading": "しお",
+                    "meanings": [
+                        "salt",
+                        "common salt",
+                        "table salt",
+                        "sodium chloride",
+                        "hardship",
+                        "toil",
+                        "trouble",
+                        "saltiness",
+                        "cold",
+                        "unwelcoming",
+                        "indifferent"
+                    ]
+                },
+                {
+                    "kanji": "塩田",
+                    "reading": "えんでん",
+                    "meanings": [
+                        "saltpan",
+                        "field for drying salt"
+                    ]
+                },
+                {
+                    "kanji": "岩塩",
+                    "reading": "がんえん",
+                    "meanings": [
+                        "halite",
+                        "rock salt"
+                    ]
+                },
+                {
+                    "kanji": "手塩",
+                    "reading": "てしお",
+                    "meanings": [
+                        "table salt",
+                        "small plate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "塩",
+                    "reading": "エン",
+                    "meanings": [
+                        "salt (e.g. sodium chloride",
+                        "calcium sulfate",
+                        "etc.)",
+                        "chloride"
+                    ]
+                },
+                {
+                    "kanji": "塩化",
+                    "reading": "エンカ",
+                    "meanings": [
+                        "chloridation",
+                        "salification",
+                        "chloride"
+                    ]
+                },
+                {
+                    "kanji": "減塩",
+                    "reading": "ゲンエン",
+                    "meanings": [
+                        "reduction of salt",
+                        "sodium restriction"
+                    ]
+                },
+                {
+                    "kanji": "岩塩",
+                    "reading": "ガンエン",
+                    "meanings": [
+                        "halite",
+                        "rock salt"
+                    ]
+                }
+            ]
+        }
+    }
+}

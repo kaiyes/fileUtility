@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"始\"",
+        "strokes": 8,
+        "main_meanings": [
+            "commence",
+            "begin"
+        ],
+        "main_readings": {
+            "kun": [
+                "はじ.める",
+                "-はじ.める",
+                "はじ.まる"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "225": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "304": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "288": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "465": "A New Dictionary of Kanji Usage",
+                "1208": "Classic Nelson (Andrew Nelson)",
+                "545": "Essential Kanji (P.G. O’Neill)",
+                "155": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1092": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "494": "Kanji and Kana (Spahn and Hadamitzky)",
+                "503": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "129": "Kanji in Context (Nishiguchi and Kono)",
+                "439": "Kodansha Compact Kanji Guide",
+                "335": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "211": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "252": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "755": "Les Kanjis dans la tete (Yves Maniette)",
+                "6166": "Morohashi",
+                "281": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1203": "New Nelson (John Haig)",
+                "747": "Remembering The Kanji (James Heisig)",
+                "809": "Remembering The Kanji, 6th edition (James Heisig)",
+                "321": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "299": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1777": "2001 Kanji",
+                "3e5.9": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "4346.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-47": "JIS X 0208-1997 kuten code",
+                "59cb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "もと"
+                ],
+                "chinese": [
+                    "shi3"
+                ],
+                "korean": [
+                    "si"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "厶",
+                "口",
+                "女"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": [
+                "乨"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "始める",
+                    "reading": "はじめる",
+                    "meanings": [
+                        "to start",
+                        "to begin",
+                        "to commence",
+                        "to initiate",
+                        "to originate",
+                        "to start up (a business",
+                        "society",
+                        "etc.)",
+                        "to open (e.g. a store)",
+                        "to establish",
+                        "to start ...",
+                        "to begin to ..."
+                    ]
+                },
+                {
+                    "kanji": "始まる",
+                    "reading": "はじまる",
+                    "meanings": [
+                        "to begin",
+                        "to start",
+                        "to commence",
+                        "to happen (again)",
+                        "to begin (anew)",
+                        "to date (from)",
+                        "to originate (in)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "始発",
+                    "reading": "シハツ",
+                    "meanings": [
+                        "first departure (of the day)",
+                        "first train",
+                        "first bus",
+                        "departing one's home station (of a train",
+                        "bus",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "始業",
+                    "reading": "シギョウ",
+                    "meanings": [
+                        "start of work",
+                        "commencement",
+                        "opening"
+                    ]
+                },
+                {
+                    "kanji": "年始",
+                    "reading": "ネンシ",
+                    "meanings": [
+                        "beginning of the year",
+                        "new year",
+                        "New Year's call",
+                        "New Year's greetings"
+                    ]
+                },
+                {
+                    "kanji": "創始",
+                    "reading": "ソウシ",
+                    "meanings": [
+                        "creation",
+                        "founding",
+                        "initiating"
+                    ]
+                }
+            ]
+        }
+    }
+}

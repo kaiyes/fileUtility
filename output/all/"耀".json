@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"耀\"",
+        "strokes": 20,
+        "main_meanings": [
+            "shine",
+            "sparkle",
+            "gleam",
+            "twinkle"
+        ],
+        "main_readings": {
+            "kun": [
+                "かがや.く",
+                "ひかり"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1375": "Classic Nelson (Andrew Nelson)",
+                "2919": "Japanese Names (P.G. O’Neill)",
+                "2202": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1812": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "962": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1301": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "28828X": "Morohashi",
+                "4695": "New Nelson (John Haig)",
+                "2880": "Remembering The Kanji (James Heisig)",
+                "2892": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "8c12.1": "The Kanji Dictionary",
+                "1-6-14": "SKIP code",
+                "9721.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-52": "JIS X 0208-1997 kuten code",
+                "8000": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あかる"
+                ],
+                "chinese": [
+                    "yao4",
+                    "yue4"
+                ],
+                "korean": [
+                    "yo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "feather",
+            "parts": [
+                "儿",
+                "尚",
+                "ヨ",
+                "隹"
+            ],
+            "basis": "羽",
+            "kangxi_order": null,
+            "variants": [
+                "燿"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "輝く",
+                    "reading": "かがやく",
+                    "meanings": [
+                        "to shine",
+                        "to sparkle",
+                        "to twinkle",
+                        "to glitter",
+                        "to glisten",
+                        "to light up (with happiness",
+                        "hope",
+                        "etc.)",
+                        "to beam",
+                        "to gleam",
+                        "to glow"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "栄耀",
+                    "reading": "エイヨウ",
+                    "meanings": [
+                        "luxury",
+                        "splendour",
+                        "splendor",
+                        "prosperity"
+                    ]
+                },
+                {
+                    "kanji": "光耀",
+                    "reading": "コウヨウ",
+                    "meanings": [
+                        "shining",
+                        "glittering"
+                    ]
+                }
+            ]
+        }
+    }
+}

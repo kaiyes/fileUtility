@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酌\"",
+        "strokes": 10,
+        "main_meanings": [
+            "bar-tending",
+            "serving sake",
+            "the host",
+            "draw (water)",
+            "ladle",
+            "scoop",
+            "pump"
+        ],
+        "main_readings": {
+            "kun": [
+                "く.む"
+            ],
+            "on": [
+                "シャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1343": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1919": "A New Dictionary of Kanji Usage",
+                "4778": "Classic Nelson (Andrew Nelson)",
+                "1835": "Essential Kanji (P.G. O’Neill)",
+                "1831": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1863": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2022": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1591": "Kanji in Context (Nishiguchi and Kono)",
+                "1788": "Kodansha Compact Kanji Guide",
+                "1854": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "982": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1331": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1441": "Les Kanjis dans la tete (Yves Maniette)",
+                "39768X": "Morohashi",
+                "1461": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6162": "New Nelson (John Haig)",
+                "1429": "Remembering The Kanji (James Heisig)",
+                "1536": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1400": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3252": "2001 Kanji",
+                "7e3.3": "The Kanji Dictionary",
+                "1-7-3": "SKIP code",
+                "1762.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-64": "JIS X 0208-1997 kuten code",
+                "914c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhuo2"
+                ],
+                "korean": [
+                    "jag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "丶",
+                "勹",
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "酌む",
+                    "reading": "くむ",
+                    "meanings": [
+                        "to pour (sake)",
+                        "to serve",
+                        "to drink (together)",
+                        "to consider (feelings",
+                        "the situation",
+                        "etc.)",
+                        "to sympathize with",
+                        "to intuit",
+                        "to understand"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "酌",
+                    "reading": "シャク",
+                    "meanings": [
+                        "pouring alcohol",
+                        "person pouring alcohol (esp. a woman)"
+                    ]
+                },
+                {
+                    "kanji": "酌婦",
+                    "reading": "シャクフ",
+                    "meanings": [
+                        "barmaid",
+                        "waitress"
+                    ]
+                },
+                {
+                    "kanji": "晩酌",
+                    "reading": "バンシャク",
+                    "meanings": [
+                        "drink at home with one's evening meal",
+                        "dinner-time drink"
+                    ]
+                },
+                {
+                    "kanji": "媒酌",
+                    "reading": "バイシャク",
+                    "meanings": [
+                        "matchmaking",
+                        "acting as a go-between"
+                    ]
+                }
+            ]
+        }
+    }
+}

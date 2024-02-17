@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"溶\"",
+        "strokes": 13,
+        "main_meanings": [
+            "melt",
+            "dissolve",
+            "thaw"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.ける",
+                "と.かす",
+                "と.く"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1878": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1663": "A New Dictionary of Kanji Usage",
+                "2659": "Classic Nelson (Andrew Nelson)",
+                "1517": "Essential Kanji (P.G. O’Neill)",
+                "705": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1392": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1481": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1501": "Kanji in Context (Nishiguchi and Kono)",
+                "1238": "Kodansha Compact Kanji Guide",
+                "816": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "478": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "610": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "799": "Les Kanjis dans la tete (Yves Maniette)",
+                "17983": "Morohashi",
+                "664": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3277": "New Nelson (John Haig)",
+                "791": "Remembering The Kanji (James Heisig)",
+                "854": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1643": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "377": "2001 Kanji",
+                "3a10.15": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "3316.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-47": "JIS X 0208-1997 kuten code",
+                "6eb6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "rong2"
+                ],
+                "korean": [
+                    "yong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "个",
+                "ハ",
+                "口",
+                "宀",
+                "汁",
+                "穴",
+                "谷"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "溶ける",
+                    "reading": "とける",
+                    "meanings": [
+                        "to melt",
+                        "to thaw",
+                        "to fuse",
+                        "to dissolve"
+                    ]
+                },
+                {
+                    "kanji": "溶かす",
+                    "reading": "とかす",
+                    "meanings": [
+                        "to dissolve",
+                        "to melt"
+                    ]
+                },
+                {
+                    "kanji": "溶く",
+                    "reading": "とく",
+                    "meanings": [
+                        "to dissolve (paint)",
+                        "to scramble (eggs)",
+                        "to melt (metal",
+                        "etc.)",
+                        "to mix (water with flour",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "溶岩",
+                    "reading": "ヨウガン",
+                    "meanings": [
+                        "lava"
+                    ]
+                },
+                {
+                    "kanji": "溶液",
+                    "reading": "ヨウエキ",
+                    "meanings": [
+                        "solution (liquid)"
+                    ]
+                },
+                {
+                    "kanji": "溶溶",
+                    "reading": "ヨウヨウ",
+                    "meanings": [
+                        "vast",
+                        "overflowing with water",
+                        "spacious"
+                    ]
+                },
+                {
+                    "kanji": "可溶",
+                    "reading": "カヨウ",
+                    "meanings": [
+                        "soluble",
+                        "solubilizing",
+                        "solubilising"
+                    ]
+                }
+            ]
+        }
+    }
+}

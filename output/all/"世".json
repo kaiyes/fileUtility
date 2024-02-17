@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"世\"",
+        "strokes": 5,
+        "main_meanings": [
+            "generation",
+            "world",
+            "society",
+            "public"
+        ],
+        "main_readings": {
+            "kun": [
+                "よ"
+            ],
+            "on": [
+                "セイ",
+                "セ",
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "263": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "344": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "327": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "152": "A New Dictionary of Kanji Usage",
+                "95": "Classic Nelson (Andrew Nelson)",
+                "177": "Essential Kanji (P.G. O’Neill)",
+                "105": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "335": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "252": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "156": "Kanji in Context (Nishiguchi and Kono)",
+                "13": "Kodansha Compact Kanji Guide",
+                "4308": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2178": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2932": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "28": "Remembering The Kanji, 6th edition (James Heisig)",
+                "31": "Morohashi",
+                "3496": "New Japanese English Character Dictionary (Jack Halpern)",
+                "20": "New Nelson (John Haig)",
+                "81": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "254": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1975": "2001 Kanji",
+                "0a5.37": "The Kanji Dictionary",
+                "4-5-2": "SKIP code",
+                "4-4-4": "SKIP code",
+                "4-5-4": "SKIP code",
+                "4-4-2": "SKIP code",
+                "4471.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-04": "JIS X 0208-1997 kuten code",
+                "4e16": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とし、 ゆ、 ゆき"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "se"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "世"
+            ],
+            "basis": "一",
+            "kangxi_order": null,
+            "variants": [
+                "丗"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "世",
+                    "reading": "よ",
+                    "meanings": [
+                        "world",
+                        "society",
+                        "public",
+                        "life",
+                        "lifetime",
+                        "age",
+                        "era",
+                        "period",
+                        "epoch",
+                        "generation",
+                        "reign",
+                        "rule",
+                        "the times",
+                        "world (of existence)"
+                    ]
+                },
+                {
+                    "kanji": "世の中",
+                    "reading": "よのなか",
+                    "meanings": [
+                        "society",
+                        "the world",
+                        "the times"
+                    ]
+                },
+                {
+                    "kanji": "千代",
+                    "reading": "ちよ",
+                    "meanings": [
+                        "thousand years",
+                        "very long period",
+                        "forever"
+                    ]
+                },
+                {
+                    "kanji": "君が代",
+                    "reading": "きみがよ",
+                    "meanings": [
+                        "Imperial reign",
+                        "Kimigayo (Japanese national anthem)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "世",
+                    "reading": "セイ",
+                    "meanings": [
+                        "counter for generations",
+                        "epoch"
+                    ]
+                },
+                {
+                    "kanji": "世紀",
+                    "reading": "セイキ",
+                    "meanings": [
+                        "century",
+                        "era",
+                        "of the century (e.g. fight of the century)"
+                    ]
+                },
+                {
+                    "kanji": "近世",
+                    "reading": "キンセイ",
+                    "meanings": [
+                        "recent past",
+                        "recent times",
+                        "early modern period (from the Azuchi-Momoyama period to the end of the Edo period)"
+                    ]
+                },
+                {
+                    "kanji": "創世",
+                    "reading": "ソウセイ",
+                    "meanings": [
+                        "creation of the world"
+                    ]
+                },
+                {
+                    "kanji": "世",
+                    "reading": "セイ",
+                    "meanings": [
+                        "counter for generations",
+                        "epoch"
+                    ]
+                },
+                {
+                    "kanji": "世紀",
+                    "reading": "セイキ",
+                    "meanings": [
+                        "century",
+                        "era",
+                        "of the century (e.g. fight of the century)"
+                    ]
+                },
+                {
+                    "kanji": "夜店",
+                    "reading": "ヨミセ",
+                    "meanings": [
+                        "night stall",
+                        "night shop",
+                        "night fair"
+                    ]
+                },
+                {
+                    "kanji": "救世",
+                    "reading": "キュウセイ",
+                    "meanings": [
+                        "salvation"
+                    ]
+                }
+            ]
+        }
+    }
+}

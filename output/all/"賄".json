@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"賄\"",
+        "strokes": 13,
+        "main_meanings": [
+            "bribe",
+            "board",
+            "supply",
+            "finance"
+        ],
+        "main_readings": {
+            "kun": [
+                "まかな.う"
+            ],
+            "on": [
+                "ワイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1941": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1816": "A New Dictionary of Kanji Usage",
+                "4507": "Classic Nelson (Andrew Nelson)",
+                "1776": "Essential Kanji (P.G. O’Neill)",
+                "1781": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1739": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1861": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1225": "Kanji in Context (Nishiguchi and Kono)",
+                "1745": "Kodansha Compact Kanji Guide",
+                "1931": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1028": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1390": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "80": "Remembering The Kanji (James Heisig)",
+                "36745": "Morohashi",
+                "1529": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5800": "New Nelson (John Haig)",
+                "84": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1670": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3946": "2001 Kanji",
+                "7b6.1": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "6482.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-37": "JIS X 0208-1997 kuten code",
+                "8cc4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hui4",
+                    "hui3"
+                ],
+                "korean": [
+                    "hoe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "一",
+                "ノ",
+                "ハ",
+                "月",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "賄う",
+                    "reading": "まかなう",
+                    "meanings": [
+                        "to supply (goods",
+                        "money",
+                        "etc.)",
+                        "to cover (costs)",
+                        "to pay",
+                        "to finance",
+                        "to maintain (e.g. a family)",
+                        "to give board",
+                        "to provide meals"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "賄賂",
+                    "reading": "ワイロ",
+                    "meanings": [
+                        "bribe",
+                        "sweetener",
+                        "douceur"
+                    ]
+                },
+                {
+                    "kanji": "あっせん収賄",
+                    "reading": "アッセンシュウワイ",
+                    "meanings": [
+                        "influence peddling"
+                    ]
+                }
+            ]
+        }
+    }
+}

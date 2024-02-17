@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"赴\"",
+        "strokes": 9,
+        "main_meanings": [
+            "proceed",
+            "get",
+            "become",
+            "tend"
+        ],
+        "main_readings": {
+            "kun": [
+                "おもむ.く"
+            ],
+            "on": [
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1751": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1864": "A New Dictionary of Kanji Usage",
+                "4540": "Classic Nelson (Andrew Nelson)",
+                "1797": "Essential Kanji (P.G. O’Neill)",
+                "1789": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1465": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1560": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1075": "Kanji in Context (Nishiguchi and Kono)",
+                "1754": "Kodansha Compact Kanji Guide",
+                "4095": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2078": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2816": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "392": "Les Kanjis dans la tete (Yves Maniette)",
+                "37040": "Morohashi",
+                "3303": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5847": "New Nelson (John Haig)",
+                "386": "Remembering The Kanji (James Heisig)",
+                "412": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1296": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1470": "2001 Kanji",
+                "3b6.14": "The Kanji Dictionary",
+                "3-7-2": "SKIP code",
+                "4380.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-75": "JIS X 0208-1997 kuten code",
+                "8d74": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "赱"
+            ],
+            "meaning": "run",
+            "parts": [
+                "卜",
+                "土",
+                "走"
+            ],
+            "basis": "走",
+            "kangxi_order": 156,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "赴く",
+                    "reading": "おもむく",
+                    "meanings": [
+                        "to go in the direction of",
+                        "to proceed toward",
+                        "to proceed according to",
+                        "to repair to",
+                        "to betake oneself to",
+                        "to become",
+                        "to face (facts",
+                        "circumstances",
+                        "etc.)",
+                        "to abide by",
+                        "to agree to",
+                        "to consent to",
+                        "to obey"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "赴任",
+                    "reading": "フニン",
+                    "meanings": [
+                        "moving to a different location to start a new job",
+                        "(proceeding to) new appointment"
+                    ]
+                },
+                {
+                    "kanji": "赴援",
+                    "reading": "フエン",
+                    "meanings": [
+                        "going to save",
+                        "reinforcing (e.g. troops)"
+                    ]
+                }
+            ]
+        }
+    }
+}

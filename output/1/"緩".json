@@ -1,0 +1,224 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"緩\"",
+        "strokes": 15,
+        "main_meanings": [
+            "slacken",
+            "loosen",
+            "relax",
+            "lessen",
+            "be moderate",
+            "ease"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆる.い",
+                "ゆる.やか",
+                "ゆる.む",
+                "ゆる.める"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1112": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1267": "A New Dictionary of Kanji Usage",
+                "3584": "Classic Nelson (Andrew Nelson)",
+                "1454": "Essential Kanji (P.G. O’Neill)",
+                "1639": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2659": "Japanese Names (P.G. O’Neill)",
+                "1089": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1140": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1271": "Kanji in Context (Nishiguchi and Kono)",
+                "1549": "Kodansha Compact Kanji Guide",
+                "1757": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "943": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1272": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1971": "Les Kanjis dans la tete (Yves Maniette)",
+                "27669": "Morohashi",
+                "1389": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4551": "New Nelson (John Haig)",
+                "1952": "Remembering The Kanji (James Heisig)",
+                "2102": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1791": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2767": "2001 Kanji",
+                "6a9.8": "The Kanji Dictionary",
+                "1-6-9": "SKIP code",
+                "2294.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-43": "JIS X 0208-1997 kuten code",
+                "7de9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ"
+                ],
+                "chinese": [
+                    "huan3"
+                ],
+                "korean": [
+                    "wan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "一",
+                "ノ",
+                "又",
+                "小",
+                "幺",
+                "爪",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "緩い",
+                    "reading": "ゆるい",
+                    "meanings": [
+                        "loose",
+                        "lenient",
+                        "lax",
+                        "gentle (curve",
+                        "slope",
+                        "etc.)",
+                        "slow",
+                        "weak",
+                        "soft",
+                        "not firm",
+                        "difficult",
+                        "hard"
+                    ]
+                },
+                {
+                    "kanji": "緩やか",
+                    "reading": "ゆるやか",
+                    "meanings": [
+                        "loose",
+                        "slack",
+                        "gentle (slope",
+                        "curve)",
+                        "slow (speed)",
+                        "lenient",
+                        "liberal",
+                        "lax"
+                    ]
+                },
+                {
+                    "kanji": "緩やかに進む",
+                    "reading": "ゆるやかにすすむ",
+                    "meanings": [
+                        "to proceed slowly"
+                    ]
+                },
+                {
+                    "kanji": "緩む",
+                    "reading": "ゆるむ",
+                    "meanings": [
+                        "to become loose",
+                        "to slacken (e.g. rope)",
+                        "to become less tense",
+                        "to relax",
+                        "to let one's guard down",
+                        "to slacken (e.g. coldness",
+                        "supervision)",
+                        "to become lax",
+                        "to become softer (e.g. ground",
+                        "facial expression)",
+                        "(of ice) to partially melt",
+                        "to decrease (e.g. speed)",
+                        "(of a market price) to go down slightly"
+                    ]
+                },
+                {
+                    "kanji": "緩める",
+                    "reading": "ゆるめる",
+                    "meanings": [
+                        "to loosen",
+                        "to slacken",
+                        "to relax (attention",
+                        "efforts",
+                        "etc.)",
+                        "to let down (one's guard)",
+                        "to relieve (tension)",
+                        "to relax (a rule)",
+                        "to ease (e.g. restrictions)",
+                        "to loosen (control)",
+                        "to reduce (speed)",
+                        "to slow down",
+                        "to ease up",
+                        "to make more gradual (of a slope)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "緩和",
+                    "reading": "カンワ",
+                    "meanings": [
+                        "relief",
+                        "mitigation",
+                        "alleviation",
+                        "relaxation (of restrictions",
+                        "tensions",
+                        "etc.)",
+                        "easing",
+                        "softening"
+                    ]
+                },
+                {
+                    "kanji": "緩急",
+                    "reading": "カンキュウ",
+                    "meanings": [
+                        "high and low speed",
+                        "fast and slow",
+                        "pace",
+                        "tempo",
+                        "lenience and severity",
+                        "emergency",
+                        "crisis",
+                        "dire situation"
+                    ]
+                },
+                {
+                    "kanji": "弛緩",
+                    "reading": "シカン",
+                    "meanings": [
+                        "relaxation (e.g. of muscles)",
+                        "becoming flaccid"
+                    ]
+                },
+                {
+                    "kanji": "軍紀弛緩",
+                    "reading": "グンキチカン",
+                    "meanings": [
+                        "lack of (slackness in) military discipline",
+                        "demoralization"
+                    ]
+                }
+            ]
+        }
+    }
+}

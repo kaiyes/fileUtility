@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"功\"",
+        "strokes": 5,
+        "main_meanings": [
+            "achievement",
+            "merits",
+            "success",
+            "honor",
+            "credit"
+        ],
+        "main_readings": {
+            "kun": [
+                "いさお"
+            ],
+            "on": [
+                "コウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "605": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "502": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "477": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "765": "A New Dictionary of Kanji Usage",
+                "1454": "Classic Nelson (Andrew Nelson)",
+                "467": "Essential Kanji (P.G. O’Neill)",
+                "1099": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "135": "Japanese Names (P.G. O’Neill)",
+                "818": "Kanji and Kana (Spahn and Hadamitzky)",
+                "837": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "378": "Kanji in Context (Nishiguchi and Kono)",
+                "209": "Kodansha Compact Kanji Guide",
+                "218": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "138": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "165": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "871": "Les Kanjis dans la tete (Yves Maniette)",
+                "2295": "Morohashi",
+                "189": "New Japanese English Character Dictionary (Jack Halpern)",
+                "522": "New Nelson (John Haig)",
+                "863": "Remembering The Kanji (James Heisig)",
+                "927": "Remembering The Kanji, 6th edition (James Heisig)",
+                "448": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3145": "2001 Kanji",
+                "2g3.2": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "1412.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-89": "JIS X 0208-1997 kuten code",
+                "529f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いさ、 かつ、 くぬ、 ぐう、 こと、 つとむ、 とし、 のり、 よし"
+                ],
+                "chinese": [
+                    "gong1"
+                ],
+                "korean": [
+                    "gong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "力",
+                "工"
+            ],
+            "basis": "力",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "勲",
+                    "reading": "いさお",
+                    "meanings": [
+                        "distinguished service",
+                        "meritorious service"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "功",
+                    "reading": "コウ",
+                    "meanings": [
+                        "merit",
+                        "success",
+                        "meritorious deed",
+                        "achievement",
+                        "accumulated experience"
+                    ]
+                },
+                {
+                    "kanji": "功績",
+                    "reading": "コウセキ",
+                    "meanings": [
+                        "achievement",
+                        "meritorious deed",
+                        "distinguished service",
+                        "contribution"
+                    ]
+                },
+                {
+                    "kanji": "即効",
+                    "reading": "ソッコウ",
+                    "meanings": [
+                        "immediate effect",
+                        "instant effect"
+                    ]
+                },
+                {
+                    "kanji": "奏功",
+                    "reading": "ソウコウ",
+                    "meanings": [
+                        "success",
+                        "achievement",
+                        "fruition"
+                    ]
+                },
+                {
+                    "kanji": "工夫",
+                    "reading": "クフウ",
+                    "meanings": [
+                        "devising (a way)",
+                        "contriving",
+                        "inventing",
+                        "thinking up",
+                        "figuring out",
+                        "coming up with",
+                        "working out",
+                        "device",
+                        "design",
+                        "idea",
+                        "plan",
+                        "invention",
+                        "dedication to spiritual improvement (esp. through Zen meditation)"
+                    ]
+                },
+                {
+                    "kanji": "効能",
+                    "reading": "コウノウ",
+                    "meanings": [
+                        "effect",
+                        "effectiveness",
+                        "efficacy",
+                        "virtue",
+                        "benefit"
+                    ]
+                }
+            ]
+        }
+    }
+}

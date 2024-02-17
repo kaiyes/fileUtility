@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"底\"",
+        "strokes": 8,
+        "main_meanings": [
+            "bottom",
+            "sole",
+            "depth",
+            "bottom price",
+            "base",
+            "kind",
+            "sort"
+        ],
+        "main_readings": {
+            "kun": [
+                "そこ"
+            ],
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "475": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "576": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "549": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "791": "A New Dictionary of Kanji Usage",
+                "1508": "Classic Nelson (Andrew Nelson)",
+                "590": "Essential Kanji (P.G. O’Neill)",
+                "508": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "992": "Japanese Names (P.G. O’Neill)",
+                "562": "Kanji and Kana (Spahn and Hadamitzky)",
+                "571": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "745": "Kanji in Context (Nishiguchi and Kono)",
+                "585": "Kodansha Compact Kanji Guide",
+                "3827": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1961": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2656": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1850": "Les Kanjis dans la tete (Yves Maniette)",
+                "9262": "Morohashi",
+                "3084": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1612": "New Nelson (John Haig)",
+                "1833": "Remembering The Kanji (James Heisig)",
+                "1975": "Remembering The Kanji, 6th edition (James Heisig)",
+                "510": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "556": "2001 Kanji",
+                "3q5.3": "The Kanji Dictionary",
+                "3-3-5": "SKIP code",
+                "0024.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-76": "JIS X 0208-1997 kuten code",
+                "5e95": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "di3",
+                    "de5"
+                ],
+                "korean": [
+                    "ji",
+                    "jeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "广",
+                "氏"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "底",
+                    "reading": "そこ",
+                    "meanings": [
+                        "bottom",
+                        "sole"
+                    ]
+                },
+                {
+                    "kanji": "底入れ",
+                    "reading": "そこいれ",
+                    "meanings": [
+                        "bottoming out (of prices)"
+                    ]
+                },
+                {
+                    "kanji": "水底",
+                    "reading": "すいてい",
+                    "meanings": [
+                        "sea or river bottom"
+                    ]
+                },
+                {
+                    "kanji": "奥底",
+                    "reading": "おくそこ",
+                    "meanings": [
+                        "depths",
+                        "deep place",
+                        "bottom (of one's heart)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "底",
+                    "reading": "テイ",
+                    "meanings": [
+                        "base (logarithmic",
+                        "exponential",
+                        "number system)",
+                        "radix",
+                        "base (triangle",
+                        "cone",
+                        "cylinder",
+                        "etc.)",
+                        "type",
+                        "kind",
+                        "extent",
+                        "degree"
+                    ]
+                },
+                {
+                    "kanji": "底辺",
+                    "reading": "テイヘン",
+                    "meanings": [
+                        "base (of a polygon)",
+                        "bottom (of the social scale)",
+                        "lower levels",
+                        "lower classes",
+                        "base (e.g. of support)",
+                        "foundation",
+                        "basis"
+                    ]
+                },
+                {
+                    "kanji": "奥底",
+                    "reading": "オクソコ",
+                    "meanings": [
+                        "depths",
+                        "deep place",
+                        "bottom (of one's heart)"
+                    ]
+                },
+                {
+                    "kanji": "水底",
+                    "reading": "スイテイ",
+                    "meanings": [
+                        "sea or river bottom"
+                    ]
+                }
+            ]
+        }
+    }
+}

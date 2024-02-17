@@ -1,0 +1,191 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"触\"",
+        "strokes": 13,
+        "main_meanings": [
+            "contact",
+            "touch",
+            "feel",
+            "hit",
+            "proclaim",
+            "announce",
+            "conflict"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふ.れる",
+                "さわ.る",
+                "さわ"
+            ],
+            "on": [
+                "ショク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1428": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1256": "A New Dictionary of Kanji Usage",
+                "4305": "Classic Nelson (Andrew Nelson)",
+                "945": "Essential Kanji (P.G. O’Neill)",
+                "893": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "874": "Kanji and Kana (Spahn and Hadamitzky)",
+                "894": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1382": "Kanji in Context (Nishiguchi and Kono)",
+                "1652": "Kodansha Compact Kanji Guide",
+                "1914": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1018": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1376": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1830": "Les Kanjis dans la tete (Yves Maniette)",
+                "35070": "Morohashi",
+                "1518": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5547": "New Nelson (John Haig)",
+                "1813": "Remembering The Kanji (James Heisig)",
+                "1954": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1663": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2571": "2001 Kanji",
+                "6d7.10": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "2523.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-08": "JIS X 0208-1997 kuten code",
+                "89e6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chu4"
+                ],
+                "korean": [
+                    "chog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horn",
+            "parts": [
+                "虫",
+                "角"
+            ],
+            "basis": "角",
+            "kangxi_order": 148,
+            "variants": [
+                "觸"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "触れる",
+                    "reading": "ふれる",
+                    "meanings": [
+                        "to touch",
+                        "to feel",
+                        "to touch (with)",
+                        "to experience",
+                        "to come in contact with",
+                        "to perceive",
+                        "to touch on (a subject)",
+                        "to allude to",
+                        "to refer to",
+                        "to mention",
+                        "to bring up",
+                        "to be in conflict with",
+                        "to violate (law",
+                        "copyright",
+                        "etc.)",
+                        "to infringe",
+                        "to proclaim",
+                        "to make known",
+                        "to spread (e.g. a rumour)"
+                    ]
+                },
+                {
+                    "kanji": "触る",
+                    "reading": "さわる",
+                    "meanings": [
+                        "to touch",
+                        "to feel",
+                        "to get involved (with)",
+                        "to approach",
+                        "to be harmful to",
+                        "to hinder",
+                        "to interfere with",
+                        "to irritate"
+                    ]
+                },
+                {
+                    "kanji": "触る",
+                    "reading": "さわる",
+                    "meanings": [
+                        "to touch",
+                        "to feel",
+                        "to get involved (with)",
+                        "to approach",
+                        "to be harmful to",
+                        "to hinder",
+                        "to interfere with",
+                        "to irritate"
+                    ]
+                },
+                {
+                    "kanji": "触らぬ神に祟りなし",
+                    "reading": "さわらぬかみにたたりなし",
+                    "meanings": [
+                        "let sleeping dogs lie",
+                        "wake not a sleeping lion",
+                        "the spirit you do not approach will not curse you"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "触媒",
+                    "reading": "ショクバイ",
+                    "meanings": [
+                        "catalyst"
+                    ]
+                },
+                {
+                    "kanji": "触発",
+                    "reading": "ショクハツ",
+                    "meanings": [
+                        "detonation by contact",
+                        "contact detonation",
+                        "touching off (something)",
+                        "triggering",
+                        "sparking",
+                        "provocation",
+                        "inspiration"
+                    ]
+                },
+                {
+                    "kanji": "鎧袖一触",
+                    "reading": "ガイシュウイッショク",
+                    "meanings": [
+                        "(beating someone) hands down",
+                        "with a single blow"
+                    ]
+                },
+                {
+                    "kanji": "濃厚接触",
+                    "reading": "ノウコウセッショク",
+                    "meanings": [
+                        "close contact (with an infected person)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宰\"",
+        "strokes": 10,
+        "main_meanings": [
+            "superintend",
+            "manager",
+            "rule"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1288": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1826": "A New Dictionary of Kanji Usage",
+                "1303": "Classic Nelson (Andrew Nelson)",
+                "1614": "Essential Kanji (P.G. O’Neill)",
+                "1210": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1180": "Japanese Names (P.G. O’Neill)",
+                "1488": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1586": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1659": "Kanji in Context (Nishiguchi and Kono)",
+                "483": "Kodansha Compact Kanji Guide",
+                "2829": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1460": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1965": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1513": "Les Kanjis dans la tete (Yves Maniette)",
+                "7160": "Morohashi",
+                "2275": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1330": "New Nelson (John Haig)",
+                "1499": "Remembering The Kanji (James Heisig)",
+                "1615": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1325": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "755": "2001 Kanji",
+                "3m7.2": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "3040.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-43": "JIS X 0208-1997 kuten code",
+                "5bb0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ただ"
+                ],
+                "chinese": [
+                    "zai3"
+                ],
+                "korean": [
+                    "jae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "十",
+                "宀",
+                "立",
+                "辛"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "宰相",
+                    "reading": "サイショウ",
+                    "meanings": [
+                        "prime minister",
+                        "premier",
+                        "chancellor"
+                    ]
+                },
+                {
+                    "kanji": "宰領",
+                    "reading": "サイリョウ",
+                    "meanings": [
+                        "supervision",
+                        "superintendence",
+                        "management",
+                        "supervisor"
+                    ]
+                },
+                {
+                    "kanji": "厨宰",
+                    "reading": "チュウサイ",
+                    "meanings": [
+                        "chef",
+                        "head cook"
+                    ]
+                },
+                {
+                    "kanji": "冢宰",
+                    "reading": "チョウサイ",
+                    "meanings": [
+                        "Minister of State (Zhou dynasty China)"
+                    ]
+                }
+            ]
+        }
+    }
+}

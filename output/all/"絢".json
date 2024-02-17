@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"絢\"",
+        "strokes": 12,
+        "main_meanings": [
+            "brilliant fabric design"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3530": "Classic Nelson (Andrew Nelson)",
+                "2150": "Japanese Names (P.G. O’Neill)",
+                "2194": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1705": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "911": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1234": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27427": "Morohashi",
+                "1347": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4481": "New Nelson (John Haig)",
+                "2664": "Remembering The Kanji (James Heisig)",
+                "2706": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6a6.14": "The Kanji Dictionary",
+                "1-6-6": "SKIP code",
+                "2792.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-28": "JIS X 0208-1997 kuten code",
+                "7d62": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "じゅん、 あや"
+                ],
+                "chinese": [
+                    "xuan4"
+                ],
+                "korean": [
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "勹",
+                "小",
+                "幺",
+                "日",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "絢爛",
+                    "reading": "ケンラン",
+                    "meanings": [
+                        "gorgeous",
+                        "brilliant",
+                        "dazzling",
+                        "ornate",
+                        "gaudy",
+                        "flowery"
+                    ]
+                },
+                {
+                    "kanji": "絢文",
+                    "reading": "ケンブン",
+                    "meanings": [
+                        "colorful pattern",
+                        "colourful pattern"
+                    ]
+                }
+            ]
+        }
+    }
+}

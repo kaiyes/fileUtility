@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"豆\"",
+        "strokes": 7,
+        "main_meanings": [
+            "beans",
+            "pea",
+            "midget"
+        ],
+        "main_readings": {
+            "kun": [
+                "まめ",
+                "まめ-"
+            ],
+            "on": [
+                "トウ",
+                "ズ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "379": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "1640": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "988": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "4465": "Classic Nelson (Andrew Nelson)",
+                "1044": "Essential Kanji (P.G. O’Neill)",
+                "1773": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "438": "Japanese Names (P.G. O’Neill)",
+                "958": "Kanji and Kana (Spahn and Hadamitzky)",
+                "471": "Kanji in Context (Nishiguchi and Kono)",
+                "1715": "Kodansha Compact Kanji Guide",
+                "2442": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1235": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1700": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1452": "Les Kanjis dans la tete (Yves Maniette)",
+                "36245": "Morohashi",
+                "1943": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5735": "New Nelson (John Haig)",
+                "1440": "Remembering The Kanji (James Heisig)",
+                "1548": "Remembering The Kanji, 6th edition (James Heisig)",
+                "288": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3073": "2001 Kanji",
+                "3d4.22": "The Kanji Dictionary",
+                "2-1-6": "SKIP code",
+                "1010.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-06": "JIS X 0208-1997 kuten code",
+                "8c46": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ど、 ま"
+                ],
+                "chinese": [
+                    "dou4"
+                ],
+                "korean": [
+                    "du"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bean",
+            "parts": [
+                "并",
+                "口",
+                "豆"
+            ],
+            "basis": "豆",
+            "kangxi_order": 151,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "豆",
+                    "reading": "まめ",
+                    "meanings": [
+                        "legume (esp. edible legumes or their seeds",
+                        "e.g. beans",
+                        "peas",
+                        "pulses)",
+                        "bean",
+                        "pea",
+                        "soya bean (Glycine max)",
+                        "soybean",
+                        "soy",
+                        "female genitalia (esp. the clitoris)",
+                        "kidney",
+                        "small",
+                        "miniature",
+                        "baby",
+                        "midget",
+                        "small-scale",
+                        "child"
+                    ]
+                },
+                {
+                    "kanji": "豆知識",
+                    "reading": "まめちしき",
+                    "meanings": [
+                        "trivia",
+                        "snippet of knowledge"
+                    ]
+                },
+                {
+                    "kanji": "枝豆",
+                    "reading": "えだまめ",
+                    "meanings": [
+                        "edamame (green soybeans)"
+                    ]
+                },
+                {
+                    "kanji": "ライ豆",
+                    "reading": "ライまめ",
+                    "meanings": [
+                        "lima bean (Phaseolus lunatus)",
+                        "butter bean"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "豆腐",
+                    "reading": "トウフ",
+                    "meanings": [
+                        "tofu",
+                        "bean curd",
+                        "beancurd"
+                    ]
+                },
+                {
+                    "kanji": "豆乳",
+                    "reading": "トウニュウ",
+                    "meanings": [
+                        "soy milk"
+                    ]
+                },
+                {
+                    "kanji": "緑豆",
+                    "reading": "リョクトウ",
+                    "meanings": [
+                        "mung bean (Vigna radiata)",
+                        "green gram"
+                    ]
+                },
+                {
+                    "kanji": "菜豆",
+                    "reading": "サイトウ",
+                    "meanings": [
+                        "haricot",
+                        "kidney bean"
+                    ]
+                },
+                {
+                    "kanji": "豆打",
+                    "reading": "ズンダ",
+                    "meanings": [
+                        "mashed boiled green soybeans"
+                    ]
+                },
+                {
+                    "kanji": "小豆",
+                    "reading": "アズキ",
+                    "meanings": [
+                        "adzuki bean (Vigna angularis)"
+                    ]
+                },
+                {
+                    "kanji": "大豆",
+                    "reading": "ダイズ",
+                    "meanings": [
+                        "soya bean (Glycine max)",
+                        "soybean",
+                        "soy"
+                    ]
+                }
+            ]
+        }
+    }
+}

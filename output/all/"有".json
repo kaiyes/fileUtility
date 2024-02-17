@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"有\"",
+        "strokes": 6,
+        "main_meanings": [
+            "possess",
+            "have",
+            "exist",
+            "happen",
+            "occur",
+            "approx"
+        ],
+        "main_readings": {
+            "kun": [
+                "あ.る"
+            ],
+            "on": [
+                "ユウ",
+                "ウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "523": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "423": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "401": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "268": "A New Dictionary of Kanji Usage",
+                "3727": "Classic Nelson (Andrew Nelson)",
+                "267": "Essential Kanji (P.G. O’Neill)",
+                "193": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "303": "Japanese Names (P.G. O’Neill)",
+                "3.4": "Japanese for Busy People",
+                "265": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "347": "Kanji in Context (Nishiguchi and Kono)",
+                "1003": "Kodansha Compact Kanji Guide",
+                "3703": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1895": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2576": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "79": "Remembering The Kanji (James Heisig)",
+                "14332": "Morohashi",
+                "2983": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4756": "New Nelson (John Haig)",
+                "83": "Remembering The Kanji, 6th edition (James Heisig)",
+                "245": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "273": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1446": "2001 Kanji",
+                "4b2.3": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "4022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-13": "JIS X 0208-1997 kuten code",
+                "6709": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あら、 あり、 ある、 くに、 なお、 ゆ"
+                ],
+                "chinese": [
+                    "you3",
+                    "you4"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "moon,",
+            "parts": [
+                "一",
+                "ノ",
+                "月"
+            ],
+            "basis": "月",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "有る",
+                    "reading": "ある",
+                    "meanings": [
+                        "to be",
+                        "to exist",
+                        "to live",
+                        "to have",
+                        "to be located",
+                        "to be equipped with",
+                        "to happen",
+                        "to come about"
+                    ]
+                },
+                {
+                    "kanji": "ある限り",
+                    "reading": "あるかぎり",
+                    "meanings": [
+                        "all (there is)",
+                        "as long as there is"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "有",
+                    "reading": "ユウ",
+                    "meanings": [
+                        "existence",
+                        "possession",
+                        "having",
+                        "limited company"
+                    ]
+                },
+                {
+                    "kanji": "有意義",
+                    "reading": "ユウイギ",
+                    "meanings": [
+                        "significant",
+                        "useful",
+                        "meaningful",
+                        "worthwhile",
+                        "valuable",
+                        "of interest"
+                    ]
+                },
+                {
+                    "kanji": "領有",
+                    "reading": "リョウユウ",
+                    "meanings": [
+                        "possession (esp. of a territory)"
+                    ]
+                },
+                {
+                    "kanji": "公有",
+                    "reading": "コウユウ",
+                    "meanings": [
+                        "public ownership",
+                        "public domain"
+                    ]
+                },
+                {
+                    "kanji": "有",
+                    "reading": "ウ",
+                    "meanings": [
+                        "bhava (becoming",
+                        "existence)"
+                    ]
+                },
+                {
+                    "kanji": "有無",
+                    "reading": "ウム",
+                    "meanings": [
+                        "existence or nonexistence",
+                        "presence or absence",
+                        "consent or refusal",
+                        "yes or no"
+                    ]
+                },
+                {
+                    "kanji": "領有",
+                    "reading": "リョウユウ",
+                    "meanings": [
+                        "possession (esp. of a territory)"
+                    ]
+                },
+                {
+                    "kanji": "公有",
+                    "reading": "コウユウ",
+                    "meanings": [
+                        "public ownership",
+                        "public domain"
+                    ]
+                }
+            ]
+        }
+    }
+}

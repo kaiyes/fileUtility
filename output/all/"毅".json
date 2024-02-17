@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"毅\"",
+        "strokes": 15,
+        "main_meanings": [
+            "strong"
+        ],
+        "main_readings": {
+            "kun": [
+                "つよ.い"
+            ],
+            "on": [
+                "キ",
+                "ギ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2463": "Classic Nelson (Andrew Nelson)",
+                "1919": "Essential Kanji (P.G. O’Neill)",
+                "2351": "Japanese Names (P.G. O’Neill)",
+                "2131": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2341": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1205": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1649": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "16673": "Morohashi",
+                "1866": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3003": "New Nelson (John Haig)",
+                "2889": "Remembering The Kanji (James Heisig)",
+                "2898": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5b10.1": "The Kanji Dictionary",
+                "1-11-4": "SKIP code",
+                "0724.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-03": "JIS X 0208-1997 kuten code",
+                "6bc5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つよし、 こわし、 たけし、 たけ、 はたす、 あつし、 つよ、 とし、 み"
+                ],
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "eui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "weapon,",
+            "parts": [
+                "亠",
+                "几",
+                "又",
+                "殳",
+                "立",
+                "豕"
+            ],
+            "basis": "殳",
+            "kangxi_order": 79,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "毅然",
+                    "reading": "キゼン",
+                    "meanings": [
+                        "resolute",
+                        "firm",
+                        "dauntless",
+                        "undaunted"
+                    ]
+                },
+                {
+                    "kanji": "毅然として",
+                    "reading": "キゼントシテ",
+                    "meanings": [
+                        "with resolution"
+                    ]
+                },
+                {
+                    "kanji": "剛毅",
+                    "reading": "ゴウキ",
+                    "meanings": [
+                        "fortitude",
+                        "firmness of character",
+                        "sturdiness",
+                        "inner strength",
+                        "hardihood"
+                    ]
+                },
+                {
+                    "kanji": "聡明剛毅",
+                    "reading": "ソウメイゴウキ",
+                    "meanings": [
+                        "be reasonable",
+                        "strong and do not give in"
+                    ]
+                }
+            ]
+        }
+    }
+}

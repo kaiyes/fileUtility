@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"週\"",
+        "strokes": 11,
+        "main_meanings": [
+            "week"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "242": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "157": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "308": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "438": "A New Dictionary of Kanji Usage",
+                "4707": "Classic Nelson (Andrew Nelson)",
+                "188": "Essential Kanji (P.G. O’Neill)",
+                "92": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "2.6": "Japanese for Busy People",
+                "163": "Kanji in Context (Nishiguchi and Kono)",
+                "701": "Kodansha Compact Kanji Guide",
+                "3874": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1992": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2690": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "324": "Les Kanjis dans la tete (Yves Maniette)",
+                "38937P": "Morohashi",
+                "3122": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6070": "New Nelson (John Haig)",
+                "318": "Remembering The Kanji (James Heisig)",
+                "340": "Remembering The Kanji, 6th edition (James Heisig)",
+                "206": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3649": "2001 Kanji",
+                "2q8.7": "The Kanji Dictionary",
+                "3-3-8": "SKIP code",
+                "3730.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-21": "JIS X 0208-1997 kuten code",
+                "9031": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhou1"
+                ],
+                "korean": [
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "冂",
+                "込",
+                "口",
+                "土"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "週",
+                    "reading": "シュウ",
+                    "meanings": [
+                        "week"
+                    ]
+                },
+                {
+                    "kanji": "週明け",
+                    "reading": "シュウアケ",
+                    "meanings": [
+                        "beginning of next week (usu. Monday)",
+                        "early next week"
+                    ]
+                },
+                {
+                    "kanji": "前週",
+                    "reading": "ゼンシュウ",
+                    "meanings": [
+                        "last week",
+                        "the week before"
+                    ]
+                },
+                {
+                    "kanji": "隔週",
+                    "reading": "カクシュウ",
+                    "meanings": [
+                        "every other week",
+                        "every two weeks"
+                    ]
+                }
+            ]
+        }
+    }
+}

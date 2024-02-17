@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"懲\"",
+        "strokes": 18,
+        "main_meanings": [
+            "penal",
+            "chastise",
+            "punish",
+            "discipline"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ.りる",
+                "こ.らす",
+                "こ.らしめる"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1599": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1626": "A New Dictionary of Kanji Usage",
+                "1785": "Classic Nelson (Andrew Nelson)",
+                "1510": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1327": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1421": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1703": "Kanji in Context (Nishiguchi and Kono)",
+                "805": "Kodansha Compact Kanji Guide",
+                "3623": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1853": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2526": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "897": "Les Kanjis dans la tete (Yves Maniette)",
+                "11399P": "Morohashi",
+                "2910": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2006": "New Nelson (John Haig)",
+                "888": "Remembering The Kanji (James Heisig)",
+                "953": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1893": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2058": "2001 Kanji",
+                "4k14.3": "The Kanji Dictionary",
+                "2-14-4": "SKIP code",
+                "2833.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-08": "JIS X 0208-1997 kuten code",
+                "61f2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cheng2"
+                ],
+                "korean": [
+                    "jing"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "山",
+                "彳",
+                "心",
+                "王",
+                "乞",
+                "攵"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "懲りる",
+                    "reading": "こりる",
+                    "meanings": [
+                        "to learn by experience",
+                        "to learn one's lesson",
+                        "to learn the hard way",
+                        "to be discouraged (by)",
+                        "to have enough (of)",
+                        "to be disgusted (with)"
+                    ]
+                },
+                {
+                    "kanji": "懲らす",
+                    "reading": "こらす",
+                    "meanings": [
+                        "to chastise",
+                        "to punish",
+                        "to discipline"
+                    ]
+                },
+                {
+                    "kanji": "懲らしめる",
+                    "reading": "こらしめる",
+                    "meanings": [
+                        "to chastise",
+                        "to punish",
+                        "to discipline"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "懲戒",
+                    "reading": "チョウカイ",
+                    "meanings": [
+                        "discipline",
+                        "punishment",
+                        "reprimand"
+                    ]
+                },
+                {
+                    "kanji": "懲役",
+                    "reading": "チョウエキ",
+                    "meanings": [
+                        "penal servitude",
+                        "imprisonment with hard labor (hard labour)"
+                    ]
+                },
+                {
+                    "kanji": "膺懲",
+                    "reading": "ヨウチョウ",
+                    "meanings": [
+                        "punishment (of an enemy)",
+                        "chastisement"
+                    ]
+                },
+                {
+                    "kanji": "暴支膺懲",
+                    "reading": "ボウシヨウチョウ",
+                    "meanings": [
+                        "punish savage China"
+                    ]
+                }
+            ]
+        }
+    }
+}

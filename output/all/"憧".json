@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"憧\"",
+        "strokes": 15,
+        "main_meanings": [
+            "yearn after",
+            "long for",
+            "aspire to",
+            "admire",
+            "adore"
+        ],
+        "main_readings": {
+            "kun": [
+                "あこが.れる"
+            ],
+            "on": [
+                "ショウ",
+                "トウ",
+                "ドウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1767": "Classic Nelson (Andrew Nelson)",
+                "2077": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1853": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "899": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "511": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "664": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "11242": "Morohashi",
+                "1982": "New Nelson (John Haig)",
+                "2280": "Remembering The Kanji (James Heisig)",
+                "681": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4k12.5": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "9001.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-20": "JIS X 0208-1997 kuten code",
+                "61a7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chong1"
+                ],
+                "korean": [
+                    "dong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "忙",
+                "立",
+                "里"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "憧れる",
+                    "reading": "あこがれる",
+                    "meanings": [
+                        "to long for",
+                        "to yearn for",
+                        "to hanker after",
+                        "to be attracted by",
+                        "to be drawn to",
+                        "to aspire to",
+                        "to admire",
+                        "to adore"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "憧憬",
+                    "reading": "ドウケイ",
+                    "meanings": [
+                        "longing",
+                        "yearning",
+                        "aspiration",
+                        "adoration"
+                    ]
+                },
+                {
+                    "kanji": "憧憬",
+                    "reading": "ドウケイ",
+                    "meanings": [
+                        "longing",
+                        "yearning",
+                        "aspiration",
+                        "adoration"
+                    ]
+                }
+            ]
+        }
+    }
+}

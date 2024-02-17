@@ -1,0 +1,215 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"台\"",
+        "strokes": 5,
+        "main_meanings": [
+            "pedestal",
+            "a stand",
+            "counter for machines and vehicles"
+        ],
+        "main_readings": {
+            "kun": [
+                "うてな",
+                "われ",
+                "つかさ"
+            ],
+            "on": [
+                "ダイ",
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "272": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "183": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "166": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "216": "A New Dictionary of Kanji Usage",
+                "848": "Classic Nelson (Andrew Nelson)",
+                "290": "Essential Kanji (P.G. O’Neill)",
+                "134": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "276": "Japanese Names (P.G. O’Neill)",
+                "3.2": "Japanese for Busy People",
+                "492": "Kanji and Kana (Spahn and Hadamitzky)",
+                "501": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "532": "Kanji in Context (Nishiguchi and Kono)",
+                "280": "Kodansha Compact Kanji Guide",
+                "2498": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1265": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1731": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "752": "Les Kanjis dans la tete (Yves Maniette)",
+                "3246": "Morohashi",
+                "2005": "New Japanese English Character Dictionary (Jack Halpern)",
+                "699": "New Nelson (John Haig)",
+                "744": "Remembering The Kanji (James Heisig)",
+                "805": "Remembering The Kanji, 6th edition (James Heisig)",
+                "436": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "111": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2777": "2001 Kanji",
+                "3d2.11": "The Kanji Dictionary",
+                "2-2-3": "SKIP code",
+                "2360.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-70": "JIS X 0208-1997 kuten code",
+                "53f0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tai2",
+                    "tai1"
+                ],
+                "korean": [
+                    "tae",
+                    "i"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "厶",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": [
+                "臺"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "台",
+                    "reading": "うてな",
+                    "meanings": [
+                        "tower",
+                        "stand",
+                        "pedestal",
+                        "calyx"
+                    ]
+                },
+                {
+                    "kanji": "弾正台",
+                    "reading": "だんじょうだい",
+                    "meanings": [
+                        "Imperial Prosecuting and Investigating Office (1869-1871)",
+                        "Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "台",
+                    "reading": "ダイ",
+                    "meanings": [
+                        "stand",
+                        "rest",
+                        "base",
+                        "pedestal",
+                        "platform",
+                        "table",
+                        "holder",
+                        "support",
+                        "rack",
+                        "setting (of a gem)",
+                        "mounting",
+                        "stock (in grafting)",
+                        "counter for machines and vehicles",
+                        "level (e.g. price level)",
+                        "mark",
+                        "range",
+                        "decade (of one's life)",
+                        "tall building (with a fine view)",
+                        "(observation) platform",
+                        "plateau",
+                        "heights"
+                    ]
+                },
+                {
+                    "kanji": "台車",
+                    "reading": "ダイシャ",
+                    "meanings": [
+                        "platform truck",
+                        "hand truck",
+                        "trolley",
+                        "dolly",
+                        "cart",
+                        "truck",
+                        "bogie"
+                    ]
+                },
+                {
+                    "kanji": "管区気象台",
+                    "reading": "カンクキショウダイ",
+                    "meanings": [
+                        "district meteorological observatory"
+                    ]
+                },
+                {
+                    "kanji": "気象台",
+                    "reading": "キショウダイ",
+                    "meanings": [
+                        "meteorological observatory"
+                    ]
+                },
+                {
+                    "kanji": "台",
+                    "reading": "タイ",
+                    "meanings": [
+                        "Taiwan"
+                    ]
+                },
+                {
+                    "kanji": "台頭",
+                    "reading": "タイトウ",
+                    "meanings": [
+                        "rise (e.g. of a movement)",
+                        "emergence",
+                        "rearing one's head",
+                        "gaining prominence",
+                        "coming to the fore",
+                        "gaining power",
+                        "gathering strength"
+                    ]
+                },
+                {
+                    "kanji": "屋台",
+                    "reading": "ヤタイ",
+                    "meanings": [
+                        "cart (esp. a food cart)",
+                        "stall",
+                        "stand",
+                        "festival float",
+                        "portable shrine dedicated to a god and shaped like a house",
+                        "dancing platform",
+                        "stage prop fashioned after a large building",
+                        "framework (of a building)",
+                        "foundation",
+                        "house (esp. a small and miserable one)"
+                    ]
+                },
+                {
+                    "kanji": "最後の舞台",
+                    "reading": "サイゴノブタイ",
+                    "meanings": [
+                        "final performance",
+                        "swan song",
+                        "last act"
+                    ]
+                }
+            ]
+        }
+    }
+}

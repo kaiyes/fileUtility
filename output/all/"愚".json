@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"愚\"",
+        "strokes": 13,
+        "main_meanings": [
+            "foolish",
+            "folly",
+            "absurdity",
+            "stupid"
+        ],
+        "main_readings": {
+            "kun": [
+                "おろ.か"
+            ],
+            "on": [
+                "グ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1184": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1884": "A New Dictionary of Kanji Usage",
+                "1730": "Classic Nelson (Andrew Nelson)",
+                "1496": "Essential Kanji (P.G. O’Neill)",
+                "1308": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2032": "Japanese Names (P.G. O’Neill)",
+                "1642": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1755": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1701": "Kanji in Context (Nishiguchi and Kono)",
+                "793": "Kodansha Compact Kanji Guide",
+                "3513": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1813": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2467": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1976": "Les Kanjis dans la tete (Yves Maniette)",
+                "10946X": "Morohashi",
+                "2834": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1925": "New Nelson (John Haig)",
+                "1957": "Remembering The Kanji (James Heisig)",
+                "2107": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1623": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3658": "2001 Kanji",
+                "4k9.15": "The Kanji Dictionary",
+                "2-9-4": "SKIP code",
+                "2-8-4": "SKIP code",
+                "6033.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-82": "JIS X 0208-1997 kuten code",
+                "611a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yu2"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "冂",
+                "厶",
+                "心",
+                "田",
+                "禹"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "愚か",
+                    "reading": "おろか",
+                    "meanings": [
+                        "foolish",
+                        "stupid",
+                        "silly"
+                    ]
+                },
+                {
+                    "kanji": "愚かしい",
+                    "reading": "おろかしい",
+                    "meanings": [
+                        "foolish",
+                        "stupid"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "愚",
+                    "reading": "グ",
+                    "meanings": [
+                        "foolishness",
+                        "silliness",
+                        "stupidity",
+                        "folly",
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "愚痴",
+                    "reading": "グチ",
+                    "meanings": [
+                        "idle complaint",
+                        "grumble",
+                        "moha (ignorance",
+                        "folly)"
+                    ]
+                },
+                {
+                    "kanji": "軽愚",
+                    "reading": "ケイグ",
+                    "meanings": [
+                        "moronity",
+                        "moron"
+                    ]
+                },
+                {
+                    "kanji": "大愚",
+                    "reading": "タイグ",
+                    "meanings": [
+                        "great folly or fool"
+                    ]
+                }
+            ]
+        }
+    }
+}

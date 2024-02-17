@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"募\"",
+        "strokes": 12,
+        "main_meanings": [
+            "recruit",
+            "campaign",
+            "gather (contributions)",
+            "enlist",
+            "grow violent"
+        ],
+        "main_readings": {
+            "kun": [
+                "つの.る"
+            ],
+            "on": [
+                "ボ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1787": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "710": "A New Dictionary of Kanji Usage",
+                "3996": "Classic Nelson (Andrew Nelson)",
+                "1275": "Essential Kanji (P.G. O’Neill)",
+                "374": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1718": "Japanese Names (P.G. O’Neill)",
+                "1430": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1519": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1155": "Kanji in Context (Nishiguchi and Kono)",
+                "225": "Kodansha Compact Kanji Guide",
+                "2901": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1492": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2013": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "869": "Les Kanjis dans la tete (Yves Maniette)",
+                "2416X": "Morohashi",
+                "2316": "New Japanese English Character Dictionary (Jack Halpern)",
+                "551": "New Nelson (John Haig)",
+                "861": "Remembering The Kanji (James Heisig)",
+                "925": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1507": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1945": "2001 Kanji",
+                "3k9.23": "The Kanji Dictionary",
+                "2-3-9": "SKIP code",
+                "2-10-2": "SKIP code",
+                "2-7-5": "SKIP code",
+                "4442.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-71": "JIS X 0208-1997 kuten code",
+                "52df": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mu4"
+                ],
+                "korean": [
+                    "mo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "力",
+                "大",
+                "艾",
+                "日"
+            ],
+            "basis": "力",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "募る",
+                    "reading": "つのる",
+                    "meanings": [
+                        "to become stronger",
+                        "to grow in intensity",
+                        "to grow violent",
+                        "to become worse",
+                        "to invite contributions",
+                        "etc.",
+                        "to solicit help",
+                        "participation",
+                        "etc.",
+                        "to recruit (e.g. soldiers)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "募集",
+                    "reading": "ボシュウ",
+                    "meanings": [
+                        "recruitment",
+                        "invitation",
+                        "selection",
+                        "advertisement",
+                        "taking applications",
+                        "raising (funds",
+                        "donations",
+                        "etc.)",
+                        "collection",
+                        "subscription",
+                        "solicitation",
+                        "flotation (of shares",
+                        "loans",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "募金",
+                    "reading": "ボキン",
+                    "meanings": [
+                        "fund-raising",
+                        "collection of funds"
+                    ]
+                },
+                {
+                    "kanji": "公募",
+                    "reading": "コウボ",
+                    "meanings": [
+                        "public appeal (e.g. for contributions)",
+                        "public advertisement (of a post)",
+                        "open recruitment",
+                        "public offering (of securities)"
+                    ]
+                },
+                {
+                    "kanji": "急募",
+                    "reading": "キュウボ",
+                    "meanings": [
+                        "hurried recruitment",
+                        "urgent recruitment"
+                    ]
+                }
+            ]
+        }
+    }
+}

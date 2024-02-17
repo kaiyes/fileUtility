@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"首\"",
+        "strokes": 9,
+        "main_meanings": [
+            "neck",
+            "counter for songs and poems"
+        ],
+        "main_readings": {
+            "kun": [
+                "くび"
+            ],
+            "on": [
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "239": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "155": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "139": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "208": "A New Dictionary of Kanji Usage",
+                "5186": "Classic Nelson (Andrew Nelson)",
+                "138": "Essential Kanji (P.G. O’Neill)",
+                "281": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "920": "Japanese Names (P.G. O’Neill)",
+                "148": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "393": "Kanji in Context (Nishiguchi and Kono)",
+                "1910": "Kodansha Compact Kanji Guide",
+                "2818": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1452": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1956": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "70": "Remembering The Kanji (James Heisig)",
+                "44489": "Morohashi",
+                "2265": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6719": "New Nelson (John Haig)",
+                "74": "Remembering The Kanji, 6th edition (James Heisig)",
+                "177": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "979": "2001 Kanji",
+                "2o7.2": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "8060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-83": "JIS X 0208-1997 kuten code",
+                "9996": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おびと、 こべ、 す"
+                ],
+                "chinese": [
+                    "shou3"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "head",
+            "parts": [
+                "并",
+                "目",
+                "自",
+                "首"
+            ],
+            "basis": "首",
+            "kangxi_order": 185,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "首",
+                    "reading": "くび",
+                    "meanings": [
+                        "neck",
+                        "head",
+                        "dismissal (from a job)",
+                        "firing",
+                        "sacking"
+                    ]
+                },
+                {
+                    "kanji": "首飾り",
+                    "reading": "くびかざり",
+                    "meanings": [
+                        "necklace",
+                        "choker"
+                    ]
+                },
+                {
+                    "kanji": "縛り首",
+                    "reading": "しばりくび",
+                    "meanings": [
+                        "(death by) hanging"
+                    ]
+                },
+                {
+                    "kanji": "猪首",
+                    "reading": "いくび",
+                    "meanings": [
+                        "bull neck"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "首",
+                    "reading": "シュ",
+                    "meanings": [
+                        "counter for songs and poems"
+                    ]
+                },
+                {
+                    "kanji": "首級",
+                    "reading": "シュキュウ",
+                    "meanings": [
+                        "decapitated head of an enemy"
+                    ]
+                },
+                {
+                    "kanji": "元首",
+                    "reading": "ゲンシュ",
+                    "meanings": [
+                        "sovereign",
+                        "ruler",
+                        "head of state"
+                    ]
+                },
+                {
+                    "kanji": "百人一首",
+                    "reading": "ヒャクニンイッシュ",
+                    "meanings": [
+                        "(Ogura) Hyakunin Isshu",
+                        "classical Japanese anthology of one hundred Japanese waka by one hundred poets",
+                        "hyakunin isshu karuta",
+                        "hyakunin isshu poetry cards"
+                    ]
+                }
+            ]
+        }
+    }
+}

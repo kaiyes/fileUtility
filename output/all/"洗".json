@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"洗\"",
+        "strokes": 9,
+        "main_meanings": [
+            "wash",
+            "inquire into",
+            "probe"
+        ],
+        "main_readings": {
+            "kun": [
+                "あら.う"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "927": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "916": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "626": "A New Dictionary of Kanji Usage",
+                "2551": "Classic Nelson (Andrew Nelson)",
+                "925": "Essential Kanji (P.G. O’Neill)",
+                "210": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "817": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "692": "Kanji and Kana (Spahn and Hadamitzky)",
+                "705": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "198": "Kanji in Context (Nishiguchi and Kono)",
+                "1189": "Kodansha Compact Kanji Guide",
+                "465": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "288": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "350": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "255": "Les Kanjis dans la tete (Yves Maniette)",
+                "17379": "Morohashi",
+                "388": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3131": "New Nelson (John Haig)",
+                "249": "Remembering The Kanji (James Heisig)",
+                "264": "Remembering The Kanji, 6th edition (James Heisig)",
+                "888": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "357": "2001 Kanji",
+                "3a6.12": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3411.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-86": "JIS X 0208-1997 kuten code",
+                "6d17": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あらい、 らい"
+                ],
+                "chinese": [
+                    "xi3"
+                ],
+                "korean": [
+                    "se",
+                    "seon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "ノ",
+                "儿",
+                "土",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "洗う",
+                    "reading": "あらう",
+                    "meanings": [
+                        "to wash",
+                        "to cleanse",
+                        "to rinse",
+                        "to inquire into",
+                        "to investigate",
+                        "to purify (one's heart)",
+                        "to lave (e.g. shore)",
+                        "to wash over (e.g. deck)",
+                        "to sweep"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "洗",
+                    "reading": "セン",
+                    "meanings": [
+                        "washing machine",
+                        "(clothes) washer"
+                    ]
+                },
+                {
+                    "kanji": "洗剤",
+                    "reading": "センザイ",
+                    "meanings": [
+                        "detergent",
+                        "cleanser",
+                        "cleaning agent",
+                        "washing material"
+                    ]
+                },
+                {
+                    "kanji": "水洗",
+                    "reading": "スイセン",
+                    "meanings": [
+                        "washing with water",
+                        "rinsing",
+                        "flushing"
+                    ]
+                },
+                {
+                    "kanji": "杯洗",
+                    "reading": "ハイセン",
+                    "meanings": [
+                        "small vessel or bowl in which sake cups are rinsed"
+                    ]
+                }
+            ]
+        }
+    }
+}

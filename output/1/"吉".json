@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"吉\"",
+        "strokes": 6,
+        "main_meanings": [
+            "good luck",
+            "joy",
+            "congratulations"
+        ],
+        "main_readings": {
+            "kun": [
+                "よし"
+            ],
+            "on": [
+                "キチ",
+                "キツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1142": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "464": "A New Dictionary of Kanji Usage",
+                "1053": "Classic Nelson (Andrew Nelson)",
+                "990": "Essential Kanji (P.G. O’Neill)",
+                "1124": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "278": "Japanese Names (P.G. O’Neill)",
+                "1141": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1194": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "893": "Kanji in Context (Nishiguchi and Kono)",
+                "282": "Kodansha Compact Kanji Guide",
+                "2691": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1369": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1855": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "326": "Les Kanjis dans la tete (Yves Maniette)",
+                "3289": "Morohashi",
+                "2167": "New Japanese English Character Dictionary (Jack Halpern)",
+                "711": "New Nelson (John Haig)",
+                "320": "Remembering The Kanji (James Heisig)",
+                "342": "Remembering The Kanji, 6th edition (James Heisig)",
+                "199": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1064": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1477": "2001 Kanji",
+                "3p3.1": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "4060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-40": "JIS X 0208-1997 kuten code",
+                "5409": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "え、 き、 きっ、 きる、 こし、 と、 よ"
+                ],
+                "chinese": [
+                    "ji2"
+                ],
+                "korean": [
+                    "gil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "士"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "吉川神道",
+                    "reading": "よしかわしんとう",
+                    "meanings": [
+                        "Yoshikawa Shinto (Confucianist form of Shinto",
+                        "stripped of Buddhist influence)"
+                    ]
+                },
+                {
+                    "kanji": "吉川線",
+                    "reading": "よしかわせん",
+                    "meanings": [
+                        "scratch marks on the neck of a body (indicating a struggling victim of strangulation)"
+                    ]
+                },
+                {
+                    "kanji": "土吉",
+                    "reading": "つちよし",
+                    "meanings": [
+                        "earth form of \"good luck\" character"
+                    ]
+                },
+                {
+                    "kanji": "豊臣秀吉",
+                    "reading": "とよとみひでよし",
+                    "meanings": [
+                        "Toyotomi Hideyoshi"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "吉",
+                    "reading": "キチ",
+                    "meanings": [
+                        "good fortune (esp. omikuji fortune-telling result)",
+                        "good luck",
+                        "auspiciousness",
+                        "unspecified day of the month (used to obscure the date a letter",
+                        "invitation",
+                        "etc. was written)"
+                    ]
+                },
+                {
+                    "kanji": "吉祥天",
+                    "reading": "キッショウテン",
+                    "meanings": [
+                        "Sri-mahadevi (consort of Vaishravana)"
+                    ]
+                },
+                {
+                    "kanji": "大吉",
+                    "reading": "ダイキチ",
+                    "meanings": [
+                        "excellent luck"
+                    ]
+                },
+                {
+                    "kanji": "中吉",
+                    "reading": "チュウキチ",
+                    "meanings": [
+                        "moderately good luck (in fortune telling)"
+                    ]
+                },
+                {
+                    "kanji": "吉",
+                    "reading": "キチ",
+                    "meanings": [
+                        "good fortune (esp. omikuji fortune-telling result)",
+                        "good luck",
+                        "auspiciousness",
+                        "unspecified day of the month (used to obscure the date a letter",
+                        "invitation",
+                        "etc. was written)"
+                    ]
+                },
+                {
+                    "kanji": "吉事",
+                    "reading": "キチジ",
+                    "meanings": [
+                        "auspicious event"
+                    ]
+                },
+                {
+                    "kanji": "嘉吉",
+                    "reading": "カキツ",
+                    "meanings": [
+                        "Kakitsu era (1441.2.17-1444.2.5)"
+                    ]
+                },
+                {
+                    "kanji": "勿吉",
+                    "reading": "モッキツ",
+                    "meanings": [
+                        "Mohe (one of the Tungusic-speaking tribes)"
+                    ]
+                }
+            ]
+        }
+    }
+}

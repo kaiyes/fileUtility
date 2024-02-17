@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"雲\"",
+        "strokes": 12,
+        "main_meanings": [
+            "cloud"
+        ],
+        "main_readings": {
+            "kun": [
+                "くも",
+                "-ぐも"
+            ],
+            "on": [
+                "ウン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "47": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "83": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "78": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1124": "A New Dictionary of Kanji Usage",
+                "5046": "Classic Nelson (Andrew Nelson)",
+                "478": "Essential Kanji (P.G. O’Neill)",
+                "997": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2027": "Japanese Names (P.G. O’Neill)",
+                "636": "Kanji and Kana (Spahn and Hadamitzky)",
+                "646": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "844": "Kanji in Context (Nishiguchi and Kono)",
+                "1860": "Kodansha Compact Kanji Guide",
+                "3447": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1774": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2415": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "430": "Les Kanjis dans la tete (Yves Maniette)",
+                "42235": "Morohashi",
+                "2773": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6522": "New Nelson (John Haig)",
+                "423": "Remembering The Kanji (James Heisig)",
+                "452": "Remembering The Kanji, 6th edition (James Heisig)",
+                "213": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3171": "2001 Kanji",
+                "8d4.1": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "1073.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-32": "JIS X 0208-1997 kuten code",
+                "96f2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "き、 ずも、 のめ"
+                ],
+                "chinese": [
+                    "yun2"
+                ],
+                "korean": [
+                    "un"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "一",
+                "二",
+                "厶",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "雲",
+                    "reading": "くも",
+                    "meanings": [
+                        "cloud"
+                    ]
+                },
+                {
+                    "kanji": "雲行き",
+                    "reading": "くもゆき",
+                    "meanings": [
+                        "weather",
+                        "look of the sky",
+                        "situation",
+                        "turn of affairs",
+                        "signs",
+                        "way the wind is blowing"
+                    ]
+                },
+                {
+                    "kanji": "白雲",
+                    "reading": "しらくも",
+                    "meanings": [
+                        "white clouds"
+                    ]
+                },
+                {
+                    "kanji": "八重雲",
+                    "reading": "やえぐも",
+                    "meanings": [
+                        "layers of clouds"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "雲散霧消",
+                    "reading": "ウンサンムショウ",
+                    "meanings": [
+                        "vanishing like mist"
+                    ]
+                },
+                {
+                    "kanji": "雲海",
+                    "reading": "ウンカイ",
+                    "meanings": [
+                        "sea of clouds"
+                    ]
+                },
+                {
+                    "kanji": "青雲",
+                    "reading": "セイウン",
+                    "meanings": [
+                        "blue sky",
+                        "erudition",
+                        "detachment from the world",
+                        "high rank"
+                    ]
+                },
+                {
+                    "kanji": "星雲",
+                    "reading": "セイウン",
+                    "meanings": [
+                        "nebula",
+                        "galaxy"
+                    ]
+                }
+            ]
+        }
+    }
+}

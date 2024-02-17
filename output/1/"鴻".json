@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鴻\"",
+        "strokes": 17,
+        "main_meanings": [
+            "large bird",
+            "wild goose",
+            "large",
+            "great",
+            "powerful",
+            "prosperous"
+        ],
+        "main_readings": {
+            "kun": [
+                "おおとり",
+                "ひしくい",
+                "おおがり"
+            ],
+            "on": [
+                "コウ",
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2722": "Classic Nelson (Andrew Nelson)",
+                "2614": "Japanese Names (P.G. O’Neill)",
+                "2275": "Kanji and Kana (Spahn and Hadamitzky)",
+                "977": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "542": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "710": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "46874": "Morohashi",
+                "6963": "New Nelson (John Haig)",
+                "2313": "Remembering The Kanji (James Heisig)",
+                "2406": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a14.2": "The Kanji Dictionary",
+                "1-3-14": "SKIP code",
+                "3712.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-67": "JIS X 0208-1997 kuten code",
+                "9d3b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hong2"
+                ],
+                "korean": [
+                    "hong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "工",
+                "汁",
+                "杰",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "大鳥",
+                    "reading": "おおとり",
+                    "meanings": [
+                        "large bird",
+                        "peng (giant bird said to transform from a fish)",
+                        "fenghuang (Chinese phoenix)"
+                    ]
+                },
+                {
+                    "kanji": "鴻",
+                    "reading": "ひしくい",
+                    "meanings": [
+                        "bean goose (Anser fabalis)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "洪恩",
+                    "reading": "コウオン",
+                    "meanings": [
+                        "great debt of gratitude",
+                        "great obligation"
+                    ]
+                },
+                {
+                    "kanji": "鴻雁",
+                    "reading": "コウガン",
+                    "meanings": [
+                        "wild geese",
+                        "large geese and small geese"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"何\"",
+        "strokes": 7,
+        "main_meanings": [
+            "what"
+        ],
+        "main_readings": {
+            "kun": [
+                "なに",
+                "なん",
+                "なに-",
+                "なん-"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "51": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "86": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "80": "Kanji in Context (Nishiguchi and Kono)",
+                "471": "A New Dictionary of Kanji Usage",
+                "409": "Classic Nelson (Andrew Nelson)",
+                "254": "Essential Kanji (P.G. O’Neill)",
+                "15": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "513": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "390": "Kanji and Kana (Spahn and Hadamitzky)",
+                "392": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "73": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "45": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "48": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1021": "Les Kanjis dans la tete (Yves Maniette)",
+                "511": "Morohashi",
+                "65": "New Japanese English Character Dictionary (Jack Halpern)",
+                "169": "New Nelson (John Haig)",
+                "1012": "Remembering The Kanji (James Heisig)",
+                "1087": "Remembering The Kanji, 6th edition (James Heisig)",
+                "43": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "137": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2149": "2001 Kanji",
+                "2a5.21": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "3-4-3": "SKIP code",
+                "2122.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-31": "JIS X 0208-1997 kuten code",
+                "4f55": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あが"
+                ],
+                "chinese": [
+                    "he2",
+                    "he4"
+                ],
+                "korean": [
+                    "ha"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "亅",
+                "化",
+                "口"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "何",
+                    "reading": "なに",
+                    "meanings": [
+                        "what",
+                        "you-know-what",
+                        "that thing",
+                        "whatsit",
+                        "whachamacallit",
+                        "what's-his-name",
+                        "what's-her-name",
+                        "penis",
+                        "(one's) thing",
+                        "dick",
+                        "(not) at all",
+                        "(not) in the slightest",
+                        "what?",
+                        "huh?",
+                        "hey!",
+                        "come on!",
+                        "oh",
+                        "no (it's fine)",
+                        "why (it's nothing)",
+                        "oh (certainly not)"
+                    ]
+                },
+                {
+                    "kanji": "何か",
+                    "reading": "なにか",
+                    "meanings": [
+                        "something",
+                        "some",
+                        "any",
+                        "somehow",
+                        "for some reason",
+                        "(so) what (are you trying to say)?",
+                        "what (do you mean)?"
+                    ]
+                },
+                {
+                    "kanji": "何々",
+                    "reading": "なになに",
+                    "meanings": [
+                        "what",
+                        "so-and-so",
+                        "such and such",
+                        "something (or other)",
+                        "what?",
+                        "wait",
+                        "hang on",
+                        "well",
+                        "well",
+                        "let's see",
+                        "no",
+                        "oh (not at all)",
+                        "please",
+                        "there",
+                        "there"
+                    ]
+                },
+                {
+                    "kanji": "何",
+                    "reading": "なん",
+                    "meanings": [
+                        "what",
+                        "how many",
+                        "many",
+                        "a lot of",
+                        "several",
+                        "a few",
+                        "some"
+                    ]
+                },
+                {
+                    "kanji": "何か",
+                    "reading": "なにか",
+                    "meanings": [
+                        "something",
+                        "some",
+                        "any",
+                        "somehow",
+                        "for some reason",
+                        "(so) what (are you trying to say)?",
+                        "what (do you mean)?"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "非可換幾何",
+                    "reading": "ヒカカンキカ",
+                    "meanings": [
+                        "noncommutative geometry",
+                        "NCG"
+                    ]
+                }
+            ]
+        }
+    }
+}

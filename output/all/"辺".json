@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"辺\"",
+        "strokes": 5,
+        "main_meanings": [
+            "environs",
+            "boundary",
+            "border",
+            "vicinity"
+        ],
+        "main_readings": {
+            "kun": [
+                "あた.り",
+                "ほと.り",
+                "-べ"
+            ],
+            "on": [
+                "ヘン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "713": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "608": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "580": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "696": "A New Dictionary of Kanji Usage",
+                "4661": "Classic Nelson (Andrew Nelson)",
+                "270": "Essential Kanji (P.G. O’Neill)",
+                "947": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "179": "Japanese Names (P.G. O’Neill)",
+                "775": "Kanji and Kana (Spahn and Hadamitzky)",
+                "789": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "962": "Kanji in Context (Nishiguchi and Kono)",
+                "676": "Kodansha Compact Kanji Guide",
+                "3761": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1916": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2607": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "290": "Les Kanjis dans la tete (Yves Maniette)",
+                "38710P": "Morohashi",
+                "3029": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6011": "New Nelson (John Haig)",
+                "284": "Remembering The Kanji (James Heisig)",
+                "302": "Remembering The Kanji, 6th edition (James Heisig)",
+                "455": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3545": "2001 Kanji",
+                "2q2.1": "The Kanji Dictionary",
+                "3-3-2": "SKIP code",
+                "3730.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-53": "JIS X 0208-1997 kuten code",
+                "8fba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なべ"
+                ],
+                "chinese": [
+                    "bian1"
+                ],
+                "korean": [
+                    "byeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "刀",
+                "込"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": [
+                "邊"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "辺り",
+                    "reading": "あたり",
+                    "meanings": [
+                        "(in the) neighbourhood",
+                        "neighborhood",
+                        "vicinity",
+                        "nearby",
+                        "surroundings",
+                        "around",
+                        "about",
+                        "or thereabouts",
+                        "for instance",
+                        "say",
+                        "such as"
+                    ]
+                },
+                {
+                    "kanji": "あたり一面",
+                    "reading": "あたりいちめん",
+                    "meanings": [
+                        "whole area",
+                        "surrounding area",
+                        "all around",
+                        "everywhere",
+                        "all over the place"
+                    ]
+                },
+                {
+                    "kanji": "御辺",
+                    "reading": "ごへん",
+                    "meanings": [
+                        "you"
+                    ]
+                },
+                {
+                    "kanji": "辺",
+                    "reading": "ほとり",
+                    "meanings": [
+                        "side (esp. of a waterbody)",
+                        "edge",
+                        "bank",
+                        "shore"
+                    ]
+                },
+                {
+                    "kanji": "片辺",
+                    "reading": "かたほとり",
+                    "meanings": [
+                        "corner",
+                        "remote country place"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "辺",
+                    "reading": "ヘン",
+                    "meanings": [
+                        "area",
+                        "vicinity",
+                        "region",
+                        "side",
+                        "edge",
+                        "circumstances"
+                    ]
+                },
+                {
+                    "kanji": "辺境",
+                    "reading": "ヘンキョウ",
+                    "meanings": [
+                        "remote region",
+                        "outlying district",
+                        "border district",
+                        "frontier"
+                    ]
+                },
+                {
+                    "kanji": "普遍",
+                    "reading": "フヘン",
+                    "meanings": [
+                        "universal",
+                        "general",
+                        "ubiquitous",
+                        "omnipresent"
+                    ]
+                },
+                {
+                    "kanji": "どの辺",
+                    "reading": "ドノヘン",
+                    "meanings": [
+                        "whereabouts",
+                        "what part",
+                        "how much",
+                        "what point"
+                    ]
+                }
+            ]
+        }
+    }
+}

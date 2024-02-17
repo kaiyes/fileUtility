@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"琢\"",
+        "strokes": 11,
+        "main_meanings": [
+            "polish"
+        ],
+        "main_readings": {
+            "kun": [
+                "みが.く"
+            ],
+            "on": [
+                "タク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2946": "Classic Nelson (Andrew Nelson)",
+                "1963": "Essential Kanji (P.G. O’Neill)",
+                "1608": "Japanese Names (P.G. O’Neill)",
+                "2158": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1222": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "661": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "883": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "21058X": "Morohashi",
+                "971": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3640": "New Nelson (John Haig)",
+                "2560": "Remembering The Kanji (James Heisig)",
+                "2613": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4f8.1": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "1113.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-86": "JIS X 0208-1997 kuten code",
+                "7422": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あや、 たか"
+                ],
+                "chinese": [
+                    "zhuo2",
+                    "zuo2"
+                ],
+                "korean": [
+                    "tag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "王",
+                "豕"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": [
+                "琢"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "磨く",
+                    "reading": "みがく",
+                    "meanings": [
+                        "to polish",
+                        "to shine",
+                        "to burnish",
+                        "to scour",
+                        "to scrub",
+                        "to brush (teeth)",
+                        "to grind (e.g. a lens)",
+                        "to refine (a skill",
+                        "etc.)",
+                        "to improve",
+                        "to hone",
+                        "to polish (up)",
+                        "to cultivate (one's character)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "琢磨",
+                    "reading": "タクマ",
+                    "meanings": [
+                        "polish (jewels)",
+                        "cultivation"
+                    ]
+                },
+                {
+                    "kanji": "彫琢",
+                    "reading": "チョウタク",
+                    "meanings": [
+                        "carving and polishing"
+                    ]
+                }
+            ]
+        }
+    }
+}

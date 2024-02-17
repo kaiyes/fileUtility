@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"泌\"",
+        "strokes": 8,
+        "main_meanings": [
+            "ooze",
+            "flow",
+            "soak in",
+            "penetrate",
+            "secrete"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヒツ",
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1737": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1846": "A New Dictionary of Kanji Usage",
+                "2522": "Classic Nelson (Andrew Nelson)",
+                "1787": "Essential Kanji (P.G. O’Neill)",
+                "1465": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1870": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2031": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1492": "Kanji in Context (Nishiguchi and Kono)",
+                "1179": "Kodansha Compact Kanji Guide",
+                "390": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "247": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "294": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "643": "Les Kanjis dans la tete (Yves Maniette)",
+                "17279": "Morohashi",
+                "332": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3092": "New Nelson (John Haig)",
+                "636": "Remembering The Kanji (James Heisig)",
+                "686": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1204": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "359": "2001 Kanji",
+                "3a5.10": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3310.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-71": "JIS X 0208-1997 kuten code",
+                "6ccc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mi4",
+                    "bi4"
+                ],
+                "korean": [
+                    "bi",
+                    "pil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "ノ",
+                "汁",
+                "心"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "泌尿器",
+                    "reading": "ヒニョウキ",
+                    "meanings": [
+                        "urinary organs"
+                    ]
+                },
+                {
+                    "kanji": "泌乳",
+                    "reading": "ヒツニュウ",
+                    "meanings": [
+                        "lactation"
+                    ]
+                },
+                {
+                    "kanji": "泌尿器",
+                    "reading": "ヒニョウキ",
+                    "meanings": [
+                        "urinary organs"
+                    ]
+                },
+                {
+                    "kanji": "泌乳",
+                    "reading": "ヒツニュウ",
+                    "meanings": [
+                        "lactation"
+                    ]
+                }
+            ]
+        }
+    }
+}

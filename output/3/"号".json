@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"号\"",
+        "strokes": 5,
+        "main_meanings": [
+            "nickname",
+            "number",
+            "item",
+            "title",
+            "pseudonym",
+            "name",
+            "call"
+        ],
+        "main_readings": {
+            "kun": [
+                "さけ.ぶ",
+                "よびな"
+            ],
+            "on": [
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "215": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "297": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "281": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "368": "A New Dictionary of Kanji Usage",
+                "882": "Classic Nelson (Andrew Nelson)",
+                "227": "Essential Kanji (P.G. O’Neill)",
+                "399": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "272": "Japanese Names (P.G. O’Neill)",
+                "2.12": "Japanese for Busy People",
+                "266": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "442": "Kanji in Context (Nishiguchi and Kono)",
+                "316": "Kodansha Compact Kanji Guide",
+                "2675": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1361": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1847": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1250": "Les Kanjis dans la tete (Yves Maniette)",
+                "3256": "Morohashi",
+                "2153": "New Japanese English Character Dictionary (Jack Halpern)",
+                "692": "New Nelson (John Haig)",
+                "1242": "Remembering The Kanji (James Heisig)",
+                "1330": "Remembering The Kanji, 6th edition (James Heisig)",
+                "248": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3752": "2001 Kanji",
+                "3d2.10": "The Kanji Dictionary",
+                "2-3-2": "SKIP code",
+                "2-3-3": "SKIP code",
+                "6020.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-70": "JIS X 0208-1997 kuten code",
+                "53f7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hao4",
+                    "hao2"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "勹",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": [
+                "號"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "号",
+                    "reading": "ゴウ",
+                    "meanings": [
+                        "number",
+                        "edition",
+                        "make",
+                        "model",
+                        "issue",
+                        "part of that group",
+                        "sobriquet",
+                        "pen-name",
+                        "size (of printing types",
+                        "canvases",
+                        "knitting needles",
+                        "etc.)",
+                        "suffix attached to names of ships",
+                        "trains",
+                        "airplanes",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "号車",
+                    "reading": "ゴウシャ",
+                    "meanings": [
+                        "suffix for train car numbers"
+                    ]
+                },
+                {
+                    "kanji": "二号",
+                    "reading": "ニゴウ",
+                    "meanings": [
+                        "number two",
+                        "mistress",
+                        "concubine"
+                    ]
+                },
+                {
+                    "kanji": "符号",
+                    "reading": "フゴウ",
+                    "meanings": [
+                        "sign",
+                        "mark",
+                        "symbol",
+                        "code",
+                        "sign (e.g. positive",
+                        "negative)"
+                    ]
+                }
+            ]
+        }
+    }
+}

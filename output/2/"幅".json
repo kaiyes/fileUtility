@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"幅\"",
+        "strokes": 12,
+        "main_meanings": [
+            "hanging scroll",
+            "width"
+        ],
+        "main_readings": {
+            "kun": [
+                "はば"
+            ],
+            "on": [
+                "フク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1764": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "682": "A New Dictionary of Kanji Usage",
+                "1484": "Classic Nelson (Andrew Nelson)",
+                "1234": "Essential Kanji (P.G. O’Neill)",
+                "501": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1380": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1467": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "897": "Kanji in Context (Nishiguchi and Kono)",
+                "568": "Kodansha Compact Kanji Guide",
+                "694": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "417": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "523": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "414": "Les Kanjis dans la tete (Yves Maniette)",
+                "8995": "Morohashi",
+                "569": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1574": "New Nelson (John Haig)",
+                "407": "Remembering The Kanji (James Heisig)",
+                "435": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1524": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1676": "2001 Kanji",
+                "3f9.2": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "4126.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-93": "JIS X 0208-1997 kuten code",
+                "5e45": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu2"
+                ],
+                "korean": [
+                    "pog",
+                    "bog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "一",
+                "口",
+                "巾",
+                "田"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幅",
+                    "reading": "はば",
+                    "meanings": [
+                        "width",
+                        "breadth",
+                        "freedom (e.g. of thought)",
+                        "latitude",
+                        "gap",
+                        "difference (e.g. in price)",
+                        "range (e.g. of voice)"
+                    ]
+                },
+                {
+                    "kanji": "幅広い",
+                    "reading": "はばひろい",
+                    "meanings": [
+                        "extensive",
+                        "wide",
+                        "broad"
+                    ]
+                },
+                {
+                    "kanji": "小幅",
+                    "reading": "こはば",
+                    "meanings": [
+                        "small",
+                        "narrow",
+                        "single-breadth cloth (approx. 36 cm wide)"
+                    ]
+                },
+                {
+                    "kanji": "値幅",
+                    "reading": "ねはば",
+                    "meanings": [
+                        "price range or fluctuation"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幅",
+                    "reading": "フク",
+                    "meanings": [
+                        "scroll",
+                        "counter for scrolls"
+                    ]
+                },
+                {
+                    "kanji": "幅員",
+                    "reading": "フクイン",
+                    "meanings": [
+                        "width (of a road",
+                        "bridge",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "増幅",
+                    "reading": "ゾウフク",
+                    "meanings": [
+                        "amplification",
+                        "magnification",
+                        "amplification",
+                        "making larger"
+                    ]
+                },
+                {
+                    "kanji": "双幅",
+                    "reading": "ソウフク",
+                    "meanings": [
+                        "pair of hanging scrolls"
+                    ]
+                }
+            ]
+        }
+    }
+}

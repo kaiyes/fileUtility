@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"帰\"",
+        "strokes": 10,
+        "main_meanings": [
+            "homecoming",
+            "arrive at",
+            "lead to",
+            "result in"
+        ],
+        "main_readings": {
+            "kun": [
+                "かえ.る",
+                "かえ.す",
+                "おく.る",
+                "とつ.ぐ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "182": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "106": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "96": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "454": "A New Dictionary of Kanji Usage",
+                "1582": "Classic Nelson (Andrew Nelson)",
+                "263": "Essential Kanji (P.G. O’Neill)",
+                "163": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1018": "Japanese Names (P.G. O’Neill)",
+                "2.6": "Japanese for Busy People",
+                "317": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "134": "Kanji in Context (Nishiguchi and Kono)",
+                "562": "Kodansha Compact Kanji Guide",
+                "148": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "98": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "113": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1238": "Les Kanjis dans la tete (Yves Maniette)",
+                "8930": "Morohashi",
+                "130": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1564": "New Nelson (John Haig)",
+                "1230": "Remembering The Kanji (James Heisig)",
+                "1316": "Remembering The Kanji, 6th edition (James Heisig)",
+                "265": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "191": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1244": "2001 Kanji",
+                "2f8.8": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "1-1-9": "SKIP code",
+                "2702.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-02": "JIS X 0208-1997 kuten code",
+                "5e30": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gui1"
+                ],
+                "korean": [
+                    "gwi",
+                    "gwe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "冖",
+                "刈",
+                "巾",
+                "ヨ"
+            ],
+            "basis": "巾",
+            "kangxi_order": null,
+            "variants": [
+                "歸"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "帰る",
+                    "reading": "かえる",
+                    "meanings": [
+                        "to return",
+                        "to come home",
+                        "to go home",
+                        "to go back",
+                        "to leave (of a guest",
+                        "customer",
+                        "etc.)",
+                        "to get home",
+                        "to get to home plate"
+                    ]
+                },
+                {
+                    "kanji": "帰す",
+                    "reading": "かえす",
+                    "meanings": [
+                        "to send (someone) back",
+                        "to send (someone) home"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "帰還",
+                    "reading": "キカン",
+                    "meanings": [
+                        "return (home)",
+                        "repatriation",
+                        "feedback (in an electronic circuit",
+                        "biological system",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "帰化",
+                    "reading": "キカ",
+                    "meanings": [
+                        "naturalization",
+                        "naturalisation"
+                    ]
+                },
+                {
+                    "kanji": "社会復帰",
+                    "reading": "シャカイフッキ",
+                    "meanings": [
+                        "rehabilitation (in society)"
+                    ]
+                },
+                {
+                    "kanji": "回帰",
+                    "reading": "カイキ",
+                    "meanings": [
+                        "return (to)",
+                        "revolution",
+                        "recurrence",
+                        "regression"
+                    ]
+                }
+            ]
+        }
+    }
+}

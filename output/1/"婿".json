@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"婿\"",
+        "strokes": 12,
+        "main_meanings": [
+            "bridegroom",
+            "son-in-law"
+        ],
+        "main_readings": {
+            "kun": [
+                "むこ"
+            ],
+            "on": [
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1477": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1972": "A New Dictionary of Kanji Usage",
+                "1239": "Classic Nelson (Andrew Nelson)",
+                "1719": "Essential Kanji (P.G. O’Neill)",
+                "1197": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1745": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1868": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "600": "Kanji in Context (Nishiguchi and Kono)",
+                "449": "Kodansha Compact Kanji Guide",
+                "689": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "414": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "520": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "402": "Les Kanjis dans la tete (Yves Maniette)",
+                "6470": "Morohashi",
+                "566": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1246": "New Nelson (John Haig)",
+                "395": "Remembering The Kanji (James Heisig)",
+                "422": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1521": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1746": "2001 Kanji",
+                "3e9.3": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "4742.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-27": "JIS X 0208-1997 kuten code",
+                "5a7f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xu4"
+                ],
+                "korean": [
+                    "seo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "月",
+                "疋"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": [
+                "壻"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "婿",
+                    "reading": "むこ",
+                    "meanings": [
+                        "husband",
+                        "groom",
+                        "(one's) son-in-law"
+                    ]
+                },
+                {
+                    "kanji": "婿入",
+                    "reading": "むこいり",
+                    "meanings": [
+                        "being adopted into the family of one's bride"
+                    ]
+                },
+                {
+                    "kanji": "花婿",
+                    "reading": "はなむこ",
+                    "meanings": [
+                        "bridegroom"
+                    ]
+                },
+                {
+                    "kanji": "相婿",
+                    "reading": "あいむこ",
+                    "meanings": [
+                        "brother-in-law"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "女婿",
+                    "reading": "ジョセイ",
+                    "meanings": [
+                        "son-in-law"
+                    ]
+                },
+                {
+                    "kanji": "愛婿",
+                    "reading": "アイセイ",
+                    "meanings": [
+                        "one's favorite son-in-law",
+                        "one's favourite son-in-law"
+                    ]
+                }
+            ]
+        }
+    }
+}

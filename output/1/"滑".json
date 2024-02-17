@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"滑\"",
+        "strokes": 13,
+        "main_meanings": [
+            "slippery",
+            "slide",
+            "slip",
+            "fail exam"
+        ],
+        "main_readings": {
+            "kun": [
+                "すべ.る",
+                "なめ.らか"
+            ],
+            "on": [
+                "カツ",
+                "コツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1088": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1468": "A New Dictionary of Kanji Usage",
+                "2663": "Classic Nelson (Andrew Nelson)",
+                "1512": "Essential Kanji (P.G. O’Neill)",
+                "1490": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1857": "Japanese Names (P.G. O’Neill)",
+                "1267": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1341": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1392": "Kanji in Context (Nishiguchi and Kono)",
+                "1229": "Kodansha Compact Kanji Guide",
+                "809": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "472": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "603": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1298": "Les Kanjis dans la tete (Yves Maniette)",
+                "18032": "Morohashi",
+                "658": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3282": "New Nelson (John Haig)",
+                "1289": "Remembering The Kanji (James Heisig)",
+                "1384": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1638": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "346": "2001 Kanji",
+                "3a10.6": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "3712.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-74": "JIS X 0208-1997 kuten code",
+                "6ed1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かり、 なめり"
+                ],
+                "chinese": [
+                    "hua2",
+                    "gu3"
+                ],
+                "korean": [
+                    "hwal",
+                    "gol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "冂",
+                "冖",
+                "汁",
+                "月",
+                "骨"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "滑る",
+                    "reading": "すべる",
+                    "meanings": [
+                        "to glide",
+                        "to slide (e.g. on skis)",
+                        "to slip",
+                        "to fail (an examination)",
+                        "to bomb (when telling a joke)",
+                        "to drop",
+                        "to go down",
+                        "to come down",
+                        "to fall (e.g. in status)"
+                    ]
+                },
+                {
+                    "kanji": "滑らか",
+                    "reading": "なめらか",
+                    "meanings": [
+                        "smooth (of a surface)",
+                        "glassy",
+                        "velvety",
+                        "soft",
+                        "smooth (of an action",
+                        "proceedings",
+                        "etc.)",
+                        "fluent (speech)",
+                        "fluid",
+                        "trouble-free",
+                        "continuously differentiable"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "滑落",
+                    "reading": "カツラク",
+                    "meanings": [
+                        "sliding down (a slope",
+                        "mountainside)",
+                        "slipping down"
+                    ]
+                },
+                {
+                    "kanji": "滑液",
+                    "reading": "カツエキ",
+                    "meanings": [
+                        "synovial fluid"
+                    ]
+                },
+                {
+                    "kanji": "平滑",
+                    "reading": "ヘイカツ",
+                    "meanings": [
+                        "smooth",
+                        "even",
+                        "level",
+                        "flat"
+                    ]
+                },
+                {
+                    "kanji": "粘滑",
+                    "reading": "ネンカツ",
+                    "meanings": [
+                        "mucilaginous",
+                        "demulcent"
+                    ]
+                }
+            ]
+        }
+    }
+}

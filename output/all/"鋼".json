@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鋼\"",
+        "strokes": 16,
+        "main_meanings": [
+            "steel"
+        ],
+        "main_readings": {
+            "kun": [
+                "はがね"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "874": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "864": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "867": "A New Dictionary of Kanji Usage",
+                "4883": "Classic Nelson (Andrew Nelson)",
+                "1509": "Essential Kanji (P.G. O’Neill)",
+                "1851": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1608": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1715": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1337": "Kanji in Context (Nishiguchi and Kono)",
+                "1825": "Kodansha Compact Kanji Guide",
+                "2183": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1145": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1551": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1981": "Les Kanjis dans la tete (Yves Maniette)",
+                "40509": "Morohashi",
+                "1740": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6302": "New Nelson (John Haig)",
+                "1962": "Remembering The Kanji (James Heisig)",
+                "2113": "Remembering The Kanji, 6th edition (James Heisig)",
+                "992": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2853": "2001 Kanji",
+                "8a8.20": "The Kanji Dictionary",
+                "1-8-8": "SKIP code",
+                "8712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-61": "JIS X 0208-1997 kuten code",
+                "92fc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gang1",
+                    "gang4"
+                ],
+                "korean": [
+                    "gang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "釒"
+            ],
+            "meaning": "metal,",
+            "parts": [
+                "并",
+                "冂",
+                "山",
+                "金",
+                "岡"
+            ],
+            "basis": "金",
+            "kangxi_order": 167,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鋼",
+                    "reading": "はがね",
+                    "meanings": [
+                        "steel",
+                        "sword steel",
+                        "sword"
+                    ]
+                },
+                {
+                    "kanji": "鋼色",
+                    "reading": "はがねいろ",
+                    "meanings": [
+                        "steel blue"
+                    ]
+                },
+                {
+                    "kanji": "玉鋼",
+                    "reading": "たまはがね",
+                    "meanings": [
+                        "traditional Japanese steel made from iron sand (esp. for use in swords)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鋼",
+                    "reading": "ハガネ",
+                    "meanings": [
+                        "steel",
+                        "sword steel",
+                        "sword"
+                    ]
+                },
+                {
+                    "kanji": "鋼材",
+                    "reading": "コウザイ",
+                    "meanings": [
+                        "steel material"
+                    ]
+                },
+                {
+                    "kanji": "粗鋼",
+                    "reading": "ソコウ",
+                    "meanings": [
+                        "crude steel"
+                    ]
+                },
+                {
+                    "kanji": "製鋼",
+                    "reading": "セイコウ",
+                    "meanings": [
+                        "steel manufacture"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"漆\"",
+        "strokes": 14,
+        "main_meanings": [
+            "lacquer",
+            "varnish",
+            "seven"
+        ],
+        "main_readings": {
+            "kun": [
+                "うるし"
+            ],
+            "on": [
+                "シツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1334": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1966": "A New Dictionary of Kanji Usage",
+                "2679": "Classic Nelson (Andrew Nelson)",
+                "1597": "Essential Kanji (P.G. O’Neill)",
+                "1494": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2087": "Japanese Names (P.G. O’Neill)",
+                "1546": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1648": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1505": "Kanji in Context (Nishiguchi and Kono)",
+                "1241": "Kodansha Compact Kanji Guide",
+                "863": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "497": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "637": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "941": "Les Kanjis dans la tete (Yves Maniette)",
+                "18108": "Morohashi",
+                "704": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3304": "New Nelson (John Haig)",
+                "932": "Remembering The Kanji (James Heisig)",
+                "1001": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1711": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "342": "2001 Kanji",
+                "3a11.10": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "3413.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-31": "JIS X 0208-1997 kuten code",
+                "6f06": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うる"
+                ],
+                "chinese": [
+                    "qi1",
+                    "qu4"
+                ],
+                "korean": [
+                    "chil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "个",
+                "汁",
+                "木",
+                "水"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "桼"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "漆",
+                    "reading": "うるし",
+                    "meanings": [
+                        "East Asian lacquer",
+                        "japan",
+                        "Chinese lacquer tree (Toxicodendron vernicifluum",
+                        "formerly Rhus verniciflua)"
+                    ]
+                },
+                {
+                    "kanji": "漆樹",
+                    "reading": "しつじゅ",
+                    "meanings": [
+                        "Chinese lacquer tree (Toxicodendron vernicifluum)"
+                    ]
+                },
+                {
+                    "kanji": "生漆",
+                    "reading": "きうるし",
+                    "meanings": [
+                        "unrefined sap of the lacquer tree"
+                    ]
+                },
+                {
+                    "kanji": "透漆",
+                    "reading": "すきうるし",
+                    "meanings": [
+                        "clear lacquer"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "漆芸",
+                    "reading": "シツゲイ",
+                    "meanings": [
+                        "(Japanese) lacquer art"
+                    ]
+                },
+                {
+                    "kanji": "漆樹",
+                    "reading": "シツジュ",
+                    "meanings": [
+                        "Chinese lacquer tree (Toxicodendron vernicifluum)"
+                    ]
+                },
+                {
+                    "kanji": "膠漆",
+                    "reading": "コウシツ",
+                    "meanings": [
+                        "glue and lacquer",
+                        "great intimacy"
+                    ]
+                },
+                {
+                    "kanji": "仮漆",
+                    "reading": "カシツ",
+                    "meanings": [
+                        "varnish"
+                    ]
+                }
+            ]
+        }
+    }
+}

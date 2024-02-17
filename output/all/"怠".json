@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"怠\"",
+        "strokes": 9,
+        "main_meanings": [
+            "neglect",
+            "laziness"
+        ],
+        "main_readings": {
+            "kun": [
+                "おこた.る",
+                "なま.ける"
+            ],
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1543": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1613": "A New Dictionary of Kanji Usage",
+                "851": "Classic Nelson (Andrew Nelson)",
+                "1084": "Essential Kanji (P.G. O’Neill)",
+                "1290": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1297": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1372": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1698": "Kanji in Context (Nishiguchi and Kono)",
+                "777": "Kodansha Compact Kanji Guide",
+                "2588": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1323": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1794": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "753": "Les Kanjis dans la tete (Yves Maniette)",
+                "10469": "Morohashi",
+                "2085": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1818": "New Nelson (John Haig)",
+                "745": "Remembering The Kanji (James Heisig)",
+                "806": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1252": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2758": "2001 Kanji",
+                "4k5.21": "The Kanji Dictionary",
+                "2-2-7": "SKIP code",
+                "2333.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-53": "JIS X 0208-1997 kuten code",
+                "6020": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dai4"
+                ],
+                "korean": [
+                    "tae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "厶",
+                "口",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "怠る",
+                    "reading": "おこたる",
+                    "meanings": [
+                        "to neglect",
+                        "to be negligent in",
+                        "to be neglectful of",
+                        "to fail to do",
+                        "to leave undone",
+                        "to avoid (doing)",
+                        "to shirk",
+                        "to be unmindful of",
+                        "to improve (of an illness)",
+                        "to get better"
+                    ]
+                },
+                {
+                    "kanji": "怠ける",
+                    "reading": "なまける",
+                    "meanings": [
+                        "to be lazy",
+                        "to be idle",
+                        "to slack",
+                        "to neglect (e.g. one's work)",
+                        "to be neglectful of",
+                        "to skip (e.g. school)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "怠慢",
+                    "reading": "タイマン",
+                    "meanings": [
+                        "negligence",
+                        "neglect",
+                        "carelessness",
+                        "procrastination"
+                    ]
+                },
+                {
+                    "kanji": "滞納",
+                    "reading": "タイノウ",
+                    "meanings": [
+                        "falling behind (with a payment)",
+                        "being in arrears",
+                        "non-payment",
+                        "default",
+                        "delinquency"
+                    ]
+                },
+                {
+                    "kanji": "懈怠",
+                    "reading": "ケタイ",
+                    "meanings": [
+                        "laziness",
+                        "indolence",
+                        "negligence (of duties)",
+                        "misfeasance",
+                        "nonfeasance",
+                        "negligence",
+                        "laches",
+                        "kausidya"
+                    ]
+                },
+                {
+                    "kanji": "休怠",
+                    "reading": "キュウタイ",
+                    "meanings": [
+                        "laziness",
+                        "neglect"
+                    ]
+                }
+            ]
+        }
+    }
+}

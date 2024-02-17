@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"焦\"",
+        "strokes": 12,
+        "main_meanings": [
+            "char",
+            "hurry",
+            "impatient",
+            "irritate",
+            "burn",
+            "scorch",
+            "singe"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ.げる",
+                "こ.がす",
+                "こ.がれる",
+                "あせ.る",
+                "じ.れる",
+                "じ.らす"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1404": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1202": "A New Dictionary of Kanji Usage",
+                "5029": "Classic Nelson (Andrew Nelson)",
+                "1606": "Essential Kanji (P.G. O’Neill)",
+                "1516": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "999": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1036": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1385": "Kanji in Context (Nishiguchi and Kono)",
+                "1278": "Kodansha Compact Kanji Guide",
+                "3444": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1771": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2412": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "564": "Les Kanjis dans la tete (Yves Maniette)",
+                "19119": "Morohashi",
+                "2770": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3436": "New Nelson (John Haig)",
+                "557": "Remembering The Kanji (James Heisig)",
+                "599": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1564": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2440": "2001 Kanji",
+                "8c4.3": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "2033.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-39": "JIS X 0208-1997 kuten code",
+                "7126": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiao1"
+                ],
+                "korean": [
+                    "cho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "杰",
+                "隹"
+            ],
+            "basis": "火",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "焦げる",
+                    "reading": "こげる",
+                    "meanings": [
+                        "to burn",
+                        "to scorch",
+                        "to char",
+                        "to singe"
+                    ]
+                },
+                {
+                    "kanji": "焦がす",
+                    "reading": "こがす",
+                    "meanings": [
+                        "to burn",
+                        "to scorch",
+                        "to singe",
+                        "to char"
+                    ]
+                },
+                {
+                    "kanji": "焦がれる",
+                    "reading": "こがれる",
+                    "meanings": [
+                        "to yearn for",
+                        "to be in love with"
+                    ]
+                },
+                {
+                    "kanji": "焦る",
+                    "reading": "あせる",
+                    "meanings": [
+                        "to be in a hurry",
+                        "to be impatient",
+                        "to be anxious (to do)",
+                        "to fret",
+                        "to get a fright",
+                        "to panic",
+                        "to get flustered",
+                        "to be startled"
+                    ]
+                },
+                {
+                    "kanji": "焦れる",
+                    "reading": "じれる",
+                    "meanings": [
+                        "to get impatient",
+                        "to become irritated",
+                        "to fret",
+                        "to chafe"
+                    ]
+                },
+                {
+                    "kanji": "焦らす",
+                    "reading": "じらす",
+                    "meanings": [
+                        "to tease",
+                        "to irritate",
+                        "to tantalize",
+                        "to keep (someone) in suspense"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "焦点",
+                    "reading": "ショウテン",
+                    "meanings": [
+                        "focus",
+                        "focal point",
+                        "focus (of attention",
+                        "a discussion",
+                        "etc.)",
+                        "point at issue",
+                        "central point",
+                        "focus"
+                    ]
+                },
+                {
+                    "kanji": "焦燥",
+                    "reading": "ショウソウ",
+                    "meanings": [
+                        "impatience",
+                        "irritation",
+                        "frustration",
+                        "fretfulness"
+                    ]
+                },
+                {
+                    "kanji": "合焦",
+                    "reading": "ガッショウ",
+                    "meanings": [
+                        "being in focus",
+                        "bringing into focus"
+                    ]
+                },
+                {
+                    "kanji": "中焦",
+                    "reading": "チュウショウ",
+                    "meanings": [
+                        "middle jiao (in traditional Chinese medicine)",
+                        "middle burner"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"湿\"",
+        "strokes": 12,
+        "main_meanings": [
+            "damp",
+            "wet",
+            "moist"
+        ],
+        "main_readings": {
+            "kun": [
+                "しめ.る",
+                "しめ.す",
+                "うるお.う",
+                "うるお.す"
+            ],
+            "on": [
+                "シツ",
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1333": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1476": "A New Dictionary of Kanji Usage",
+                "2631": "Classic Nelson (Andrew Nelson)",
+                "1402": "Essential Kanji (P.G. O’Neill)",
+                "702": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1169": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1226": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "838": "Kanji in Context (Nishiguchi and Kono)",
+                "1223": "Kodansha Compact Kanji Guide",
+                "741": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "443": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "555": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1805": "Les Kanjis dans la tete (Yves Maniette)",
+                "17920P": "Morohashi",
+                "609": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3243": "New Nelson (John Haig)",
+                "1788": "Remembering The Kanji (James Heisig)",
+                "1927": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1560": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "374": "2001 Kanji",
+                "3a9.22": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "3611.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-30": "JIS X 0208-1997 kuten code",
+                "6e7f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi1"
+                ],
+                "korean": [
+                    "seub"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "｜",
+                "汁",
+                "日"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "濕"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "湿る",
+                    "reading": "しめる",
+                    "meanings": [
+                        "to become damp",
+                        "to become moist",
+                        "to become wet",
+                        "to lack energy",
+                        "to be in a slump",
+                        "to be in low spirits",
+                        "to feel depressed"
+                    ]
+                },
+                {
+                    "kanji": "湿す",
+                    "reading": "しめす",
+                    "meanings": [
+                        "to wet",
+                        "to moisten",
+                        "to dampen"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "湿",
+                    "reading": "シツ",
+                    "meanings": [
+                        "moisture",
+                        "humidity",
+                        "dampness",
+                        "scabies",
+                        "sarcoptic mange",
+                        "the itch"
+                    ]
+                },
+                {
+                    "kanji": "湿原",
+                    "reading": "シツゲン",
+                    "meanings": [
+                        "marshy grassland",
+                        "wetlands"
+                    ]
+                },
+                {
+                    "kanji": "多湿",
+                    "reading": "タシツ",
+                    "meanings": [
+                        "high humidity"
+                    ]
+                },
+                {
+                    "kanji": "耐湿",
+                    "reading": "タイシツ",
+                    "meanings": [
+                        "resisting moisture"
+                    ]
+                }
+            ]
+        }
+    }
+}

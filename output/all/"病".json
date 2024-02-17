@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"病\"",
+        "strokes": 10,
+        "main_meanings": [
+            "ill",
+            "sick"
+        ],
+        "main_readings": {
+            "kun": [
+                "や.む",
+                "-や.み",
+                "やまい"
+            ],
+            "on": [
+                "ビョウ",
+                "ヘイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "310": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "404": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "381": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "441": "A New Dictionary of Kanji Usage",
+                "3042": "Classic Nelson (Andrew Nelson)",
+                "145": "Essential Kanji (P.G. O’Neill)",
+                "224": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1250": "Japanese Names (P.G. O’Neill)",
+                "2.6": "Japanese for Busy People",
+                "380": "Kanji and Kana (Spahn and Hadamitzky)",
+                "229": "Kanji in Context (Nishiguchi and Kono)",
+                "1352": "Kodansha Compact Kanji Guide",
+                "4062": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2059": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2791": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1698": "Les Kanjis dans la tete (Yves Maniette)",
+                "22127": "Morohashi",
+                "3277": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3798": "New Nelson (John Haig)",
+                "1682": "Remembering The Kanji (James Heisig)",
+                "1813": "Remembering The Kanji, 6th edition (James Heisig)",
+                "365": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "553": "2001 Kanji",
+                "5i5.3": "The Kanji Dictionary",
+                "3-5-5": "SKIP code",
+                "0012.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-34": "JIS X 0208-1997 kuten code",
+                "75c5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bing4"
+                ],
+                "korean": [
+                    "byeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sickness",
+            "parts": [
+                "一",
+                "人",
+                "冂",
+                "疔"
+            ],
+            "basis": "疒",
+            "kangxi_order": 104,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "病む",
+                    "reading": "やむ",
+                    "meanings": [
+                        "to fall ill",
+                        "to suffer from (e.g. a disease)",
+                        "to have something wrong with (e.g. an inner organ)"
+                    ]
+                },
+                {
+                    "kanji": "病",
+                    "reading": "やまい",
+                    "meanings": [
+                        "illness",
+                        "disease",
+                        "bad habit",
+                        "weakness",
+                        "fault"
+                    ]
+                },
+                {
+                    "kanji": "病が篤い",
+                    "reading": "やまいがあつい",
+                    "meanings": [
+                        "seriously ill"
+                    ]
+                },
+                {
+                    "kanji": "恋病",
+                    "reading": "こいやまい",
+                    "meanings": [
+                        "lovesickness"
+                    ]
+                },
+                {
+                    "kanji": "躁鬱病",
+                    "reading": "そううつびょう",
+                    "meanings": [
+                        "manic depression",
+                        "manic-depressive psychosis",
+                        "bipolar disorder"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "病",
+                    "reading": "ビョウ",
+                    "meanings": [
+                        "disease"
+                    ]
+                },
+                {
+                    "kanji": "病院",
+                    "reading": "ビョウイン",
+                    "meanings": [
+                        "hospital",
+                        "clinic",
+                        "doctor's office",
+                        "doctor's surgery",
+                        "infirmary"
+                    ]
+                },
+                {
+                    "kanji": "血友病",
+                    "reading": "ケツユウビョウ",
+                    "meanings": [
+                        "hemophilia",
+                        "haemophilia"
+                    ]
+                },
+                {
+                    "kanji": "同病",
+                    "reading": "ドウビョウ",
+                    "meanings": [
+                        "the same sickness"
+                    ]
+                }
+            ]
+        }
+    }
+}

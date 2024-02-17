@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"瑞\"",
+        "strokes": 13,
+        "main_meanings": [
+            "congratulations"
+        ],
+        "main_readings": {
+            "kun": [
+                "みず-",
+                "しるし"
+            ],
+            "on": [
+                "ズイ",
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1687": "A New Dictionary of Kanji Usage",
+                "2959": "Classic Nelson (Andrew Nelson)",
+                "1956": "Essential Kanji (P.G. O’Neill)",
+                "2094": "Japanese Names (P.G. O’Neill)",
+                "2162": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1302": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "704": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "943": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "21131": "Morohashi",
+                "1027": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3665": "New Nelson (John Haig)",
+                "2563": "Remembering The Kanji (James Heisig)",
+                "2616": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4f9.6": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "1212.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-80": "JIS X 0208-1997 kuten code",
+                "745e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たま、 ず、 みつ"
+                ],
+                "chinese": [
+                    "rui4"
+                ],
+                "korean": [
+                    "seo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "山",
+                "王",
+                "而"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "瑞",
+                    "reading": "ズイ",
+                    "meanings": [
+                        "Sweden",
+                        "Switzerland"
+                    ]
+                },
+                {
+                    "kanji": "瑞宝章",
+                    "reading": "ズイホウショウ",
+                    "meanings": [
+                        "Orders of the Sacred Treasure"
+                    ]
+                },
+                {
+                    "kanji": "祥瑞",
+                    "reading": "ショウズイ",
+                    "meanings": [
+                        "good omen"
+                    ]
+                },
+                {
+                    "kanji": "奇瑞",
+                    "reading": "キズイ",
+                    "meanings": [
+                        "auspicious (good) omen"
+                    ]
+                },
+                {
+                    "kanji": "瑞西",
+                    "reading": "スイス",
+                    "meanings": [
+                        "Switzerland"
+                    ]
+                },
+                {
+                    "kanji": "日瑞",
+                    "reading": "ニッスイ",
+                    "meanings": [
+                        "Japan-Switzerland",
+                        "Japan-Sweden"
+                    ]
+                }
+            ]
+        }
+    }
+}

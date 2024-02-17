@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"危\"",
+        "strokes": 6,
+        "main_meanings": [
+            "dangerous",
+            "fear",
+            "uneasy"
+        ],
+        "main_readings": {
+            "kun": [
+                "あぶ.ない",
+                "あや.うい",
+                "あや.ぶむ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "844": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "831": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "624": "A New Dictionary of Kanji Usage",
+                "187": "Classic Nelson (Andrew Nelson)",
+                "899": "Essential Kanji (P.G. O’Neill)",
+                "385": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "318": "Japanese Names (P.G. O’Neill)",
+                "534": "Kanji and Kana (Spahn and Hadamitzky)",
+                "543": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "789": "Kanji in Context (Nishiguchi and Kono)",
+                "256": "Kodansha Compact Kanji Guide",
+                "3965": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2041": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2755": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1428": "Les Kanjis dans la tete (Yves Maniette)",
+                "2849X": "Morohashi",
+                "3199": "New Japanese English Character Dictionary (Jack Halpern)",
+                "629": "New Nelson (John Haig)",
+                "1416": "Remembering The Kanji (James Heisig)",
+                "1520": "Remembering The Kanji, 6th edition (James Heisig)",
+                "495": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "841": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2556": "2001 Kanji",
+                "2n4.3": "The Kanji Dictionary",
+                "3-4-2": "SKIP code",
+                "2-2-4": "SKIP code",
+                "2721.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-77": "JIS X 0208-1997 kuten code",
+                "5371": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei1",
+                    "wei2"
+                ],
+                "korean": [
+                    "wi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "kneel",
+            "parts": [
+                "勹",
+                "卩",
+                "厂"
+            ],
+            "basis": "卩",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "危ない",
+                    "reading": "あぶない",
+                    "meanings": [
+                        "dangerous",
+                        "risky",
+                        "hazardous",
+                        "perilous",
+                        "precarious",
+                        "in danger",
+                        "in jeopardy",
+                        "critical",
+                        "grave",
+                        "at risk",
+                        "uncertain",
+                        "unreliable",
+                        "insecure",
+                        "unsteady",
+                        "doubtful",
+                        "close (call)",
+                        "narrow (escape)",
+                        "look out!",
+                        "watch out!",
+                        "be careful!"
+                    ]
+                },
+                {
+                    "kanji": "危ない橋を渡る",
+                    "reading": "あぶないはしをわたる",
+                    "meanings": [
+                        "to tread on thin ice",
+                        "to go out on a limb",
+                        "to walk a tightrope",
+                        "to take risks",
+                        "to cross a dangerous bridge"
+                    ]
+                },
+                {
+                    "kanji": "危うい",
+                    "reading": "あやうい",
+                    "meanings": [
+                        "dangerous",
+                        "in danger",
+                        "facing imminent danger",
+                        "precarious (situation)",
+                        "perilous (state",
+                        "balance",
+                        "etc.)",
+                        "in doubt",
+                        "in jeopardy",
+                        "uncertain",
+                        "insecure",
+                        "concerning",
+                        "worrying"
+                    ]
+                },
+                {
+                    "kanji": "危ぶむ",
+                    "reading": "あやぶむ",
+                    "meanings": [
+                        "to fear",
+                        "to doubt",
+                        "to have misgivings about",
+                        "to worry about",
+                        "to be anxious about",
+                        "to be apprehensive about"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "危",
+                    "reading": "キ",
+                    "meanings": [
+                        "danger",
+                        "Chinese \"rooftop\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "危害",
+                    "reading": "キガイ",
+                    "meanings": [
+                        "injury",
+                        "harm",
+                        "danger"
+                    ]
+                },
+                {
+                    "kanji": "安危",
+                    "reading": "アンキ",
+                    "meanings": [
+                        "fate",
+                        "safety",
+                        "welfare"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"毎\"",
+        "strokes": 6,
+        "main_meanings": [
+            "every"
+        ],
+        "main_readings": {
+            "kun": [
+                "ごと",
+                "-ごと.に"
+            ],
+            "on": [
+                "マイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "318": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "225": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "206": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "396": "A New Dictionary of Kanji Usage",
+                "2467": "Classic Nelson (Andrew Nelson)",
+                "92": "Essential Kanji (P.G. O’Neill)",
+                "66": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "444": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "116": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "164": "Kanji in Context (Nishiguchi and Kono)",
+                "1144": "Kodansha Compact Kanji Guide",
+                "2527": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1283": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1751": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "468": "Les Kanjis dans la tete (Yves Maniette)",
+                "16724P": "Morohashi",
+                "2034": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3006": "New Nelson (John Haig)",
+                "458": "Remembering The Kanji (James Heisig)",
+                "497": "Remembering The Kanji, 6th edition (James Heisig)",
+                "136": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2347": "2001 Kanji",
+                "0a6.25": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "8050.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-72": "JIS X 0208-1997 kuten code",
+                "6bce": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つね"
+                ],
+                "chinese": [
+                    "mei3"
+                ],
+                "korean": [
+                    "mae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "母",
+                "⺟"
+            ],
+            "meaning": "mother,",
+            "parts": [
+                "毋",
+                "母",
+                "乞"
+            ],
+            "basis": "毋",
+            "kangxi_order": 80,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "毎",
+                    "reading": "ごと",
+                    "meanings": [
+                        "each",
+                        "every"
+                    ]
+                },
+                {
+                    "kanji": "毎に",
+                    "reading": "ごとに",
+                    "meanings": [
+                        "one by one",
+                        "each",
+                        "every",
+                        "at intervals of"
+                    ]
+                },
+                {
+                    "kanji": "月ごと",
+                    "reading": "つきごと",
+                    "meanings": [
+                        "monthly"
+                    ]
+                },
+                {
+                    "kanji": "戸ごと",
+                    "reading": "こごと",
+                    "meanings": [
+                        "every house",
+                        "each household"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "毎",
+                    "reading": "マイ",
+                    "meanings": [
+                        "every (usu. with events",
+                        "e.g. every weekend)",
+                        "each"
+                    ]
+                },
+                {
+                    "kanji": "毎朝",
+                    "reading": "マイアサ",
+                    "meanings": [
+                        "every morning"
+                    ]
+                },
+                {
+                    "kanji": "毎々",
+                    "reading": "マイマイ",
+                    "meanings": [
+                        "each time",
+                        "frequently",
+                        "always"
+                    ]
+                }
+            ]
+        }
+    }
+}

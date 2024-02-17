@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"最\"",
+        "strokes": 12,
+        "main_meanings": [
+            "utmost",
+            "most",
+            "extreme"
+        ],
+        "main_readings": {
+            "kun": [
+                "もっと.も",
+                "つま"
+            ],
+            "on": [
+                "サイ",
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "402": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "510": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "484": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "121": "A New Dictionary of Kanji Usage",
+                "2146": "Classic Nelson (Andrew Nelson)",
+                "291": "Essential Kanji (P.G. O’Neill)",
+                "612": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1742": "Japanese Names (P.G. O’Neill)",
+                "3.11": "Japanese for Busy People",
+                "263": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "439": "Kanji in Context (Nishiguchi and Kono)",
+                "1000": "Kodansha Compact Kanji Guide",
+                "3120": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1599": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2181": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "829": "Les Kanjis dans la tete (Yves Maniette)",
+                "14301": "Morohashi",
+                "2472": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2492": "New Nelson (John Haig)",
+                "821": "Remembering The Kanji (James Heisig)",
+                "884": "Remembering The Kanji, 6th edition (James Heisig)",
+                "99": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "587": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3867": "2001 Kanji",
+                "4c8.10": "The Kanji Dictionary",
+                "2-4-8": "SKIP code",
+                "6014.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-39": "JIS X 0208-1997 kuten code",
+                "6700": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "も"
+                ],
+                "chinese": [
+                    "zui4"
+                ],
+                "korean": [
+                    "choe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "say",
+            "parts": [
+                "一",
+                "又",
+                "日",
+                "耳"
+            ],
+            "basis": "曰",
+            "kangxi_order": null,
+            "variants": [
+                "冣"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "最も",
+                    "reading": "もっとも",
+                    "meanings": [
+                        "most",
+                        "extremely"
+                    ]
+                },
+                {
+                    "kanji": "最も近い共通祖先",
+                    "reading": "もっともちかいきょうつうそせん",
+                    "meanings": [
+                        "most recent common ancestor"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "最",
+                    "reading": "サイ",
+                    "meanings": [
+                        "the most",
+                        "the extreme",
+                        "prime",
+                        "conspicuous"
+                    ]
+                },
+                {
+                    "kanji": "最悪",
+                    "reading": "サイアク",
+                    "meanings": [
+                        "worst",
+                        "horrible",
+                        "horrid",
+                        "awful",
+                        "terrible",
+                        "in the worst case",
+                        "if worst comes to worst"
+                    ]
+                }
+            ]
+        }
+    }
+}

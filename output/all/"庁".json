@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"庁\"",
+        "strokes": 5,
+        "main_meanings": [
+            "government office"
+        ],
+        "main_readings": {
+            "kun": [
+                "やくしょ"
+            ],
+            "on": [
+                "チョウ",
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "950": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "938": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "459": "A New Dictionary of Kanji Usage",
+                "1498": "Classic Nelson (Andrew Nelson)",
+                "1034": "Essential Kanji (P.G. O’Neill)",
+                "506": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "174": "Japanese Names (P.G. O’Neill)",
+                "763": "Kanji and Kana (Spahn and Hadamitzky)",
+                "777": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "541": "Kanji in Context (Nishiguchi and Kono)",
+                "582": "Kodansha Compact Kanji Guide",
+                "3768": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1920": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2612": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "598": "Les Kanjis dans la tete (Yves Maniette)",
+                "9223": "Morohashi",
+                "3034": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1603": "New Nelson (John Haig)",
+                "591": "Remembering The Kanji (James Heisig)",
+                "635": "Remembering The Kanji, 6th edition (James Heisig)",
+                "837": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "553": "2001 Kanji",
+                "3q2.2": "The Kanji Dictionary",
+                "3-3-2": "SKIP code",
+                "0022.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-03": "JIS X 0208-1997 kuten code",
+                "5e81": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ting1"
+                ],
+                "korean": [
+                    "cheong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "一",
+                "亅",
+                "广"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": [
+                "廳"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "庁",
+                    "reading": "チョウ",
+                    "meanings": [
+                        "government office",
+                        "agency",
+                        "board"
+                    ]
+                },
+                {
+                    "kanji": "庁舎",
+                    "reading": "チョウシャ",
+                    "meanings": [
+                        "government office building"
+                    ]
+                },
+                {
+                    "kanji": "国税庁",
+                    "reading": "コクゼイチョウ",
+                    "meanings": [
+                        "National Tax Agency (Japan)",
+                        "national taxation agency (e.g. IRS)"
+                    ]
+                },
+                {
+                    "kanji": "政庁",
+                    "reading": "セイチョウ",
+                    "meanings": [
+                        "government office"
+                    ]
+                }
+            ]
+        }
+    }
+}

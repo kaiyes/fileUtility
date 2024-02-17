@@ -1,0 +1,281 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"正\"",
+        "strokes": 5,
+        "main_meanings": [
+            "correct",
+            "justice",
+            "righteous",
+            "10**40"
+        ],
+        "main_readings": {
+            "kun": [
+                "ただ.しい",
+                "ただ.す",
+                "まさ",
+                "まさ.に"
+            ],
+            "on": [
+                "セイ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "46": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "79": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "41": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "109": "A New Dictionary of Kanji Usage",
+                "27": "Classic Nelson (Andrew Nelson)",
+                "123": "Essential Kanji (P.G. O’Neill)",
+                "203": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "205": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "275": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "407": "Kanji in Context (Nishiguchi and Kono)",
+                "1128": "Kodansha Compact Kanji Guide",
+                "4296": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2172": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2926": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "385": "Les Kanjis dans la tete (Yves Maniette)",
+                "16255": "Morohashi",
+                "3484": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2955": "New Nelson (John Haig)",
+                "379": "Remembering The Kanji (James Heisig)",
+                "405": "Remembering The Kanji, 6th edition (James Heisig)",
+                "139": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "42": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3173": "2001 Kanji",
+                "2m3.3": "The Kanji Dictionary",
+                "4-5-1": "SKIP code",
+                "1010.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-21": "JIS X 0208-1997 kuten code",
+                "6b63": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おお、 くに、 ま、 まさし、 ただし"
+                ],
+                "chinese": [
+                    "zheng4",
+                    "zheng1"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stop",
+            "parts": [
+                "一",
+                "止"
+            ],
+            "basis": "止",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "正しい",
+                    "reading": "ただしい",
+                    "meanings": [
+                        "right",
+                        "correct",
+                        "proper",
+                        "righteous",
+                        "just",
+                        "honest",
+                        "truthful",
+                        "lawful"
+                    ]
+                },
+                {
+                    "kanji": "正しい行い",
+                    "reading": "ただしいおこない",
+                    "meanings": [
+                        "conducting oneself properly",
+                        "right conduct",
+                        "doing the right thing"
+                    ]
+                },
+                {
+                    "kanji": "正す",
+                    "reading": "ただす",
+                    "meanings": [
+                        "to correct",
+                        "to rectify",
+                        "to reform",
+                        "to amend",
+                        "to redress",
+                        "to straighten (one's posture",
+                        "collar",
+                        "etc.)",
+                        "to adjust"
+                    ]
+                },
+                {
+                    "kanji": "糺す",
+                    "reading": "ただす",
+                    "meanings": [
+                        "to ascertain",
+                        "to confirm",
+                        "to verify",
+                        "to make sure of"
+                    ]
+                },
+                {
+                    "kanji": "正",
+                    "reading": "まさ",
+                    "meanings": [
+                        "exact",
+                        "precise"
+                    ]
+                },
+                {
+                    "kanji": "正に",
+                    "reading": "まさに",
+                    "meanings": [
+                        "exactly",
+                        "just",
+                        "precisely",
+                        "really",
+                        "truly",
+                        "surely",
+                        "certainly",
+                        "without doubt",
+                        "right (when)",
+                        "just (as)",
+                        "just (about to)",
+                        "on the point of",
+                        "on the verge of",
+                        "on the brink of",
+                        "really (ought to)",
+                        "certainly (should)",
+                        "naturally"
+                    ]
+                },
+                {
+                    "kanji": "正に",
+                    "reading": "まさに",
+                    "meanings": [
+                        "exactly",
+                        "just",
+                        "precisely",
+                        "really",
+                        "truly",
+                        "surely",
+                        "certainly",
+                        "without doubt",
+                        "right (when)",
+                        "just (as)",
+                        "just (about to)",
+                        "on the point of",
+                        "on the verge of",
+                        "on the brink of",
+                        "really (ought to)",
+                        "certainly (should)",
+                        "naturally"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "正",
+                    "reading": "セイ",
+                    "meanings": [
+                        "(logical) true",
+                        "regular",
+                        "10^40",
+                        "ten thousand undecillion",
+                        "original",
+                        "positive",
+                        "greater than zero",
+                        "thesis (in dialectics)"
+                    ]
+                },
+                {
+                    "kanji": "正解",
+                    "reading": "セイカイ",
+                    "meanings": [
+                        "correct answer",
+                        "right solution",
+                        "correct interpretation",
+                        "right decision",
+                        "right choice",
+                        "appropriate judgement"
+                    ]
+                },
+                {
+                    "kanji": "検事正",
+                    "reading": "ケンジセイ",
+                    "meanings": [
+                        "chief public prosecutor"
+                    ]
+                },
+                {
+                    "kanji": "適正",
+                    "reading": "テキセイ",
+                    "meanings": [
+                        "reasonable",
+                        "suitable"
+                    ]
+                },
+                {
+                    "kanji": "正",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "exactly",
+                        "precisely",
+                        "correct",
+                        "right",
+                        "true",
+                        "greater (of equal court ranks)",
+                        "upper",
+                        "senior",
+                        "director (highest of the four administrative positions of the ritsuryō period)",
+                        "chief"
+                    ]
+                },
+                {
+                    "kanji": "正月",
+                    "reading": "ショウガツ",
+                    "meanings": [
+                        "New Year (esp. first three days)",
+                        "first month of the year",
+                        "January"
+                    ]
+                },
+                {
+                    "kanji": "大正",
+                    "reading": "タイショウ",
+                    "meanings": [
+                        "Taishō era (1912.7.30-1926.12.25)",
+                        "Taisho era"
+                    ]
+                },
+                {
+                    "kanji": "賀正",
+                    "reading": "ガショウ",
+                    "meanings": [
+                        "A Happy New Year!"
+                    ]
+                }
+            ]
+        }
+    }
+}

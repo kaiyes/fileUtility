@@ -1,0 +1,185 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"妙\"",
+        "strokes": 7,
+        "main_meanings": [
+            "exquisite",
+            "strange",
+            "queer",
+            "mystery",
+            "miracle",
+            "excellent",
+            "delicate",
+            "charming"
+        ],
+        "main_readings": {
+            "kun": [
+                "たえ"
+            ],
+            "on": [
+                "ミョウ",
+                "ビョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1841": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1045": "A New Dictionary of Kanji Usage",
+                "1199": "Classic Nelson (Andrew Nelson)",
+                "1321": "Essential Kanji (P.G. O’Neill)",
+                "1188": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "614": "Japanese Names (P.G. O’Neill)",
+                "1154": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1209": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1150": "Kanji in Context (Nishiguchi and Kono)",
+                "437": "Kodansha Compact Kanji Guide",
+                "280": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "176": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "210": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "124": "Les Kanjis dans la tete (Yves Maniette)",
+                "6090": "Morohashi",
+                "239": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1191": "New Nelson (John Haig)",
+                "123": "Remembering The Kanji (James Heisig)",
+                "130": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1114": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1760": "2001 Kanji",
+                "3e4.5": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "4942.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-15": "JIS X 0208-1997 kuten code",
+                "5999": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "miao4"
+                ],
+                "korean": [
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "ノ",
+                "女",
+                "小"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": [
+                "玅"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "妙なる",
+                    "reading": "たえなる",
+                    "meanings": [
+                        "exquisite (e.g. melody)",
+                        "melodious",
+                        "delicate",
+                        "enchanting"
+                    ]
+                },
+                {
+                    "kanji": "妙なる調べ",
+                    "reading": "たえなるしらべ",
+                    "meanings": [
+                        "enchanting melody",
+                        "sweet tune"
+                    ]
+                },
+                {
+                    "kanji": "白妙",
+                    "reading": "しろたえ",
+                    "meanings": [
+                        "white cloth",
+                        "white"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "妙",
+                    "reading": "ミョウ",
+                    "meanings": [
+                        "strange",
+                        "weird",
+                        "odd",
+                        "curious",
+                        "wonder",
+                        "mystery",
+                        "miracle",
+                        "excellence",
+                        "cleverness",
+                        "adroitness",
+                        "knack",
+                        "skill"
+                    ]
+                },
+                {
+                    "kanji": "妙案",
+                    "reading": "ミョウアン",
+                    "meanings": [
+                        "ingenious idea",
+                        "excellent plan",
+                        "bright idea"
+                    ]
+                },
+                {
+                    "kanji": "絶妙",
+                    "reading": "ゼツミョウ",
+                    "meanings": [
+                        "exquisite",
+                        "superb",
+                        "perfect",
+                        "miraculous"
+                    ]
+                },
+                {
+                    "kanji": "軽妙",
+                    "reading": "ケイミョウ",
+                    "meanings": [
+                        "light and easy",
+                        "lambent",
+                        "clever",
+                        "witty",
+                        "smart"
+                    ]
+                },
+                {
+                    "kanji": "神妙",
+                    "reading": "シンミョウ",
+                    "meanings": [
+                        "meek",
+                        "quiet",
+                        "docile",
+                        "humble",
+                        "faithful",
+                        "obedient",
+                        "mysterious",
+                        "marvelous",
+                        "marvellous"
+                    ]
+                }
+            ]
+        }
+    }
+}

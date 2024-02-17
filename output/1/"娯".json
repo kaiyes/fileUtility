@@ -1,0 +1,106 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"娯\"",
+        "strokes": 10,
+        "main_meanings": [
+            "recreation",
+            "pleasure"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1238": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1622": "A New Dictionary of Kanji Usage",
+                "1226": "Classic Nelson (Andrew Nelson)",
+                "1801": "Essential Kanji (P.G. O’Neill)",
+                "1196": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1437": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1527": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1329": "Kanji in Context (Nishiguchi and Kono)",
+                "443": "Kodansha Compact Kanji Guide",
+                "487": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "301": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "366": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1916": "Les Kanjis dans la tete (Yves Maniette)",
+                "6307P": "Morohashi",
+                "405": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1231": "New Nelson (John Haig)",
+                "1898": "Remembering The Kanji (James Heisig)",
+                "2047": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1321": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1761": "2001 Kanji",
+                "3e7.3": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "1-3-8": "SKIP code",
+                "4648.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-68": "JIS X 0208-1997 kuten code",
+                "5a2f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yu2"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "ハ",
+                "口",
+                "女"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "娯楽",
+                    "reading": "ゴラク",
+                    "meanings": [
+                        "amusement",
+                        "entertainment",
+                        "recreation",
+                        "pleasure",
+                        "pastime",
+                        "hobby"
+                    ]
+                },
+                {
+                    "kanji": "娯遊",
+                    "reading": "ゴユウ",
+                    "meanings": [
+                        "amusement",
+                        "pleasure",
+                        "recreation",
+                        "leisure"
+                    ]
+                }
+            ]
+        }
+    }
+}

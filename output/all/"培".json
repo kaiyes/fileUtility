@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"培\"",
+        "strokes": 11,
+        "main_meanings": [
+            "cultivate",
+            "foster"
+        ],
+        "main_readings": {
+            "kun": [
+                "つちか.う"
+            ],
+            "on": [
+                "バイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1690": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1615": "A New Dictionary of Kanji Usage",
+                "1091": "Classic Nelson (Andrew Nelson)",
+                "1492": "Essential Kanji (P.G. O’Neill)",
+                "1153": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1291": "Japanese Names (P.G. O’Neill)",
+                "1828": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1977": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1640": "Kanji in Context (Nishiguchi and Kono)",
+                "377": "Kodansha Compact Kanji Guide",
+                "558": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "340": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "420": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "488": "Les Kanjis dans la tete (Yves Maniette)",
+                "5195": "Morohashi",
+                "464": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1032": "New Nelson (John Haig)",
+                "477": "Remembering The Kanji (James Heisig)",
+                "516": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1419": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1477": "2001 Kanji",
+                "3b8.6": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "4016.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-61": "JIS X 0208-1997 kuten code",
+                "57f9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pei2"
+                ],
+                "korean": [
+                    "bae",
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "口",
+                "土",
+                "立"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "培う",
+                    "reading": "つちかう",
+                    "meanings": [
+                        "to cultivate",
+                        "to foster"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "培養",
+                    "reading": "バイヨウ",
+                    "meanings": [
+                        "culture",
+                        "cultivation",
+                        "cultivation (of plants)",
+                        "growing",
+                        "raising",
+                        "cultivation (e.g. of a skill)",
+                        "nurture (of democracy",
+                        "national power",
+                        "etc.)",
+                        "growth"
+                    ]
+                },
+                {
+                    "kanji": "培植",
+                    "reading": "バイショク",
+                    "meanings": [
+                        "cultivation (of plants)",
+                        "culturing"
+                    ]
+                },
+                {
+                    "kanji": "育成栽培",
+                    "reading": "イクセイサイバイ",
+                    "meanings": [
+                        "vegetable and fruit growing"
+                    ]
+                },
+                {
+                    "kanji": "促成栽培",
+                    "reading": "ソクセイサイバイ",
+                    "meanings": [
+                        "forcing (plants",
+                        "vegetables",
+                        "etc.)",
+                        "artificially hastening the growth of plants (by controlling heat",
+                        "light",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

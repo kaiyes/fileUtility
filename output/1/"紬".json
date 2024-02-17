@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"紬\"",
+        "strokes": 11,
+        "main_meanings": [
+            "pongee (a knotted silk cloth)"
+        ],
+        "main_readings": {
+            "kun": [
+                "つむぎ",
+                "つむ.ぐ"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3513": "Classic Nelson (Andrew Nelson)",
+                "1951": "Japanese Names (P.G. O’Neill)",
+                "2193": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1684": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "896": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1215": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27338": "Morohashi",
+                "4462": "New Nelson (John Haig)",
+                "2666": "Remembering The Kanji (James Heisig)",
+                "2708": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6a5.3": "The Kanji Dictionary",
+                "1-6-5": "SKIP code",
+                "2596.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-61": "JIS X 0208-1997 kuten code",
+                "7d2c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chou2"
+                ],
+                "korean": [
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "｜",
+                "小",
+                "幺",
+                "日",
+                "田",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "紬",
+                    "reading": "つむぎ",
+                    "meanings": [
+                        "tsumugi",
+                        "pongee",
+                        "traditional rough-surfaced cloth woven from raw silk"
+                    ]
+                },
+                {
+                    "kanji": "紬糸",
+                    "reading": "つむぎいと",
+                    "meanings": [
+                        "tsumugi silk yarn",
+                        "(spun) silk noil yarn"
+                    ]
+                },
+                {
+                    "kanji": "結城紬",
+                    "reading": "ゆうきつむぎ",
+                    "meanings": [
+                        "silk products produced near Yūki (using natural indigo dye)",
+                        "Yūki pongee"
+                    ]
+                },
+                {
+                    "kanji": "大島紬",
+                    "reading": "おおしまつむぎ",
+                    "meanings": [
+                        "Oshima tsumugi weave",
+                        "type of pongee from Oshima"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "絹紬",
+                    "reading": "ケンチュウ",
+                    "meanings": [
+                        "pongee (unbleached silk)"
+                    ]
+                }
+            ]
+        }
+    }
+}

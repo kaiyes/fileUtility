@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鼻\"",
+        "strokes": 14,
+        "main_meanings": [
+            "nose",
+            "snout"
+        ],
+        "main_readings": {
+            "kun": [
+                "はな"
+            ],
+            "on": [
+                "ビ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "496": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "399": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "377": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1459": "A New Dictionary of Kanji Usage",
+                "5421": "Classic Nelson (Andrew Nelson)",
+                "714": "Essential Kanji (P.G. O’Neill)",
+                "1022": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2206": "Japanese Names (P.G. O’Neill)",
+                "813": "Kanji and Kana (Spahn and Hadamitzky)",
+                "832": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1286": "Kanji in Context (Nishiguchi and Kono)",
+                "1945": "Kodansha Compact Kanji Guide",
+                "3357": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1739": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2362": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "685": "Les Kanjis dans la tete (Yves Maniette)",
+                "48498P": "Morohashi",
+                "2706": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7082": "New Nelson (John Haig)",
+                "678": "Remembering The Kanji (James Heisig)",
+                "733": "Remembering The Kanji, 6th edition (James Heisig)",
+                "428": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "855": "2001 Kanji",
+                "5f9.3": "The Kanji Dictionary",
+                "2-6-8": "SKIP code",
+                "2644.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-01": "JIS X 0208-1997 kuten code",
+                "9f3b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bi2"
+                ],
+                "korean": [
+                    "bi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "nose",
+            "parts": [
+                "廾",
+                "田",
+                "目",
+                "自",
+                "鼻"
+            ],
+            "basis": "鼻",
+            "kangxi_order": 209,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鼻",
+                    "reading": "はな",
+                    "meanings": [
+                        "nose"
+                    ]
+                },
+                {
+                    "kanji": "鼻息",
+                    "reading": "はないき",
+                    "meanings": [
+                        "nasal breathing",
+                        "breathing through one's nose",
+                        "person's pleasure",
+                        "excitement"
+                    ]
+                },
+                {
+                    "kanji": "目鼻",
+                    "reading": "めはな",
+                    "meanings": [
+                        "eyes and nose",
+                        "looks",
+                        "facial features",
+                        "shape",
+                        "form"
+                    ]
+                },
+                {
+                    "kanji": "赤鼻",
+                    "reading": "あかはな",
+                    "meanings": [
+                        "red nose"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鼻息",
+                    "reading": "ハナイキ",
+                    "meanings": [
+                        "nasal breathing",
+                        "breathing through one's nose",
+                        "person's pleasure",
+                        "excitement"
+                    ]
+                },
+                {
+                    "kanji": "鼻炎",
+                    "reading": "ビエン",
+                    "meanings": [
+                        "rhinitis",
+                        "coryza",
+                        "nasal inflammation"
+                    ]
+                },
+                {
+                    "kanji": "阿鼻",
+                    "reading": "アビ",
+                    "meanings": [
+                        "Avici (lowest level of hell)"
+                    ]
+                },
+                {
+                    "kanji": "擤鼻",
+                    "reading": "コウビ",
+                    "meanings": [
+                        "nose-blowing"
+                    ]
+                }
+            ]
+        }
+    }
+}

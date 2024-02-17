@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"斤\"",
+        "strokes": 4,
+        "main_meanings": [
+            "axe",
+            "1.32 lb",
+            "catty",
+            "counter for loaves of bread",
+            "axe radical (no. 69)"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "キン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1176": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2012": "A New Dictionary of Kanji Usage",
+                "2076": "Classic Nelson (Andrew Nelson)",
+                "1818": "Essential Kanji (P.G. O’Neill)",
+                "1397": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1897": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2073": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1914": "Kanji in Context (Nishiguchi and Kono)",
+                "953": "Kodansha Compact Kanji Guide",
+                "3667": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1871": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2551": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1134": "Les Kanjis dans la tete (Yves Maniette)",
+                "13534": "Morohashi",
+                "2949": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2379": "New Nelson (John Haig)",
+                "1125": "Remembering The Kanji (James Heisig)",
+                "1206": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1034": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2654": "2001 Kanji",
+                "0a4.3": "The Kanji Dictionary",
+                "3-2-2": "SKIP code",
+                "4-4-4": "SKIP code",
+                "3-3-1": "SKIP code",
+                "7222.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-52": "JIS X 0208-1997 kuten code",
+                "65a4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jin1"
+                ],
+                "korean": [
+                    "geun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "axe",
+            "parts": [
+                "斤"
+            ],
+            "basis": "斤",
+            "kangxi_order": 69,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "斤",
+                    "reading": "キン",
+                    "meanings": [
+                        "kin",
+                        "catty",
+                        "traditional unit of weight",
+                        "600g",
+                        "pound (unit of weight)",
+                        "loaf (of bread)"
+                    ]
+                },
+                {
+                    "kanji": "斤目",
+                    "reading": "キンメ",
+                    "meanings": [
+                        "weight"
+                    ]
+                },
+                {
+                    "kanji": "英斤",
+                    "reading": "エイキン",
+                    "meanings": [
+                        "pound (unit of weight)"
+                    ]
+                },
+                {
+                    "kanji": "一斤",
+                    "reading": "イッキン",
+                    "meanings": [
+                        "1 kin (approx. 0.6 kg)",
+                        "1 loaf of bread"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"実\"",
+        "strokes": 8,
+        "main_meanings": [
+            "reality",
+            "truth",
+            "seed",
+            "fruit",
+            "nut"
+        ],
+        "main_readings": {
+            "kun": [
+                "み",
+                "みの.る",
+                "まこと",
+                "みの",
+                "みち.る"
+            ],
+            "on": [
+                "ジツ",
+                "シツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "233": "Essential Kanji (P.G. O’Neill)",
+                "312": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "296": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "89": "A New Dictionary of Kanji Usage",
+                "1297": "Classic Nelson (Andrew Nelson)",
+                "466": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "678": "Japanese Names (P.G. O’Neill)",
+                "3.20": "Japanese for Busy People",
+                "203": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "672": "Kanji in Context (Nishiguchi and Kono)",
+                "470": "Kodansha Compact Kanji Guide",
+                "2765": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1416": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1911": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1586": "Les Kanjis dans la tete (Yves Maniette)",
+                "7124": "Morohashi",
+                "2225": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1324": "New Nelson (John Haig)",
+                "1572": "Remembering The Kanji (James Heisig)",
+                "1694": "Remembering The Kanji, 6th edition (James Heisig)",
+                "37": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "301": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "763": "2001 Kanji",
+                "3m5.4": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "3053.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-34": "JIS X 0208-1997 kuten code",
+                "5b9f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぐみ、 さね"
+                ],
+                "chinese": [
+                    "shi2"
+                ],
+                "korean": [
+                    "sil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "士",
+                "大",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": [
+                "實"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "実",
+                    "reading": "み",
+                    "meanings": [
+                        "fruit",
+                        "nut",
+                        "seed",
+                        "(in broth) pieces of meat",
+                        "vegetable",
+                        "etc.",
+                        "content",
+                        "substance"
+                    ]
+                },
+                {
+                    "kanji": "実り",
+                    "reading": "みのり",
+                    "meanings": [
+                        "ripening (of a crop)",
+                        "crop",
+                        "harvest"
+                    ]
+                },
+                {
+                    "kanji": "浮き実",
+                    "reading": "うきみ",
+                    "meanings": [
+                        "soup garnish"
+                    ]
+                },
+                {
+                    "kanji": "桷",
+                    "reading": "ずみ",
+                    "meanings": [
+                        "Toringo crabapple (Malus sieboldii)"
+                    ]
+                },
+                {
+                    "kanji": "実る",
+                    "reading": "みのる",
+                    "meanings": [
+                        "to bear fruit",
+                        "to ripen",
+                        "to produce (good) results",
+                        "to show results",
+                        "to bear fruit"
+                    ]
+                },
+                {
+                    "kanji": "実るほど頭の下がる稲穂かな",
+                    "reading": "みのるほどあたまのさがるいなほかな",
+                    "meanings": [
+                        "the more learned",
+                        "the more humble",
+                        "the boughs bearing the most hang lowest"
+                    ]
+                },
+                {
+                    "kanji": "誠",
+                    "reading": "まこと",
+                    "meanings": [
+                        "truth",
+                        "reality",
+                        "fact",
+                        "sincerity",
+                        "honesty",
+                        "faithfulness",
+                        "good faith",
+                        "indeed",
+                        "really",
+                        "absolutely",
+                        "truly",
+                        "actually",
+                        "very",
+                        "quite"
+                    ]
+                },
+                {
+                    "kanji": "実に",
+                    "reading": "じつに",
+                    "meanings": [
+                        "indeed",
+                        "really",
+                        "absolutely",
+                        "truly",
+                        "actually",
+                        "very",
+                        "quite"
+                    ]
+                },
+                {
+                    "kanji": "嘘から出たまこと",
+                    "reading": "うそからでたまこと",
+                    "meanings": [
+                        "something intended as a lie or joke which (by chance) ends up being true",
+                        "lie turned truth"
+                    ]
+                },
+                {
+                    "kanji": "実り",
+                    "reading": "みのり",
+                    "meanings": [
+                        "ripening (of a crop)",
+                        "crop",
+                        "harvest"
+                    ]
+                },
+                {
+                    "kanji": "実る",
+                    "reading": "みのる",
+                    "meanings": [
+                        "to bear fruit",
+                        "to ripen",
+                        "to produce (good) results",
+                        "to show results",
+                        "to bear fruit"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "実",
+                    "reading": "ジツ",
+                    "meanings": [
+                        "truth",
+                        "reality",
+                        "sincerity",
+                        "honesty",
+                        "fidelity",
+                        "content",
+                        "substance",
+                        "(good) result"
+                    ]
+                },
+                {
+                    "kanji": "実演",
+                    "reading": "ジツエン",
+                    "meanings": [
+                        "demonstration",
+                        "presentation",
+                        "stage show",
+                        "performance"
+                    ]
+                },
+                {
+                    "kanji": "名実",
+                    "reading": "メイジツ",
+                    "meanings": [
+                        "in name and in reality",
+                        "nominally and virtually",
+                        "form and contents"
+                    ]
+                },
+                {
+                    "kanji": "内実",
+                    "reading": "ナイジツ",
+                    "meanings": [
+                        "the facts",
+                        "the truth",
+                        "the true state of affairs",
+                        "in truth",
+                        "in fact",
+                        "in reality",
+                        "actually"
+                    ]
+                },
+                {
+                    "kanji": "故実",
+                    "reading": "コジツ",
+                    "meanings": [
+                        "ancient practices",
+                        "old customs"
+                    ]
+                }
+            ]
+        }
+    }
+}

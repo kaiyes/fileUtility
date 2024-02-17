@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"魅\"",
+        "strokes": 15,
+        "main_meanings": [
+            "fascination",
+            "charm",
+            "bewitch"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ミ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1839": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1145": "A New Dictionary of Kanji Usage",
+                "5280": "Classic Nelson (Andrew Nelson)",
+                "1371": "Essential Kanji (P.G. O’Neill)",
+                "1918": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1526": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1627": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1419": "Kanji in Context (Nishiguchi and Kono)",
+                "1928": "Kodansha Compact Kanji Guide",
+                "4131": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2100": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2844": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2042": "Les Kanjis dans la tete (Yves Maniette)",
+                "45811": "Morohashi",
+                "3329": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6838": "New Nelson (John Haig)",
+                "2023": "Remembering The Kanji (James Heisig)",
+                "2179": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1818": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "857": "2001 Kanji",
+                "5f10.1": "The Kanji Dictionary",
+                "3-8-7": "SKIP code",
+                "3-10-5": "SKIP code",
+                "2521.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-05": "JIS X 0208-1997 kuten code",
+                "9b45": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mei4"
+                ],
+                "korean": [
+                    "mae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ghost,",
+            "parts": [
+                "｜",
+                "二",
+                "亠",
+                "儿",
+                "ハ",
+                "匕",
+                "厶",
+                "木",
+                "田",
+                "鬼"
+            ],
+            "basis": "鬼",
+            "kangxi_order": 194,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "魅力",
+                    "reading": "ミリョク",
+                    "meanings": [
+                        "charm",
+                        "fascination",
+                        "glamour",
+                        "glamor",
+                        "attraction",
+                        "appeal"
+                    ]
+                },
+                {
+                    "kanji": "魅了",
+                    "reading": "ミリョウ",
+                    "meanings": [
+                        "charm",
+                        "fascination",
+                        "to charm",
+                        "to fascinate",
+                        "to captivate",
+                        "to mesmerize",
+                        "to enthrall",
+                        "to hold spellbound"
+                    ]
+                },
+                {
+                    "kanji": "鬼魅",
+                    "reading": "キミ",
+                    "meanings": [
+                        "demon",
+                        "monster",
+                        "apparition"
+                    ]
+                },
+                {
+                    "kanji": "魑魅",
+                    "reading": "チミ",
+                    "meanings": [
+                        "mountain demon"
+                    ]
+                }
+            ]
+        }
+    }
+}

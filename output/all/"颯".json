@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"颯\"",
+        "strokes": 14,
+        "main_meanings": [
+            "sudden",
+            "quick",
+            "sound of the wind"
+        ],
+        "main_readings": {
+            "kun": [
+                "さっ.と"
+            ],
+            "on": [
+                "サツ",
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3362": "Classic Nelson (Andrew Nelson)",
+                "2109": "Japanese Names (P.G. O’Neill)",
+                "2266": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1563": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "825": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1130": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "43808": "Morohashi",
+                "6665": "New Nelson (John Haig)",
+                "2619": "Remembering The Kanji (James Heisig)",
+                "2664": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5b9.4": "The Kanji Dictionary",
+                "1-5-9": "SKIP code",
+                "0711.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-81-05": "JIS X 0208-1997 kuten code",
+                "98af": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sa4"
+                ],
+                "korean": [
+                    "sab"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wind",
+            "parts": [
+                "几",
+                "立",
+                "虫",
+                "風"
+            ],
+            "basis": "風",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "颯と",
+                    "reading": "さっと",
+                    "meanings": [
+                        "quickly (esp. actions)",
+                        "suddenly (esp. wind",
+                        "rain",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "颯々",
+                    "reading": "サッサツ",
+                    "meanings": [
+                        "rustling (of wind)",
+                        "murmuring",
+                        "whistling",
+                        "soughing"
+                    ]
+                }
+            ]
+        }
+    }
+}

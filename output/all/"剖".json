@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"剖\"",
+        "strokes": 10,
+        "main_meanings": [
+            "divide"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ボウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1813": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1908": "A New Dictionary of Kanji Usage",
+                "693": "Classic Nelson (Andrew Nelson)",
+                "1805": "Essential Kanji (P.G. O’Neill)",
+                "1093": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1830": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1979": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1609": "Kanji in Context (Nishiguchi and Kono)",
+                "201": "Kodansha Compact Kanji Guide",
+                "2103": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1095": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1492": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "489": "Les Kanjis dans la tete (Yves Maniette)",
+                "2034": "Morohashi",
+                "1670": "New Japanese English Character Dictionary (Jack Halpern)",
+                "492": "New Nelson (John Haig)",
+                "478": "Remembering The Kanji (James Heisig)",
+                "517": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1313": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "443": "2001 Kanji",
+                "2f8.1": "The Kanji Dictionary",
+                "1-8-2": "SKIP code",
+                "0260.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-22": "JIS X 0208-1997 kuten code",
+                "5256": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pou1",
+                    "pou3",
+                    "po3"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "刈",
+                "口",
+                "立"
+            ],
+            "basis": "刀",
+            "kangxi_order": 18,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "剖検",
+                    "reading": "ボウケン",
+                    "meanings": [
+                        "autopsy",
+                        "necropsy"
+                    ]
+                },
+                {
+                    "kanji": "法医解剖",
+                    "reading": "ホウイカイボウ",
+                    "meanings": [
+                        "medicolegal autopsy",
+                        "forensic autopsy"
+                    ]
+                },
+                {
+                    "kanji": "行政解剖",
+                    "reading": "ギョウセイカイボウ",
+                    "meanings": [
+                        "autopsy initiated by government authorities"
+                    ]
+                }
+            ]
+        }
+    }
+}

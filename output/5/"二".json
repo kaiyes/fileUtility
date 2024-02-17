@@ -1,0 +1,201 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"二\"",
+        "strokes": 2,
+        "main_meanings": [
+            "two",
+            "two radical (no. 7)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふた",
+                "ふた.つ",
+                "ふたたび"
+            ],
+            "on": [
+                "ニ",
+                "ジ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2": "Tuttle Kanji Cards (Alexander Kask)",
+                "61": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "6": "A New Dictionary of Kanji Usage",
+                "273": "Classic Nelson (Andrew Nelson)",
+                "9": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "4": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "3": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "31": "Kodansha Compact Kanji Guide",
+                "2421": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1224": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1688": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "247": "Morohashi",
+                "1922": "New Japanese English Character Dictionary (Jack Halpern)",
+                "72": "New Nelson (John Haig)",
+                "11": "The Kanji Way to Japanese Language Power (Dale Crowley)"
+            },
+            "classifications": {
+                "3072": "2001 Kanji",
+                "0a2.1": "The Kanji Dictionary",
+                "2-1-1": "SKIP code",
+                "1010.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-83": "JIS X 0208-1997 kuten code",
+                "4e8c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おと、 つぐ、 つぎ、 にい、 は、 ふ、 ふたつ、 ふだ、 わ"
+                ],
+                "chinese": [
+                    "er4"
+                ],
+                "korean": [
+                    "i"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "two",
+            "parts": [
+                "二"
+            ],
+            "basis": "二",
+            "kangxi_order": 7,
+            "variants": [
+                "弍"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "二",
+                    "reading": "に",
+                    "meanings": [
+                        "two",
+                        "2"
+                    ]
+                },
+                {
+                    "kanji": "二重",
+                    "reading": "にじゅう",
+                    "meanings": [
+                        "double",
+                        "two-fold",
+                        "two layers",
+                        "duplex",
+                        "diplo-",
+                        "dipl-",
+                        "double-edged eyelid",
+                        "double eyelid",
+                        "creased eyelid"
+                    ]
+                },
+                {
+                    "kanji": "二つ",
+                    "reading": "ふたつ",
+                    "meanings": [
+                        "two"
+                    ]
+                },
+                {
+                    "kanji": "二つ目",
+                    "reading": "ふたつめ",
+                    "meanings": [
+                        "one after next",
+                        "second"
+                    ]
+                },
+                {
+                    "kanji": "再び",
+                    "reading": "ふたたび",
+                    "meanings": [
+                        "again",
+                        "once more",
+                        "a second time"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "二",
+                    "reading": "ニ",
+                    "meanings": [
+                        "two",
+                        "2"
+                    ]
+                },
+                {
+                    "kanji": "二院",
+                    "reading": "ニイン",
+                    "meanings": [
+                        "the two houses of legislature"
+                    ]
+                },
+                {
+                    "kanji": "一二",
+                    "reading": "イチニ",
+                    "meanings": [
+                        "the first and second",
+                        "a few"
+                    ]
+                },
+                {
+                    "kanji": "十二",
+                    "reading": "ジュウニ",
+                    "meanings": [
+                        "twelve",
+                        "12",
+                        "queen"
+                    ]
+                },
+                {
+                    "kanji": "次男",
+                    "reading": "ジナン",
+                    "meanings": [
+                        "second son"
+                    ]
+                },
+                {
+                    "kanji": "二黒",
+                    "reading": "ジコク",
+                    "meanings": [
+                        "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+                    ]
+                },
+                {
+                    "kanji": "不二",
+                    "reading": "フジ",
+                    "meanings": [
+                        "being two sides of the same coin",
+                        "being the same (while appearing different)",
+                        "Very sincerely yours",
+                        "peerless",
+                        "unparalleled",
+                        "unparallelled"
+                    ]
+                },
+                {
+                    "kanji": "唯一不二",
+                    "reading": "ユイイツフジ",
+                    "meanings": [
+                        "one and only",
+                        "unique"
+                    ]
+                }
+            ]
+        }
+    }
+}

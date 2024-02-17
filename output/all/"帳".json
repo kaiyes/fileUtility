@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"帳\"",
+        "strokes": 11,
+        "main_meanings": [
+            "notebook",
+            "account book",
+            "album",
+            "curtain",
+            "veil",
+            "net",
+            "tent"
+        ],
+        "main_readings": {
+            "kun": [
+                "とばり"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "470": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "368": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "347": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1181": "A New Dictionary of Kanji Usage",
+                "1478": "Classic Nelson (Andrew Nelson)",
+                "851": "Essential Kanji (P.G. O’Neill)",
+                "1251": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1107": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1159": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1184": "Kanji in Context (Nishiguchi and Kono)",
+                "567": "Kodansha Compact Kanji Guide",
+                "572": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "430": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1941": "Les Kanjis dans la tete (Yves Maniette)",
+                "8939": "Morohashi",
+                "473": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1568": "New Nelson (John Haig)",
+                "1922": "Remembering The Kanji (James Heisig)",
+                "2072": "Remembering The Kanji, 6th edition (James Heisig)",
+                "381": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1665": "2001 Kanji",
+                "3f8.2": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "4123.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-02": "JIS X 0208-1997 kuten code",
+                "5e33": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhang4"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "巾",
+                "長"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": [
+                "賬"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "帳",
+                    "reading": "とばり",
+                    "meanings": [
+                        "curtain",
+                        "hanging",
+                        "bunting"
+                    ]
+                },
+                {
+                    "kanji": "夜の帳",
+                    "reading": "よるのとばり",
+                    "meanings": [
+                        "veil of darkness",
+                        "curtain of night"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "帳",
+                    "reading": "チョウ",
+                    "meanings": [
+                        "book",
+                        "register"
+                    ]
+                },
+                {
+                    "kanji": "帳消し",
+                    "reading": "チョウケシ",
+                    "meanings": [
+                        "writing off (a debt)",
+                        "cancellation",
+                        "balancing the books",
+                        "cancelling out (gains or losses)",
+                        "making even",
+                        "making up (for)",
+                        "offsetting",
+                        "undoing",
+                        "wiping out"
+                    ]
+                },
+                {
+                    "kanji": "記帳",
+                    "reading": "キチョウ",
+                    "meanings": [
+                        "registry",
+                        "entry",
+                        "book-keeping",
+                        "signature"
+                    ]
+                },
+                {
+                    "kanji": "台帳",
+                    "reading": "ダイチョウ",
+                    "meanings": [
+                        "account book",
+                        "ledger",
+                        "register"
+                    ]
+                }
+            ]
+        }
+    }
+}

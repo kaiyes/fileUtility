@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"炊\"",
+        "strokes": 8,
+        "main_meanings": [
+            "cook",
+            "boil"
+        ],
+        "main_readings": {
+            "kun": [
+                "た.く",
+                "-だ.き"
+            ],
+            "on": [
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1453": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1774": "A New Dictionary of Kanji Usage",
+                "2752": "Classic Nelson (Andrew Nelson)",
+                "1626": "Essential Kanji (P.G. O’Neill)",
+                "1512": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "602": "Japanese Names (P.G. O’Neill)",
+                "1791": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1927": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1311": "Kanji in Context (Nishiguchi and Kono)",
+                "1265": "Kodansha Compact Kanji Guide",
+                "1080": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "584": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "773": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "479": "Les Kanjis dans la tete (Yves Maniette)",
+                "18904": "Morohashi",
+                "870": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3405": "New Nelson (John Haig)",
+                "468": "Remembering The Kanji (James Heisig)",
+                "507": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1208": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1162": "2001 Kanji",
+                "4d4.1": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "9788.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-70": "JIS X 0208-1997 kuten code",
+                "708a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い"
+                ],
+                "chinese": [
+                    "chui1",
+                    "chui4"
+                ],
+                "korean": [
+                    "chwi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "欠",
+                "火"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "炊く",
+                    "reading": "たく",
+                    "meanings": [
+                        "to cook (grains",
+                        "e.g. rice)",
+                        "to boil",
+                        "to simmer",
+                        "to stew",
+                        "to seethe",
+                        "to get angry",
+                        "to snap"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "炊飯器",
+                    "reading": "スイハンキ",
+                    "meanings": [
+                        "rice cooker"
+                    ]
+                },
+                {
+                    "kanji": "炊事",
+                    "reading": "スイジ",
+                    "meanings": [
+                        "cooking",
+                        "kitchen work"
+                    ]
+                },
+                {
+                    "kanji": "雑炊",
+                    "reading": "ゾウスイ",
+                    "meanings": [
+                        "rice gruel containing vegetables",
+                        "fish",
+                        "etc.",
+                        "and seasoned with miso or soy sauce"
+                    ]
+                },
+                {
+                    "kanji": "烹炊",
+                    "reading": "ホウスイ",
+                    "meanings": [
+                        "cooking by boiling"
+                    ]
+                }
+            ]
+        }
+    }
+}

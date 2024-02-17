@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"林\"",
+        "strokes": 8,
+        "main_meanings": [
+            "grove",
+            "forest"
+        ],
+        "main_readings": {
+            "kun": [
+                "はやし"
+            ],
+            "on": [
+                "リン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "150": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "64": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "75": "Tuttle Kanji Cards (Alexander Kask)",
+                "420": "A New Dictionary of Kanji Usage",
+                "2210": "Classic Nelson (Andrew Nelson)",
+                "57": "Essential Kanji (P.G. O’Neill)",
+                "197": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "633": "Japanese Names (P.G. O’Neill)",
+                "127": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "459": "Kanji in Context (Nishiguchi and Kono)",
+                "1081": "Kodansha Compact Kanji Guide",
+                "1071": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "577": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "765": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "200": "Les Kanjis dans la tete (Yves Maniette)",
+                "14551": "Morohashi",
+                "861": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2590": "New Nelson (John Haig)",
+                "196": "Remembering The Kanji (James Heisig)",
+                "208": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "1864": "2001 Kanji",
+                "4a4.1": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "4499.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-51": "JIS X 0208-1997 kuten code",
+                "6797": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "し"
+                ],
+                "chinese": [
+                    "lin2"
+                ],
+                "korean": [
+                    "rim"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "林",
+                    "reading": "はやし",
+                    "meanings": [
+                        "wood",
+                        "woods",
+                        "forest",
+                        "grove",
+                        "copse",
+                        "thicket",
+                        "bunch (of something)",
+                        "cluster",
+                        "line",
+                        "collection"
+                    ]
+                },
+                {
+                    "kanji": "林原美術館",
+                    "reading": "はやしばらびじゅつかん",
+                    "meanings": [
+                        "Hayashibara Museum of Art"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "林道",
+                    "reading": "リンドウ",
+                    "meanings": [
+                        "path through forest",
+                        "woodland path",
+                        "logging road"
+                    ]
+                },
+                {
+                    "kanji": "林業",
+                    "reading": "リンギョウ",
+                    "meanings": [
+                        "forestry"
+                    ]
+                },
+                {
+                    "kanji": "雑木林",
+                    "reading": "ゾウキバヤシ",
+                    "meanings": [
+                        "grove of miscellaneous trees",
+                        "copse",
+                        "coppice",
+                        "thicket"
+                    ]
+                },
+                {
+                    "kanji": "農林",
+                    "reading": "ノウリン",
+                    "meanings": [
+                        "agriculture and forestry"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"偲\"",
+        "strokes": 11,
+        "main_meanings": [
+            "recollect",
+            "remember"
+        ],
+        "main_readings": {
+            "kun": [
+                "しの.ぶ"
+            ],
+            "on": [
+                "サイ",
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "499": "Classic Nelson (Andrew Nelson)",
+                "2021": "Kanji and Kana (Spahn and Hadamitzky)",
+                "153": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "103": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "118": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2064": "Les Kanjis dans la tete (Yves Maniette)",
+                "895": "Morohashi",
+                "135": "New Japanese English Character Dictionary (Jack Halpern)",
+                "266": "New Nelson (John Haig)",
+                "2129": "Remembering The Kanji (James Heisig)",
+                "2256": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2a9.7": "The Kanji Dictionary",
+                "1-2-9": "SKIP code",
+                "2623.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-37": "JIS X 0208-1997 kuten code",
+                "5072": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "si1"
+                ],
+                "korean": [
+                    "si"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "心",
+                "田"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "偲ぶ",
+                    "reading": "しのぶ",
+                    "meanings": [
+                        "to recollect",
+                        "to remember",
+                        "to reminisce",
+                        "to be nostalgic for",
+                        "to imagine",
+                        "to guess",
+                        "to infer"
+                    ]
+                },
+                {
+                    "kanji": "偲ぶ会",
+                    "reading": "しのぶかい",
+                    "meanings": [
+                        "gathering to remember a dead person",
+                        "memorial meeting"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "偲ぶ",
+                    "reading": "シノブ",
+                    "meanings": [
+                        "to recollect",
+                        "to remember",
+                        "to reminisce",
+                        "to be nostalgic for",
+                        "to imagine",
+                        "to guess",
+                        "to infer"
+                    ]
+                },
+                {
+                    "kanji": "偲ばれる",
+                    "reading": "シノバレル",
+                    "meanings": [
+                        "to be brought to mind",
+                        "to come to mind"
+                    ]
+                }
+            ]
+        }
+    }
+}

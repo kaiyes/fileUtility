@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"妄\"",
+        "strokes": 6,
+        "main_meanings": [
+            "delusion",
+            "unnecessarily",
+            "without authority",
+            "reckless"
+        ],
+        "main_readings": {
+            "kun": [
+                "みだ.りに"
+            ],
+            "on": [
+                "モウ",
+                "ボウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1851": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1937": "A New Dictionary of Kanji Usage",
+                "288": "Classic Nelson (Andrew Nelson)",
+                "1186": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1376": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1463": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1696": "Kanji in Context (Nishiguchi and Kono)",
+                "424": "Kodansha Compact Kanji Guide",
+                "2509": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1273": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1739": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "498": "Les Kanjis dans la tete (Yves Maniette)",
+                "6063": "Morohashi",
+                "2016": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1177": "New Nelson (John Haig)",
+                "487": "Remembering The Kanji (James Heisig)",
+                "526": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1071": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "469": "2001 Kanji",
+                "2j4.6": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "0040.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-49": "JIS X 0208-1997 kuten code",
+                "5984": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wang4"
+                ],
+                "korean": [
+                    "mang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "亠",
+                "女",
+                "亡"
+            ],
+            "basis": "女",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "妄りに",
+                    "reading": "みだりに",
+                    "meanings": [
+                        "without authority",
+                        "without reason",
+                        "unnecessarily",
+                        "recklessly",
+                        "indiscriminately",
+                        "arbitrarily"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "妄想",
+                    "reading": "モウソウ",
+                    "meanings": [
+                        "delusion",
+                        "wild idea",
+                        "(wild) fancy",
+                        "(ridiculous) fantasy"
+                    ]
+                },
+                {
+                    "kanji": "盲信",
+                    "reading": "モウシン",
+                    "meanings": [
+                        "blind acceptance",
+                        "blind belief",
+                        "credulity"
+                    ]
+                },
+                {
+                    "kanji": "迷妄",
+                    "reading": "メイモウ",
+                    "meanings": [
+                        "illusion",
+                        "fallacy",
+                        "delusion"
+                    ]
+                },
+                {
+                    "kanji": "謬妄",
+                    "reading": "ビュウモウ",
+                    "meanings": [
+                        "fallacy",
+                        "conjecture",
+                        "baseless thing",
+                        "random thing"
+                    ]
+                },
+                {
+                    "kanji": "妄想",
+                    "reading": "モウソウ",
+                    "meanings": [
+                        "delusion",
+                        "wild idea",
+                        "(wild) fancy",
+                        "(ridiculous) fantasy"
+                    ]
+                },
+                {
+                    "kanji": "盲信",
+                    "reading": "モウシン",
+                    "meanings": [
+                        "blind acceptance",
+                        "blind belief",
+                        "credulity"
+                    ]
+                },
+                {
+                    "kanji": "狂妄",
+                    "reading": "キョウボウ",
+                    "meanings": [
+                        "eccentric",
+                        "wild",
+                        "off-kilter",
+                        "mad"
+                    ]
+                },
+                {
+                    "kanji": "誣謗",
+                    "reading": "フボウ",
+                    "meanings": [
+                        "slander"
+                    ]
+                }
+            ]
+        }
+    }
+}

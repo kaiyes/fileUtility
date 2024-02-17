@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"盗\"",
+        "strokes": 11,
+        "main_meanings": [
+            "steal",
+            "rob",
+            "pilfer"
+        ],
+        "main_readings": {
+            "kun": [
+                "ぬす.む",
+                "ぬす.み"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1649": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "957": "A New Dictionary of Kanji Usage",
+                "3115": "Classic Nelson (Andrew Nelson)",
+                "1026": "Essential Kanji (P.G. O’Neill)",
+                "757": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1100": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1151": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "268": "Kanji in Context (Nishiguchi and Kono)",
+                "1372": "Kodansha Compact Kanji Guide",
+                "3309": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1714": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2327": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1463": "Les Kanjis dans la tete (Yves Maniette)",
+                "23000": "Morohashi",
+                "2670": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3894": "New Nelson (John Haig)",
+                "1451": "Remembering The Kanji (James Heisig)",
+                "1559": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1465": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "374": "2001 Kanji",
+                "5h6.2": "The Kanji Dictionary",
+                "2-6-5": "SKIP code",
+                "3710.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-80": "JIS X 0208-1997 kuten code",
+                "76d7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dao4"
+                ],
+                "korean": [
+                    "do"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "dish",
+            "parts": [
+                "冫",
+                "欠",
+                "皿"
+            ],
+            "basis": "皿",
+            "kangxi_order": 108,
+            "variants": [
+                "盜"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "盗む",
+                    "reading": "ぬすむ",
+                    "meanings": [
+                        "to steal",
+                        "to plagiarize",
+                        "to steal (a technique",
+                        "idea",
+                        "etc.)",
+                        "to watch and learn",
+                        "to do stealthily",
+                        "to do during scant time",
+                        "to steal a base"
+                    ]
+                },
+                {
+                    "kanji": "盗み",
+                    "reading": "ぬすみ",
+                    "meanings": [
+                        "stealing",
+                        "theft"
+                    ]
+                },
+                {
+                    "kanji": "盗み足",
+                    "reading": "ぬすみあし",
+                    "meanings": [
+                        "stealthy steps"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "盗聴",
+                    "reading": "トウチョウ",
+                    "meanings": [
+                        "interception (email)",
+                        "wiretap",
+                        "bug"
+                    ]
+                },
+                {
+                    "kanji": "盗賊",
+                    "reading": "トウゾク",
+                    "meanings": [
+                        "thief",
+                        "robber",
+                        "burglar",
+                        "bandit"
+                    ]
+                },
+                {
+                    "kanji": "怪盗",
+                    "reading": "カイトウ",
+                    "meanings": [
+                        "mysterious thief",
+                        "phantom thief"
+                    ]
+                },
+                {
+                    "kanji": "劫盗",
+                    "reading": "ゴウトウ",
+                    "meanings": [
+                        "robbery",
+                        "robber"
+                    ]
+                }
+            ]
+        }
+    }
+}

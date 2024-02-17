@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"費\"",
+        "strokes": 12,
+        "main_meanings": [
+            "expense",
+            "cost",
+            "spend",
+            "consume",
+            "waste"
+        ],
+        "main_readings": {
+            "kun": [
+                "つい.やす",
+                "つい.える"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "495": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "596": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "567": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "337": "A New Dictionary of Kanji Usage",
+                "4497": "Classic Nelson (Andrew Nelson)",
+                "608": "Essential Kanji (P.G. O’Neill)",
+                "925": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "749": "Kanji and Kana (Spahn and Hadamitzky)",
+                "762": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "858": "Kanji in Context (Nishiguchi and Kono)",
+                "1732": "Kodansha Compact Kanji Guide",
+                "3221": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1670": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2261": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1246": "Les Kanjis dans la tete (Yves Maniette)",
+                "36717": "Morohashi",
+                "2607": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5786": "New Nelson (John Haig)",
+                "1238": "Remembering The Kanji (James Heisig)",
+                "1326": "Remembering The Kanji, 6th edition (James Heisig)",
+                "352": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "598": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1961": "2001 Kanji",
+                "7b5.4": "The Kanji Dictionary",
+                "2-5-7": "SKIP code",
+                "5580.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-81": "JIS X 0208-1997 kuten code",
+                "8cbb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fei4"
+                ],
+                "korean": [
+                    "bi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "｜",
+                "ハ",
+                "弓",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "費やす",
+                    "reading": "ついやす",
+                    "meanings": [
+                        "to spend",
+                        "to expend",
+                        "to consume",
+                        "to waste",
+                        "to squander",
+                        "to throw away",
+                        "to devote"
+                    ]
+                },
+                {
+                    "kanji": "費える",
+                    "reading": "ついえる",
+                    "meanings": [
+                        "to be used up (of money",
+                        "savings",
+                        "etc.)",
+                        "to dwindle away",
+                        "to be wasted (of time)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "費",
+                    "reading": "ヒ",
+                    "meanings": [
+                        "cost",
+                        "expense"
+                    ]
+                },
+                {
+                    "kanji": "費用",
+                    "reading": "ヒヨウ",
+                    "meanings": [
+                        "cost",
+                        "expense"
+                    ]
+                },
+                {
+                    "kanji": "固定費",
+                    "reading": "コテイヒ",
+                    "meanings": [
+                        "fixed cost",
+                        "fixed expense"
+                    ]
+                },
+                {
+                    "kanji": "交際費",
+                    "reading": "コウサイヒ",
+                    "meanings": [
+                        "entertainment expenses"
+                    ]
+                }
+            ]
+        }
+    }
+}

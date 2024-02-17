@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"球\"",
+        "strokes": 11,
+        "main_meanings": [
+            "ball",
+            "sphere"
+        ],
+        "main_readings": {
+            "kun": [
+                "たま"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "188": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "275": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "257": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "379": "A New Dictionary of Kanji Usage",
+                "2941": "Classic Nelson (Andrew Nelson)",
+                "845": "Essential Kanji (P.G. O’Neill)",
+                "736": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1359": "Japanese Names (P.G. O’Neill)",
+                "3.7": "Japanese for Busy People",
+                "726": "Kanji and Kana (Spahn and Hadamitzky)",
+                "739": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "935": "Remembering The Kanji (James Heisig)",
+                "1319": "Kodansha Compact Kanji Guide",
+                "1219": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "658": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "880": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "944": "Les Kanjis dans la tete (Yves Maniette)",
+                "21011": "Morohashi",
+                "969": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3643": "New Nelson (John Haig)",
+                "1005": "Remembering The Kanji, 6th edition (James Heisig)",
+                "370": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3142": "2001 Kanji",
+                "4f7.2": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "1313.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-69": "JIS X 0208-1997 kuten code",
+                "7403": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "く"
+                ],
+                "chinese": [
+                    "qiu2"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "丶",
+                "水",
+                "王"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "玉",
+                    "reading": "たま",
+                    "meanings": [
+                        "ball",
+                        "sphere",
+                        "globe",
+                        "orb",
+                        "bead (of sweat",
+                        "dew",
+                        "etc.)",
+                        "drop",
+                        "droplet",
+                        "ball (in sports)",
+                        "pile (of noodles",
+                        "etc.)",
+                        "bullet",
+                        "bulb (i.e. a light bulb)",
+                        "lens (of glasses",
+                        "etc.)",
+                        "bead (of an abacus)",
+                        "ball (i.e. a testicle)",
+                        "gem",
+                        "jewel (esp. spherical; sometimes used figuratively)",
+                        "pearl",
+                        "female entertainer (e.g. a geisha)",
+                        "person (when commenting on their nature)",
+                        "character",
+                        "item",
+                        "funds or person used as part of a plot",
+                        "egg",
+                        "okonomiyaki",
+                        "coin",
+                        "precious",
+                        "beautiful",
+                        "excellent"
+                    ]
+                },
+                {
+                    "kanji": "玉突き",
+                    "reading": "たまつき",
+                    "meanings": [
+                        "billiards",
+                        "pool",
+                        "serial collisions (of cars)"
+                    ]
+                },
+                {
+                    "kanji": "電気の球",
+                    "reading": "でんきのたま",
+                    "meanings": [
+                        "electric (light) bulb"
+                    ]
+                },
+                {
+                    "kanji": "目の玉",
+                    "reading": "めのたま",
+                    "meanings": [
+                        "eyeball"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "球",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "sphere",
+                        "globe",
+                        "ball",
+                        "bulb",
+                        "ball",
+                        "sphere",
+                        "counter for pitches"
+                    ]
+                },
+                {
+                    "kanji": "球威",
+                    "reading": "キュウイ",
+                    "meanings": [
+                        "(pitcher's) stuff"
+                    ]
+                },
+                {
+                    "kanji": "配球",
+                    "reading": "ハイキュウ",
+                    "meanings": [
+                        "combination of (varied) pitches",
+                        "serves",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "制球",
+                    "reading": "セイキュウ",
+                    "meanings": [
+                        "(pitcher's) control"
+                    ]
+                }
+            ]
+        }
+    }
+}

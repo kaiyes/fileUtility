@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"機\"",
+        "strokes": 16,
+        "main_meanings": [
+            "loom",
+            "mechanism",
+            "machine",
+            "airplane",
+            "opportunity",
+            "potency",
+            "efficacy",
+            "occasion"
+        ],
+        "main_readings": {
+            "kun": [
+                "はた"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "373": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "476": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "453": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "101": "A New Dictionary of Kanji Usage",
+                "2379": "Classic Nelson (Andrew Nelson)",
+                "415": "Essential Kanji (P.G. O’Neill)",
+                "646": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2869": "Japanese Names (P.G. O’Neill)",
+                "528": "Kanji and Kana (Spahn and Hadamitzky)",
+                "537": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "334": "Kanji in Context (Nishiguchi and Kono)",
+                "1115": "Kodansha Compact Kanji Guide",
+                "1365": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "736": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "989": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1394": "Les Kanjis dans la tete (Yves Maniette)",
+                "15561": "Morohashi",
+                "1076": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2880": "New Nelson (John Haig)",
+                "1382": "Remembering The Kanji (James Heisig)",
+                "1482": "Remembering The Kanji, 6th edition (James Heisig)",
+                "158": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "631": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1859": "2001 Kanji",
+                "4a12.1": "The Kanji Dictionary",
+                "1-4-12": "SKIP code",
+                "4295.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-01": "JIS X 0208-1997 kuten code",
+                "6a5f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "丶",
+                "ノ",
+                "幺",
+                "戈",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "機",
+                    "reading": "はた",
+                    "meanings": [
+                        "loom"
+                    ]
+                },
+                {
+                    "kanji": "機織り",
+                    "reading": "はたおり",
+                    "meanings": [
+                        "weaving",
+                        "weaver"
+                    ]
+                },
+                {
+                    "kanji": "高機",
+                    "reading": "たかばた",
+                    "meanings": [
+                        "traditional Japanese treadle-operated tall loom"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "機",
+                    "reading": "キ",
+                    "meanings": [
+                        "chance",
+                        "opportunity",
+                        "machine",
+                        "aircraft",
+                        "counter for aircraft",
+                        "counter for (remaining) lives"
+                    ]
+                },
+                {
+                    "kanji": "機運",
+                    "reading": "キウン",
+                    "meanings": [
+                        "opportunity",
+                        "chance",
+                        "good time (to do)",
+                        "trend",
+                        "tendency",
+                        "momentum"
+                    ]
+                },
+                {
+                    "kanji": "端末機",
+                    "reading": "タンマツキ",
+                    "meanings": [
+                        "terminal (unit)"
+                    ]
+                },
+                {
+                    "kanji": "有機",
+                    "reading": "ユウキ",
+                    "meanings": [
+                        "organic"
+                    ]
+                }
+            ]
+        }
+    }
+}

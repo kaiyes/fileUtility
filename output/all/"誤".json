@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"誤\"",
+        "strokes": 14,
+        "main_meanings": [
+            "mistake",
+            "err",
+            "do wrong",
+            "mislead"
+        ],
+        "main_readings": {
+            "kun": [
+                "あやま.る",
+                "-あやま.る"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "779": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "868": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "857": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1129": "A New Dictionary of Kanji Usage",
+                "4372": "Classic Nelson (Andrew Nelson)",
+                "602": "Essential Kanji (P.G. O’Neill)",
+                "904": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "906": "Kanji and Kana (Spahn and Hadamitzky)",
+                "928": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "949": "Kanji in Context (Nishiguchi and Kono)",
+                "1686": "Kodansha Compact Kanji Guide",
+                "1945": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1039": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1403": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1917": "Les Kanjis dans la tete (Yves Maniette)",
+                "35546P": "Morohashi",
+                "1542": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5626": "New Nelson (John Haig)",
+                "1899": "Remembering The Kanji (James Heisig)",
+                "2048": "Remembering The Kanji, 6th edition (James Heisig)",
+                "972": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3061": "2001 Kanji",
+                "7a7.2": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "1-7-8": "SKIP code",
+                "0668.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-77": "JIS X 0208-1997 kuten code",
+                "8aa4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wu4"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "ハ",
+                "口",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "誤る",
+                    "reading": "あやまる",
+                    "meanings": [
+                        "to make a mistake (in)",
+                        "to commit an error",
+                        "to do incorrectly",
+                        "to err",
+                        "to be wrong",
+                        "to be incorrect",
+                        "to be false",
+                        "to be mistaken",
+                        "to mislead",
+                        "to misguide",
+                        "to lead astray"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "誤",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "mistake",
+                        "error"
+                    ]
+                },
+                {
+                    "kanji": "誤解",
+                    "reading": "ゴカイ",
+                    "meanings": [
+                        "misunderstanding"
+                    ]
+                },
+                {
+                    "kanji": "時代錯誤",
+                    "reading": "ジダイサクゴ",
+                    "meanings": [
+                        "anachronism"
+                    ]
+                },
+                {
+                    "kanji": "錯誤",
+                    "reading": "サクゴ",
+                    "meanings": [
+                        "mistake",
+                        "error",
+                        "discrepancy",
+                        "discrepancy between one's actions and intentions"
+                    ]
+                }
+            ]
+        }
+    }
+}

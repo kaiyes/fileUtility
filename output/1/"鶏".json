@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鶏\"",
+        "strokes": 19,
+        "main_meanings": [
+            "chicken"
+        ],
+        "main_readings": {
+            "kun": [
+                "にわとり",
+                "とり"
+            ],
+            "on": [
+                "ケイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1206": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1669": "A New Dictionary of Kanji Usage",
+                "5359": "Classic Nelson (Andrew Nelson)",
+                "1548": "Essential Kanji (P.G. O’Neill)",
+                "1922": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2821": "Japanese Names (P.G. O’Neill)",
+                "926": "Kanji and Kana (Spahn and Hadamitzky)",
+                "949": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1863": "Kanji in Context (Nishiguchi and Kono)",
+                "1936": "Kodansha Compact Kanji Guide",
+                "2221": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1158": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1577": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1966": "Les Kanjis dans la tete (Yves Maniette)",
+                "47074P": "Morohashi",
+                "1768": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6980": "New Nelson (John Haig)",
+                "1947": "Remembering The Kanji (James Heisig)",
+                "2097": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1928": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2050": "2001 Kanji",
+                "11b8.4": "The Kanji Dictionary",
+                "1-8-11": "SKIP code",
+                "2752.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-60": "JIS X 0208-1997 kuten code",
+                "9d8f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "gye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "二",
+                "人",
+                "土",
+                "大",
+                "杰",
+                "爪",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": 196,
+            "variants": [
+                "鷄"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鶏",
+                    "reading": "にわとり",
+                    "meanings": [
+                        "chicken (Gallus gallus domesticus)",
+                        "domestic chicken",
+                        "chicken meat"
+                    ]
+                },
+                {
+                    "kanji": "鶏小屋",
+                    "reading": "にわとりごや",
+                    "meanings": [
+                        "henhouse",
+                        "chicken coop"
+                    ]
+                },
+                {
+                    "kanji": "鳥",
+                    "reading": "とり",
+                    "meanings": [
+                        "bird",
+                        "bird meat (esp. chicken meat)",
+                        "fowl",
+                        "poultry"
+                    ]
+                },
+                {
+                    "kanji": "鶏",
+                    "reading": "にわとり",
+                    "meanings": [
+                        "chicken (Gallus gallus domesticus)",
+                        "domestic chicken",
+                        "chicken meat"
+                    ]
+                },
+                {
+                    "kanji": "花鶏",
+                    "reading": "あとり",
+                    "meanings": [
+                        "brambling (bird) (Fringilla montifringilla)"
+                    ]
+                },
+                {
+                    "kanji": "頭青花鶏",
+                    "reading": "ずあおあとり",
+                    "meanings": [
+                        "chaffinch (Fringilla coelebs)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鶏肉",
+                    "reading": "トリニク",
+                    "meanings": [
+                        "chicken meat",
+                        "fowl",
+                        "poultry",
+                        "bird meat"
+                    ]
+                },
+                {
+                    "kanji": "鶏卵",
+                    "reading": "ケイラン",
+                    "meanings": [
+                        "hen's egg"
+                    ]
+                },
+                {
+                    "kanji": "養鶏",
+                    "reading": "ヨウケイ",
+                    "meanings": [
+                        "poultry raising",
+                        "poultry farming",
+                        "chicken farming"
+                    ]
+                },
+                {
+                    "kanji": "成鶏",
+                    "reading": "セイケイ",
+                    "meanings": [
+                        "adult chicken",
+                        "mature fowl"
+                    ]
+                }
+            ]
+        }
+    }
+}

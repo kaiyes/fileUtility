@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鳴\"",
+        "strokes": 14,
+        "main_meanings": [
+            "chirp",
+            "cry",
+            "bark",
+            "sound",
+            "ring",
+            "echo",
+            "honk"
+        ],
+        "main_readings": {
+            "kun": [
+                "な.く",
+                "な.る",
+                "な.らす"
+            ],
+            "on": [
+                "メイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "321": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "229": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "209": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1186": "A New Dictionary of Kanji Usage",
+                "983": "Classic Nelson (Andrew Nelson)",
+                "864": "Essential Kanji (P.G. O’Neill)",
+                "1019": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2065": "Japanese Names (P.G. O’Neill)",
+                "925": "Kanji and Kana (Spahn and Hadamitzky)",
+                "948": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "487": "Kanji in Context (Nishiguchi and Kono)",
+                "1935": "Kodansha Compact Kanji Guide",
+                "831": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "481": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "616": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1961": "Les Kanjis dans la tete (Yves Maniette)",
+                "46672": "Morohashi",
+                "674": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6939": "New Nelson (John Haig)",
+                "1942": "Remembering The Kanji (James Heisig)",
+                "2092": "Remembering The Kanji, 6th edition (James Heisig)",
+                "235": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3750": "2001 Kanji",
+                "3d11.1": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "6702.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-36": "JIS X 0208-1997 kuten code",
+                "9cf4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なり、 なる"
+                ],
+                "chinese": [
+                    "ming2"
+                ],
+                "korean": [
+                    "myeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "口",
+                "杰",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鳴く",
+                    "reading": "なく",
+                    "meanings": [
+                        "to make sound (of an animal)",
+                        "to call",
+                        "to cry",
+                        "to whine",
+                        "to sing",
+                        "to chirp",
+                        "to make a meld call (e.g. pung",
+                        "kong)"
+                    ]
+                },
+                {
+                    "kanji": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
+                    "reading": "なくせみよりもなかぬほたるがみをこがす",
+                    "meanings": [
+                        "empty vessels make the most noise",
+                        "the silent firefly burns with more passion than the crying cicada"
+                    ]
+                },
+                {
+                    "kanji": "鳴る",
+                    "reading": "なる",
+                    "meanings": [
+                        "to sound",
+                        "to ring",
+                        "to resound",
+                        "to echo",
+                        "to roar",
+                        "to rumble"
+                    ]
+                },
+                {
+                    "kanji": "鳴門",
+                    "reading": "なると",
+                    "meanings": [
+                        "strait with a roaring tidal ebb and flow",
+                        "whirlpool",
+                        "maelstrom",
+                        "kamaboko with a spiral whirlpool-like pattern",
+                        "cooking technique where ingredients are cut in a spiral pattern",
+                        "Naruto (city in Tokushima)",
+                        "Naruto Strait",
+                        "Naruto wakame"
+                    ]
+                },
+                {
+                    "kanji": "鳴らす",
+                    "reading": "ならす",
+                    "meanings": [
+                        "to ring",
+                        "to sound",
+                        "to chime",
+                        "to beat",
+                        "to snort (nose)",
+                        "to snap (fingers)",
+                        "to crack (joints)",
+                        "to be popular",
+                        "to be esteemed",
+                        "to be reputed",
+                        "to state",
+                        "to insist",
+                        "to complain",
+                        "to fart (loudly)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鳴管",
+                    "reading": "メイカン",
+                    "meanings": [
+                        "syrinx (part of a bird)",
+                        "lower larynx"
+                    ]
+                },
+                {
+                    "kanji": "鳴禽",
+                    "reading": "メイキン",
+                    "meanings": [
+                        "songbird",
+                        "oscine"
+                    ]
+                },
+                {
+                    "kanji": "百家争鳴",
+                    "reading": "ヒャッカソウメイ",
+                    "meanings": [
+                        "let a hundred schools of thought contend"
+                    ]
+                },
+                {
+                    "kanji": "蛙鳴",
+                    "reading": "アメイ",
+                    "meanings": [
+                        "frog calling"
+                    ]
+                }
+            ]
+        }
+    }
+}

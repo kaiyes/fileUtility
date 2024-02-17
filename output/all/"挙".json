@@ -1,0 +1,261 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"挙\"",
+        "strokes": 10,
+        "main_meanings": [
+            "raise",
+            "plan",
+            "project",
+            "behavior",
+            "actions"
+        ],
+        "main_readings": {
+            "kun": [
+                "あ.げる",
+                "あ.がる",
+                "こぞ.る"
+            ],
+            "on": [
+                "キョ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "375": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "482": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "458": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "439": "A New Dictionary of Kanji Usage",
+                "1902": "Classic Nelson (Andrew Nelson)",
+                "523": "Essential Kanji (P.G. O’Neill)",
+                "1356": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1207": "Japanese Names (P.G. O’Neill)",
+                "801": "Kanji and Kana (Spahn and Hadamitzky)",
+                "815": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1189": "Kanji in Context (Nishiguchi and Kono)",
+                "849": "Kodansha Compact Kanji Guide",
+                "3106": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1588": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2169": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1957": "Les Kanjis dans la tete (Yves Maniette)",
+                "12081P": "Morohashi",
+                "2456": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2150": "New Nelson (John Haig)",
+                "1938": "Remembering The Kanji (James Heisig)",
+                "2088": "Remembering The Kanji, 6th edition (James Heisig)",
+                "434": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "539": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "947": "2001 Kanji",
+                "3n7.1": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "2-4-6": "SKIP code",
+                "2-6-4": "SKIP code",
+                "3250.2": "Four corner code",
+                "9050.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-83": "JIS X 0208-1997 kuten code",
+                "6319": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たか"
+                ],
+                "chinese": [
+                    "ju3"
+                ],
+                "korean": [
+                    "geo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "ハ",
+                "尚",
+                "手"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "擧"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "上げる",
+                    "reading": "あげる",
+                    "meanings": [
+                        "to raise",
+                        "to elevate",
+                        "to do up (one's hair)",
+                        "to fly (a kite",
+                        "etc.)",
+                        "to launch (fireworks",
+                        "etc.)",
+                        "to surface (a submarine",
+                        "etc.)",
+                        "to land (a boat)",
+                        "to deep-fry",
+                        "to show someone (into a room)",
+                        "to give",
+                        "to send someone (away)",
+                        "to enrol (one's child in school)",
+                        "to enroll",
+                        "to increase (price",
+                        "quality",
+                        "status",
+                        "etc.)",
+                        "to develop (talent",
+                        "skill)",
+                        "to improve",
+                        "to make (a loud sound)",
+                        "to raise (one's voice)",
+                        "to earn (something desirable)",
+                        "to praise",
+                        "to give (an example",
+                        "etc.)",
+                        "to cite",
+                        "to summon up (all of one's energy",
+                        "etc.)",
+                        "to arrest",
+                        "to nominate",
+                        "to summon (for geishas",
+                        "etc.)",
+                        "to offer up (incense",
+                        "a prayer",
+                        "etc.) to the gods (or Buddha",
+                        "etc.)",
+                        "to bear (a child)",
+                        "to conduct (a ceremony",
+                        "esp. a wedding)",
+                        "(of the tide) to come in",
+                        "to vomit",
+                        "to do for (the sake of someone else)",
+                        "to complete ...",
+                        "to humbly do ..."
+                    ]
+                },
+                {
+                    "kanji": "上がる",
+                    "reading": "あがる",
+                    "meanings": [
+                        "to rise",
+                        "to go up",
+                        "to come up",
+                        "to ascend",
+                        "to be raised",
+                        "to enter (esp. from outdoors)",
+                        "to come in",
+                        "to go in",
+                        "to enter (a school)",
+                        "to advance to the next grade",
+                        "to get out (of water)",
+                        "to come ashore",
+                        "to increase",
+                        "to improve",
+                        "to make progress",
+                        "to be promoted",
+                        "to advance",
+                        "to be made (of profit",
+                        "etc.)",
+                        "to occur (esp. of a favourable result)",
+                        "to be adequate (to cover expenses",
+                        "etc.)",
+                        "to be finished",
+                        "to be done",
+                        "to be over",
+                        "to stop (of rain)",
+                        "to lift",
+                        "to stop (working properly)",
+                        "to cut out",
+                        "to give out",
+                        "to die",
+                        "to win (in a card game",
+                        "etc.)",
+                        "to be arrested",
+                        "to turn up (of evidence",
+                        "etc.)",
+                        "to be deep fried",
+                        "to be spoken loudly",
+                        "to get nervous",
+                        "to get stage fright",
+                        "to be offered (to the gods",
+                        "etc.)",
+                        "to go",
+                        "to visit",
+                        "to eat",
+                        "to drink",
+                        "to be listed (as a candidate)",
+                        "to serve (in one's master's home)",
+                        "to go north",
+                        "to be complete",
+                        "to finish"
+                    ]
+                },
+                {
+                    "kanji": "挙る",
+                    "reading": "こぞる",
+                    "meanings": [
+                        "to assemble everything together",
+                        "to do something as a group"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "挙",
+                    "reading": "キョ",
+                    "meanings": [
+                        "action",
+                        "behavior",
+                        "behaviour",
+                        "move",
+                        "recommendation (of a person for a position)"
+                    ]
+                },
+                {
+                    "kanji": "挙式",
+                    "reading": "キョシキ",
+                    "meanings": [
+                        "holding a ceremony",
+                        "wedding ceremony"
+                    ]
+                },
+                {
+                    "kanji": "暴挙",
+                    "reading": "ボウキョ",
+                    "meanings": [
+                        "violence",
+                        "reckless action",
+                        "(an) outrage"
+                    ]
+                },
+                {
+                    "kanji": "快挙",
+                    "reading": "カイキョ",
+                    "meanings": [
+                        "brilliant achievement",
+                        "spectacular feat",
+                        "splendid accomplishment",
+                        "remarkable deed"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"図\"",
+        "strokes": 7,
+        "main_meanings": [
+            "map",
+            "drawing",
+            "plan",
+            "extraordinary",
+            "audacious"
+        ],
+        "main_readings": {
+            "kun": [
+                "え",
+                "はか.る"
+            ],
+            "on": [
+                "ズ",
+                "ト"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "261": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "167": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "150": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "631": "A New Dictionary of Kanji Usage",
+                "1034": "Classic Nelson (Andrew Nelson)",
+                "388": "Essential Kanji (P.G. O’Neill)",
+                "142": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "502": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "339": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "329": "Kanji in Context (Nishiguchi and Kono)",
+                "342": "Kodansha Compact Kanji Guide",
+                "3809": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1951": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2645": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1188": "Les Kanjis dans la tete (Yves Maniette)",
+                "4734P": "Morohashi",
+                "3071": "New Japanese English Character Dictionary (Jack Halpern)",
+                "947": "New Nelson (John Haig)",
+                "1180": "Remembering The Kanji (James Heisig)",
+                "1264": "Remembering The Kanji, 6th edition (James Heisig)",
+                "146": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "366": "2001 Kanji",
+                "3s4.3": "The Kanji Dictionary",
+                "3-3-4": "SKIP code",
+                "6040.3": "Four corner code",
+                "6040.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-62": "JIS X 0208-1997 kuten code",
+                "56f3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "づ"
+                ],
+                "chinese": [
+                    "tu2"
+                ],
+                "korean": [
+                    "do"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "enclosure",
+            "parts": [
+                "囗",
+                "斗"
+            ],
+            "basis": "囗",
+            "kangxi_order": 31,
+            "variants": [
+                "圖"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "図る",
+                    "reading": "はかる",
+                    "meanings": [
+                        "to plan",
+                        "to attempt",
+                        "to devise",
+                        "to plot",
+                        "to conspire",
+                        "to scheme",
+                        "to aim for",
+                        "to strive for",
+                        "to work towards",
+                        "to seek",
+                        "to deceive",
+                        "to trick",
+                        "to take in"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "図",
+                    "reading": "ズ",
+                    "meanings": [
+                        "drawing",
+                        "picture",
+                        "diagram",
+                        "figure",
+                        "illustration",
+                        "chart",
+                        "graph",
+                        "map",
+                        "sight",
+                        "scene"
+                    ]
+                },
+                {
+                    "kanji": "図鑑",
+                    "reading": "ズカン",
+                    "meanings": [
+                        "pictorial book",
+                        "picture book",
+                        "illustrated reference book",
+                        "identification manual",
+                        "field guide"
+                    ]
+                },
+                {
+                    "kanji": "一途",
+                    "reading": "イチズ",
+                    "meanings": [
+                        "wholehearted",
+                        "earnest",
+                        "determined",
+                        "intent",
+                        "single-minded",
+                        "straightforward",
+                        "devoted to",
+                        "doing nothing but"
+                    ]
+                },
+                {
+                    "kanji": "構図",
+                    "reading": "コウズ",
+                    "meanings": [
+                        "composition (of painting)",
+                        "structural outline",
+                        "compositional arrangement"
+                    ]
+                },
+                {
+                    "kanji": "図書館",
+                    "reading": "トショカン",
+                    "meanings": [
+                        "library"
+                    ]
+                },
+                {
+                    "kanji": "図書",
+                    "reading": "トショ",
+                    "meanings": [
+                        "books"
+                    ]
+                },
+                {
+                    "kanji": "異図",
+                    "reading": "イト",
+                    "meanings": [
+                        "treasonable intent"
+                    ]
+                },
+                {
+                    "kanji": "隠された意図",
+                    "reading": "カクサレタイト",
+                    "meanings": [
+                        "hidden agenda"
+                    ]
+                }
+            ]
+        }
+    }
+}

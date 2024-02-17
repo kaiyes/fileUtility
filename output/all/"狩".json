@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"狩\"",
+        "strokes": 9,
+        "main_meanings": [
+            "hunt",
+            "raid",
+            "gather"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.る",
+                "か.り",
+                "-が.り"
+            ],
+            "on": [
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1347": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1650": "A New Dictionary of Kanji Usage",
+                "2883": "Classic Nelson (Andrew Nelson)",
+                "1023": "Essential Kanji (P.G. O’Neill)",
+                "1524": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "791": "Japanese Names (P.G. O’Neill)",
+                "1581": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1687": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1514": "Kanji in Context (Nishiguchi and Kono)",
+                "1302": "Kodansha Compact Kanji Guide",
+                "474": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "295": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "356": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "248": "Les Kanjis dans la tete (Yves Maniette)",
+                "20390": "Morohashi",
+                "397": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3573": "New Nelson (John Haig)",
+                "243": "Remembering The Kanji (James Heisig)",
+                "258": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1280": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2948": "2001 Kanji",
+                "3g6.5": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "4324.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-77": "JIS X 0208-1997 kuten code",
+                "72e9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かり"
+                ],
+                "chinese": [
+                    "shou4"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "宀",
+                "寸",
+                "犯"
+            ],
+            "basis": "犬",
+            "kangxi_order": 94,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "狩る",
+                    "reading": "かる",
+                    "meanings": [
+                        "to hunt (animals)",
+                        "to search (for a criminal)",
+                        "to go looking for (flowers",
+                        "etc.)",
+                        "to gather (mushrooms)",
+                        "to pick (berries)"
+                    ]
+                },
+                {
+                    "kanji": "狩り",
+                    "reading": "かり",
+                    "meanings": [
+                        "hunting",
+                        "harvesting (e.g. berries",
+                        "fruit)",
+                        "picking",
+                        "gathering"
+                    ]
+                },
+                {
+                    "kanji": "狩場",
+                    "reading": "かりば",
+                    "meanings": [
+                        "hunting ground",
+                        "hunting preserve"
+                    ]
+                },
+                {
+                    "kanji": "虫狩",
+                    "reading": "むしかり",
+                    "meanings": [
+                        "viburnum",
+                        "Viburnum furcatum"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "狩猟",
+                    "reading": "シュリョウ",
+                    "meanings": [
+                        "hunting"
+                    ]
+                },
+                {
+                    "kanji": "狩猟期",
+                    "reading": "シュリョウキ",
+                    "meanings": [
+                        "hunting season"
+                    ]
+                },
+                {
+                    "kanji": "巡狩",
+                    "reading": "ジュンシュ",
+                    "meanings": [
+                        "Imperial visit"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"場\"",
+        "strokes": 12,
+        "main_meanings": [
+            "location",
+            "place"
+        ],
+        "main_readings": {
+            "kun": [
+                "ば"
+            ],
+            "on": [
+                "ジョウ",
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "252": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "161": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "144": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "34": "A New Dictionary of Kanji Usage",
+                "1113": "Classic Nelson (Andrew Nelson)",
+                "250": "Essential Kanji (P.G. O’Neill)",
+                "145": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "3.2": "Japanese for Busy People",
+                "154": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "335": "Kanji in Context (Nishiguchi and Kono)",
+                "380": "Kodansha Compact Kanji Guide",
+                "678": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "408": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "512": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "551": "Les Kanjis dans la tete (Yves Maniette)",
+                "5278": "Morohashi",
+                "558": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1058": "New Nelson (John Haig)",
+                "545": "Remembering The Kanji (James Heisig)",
+                "584": "Remembering The Kanji, 6th edition (James Heisig)",
+                "49": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "216": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1451": "2001 Kanji",
+                "3b9.6": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "4612.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-76": "JIS X 0208-1997 kuten code",
+                "5834": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chang2",
+                    "chang3"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "一",
+                "土",
+                "日",
+                "勿"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": [
+                "塲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "場",
+                    "reading": "ば",
+                    "meanings": [
+                        "place",
+                        "spot",
+                        "space",
+                        "field",
+                        "discipline",
+                        "sphere",
+                        "realm",
+                        "occasion",
+                        "situation",
+                        "scene (of a play",
+                        "movie",
+                        "etc.)",
+                        "session",
+                        "field",
+                        "table",
+                        "area in which cards are laid out (in a card game)",
+                        "round (east",
+                        "south",
+                        "etc.)",
+                        "field",
+                        "field (in Gestalt psychology)"
+                    ]
+                },
+                {
+                    "kanji": "場合",
+                    "reading": "ばあい",
+                    "meanings": [
+                        "case",
+                        "occasion",
+                        "situation",
+                        "circumstances"
+                    ]
+                },
+                {
+                    "kanji": "木場",
+                    "reading": "きば",
+                    "meanings": [
+                        "lumberyard"
+                    ]
+                },
+                {
+                    "kanji": "漁場",
+                    "reading": "ぎょじょう",
+                    "meanings": [
+                        "fishing grounds",
+                        "permitted fishing zone"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "場",
+                    "reading": "ジョウ",
+                    "meanings": [
+                        "place",
+                        "spot",
+                        "grounds",
+                        "arena",
+                        "stadium",
+                        "range",
+                        "course"
+                    ]
+                },
+                {
+                    "kanji": "場外",
+                    "reading": "ジョウガイ",
+                    "meanings": [
+                        "outside the hall (or stadium",
+                        "market",
+                        "etc.)",
+                        "off the grounds",
+                        "off the premises",
+                        "off-track"
+                    ]
+                },
+                {
+                    "kanji": "斎場",
+                    "reading": "サイジョウ",
+                    "meanings": [
+                        "funeral hall",
+                        "ceremony site"
+                    ]
+                },
+                {
+                    "kanji": "開場",
+                    "reading": "カイジョウ",
+                    "meanings": [
+                        "opening (the doors of a venue)",
+                        "inauguration (of a new building",
+                        "facility",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"訳\"",
+        "strokes": 11,
+        "main_meanings": [
+            "translate",
+            "reason",
+            "circumstance",
+            "case"
+        ],
+        "main_readings": {
+            "kun": [
+                "わけ"
+            ],
+            "on": [
+                "ヤク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "874": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "993": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "982": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "879": "A New Dictionary of Kanji Usage",
+                "4327": "Classic Nelson (Andrew Nelson)",
+                "190": "Essential Kanji (P.G. O’Neill)",
+                "1743": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1402": "Japanese Names (P.G. O’Neill)",
+                "594": "Kanji and Kana (Spahn and Hadamitzky)",
+                "604": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "761": "Kanji in Context (Nishiguchi and Kono)",
+                "1668": "Kodansha Compact Kanji Guide",
+                "1865": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "989": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1340": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1082": "Les Kanjis dans la tete (Yves Maniette)",
+                "35324P": "Morohashi",
+                "1473": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5572": "New Nelson (John Haig)",
+                "1073": "Remembering The Kanji (James Heisig)",
+                "1154": "Remembering The Kanji, 6th edition (James Heisig)",
+                "934": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3062": "2001 Kanji",
+                "7a4.8": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "0768.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-85": "JIS X 0208-1997 kuten code",
+                "8a33": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "yeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "丶",
+                "尸",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": [
+                "譯"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "訳",
+                    "reading": "わけ",
+                    "meanings": [
+                        "conclusion from reasoning",
+                        "judgement or calculation based on something read or heard",
+                        "reason",
+                        "cause",
+                        "meaning",
+                        "circumstances",
+                        "situation"
+                    ]
+                },
+                {
+                    "kanji": "訳がない",
+                    "reading": "わけがない",
+                    "meanings": [
+                        "there is no way that ...",
+                        "easy",
+                        "simple"
+                    ]
+                },
+                {
+                    "kanji": "申し訳",
+                    "reading": "もうしわけ",
+                    "meanings": [
+                        "apology",
+                        "excuse"
+                    ]
+                },
+                {
+                    "kanji": "仕分け",
+                    "reading": "しわけ",
+                    "meanings": [
+                        "classification",
+                        "sorting (out)",
+                        "grouping",
+                        "assortment",
+                        "assortment journalizing (in bookkeeping)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "訳",
+                    "reading": "ヤク",
+                    "meanings": [
+                        "translation",
+                        "version (e.g. \"English version\")"
+                    ]
+                },
+                {
+                    "kanji": "訳者",
+                    "reading": "ヤクシャ",
+                    "meanings": [
+                        "translator"
+                    ]
+                },
+                {
+                    "kanji": "点訳",
+                    "reading": "テンヤク",
+                    "meanings": [
+                        "translating into Braille"
+                    ]
+                },
+                {
+                    "kanji": "名訳",
+                    "reading": "メイヤク",
+                    "meanings": [
+                        "excellent translation",
+                        "fine translation"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"民\"",
+        "strokes": 5,
+        "main_meanings": [
+            "people",
+            "nation",
+            "subjects"
+        ],
+        "main_readings": {
+            "kun": [
+                "たみ"
+            ],
+            "on": [
+                "ミン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "518": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "619": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "590": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "70": "A New Dictionary of Kanji Usage",
+                "25": "Classic Nelson (Andrew Nelson)",
+                "246": "Essential Kanji (P.G. O’Neill)",
+                "206": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "333": "Japanese Names (P.G. O’Neill)",
+                "177": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "536": "Kanji in Context (Nishiguchi and Kono)",
+                "1149": "Kodansha Compact Kanji Guide",
+                "3770": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1922": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2614": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1851": "Les Kanjis dans la tete (Yves Maniette)",
+                "17028": "Morohashi",
+                "3036": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3021": "New Nelson (John Haig)",
+                "1834": "Remembering The Kanji (James Heisig)",
+                "1976": "Remembering The Kanji, 6th edition (James Heisig)",
+                "30": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "459": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3756": "2001 Kanji",
+                "0a5.23": "The Kanji Dictionary",
+                "3-3-2": "SKIP code",
+                "4-5-1": "SKIP code",
+                "7774.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-17": "JIS X 0208-1997 kuten code",
+                "6c11": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひと、 み"
+                ],
+                "chinese": [
+                    "min2"
+                ],
+                "korean": [
+                    "min"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "clan",
+            "parts": [
+                "口",
+                "尸",
+                "氏"
+            ],
+            "basis": "氏",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "民",
+                    "reading": "たみ",
+                    "meanings": [
+                        "people",
+                        "citizens",
+                        "subjects",
+                        "folk"
+                    ]
+                },
+                {
+                    "kanji": "民草",
+                    "reading": "たみくさ",
+                    "meanings": [
+                        "people",
+                        "populace"
+                    ]
+                },
+                {
+                    "kanji": "国民",
+                    "reading": "くにたみ",
+                    "meanings": [
+                        "people of a country"
+                    ]
+                },
+                {
+                    "kanji": "流浪の民",
+                    "reading": "るろうのたみ",
+                    "meanings": [
+                        "wandering people",
+                        "nomadic tribe"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "民",
+                    "reading": "ミン",
+                    "meanings": [
+                        "citizen",
+                        "resident",
+                        "person",
+                        "user (of a website",
+                        "esp. as a collective",
+                        "e.g. Twittersphere)"
+                    ]
+                },
+                {
+                    "kanji": "民意",
+                    "reading": "ミンイ",
+                    "meanings": [
+                        "popular will",
+                        "will of the people"
+                    ]
+                },
+                {
+                    "kanji": "自民",
+                    "reading": "ジミン",
+                    "meanings": [
+                        "Liberal Democratic Party",
+                        "LDP"
+                    ]
+                },
+                {
+                    "kanji": "公民",
+                    "reading": "コウミン",
+                    "meanings": [
+                        "citizen",
+                        "freemen"
+                    ]
+                }
+            ]
+        }
+    }
+}

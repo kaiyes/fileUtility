@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"昼\"",
+        "strokes": 9,
+        "main_meanings": [
+            "daytime",
+            "noon"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひる"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "279": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "188": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "172": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "863": "A New Dictionary of Kanji Usage",
+                "53": "Classic Nelson (Andrew Nelson)",
+                "828": "Essential Kanji (P.G. O’Neill)",
+                "189": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "983": "Japanese Names (P.G. O’Neill)",
+                "2.15": "Japanese for Busy People",
+                "470": "Kanji and Kana (Spahn and Hadamitzky)",
+                "478": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "92": "Kanji in Context (Nishiguchi and Kono)",
+                "974": "Kodansha Compact Kanji Guide",
+                "3841": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1972": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2668": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1084": "Les Kanjis dans la tete (Yves Maniette)",
+                "13886": "Morohashi",
+                "3097": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2450": "New Nelson (John Haig)",
+                "1075": "Remembering The Kanji (James Heisig)",
+                "1156": "Remembering The Kanji, 6th edition (James Heisig)",
+                "184": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3772": "2001 Kanji",
+                "4c5.15": "The Kanji Dictionary",
+                "3-3-6": "SKIP code",
+                "3-4-5": "SKIP code",
+                "2-8-1": "SKIP code",
+                "7710.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-75": "JIS X 0208-1997 kuten code",
+                "663c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhou4"
+                ],
+                "korean": [
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "一",
+                "丶",
+                "尸",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": null,
+            "variants": [
+                "晝"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "昼",
+                    "reading": "ひる",
+                    "meanings": [
+                        "noon",
+                        "midday",
+                        "daytime",
+                        "lunch"
+                    ]
+                },
+                {
+                    "kanji": "昼食",
+                    "reading": "ちゅうしょく",
+                    "meanings": [
+                        "lunch",
+                        "midday meal",
+                        "food served at a tea party (tea ceremony)"
+                    ]
+                },
+                {
+                    "kanji": "小昼",
+                    "reading": "こひる",
+                    "meanings": [
+                        "just before noon",
+                        "late-morning snack"
+                    ]
+                },
+                {
+                    "kanji": "夜昼",
+                    "reading": "よるひる",
+                    "meanings": [
+                        "day and night"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "昼食",
+                    "reading": "チュウショク",
+                    "meanings": [
+                        "lunch",
+                        "midday meal",
+                        "food served at a tea party (tea ceremony)"
+                    ]
+                },
+                {
+                    "kanji": "昼間",
+                    "reading": "ヒルマ",
+                    "meanings": [
+                        "daytime",
+                        "during the day",
+                        "time from sunrise until sunset",
+                        "diurnal period"
+                    ]
+                },
+                {
+                    "kanji": "炎昼",
+                    "reading": "エンチュウ",
+                    "meanings": [
+                        "hot summer early afternoon"
+                    ]
+                },
+                {
+                    "kanji": "春昼",
+                    "reading": "シュンチュウ",
+                    "meanings": [
+                        "spring day (which seems long and quiet)"
+                    ]
+                }
+            ]
+        }
+    }
+}

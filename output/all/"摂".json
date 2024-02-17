@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"摂\"",
+        "strokes": 13,
+        "main_meanings": [
+            "vicarious",
+            "surrogate",
+            "act in addition to",
+            "take in",
+            "absorb"
+        ],
+        "main_readings": {
+            "kun": [
+                "おさ.める",
+                "かね.る",
+                "と.る"
+            ],
+            "on": [
+                "セツ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1489": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1754": "A New Dictionary of Kanji Usage",
+                "1976": "Classic Nelson (Andrew Nelson)",
+                "1665": "Essential Kanji (P.G. O’Neill)",
+                "1378": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1837": "Japanese Names (P.G. O’Neill)",
+                "1692": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1808": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1482": "Kanji in Context (Nishiguchi and Kono)",
+                "921": "Kodansha Compact Kanji Guide",
+                "799": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "467": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "595": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1755": "Les Kanjis dans la tete (Yves Maniette)",
+                "12557P": "Morohashi",
+                "650": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2252": "New Nelson (John Haig)",
+                "1739": "Remembering The Kanji (James Heisig)",
+                "1876": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1630": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1340": "2001 Kanji",
+                "3c10.6": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "5103.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-61": "JIS X 0208-1997 kuten code",
+                "6442": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "せっ"
+                ],
+                "chinese": [
+                    "she4"
+                ],
+                "korean": [
+                    "seob",
+                    "yeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "冫",
+                "扎",
+                "耳"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "攝"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "摂る",
+                    "reading": "とる",
+                    "meanings": [
+                        "to have (e.g. lunch)",
+                        "to take (e.g. vitamins)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "摂理",
+                    "reading": "セツリ",
+                    "meanings": [
+                        "laws (of nature)",
+                        "(divine) providence"
+                    ]
+                },
+                {
+                    "kanji": "摂護腺",
+                    "reading": "セツゴセン",
+                    "meanings": [
+                        "prostate gland"
+                    ]
+                },
+                {
+                    "kanji": "包摂",
+                    "reading": "ホウセツ",
+                    "meanings": [
+                        "inclusion",
+                        "encompassing",
+                        "connotation",
+                        "subsumption"
+                    ]
+                },
+                {
+                    "kanji": "金融包摂",
+                    "reading": "キンユウホウセツ",
+                    "meanings": [
+                        "financial inclusion",
+                        "availability and equality of opportunities to access financial services"
+                    ]
+                },
+                {
+                    "kanji": "接心",
+                    "reading": "セッシン",
+                    "meanings": [
+                        "concentration",
+                        "period of intensive zazen"
+                    ]
+                },
+                {
+                    "kanji": "摂受",
+                    "reading": "ショウジュ",
+                    "meanings": [
+                        "converting someone (gently) to Buddhism",
+                        "proselytization"
+                    ]
+                }
+            ]
+        }
+    }
+}

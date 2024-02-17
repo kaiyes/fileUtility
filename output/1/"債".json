@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"債\"",
+        "strokes": 13,
+        "main_meanings": [
+            "bond",
+            "loan",
+            "debt"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1292": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "785": "A New Dictionary of Kanji Usage",
+                "531": "Classic Nelson (Andrew Nelson)",
+                "1515": "Essential Kanji (P.G. O’Neill)",
+                "1066": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1118": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1170": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1249": "Kanji in Context (Nishiguchi and Kono)",
+                "129": "Kodansha Compact Kanji Guide",
+                "177": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "116": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "135": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1558": "Les Kanjis dans la tete (Yves Maniette)",
+                "1022": "Morohashi",
+                "156": "New Japanese English Character Dictionary (Jack Halpern)",
+                "296": "New Nelson (John Haig)",
+                "1544": "Remembering The Kanji (James Heisig)",
+                "1664": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1608": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2161": "2001 Kanji",
+                "2a11.11": "The Kanji Dictionary",
+                "1-2-11": "SKIP code",
+                "2528.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-36": "JIS X 0208-1997 kuten code",
+                "50b5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhai4"
+                ],
+                "korean": [
+                    "chae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "二",
+                "亠",
+                "化",
+                "ハ",
+                "土",
+                "目",
+                "貝"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "債",
+                    "reading": "サイ",
+                    "meanings": [
+                        "debt",
+                        "loan"
+                    ]
+                },
+                {
+                    "kanji": "債権",
+                    "reading": "サイケン",
+                    "meanings": [
+                        "credit",
+                        "claim"
+                    ]
+                },
+                {
+                    "kanji": "割引債",
+                    "reading": "ワリビキサイ",
+                    "meanings": [
+                        "discount bond"
+                    ]
+                },
+                {
+                    "kanji": "起債",
+                    "reading": "キサイ",
+                    "meanings": [
+                        "issuing of bonds"
+                    ]
+                }
+            ]
+        }
+    }
+}

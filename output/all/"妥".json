@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"妥\"",
+        "strokes": 7,
+        "main_meanings": [
+            "gentle",
+            "peace",
+            "depravity"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ダ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1538": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1343": "A New Dictionary of Kanji Usage",
+                "2823": "Classic Nelson (Andrew Nelson)",
+                "1313": "Essential Kanji (P.G. O’Neill)",
+                "1189": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "930": "Kanji and Kana (Spahn and Hadamitzky)",
+                "956": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1332": "Kanji in Context (Nishiguchi and Kono)",
+                "425": "Kodansha Compact Kanji Guide",
+                "3053": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1556": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2128": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "736": "Les Kanjis dans la tete (Yves Maniette)",
+                "6107X": "Morohashi",
+                "2400": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1188": "New Nelson (John Haig)",
+                "728": "Remembering The Kanji (James Heisig)",
+                "785": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1111": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2069": "2001 Kanji",
+                "3e4.9": "The Kanji Dictionary",
+                "2-4-3": "SKIP code",
+                "2-1-6": "SKIP code",
+                "2040.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-37": "JIS X 0208-1997 kuten code",
+                "59a5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "やす"
+                ],
+                "chinese": [
+                    "tuo3"
+                ],
+                "korean": [
+                    "ta"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "爪"
+            ],
+            "basis": "女",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "妥結",
+                    "reading": "ダケツ",
+                    "meanings": [
+                        "settlement",
+                        "an agreement"
+                    ]
+                },
+                {
+                    "kanji": "妥協",
+                    "reading": "ダキョウ",
+                    "meanings": [
+                        "compromise",
+                        "giving in"
+                    ]
+                }
+            ]
+        }
+    }
+}

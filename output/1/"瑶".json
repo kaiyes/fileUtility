@@ -1,0 +1,92 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"瑶\"",
+        "strokes": 13,
+        "main_meanings": [
+            "beautiful as a jewel"
+        ],
+        "main_readings": {
+            "kun": [
+                "たま"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2286": "Japanese Names (P.G. O’Neill)",
+                "2163": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1301": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "703": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "942": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1026": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3656": "New Nelson (John Haig)",
+                "2553": "Remembering The Kanji (James Heisig)"
+            },
+            "classifications": {
+                "4f9.5": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "1717.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-64-86": "JIS X 0208-1997 kuten code",
+                "7476": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yao2"
+                ],
+                "korean": [
+                    "yo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "凵",
+                "爪",
+                "王",
+                "缶"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": [
+                "瑤"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "瑶緘",
+                    "reading": "ヨウカン",
+                    "meanings": [
+                        "your letter"
+                    ]
+                },
+                {
+                    "kanji": "瑶顔",
+                    "reading": "ヨウガン",
+                    "meanings": [
+                        "beautiful face",
+                        "exquisite countenance"
+                    ]
+                }
+            ]
+        }
+    }
+}

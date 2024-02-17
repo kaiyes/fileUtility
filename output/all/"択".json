@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"択\"",
+        "strokes": 7,
+        "main_meanings": [
+            "choose",
+            "select",
+            "elect",
+            "prefer"
+        ],
+        "main_readings": {
+            "kun": [
+                "えら.ぶ"
+            ],
+            "on": [
+                "タク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1551": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1413": "A New Dictionary of Kanji Usage",
+                "1845": "Classic Nelson (Andrew Nelson)",
+                "1096": "Essential Kanji (P.G. O’Neill)",
+                "1341": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "382": "Japanese Names (P.G. O’Neill)",
+                "993": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1030": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "764": "Kanji in Context (Nishiguchi and Kono)",
+                "861": "Kodansha Compact Kanji Guide",
+                "299": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "191": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "227": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1083": "Les Kanjis dans la tete (Yves Maniette)",
+                "11902P": "Morohashi",
+                "255": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2082": "New Nelson (John Haig)",
+                "1074": "Remembering The Kanji (James Heisig)",
+                "1155": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1127": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1362": "2001 Kanji",
+                "3c4.21": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5708.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-82": "JIS X 0208-1997 kuten code",
+                "629e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ze2",
+                    "zhai2"
+                ],
+                "korean": [
+                    "taeg"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "丶",
+                "尸",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "擇"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "選ぶ",
+                    "reading": "えらぶ",
+                    "meanings": [
+                        "to choose",
+                        "to select"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "択",
+                    "reading": "タク",
+                    "meanings": [
+                        "counter for choices",
+                        "options",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "択一",
+                    "reading": "タクイツ",
+                    "meanings": [
+                        "choosing one from among several",
+                        "multiple choice"
+                    ]
+                },
+                {
+                    "kanji": "一択",
+                    "reading": "イッタク",
+                    "meanings": [
+                        "(only) one option",
+                        "one possible choice"
+                    ]
+                },
+                {
+                    "kanji": "二択",
+                    "reading": "ニタク",
+                    "meanings": [
+                        "(having) two choices",
+                        "choice between two things"
+                    ]
+                }
+            ]
+        }
+    }
+}

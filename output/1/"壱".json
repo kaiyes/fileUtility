@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"壱\"",
+        "strokes": 7,
+        "main_meanings": [
+            "one (in documents)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひとつ"
+            ],
+            "on": [
+                "イチ",
+                "イツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "740": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "810": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1938": "A New Dictionary of Kanji Usage",
+                "1059": "Classic Nelson (Andrew Nelson)",
+                "708": "Essential Kanji (P.G. O’Neill)",
+                "1175": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "467": "Les Kanjis dans la tete (Yves Maniette)",
+                "1730": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1848": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1911": "Kanji in Context (Nishiguchi and Kono)",
+                "395": "Kodansha Compact Kanji Guide",
+                "2723": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1392": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1879": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "5647": "Morohashi",
+                "2197": "New Japanese English Character Dictionary (Jack Halpern)",
+                "983": "New Nelson (John Haig)",
+                "457": "Remembering The Kanji (James Heisig)",
+                "496": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1110": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1456": "2001 Kanji",
+                "3p4.2": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "4071.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-77": "JIS X 0208-1997 kuten code",
+                "58f1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い、 かず"
+                ],
+                "chinese": [
+                    "yi1"
+                ],
+                "korean": [
+                    "il"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "scholar,",
+            "parts": [
+                "冖",
+                "匕",
+                "士"
+            ],
+            "basis": "士",
+            "kangxi_order": null,
+            "variants": [
+                "壹"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "一",
+                    "reading": "イチ",
+                    "meanings": [
+                        "one",
+                        "1",
+                        "best",
+                        "first",
+                        "foremost",
+                        "beginning",
+                        "start",
+                        "a (single)",
+                        "one (of many)",
+                        "ace",
+                        "bottom string (on a shamisen",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "壱越調",
+                    "reading": "イチコツチョウ",
+                    "meanings": [
+                        "ichikotsu mode (one of the six main gagaku modes)"
+                    ]
+                },
+                {
+                    "kanji": "十一",
+                    "reading": "ジュウイチ",
+                    "meanings": [
+                        "eleven",
+                        "11",
+                        "jack"
+                    ]
+                }
+            ]
+        }
+    }
+}

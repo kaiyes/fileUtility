@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"浄\"",
+        "strokes": 9,
+        "main_meanings": [
+            "clean",
+            "purify",
+            "cleanse",
+            "exorcise",
+            "Manchu Dynasty"
+        ],
+        "main_readings": {
+            "kun": [
+                "きよ.める",
+                "きよ.い"
+            ],
+            "on": [
+                "ジョウ",
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1417": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1559": "A New Dictionary of Kanji Usage",
+                "2548": "Classic Nelson (Andrew Nelson)",
+                "976": "Essential Kanji (P.G. O’Neill)",
+                "1472": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "823": "Japanese Names (P.G. O’Neill)",
+                "664": "Kanji and Kana (Spahn and Hadamitzky)",
+                "675": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1495": "Kanji in Context (Nishiguchi and Kono)",
+                "1187": "Kodansha Compact Kanji Guide",
+                "457": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "282": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "342": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1163": "Les Kanjis dans la tete (Yves Maniette)",
+                "17451": "Morohashi",
+                "382": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3128": "New Nelson (John Haig)",
+                "1155": "Remembering The Kanji (James Heisig)",
+                "1239": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1274": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "347": "2001 Kanji",
+                "3a6.18": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3715.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-84": "JIS X 0208-1997 kuten code",
+                "6d44": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jing4"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "亅",
+                "勹",
+                "ヨ",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "淨"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "清める",
+                    "reading": "きよめる",
+                    "meanings": [
+                        "to purify",
+                        "to cleanse",
+                        "to exorcise",
+                        "to purge",
+                        "to ward off"
+                    ]
+                },
+                {
+                    "kanji": "清い",
+                    "reading": "きよい",
+                    "meanings": [
+                        "clean",
+                        "clear",
+                        "pure",
+                        "honest",
+                        "clean",
+                        "innocent",
+                        "platonic",
+                        "chaste"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "浄化槽",
+                    "reading": "ジョウカソウ",
+                    "meanings": [
+                        "water-purification tank",
+                        "septic tank"
+                    ]
+                },
+                {
+                    "kanji": "浄化",
+                    "reading": "ジョウカ",
+                    "meanings": [
+                        "purification",
+                        "cleanup (e.g. of politics)",
+                        "purge"
+                    ]
+                },
+                {
+                    "kanji": "自浄",
+                    "reading": "ジジョウ",
+                    "meanings": [
+                        "self-purification",
+                        "self-cleansing"
+                    ]
+                },
+                {
+                    "kanji": "不浄",
+                    "reading": "フジョウ",
+                    "meanings": [
+                        "unclean",
+                        "dirty",
+                        "impure",
+                        "bathroom",
+                        "toilet (room)",
+                        "menstruation",
+                        "menses",
+                        "feces",
+                        "faeces"
+                    ]
+                }
+            ]
+        }
+    }
+}

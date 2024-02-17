@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"蝶\"",
+        "strokes": 15,
+        "main_meanings": [
+            "butterfly"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4171": "Classic Nelson (Andrew Nelson)",
+                "1970": "Essential Kanji (P.G. O’Neill)",
+                "2495": "Japanese Names (P.G. O’Neill)",
+                "2236": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1772": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "946": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1278": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "527": "Les Kanjis dans la tete (Yves Maniette)",
+                "33333": "Morohashi",
+                "1401": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5363": "New Nelson (John Haig)",
+                "521": "Remembering The Kanji (James Heisig)",
+                "560": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6d9.7": "The Kanji Dictionary",
+                "1-6-9": "SKIP code",
+                "1-6-8": "SKIP code",
+                "5419.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-19": "JIS X 0208-1997 kuten code",
+                "8776": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "die2"
+                ],
+                "korean": [
+                    "jeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "insect",
+            "parts": [
+                "木",
+                "世",
+                "虫"
+            ],
+            "basis": "虫",
+            "kangxi_order": 142,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "蝶",
+                    "reading": "チョウ",
+                    "meanings": [
+                        "butterfly"
+                    ]
+                },
+                {
+                    "kanji": "蝶々",
+                    "reading": "チョウチョウ",
+                    "meanings": [
+                        "butterfly"
+                    ]
+                },
+                {
+                    "kanji": "太陽蝶",
+                    "reading": "タイヨウチョウ",
+                    "meanings": [
+                        "sunset morpho (butterfly",
+                        "Morpho hecuba)"
+                    ]
+                },
+                {
+                    "kanji": "猪鹿蝶",
+                    "reading": "イノシカチョウ",
+                    "meanings": [
+                        "the boar",
+                        "deer and butterfly cards (high-scoring meld)",
+                        "inoshikacho (type of hanafuda gambling game)"
+                    ]
+                }
+            ]
+        }
+    }
+}

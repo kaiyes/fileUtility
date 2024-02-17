@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"蓮\"",
+        "strokes": 13,
+        "main_meanings": [
+            "lotus"
+        ],
+        "main_readings": {
+            "kun": [
+                "はす",
+                "はちす"
+            ],
+            "on": [
+                "レン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4731": "Classic Nelson (Andrew Nelson)",
+                "2197": "Japanese Names (P.G. O’Neill)",
+                "2227": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2940": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1511": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2047": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "31722": "Morohashi",
+                "5105": "New Nelson (John Haig)",
+                "2360": "Remembering The Kanji (James Heisig)",
+                "2446": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k10.31": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "4430.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-01": "JIS X 0208-1997 kuten code",
+                "84ee": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lian2"
+                ],
+                "korean": [
+                    "ryeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "込",
+                "艾",
+                "車"
+            ],
+            "basis": "艸",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "蓮",
+                    "reading": "はす",
+                    "meanings": [
+                        "sacred lotus (Nelumbo nucifera)",
+                        "Indian lotus",
+                        "lotus",
+                        "rose of Sharon (Hibiscus syriacus)"
+                    ]
+                },
+                {
+                    "kanji": "蓮池",
+                    "reading": "はすいけ",
+                    "meanings": [
+                        "lotus pond"
+                    ]
+                },
+                {
+                    "kanji": "蓮",
+                    "reading": "はす",
+                    "meanings": [
+                        "sacred lotus (Nelumbo nucifera)",
+                        "Indian lotus",
+                        "lotus",
+                        "rose of Sharon (Hibiscus syriacus)"
+                    ]
+                },
+                {
+                    "kanji": "蓮の蔤",
+                    "reading": "はちすのはい",
+                    "meanings": [
+                        "lotus root"
+                    ]
+                },
+                {
+                    "kanji": "木蓮",
+                    "reading": "きはちす",
+                    "meanings": [
+                        "rose of Sharon (Hibiscus syriacus)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "蓮華",
+                    "reading": "レンゲ",
+                    "meanings": [
+                        "lotus flower",
+                        "Chinese milk vetch (Astragalus sinicus)",
+                        "china spoon",
+                        "lotus-shaped pedestal for a gravestone"
+                    ]
+                },
+                {
+                    "kanji": "蓮角",
+                    "reading": "レンカク",
+                    "meanings": [
+                        "jacana (esp. the pheasant-tailed jacana",
+                        "Hydrophasianus chirurgus)",
+                        "lily-trotter"
+                    ]
+                },
+                {
+                    "kanji": "睡蓮",
+                    "reading": "スイレン",
+                    "meanings": [
+                        "water lily (any plant of genus Nymphaea)",
+                        "pygmy waterlily (Nymphaea tetragona)"
+                    ]
+                },
+                {
+                    "kanji": "黄連",
+                    "reading": "オウレン",
+                    "meanings": [
+                        "goldthread (Coptis japonica)"
+                    ]
+                }
+            ]
+        }
+    }
+}

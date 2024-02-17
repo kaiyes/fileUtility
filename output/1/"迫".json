@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"迫\"",
+        "strokes": 8,
+        "main_meanings": [
+            "urge",
+            "force",
+            "imminent",
+            "spur on"
+        ],
+        "main_readings": {
+            "kun": [
+                "せま.る"
+            ],
+            "on": [
+                "ハク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1697": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "842": "A New Dictionary of Kanji Usage",
+                "4676": "Classic Nelson (Andrew Nelson)",
+                "1411": "Essential Kanji (P.G. O’Neill)",
+                "1805": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "747": "Japanese Names (P.G. O’Neill)",
+                "1175": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1233": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "964": "Kanji in Context (Nishiguchi and Kono)",
+                "684": "Kodansha Compact Kanji Guide",
+                "3815": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1953": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2647": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "288": "Les Kanjis dans la tete (Yves Maniette)",
+                "38797P": "Morohashi",
+                "3074": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6031": "New Nelson (John Haig)",
+                "282": "Remembering The Kanji (James Heisig)",
+                "300": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1218": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "878": "2001 Kanji",
+                "2q5.5": "The Kanji Dictionary",
+                "3-3-5": "SKIP code",
+                "3630.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-87": "JIS X 0208-1997 kuten code",
+                "8feb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さこ、 せ、 せこ、 はさ、 はさま、 はざま"
+                ],
+                "chinese": [
+                    "po4",
+                    "pai3"
+                ],
+                "korean": [
+                    "bag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "白"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "迫る",
+                    "reading": "せまる",
+                    "meanings": [
+                        "to approach",
+                        "to draw near",
+                        "to be imminent",
+                        "to press (someone for something)",
+                        "to urge",
+                        "to compel"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "迫撃",
+                    "reading": "ハクゲキ",
+                    "meanings": [
+                        "close attack"
+                    ]
+                },
+                {
+                    "kanji": "迫害",
+                    "reading": "ハクガイ",
+                    "meanings": [
+                        "persecution",
+                        "oppression"
+                    ]
+                },
+                {
+                    "kanji": "肉薄",
+                    "reading": "ニクハク",
+                    "meanings": [
+                        "closing in on (the enemy",
+                        "first place",
+                        "etc.)",
+                        "coming close to",
+                        "pressing hard",
+                        "pressing hard (e.g. with a question)",
+                        "taking to task",
+                        "grilling"
+                    ]
+                },
+                {
+                    "kanji": "威迫",
+                    "reading": "イハク",
+                    "meanings": [
+                        "menace",
+                        "threat",
+                        "intimidation"
+                    ]
+                }
+            ]
+        }
+    }
+}

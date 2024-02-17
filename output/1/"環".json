@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"環\"",
+        "strokes": 17,
+        "main_meanings": [
+            "ring",
+            "circle",
+            "loop"
+        ],
+        "main_readings": {
+            "kun": [
+                "わ"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1115": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "991": "A New Dictionary of Kanji Usage",
+                "2970": "Classic Nelson (Andrew Nelson)",
+                "1568": "Essential Kanji (P.G. O’Neill)",
+                "737": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2620": "Japanese Names (P.G. O’Neill)",
+                "865": "Kanji and Kana (Spahn and Hadamitzky)",
+                "884": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1035": "Kanji in Context (Nishiguchi and Kono)",
+                "1323": "Kodansha Compact Kanji Guide",
+                "1395": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "747": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1011": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "844": "Les Kanjis dans la tete (Yves Maniette)",
+                "21287": "Morohashi",
+                "1090": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3680": "New Nelson (John Haig)",
+                "836": "Remembering The Kanji (James Heisig)",
+                "899": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1875": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3165": "2001 Kanji",
+                "4f13.1": "The Kanji Dictionary",
+                "1-4-13": "SKIP code",
+                "1613.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-36": "JIS X 0208-1997 kuten code",
+                "74b0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たま、 たまき"
+                ],
+                "chinese": [
+                    "huan2"
+                ],
+                "korean": [
+                    "hwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "一",
+                "口",
+                "王",
+                "買",
+                "衣"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "輪",
+                    "reading": "わ",
+                    "meanings": [
+                        "ring",
+                        "circle",
+                        "loop",
+                        "hoop",
+                        "wheel",
+                        "circle (e.g. of friends)",
+                        "planetary ring"
+                    ]
+                },
+                {
+                    "kanji": "浮き輪",
+                    "reading": "うきわ",
+                    "meanings": [
+                        "swim ring",
+                        "swimming ring",
+                        "life buoy",
+                        "life belt",
+                        "life preserver",
+                        "lifesaver"
+                    ]
+                },
+                {
+                    "kanji": "耳環",
+                    "reading": "みみわ",
+                    "meanings": [
+                        "earring (non-pierced)",
+                        "helix"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "環",
+                    "reading": "カン",
+                    "meanings": [
+                        "ring",
+                        "band",
+                        "rim",
+                        "ring",
+                        "circum-"
+                    ]
+                },
+                {
+                    "kanji": "環境",
+                    "reading": "カンキョウ",
+                    "meanings": [
+                        "environment",
+                        "surroundings",
+                        "circumstances"
+                    ]
+                },
+                {
+                    "kanji": "円環",
+                    "reading": "エンカン",
+                    "meanings": [
+                        "circle",
+                        "ring",
+                        "torus"
+                    ]
+                },
+                {
+                    "kanji": "外環",
+                    "reading": "ガイカン",
+                    "meanings": [
+                        "outer ring",
+                        "outer loop"
+                    ]
+                }
+            ]
+        }
+    }
+}

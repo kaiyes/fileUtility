@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酸\"",
+        "strokes": 14,
+        "main_meanings": [
+            "acid",
+            "bitterness",
+            "sour",
+            "tart"
+        ],
+        "main_readings": {
+            "kun": [
+                "す.い"
+            ],
+            "on": [
+                "サン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "618": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "715": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "689": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1027": "A New Dictionary of Kanji Usage",
+                "4789": "Classic Nelson (Andrew Nelson)",
+                "819": "Essential Kanji (P.G. O’Neill)",
+                "1838": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "516": "Kanji and Kana (Spahn and Hadamitzky)",
+                "525": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1420": "Kanji in Context (Nishiguchi and Kono)",
+                "1797": "Kodansha Compact Kanji Guide",
+                "1968": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1049": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1415": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1449": "Les Kanjis dans la tete (Yves Maniette)",
+                "39871": "Morohashi",
+                "1563": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6177": "New Nelson (John Haig)",
+                "1437": "Remembering The Kanji (James Heisig)",
+                "1545": "Remembering The Kanji, 6th edition (James Heisig)",
+                "791": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3267": "2001 Kanji",
+                "7e7.2": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "1364.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-32": "JIS X 0208-1997 kuten code",
+                "9178": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "suan1"
+                ],
+                "korean": [
+                    "san"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "儿",
+                "厶",
+                "夂",
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "酸い",
+                    "reading": "すい",
+                    "meanings": [
+                        "sour",
+                        "acid"
+                    ]
+                },
+                {
+                    "kanji": "酸葉",
+                    "reading": "すいば",
+                    "meanings": [
+                        "sorrel (Rumex acetosa)",
+                        "Common sorrel",
+                        "garden sorrel",
+                        "spinach dock"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "酸",
+                    "reading": "サン",
+                    "meanings": [
+                        "acid",
+                        "sourness",
+                        "sour taste"
+                    ]
+                },
+                {
+                    "kanji": "酸化",
+                    "reading": "サンカ",
+                    "meanings": [
+                        "oxidation",
+                        "oxidization"
+                    ]
+                },
+                {
+                    "kanji": "炭酸",
+                    "reading": "タンサン",
+                    "meanings": [
+                        "carbonic acid",
+                        "carbonated water",
+                        "carbonated drink",
+                        "baking soda",
+                        "sodium carbonate"
+                    ]
+                },
+                {
+                    "kanji": "アミノ酸",
+                    "reading": "アミノサン",
+                    "meanings": [
+                        "amino acid"
+                    ]
+                }
+            ]
+        }
+    }
+}

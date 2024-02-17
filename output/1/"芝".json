@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"芝\"",
+        "strokes": 6,
+        "main_meanings": [
+            "turf",
+            "lawn"
+        ],
+        "main_readings": {
+            "kun": [
+                "しば"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1335": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "722": "A New Dictionary of Kanji Usage",
+                "3893": "Classic Nelson (Andrew Nelson)",
+                "954": "Essential Kanji (P.G. O’Neill)",
+                "1695": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "289": "Japanese Names (P.G. O’Neill)",
+                "250": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "568": "Kanji in Context (Nishiguchi and Kono)",
+                "640": "Kodansha Compact Kanji Guide",
+                "2705": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1380": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1867": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1224": "Les Kanjis dans la tete (Yves Maniette)",
+                "30699P": "Morohashi",
+                "2180": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4961": "New Nelson (John Haig)",
+                "1216": "Remembering The Kanji (James Heisig)",
+                "1301": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1089": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1970": "2001 Kanji",
+                "3k2.1": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "2-3-2": "SKIP code",
+                "4430.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-39": "JIS X 0208-1997 kuten code",
+                "829d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こげ、 しは"
+                ],
+                "chinese": [
+                    "zhi1"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "亠",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "芝",
+                    "reading": "しば",
+                    "meanings": [
+                        "lawn",
+                        "sod",
+                        "turf"
+                    ]
+                },
+                {
+                    "kanji": "芝居",
+                    "reading": "しばい",
+                    "meanings": [
+                        "play",
+                        "drama"
+                    ]
+                },
+                {
+                    "kanji": "高麗芝",
+                    "reading": "こうらいしば",
+                    "meanings": [
+                        "Korean lawn grass"
+                    ]
+                },
+                {
+                    "kanji": "東芝",
+                    "reading": "とうしば",
+                    "meanings": [
+                        "Toshiba Corporation",
+                        "Tōshiba"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "芝",
+                    "reading": "シバ",
+                    "meanings": [
+                        "lawn",
+                        "sod",
+                        "turf"
+                    ]
+                },
+                {
+                    "kanji": "芝居",
+                    "reading": "シバイ",
+                    "meanings": [
+                        "play",
+                        "drama"
+                    ]
+                },
+                {
+                    "kanji": "霊芝",
+                    "reading": "レイシ",
+                    "meanings": [
+                        "bracket fungus (Ganoderma lucidum)",
+                        "reishi mushroom"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"安\"",
+        "strokes": 6,
+        "main_meanings": [
+            "relax",
+            "cheap",
+            "low",
+            "quiet",
+            "rested",
+            "contented",
+            "peaceful"
+        ],
+        "main_readings": {
+            "kun": [
+                "やす.い",
+                "やす.まる",
+                "やす",
+                "やす.らか"
+            ],
+            "on": [
+                "アン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "153": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "242": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "223": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "128": "A New Dictionary of Kanji Usage",
+                "1283": "Classic Nelson (Andrew Nelson)",
+                "98": "Essential Kanji (P.G. O’Neill)",
+                "45": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "472": "Japanese Names (P.G. O’Neill)",
+                "2.5": "Japanese for Busy People",
+                "105": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "84": "Kanji in Context (Nishiguchi and Kono)",
+                "464": "Kodansha Compact Kanji Guide",
+                "2695": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1373": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1859": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "193": "Les Kanjis dans la tete (Yves Maniette)",
+                "7072": "Morohashi",
+                "2171": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1311": "New Nelson (John Haig)",
+                "190": "Remembering The Kanji (James Heisig)",
+                "202": "Remembering The Kanji, 6th edition (James Heisig)",
+                "165": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "263": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "769": "2001 Kanji",
+                "3m3.1": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "3040.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-34": "JIS X 0208-1997 kuten code",
+                "5b89": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あす、 あず、 あっ、 や"
+                ],
+                "chinese": [
+                    "an1"
+                ],
+                "korean": [
+                    "an"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "女",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "安い",
+                    "reading": "やすい",
+                    "meanings": [
+                        "cheap",
+                        "inexpensive",
+                        "calm",
+                        "peaceful",
+                        "quiet"
+                    ]
+                },
+                {
+                    "kanji": "休まる",
+                    "reading": "やすまる",
+                    "meanings": [
+                        "to be rested",
+                        "to feel at ease",
+                        "to repose",
+                        "to be relieved"
+                    ]
+                },
+                {
+                    "kanji": "安",
+                    "reading": "やす",
+                    "meanings": [
+                        "cheap",
+                        "rash",
+                        "thoughtless",
+                        "careless",
+                        "indiscreet",
+                        "frivolous"
+                    ]
+                },
+                {
+                    "kanji": "安上がり",
+                    "reading": "やすあがり",
+                    "meanings": [
+                        "cheap",
+                        "economical"
+                    ]
+                },
+                {
+                    "kanji": "目安",
+                    "reading": "めやす",
+                    "meanings": [
+                        "criterion",
+                        "standard",
+                        "yardstick",
+                        "reference",
+                        "aim",
+                        "rough estimate",
+                        "approximation"
+                    ]
+                },
+                {
+                    "kanji": "最安",
+                    "reading": "さいやす",
+                    "meanings": [
+                        "cheapest",
+                        "least expensive",
+                        "lowest-price"
+                    ]
+                },
+                {
+                    "kanji": "安らか",
+                    "reading": "やすらか",
+                    "meanings": [
+                        "peaceful",
+                        "tranquil",
+                        "calm",
+                        "restful"
+                    ]
+                },
+                {
+                    "kanji": "安らかにお眠りください",
+                    "reading": "やすらかにおねむりください",
+                    "meanings": [
+                        "rest in peace",
+                        "requiescat in pace",
+                        "RIP"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "安価",
+                    "reading": "アンカ",
+                    "meanings": [
+                        "low-priced",
+                        "cheap",
+                        "inexpensive",
+                        "shallow (e.g. sympathy)",
+                        "superficial",
+                        "cheap (e.g. government)"
+                    ]
+                },
+                {
+                    "kanji": "安易",
+                    "reading": "アンイ",
+                    "meanings": [
+                        "easy",
+                        "simple",
+                        "easygoing",
+                        "lighthearted",
+                        "simplistic",
+                        "irresponsible",
+                        "careless",
+                        "quick (to do)"
+                    ]
+                },
+                {
+                    "kanji": "平安",
+                    "reading": "ヘイアン",
+                    "meanings": [
+                        "peace",
+                        "tranquility",
+                        "tranquillity",
+                        "Heian period (794-1185)"
+                    ]
+                },
+                {
+                    "kanji": "慰安",
+                    "reading": "イアン",
+                    "meanings": [
+                        "solace",
+                        "relaxation"
+                    ]
+                }
+            ]
+        }
+    }
+}

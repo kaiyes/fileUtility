@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"徳\"",
+        "strokes": 14,
+        "main_meanings": [
+            "benevolence",
+            "virtue",
+            "goodness",
+            "commanding respect"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "トク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "851": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "783": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "762": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "839": "A New Dictionary of Kanji Usage",
+                "1633": "Classic Nelson (Andrew Nelson)",
+                "592": "Essential Kanji (P.G. O’Neill)",
+                "1284": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2063": "Japanese Names (P.G. O’Neill)",
+                "1038": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1079": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "644": "Kanji in Context (Nishiguchi and Kono)",
+                "637": "Kodansha Compact Kanji Guide",
+                "842": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "486": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "623": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "894": "Les Kanjis dans la tete (Yves Maniette)",
+                "10237P": "Morohashi",
+                "684": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1767": "New Nelson (John Haig)",
+                "885": "Remembering The Kanji (James Heisig)",
+                "950": "Remembering The Kanji, 6th edition (James Heisig)",
+                "801": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2058": "2001 Kanji",
+                "3i11.3": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "2423.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-33": "JIS X 0208-1997 kuten code",
+                "5fb3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつ、 なる、 のり、 ゆき、 よし"
+                ],
+                "chinese": [
+                    "de2"
+                ],
+                "korean": [
+                    "deog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "十",
+                "彳",
+                "心",
+                "買"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": [
+                "悳"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "徳",
+                    "reading": "トク",
+                    "meanings": [
+                        "virtue",
+                        "benevolence",
+                        "profit",
+                        "benefit",
+                        "advantage"
+                    ]
+                },
+                {
+                    "kanji": "徳義",
+                    "reading": "トクギ",
+                    "meanings": [
+                        "morals",
+                        "morality",
+                        "sincerity"
+                    ]
+                },
+                {
+                    "kanji": "高徳",
+                    "reading": "コウトク",
+                    "meanings": [
+                        "eminent virtue"
+                    ]
+                },
+                {
+                    "kanji": "大徳",
+                    "reading": "ダイトク",
+                    "meanings": [
+                        "great virtue",
+                        "virtuous priest",
+                        "priest",
+                        "rich person"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"毛\"",
+        "strokes": 4,
+        "main_meanings": [
+            "fur",
+            "hair",
+            "feather",
+            "down"
+        ],
+        "main_readings": {
+            "kun": [
+                "け"
+            ],
+            "on": [
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "142": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "230": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "210": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "521": "A New Dictionary of Kanji Usage",
+                "2473": "Classic Nelson (Andrew Nelson)",
+                "125": "Essential Kanji (P.G. O’Neill)",
+                "661": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "117": "Japanese Names (P.G. O’Neill)",
+                "287": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "490": "Kanji in Context (Nishiguchi and Kono)",
+                "1147": "Kodansha Compact Kanji Guide",
+                "4264": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2152": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2904": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1932": "Les Kanjis dans la tete (Yves Maniette)",
+                "16772": "Morohashi",
+                "3453": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3013": "New Nelson (John Haig)",
+                "1913": "Remembering The Kanji (James Heisig)",
+                "2062": "Remembering The Kanji, 6th edition (James Heisig)",
+                "103": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2256": "2001 Kanji",
+                "0a4.33": "The Kanji Dictionary",
+                "4-4-3": "SKIP code",
+                "4-4-4": "SKIP code",
+                "2-1-3": "SKIP code",
+                "2071.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-51": "JIS X 0208-1997 kuten code",
+                "6bdb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "めん、 も"
+                ],
+                "chinese": [
+                    "mao2"
+                ],
+                "korean": [
+                    "mo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "fur,",
+            "parts": [
+                "毛"
+            ],
+            "basis": "毛",
+            "kangxi_order": 82,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "毛",
+                    "reading": "け",
+                    "meanings": [
+                        "hair",
+                        "fur",
+                        "wool",
+                        "down",
+                        "plumage",
+                        "feathers"
+                    ]
+                },
+                {
+                    "kanji": "毛皮",
+                    "reading": "けがわ",
+                    "meanings": [
+                        "fur",
+                        "skin",
+                        "pelt",
+                        "kanji \"fur\" radical"
+                    ]
+                },
+                {
+                    "kanji": "お毛毛",
+                    "reading": "おけけ",
+                    "meanings": [
+                        "pubic hair"
+                    ]
+                },
+                {
+                    "kanji": "猫っ毛",
+                    "reading": "ねこっけ",
+                    "meanings": [
+                        "fine",
+                        "soft hair"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "毛",
+                    "reading": "モウ",
+                    "meanings": [
+                        "one-thousandth",
+                        "0.03 mm (one-thousandth of a sun)",
+                        "0.01 percent (one-thousandth of a wari)",
+                        "3.75 milligrams (one-thousandth of a monme)",
+                        "old monetary unit (0.0001 yen)"
+                    ]
+                },
+                {
+                    "kanji": "毛皮",
+                    "reading": "ケガワ",
+                    "meanings": [
+                        "fur",
+                        "skin",
+                        "pelt",
+                        "kanji \"fur\" radical"
+                    ]
+                },
+                {
+                    "kanji": "不毛",
+                    "reading": "フモウ",
+                    "meanings": [
+                        "barren",
+                        "sterile",
+                        "infertile",
+                        "unproductive (e.g. discussion)",
+                        "fruitless"
+                    ]
+                },
+                {
+                    "kanji": "再生毛",
+                    "reading": "サイセイモウ",
+                    "meanings": [
+                        "recycled wool",
+                        "reclaimed wool"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"戻\"",
+        "strokes": 7,
+        "main_meanings": [
+            "re-",
+            "return",
+            "revert",
+            "resume",
+            "restore",
+            "go backwards"
+        ],
+        "main_readings": {
+            "kun": [
+                "もど.す",
+                "もど.る"
+            ],
+            "on": [
+                "レイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1920": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "923": "A New Dictionary of Kanji Usage",
+                "1818": "Classic Nelson (Andrew Nelson)",
+                "1850": "Essential Kanji (P.G. O’Neill)",
+                "552": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1238": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1304": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1201": "Kanji in Context (Nishiguchi and Kono)",
+                "842": "Kodansha Compact Kanji Guide",
+                "2441": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1234": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1699": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1090": "Les Kanjis dans la tete (Yves Maniette)",
+                "11707X": "Morohashi",
+                "1942": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2051": "New Nelson (John Haig)",
+                "1081": "Remembering The Kanji (James Heisig)",
+                "1162": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1124": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3063": "2001 Kanji",
+                "4m3.1": "The Kanji Dictionary",
+                "2-1-6": "SKIP code",
+                "3-4-3": "SKIP code",
+                "3023.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-65": "JIS X 0208-1997 kuten code",
+                "623b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "li4"
+                ],
+                "korean": [
+                    "ryeo",
+                    "ryeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "户",
+                "戸"
+            ],
+            "meaning": "door,",
+            "parts": [
+                "一",
+                "大",
+                "尸",
+                "戸"
+            ],
+            "basis": "戶",
+            "kangxi_order": 63,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "戻す",
+                    "reading": "もどす",
+                    "meanings": [
+                        "to put back",
+                        "to return",
+                        "to give back",
+                        "to restore (to a previous state",
+                        "e.g. defrosting",
+                        "reconstituting",
+                        "reconciling)",
+                        "to turn back (e.g. clock hand)",
+                        "to vomit",
+                        "to throw up",
+                        "to recover (of a market price)"
+                    ]
+                },
+                {
+                    "kanji": "戻る",
+                    "reading": "もどる",
+                    "meanings": [
+                        "to turn back (e.g. half-way)",
+                        "to return",
+                        "to go back",
+                        "to recover (e.g. something lost)",
+                        "to be returned",
+                        "to rebound",
+                        "to spring back"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "戻入",
+                    "reading": "レイニュウ",
+                    "meanings": [
+                        "reversal of monies",
+                        "funds",
+                        "commissions"
+                    ]
+                },
+                {
+                    "kanji": "背戻",
+                    "reading": "ハイレイ",
+                    "meanings": [
+                        "disobeying",
+                        "infringing",
+                        "running counter to"
+                    ]
+                },
+                {
+                    "kanji": "暴戻",
+                    "reading": "ボウレイ",
+                    "meanings": [
+                        "tyranny",
+                        "atrocity",
+                        "brutality"
+                    ]
+                }
+            ]
+        }
+    }
+}

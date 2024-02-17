@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"角\"",
+        "strokes": 7,
+        "main_meanings": [
+            "angle",
+            "corner",
+            "square",
+            "horn",
+            "antlers"
+        ],
+        "main_readings": {
+            "kun": [
+                "かど",
+                "つの"
+            ],
+            "on": [
+                "カク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "173": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "97": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "243": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "714": "A New Dictionary of Kanji Usage",
+                "4301": "Classic Nelson (Andrew Nelson)",
+                "273": "Essential Kanji (P.G. O’Neill)",
+                "891": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "547": "Japanese Names (P.G. O’Neill)",
+                "473": "Kanji and Kana (Spahn and Hadamitzky)",
+                "481": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "716": "Kanji in Context (Nishiguchi and Kono)",
+                "1650": "Kodansha Compact Kanji Guide",
+                "2541": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1293": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1761": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1829": "Les Kanjis dans la tete (Yves Maniette)",
+                "35003": "Morohashi",
+                "2047": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5543": "New Nelson (John Haig)",
+                "1812": "Remembering The Kanji (James Heisig)",
+                "1953": "Remembering The Kanji, 6th edition (James Heisig)",
+                "138": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2545": "2001 Kanji",
+                "2n5.1": "The Kanji Dictionary",
+                "2-2-5": "SKIP code",
+                "3-4-3": "SKIP code",
+                "2722.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-49": "JIS X 0208-1997 kuten code",
+                "89d2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い、 す、 すみ、 ずみ、 ふさ"
+                ],
+                "chinese": [
+                    "jiao3",
+                    "jia3",
+                    "jue2"
+                ],
+                "korean": [
+                    "gag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horn",
+            "parts": [
+                "｜",
+                "勹",
+                "月",
+                "角"
+            ],
+            "basis": "角",
+            "kangxi_order": 148,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "角",
+                    "reading": "かど",
+                    "meanings": [
+                        "corner",
+                        "edge",
+                        "(street) corner",
+                        "turning",
+                        "rough edges (of one's character",
+                        "words",
+                        "etc.)",
+                        "abrasiveness",
+                        "harshness",
+                        "sharpness"
+                    ]
+                },
+                {
+                    "kanji": "角地",
+                    "reading": "かどち",
+                    "meanings": [
+                        "corner lot"
+                    ]
+                },
+                {
+                    "kanji": "四つ角",
+                    "reading": "よつかど",
+                    "meanings": [
+                        "four corners",
+                        "crossroads",
+                        "intersecting street",
+                        "street corner"
+                    ]
+                },
+                {
+                    "kanji": "塩角",
+                    "reading": "しおかど",
+                    "meanings": [
+                        "sharp taste of (refined) salt"
+                    ]
+                },
+                {
+                    "kanji": "角",
+                    "reading": "つの",
+                    "meanings": [
+                        "horn",
+                        "antler",
+                        "antenna",
+                        "feeler",
+                        "tentacle (e.g. of a snail)",
+                        "horn-like projection (e.g. peaks of whipped cream)"
+                    ]
+                },
+                {
+                    "kanji": "角隠し",
+                    "reading": "つのかくし",
+                    "meanings": [
+                        "bride's head-dress"
+                    ]
+                },
+                {
+                    "kanji": "枝角",
+                    "reading": "えだづの",
+                    "meanings": [
+                        "antler"
+                    ]
+                },
+                {
+                    "kanji": "豊穣の角",
+                    "reading": "ほうじょうのつの",
+                    "meanings": [
+                        "cornucopia",
+                        "horn of plenty"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "角",
+                    "reading": "カク",
+                    "meanings": [
+                        "angle",
+                        "square",
+                        "cube",
+                        "bishop",
+                        "third degree (of the Japanese and Chinese pentatonic scale)",
+                        "Chinese \"horn\" constellation (one of the 28 mansions)",
+                        "jiao (monetary unit of China; one-tenth of a yuan)"
+                    ]
+                },
+                {
+                    "kanji": "角界",
+                    "reading": "カクカイ",
+                    "meanings": [
+                        "the world of sumo"
+                    ]
+                },
+                {
+                    "kanji": "内角",
+                    "reading": "ナイカク",
+                    "meanings": [
+                        "interior angle",
+                        "internal angle",
+                        "inside corner"
+                    ]
+                },
+                {
+                    "kanji": "外角",
+                    "reading": "ガイカク",
+                    "meanings": [
+                        "external angle",
+                        "exterior angle",
+                        "outside corner"
+                    ]
+                }
+            ]
+        }
+    }
+}

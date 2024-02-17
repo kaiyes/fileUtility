@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"士\"",
+        "strokes": 3,
+        "main_meanings": [
+            "gentleman",
+            "scholar",
+            "samurai",
+            "samurai radical (no. 33)"
+        ],
+        "main_readings": {
+            "kun": [
+                "さむらい"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "410": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "521": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "494": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "301": "A New Dictionary of Kanji Usage",
+                "1160": "Classic Nelson (Andrew Nelson)",
+                "59": "Essential Kanji (P.G. O’Neill)",
+                "1173": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "41": "Japanese Names (P.G. O’Neill)",
+                "572": "Kanji and Kana (Spahn and Hadamitzky)",
+                "581": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "755": "Kanji in Context (Nishiguchi and Kono)",
+                "393": "Kodansha Compact Kanji Guide",
+                "4213": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2129": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2877": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "325": "Les Kanjis dans la tete (Yves Maniette)",
+                "5638": "Morohashi",
+                "3405": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1117": "New Nelson (John Haig)",
+                "319": "Remembering The Kanji (James Heisig)",
+                "341": "Remembering The Kanji, 6th edition (James Heisig)",
+                "386": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "441": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1472": "2001 Kanji",
+                "3p0.1": "The Kanji Dictionary",
+                "4-3-2": "SKIP code",
+                "4010.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-46": "JIS X 0208-1997 kuten code",
+                "58eb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "お、 ま"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "scholar,",
+            "parts": [
+                "士"
+            ],
+            "basis": "士",
+            "kangxi_order": 33,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "侍",
+                    "reading": "さむらい",
+                    "meanings": [
+                        "warrior (esp. of military retainers of daimyos in the Edo period)",
+                        "samurai",
+                        "man in attendance (on a person of high standing)",
+                        "retainer"
+                    ]
+                },
+                {
+                    "kanji": "二四六九士",
+                    "reading": "にしむくさむらい",
+                    "meanings": [
+                        "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "士",
+                    "reading": "シ",
+                    "meanings": [
+                        "man (esp. one who is well-respected)",
+                        "samurai",
+                        "person (in a certain profession",
+                        "esp. licensed)",
+                        "member"
+                    ]
+                },
+                {
+                    "kanji": "士官",
+                    "reading": "シカン",
+                    "meanings": [
+                        "officer"
+                    ]
+                },
+                {
+                    "kanji": "飛行士",
+                    "reading": "ヒコウシ",
+                    "meanings": [
+                        "pilot"
+                    ]
+                },
+                {
+                    "kanji": "公認会計士",
+                    "reading": "コウニンカイケイシ",
+                    "meanings": [
+                        "certified public accountant"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"姿\"",
+        "strokes": 9,
+        "main_meanings": [
+            "figure",
+            "form",
+            "shape"
+        ],
+        "main_readings": {
+            "kun": [
+                "すがた"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "888": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "877": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "592": "A New Dictionary of Kanji Usage",
+                "1215": "Classic Nelson (Andrew Nelson)",
+                "1133": "Essential Kanji (P.G. O’Neill)",
+                "1193": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1217": "Japanese Names (P.G. O’Neill)",
+                "929": "Kanji and Kana (Spahn and Hadamitzky)",
+                "953": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "661": "Kanji in Context (Nishiguchi and Kono)",
+                "429": "Kodansha Compact Kanji Guide",
+                "3264": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1684": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2291": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "485": "Les Kanjis dans la tete (Yves Maniette)",
+                "6257X": "Morohashi",
+                "2636": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1216": "New Nelson (John Haig)",
+                "474": "Remembering The Kanji (James Heisig)",
+                "513": "Remembering The Kanji, 6th edition (James Heisig)",
+                "883": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "369": "2001 Kanji",
+                "3e6.10": "The Kanji Dictionary",
+                "2-6-3": "SKIP code",
+                "3740.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-49": "JIS X 0208-1997 kuten code",
+                "59ff": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しな"
+                ],
+                "chinese": [
+                    "zi1"
+                ],
+                "korean": [
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "冫",
+                "女",
+                "欠"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "姿",
+                    "reading": "すがた",
+                    "meanings": [
+                        "figure",
+                        "form",
+                        "shape",
+                        "appearance",
+                        "dress",
+                        "guise",
+                        "state",
+                        "condition",
+                        "picture",
+                        "image",
+                        "form (of a waka)",
+                        "dressed in ...",
+                        "wearing ..."
+                    ]
+                },
+                {
+                    "kanji": "姿絵",
+                    "reading": "すがたえ",
+                    "meanings": [
+                        "portrait"
+                    ]
+                },
+                {
+                    "kanji": "晴れ姿",
+                    "reading": "はれすがた",
+                    "meanings": [
+                        "appearing in one's finest clothes",
+                        "appearing in one's hour of triumph"
+                    ]
+                },
+                {
+                    "kanji": "舞姿",
+                    "reading": "まいすがた",
+                    "meanings": [
+                        "dancing figure",
+                        "one's appearance when dancing",
+                        "dancing posture"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "姿勢",
+                    "reading": "シセイ",
+                    "meanings": [
+                        "posture",
+                        "pose",
+                        "position",
+                        "stance",
+                        "carriage (of the body)",
+                        "attitude",
+                        "approach",
+                        "stance"
+                    ]
+                },
+                {
+                    "kanji": "姿勢制御",
+                    "reading": "シセイセイギョ",
+                    "meanings": [
+                        "attitude control"
+                    ]
+                },
+                {
+                    "kanji": "雄姿",
+                    "reading": "ユウシ",
+                    "meanings": [
+                        "majestic figure",
+                        "imposing figure",
+                        "impressive appearance",
+                        "magnificent appearance"
+                    ]
+                },
+                {
+                    "kanji": "英姿",
+                    "reading": "エイシ",
+                    "meanings": [
+                        "gallant figure",
+                        "impressive figure",
+                        "noble appearance"
+                    ]
+                }
+            ]
+        }
+    }
+}

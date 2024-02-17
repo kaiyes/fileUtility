@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"孟\"",
+        "strokes": 8,
+        "main_meanings": [
+            "chief",
+            "beginning"
+        ],
+        "main_readings": {
+            "kun": [
+                "かしら"
+            ],
+            "on": [
+                "モウ",
+                "ボウ",
+                "ミョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1269": "Classic Nelson (Andrew Nelson)",
+                "667": "Japanese Names (P.G. O’Neill)",
+                "2049": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2760": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1412": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1906": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "6960": "Morohashi",
+                "2220": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1291": "New Nelson (John Haig)",
+                "2872": "Remembering The Kanji (James Heisig)"
+            },
+            "classifications": {
+                "2c5.1": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "2-2-5": "SKIP code",
+                "1710.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-50": "JIS X 0208-1997 kuten code",
+                "5b5f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たけし、 たけ、 はる、 はじめ、 つとむ、 おさ、 はい"
+                ],
+                "chinese": [
+                    "meng4"
+                ],
+                "korean": [
+                    "maeng",
+                    "mang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "child,",
+            "parts": [
+                "子",
+                "皿"
+            ],
+            "basis": "子",
+            "kangxi_order": 39,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "孟子",
+                    "reading": "モウシ",
+                    "meanings": [
+                        "Mencius (372-289 BCE)",
+                        "Mengzi",
+                        "Mencius (one of the Four Books)"
+                    ]
+                },
+                {
+                    "kanji": "孟夏",
+                    "reading": "モウカ",
+                    "meanings": [
+                        "beginning of summer",
+                        "fourth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "孔孟",
+                    "reading": "コウモウ",
+                    "meanings": [
+                        "Confucius and Mencius"
+                    ]
+                },
+                {
+                    "kanji": "論孟",
+                    "reading": "ロンモウ",
+                    "meanings": [
+                        "the Confucian Analects and the Discourses of Mencius"
+                    ]
+                }
+            ]
+        }
+    }
+}

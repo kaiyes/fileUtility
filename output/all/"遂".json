@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"遂\"",
+        "strokes": 12,
+        "main_meanings": [
+            "consummate",
+            "accomplish",
+            "attain",
+            "commit (suicide)"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.げる",
+                "つい.に"
+            ],
+            "on": [
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1458": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1427": "A New Dictionary of Kanji Usage",
+                "4716": "Classic Nelson (Andrew Nelson)",
+                "1070": "Essential Kanji (P.G. O’Neill)",
+                "1813": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1806": "Japanese Names (P.G. O’Neill)",
+                "1133": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1185": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1217": "Kanji in Context (Nishiguchi and Kono)",
+                "707": "Kodansha Compact Kanji Guide",
+                "3892": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2004": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2705": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "546": "Les Kanjis dans la tete (Yves Maniette)",
+                "38985P": "Morohashi",
+                "3138": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6084": "New Nelson (John Haig)",
+                "540": "Remembering The Kanji (James Heisig)",
+                "579": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1593": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "951": "2001 Kanji",
+                "2q9.13": "The Kanji Dictionary",
+                "3-3-9": "SKIP code",
+                "3830.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-75": "JIS X 0208-1997 kuten code",
+                "9042": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sui4",
+                    "sui2"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "并",
+                "込",
+                "豕"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "遂げる",
+                    "reading": "とげる",
+                    "meanings": [
+                        "to accomplish",
+                        "to achieve",
+                        "to carry out",
+                        "to arrive at (a certain outcome)",
+                        "to come to",
+                        "to end with"
+                    ]
+                },
+                {
+                    "kanji": "遂に",
+                    "reading": "ついに",
+                    "meanings": [
+                        "finally",
+                        "at last",
+                        "in the end",
+                        "after all",
+                        "never (happened)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "遂行",
+                    "reading": "スイコウ",
+                    "meanings": [
+                        "accomplishment",
+                        "execution"
+                    ]
+                },
+                {
+                    "kanji": "完遂",
+                    "reading": "カンスイ",
+                    "meanings": [
+                        "successful execution",
+                        "accomplishment",
+                        "completion",
+                        "fulfillment",
+                        "carrying through"
+                    ]
+                },
+                {
+                    "kanji": "既遂",
+                    "reading": "キスイ",
+                    "meanings": [
+                        "already finished (action)",
+                        "already accomplished",
+                        "committed (crime; as opposed to attempted)",
+                        "perpetrated",
+                        "consummated",
+                        "successful"
+                    ]
+                }
+            ]
+        }
+    }
+}

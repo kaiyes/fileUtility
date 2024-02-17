@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"后\"",
+        "strokes": 6,
+        "main_meanings": [
+            "empress",
+            "queen",
+            "after",
+            "behind",
+            "back",
+            "later"
+        ],
+        "main_readings": {
+            "kun": [
+                "きさき"
+            ],
+            "on": [
+                "コウ",
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "780": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "869": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "858": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1759": "A New Dictionary of Kanji Usage",
+                "181": "Classic Nelson (Andrew Nelson)",
+                "542": "Essential Kanji (P.G. O’Neill)",
+                "1125": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "304": "Japanese Names (P.G. O’Neill)",
+                "1119": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1171": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1873": "Kanji in Context (Nishiguchi and Kono)",
+                "283": "Kodansha Compact Kanji Guide",
+                "3701": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1893": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2574": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1878": "Les Kanjis dans la tete (Yves Maniette)",
+                "3298": "Morohashi",
+                "2981": "New Japanese English Character Dictionary (Jack Halpern)",
+                "704": "New Nelson (John Haig)",
+                "1861": "Remembering The Kanji (James Heisig)",
+                "2005": "Remembering The Kanji, 6th edition (James Heisig)",
+                "844": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2677": "2001 Kanji",
+                "3d3.11": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "3-3-3": "SKIP code",
+                "7226.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-01": "JIS X 0208-1997 kuten code",
+                "540e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hou4"
+                ],
+                "korean": [
+                    "hu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "ノ",
+                "亅",
+                "厂",
+                "口",
+                "斤"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "后",
+                    "reading": "きさき",
+                    "meanings": [
+                        "empress",
+                        "queen"
+                    ]
+                },
+                {
+                    "kanji": "后町",
+                    "reading": "きさきまち",
+                    "meanings": [
+                        "women's pavilion (of the inner Heian palace)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "后宮",
+                    "reading": "コウグウ",
+                    "meanings": [
+                        "empress's palace",
+                        "queen's palace",
+                        "empress",
+                        "queen"
+                    ]
+                },
+                {
+                    "kanji": "皇妃",
+                    "reading": "コウヒ",
+                    "meanings": [
+                        "empress",
+                        "queen"
+                    ]
+                },
+                {
+                    "kanji": "皇太后",
+                    "reading": "コウタイゴウ",
+                    "meanings": [
+                        "Empress Dowager",
+                        "Queen Mother"
+                    ]
+                },
+                {
+                    "kanji": "太后",
+                    "reading": "タイコウ",
+                    "meanings": [
+                        "empress dowager",
+                        "queen mother"
+                    ]
+                }
+            ]
+        }
+    }
+}

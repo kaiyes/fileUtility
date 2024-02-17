@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"勁\"",
+        "strokes": 9,
+        "main_meanings": [
+            "strong"
+        ],
+        "main_readings": {
+            "kun": [
+                "つよ.い"
+            ],
+            "on": [
+                "ケイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "723": "Classic Nelson (Andrew Nelson)",
+                "1697A": "Japanese Names (P.G. O’Neill)",
+                "2029": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1833": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "969": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1313": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2349": "Morohashi",
+                "538": "New Nelson (John Haig)",
+                "2990": "Remembering The Kanji (James Heisig)",
+                "2992": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2g7.2": "The Kanji Dictionary",
+                "1-7-2": "SKIP code",
+                "1412.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-50-06": "JIS X 0208-1997 kuten code",
+                "52c1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jing4",
+                    "jin4"
+                ],
+                "korean": [
+                    "gyeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "力",
+                "巛",
+                "工"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "勁悍",
+                    "reading": "ケイカン",
+                    "meanings": [
+                        "strong and fierce"
+                    ]
+                },
+                {
+                    "kanji": "勁捷",
+                    "reading": "ケイショウ",
+                    "meanings": [
+                        "strong and nimble"
+                    ]
+                },
+                {
+                    "kanji": "雄勁",
+                    "reading": "ユウケイ",
+                    "meanings": [
+                        "vigorous",
+                        "powerful"
+                    ]
+                },
+                {
+                    "kanji": "発勁",
+                    "reading": "ハッケイ",
+                    "meanings": [
+                        "fa jin",
+                        "releasing internal power explosively"
+                    ]
+                }
+            ]
+        }
+    }
+}

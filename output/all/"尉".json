@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"尉\"",
+        "strokes": 11,
+        "main_meanings": [
+            "military officer",
+            "jailer",
+            "old man",
+            "rank"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "イ",
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1004": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1765": "A New Dictionary of Kanji Usage",
+                "231": "Classic Nelson (Andrew Nelson)",
+                "1232": "Essential Kanji (P.G. O’Neill)",
+                "1223": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1410": "Japanese Names (P.G. O’Neill)",
+                "1617": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1725": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1882": "Kanji in Context (Nishiguchi and Kono)",
+                "507": "Kodansha Compact Kanji Guide",
+                "2119": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1105": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1504": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1104": "Les Kanjis dans la tete (Yves Maniette)",
+                "7440": "Morohashi",
+                "1685": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1383": "New Nelson (John Haig)",
+                "1095": "Remembering The Kanji (James Heisig)",
+                "1176": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1423": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3748": "2001 Kanji",
+                "4e6.4": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "7420.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-51": "JIS X 0208-1997 kuten code",
+                "5c09": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei4",
+                    "yu4"
+                ],
+                "korean": [
+                    "wi",
+                    "ul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "thumb,",
+            "parts": [
+                "二",
+                "寸",
+                "小",
+                "尸",
+                "示"
+            ],
+            "basis": "寸",
+            "kangxi_order": null,
+            "variants": [
+                "叞"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "尉官",
+                    "reading": "イカン",
+                    "meanings": [
+                        "officer below the rank of major",
+                        "company officer"
+                    ]
+                },
+                {
+                    "kanji": "中尉",
+                    "reading": "チュウイ",
+                    "meanings": [
+                        "first lieutenant",
+                        "lieutenant junior grade"
+                    ]
+                },
+                {
+                    "kanji": "少尉",
+                    "reading": "ショウイ",
+                    "meanings": [
+                        "second lieutenant",
+                        "sublieutenant",
+                        "ensign"
+                    ]
+                },
+                {
+                    "kanji": "尉",
+                    "reading": "ジョウ",
+                    "meanings": [
+                        "inspector (third highest of the four administrative ranks of the ritsuryō system)",
+                        "old man",
+                        "white ash (of charcoal)"
+                    ]
+                },
+                {
+                    "kanji": "尉鶲",
+                    "reading": "ジョウビタキ",
+                    "meanings": [
+                        "Daurian redstart (Phoenicurus auroreus)"
+                    ]
+                },
+                {
+                    "kanji": "黒式尉",
+                    "reading": "コクシキジョウ",
+                    "meanings": [
+                        "noh mask used for old man roles (usu. black)"
+                    ]
+                }
+            ]
+        }
+    }
+}

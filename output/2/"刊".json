@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"刊\"",
+        "strokes": 5,
+        "main_meanings": [
+            "publish",
+            "carve",
+            "engrave"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "750": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "666": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "636": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "619": "A New Dictionary of Kanji Usage",
+                "1493": "Classic Nelson (Andrew Nelson)",
+                "604": "Essential Kanji (P.G. O’Neill)",
+                "351": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "585": "Kanji and Kana (Spahn and Hadamitzky)",
+                "594": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1138": "Kanji in Context (Nishiguchi and Kono)",
+                "184": "Kodansha Compact Kanji Guide",
+                "221": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "139": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "167": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1665": "Les Kanjis dans la tete (Yves Maniette)",
+                "1865": "Morohashi",
+                "190": "New Japanese English Character Dictionary (Jack Halpern)",
+                "456": "New Nelson (John Haig)",
+                "1650": "Remembering The Kanji (James Heisig)",
+                "1779": "Remembering The Kanji, 6th edition (James Heisig)",
+                "648": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3143": "2001 Kanji",
+                "2f3.1": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "1240.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-09": "JIS X 0208-1997 kuten code",
+                "520a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kan1"
+                ],
+                "korean": [
+                    "gan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "刈",
+                "干"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "刊",
+                    "reading": "カン",
+                    "meanings": [
+                        "publication",
+                        "edition (e.g. morning",
+                        "evening",
+                        "special)",
+                        "published in (year)",
+                        "publication frequency (e.g. daily",
+                        "monthly)"
+                    ]
+                },
+                {
+                    "kanji": "刊行",
+                    "reading": "カンコウ",
+                    "meanings": [
+                        "publication",
+                        "issue"
+                    ]
+                },
+                {
+                    "kanji": "週刊",
+                    "reading": "シュウカン",
+                    "meanings": [
+                        "weekly publication"
+                    ]
+                },
+                {
+                    "kanji": "休刊",
+                    "reading": "キュウカン",
+                    "meanings": [
+                        "suspension of publication"
+                    ]
+                }
+            ]
+        }
+    }
+}

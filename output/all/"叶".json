@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"叶\"",
+        "strokes": 5,
+        "main_meanings": [
+            "grant",
+            "answer"
+        ],
+        "main_readings": {
+            "kun": [
+                "かな.える",
+                "かな.う"
+            ],
+            "on": [
+                "キョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "871": "Classic Nelson (Andrew Nelson)",
+                "132": "Japanese Names (P.G. O’Neill)",
+                "2033": "Kanji and Kana (Spahn and Hadamitzky)",
+                "209": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "134": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "161": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "3255": "Morohashi",
+                "689": "New Nelson (John Haig)",
+                "2173": "Remembering The Kanji (James Heisig)",
+                "2291": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3d2.1": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "6400.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-80": "JIS X 0208-1997 kuten code",
+                "53f6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かの、 かのう"
+                ],
+                "chinese": [
+                    "ye4",
+                    "xie2"
+                ],
+                "korean": [
+                    "hyeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "十",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "叶える",
+                    "reading": "かなえる",
+                    "meanings": [
+                        "to grant (request",
+                        "wish)",
+                        "to answer (prayer)",
+                        "to fulfill (conditions)",
+                        "to meet (requirements)"
+                    ]
+                },
+                {
+                    "kanji": "叶う",
+                    "reading": "かなう",
+                    "meanings": [
+                        "to come true (of a wish",
+                        "prayer",
+                        "etc.)",
+                        "to be realized",
+                        "to be fulfilled",
+                        "to suit (e.g. a purpose)",
+                        "to meet (wishes",
+                        "ideals",
+                        "etc.)",
+                        "to conform to (standards",
+                        "rules",
+                        "etc.)",
+                        "to be consistent with",
+                        "to match (implies competition)",
+                        "to rival",
+                        "to bear (e.g. the heat)"
+                    ]
+                },
+                {
+                    "kanji": "叶うことなら",
+                    "reading": "かなうことなら",
+                    "meanings": [
+                        "if possible",
+                        "if it is in my power",
+                        "if it was realistic"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"節\"",
+        "strokes": 13,
+        "main_meanings": [
+            "node",
+            "season",
+            "period",
+            "occasion",
+            "verse",
+            "clause",
+            "stanza",
+            "honor",
+            "joint",
+            "knuckle",
+            "knob",
+            "knot",
+            "tune",
+            "melody"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふし",
+                "-ぶし",
+                "のっと"
+            ],
+            "on": [
+                "セツ",
+                "セチ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "446": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "552": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "523": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "731": "A New Dictionary of Kanji Usage",
+                "3402": "Classic Nelson (Andrew Nelson)",
+                "683": "Essential Kanji (P.G. O’Neill)",
+                "800": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2215": "Japanese Names (P.G. O’Neill)",
+                "464": "Kanji and Kana (Spahn and Hadamitzky)",
+                "472": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "699": "Kanji in Context (Nishiguchi and Kono)",
+                "1482": "Kodansha Compact Kanji Guide",
+                "3336": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1729": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2349": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1476": "Les Kanjis dans la tete (Yves Maniette)",
+                "26102": "Morohashi",
+                "2691": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4299": "New Nelson (John Haig)",
+                "1464": "Remembering The Kanji (James Heisig)",
+                "1574": "Remembering The Kanji, 6th edition (James Heisig)",
+                "607": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2344": "2001 Kanji",
+                "6f7.3": "The Kanji Dictionary",
+                "2-6-7": "SKIP code",
+                "8872.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-65": "JIS X 0208-1997 kuten code",
+                "7bc0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たかし"
+                ],
+                "chinese": [
+                    "jie2",
+                    "jie1"
+                ],
+                "korean": [
+                    "jeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "卩",
+                "竹",
+                "艮",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "節",
+                    "reading": "ふし",
+                    "meanings": [
+                        "joint",
+                        "knuckle",
+                        "tune",
+                        "melody",
+                        "node (of a plant stem)",
+                        "joint",
+                        "knot (in wood)",
+                        "knob",
+                        "(notable) point",
+                        "part",
+                        "node"
+                    ]
+                },
+                {
+                    "kanji": "節目",
+                    "reading": "ふしめ",
+                    "meanings": [
+                        "turning point",
+                        "critical juncture",
+                        "knot (in a tree",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "一節",
+                    "reading": "ひとふし",
+                    "meanings": [
+                        "one joint",
+                        "one section",
+                        "one tune",
+                        "one piece",
+                        "one measure",
+                        "one piece (of dried bonito)"
+                    ]
+                },
+                {
+                    "kanji": "七節",
+                    "reading": "ななふし",
+                    "meanings": [
+                        "walking stick (any insect of order Phasmatodea)",
+                        "walkingstick",
+                        "stick insect",
+                        "leaf insect"
+                    ]
+                },
+                {
+                    "kanji": "節",
+                    "reading": "ノット",
+                    "meanings": [
+                        "knot (nautical mile per hour)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "節",
+                    "reading": "セツ",
+                    "meanings": [
+                        "occasion",
+                        "time",
+                        "section (of a literary work or piece of music)",
+                        "passage",
+                        "paragraph",
+                        "verse",
+                        "stanza",
+                        "clause",
+                        "season",
+                        "term",
+                        "one's principles",
+                        "integrity",
+                        "node (of a plant stem)",
+                        "(taxonomical) section",
+                        "knot (nautical mile per hour)"
+                    ]
+                },
+                {
+                    "kanji": "節減",
+                    "reading": "セツゲン",
+                    "meanings": [
+                        "retrenchment",
+                        "curtailment",
+                        "economy"
+                    ]
+                },
+                {
+                    "kanji": "結節",
+                    "reading": "ケッセツ",
+                    "meanings": [
+                        "knot",
+                        "nodule",
+                        "tubercule",
+                        "node"
+                    ]
+                },
+                {
+                    "kanji": "国慶節",
+                    "reading": "コッケイセツ",
+                    "meanings": [
+                        "anniversary of founding (of PRC)",
+                        "national celebration time"
+                    ]
+                },
+                {
+                    "kanji": "節",
+                    "reading": "セチ",
+                    "meanings": [
+                        "season",
+                        "time of the year",
+                        "seasonal festival",
+                        "seasonal banquet",
+                        "seasonal feast"
+                    ]
+                },
+                {
+                    "kanji": "節分",
+                    "reading": "セツブン",
+                    "meanings": [
+                        "setsubun",
+                        "last day of winter in the traditional Japanese calendar (usu. February 3 or 4)",
+                        "day of the bean scattering ceremony",
+                        "last day of any season (according to the traditional Japanese calendar)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"武\"",
+        "strokes": 8,
+        "main_meanings": [
+            "warrior",
+            "military",
+            "chivalry",
+            "arms"
+        ],
+        "main_readings": {
+            "kun": [
+                "たけ",
+                "たけ.し"
+            ],
+            "on": [
+                "ブ",
+                "ム"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "708": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "802": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "781": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "448": "A New Dictionary of Kanji Usage",
+                "51": "Classic Nelson (Andrew Nelson)",
+                "596": "Essential Kanji (P.G. O’Neill)",
+                "651": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "751": "Japanese Names (P.G. O’Neill)",
+                "1031": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1071": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1165": "Kanji in Context (Nishiguchi and Kono)",
+                "1129": "Kodansha Compact Kanji Guide",
+                "3979": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2046": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2764": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "383": "Les Kanjis dans la tete (Yves Maniette)",
+                "16273": "Morohashi",
+                "3210": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2959": "New Nelson (John Haig)",
+                "377": "Remembering The Kanji (James Heisig)",
+                "403": "Remembering The Kanji, 6th edition (James Heisig)",
+                "461": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "694": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3056": "2001 Kanji",
+                "4n5.3": "The Kanji Dictionary",
+                "3-4-4": "SKIP code",
+                "4-8-4": "SKIP code",
+                "1314.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-80": "JIS X 0208-1997 kuten code",
+                "6b66": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "う、 お、 たけし、 たけん、 ん"
+                ],
+                "chinese": [
+                    "wu3"
+                ],
+                "korean": [
+                    "mu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stop",
+            "parts": [
+                "弋",
+                "止"
+            ],
+            "basis": "止",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "武し",
+                    "reading": "たけし",
+                    "meanings": [
+                        "brave"
+                    ]
+                },
+                {
+                    "kanji": "武田薬品工業",
+                    "reading": "たけだやくひんこうぎょう",
+                    "meanings": [
+                        "Takeda Pharmaceutical"
+                    ]
+                },
+                {
+                    "kanji": "武し",
+                    "reading": "たけし",
+                    "meanings": [
+                        "brave"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "武",
+                    "reading": "ブ",
+                    "meanings": [
+                        "the art of war",
+                        "martial arts",
+                        "military arts",
+                        "military force",
+                        "the sword",
+                        "valor",
+                        "bravery",
+                        "military officer",
+                        "military man"
+                    ]
+                },
+                {
+                    "kanji": "武器",
+                    "reading": "ブキ",
+                    "meanings": [
+                        "weapon",
+                        "arms",
+                        "ordnance",
+                        "weapon (something used to gain an advantage)",
+                        "asset"
+                    ]
+                },
+                {
+                    "kanji": "文武",
+                    "reading": "ブンブ",
+                    "meanings": [
+                        "literary and military arts",
+                        "the pen and the sword"
+                    ]
+                },
+                {
+                    "kanji": "威武",
+                    "reading": "イブ",
+                    "meanings": [
+                        "authority and force"
+                    ]
+                },
+                {
+                    "kanji": "武者",
+                    "reading": "ムシャ",
+                    "meanings": [
+                        "warrior"
+                    ]
+                },
+                {
+                    "kanji": "武者修行",
+                    "reading": "ムシャシュギョウ",
+                    "meanings": [
+                        "traveling about to gain skill in combat (travelling)"
+                    ]
+                },
+                {
+                    "kanji": "建武",
+                    "reading": "ケンム",
+                    "meanings": [
+                        "Kenmu era (of unified Japan; 1334.1.29-1336.2.29)",
+                        "Kenmu era (of the Northern Court; 1336.2.29-1338.8.28)"
+                    ]
+                },
+                {
+                    "kanji": "玄武",
+                    "reading": "ゲンブ",
+                    "meanings": [
+                        "Black Tortoise (god said to rule over the northern heavens)",
+                        "seven mansions (Chinese constellations) of the northern heavens"
+                    ]
+                }
+            ]
+        }
+    }
+}

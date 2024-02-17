@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肉\"",
+        "strokes": 6,
+        "main_meanings": [
+            "meat"
+        ],
+        "main_readings": {
+            "kun": [
+                "しし"
+            ],
+            "on": [
+                "ニク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "297": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "209": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "365": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "779": "A New Dictionary of Kanji Usage",
+                "3724": "Classic Nelson (Andrew Nelson)",
+                "533": "Essential Kanji (P.G. O’Neill)",
+                "241": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2.1": "Japanese for Busy People",
+                "223": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "561": "Kanji in Context (Nishiguchi and Kono)",
+                "1010": "Kodansha Compact Kanji Guide",
+                "3966": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2042": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2756": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1031": "Les Kanjis dans la tete (Yves Maniette)",
+                "29236": "Morohashi",
+                "3200": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4753": "New Nelson (John Haig)",
+                "1022": "Remembering The Kanji (James Heisig)",
+                "1098": "Remembering The Kanji, 6th edition (James Heisig)",
+                "134": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1653": "2001 Kanji",
+                "2a4.20": "The Kanji Dictionary",
+                "3-4-2": "SKIP code",
+                "4-6-4": "SKIP code",
+                "3-2-4": "SKIP code",
+                "4022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-89": "JIS X 0208-1997 kuten code",
+                "8089": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "rou4"
+                ],
+                "korean": [
+                    "yug",
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "人",
+                "冂",
+                "肉"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "肉",
+                    "reading": "しし",
+                    "meanings": [
+                        "flesh (esp. of an animal)",
+                        "meat"
+                    ]
+                },
+                {
+                    "kanji": "肉合い",
+                    "reading": "ししあい",
+                    "meanings": [
+                        "fleshiness",
+                        "plumpness"
+                    ]
+                },
+                {
+                    "kanji": "鹿",
+                    "reading": "かのしし",
+                    "meanings": [
+                        "venison",
+                        "deer"
+                    ]
+                },
+                {
+                    "kanji": "脯",
+                    "reading": "ほしし",
+                    "meanings": [
+                        "dried meat",
+                        "jerky"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "肉",
+                    "reading": "ニク",
+                    "meanings": [
+                        "flesh",
+                        "meat",
+                        "flesh (of a fruit)",
+                        "pulp",
+                        "the physical body (as opposed to the spirit)",
+                        "flesh",
+                        "thickness",
+                        "content",
+                        "substance",
+                        "flesh",
+                        "ink pad"
+                    ]
+                },
+                {
+                    "kanji": "肉親",
+                    "reading": "ニクシン",
+                    "meanings": [
+                        "blood relationship",
+                        "blood relative"
+                    ]
+                },
+                {
+                    "kanji": "食肉",
+                    "reading": "ショクニク",
+                    "meanings": [
+                        "meat (for consumption)"
+                    ]
+                },
+                {
+                    "kanji": "中肉",
+                    "reading": "チュウニク",
+                    "meanings": [
+                        "medium build",
+                        "meat of medium quality"
+                    ]
+                }
+            ]
+        }
+    }
+}

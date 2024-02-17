@@ -1,0 +1,222 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"好\"",
+        "strokes": 6,
+        "main_meanings": [
+            "fond",
+            "pleasing",
+            "like something"
+        ],
+        "main_readings": {
+            "kun": [
+                "この.む",
+                "す.く",
+                "よ.い",
+                "い.い"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "503": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "859": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "308": "A New Dictionary of Kanji Usage",
+                "1191": "Classic Nelson (Andrew Nelson)",
+                "882": "Essential Kanji (P.G. O’Neill)",
+                "152": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "413": "Japanese Names (P.G. O’Neill)",
+                "2.11": "Japanese for Busy People",
+                "104": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "244": "Kanji in Context (Nishiguchi and Kono)",
+                "432": "Kodansha Compact Kanji Guide",
+                "240": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "155": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "184": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "100": "Les Kanjis dans la tete (Yves Maniette)",
+                "6053": "Morohashi",
+                "208": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1180": "New Nelson (John Haig)",
+                "99": "Remembering The Kanji (James Heisig)",
+                "103": "Remembering The Kanji, 6th edition (James Heisig)",
+                "262": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "465": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1747": "2001 Kanji",
+                "3e2.1": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "1-3-2": "SKIP code",
+                "4744.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-05": "JIS X 0208-1997 kuten code",
+                "597d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こ、 たか、 とし、 よし"
+                ],
+                "chinese": [
+                    "hao3",
+                    "hao4"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "子"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "好む",
+                    "reading": "このむ",
+                    "meanings": [
+                        "to like",
+                        "to prefer"
+                    ]
+                },
+                {
+                    "kanji": "好むと好まざるとにかかわらず",
+                    "reading": "このむとこのまざるとにかかわらず",
+                    "meanings": [
+                        "whether one likes it or not"
+                    ]
+                },
+                {
+                    "kanji": "好く",
+                    "reading": "すく",
+                    "meanings": [
+                        "to like",
+                        "to love",
+                        "to be fond of"
+                    ]
+                },
+                {
+                    "kanji": "良い",
+                    "reading": "よい",
+                    "meanings": [
+                        "good",
+                        "excellent",
+                        "fine",
+                        "nice",
+                        "pleasant",
+                        "agreeable",
+                        "sufficient",
+                        "enough",
+                        "ready",
+                        "prepared",
+                        "profitable (deal",
+                        "business offer",
+                        "etc.)",
+                        "beneficial",
+                        "OK",
+                        "all right",
+                        "fine",
+                        "no problem",
+                        "easy to ..."
+                    ]
+                },
+                {
+                    "kanji": "いい男",
+                    "reading": "いいおとこ",
+                    "meanings": [
+                        "handsome man",
+                        "looker",
+                        "good guy",
+                        "great guy",
+                        "influential person (esp. in the yakuza)",
+                        "sumo wrestler"
+                    ]
+                },
+                {
+                    "kanji": "いい加減",
+                    "reading": "いいかげん",
+                    "meanings": [
+                        "irresponsible",
+                        "perfunctory",
+                        "careless",
+                        "lukewarm",
+                        "half-baked",
+                        "halfhearted",
+                        "vague",
+                        "(already) enough",
+                        "considerably",
+                        "quite",
+                        "rather",
+                        "pretty"
+                    ]
+                },
+                {
+                    "kanji": "いい男",
+                    "reading": "いいおとこ",
+                    "meanings": [
+                        "handsome man",
+                        "looker",
+                        "good guy",
+                        "great guy",
+                        "influential person (esp. in the yakuza)",
+                        "sumo wrestler"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "好",
+                    "reading": "コウ",
+                    "meanings": [
+                        "good"
+                    ]
+                },
+                {
+                    "kanji": "好意",
+                    "reading": "コウイ",
+                    "meanings": [
+                        "kindness",
+                        "favor",
+                        "favour",
+                        "friendliness",
+                        "goodwill",
+                        "affection",
+                        "liking (for someone)",
+                        "love"
+                    ]
+                },
+                {
+                    "kanji": "友好",
+                    "reading": "ユウコウ",
+                    "meanings": [
+                        "friendship"
+                    ]
+                },
+                {
+                    "kanji": "同好",
+                    "reading": "ドウコウ",
+                    "meanings": [
+                        "similar tastes"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"展\"",
+        "strokes": 10,
+        "main_meanings": [
+            "unfold",
+            "expand"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "テン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "847": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "955": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "944": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "431": "A New Dictionary of Kanji Usage",
+                "1396": "Classic Nelson (Andrew Nelson)",
+                "501": "Essential Kanji (P.G. O’Neill)",
+                "485": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1501": "Japanese Names (P.G. O’Neill)",
+                "1129": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1181": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1092": "Kanji in Context (Nishiguchi and Kono)",
+                "531": "Kodansha Compact Kanji Guide",
+                "3862": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1984": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2681": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1944": "Les Kanjis dans la tete (Yves Maniette)",
+                "7715": "Morohashi",
+                "3111": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1425": "New Nelson (John Haig)",
+                "1925": "Remembering The Kanji (James Heisig)",
+                "2075": "Remembering The Kanji, 6th edition (James Heisig)",
+                "443": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "909": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3765": "2001 Kanji",
+                "3r7.2": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "7723.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-24": "JIS X 0208-1997 kuten code",
+                "5c55": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぶ、 のり、 ひろ、 ゆき"
+                ],
+                "chinese": [
+                    "zhan3"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "尸",
+                "衣"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "展",
+                    "reading": "テン",
+                    "meanings": [
+                        "exhibition",
+                        "exhibit"
+                    ]
+                },
+                {
+                    "kanji": "展開",
+                    "reading": "テンカイ",
+                    "meanings": [
+                        "development",
+                        "evolution",
+                        "progression",
+                        "unfolding",
+                        "(plot) twist",
+                        "expansion",
+                        "spreading out",
+                        "extending",
+                        "deployment",
+                        "building up",
+                        "expansion (of an algebraic expression)",
+                        "development (of a three-dimensional shape)",
+                        "extraction (of compressed data)",
+                        "decompression",
+                        "unpacking"
+                    ]
+                },
+                {
+                    "kanji": "個展",
+                    "reading": "コテン",
+                    "meanings": [
+                        "solo exhibition",
+                        "one-man exhibition",
+                        "one-woman exhibition"
+                    ]
+                },
+                {
+                    "kanji": "巡回展",
+                    "reading": "ジュンカイテン",
+                    "meanings": [
+                        "roadshow",
+                        "touring exhibition",
+                        "travelling exhibition"
+                    ]
+                }
+            ]
+        }
+    }
+}

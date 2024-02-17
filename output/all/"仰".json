@@ -1,0 +1,221 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"仰\"",
+        "strokes": 6,
+        "main_meanings": [
+            "face-up",
+            "look up",
+            "depend",
+            "seek",
+            "respect",
+            "revere",
+            "drink",
+            "take"
+        ],
+        "main_readings": {
+            "kun": [
+                "あお.ぐ",
+                "おお.せ",
+                "お.っしゃる",
+                "おっしゃ.る"
+            ],
+            "on": [
+                "ギョウ",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1173": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1658": "A New Dictionary of Kanji Usage",
+                "375": "Classic Nelson (Andrew Nelson)",
+                "1534": "Essential Kanji (P.G. O’Neill)",
+                "1037": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "360": "Japanese Names (P.G. O’Neill)",
+                "1056": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1099": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1134": "Kanji in Context (Nishiguchi and Kono)",
+                "65": "Kodansha Compact Kanji Guide",
+                "51": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "32": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1718": "Les Kanjis dans la tete (Yves Maniette)",
+                "400": "Morohashi",
+                "48": "New Japanese English Character Dictionary (Jack Halpern)",
+                "137": "New Nelson (John Haig)",
+                "1701": "Remembering The Kanji (James Heisig)",
+                "1836": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1057": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2144": "2001 Kanji",
+                "2a4.10": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2722.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-36": "JIS X 0208-1997 kuten code",
+                "4ef0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yang3"
+                ],
+                "korean": [
+                    "ang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "卩"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "仰ぐ",
+                    "reading": "あおぐ",
+                    "meanings": [
+                        "to look up (at)",
+                        "to look up to",
+                        "to respect",
+                        "to revere",
+                        "to ask for (e.g. guidance)",
+                        "to seek",
+                        "to turn to (someone) for",
+                        "to depend on",
+                        "to rely on",
+                        "to gulp down",
+                        "to quaff",
+                        "to drink"
+                    ]
+                },
+                {
+                    "kanji": "仰せ",
+                    "reading": "おおせ",
+                    "meanings": [
+                        "order (from one's superior)",
+                        "command",
+                        "what you say",
+                        "(someone's) words"
+                    ]
+                },
+                {
+                    "kanji": "仰せ言",
+                    "reading": "おおせごと",
+                    "meanings": [
+                        "statement",
+                        "order"
+                    ]
+                },
+                {
+                    "kanji": "仰る",
+                    "reading": "おっしゃる",
+                    "meanings": [
+                        "to say",
+                        "to speak",
+                        "to tell",
+                        "to talk"
+                    ]
+                },
+                {
+                    "kanji": "おっしゃる通り",
+                    "reading": "おっしゃるとおり",
+                    "meanings": [
+                        "I agree with you",
+                        "it is as (someone) says"
+                    ]
+                },
+                {
+                    "kanji": "仰る",
+                    "reading": "おっしゃる",
+                    "meanings": [
+                        "to say",
+                        "to speak",
+                        "to tell",
+                        "to talk"
+                    ]
+                },
+                {
+                    "kanji": "おっしゃる通り",
+                    "reading": "おっしゃるとおり",
+                    "meanings": [
+                        "I agree with you",
+                        "it is as (someone) says"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "仰天",
+                    "reading": "ギョウテン",
+                    "meanings": [
+                        "being amazed",
+                        "being horrified",
+                        "being taken aback"
+                    ]
+                },
+                {
+                    "kanji": "仰角",
+                    "reading": "ギョウカク",
+                    "meanings": [
+                        "angle of elevation"
+                    ]
+                },
+                {
+                    "kanji": "大仰",
+                    "reading": "オオギョウ",
+                    "meanings": [
+                        "exaggerated",
+                        "overblown",
+                        "overdone"
+                    ]
+                },
+                {
+                    "kanji": "景仰",
+                    "reading": "ケイコウ",
+                    "meanings": [
+                        "adoration",
+                        "admiration",
+                        "reverence"
+                    ]
+                },
+                {
+                    "kanji": "景仰",
+                    "reading": "ケイコウ",
+                    "meanings": [
+                        "adoration",
+                        "admiration",
+                        "reverence"
+                    ]
+                },
+                {
+                    "kanji": "欽仰",
+                    "reading": "キンギョウ",
+                    "meanings": [
+                        "reverence",
+                        "adoration",
+                        "veneration"
+                    ]
+                }
+            ]
+        }
+    }
+}

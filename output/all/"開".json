@@ -1,0 +1,306 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"開\"",
+        "strokes": 12,
+        "main_meanings": [
+            "open",
+            "unfold",
+            "unseal"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひら.く",
+                "ひら.き",
+                "-びら.き",
+                "ひら.ける",
+                "あ.く",
+                "あ.ける"
+            ],
+            "on": [
+                "カイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "171": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "261": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "241": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "80": "A New Dictionary of Kanji Usage",
+                "4950": "Classic Nelson (Andrew Nelson)",
+                "550": "Essential Kanji (P.G. O’Neill)",
+                "270": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1821": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "396": "Kanji and Kana (Spahn and Hadamitzky)",
+                "400": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "215": "Kanji in Context (Nishiguchi and Kono)",
+                "1840": "Kodansha Compact Kanji Guide",
+                "4121": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2092": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2835": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1636": "Les Kanjis dans la tete (Yves Maniette)",
+                "41233": "Morohashi",
+                "3321": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6393": "New Nelson (John Haig)",
+                "1622": "Remembering The Kanji (James Heisig)",
+                "1750": "Remembering The Kanji, 6th edition (James Heisig)",
+                "290": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "391": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3855": "2001 Kanji",
+                "8e4.6": "The Kanji Dictionary",
+                "3-8-4": "SKIP code",
+                "7744.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-11": "JIS X 0208-1997 kuten code",
+                "958b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はる、 か、 ひらき"
+                ],
+                "chinese": [
+                    "kai1"
+                ],
+                "korean": [
+                    "gae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "gate",
+            "parts": [
+                "一",
+                "ノ",
+                "二",
+                "廾",
+                "門"
+            ],
+            "basis": "門",
+            "kangxi_order": 169,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "開く",
+                    "reading": "ひらく",
+                    "meanings": [
+                        "to open",
+                        "to undo",
+                        "to unseal",
+                        "to unpack",
+                        "to bloom",
+                        "to unfold",
+                        "to spread out",
+                        "to open (for business",
+                        "e.g. in the morning)",
+                        "to be wide (gap",
+                        "etc.)",
+                        "to widen",
+                        "to hold (meeting",
+                        "party",
+                        "etc.)",
+                        "to give",
+                        "to open",
+                        "to found (nation",
+                        "dynasty",
+                        "sect",
+                        "etc.)",
+                        "to open (a new business)",
+                        "to set up",
+                        "to establish",
+                        "to start",
+                        "to open (ports",
+                        "borders",
+                        "etc.)",
+                        "to open (an account)",
+                        "to open up (new land",
+                        "path",
+                        "etc.)",
+                        "to clear",
+                        "to develop",
+                        "to open (a file",
+                        "etc.)",
+                        "to extract (root)",
+                        "to reduce (equation)",
+                        "to cut open (fish)",
+                        "to change (kanji into hiragana)",
+                        "to flare (e.g. skirt)",
+                        "to slacken (into a poor posture)"
+                    ]
+                },
+                {
+                    "kanji": "開き",
+                    "reading": "ひらき",
+                    "meanings": [
+                        "opening",
+                        "gap",
+                        "dried and opened fish"
+                    ]
+                },
+                {
+                    "kanji": "開き直る",
+                    "reading": "ひらきなおる",
+                    "meanings": [
+                        "to become defiant",
+                        "to fight back",
+                        "to turn upon",
+                        "to take the offensive"
+                    ]
+                },
+                {
+                    "kanji": "開ける",
+                    "reading": "ひらける",
+                    "meanings": [
+                        "to open out (of a view",
+                        "scenery",
+                        "etc.)",
+                        "to spread out",
+                        "to become clear (of a road",
+                        "visibility",
+                        "etc.)",
+                        "to open up",
+                        "to improve (of luck",
+                        "prospects",
+                        "etc.)",
+                        "to get better",
+                        "to develop (of a town",
+                        "civilization",
+                        "etc.)",
+                        "to become civilized",
+                        "to modernize",
+                        "to grow",
+                        "to advance (of knowledge",
+                        "ideas",
+                        "etc.)",
+                        "to be sensible",
+                        "to be understanding",
+                        "to be enlightened",
+                        "to open (of a new road",
+                        "railway",
+                        "etc.)",
+                        "to be opened to traffic",
+                        "to become populous",
+                        "to become densely built",
+                        "to become bustling"
+                    ]
+                },
+                {
+                    "kanji": "開く",
+                    "reading": "あく",
+                    "meanings": [
+                        "to open (e.g. doors)",
+                        "to open (e.g. business",
+                        "etc.)",
+                        "to be empty",
+                        "to be vacant",
+                        "to be available",
+                        "to be free",
+                        "to be open (e.g. neckline",
+                        "etc.)",
+                        "to have been opened (of one's eyes",
+                        "mouth",
+                        "etc.)",
+                        "to come to an end",
+                        "to open (one's eyes",
+                        "mouth",
+                        "etc.)",
+                        "to have a hole",
+                        "to form a gap",
+                        "to have an interval (between events)"
+                    ]
+                },
+                {
+                    "kanji": "開ける",
+                    "reading": "あける",
+                    "meanings": [
+                        "to open (a door",
+                        "etc.)",
+                        "to unwrap (e.g. parcel",
+                        "package)",
+                        "to unlock",
+                        "to open (for business",
+                        "etc.)",
+                        "to empty",
+                        "to remove",
+                        "to make space",
+                        "to make room",
+                        "to move out",
+                        "to clear out",
+                        "to be away from (e.g. one's house)",
+                        "to leave (temporarily)",
+                        "to dawn",
+                        "to grow light",
+                        "to end (of a period",
+                        "season)",
+                        "to begin (of the New Year)",
+                        "to leave (one's schedule) open",
+                        "to make time (for)",
+                        "to make (a hole)",
+                        "to open up (a hole)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "開花",
+                    "reading": "カイカ",
+                    "meanings": [
+                        "flowering",
+                        "blooming",
+                        "blossoming",
+                        "coming into bloom",
+                        "flowering (of a civilization",
+                        "talent",
+                        "etc.)",
+                        "blossoming",
+                        "blooming",
+                        "bearing fruit (of efforts)"
+                    ]
+                },
+                {
+                    "kanji": "開演",
+                    "reading": "カイエン",
+                    "meanings": [
+                        "curtain raising",
+                        "starting (e.g. play",
+                        "concert)"
+                    ]
+                },
+                {
+                    "kanji": "疎開",
+                    "reading": "ソカイ",
+                    "meanings": [
+                        "evacuation (to the country)",
+                        "spreading out (troops)",
+                        "deployment",
+                        "dispersal"
+                    ]
+                },
+                {
+                    "kanji": "非公開",
+                    "reading": "ヒコウカイ",
+                    "meanings": [
+                        "private",
+                        "non-public",
+                        "secret",
+                        "closed-door",
+                        "closed"
+                    ]
+                }
+            ]
+        }
+    }
+}

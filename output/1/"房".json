@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"房\"",
+        "strokes": 8,
+        "main_meanings": [
+            "tassel",
+            "tuft",
+            "fringe",
+            "bunch",
+            "lock (hair)",
+            "segment (orange)",
+            "house",
+            "room"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふさ"
+            ],
+            "on": [
+                "ボウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1809": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "772": "A New Dictionary of Kanji Usage",
+                "1819": "Classic Nelson (Andrew Nelson)",
+                "1116": "Essential Kanji (P.G. O’Neill)",
+                "1332": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "658": "Japanese Names (P.G. O’Neill)",
+                "1237": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1303": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1082": "Kanji in Context (Nishiguchi and Kono)",
+                "844": "Kodansha Compact Kanji Guide",
+                "2445": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1702": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1087": "Les Kanjis dans la tete (Yves Maniette)",
+                "11714X": "Morohashi",
+                "1946": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2053": "New Nelson (John Haig)",
+                "1078": "Remembering The Kanji (James Heisig)",
+                "1159": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1174": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3045": "2001 Kanji",
+                "4m4.2": "The Kanji Dictionary",
+                "2-1-7": "SKIP code",
+                "3-4-4": "SKIP code",
+                "3022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-28": "JIS X 0208-1997 kuten code",
+                "623f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "お、 のぶ、 わ"
+                ],
+                "chinese": [
+                    "fang2"
+                ],
+                "korean": [
+                    "bang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "户",
+                "戸"
+            ],
+            "meaning": "door,",
+            "parts": [
+                "一",
+                "尸",
+                "戸",
+                "方"
+            ],
+            "basis": "戶",
+            "kangxi_order": 63,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "房",
+                    "reading": "ふさ",
+                    "meanings": [
+                        "tuft (of hair",
+                        "threads",
+                        "etc.)",
+                        "fringe",
+                        "tassel",
+                        "bunch (of grapes",
+                        "bananas",
+                        "etc.)",
+                        "cluster (of flowers)",
+                        "segment (of a tangerine",
+                        "etc.)",
+                        "section"
+                    ]
+                },
+                {
+                    "kanji": "房尾巻猿",
+                    "reading": "ふさおまきざる",
+                    "meanings": [
+                        "brown capuchin",
+                        "tufted capuchin (Cebus apella)"
+                    ]
+                },
+                {
+                    "kanji": "一房",
+                    "reading": "ひとふさ",
+                    "meanings": [
+                        "one tuft (of hair",
+                        "threads",
+                        "etc.)",
+                        "one bunch (of grapes",
+                        "bananas",
+                        "etc.)",
+                        "one cluster (e.g. of flowers)",
+                        "one segment (of a tangerine",
+                        "etc.)",
+                        "one section"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "房",
+                    "reading": "ボウ",
+                    "meanings": [
+                        "chamber",
+                        "room",
+                        "cell (prison)",
+                        "atrium",
+                        "home of a monk",
+                        "monk",
+                        "Chinese \"room\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "坊主",
+                    "reading": "ボウズ",
+                    "meanings": [
+                        "Buddhist priest",
+                        "bonze",
+                        "close-cropped hair",
+                        "crew cut",
+                        "person with a shorn head",
+                        "boy",
+                        "sonny",
+                        "lad",
+                        "not catching anything",
+                        "the August 20-point card"
+                    ]
+                },
+                {
+                    "kanji": "書房",
+                    "reading": "ショボウ",
+                    "meanings": [
+                        "study",
+                        "library",
+                        "bookstore",
+                        "bookshop",
+                        "publishing company"
+                    ]
+                },
+                {
+                    "kanji": "工房",
+                    "reading": "コウボウ",
+                    "meanings": [
+                        "workshop",
+                        "studio",
+                        "atelier"
+                    ]
+                }
+            ]
+        }
+    }
+}

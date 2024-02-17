@@ -1,0 +1,244 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"退\"",
+        "strokes": 9,
+        "main_meanings": [
+            "retreat",
+            "withdraw",
+            "retire",
+            "resign",
+            "repel",
+            "expel",
+            "reject"
+        ],
+        "main_readings": {
+            "kun": [
+                "しりぞ.く",
+                "しりぞ.ける",
+                "ひ.く",
+                "の.く",
+                "の.ける",
+                "ど.く"
+            ],
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "839": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "769": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "746": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "613": "A New Dictionary of Kanji Usage",
+                "4684": "Classic Nelson (Andrew Nelson)",
+                "459": "Essential Kanji (P.G. O’Neill)",
+                "954": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1236A": "Japanese Names (P.G. O’Neill)",
+                "846": "Kanji and Kana (Spahn and Hadamitzky)",
+                "865": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "348": "Kanji in Context (Nishiguchi and Kono)",
+                "687": "Kodansha Compact Kanji Guide",
+                "3838": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1969": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2665": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1477": "Les Kanjis dans la tete (Yves Maniette)",
+                "38839P": "Morohashi",
+                "3094": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6040": "New Nelson (John Haig)",
+                "1465": "Remembering The Kanji (James Heisig)",
+                "1575": "Remembering The Kanji, 6th edition (James Heisig)",
+                "703": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3865": "2001 Kanji",
+                "2q6.3": "The Kanji Dictionary",
+                "3-3-6": "SKIP code",
+                "3730.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-64": "JIS X 0208-1997 kuten code",
+                "9000": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tui4"
+                ],
+                "korean": [
+                    "toe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "艮"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "退く",
+                    "reading": "しりぞく",
+                    "meanings": [
+                        "to step back",
+                        "to move back",
+                        "to retreat",
+                        "to withdraw (from the presence of a superior)",
+                        "to leave",
+                        "to exit",
+                        "to resign",
+                        "to retire",
+                        "to quit",
+                        "to concede"
+                    ]
+                },
+                {
+                    "kanji": "退ける",
+                    "reading": "しりぞける",
+                    "meanings": [
+                        "to refuse",
+                        "to reject",
+                        "to turn down",
+                        "to dismiss",
+                        "to repel",
+                        "to repulse",
+                        "to drive away",
+                        "to beat off",
+                        "to defeat",
+                        "to make (someone) leave",
+                        "to send away",
+                        "to turn away",
+                        "to force (someone) to leave their post",
+                        "to oust",
+                        "to remove",
+                        "to expel"
+                    ]
+                },
+                {
+                    "kanji": "退く",
+                    "reading": "ひく",
+                    "meanings": [
+                        "to move back",
+                        "to draw back",
+                        "to recede",
+                        "to fall back",
+                        "to retreat",
+                        "to lessen",
+                        "to subside",
+                        "to ebb",
+                        "to go down (e.g. of swelling)",
+                        "to resign",
+                        "to retire",
+                        "to quit"
+                    ]
+                },
+                {
+                    "kanji": "退く",
+                    "reading": "どく",
+                    "meanings": [
+                        "to step aside",
+                        "to move (i.e. out of the way)",
+                        "to make way",
+                        "to resign",
+                        "to retire",
+                        "to quit",
+                        "to secede"
+                    ]
+                },
+                {
+                    "kanji": "退ける",
+                    "reading": "のける",
+                    "meanings": [
+                        "to put something out of the way",
+                        "to move (something",
+                        "someone) aside",
+                        "to remove",
+                        "to exclude",
+                        "to take away",
+                        "to set aside",
+                        "to keep apart",
+                        "to remove (someone) from the group",
+                        "to shun",
+                        "to do well despite difficulties",
+                        "to accomplish despite adversity",
+                        "to do resolutely",
+                        "to do boldly"
+                    ]
+                },
+                {
+                    "kanji": "退く",
+                    "reading": "どく",
+                    "meanings": [
+                        "to step aside",
+                        "to move (i.e. out of the way)",
+                        "to make way",
+                        "to resign",
+                        "to retire",
+                        "to quit",
+                        "to secede"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "退役",
+                    "reading": "タイエキ",
+                    "meanings": [
+                        "retiring from military service"
+                    ]
+                },
+                {
+                    "kanji": "退院",
+                    "reading": "タイイン",
+                    "meanings": [
+                        "leaving hospital",
+                        "discharge from hospital"
+                    ]
+                },
+                {
+                    "kanji": "進退",
+                    "reading": "シンタイ",
+                    "meanings": [
+                        "advance or retreat",
+                        "moving forwards or backwards",
+                        "movement",
+                        "course of action",
+                        "behaviour",
+                        "conduct",
+                        "attitude",
+                        "remaining in one's post or resigning",
+                        "staying or leaving"
+                    ]
+                },
+                {
+                    "kanji": "勇退",
+                    "reading": "ユウタイ",
+                    "meanings": [
+                        "retiring voluntarily",
+                        "resigning one's post (to make way for others)",
+                        "stepping down",
+                        "bowing out"
+                    ]
+                }
+            ]
+        }
+    }
+}

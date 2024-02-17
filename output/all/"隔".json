@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"隔\"",
+        "strokes": 13,
+        "main_meanings": [
+            "isolate",
+            "alternate",
+            "distance",
+            "separate",
+            "gulf"
+        ],
+        "main_readings": {
+            "kun": [
+                "へだ.てる",
+                "へだ.たる"
+            ],
+            "on": [
+                "カク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1078": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1608": "A New Dictionary of Kanji Usage",
+                "5016": "Classic Nelson (Andrew Nelson)",
+                "1753": "Essential Kanji (P.G. O’Neill)",
+                "1879": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1589": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1696": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1236": "Kanji in Context (Nishiguchi and Kono)",
+                "748": "Kodansha Compact Kanji Guide",
+                "827": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "480": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "615": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1321": "Les Kanjis dans la tete (Yves Maniette)",
+                "41783X": "Morohashi",
+                "671": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6475": "New Nelson (John Haig)",
+                "1312": "Remembering The Kanji (James Heisig)",
+                "1409": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1683": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3653": "2001 Kanji",
+                "2d10.2": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "1-2-10": "SKIP code",
+                "7122.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-54": "JIS X 0208-1997 kuten code",
+                "9694": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ge2"
+                ],
+                "korean": [
+                    "gyeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 left) 阜 (阝"
+            ],
+            "meaning": "mound,",
+            "parts": [
+                "一",
+                "儿",
+                "冂",
+                "口",
+                "阡",
+                "鬲"
+            ],
+            "basis": "dam",
+            "kangxi_order": 170,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "隔てる",
+                    "reading": "へだてる",
+                    "meanings": [
+                        "to separate (by distance",
+                        "time",
+                        "etc.)",
+                        "to isolate",
+                        "to partition",
+                        "to divide",
+                        "to interpose",
+                        "to have between",
+                        "to alienate",
+                        "to estrange"
+                    ]
+                },
+                {
+                    "kanji": "隔たる",
+                    "reading": "へだたる",
+                    "meanings": [
+                        "to be distant"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "隔",
+                    "reading": "カク",
+                    "meanings": [
+                        "every other",
+                        "second",
+                        "alternate"
+                    ]
+                },
+                {
+                    "kanji": "隔月",
+                    "reading": "カクゲツ",
+                    "meanings": [
+                        "every second month",
+                        "every other month"
+                    ]
+                },
+                {
+                    "kanji": "遠隔",
+                    "reading": "エンカク",
+                    "meanings": [
+                        "distant",
+                        "remote",
+                        "isolated"
+                    ]
+                },
+                {
+                    "kanji": "縦隔",
+                    "reading": "ジュウカク",
+                    "meanings": [
+                        "mediastinum"
+                    ]
+                }
+            ]
+        }
+    }
+}

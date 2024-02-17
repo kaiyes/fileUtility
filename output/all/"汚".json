@@ -1,0 +1,232 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"汚\"",
+        "strokes": 6,
+        "main_meanings": [
+            "dirty",
+            "pollute",
+            "disgrace",
+            "rape",
+            "defile"
+        ],
+        "main_readings": {
+            "kun": [
+                "けが.す",
+                "けが.れる",
+                "けが.らわしい",
+                "よご.す",
+                "よご.れる",
+                "きたな.い"
+            ],
+            "on": [
+                "オ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1031": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1246": "A New Dictionary of Kanji Usage",
+                "2494": "Classic Nelson (Andrew Nelson)",
+                "1531": "Essential Kanji (P.G. O’Neill)",
+                "666": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "693": "Kanji and Kana (Spahn and Hadamitzky)",
+                "706": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "907": "Kanji in Context (Nishiguchi and Kono)",
+                "1158": "Kodansha Compact Kanji Guide",
+                "258": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "163": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "196": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1253": "Les Kanjis dans la tete (Yves Maniette)",
+                "17133": "Morohashi",
+                "222": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3047": "New Nelson (John Haig)",
+                "1245": "Remembering The Kanji (James Heisig)",
+                "1334": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1083": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "352": "2001 Kanji",
+                "3a3.5": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "1-3-4": "SKIP code",
+                "3112.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-88": "JIS X 0208-1997 kuten code",
+                "6c5a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wu1"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "二",
+                "勹",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "汙"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "汚す",
+                    "reading": "よごす",
+                    "meanings": [
+                        "to pollute",
+                        "to contaminate",
+                        "to soil",
+                        "to make dirty",
+                        "to stain",
+                        "to disgrace",
+                        "to dishonour",
+                        "to dishonor",
+                        "to defile"
+                    ]
+                },
+                {
+                    "kanji": "汚れる",
+                    "reading": "けがれる",
+                    "meanings": [
+                        "to be violated",
+                        "to be corrupted",
+                        "to be polluted",
+                        "to be stained"
+                    ]
+                },
+                {
+                    "kanji": "汚らわしい",
+                    "reading": "けがらわしい",
+                    "meanings": [
+                        "filthy",
+                        "unfair",
+                        "dirty",
+                        "untouchable",
+                        "disgusting",
+                        "nasty",
+                        "foul",
+                        "odious",
+                        "repulsive"
+                    ]
+                },
+                {
+                    "kanji": "汚す",
+                    "reading": "よごす",
+                    "meanings": [
+                        "to pollute",
+                        "to contaminate",
+                        "to soil",
+                        "to make dirty",
+                        "to stain",
+                        "to disgrace",
+                        "to dishonour",
+                        "to dishonor",
+                        "to defile"
+                    ]
+                },
+                {
+                    "kanji": "汚れる",
+                    "reading": "よごれる",
+                    "meanings": [
+                        "to get dirty",
+                        "to become dirty",
+                        "to become sullied",
+                        "to become corrupted",
+                        "to lose one's chastity"
+                    ]
+                },
+                {
+                    "kanji": "汚い",
+                    "reading": "きたない",
+                    "meanings": [
+                        "dirty",
+                        "filthy",
+                        "foul",
+                        "unclean",
+                        "disordered",
+                        "messy",
+                        "untidy",
+                        "poor (e.g. handwriting)",
+                        "indecent (language",
+                        "etc.)",
+                        "dirty",
+                        "vulgar",
+                        "coarse",
+                        "dastardly",
+                        "mean",
+                        "base",
+                        "underhanded",
+                        "stingy",
+                        "greedy"
+                    ]
+                },
+                {
+                    "kanji": "汚い戦争",
+                    "reading": "きたないせんそう",
+                    "meanings": [
+                        "Dirty War (period of state terrorism in Argentina; 1976-1983)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "汚水",
+                    "reading": "オスイ",
+                    "meanings": [
+                        "filthy water",
+                        "sewage"
+                    ]
+                },
+                {
+                    "kanji": "汚職",
+                    "reading": "オショク",
+                    "meanings": [
+                        "corruption"
+                    ]
+                },
+                {
+                    "kanji": "防汚",
+                    "reading": "ボウオ",
+                    "meanings": [
+                        "antifouling",
+                        "stain resistance",
+                        "stain-proofing",
+                        "anti-soiling"
+                    ]
+                },
+                {
+                    "kanji": "貪汚",
+                    "reading": "タンオ",
+                    "meanings": [
+                        "greed",
+                        "corruption"
+                    ]
+                }
+            ]
+        }
+    }
+}

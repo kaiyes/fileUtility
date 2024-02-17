@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"左\"",
+        "strokes": 5,
+        "main_meanings": [
+            "left"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひだり"
+            ],
+            "on": [
+                "サ",
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "18": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "21": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "22": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "477": "A New Dictionary of Kanji Usage",
+                "1455": "Classic Nelson (Andrew Nelson)",
+                "87": "Essential Kanji (P.G. O’Neill)",
+                "50": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "169": "Japanese Names (P.G. O’Neill)",
+                "3.12": "Japanese for Busy People",
+                "75": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "36": "Kanji in Context (Nishiguchi and Kono)",
+                "552": "Kodansha Compact Kanji Guide",
+                "3692": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1887": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2567": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "77": "Remembering The Kanji (James Heisig)",
+                "8720": "Morohashi",
+                "2974": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1535": "New Nelson (John Haig)",
+                "81": "Remembering The Kanji, 6th edition (James Heisig)",
+                "374": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "39": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1472": "2001 Kanji",
+                "0a5.20": "The Kanji Dictionary",
+                "3-2-3": "SKIP code",
+                "4001.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-24": "JIS X 0208-1997 kuten code",
+                "5de6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "そ"
+                ],
+                "chinese": [
+                    "zuo3"
+                ],
+                "korean": [
+                    "jwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "work",
+            "parts": [
+                "一",
+                "ノ",
+                "工"
+            ],
+            "basis": "工",
+            "kangxi_order": 48,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "左",
+                    "reading": "ひだり",
+                    "meanings": [
+                        "left",
+                        "left-hand side",
+                        "left hand",
+                        "the left (wing)",
+                        "leftist",
+                        "fondness for alcohol",
+                        "drinker"
+                    ]
+                },
+                {
+                    "kanji": "左腕",
+                    "reading": "さわん",
+                    "meanings": [
+                        "left arm",
+                        "left-handed (baseball pitcher)"
+                    ]
+                },
+                {
+                    "kanji": "向かって左",
+                    "reading": "むかってひだり",
+                    "meanings": [
+                        "on the left as one faces (it)"
+                    ]
+                },
+                {
+                    "kanji": "同左",
+                    "reading": "どうひだり",
+                    "meanings": [
+                        "same as on the left",
+                        "(in vertical writing) same as below"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "左",
+                    "reading": "サ",
+                    "meanings": [
+                        "left (esp. in vertical Japanese writing)",
+                        "the following"
+                    ]
+                },
+                {
+                    "kanji": "左右",
+                    "reading": "サユウ",
+                    "meanings": [
+                        "left and right",
+                        "right and left",
+                        "(asserting) control",
+                        "influence",
+                        "domination",
+                        "one's attendants",
+                        "people accompanying one",
+                        "(serving at someone's) side",
+                        "equivocation"
+                    ]
+                },
+                {
+                    "kanji": "極左",
+                    "reading": "キョクサ",
+                    "meanings": [
+                        "extreme left",
+                        "ultraleft"
+                    ]
+                },
+                {
+                    "kanji": "最左",
+                    "reading": "サイサ",
+                    "meanings": [
+                        "left-most"
+                    ]
+                },
+                {
+                    "kanji": "左官",
+                    "reading": "サカン",
+                    "meanings": [
+                        "plasterer"
+                    ]
+                }
+            ]
+        }
+    }
+}

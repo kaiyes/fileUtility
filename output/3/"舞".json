@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"舞\"",
+        "strokes": 15,
+        "main_meanings": [
+            "dance",
+            "flit",
+            "circle",
+            "wheel"
+        ],
+        "main_readings": {
+            "kun": [
+                "ま.う",
+                "-ま.う",
+                "まい"
+            ],
+            "on": [
+                "ブ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1761": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "746": "A New Dictionary of Kanji Usage",
+                "3862": "Classic Nelson (Andrew Nelson)",
+                "1003": "Essential Kanji (P.G. O’Neill)",
+                "856": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2391": "Japanese Names (P.G. O’Neill)",
+                "810": "Kanji and Kana (Spahn and Hadamitzky)",
+                "829": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "981": "Kanji in Context (Nishiguchi and Kono)",
+                "1807": "Kodansha Compact Kanji Guide",
+                "2666": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1358": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1844": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1790": "Les Kanjis dans la tete (Yves Maniette)",
+                "30342P": "Morohashi",
+                "2146": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4926": "New Nelson (John Haig)",
+                "1774": "Remembering The Kanji (James Heisig)",
+                "1912": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1796": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2355": "2001 Kanji",
+                "0a15.1": "The Kanji Dictionary",
+                "2-2-13": "SKIP code",
+                "2-8-7": "SKIP code",
+                "8025.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-81": "JIS X 0208-1997 kuten code",
+                "821e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wu3"
+                ],
+                "korean": [
+                    "mu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "opposite",
+            "parts": [
+                "一",
+                "｜",
+                "ノ",
+                "二",
+                "夕",
+                "舛",
+                "無",
+                "乞"
+            ],
+            "basis": "舛",
+            "kangxi_order": 136,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "舞う",
+                    "reading": "まう",
+                    "meanings": [
+                        "to dance (orig. a whirling dance)",
+                        "to whirl (in the wind)",
+                        "to flutter (about)",
+                        "to swirl",
+                        "to fly",
+                        "to circle",
+                        "to wheel"
+                    ]
+                },
+                {
+                    "kanji": "舞",
+                    "reading": "まい",
+                    "meanings": [
+                        "dancing",
+                        "dance"
+                    ]
+                },
+                {
+                    "kanji": "舞い上がる",
+                    "reading": "まいあがる",
+                    "meanings": [
+                        "to soar",
+                        "to fly high",
+                        "to be whirled up",
+                        "to make merry",
+                        "to be ecstatic",
+                        "to be in high spirits"
+                    ]
+                },
+                {
+                    "kanji": "立ち居振る舞い",
+                    "reading": "たちいふるまい",
+                    "meanings": [
+                        "movements",
+                        "bearing",
+                        "deportment",
+                        "carriage",
+                        "behavior",
+                        "behaviour",
+                        "demeanor",
+                        "demeanour",
+                        "manners"
+                    ]
+                },
+                {
+                    "kanji": "獅子舞",
+                    "reading": "ししまい",
+                    "meanings": [
+                        "lion dance",
+                        "traditional dance performed by one or more dancers wearing a guardian lion costume"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "舞台裏",
+                    "reading": "ブタイウラ",
+                    "meanings": [
+                        "offstage",
+                        "backstage",
+                        "behind the scenes"
+                    ]
+                },
+                {
+                    "kanji": "舞台",
+                    "reading": "ブタイ",
+                    "meanings": [
+                        "stage (of a theatre",
+                        "concert hall",
+                        "etc.)",
+                        "(stage) performance",
+                        "setting (of a story)",
+                        "scene",
+                        "sphere (of activity)",
+                        "stage (e.g. political stage)",
+                        "scene",
+                        "arena",
+                        "world"
+                    ]
+                },
+                {
+                    "kanji": "演舞",
+                    "reading": "エンブ",
+                    "meanings": [
+                        "dance performance"
+                    ]
+                },
+                {
+                    "kanji": "歌舞",
+                    "reading": "カブ",
+                    "meanings": [
+                        "singing and dancing"
+                    ]
+                }
+            ]
+        }
+    }
+}

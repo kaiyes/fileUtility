@@ -1,0 +1,96 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"侑\"",
+        "strokes": 8,
+        "main_meanings": [
+            "urge to eat"
+        ],
+        "main_readings": {
+            "kun": [
+                "すす.める",
+                "たす.ける"
+            ],
+            "on": [
+                "ユウ",
+                "ウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "411": "Classic Nelson (Andrew Nelson)",
+                "557": "Japanese Names (P.G. O’Neill)",
+                "2018": "Kanji and Kana (Spahn and Hadamitzky)",
+                "101": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "69": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "73": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "594": "Morohashi",
+                "91": "New Japanese English Character Dictionary (Jack Halpern)",
+                "177": "New Nelson (John Haig)",
+                "3002": "Remembering The Kanji (James Heisig)"
+            },
+            "classifications": {
+                "2a6.5": "The Kanji Dictionary",
+                "1-2-6": "SKIP code",
+                "2422.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-48-50": "JIS X 0208-1997 kuten code",
+                "4f91": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつむ、 すすむ、 ゆき、 ゆ"
+                ],
+                "chinese": [
+                    "you4"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "ノ",
+                "化",
+                "月"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "侑觴",
+                    "reading": "ユウショウ",
+                    "meanings": [
+                        "urging one to drink more good wine during a banquet"
+                    ]
+                },
+                {
+                    "kanji": "侑食",
+                    "reading": "ユウショク",
+                    "meanings": [
+                        "assisting at dinner",
+                        "dining with a superior"
+                    ]
+                }
+            ]
+        }
+    }
+}

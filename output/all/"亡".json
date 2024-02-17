@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"亡\"",
+        "strokes": 3,
+        "main_meanings": [
+            "deceased",
+            "the late",
+            "dying",
+            "perish"
+        ],
+        "main_readings": {
+            "kun": [
+                "な.い",
+                "な.き-",
+                "ほろ.びる",
+                "ほろ.ぶ",
+                "ほろ.ぼす"
+            ],
+            "on": [
+                "ボウ",
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "985": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "973": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "887": "A New Dictionary of Kanji Usage",
+                "281": "Classic Nelson (Andrew Nelson)",
+                "979": "Essential Kanji (P.G. O’Neill)",
+                "297": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "672": "Kanji and Kana (Spahn and Hadamitzky)",
+                "684": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "582": "Kanji in Context (Nishiguchi and Kono)",
+                "37": "Kodansha Compact Kanji Guide",
+                "4210": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2126": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2874": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "496": "Les Kanjis dans la tete (Yves Maniette)",
+                "287": "Morohashi",
+                "3402": "New Japanese English Character Dictionary (Jack Halpern)",
+                "86": "New Nelson (John Haig)",
+                "485": "Remembering The Kanji (James Heisig)",
+                "524": "Remembering The Kanji, 6th edition (James Heisig)",
+                "829": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "475": "2001 Kanji",
+                "2j1.1": "The Kanji Dictionary",
+                "4-3-2": "SKIP code",
+                "4-3-4": "SKIP code",
+                "2-2-1": "SKIP code",
+                "0071.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-20": "JIS X 0208-1997 kuten code",
+                "4ea1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wang2",
+                    "wu2"
+                ],
+                "korean": [
+                    "mang",
+                    "mu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lid",
+            "parts": [
+                "亠",
+                "亡"
+            ],
+            "basis": "亠",
+            "kangxi_order": 8,
+            "variants": [
+                "兦"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "亡い",
+                    "reading": "ない",
+                    "meanings": [
+                        "dead"
+                    ]
+                },
+                {
+                    "kanji": "滅びる",
+                    "reading": "ほろびる",
+                    "meanings": [
+                        "to go to ruin",
+                        "to go under",
+                        "to fall",
+                        "to be destroyed",
+                        "to die out",
+                        "to become extinct",
+                        "to perish"
+                    ]
+                },
+                {
+                    "kanji": "滅ぶ",
+                    "reading": "ほろぶ",
+                    "meanings": [
+                        "to be ruined",
+                        "to go under",
+                        "to perish",
+                        "to be destroyed"
+                    ]
+                },
+                {
+                    "kanji": "滅ぼす",
+                    "reading": "ほろぼす",
+                    "meanings": [
+                        "to destroy",
+                        "to overthrow",
+                        "to wreck",
+                        "to ruin"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "亡",
+                    "reading": "ボウ",
+                    "meanings": [
+                        "death",
+                        "the late",
+                        "the deceased"
+                    ]
+                },
+                {
+                    "kanji": "亡命",
+                    "reading": "ボウメイ",
+                    "meanings": [
+                        "fleeing from one's country",
+                        "seeking asylum",
+                        "defection",
+                        "emigration (for political reasons)",
+                        "(going into) exile",
+                        "becoming a (political) refugee"
+                    ]
+                },
+                {
+                    "kanji": "存亡",
+                    "reading": "ソンボウ",
+                    "meanings": [
+                        "life or death",
+                        "existence",
+                        "destiny"
+                    ]
+                },
+                {
+                    "kanji": "興亡",
+                    "reading": "コウボウ",
+                    "meanings": [
+                        "rise and fall",
+                        "ups and downs"
+                    ]
+                },
+                {
+                    "kanji": "亡者",
+                    "reading": "モウジャ",
+                    "meanings": [
+                        "the dead",
+                        "ghost",
+                        "person who is obsessed (with money",
+                        "power",
+                        "etc.)",
+                        "person with a blind lust (for)"
+                    ]
+                },
+                {
+                    "kanji": "亡者船",
+                    "reading": "モウジャブネ",
+                    "meanings": [
+                        "ship of the dead which appears if you go fishing the night of the Bon festival"
+                    ]
+                },
+                {
+                    "kanji": "焼亡",
+                    "reading": "ショウボウ",
+                    "meanings": [
+                        "destruction by fire"
+                    ]
+                },
+                {
+                    "kanji": "損亡",
+                    "reading": "ソンモウ",
+                    "meanings": [
+                        "loss"
+                    ]
+                }
+            ]
+        }
+    }
+}

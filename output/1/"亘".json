@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"亘\"",
+        "strokes": 6,
+        "main_meanings": [
+            "span",
+            "range",
+            "extend over"
+        ],
+        "main_readings": {
+            "kun": [
+                "わた.る",
+                "もと.める"
+            ],
+            "on": [
+                "コウ",
+                "カン",
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "30": "Classic Nelson (Andrew Nelson)",
+                "262": "Morohashi",
+                "2006": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2438": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1232": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1697": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "32": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1939": "New Japanese English Character Dictionary (Jack Halpern)",
+                "79": "New Nelson (John Haig)"
+            },
+            "classifications": {
+                "4c2.4": "The Kanji Dictionary",
+                "2-1-5": "SKIP code",
+                "1010.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-43": "JIS X 0208-1997 kuten code",
+                "4e98": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぶ、 とうる、 わたる、 ひさし"
+                ],
+                "chinese": [
+                    "gen4"
+                ],
+                "korean": [
+                    "seon",
+                    "hwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "two",
+            "parts": [
+                "一",
+                "二",
+                "日"
+            ],
+            "basis": "二",
+            "kangxi_order": null,
+            "variants": [
+                "亙"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "渡る",
+                    "reading": "わたる",
+                    "meanings": [
+                        "to cross over",
+                        "to go across",
+                        "to extend",
+                        "to cover",
+                        "to range",
+                        "to span"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "亘古",
+                    "reading": "コウコ",
+                    "meanings": [
+                        "for ever",
+                        "from ancient times"
+                    ]
+                },
+                {
+                    "kanji": "連亘",
+                    "reading": "レンコウ",
+                    "meanings": [
+                        "extending in a row"
+                    ]
+                }
+            ]
+        }
+    }
+}

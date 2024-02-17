@@ -1,0 +1,280 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"荒\"",
+        "strokes": 9,
+        "main_meanings": [
+            "laid waste",
+            "rough",
+            "rude",
+            "wild"
+        ],
+        "main_readings": {
+            "kun": [
+                "あ.らす",
+                "あ.れる",
+                "あら.い",
+                "すさ.ぶ",
+                "すさ.む",
+                "あ.らし"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1253": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "901": "A New Dictionary of Kanji Usage",
+                "3941": "Classic Nelson (Andrew Nelson)",
+                "1028": "Essential Kanji (P.G. O’Neill)",
+                "866": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "935": "Japanese Names (P.G. O’Neill)",
+                "1377": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1464": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1666": "Kanji in Context (Nishiguchi and Kono)",
+                "651": "Kodansha Compact Kanji Guide",
+                "2810": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1447": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1950": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "499": "Les Kanjis dans la tete (Yves Maniette)",
+                "30953P": "Morohashi",
+                "2260": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5034": "New Nelson (John Haig)",
+                "488": "Remembering The Kanji (James Heisig)",
+                "527": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1291": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1957": "2001 Kanji",
+                "3k6.18": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "4421.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-51": "JIS X 0208-1997 kuten code",
+                "8352": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ら"
+                ],
+                "chinese": [
+                    "huang1"
+                ],
+                "korean": [
+                    "hwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "川",
+                "亡",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "荒らす",
+                    "reading": "あらす",
+                    "meanings": [
+                        "to lay waste",
+                        "to devastate",
+                        "to damage",
+                        "to invade",
+                        "to break into",
+                        "to troll (e.g. web forums)",
+                        "to spam"
+                    ]
+                },
+                {
+                    "kanji": "粗筋",
+                    "reading": "あらすじ",
+                    "meanings": [
+                        "outline",
+                        "summary",
+                        "argument"
+                    ]
+                },
+                {
+                    "kanji": "荒れる",
+                    "reading": "あれる",
+                    "meanings": [
+                        "to become stormy",
+                        "to become rough (of the sea)",
+                        "to fall into ruin",
+                        "to become neglected",
+                        "to become dilapidated",
+                        "to become rough (of skin)",
+                        "to get chapped",
+                        "to become unruly",
+                        "to become violent",
+                        "to go wild",
+                        "to get out of control",
+                        "to become unsettled (e.g. of one's life)",
+                        "to become disordered"
+                    ]
+                },
+                {
+                    "kanji": "荒い",
+                    "reading": "あらい",
+                    "meanings": [
+                        "rough",
+                        "wild",
+                        "violent",
+                        "rude",
+                        "coarse",
+                        "harsh",
+                        "fierce",
+                        "heavy (e.g. breathing)",
+                        "immoderate",
+                        "extravagant",
+                        "reckless"
+                    ]
+                },
+                {
+                    "kanji": "荒石",
+                    "reading": "あらいし",
+                    "meanings": [
+                        "unprocessed stone",
+                        "rubble"
+                    ]
+                },
+                {
+                    "kanji": "荒ぶ",
+                    "reading": "すさぶ",
+                    "meanings": [
+                        "to grow wild",
+                        "to run to waste",
+                        "to become degenerate",
+                        "to become rough (of art",
+                        "craft",
+                        "etc.)",
+                        "to lose refinement",
+                        "to deteriorate (of skill)",
+                        "to intensify (of wind",
+                        "rain",
+                        "etc.)",
+                        "to become more severe",
+                        "to do as one pleases",
+                        "to amuse oneself",
+                        "to play around"
+                    ]
+                },
+                {
+                    "kanji": "荒む",
+                    "reading": "すさむ",
+                    "meanings": [
+                        "to grow wild",
+                        "to run to waste",
+                        "to become degenerate",
+                        "to become rough (of art",
+                        "craft",
+                        "etc.)",
+                        "to lose refinement",
+                        "to deteriorate (of skill)",
+                        "to intensify (of wind",
+                        "rain",
+                        "etc.)",
+                        "to become more severe"
+                    ]
+                },
+                {
+                    "kanji": "荒らし",
+                    "reading": "あらし",
+                    "meanings": [
+                        "(Internet) troll",
+                        "disturber",
+                        "raising havoc",
+                        "laying waste",
+                        "trolling",
+                        "vandalism",
+                        "robbery",
+                        "holdup",
+                        "robber",
+                        "thief"
+                    ]
+                },
+                {
+                    "kanji": "荒らし回る",
+                    "reading": "あらしまわる",
+                    "meanings": [
+                        "to break into (houses here and there)",
+                        "to rampage"
+                    ]
+                },
+                {
+                    "kanji": "山荒",
+                    "reading": "やまあらし",
+                    "meanings": [
+                        "porcupine",
+                        "hedgehog"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "荒廃",
+                    "reading": "コウハイ",
+                    "meanings": [
+                        "ruin",
+                        "destruction",
+                        "devastation",
+                        "waste",
+                        "decay"
+                    ]
+                },
+                {
+                    "kanji": "荒野",
+                    "reading": "コウヤ",
+                    "meanings": [
+                        "wasteland",
+                        "wilderness",
+                        "deserted land",
+                        "prairie",
+                        "vast plain",
+                        "wilds",
+                        "desert",
+                        "wild land"
+                    ]
+                },
+                {
+                    "kanji": "破天荒",
+                    "reading": "ハテンコウ",
+                    "meanings": [
+                        "unheard-of",
+                        "unprecedented",
+                        "daring",
+                        "wild",
+                        "uninhibited",
+                        "unconventional",
+                        "reckless"
+                    ]
+                },
+                {
+                    "kanji": "救荒",
+                    "reading": "キュウコウ",
+                    "meanings": [
+                        "famine relief"
+                    ]
+                }
+            ]
+        }
+    }
+}

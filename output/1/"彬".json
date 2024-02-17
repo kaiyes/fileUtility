@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"彬\"",
+        "strokes": 11,
+        "main_meanings": [
+            "refined",
+            "gentle"
+        ],
+        "main_readings": {
+            "kun": [
+                "うるわ.しい",
+                "あき.らか"
+            ],
+            "on": [
+                "ヒン",
+                "フン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1370": "Japanese Names (P.G. O’Neill)",
+                "2069": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1201": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "653": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "868": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "9996": "Morohashi",
+                "960": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1717": "New Nelson (John Haig)",
+                "2529": "Remembering The Kanji (James Heisig)",
+                "2589": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a7.3": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "1-8-3": "SKIP code",
+                "4292.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-43": "JIS X 0208-1997 kuten code",
+                "5f6c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 あき、 よし"
+                ],
+                "chinese": [
+                    "bin1"
+                ],
+                "korean": [
+                    "bin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bristle,",
+            "parts": [
+                "彡",
+                "木"
+            ],
+            "basis": "彡",
+            "kangxi_order": null,
+            "variants": [
+                "斌"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "彬蔚",
+                    "reading": "ヒンウツ",
+                    "meanings": [
+                        "erudite and refined",
+                        "handsome"
+                    ]
+                }
+            ]
+        }
+    }
+}

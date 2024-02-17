@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"涯\"",
+        "strokes": 11,
+        "main_meanings": [
+            "horizon",
+            "shore",
+            "limit",
+            "bound"
+        ],
+        "main_readings": {
+            "kun": [
+                "はて"
+            ],
+            "on": [
+                "ガイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1069": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1533": "A New Dictionary of Kanji Usage",
+                "2584": "Classic Nelson (Andrew Nelson)",
+                "1824": "Essential Kanji (P.G. O’Neill)",
+                "1477": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1461": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1555": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1497": "Kanji in Context (Nishiguchi and Kono)",
+                "1204": "Kodansha Compact Kanji Guide",
+                "623": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "376": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "469": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "159": "Les Kanjis dans la tete (Yves Maniette)",
+                "17582": "Morohashi",
+                "512": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3181": "New Nelson (John Haig)",
+                "157": "Remembering The Kanji (James Heisig)",
+                "169": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1452": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "372": "2001 Kanji",
+                "3a8.33": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3111.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-22": "JIS X 0208-1997 kuten code",
+                "6daf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ya2"
+                ],
+                "korean": [
+                    "ae",
+                    "eui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "厂",
+                "土",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "漄"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "涯",
+                    "reading": "はて",
+                    "meanings": [
+                        "horizon"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "際涯",
+                    "reading": "サイガイ",
+                    "meanings": [
+                        "limits",
+                        "boundary",
+                        "end"
+                    ]
+                },
+                {
+                    "kanji": "水涯",
+                    "reading": "スイガイ",
+                    "meanings": [
+                        "water's edge"
+                    ]
+                }
+            ]
+        }
+    }
+}

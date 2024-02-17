@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"担\"",
+        "strokes": 8,
+        "main_meanings": [
+            "shouldering",
+            "carry",
+            "raise",
+            "bear"
+        ],
+        "main_readings": {
+            "kun": [
+                "かつ.ぐ",
+                "にな.う"
+            ],
+            "on": [
+                "タン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "941": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "929": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "673": "A New Dictionary of Kanji Usage",
+                "1879": "Classic Nelson (Andrew Nelson)",
+                "1631": "Essential Kanji (P.G. O’Neill)",
+                "564": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "581": "Japanese Names (P.G. O’Neill)",
+                "1274": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1348": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1050": "Kanji in Context (Nishiguchi and Kono)",
+                "877": "Kodansha Compact Kanji Guide",
+                "376": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "238": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "283": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "675": "Les Kanjis dans la tete (Yves Maniette)",
+                "11941": "Morohashi",
+                "318": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2121": "New Nelson (John Haig)",
+                "668": "Remembering The Kanji (James Heisig)",
+                "721": "Remembering The Kanji, 6th edition (James Heisig)",
+                "867": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1372": "2001 Kanji",
+                "3c5.20": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5601.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-20": "JIS X 0208-1997 kuten code",
+                "62c5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dan4",
+                    "dan1",
+                    "dan3"
+                ],
+                "korean": [
+                    "dan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "一",
+                "扎",
+                "日"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "擔"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "担ぐ",
+                    "reading": "かつぐ",
+                    "meanings": [
+                        "to shoulder",
+                        "to carry on one's shoulder",
+                        "to nominate for a position",
+                        "to choose as a representative",
+                        "to take (someone) for a ride",
+                        "to deceive",
+                        "to take in",
+                        "to be caught up in superstition"
+                    ]
+                },
+                {
+                    "kanji": "担う",
+                    "reading": "になう",
+                    "meanings": [
+                        "to carry on one's shoulder",
+                        "to shoulder",
+                        "to bear",
+                        "to bear (burden",
+                        "responsibility",
+                        "etc.)",
+                        "to take upon oneself"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "担当者",
+                    "reading": "タントウシャ",
+                    "meanings": [
+                        "person in charge (of an area of work",
+                        "etc.)",
+                        "person responsible",
+                        "contact (person)"
+                    ]
+                },
+                {
+                    "kanji": "担当",
+                    "reading": "タントウ",
+                    "meanings": [
+                        "being in charge (of an area of responsibility)",
+                        "being responsible (for a work role",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "同担",
+                    "reading": "ドウタン",
+                    "meanings": [
+                        "someone who supports the same member (of an idol group",
+                        "etc.) as oneself"
+                    ]
+                },
+                {
+                    "kanji": "自担",
+                    "reading": "ジタン",
+                    "meanings": [
+                        "one's favourite member of an idol group"
+                    ]
+                }
+            ]
+        }
+    }
+}

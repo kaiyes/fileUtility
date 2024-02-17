@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"梓\"",
+        "strokes": 11,
+        "main_meanings": [
+            "catalpa tree",
+            "woodblock printing"
+        ],
+        "main_readings": {
+            "kun": [
+                "あずさ"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2268": "Classic Nelson (Andrew Nelson)",
+                "1366": "Japanese Names (P.G. O’Neill)",
+                "2113": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1207": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "655": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "873": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1512": "Les Kanjis dans la tete (Yves Maniette)",
+                "14845": "Morohashi",
+                "962": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2688": "New Nelson (John Haig)",
+                "1498": "Remembering The Kanji (James Heisig)",
+                "1614": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a7.5": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "4094.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-20": "JIS X 0208-1997 kuten code",
+                "6893": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zi3"
+                ],
+                "korean": [
+                    "jae",
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "十",
+                "木",
+                "立",
+                "辛"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "梓",
+                    "reading": "あずさ",
+                    "meanings": [
+                        "Japanese cherry birch (Betula grossa)",
+                        "yellow catalpa (Catalpa ovata)",
+                        "Japanese mallotus (Mallotus japonicus)",
+                        "printing block",
+                        "catalpa bow",
+                        "catalpa medium"
+                    ]
+                },
+                {
+                    "kanji": "梓巫女",
+                    "reading": "あずさみこ",
+                    "meanings": [
+                        "female medium who summons spirits by sounding the string of a catalpa bow"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "梓",
+                    "reading": "アズサ",
+                    "meanings": [
+                        "Japanese cherry birch (Betula grossa)",
+                        "yellow catalpa (Catalpa ovata)",
+                        "Japanese mallotus (Mallotus japonicus)",
+                        "printing block",
+                        "catalpa bow",
+                        "catalpa medium"
+                    ]
+                },
+                {
+                    "kanji": "梓宮",
+                    "reading": "シキュウ",
+                    "meanings": [
+                        "Emperor's coffin (made of catalpa wood)"
+                    ]
+                },
+                {
+                    "kanji": "上梓",
+                    "reading": "ジョウシ",
+                    "meanings": [
+                        "wood-block printing",
+                        "publication"
+                    ]
+                }
+            ]
+        }
+    }
+}

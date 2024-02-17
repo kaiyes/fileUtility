@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"給\"",
+        "strokes": 12,
+        "main_meanings": [
+            "salary",
+            "wage",
+            "gift",
+            "allow",
+            "grant",
+            "bestow on"
+        ],
+        "main_readings": {
+            "kun": [
+                "たま.う",
+                "たも.う",
+                "-たま.え"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "585": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "481": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "457": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "581": "A New Dictionary of Kanji Usage",
+                "3538": "Classic Nelson (Andrew Nelson)",
+                "348": "Essential Kanji (P.G. O’Neill)",
+                "818": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2149": "Japanese Names (P.G. O’Neill)",
+                "3.1": "Japanese for Busy People",
+                "346": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "618": "Kanji in Context (Nishiguchi and Kono)",
+                "1531": "Kodansha Compact Kanji Guide",
+                "1708": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "914": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1237": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1361": "Les Kanjis dans la tete (Yves Maniette)",
+                "27432": "Morohashi",
+                "1350": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4489": "New Nelson (John Haig)",
+                "1349": "Remembering The Kanji (James Heisig)",
+                "1449": "Remembering The Kanji, 6th edition (James Heisig)",
+                "404": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "583": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2777": "2001 Kanji",
+                "6a6.7": "The Kanji Dictionary",
+                "1-6-6": "SKIP code",
+                "2896.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-75": "JIS X 0208-1997 kuten code",
+                "7d66": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "きい"
+                ],
+                "chinese": [
+                    "gei3",
+                    "ji3"
+                ],
+                "korean": [
+                    "geub"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "一",
+                "个",
+                "口",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "給う",
+                    "reading": "たまう",
+                    "meanings": [
+                        "to give",
+                        "to do ..."
+                    ]
+                },
+                {
+                    "kanji": "給ふ",
+                    "reading": "たまう",
+                    "meanings": [
+                        "to give",
+                        "to receive"
+                    ]
+                },
+                {
+                    "kanji": "給う",
+                    "reading": "たもう",
+                    "meanings": [
+                        "to give",
+                        "to do ..."
+                    ]
+                },
+                {
+                    "kanji": "給ふ",
+                    "reading": "たまう",
+                    "meanings": [
+                        "to give",
+                        "to receive"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "給",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "wage",
+                        "recompense"
+                    ]
+                },
+                {
+                    "kanji": "給食",
+                    "reading": "キュウショク",
+                    "meanings": [
+                        "provision of lunch (e.g. at office",
+                        "school",
+                        "etc.)",
+                        "providing a meal",
+                        "lunch service"
+                    ]
+                },
+                {
+                    "kanji": "自給",
+                    "reading": "ジキュウ",
+                    "meanings": [
+                        "self-support"
+                    ]
+                },
+                {
+                    "kanji": "有給",
+                    "reading": "ユウキュウ",
+                    "meanings": [
+                        "salaried",
+                        "paid",
+                        "with pay",
+                        "paid vacation",
+                        "paid holiday",
+                        "paid leave"
+                    ]
+                }
+            ]
+        }
+    }
+}

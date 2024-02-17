@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"絵\"",
+        "strokes": 12,
+        "main_meanings": [
+            "picture",
+            "drawing",
+            "painting",
+            "sketch"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カイ",
+                "エ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "172": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "95": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "89": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "976": "A New Dictionary of Kanji Usage",
+                "3537": "Classic Nelson (Andrew Nelson)",
+                "380": "Essential Kanji (P.G. O’Neill)",
+                "819": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2332": "Japanese Names (P.G. O’Neill)",
+                "345": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "617": "Kanji in Context (Nishiguchi and Kono)",
+                "1530": "Kodansha Compact Kanji Guide",
+                "1704": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "910": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1233": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1358": "Les Kanjis dans la tete (Yves Maniette)",
+                "27464P": "Morohashi",
+                "1346": "Remembering The Kanji (James Heisig)",
+                "4488": "New Nelson (John Haig)",
+                "1446": "Remembering The Kanji, 6th edition (James Heisig)",
+                "214": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2771": "2001 Kanji",
+                "6a6.8": "The Kanji Dictionary",
+                "1-6-6": "SKIP code",
+                "2893.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-08": "JIS X 0208-1997 kuten code",
+                "7d75": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hui4"
+                ],
+                "korean": [
+                    "hoe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "二",
+                "个",
+                "厶",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": [
+                "繪"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "絵画",
+                    "reading": "カイガ",
+                    "meanings": [
+                        "painting",
+                        "picture"
+                    ]
+                },
+                {
+                    "kanji": "絵画館",
+                    "reading": "カイガカン",
+                    "meanings": [
+                        "art or picture gallery"
+                    ]
+                },
+                {
+                    "kanji": "絵",
+                    "reading": "エ",
+                    "meanings": [
+                        "picture",
+                        "drawing",
+                        "painting",
+                        "sketch",
+                        "image (TV",
+                        "film",
+                        "etc.)",
+                        "picture",
+                        "footage"
+                    ]
+                },
+                {
+                    "kanji": "絵の具",
+                    "reading": "エノグ",
+                    "meanings": [
+                        "paint",
+                        "coloring materials",
+                        "colors",
+                        "colours"
+                    ]
+                },
+                {
+                    "kanji": "巴",
+                    "reading": "トモエ",
+                    "meanings": [
+                        "tomoe",
+                        "heraldic design composed of two or more interlocked comma-shaped figures"
+                    ]
+                },
+                {
+                    "kanji": "踏み絵",
+                    "reading": "フミエ",
+                    "meanings": [
+                        "fumi-e",
+                        "fumie",
+                        "tablet bearing Christian images",
+                        "on which Edo-period authorities forced suspected Christians to trample",
+                        "allegiance test",
+                        "loyalty test"
+                    ]
+                }
+            ]
+        }
+    }
+}

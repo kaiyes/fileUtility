@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"諒\"",
+        "strokes": 15,
+        "main_meanings": [
+            "fact",
+            "reality",
+            "understand",
+            "appreciate"
+        ],
+        "main_readings": {
+            "kun": [
+                "あきら.か",
+                "まことに"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4387": "Classic Nelson (Andrew Nelson)",
+                "2326": "Japanese Names (P.G. O’Neill)",
+                "2243": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1982": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1059": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1425": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "35653": "Morohashi",
+                "1575": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5641": "New Nelson (John Haig)",
+                "2710": "Remembering The Kanji (James Heisig)",
+                "2746": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "7a8.14": "The Kanji Dictionary",
+                "1-7-8": "SKIP code",
+                "0069.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-42": "JIS X 0208-1997 kuten code",
+                "8ad2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 まさ、 まこと"
+                ],
+                "chinese": [
+                    "liang4"
+                ],
+                "korean": [
+                    "ryang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "亠",
+                "口",
+                "小",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "諒",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "fact",
+                        "truth",
+                        "understanding",
+                        "consideration"
+                    ]
+                },
+                {
+                    "kanji": "了解",
+                    "reading": "リョウカイ",
+                    "meanings": [
+                        "comprehension",
+                        "consent",
+                        "understanding",
+                        "agreement",
+                        "OK",
+                        "roger"
+                    ]
+                },
+                {
+                    "kanji": "憫諒",
+                    "reading": "ビンリョウ",
+                    "meanings": [
+                        "pity",
+                        "compassion",
+                        "sympathizing"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"惟\"",
+        "strokes": 11,
+        "main_meanings": [
+            "consider",
+            "reflect",
+            "think"
+        ],
+        "main_readings": {
+            "kun": [
+                "おも.んみる",
+                "これ",
+                "おも.うに"
+            ],
+            "on": [
+                "イ",
+                "ユイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1709": "Classic Nelson (Andrew Nelson)",
+                "1290": "Japanese Names (P.G. O’Neill)",
+                "2073": "Kanji and Kana (Spahn and Hadamitzky)",
+                "582": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "352": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "438": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "10820": "Morohashi",
+                "481": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1890": "New Nelson (John Haig)",
+                "2276": "Remembering The Kanji (James Heisig)",
+                "2375": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4k8.1": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "9001.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-52": "JIS X 0208-1997 kuten code",
+                "60df": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ただ、 よし、 のぶ"
+                ],
+                "chinese": [
+                    "wei2"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "忙",
+                "隹"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "思い見る",
+                    "reading": "おもいみる",
+                    "meanings": [
+                        "to reflect carefully"
+                    ]
+                },
+                {
+                    "kanji": "此れ",
+                    "reading": "これ",
+                    "meanings": [
+                        "this",
+                        "this one",
+                        "this person",
+                        "now",
+                        "this point (in time)",
+                        "here",
+                        "used to stress the subject of a sentence",
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "思うに",
+                    "reading": "おもうに",
+                    "meanings": [
+                        "presumably",
+                        "conceivably",
+                        "in my opinion",
+                        "in my view",
+                        "I think (that)",
+                        "upon thought",
+                        "upon reflection"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "惟神",
+                    "reading": "カンナガラ",
+                    "meanings": [
+                        "as a god",
+                        "as was done in the age of the gods"
+                    ]
+                },
+                {
+                    "kanji": "思惟",
+                    "reading": "シイ",
+                    "meanings": [
+                        "thought",
+                        "thinking",
+                        "contemplation",
+                        "consideration",
+                        "using wisdom to get to the bottom of things",
+                        "focusing one's mind",
+                        "deep contemplation",
+                        "concentrated thought",
+                        "deliberating",
+                        "pondering",
+                        "reflecting"
+                    ]
+                },
+                {
+                    "kanji": "思惟",
+                    "reading": "シイ",
+                    "meanings": [
+                        "thought",
+                        "thinking",
+                        "contemplation",
+                        "consideration",
+                        "using wisdom to get to the bottom of things",
+                        "focusing one's mind",
+                        "deep contemplation",
+                        "concentrated thought",
+                        "deliberating",
+                        "pondering",
+                        "reflecting"
+                    ]
+                }
+            ]
+        }
+    }
+}

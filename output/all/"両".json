@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"両\"",
+        "strokes": 6,
+        "main_meanings": [
+            "both",
+            "old Japanese coin",
+            "counter for carriages (e.g.",
+            "in a train)",
+            "two"
+        ],
+        "main_readings": {
+            "kun": [
+                "てる",
+                "ふたつ"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "336": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "434": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "411": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "281": "A New Dictionary of Kanji Usage",
+                "34": "Classic Nelson (Andrew Nelson)",
+                "859": "Essential Kanji (P.G. O’Neill)",
+                "286": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "531": "Japanese Names (P.G. O’Neill)",
+                "200": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "556": "Kanji in Context (Nishiguchi and Kono)",
+                "15": "Kodansha Compact Kanji Guide",
+                "4331": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2191": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2949": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1176": "Les Kanjis dans la tete (Yves Maniette)",
+                "46": "Morohashi",
+                "3518": "New Japanese English Character Dictionary (Jack Halpern)",
+                "23": "New Nelson (John Haig)",
+                "1168": "Remembering The Kanji (James Heisig)",
+                "1252": "Remembering The Kanji, 6th edition (James Heisig)",
+                "288": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "275": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3153": "2001 Kanji",
+                "0a6.11": "The Kanji Dictionary",
+                "4-6-1": "SKIP code",
+                "1022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-30": "JIS X 0208-1997 kuten code",
+                "4e21": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "もろ"
+                ],
+                "chinese": [
+                    "liang3"
+                ],
+                "korean": [
+                    "ryang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "冂",
+                "山"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": [
+                "兩"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "両",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "both (hands",
+                        "parents",
+                        "sides",
+                        "etc.)",
+                        "counter for carriages (e.g. in a train)",
+                        "counter for vehicles",
+                        "ryō",
+                        "tael",
+                        "traditional unit of weight (for gold",
+                        "silver and drugs)",
+                        "4-5 monme",
+                        "15-19 g",
+                        "ryō",
+                        "pre-Meiji unit of currency",
+                        "orig. the value of one ryō of gold",
+                        "ryō",
+                        "traditional measure of fabric",
+                        "2 tan",
+                        "ryō",
+                        "tael",
+                        "unit of weight under the ritsuryō system",
+                        "1/16 kin",
+                        "42-43 g",
+                        "counter for suits of clothing",
+                        "sets of armor",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "両足",
+                    "reading": "リョウソク",
+                    "meanings": [
+                        "both feet",
+                        "both legs"
+                    ]
+                },
+                {
+                    "kanji": "一両",
+                    "reading": "イチリョウ",
+                    "meanings": [
+                        "one vehicle",
+                        "one ryō (an old coin)"
+                    ]
+                },
+                {
+                    "kanji": "十両",
+                    "reading": "ジュウリョウ",
+                    "meanings": [
+                        "second highest division",
+                        "wrestlers of the second highest division"
+                    ]
+                }
+            ]
+        }
+    }
+}

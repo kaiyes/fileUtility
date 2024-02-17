@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"漱\"",
+        "strokes": 14,
+        "main_meanings": [
+            "gargle",
+            "rinse mouth"
+        ],
+        "main_readings": {
+            "kun": [
+                "くちすす.ぐ",
+                "くちそそ.ぐ",
+                "うがい",
+                "すす.ぐ"
+            ],
+            "on": [
+                "ソウ",
+                "シュウ",
+                "ス"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2669": "Classic Nelson (Andrew Nelson)",
+                "2084": "Japanese Names (P.G. O’Neill)",
+                "2146": "Kanji and Kana (Spahn and Hadamitzky)",
+                "865": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "498": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "639": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "18171": "Morohashi",
+                "3293": "New Nelson (John Haig)",
+                "2288": "Remembering The Kanji (James Heisig)",
+                "2385": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a11.4": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "3718.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-62-91": "JIS X 0208-1997 kuten code",
+                "6f31": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shu4"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "口",
+                "汁",
+                "木",
+                "欠"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "漱ぐ",
+                    "reading": "くちすすぐ",
+                    "meanings": [
+                        "to gargle",
+                        "to rinse (the mouth)"
+                    ]
+                },
+                {
+                    "kanji": "嗽",
+                    "reading": "うがい",
+                    "meanings": [
+                        "gargling",
+                        "rinsing one's mouth"
+                    ]
+                },
+                {
+                    "kanji": "漱ぐ",
+                    "reading": "すすぐ",
+                    "meanings": [
+                        "to rinse (one's mouth)",
+                        "to gargle"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "漱石枕流",
+                    "reading": "ソウセキチンリュウ",
+                    "meanings": [
+                        "sore loser who stubbornly refuses to admit being wrong"
+                    ]
+                },
+                {
+                    "kanji": "盥漱",
+                    "reading": "カンソウ",
+                    "meanings": [
+                        "washing one's hands and rinsing one's mouth"
+                    ]
+                },
+                {
+                    "kanji": "漱ぐ",
+                    "reading": "ススグ",
+                    "meanings": [
+                        "to rinse (one's mouth)",
+                        "to gargle"
+                    ]
+                }
+            ]
+        }
+    }
+}

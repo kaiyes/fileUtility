@@ -1,0 +1,300 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"止\"",
+        "strokes": 4,
+        "main_meanings": [
+            "stop",
+            "halt"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.まる",
+                "-ど.まり",
+                "と.める",
+                "-と.める",
+                "-ど.め",
+                "とど.める",
+                "とど.め",
+                "とど.まる",
+                "や.める",
+                "や.む",
+                "-や.む",
+                "よ.す",
+                "-さ.す",
+                "-さ.し"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "220": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "143": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "129": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "400": "A New Dictionary of Kanji Usage",
+                "2429": "Classic Nelson (Andrew Nelson)",
+                "552": "Essential Kanji (P.G. O’Neill)",
+                "202": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "87": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "477": "Kanji and Kana (Spahn and Hadamitzky)",
+                "485": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "217": "Kanji in Context (Nishiguchi and Kono)",
+                "1127": "Kodansha Compact Kanji Guide",
+                "3659": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1868": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2545": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "376": "Les Kanjis dans la tete (Yves Maniette)",
+                "16253": "Morohashi",
+                "2941": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2954": "New Nelson (John Haig)",
+                "370": "Remembering The Kanji (James Heisig)",
+                "396": "Remembering The Kanji, 6th edition (James Heisig)",
+                "415": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "94": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1273": "2001 Kanji",
+                "2m2.2": "The Kanji Dictionary",
+                "3-2-2": "SKIP code",
+                "4-4-2": "SKIP code",
+                "2110.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-63": "JIS X 0208-1997 kuten code",
+                "6b62": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "どめ"
+                ],
+                "chinese": [
+                    "zhi3"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stop",
+            "parts": [
+                "止"
+            ],
+            "basis": "止",
+            "kangxi_order": 77,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "止まる",
+                    "reading": "とまる",
+                    "meanings": [
+                        "to stop (moving)",
+                        "to come to a stop",
+                        "to stop (doing",
+                        "working",
+                        "being supplied)",
+                        "to come to a halt",
+                        "to cease",
+                        "to be stopped",
+                        "to be suspended",
+                        "to alight",
+                        "to perch on"
+                    ]
+                },
+                {
+                    "kanji": "止める",
+                    "reading": "とめる",
+                    "meanings": [
+                        "to stop",
+                        "to turn off",
+                        "to park",
+                        "to prevent",
+                        "to suppress (a cough)",
+                        "to hold back (tears)",
+                        "to hold (one's breath)",
+                        "to relieve (pain)",
+                        "to stop (someone from doing something)",
+                        "to dissuade",
+                        "to forbid",
+                        "to prohibit",
+                        "to notice",
+                        "to be aware of",
+                        "to concentrate on",
+                        "to pay attention to",
+                        "to remember",
+                        "to bear in mind",
+                        "to fix (in place)",
+                        "to fasten",
+                        "to tack",
+                        "to pin",
+                        "to nail",
+                        "to button",
+                        "to staple",
+                        "to detain",
+                        "to keep in custody"
+                    ]
+                },
+                {
+                    "kanji": "留める",
+                    "reading": "とどめる",
+                    "meanings": [
+                        "to stop",
+                        "to stay (e.g. the night)",
+                        "to cease",
+                        "to put an end to",
+                        "to contain",
+                        "to keep (in position",
+                        "in place)",
+                        "to limit",
+                        "to record (e.g. a fact)",
+                        "to retain"
+                    ]
+                },
+                {
+                    "kanji": "止め",
+                    "reading": "とどめ",
+                    "meanings": [
+                        "finishing blow",
+                        "coup de grâce"
+                    ]
+                },
+                {
+                    "kanji": "留める",
+                    "reading": "とどめる",
+                    "meanings": [
+                        "to stop",
+                        "to stay (e.g. the night)",
+                        "to cease",
+                        "to put an end to",
+                        "to contain",
+                        "to keep (in position",
+                        "in place)",
+                        "to limit",
+                        "to record (e.g. a fact)",
+                        "to retain"
+                    ]
+                },
+                {
+                    "kanji": "止まる",
+                    "reading": "とどまる",
+                    "meanings": [
+                        "to remain",
+                        "to abide",
+                        "to stay (in the one place)",
+                        "to be limited to",
+                        "to be confined to",
+                        "to only account for"
+                    ]
+                },
+                {
+                    "kanji": "とどまるところを知らない",
+                    "reading": "とどまるところをしらない",
+                    "meanings": [
+                        "knowing no bounds",
+                        "showing no signs of stopping or slowing down"
+                    ]
+                },
+                {
+                    "kanji": "止める",
+                    "reading": "やめる",
+                    "meanings": [
+                        "to stop (an activity)",
+                        "to cease",
+                        "to discontinue",
+                        "to end",
+                        "to quit",
+                        "to cancel",
+                        "to abandon",
+                        "to give up",
+                        "to abolish",
+                        "to abstain",
+                        "to refrain"
+                    ]
+                },
+                {
+                    "kanji": "止む",
+                    "reading": "やむ",
+                    "meanings": [
+                        "to cease",
+                        "to stop",
+                        "to be over"
+                    ]
+                },
+                {
+                    "kanji": "やむを得ない",
+                    "reading": "やむをえない",
+                    "meanings": [
+                        "cannot be helped",
+                        "unavoidable"
+                    ]
+                },
+                {
+                    "kanji": "止す",
+                    "reading": "よす",
+                    "meanings": [
+                        "to stop (doing)",
+                        "to cease",
+                        "to desist",
+                        "to drop",
+                        "to lay off",
+                        "to give up",
+                        "to quit"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "止血",
+                    "reading": "シケツ",
+                    "meanings": [
+                        "stopping of bleeding",
+                        "stanching",
+                        "hemostasis",
+                        "haemostasis"
+                    ]
+                },
+                {
+                    "kanji": "止音器",
+                    "reading": "シオンキ",
+                    "meanings": [
+                        "(piano) damper"
+                    ]
+                },
+                {
+                    "kanji": "抑止",
+                    "reading": "ヨクシ",
+                    "meanings": [
+                        "check",
+                        "checkmate",
+                        "stave off",
+                        "control",
+                        "restraint",
+                        "inhibit",
+                        "deterrent",
+                        "deterrence"
+                    ]
+                },
+                {
+                    "kanji": "解止",
+                    "reading": "カイシ",
+                    "meanings": [
+                        "termination"
+                    ]
+                }
+            ]
+        }
+    }
+}

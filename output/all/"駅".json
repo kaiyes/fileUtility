@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"駅\"",
+        "strokes": 14,
+        "main_meanings": [
+            "station"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "エキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "158": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "253": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "233": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "384": "A New Dictionary of Kanji Usage",
+                "5199": "Classic Nelson (Andrew Nelson)",
+                "189": "Essential Kanji (P.G. O’Neill)",
+                "101": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2172": "Japanese Names (P.G. O’Neill)",
+                "2.12": "Japanese for Busy People",
+                "284": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "56": "Kanji in Context (Nishiguchi and Kono)",
+                "1915": "Kodansha Compact Kanji Guide",
+                "2292": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1184": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1618": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2003": "Les Kanjis dans la tete (Yves Maniette)",
+                "44633P": "Morohashi",
+                "1822": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6735": "New Nelson (John Haig)",
+                "1984": "Remembering The Kanji (James Heisig)",
+                "2138": "Remembering The Kanji, 6th edition (James Heisig)",
+                "426": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3462": "2001 Kanji",
+                "10a4.4": "The Kanji Dictionary",
+                "1-10-4": "SKIP code",
+                "7738.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-56": "JIS X 0208-1997 kuten code",
+                "99c5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "yeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horse",
+            "parts": [
+                "丶",
+                "尸",
+                "杰",
+                "馬"
+            ],
+            "basis": "馬",
+            "kangxi_order": 187,
+            "variants": [
+                "驛"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "駅",
+                    "reading": "エキ",
+                    "meanings": [
+                        "railway station",
+                        "train station",
+                        "staging post on a highway (in pre-modern Japan)",
+                        "counter for railway stations and bus stations"
+                    ]
+                },
+                {
+                    "kanji": "駅員",
+                    "reading": "エキイン",
+                    "meanings": [
+                        "(train) station attendant",
+                        "station employee",
+                        "station staff"
+                    ]
+                },
+                {
+                    "kanji": "宿駅",
+                    "reading": "シュクエキ",
+                    "meanings": [
+                        "relay station",
+                        "post station",
+                        "stage"
+                    ]
+                },
+                {
+                    "kanji": "終着駅",
+                    "reading": "シュウチャクエキ",
+                    "meanings": [
+                        "terminal station"
+                    ]
+                }
+            ]
+        }
+    }
+}

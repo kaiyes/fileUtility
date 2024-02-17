@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"栽\"",
+        "strokes": 10,
+        "main_meanings": [
+            "plantation",
+            "planting"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1289": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1705": "A New Dictionary of Kanji Usage",
+                "781": "Classic Nelson (Andrew Nelson)",
+                "1619": "Essential Kanji (P.G. O’Neill)",
+                "1431": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1254": "Japanese Names (P.G. O’Neill)",
+                "1125": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1177": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1821": "Kanji in Context (Nishiguchi and Kono)",
+                "1061": "Kodansha Compact Kanji Guide",
+                "4087": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2074": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2810": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "364": "Les Kanjis dans la tete (Yves Maniette)",
+                "14750": "Morohashi",
+                "3297": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2654": "New Nelson (John Haig)",
+                "358": "Remembering The Kanji (James Heisig)",
+                "382": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1349": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1459": "2001 Kanji",
+                "4n6.1": "The Kanji Dictionary",
+                "3-6-4": "SKIP code",
+                "4-10-4": "SKIP code",
+                "4395.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-47": "JIS X 0208-1997 kuten code",
+                "683d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zai1"
+                ],
+                "korean": [
+                    "jae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "土",
+                "戈",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "栽培",
+                    "reading": "サイバイ",
+                    "meanings": [
+                        "cultivation"
+                    ]
+                },
+                {
+                    "kanji": "栽培家",
+                    "reading": "サイバイカ",
+                    "meanings": [
+                        "grower",
+                        "farmer"
+                    ]
+                },
+                {
+                    "kanji": "植栽",
+                    "reading": "ショクサイ",
+                    "meanings": [
+                        "raising trees and plants"
+                    ]
+                },
+                {
+                    "kanji": "輪栽",
+                    "reading": "リンサイ",
+                    "meanings": [
+                        "rotation of crops"
+                    ]
+                }
+            ]
+        }
+    }
+}

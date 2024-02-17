@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"抑\"",
+        "strokes": 7,
+        "main_meanings": [
+            "repress",
+            "well",
+            "now",
+            "in the first place",
+            "push",
+            "shove",
+            "press",
+            "seal",
+            "do in spite of"
+        ],
+        "main_readings": {
+            "kun": [
+                "おさ.える"
+            ],
+            "on": [
+                "ヨク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1884": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1399": "A New Dictionary of Kanji Usage",
+                "1851": "Classic Nelson (Andrew Nelson)",
+                "1318": "Essential Kanji (P.G. O’Neill)",
+                "1339": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1057": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1100": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1264": "Kanji in Context (Nishiguchi and Kono)",
+                "867": "Kodansha Compact Kanji Guide",
+                "301": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "193": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "229": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1716": "Les Kanjis dans la tete (Yves Maniette)",
+                "11883": "Morohashi",
+                "257": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2090": "New Nelson (John Haig)",
+                "1700": "Remembering The Kanji (James Heisig)",
+                "1835": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1131": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1344": "2001 Kanji",
+                "3c4.12": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5702.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-62": "JIS X 0208-1997 kuten code",
+                "6291": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "eog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "卩",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "抑える",
+                    "reading": "おさえる",
+                    "meanings": [
+                        "to keep within limits (e.g. spending)",
+                        "to restrain (e.g. emotions)",
+                        "to control",
+                        "to curb",
+                        "to hold in check",
+                        "to hold back (e.g. an enemy)",
+                        "to check",
+                        "to curb",
+                        "to contain",
+                        "to quell",
+                        "to subdue",
+                        "to suppress",
+                        "to repress"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "抑止",
+                    "reading": "ヨクシ",
+                    "meanings": [
+                        "check",
+                        "checkmate",
+                        "stave off",
+                        "control",
+                        "restraint",
+                        "inhibit",
+                        "deterrent",
+                        "deterrence"
+                    ]
+                },
+                {
+                    "kanji": "抑圧",
+                    "reading": "ヨクアツ",
+                    "meanings": [
+                        "check",
+                        "restraint",
+                        "oppression",
+                        "suppression"
+                    ]
+                },
+                {
+                    "kanji": "圧抑",
+                    "reading": "アツヨク",
+                    "meanings": [
+                        "check",
+                        "restraint",
+                        "oppression",
+                        "suppression"
+                    ]
+                },
+                {
+                    "kanji": "謙抑",
+                    "reading": "ケンヨク",
+                    "meanings": [
+                        "humbling oneself"
+                    ]
+                }
+            ]
+        }
+    }
+}

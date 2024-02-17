@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"批\"",
+        "strokes": 7,
+        "main_meanings": [
+            "criticism",
+            "strike"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "973": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "963": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "771": "A New Dictionary of Kanji Usage",
+                "1848": "Classic Nelson (Andrew Nelson)",
+                "1523": "Essential Kanji (P.G. O’Neill)",
+                "556": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1029": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1068": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1051": "Kanji in Context (Nishiguchi and Kono)",
+                "865": "Kodansha Compact Kanji Guide",
+                "294": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "187": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "223": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "656": "Les Kanjis dans la tete (Yves Maniette)",
+                "11845": "Morohashi",
+                "250": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2086": "New Nelson (John Haig)",
+                "649": "Remembering The Kanji (James Heisig)",
+                "701": "Remembering The Kanji, 6th edition (James Heisig)",
+                "854": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1356": "2001 Kanji",
+                "3c4.13": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5201.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-67": "JIS X 0208-1997 kuten code",
+                "6279": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pi1"
+                ],
+                "korean": [
+                    "bi",
+                    "byeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "扎",
+                "比"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "非難",
+                    "reading": "ヒナン",
+                    "meanings": [
+                        "criticism",
+                        "blame",
+                        "censure",
+                        "attack",
+                        "reproach"
+                    ]
+                },
+                {
+                    "kanji": "批准",
+                    "reading": "ヒジュン",
+                    "meanings": [
+                        "ratification"
+                    ]
+                },
+                {
+                    "kanji": "高批",
+                    "reading": "コウヒ",
+                    "meanings": [
+                        "your valued criticism"
+                    ]
+                }
+            ]
+        }
+    }
+}

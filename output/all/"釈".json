@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"釈\"",
+        "strokes": 11,
+        "main_meanings": [
+            "explanation"
+        ],
+        "main_readings": {
+            "kun": [
+                "とく",
+                "す.てる",
+                "ゆる.す"
+            ],
+            "on": [
+                "シャク",
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "802": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "885": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1214": "A New Dictionary of Kanji Usage",
+                "4809": "Classic Nelson (Andrew Nelson)",
+                "660": "Essential Kanji (P.G. O’Neill)",
+                "1841": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1395": "Japanese Names (P.G. O’Neill)",
+                "595": "Kanji and Kana (Spahn and Hadamitzky)",
+                "605": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "763": "Kanji in Context (Nishiguchi and Kono)",
+                "1800": "Kodansha Compact Kanji Guide",
+                "1876": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "997": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1349": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1927": "Les Kanjis dans la tete (Yves Maniette)",
+                "40120P": "Morohashi",
+                "1484": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6203": "New Nelson (John Haig)",
+                "1908": "Remembering The Kanji (James Heisig)",
+                "2057": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1494": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2262": "2001 Kanji",
+                "6b5.5": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "2798.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-65": "JIS X 0208-1997 kuten code",
+                "91c8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しゃ"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "seog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "divide,",
+            "parts": [
+                "丶",
+                "尸",
+                "米",
+                "釆"
+            ],
+            "basis": "釆",
+            "kangxi_order": 165,
+            "variants": [
+                "釋"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "釈明",
+                    "reading": "シャクメイ",
+                    "meanings": [
+                        "explanation",
+                        "vindication"
+                    ]
+                },
+                {
+                    "kanji": "釈放",
+                    "reading": "シャクホウ",
+                    "meanings": [
+                        "release",
+                        "liberation",
+                        "acquittal"
+                    ]
+                },
+                {
+                    "kanji": "保釈",
+                    "reading": "ホシャク",
+                    "meanings": [
+                        "bail",
+                        "releasing on bail"
+                    ]
+                },
+                {
+                    "kanji": "講釈",
+                    "reading": "コウシャク",
+                    "meanings": [
+                        "explanation (of a text",
+                        "phrase",
+                        "etc.)",
+                        "lecture",
+                        "exposition",
+                        "explanation (in a pompous fashion)",
+                        "(long-winded) lecture",
+                        "storytelling"
+                    ]
+                },
+                {
+                    "kanji": "釈然",
+                    "reading": "シャクゼン",
+                    "meanings": [
+                        "fully satisfied (with an explanation",
+                        "apology",
+                        "etc.)",
+                        "happy",
+                        "cleared of doubt"
+                    ]
+                }
+            ]
+        }
+    }
+}

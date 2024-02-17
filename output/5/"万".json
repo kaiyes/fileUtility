@@ -1,0 +1,215 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"万\"",
+        "strokes": 3,
+        "main_meanings": [
+            "ten thousand",
+            "10,000"
+        ],
+        "main_readings": {
+            "kun": [
+                "よろず"
+            ],
+            "on": [
+                "マン",
+                "バン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "320": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "227": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "392": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "96": "A New Dictionary of Kanji Usage",
+                "7": "New Nelson (John Haig)",
+                "84": "Essential Kanji (P.G. O’Neill)",
+                "3": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "43": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "16": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "13": "Kanji in Context (Nishiguchi and Kono)",
+                "8": "Kodansha Compact Kanji Guide",
+                "3653": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1865": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2542": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "64": "Remembering The Kanji (James Heisig)",
+                "10": "Morohashi",
+                "2936": "New Japanese English Character Dictionary (Jack Halpern)",
+                "68": "Remembering The Kanji, 6th edition (James Heisig)",
+                "215": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "86": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3145": "2001 Kanji",
+                "0a3.8": "The Kanji Dictionary",
+                "3-2-1": "SKIP code",
+                "4-3-1": "SKIP code",
+                "1022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-92": "JIS X 0208-1997 kuten code",
+                "4e07": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かず、 ま、 ゆる"
+                ],
+                "chinese": [
+                    "wan4",
+                    "mo4"
+                ],
+                "korean": [
+                    "man",
+                    "mug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "ノ"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": [
+                "萬"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "万",
+                    "reading": "まん",
+                    "meanings": [
+                        "10,000",
+                        "ten thousand",
+                        "myriad",
+                        "everything",
+                        "all",
+                        "various"
+                    ]
+                },
+                {
+                    "kanji": "万年",
+                    "reading": "まんねん",
+                    "meanings": [
+                        "ten thousand years",
+                        "eternity",
+                        "perennial",
+                        "perpetual"
+                    ]
+                },
+                {
+                    "kanji": "八百万",
+                    "reading": "やおよろず",
+                    "meanings": [
+                        "myriad",
+                        "countless things"
+                    ]
+                },
+                {
+                    "kanji": "５００万",
+                    "reading": "ごひゃくまん",
+                    "meanings": [
+                        "5,000,000",
+                        "five million",
+                        "many"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "万",
+                    "reading": "マン",
+                    "meanings": [
+                        "10,000",
+                        "ten thousand",
+                        "myriad",
+                        "everything",
+                        "all",
+                        "various"
+                    ]
+                },
+                {
+                    "kanji": "万一",
+                    "reading": "マンイチ",
+                    "meanings": [
+                        "(unlikely event of) emergency",
+                        "the worst(-case scenario)",
+                        "10000 to 1",
+                        "(if) by some chance",
+                        "by some possibility",
+                        "in the unlikely event that"
+                    ]
+                },
+                {
+                    "kanji": "億万",
+                    "reading": "オクマン",
+                    "meanings": [
+                        "millions and millions"
+                    ]
+                },
+                {
+                    "kanji": "永万",
+                    "reading": "エイマン",
+                    "meanings": [
+                        "Eiman era (1165.6.5-1166.8.27)"
+                    ]
+                },
+                {
+                    "kanji": "万",
+                    "reading": "バン",
+                    "meanings": [
+                        "completely",
+                        "absolutely",
+                        "totally"
+                    ]
+                },
+                {
+                    "kanji": "万一",
+                    "reading": "マンイチ",
+                    "meanings": [
+                        "(unlikely event of) emergency",
+                        "the worst(-case scenario)",
+                        "10000 to 1",
+                        "(if) by some chance",
+                        "by some possibility",
+                        "in the unlikely event that"
+                    ]
+                },
+                {
+                    "kanji": "千万",
+                    "reading": "センバン",
+                    "meanings": [
+                        "exceedingly",
+                        "extremely",
+                        "very many",
+                        "indeed"
+                    ]
+                },
+                {
+                    "kanji": "奇怪千万",
+                    "reading": "キカイセンバン",
+                    "meanings": [
+                        "very strange (mysterious",
+                        "weird)",
+                        "bizarre",
+                        "monstrous",
+                        "outrageous"
+                    ]
+                }
+            ]
+        }
+    }
+}

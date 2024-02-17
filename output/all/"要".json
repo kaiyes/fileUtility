@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"要\"",
+        "strokes": 9,
+        "main_meanings": [
+            "need",
+            "main point",
+            "essence",
+            "pivot",
+            "key to"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.る",
+                "かなめ"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "729": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "623": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "593": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "117": "A New Dictionary of Kanji Usage",
+                "4274": "Classic Nelson (Andrew Nelson)",
+                "262": "Essential Kanji (P.G. O’Neill)",
+                "887": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1218": "Japanese Names (P.G. O’Neill)",
+                "3.16": "Japanese for Busy People",
+                "419": "Kanji and Kana (Spahn and Hadamitzky)",
+                "425": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "424": "Kanji in Context (Nishiguchi and Kono)",
+                "1639": "Kodansha Compact Kanji Guide",
+                "3263": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1683": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2290": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1618": "Les Kanjis dans la tete (Yves Maniette)",
+                "34768P": "Morohashi",
+                "2635": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5515": "New Nelson (John Haig)",
+                "1604": "Remembering The Kanji (James Heisig)",
+                "1730": "Remembering The Kanji, 6th edition (James Heisig)",
+                "78": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "536": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3269": "2001 Kanji",
+                "3e6.11": "The Kanji Dictionary",
+                "2-6-3": "SKIP code",
+                "1040.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-55": "JIS X 0208-1997 kuten code",
+                "8981": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とし"
+                ],
+                "chinese": [
+                    "yao4",
+                    "yao1"
+                ],
+                "korean": [
+                    "yo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "襾",
+                "覀"
+            ],
+            "meaning": "west",
+            "parts": [
+                "女",
+                "西"
+            ],
+            "basis": "西",
+            "kangxi_order": 146,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "要る",
+                    "reading": "いる",
+                    "meanings": [
+                        "to need",
+                        "to want"
+                    ]
+                },
+                {
+                    "kanji": "要",
+                    "reading": "かなめ",
+                    "meanings": [
+                        "pivot",
+                        "vital point",
+                        "cornerstone",
+                        "keystone",
+                        "Japanese photinia"
+                    ]
+                },
+                {
+                    "kanji": "要石",
+                    "reading": "かなめいし",
+                    "meanings": [
+                        "keystone"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "要",
+                    "reading": "ヨウ",
+                    "meanings": [
+                        "main point",
+                        "essential point",
+                        "important thing",
+                        "necessity",
+                        "need",
+                        "requirement"
+                    ]
+                },
+                {
+                    "kanji": "要因",
+                    "reading": "ヨウイン",
+                    "meanings": [
+                        "main cause",
+                        "primary factor"
+                    ]
+                },
+                {
+                    "kanji": "所要",
+                    "reading": "ショヨウ",
+                    "meanings": [
+                        "required",
+                        "needed",
+                        "necessary"
+                    ]
+                },
+                {
+                    "kanji": "法要",
+                    "reading": "ホウヨウ",
+                    "meanings": [
+                        "Buddhist memorial service"
+                    ]
+                }
+            ]
+        }
+    }
+}

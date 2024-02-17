@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"謙\"",
+        "strokes": 17,
+        "main_meanings": [
+            "self-effacing",
+            "humble oneself",
+            "condescend",
+            "be modest"
+        ],
+        "main_readings": {
+            "kun": [
+                "へりくだ.る"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1222": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1607": "A New Dictionary of Kanji Usage",
+                "4422": "Classic Nelson (Andrew Nelson)",
+                "1545": "Essential Kanji (P.G. O’Neill)",
+                "1766": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2646": "Japanese Names (P.G. O’Neill)",
+                "1687": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1802": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1581": "Kanji in Context (Nishiguchi and Kono)",
+                "1706": "Kodansha Compact Kanji Guide",
+                "2044": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1076": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1461": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1614": "Les Kanjis dans la tete (Yves Maniette)",
+                "35821P": "Morohashi",
+                "1617": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5686": "New Nelson (John Haig)",
+                "1600": "Remembering The Kanji (James Heisig)",
+                "1726": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1883": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3064": "2001 Kanji",
+                "7a10.10": "The Kanji Dictionary",
+                "1-7-10": "SKIP code",
+                "0863.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-12": "JIS X 0208-1997 kuten code",
+                "8b19": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かね、 ゆずる"
+                ],
+                "chinese": [
+                    "qian1"
+                ],
+                "korean": [
+                    "gyeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "｜",
+                "ハ",
+                "并",
+                "ヨ",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "謙る",
+                    "reading": "へりくだる",
+                    "meanings": [
+                        "to deprecate oneself and praise the listener",
+                        "to abase oneself"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "謙虚",
+                    "reading": "ケンキョ",
+                    "meanings": [
+                        "modest",
+                        "humble"
+                    ]
+                },
+                {
+                    "kanji": "謙遜",
+                    "reading": "ケンソン",
+                    "meanings": [
+                        "modesty",
+                        "humility",
+                        "being humble"
+                    ]
+                },
+                {
+                    "kanji": "恭謙",
+                    "reading": "キョウケン",
+                    "meanings": [
+                        "modesty",
+                        "humility"
+                    ]
+                }
+            ]
+        }
+    }
+}

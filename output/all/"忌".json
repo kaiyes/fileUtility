@@ -1,0 +1,198 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"忌\"",
+        "strokes": 7,
+        "main_meanings": [
+            "mourning",
+            "abhor",
+            "detestable",
+            "death anniversary"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.む",
+                "い.み",
+                "い.まわしい"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1122": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1819": "A New Dictionary of Kanji Usage",
+                "1463": "Classic Nelson (Andrew Nelson)",
+                "1522": "Essential Kanji (P.G. O’Neill)",
+                "1287": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "462": "Japanese Names (P.G. O’Neill)",
+                "1797": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1935": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1697": "Kanji in Context (Nishiguchi and Kono)",
+                "769": "Kodansha Compact Kanji Guide",
+                "2735": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1401": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1889": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "606": "Les Kanjis dans la tete (Yves Maniette)",
+                "10310": "Morohashi",
+                "2207": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1786": "New Nelson (John Haig)",
+                "599": "Remembering The Kanji (James Heisig)",
+                "644": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1121": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3558": "2001 Kanji",
+                "4k3.4": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "1733.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-87": "JIS X 0208-1997 kuten code",
+                "5fcc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いまわ"
+                ],
+                "chinese": [
+                    "ji4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "已",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "忌む",
+                    "reading": "いむ",
+                    "meanings": [
+                        "to avoid",
+                        "to refrain from",
+                        "to shun",
+                        "to detest"
+                    ]
+                },
+                {
+                    "kanji": "忌むべき",
+                    "reading": "いむべき",
+                    "meanings": [
+                        "abominable",
+                        "detestable"
+                    ]
+                },
+                {
+                    "kanji": "忌み",
+                    "reading": "いみ",
+                    "meanings": [
+                        "mourning",
+                        "abstinence",
+                        "taboo",
+                        "religious purification",
+                        "pure",
+                        "holy"
+                    ]
+                },
+                {
+                    "kanji": "忌み明け",
+                    "reading": "いみあけ",
+                    "meanings": [
+                        "end of mourning"
+                    ]
+                },
+                {
+                    "kanji": "子忌み",
+                    "reading": "ねいみ",
+                    "meanings": [
+                        "collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the Rat of the New Year)"
+                    ]
+                },
+                {
+                    "kanji": "物忌み",
+                    "reading": "ものいみ",
+                    "meanings": [
+                        "purification through fasting and abstinence",
+                        "confinement to one's house on inauspicious days to avoid misfortune (Onmyōdō practice)"
+                    ]
+                },
+                {
+                    "kanji": "忌まわしい",
+                    "reading": "いまわしい",
+                    "meanings": [
+                        "abhorrent",
+                        "abominable",
+                        "detestable",
+                        "disgusting",
+                        "horrid",
+                        "repugnant",
+                        "ominous",
+                        "inauspicious",
+                        "unlucky"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "忌",
+                    "reading": "キ",
+                    "meanings": [
+                        "mourning",
+                        "mourning period",
+                        "anniversary of one's death"
+                    ]
+                },
+                {
+                    "kanji": "忌避",
+                    "reading": "キヒ",
+                    "meanings": [
+                        "evasion",
+                        "avoidance",
+                        "shirking",
+                        "recusation (of a judge)",
+                        "taking exception (to a judge)",
+                        "challenge"
+                    ]
+                },
+                {
+                    "kanji": "回忌",
+                    "reading": "カイキ",
+                    "meanings": [
+                        "death anniversary",
+                        "anniversary of a person's death"
+                    ]
+                },
+                {
+                    "kanji": "七回忌",
+                    "reading": "シチカイキ",
+                    "meanings": [
+                        "sixth anniversary of a death"
+                    ]
+                }
+            ]
+        }
+    }
+}

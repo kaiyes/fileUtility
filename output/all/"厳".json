@@ -1,0 +1,218 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"厳\"",
+        "strokes": 17,
+        "main_meanings": [
+            "stern",
+            "strictness",
+            "severity",
+            "rigidity"
+        ],
+        "main_readings": {
+            "kun": [
+                "おごそ.か",
+                "きび.しい",
+                "いか.めしい",
+                "いつくし"
+            ],
+            "on": [
+                "ゲン",
+                "ゴン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "776": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "865": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "854": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1055": "A New Dictionary of Kanji Usage",
+                "253": "Classic Nelson (Andrew Nelson)",
+                "817": "Essential Kanji (P.G. O’Neill)",
+                "1118": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2706": "Japanese Names (P.G. O’Neill)",
+                "822": "Kanji and Kana (Spahn and Hadamitzky)",
+                "841": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1190": "Kanji in Context (Nishiguchi and Kono)",
+                "519": "Kodansha Compact Kanji Guide",
+                "4079": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2068": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2804": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1955": "Les Kanjis dans la tete (Yves Maniette)",
+                "3048P": "Morohashi",
+                "3289": "New Japanese English Character Dictionary (Jack Halpern)",
+                "663": "New Nelson (John Haig)",
+                "1936": "Remembering The Kanji (James Heisig)",
+                "2086": "Remembering The Kanji, 6th edition (James Heisig)",
+                "998": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "966": "2001 Kanji",
+                "3n14.1": "The Kanji Dictionary",
+                "3-5-12": "SKIP code",
+                "9024.8": "Four corner code",
+                "3224.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-23": "JIS X 0208-1997 kuten code",
+                "53b3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いつ、 いづ、 きゅうら、 とし"
+                ],
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "eom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cliff",
+            "parts": [
+                "厂",
+                "尚",
+                "耳",
+                "乞",
+                "攵"
+            ],
+            "basis": "厂",
+            "kangxi_order": null,
+            "variants": [
+                "嚴"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "厳か",
+                    "reading": "おごそか",
+                    "meanings": [
+                        "solemn (ceremony",
+                        "atmosphere",
+                        "etc.)",
+                        "austere",
+                        "grave",
+                        "majestic",
+                        "dignified",
+                        "stately",
+                        "impressive"
+                    ]
+                },
+                {
+                    "kanji": "厳しい",
+                    "reading": "きびしい",
+                    "meanings": [
+                        "severe",
+                        "strict",
+                        "rigid",
+                        "unsparing",
+                        "relentless",
+                        "hard (to do)",
+                        "difficult",
+                        "tricky",
+                        "intense (e.g. cold)",
+                        "harsh (weather)",
+                        "inclement"
+                    ]
+                },
+                {
+                    "kanji": "厳しい暑さ",
+                    "reading": "きびしいあつさ",
+                    "meanings": [
+                        "intense heat"
+                    ]
+                },
+                {
+                    "kanji": "厳めしい",
+                    "reading": "いかめしい",
+                    "meanings": [
+                        "stern",
+                        "grave",
+                        "austere",
+                        "imposing",
+                        "dignified",
+                        "formidable",
+                        "solemn",
+                        "majestic",
+                        "strict (e.g. security)",
+                        "severe",
+                        "firm",
+                        "rigid",
+                        "rigorous"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "厳",
+                    "reading": "ゲン",
+                    "meanings": [
+                        "strict",
+                        "stern"
+                    ]
+                },
+                {
+                    "kanji": "厳格",
+                    "reading": "ゲンカク",
+                    "meanings": [
+                        "strict",
+                        "severe",
+                        "stern",
+                        "rigid",
+                        "rigorous",
+                        "tough"
+                    ]
+                },
+                {
+                    "kanji": "謹厳",
+                    "reading": "キンゲン",
+                    "meanings": [
+                        "stern",
+                        "grave",
+                        "solemn",
+                        "sobersided"
+                    ]
+                },
+                {
+                    "kanji": "冷厳",
+                    "reading": "レイゲン",
+                    "meanings": [
+                        "grim",
+                        "stern",
+                        "stark",
+                        "heartless"
+                    ]
+                },
+                {
+                    "kanji": "華厳",
+                    "reading": "ケゴン",
+                    "meanings": [
+                        "avatamsa (flower adornment",
+                        "as a metaphor for becoming a buddha)",
+                        "Avatamska sutra",
+                        "Kegon (sect of Buddhism)"
+                    ]
+                },
+                {
+                    "kanji": "荘厳",
+                    "reading": "ショウゴン",
+                    "meanings": [
+                        "decorating (a Buddhist statue or temple)",
+                        "adorning"
+                    ]
+                }
+            ]
+        }
+    }
+}

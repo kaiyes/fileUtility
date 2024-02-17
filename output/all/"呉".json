@@ -1,0 +1,171 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"呉\"",
+        "strokes": 7,
+        "main_meanings": [
+            "give",
+            "do something for",
+            "kingdom of Wu"
+        ],
+        "main_readings": {
+            "kun": [
+                "く.れる",
+                "くれ"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1237": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1422": "A New Dictionary of Kanji Usage",
+                "583": "Classic Nelson (Andrew Nelson)",
+                "1002": "Essential Kanji (P.G. O’Neill)",
+                "1130": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "735": "Japanese Names (P.G. O’Neill)",
+                "1436": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1526": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1929": "Kanji in Context (Nishiguchi and Kono)",
+                "322": "Kodansha Compact Kanji Guide",
+                "3156": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1620": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2206": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1915": "Les Kanjis dans la tete (Yves Maniette)",
+                "3365P": "Morohashi",
+                "2549": "New Japanese English Character Dictionary (Jack Halpern)",
+                "741": "New Nelson (John Haig)",
+                "1897": "Remembering The Kanji (James Heisig)",
+                "2046": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1105": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1261": "2001 Kanji",
+                "2o5.7": "The Kanji Dictionary",
+                "2-5-2": "SKIP code",
+                "3-5-3": "SKIP code",
+                "3-4-3": "SKIP code",
+                "2-6-2": "SKIP code",
+                "2680.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-66": "JIS X 0208-1997 kuten code",
+                "5449": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぐ"
+                ],
+                "chinese": [
+                    "wu2"
+                ],
+                "korean": [
+                    "o",
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "ハ",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": [
+                "吴"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "呉れる",
+                    "reading": "くれる",
+                    "meanings": [
+                        "to give",
+                        "to let (one) have",
+                        "to give",
+                        "to do for one",
+                        "to take the trouble to do",
+                        "to do to someone's disadvantage"
+                    ]
+                },
+                {
+                    "kanji": "呉れる",
+                    "reading": "くれる",
+                    "meanings": [
+                        "to give",
+                        "to let (one) have",
+                        "to give",
+                        "to do for one",
+                        "to take the trouble to do",
+                        "to do to someone's disadvantage"
+                    ]
+                },
+                {
+                    "kanji": "呉れ呉れも",
+                    "reading": "くれぐれも",
+                    "meanings": [
+                        "sincerely",
+                        "earnestly",
+                        "wholeheartedly",
+                        "repeatedly",
+                        "over and over",
+                        "again and again"
+                    ]
+                },
+                {
+                    "kanji": "何くれ",
+                    "reading": "なにくれ",
+                    "meanings": [
+                        "in various ways"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "呉",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "Wu (region in China",
+                        "south of the lower Yangtze)",
+                        "Wu (kingdom in China during the Five Dynasties and Ten Kingdoms era; 902-937 CE)",
+                        "Southern Wu",
+                        "Wu (kingdom in China during the Three Kingdoms era; 222-280 CE)",
+                        "Eastern Wu",
+                        "Sun Wu",
+                        "Wu (kingdom in China during the Spring and Autumn era; 11th century-473 BCE)"
+                    ]
+                },
+                {
+                    "kanji": "豆汁",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "go",
+                        "soy beans soaked and mashed to a creamy paste (ingredient of tofu and soy milk)"
+                    ]
+                },
+                {
+                    "kanji": "藍子",
+                    "reading": "アイゴ",
+                    "meanings": [
+                        "mottled spinefoot (Siganus fuscescens",
+                        "species of Western Pacific rabbitfish)",
+                        "dusky rabbitfish",
+                        "sandy spinefoot"
+                    ]
+                }
+            ]
+        }
+    }
+}

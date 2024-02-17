@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"胤\"",
+        "strokes": 9,
+        "main_meanings": [
+            "descendent",
+            "issue",
+            "offspring"
+        ],
+        "main_readings": {
+            "kun": [
+                "たね"
+            ],
+            "on": [
+                "イン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "217": "Classic Nelson (Andrew Nelson)",
+                "1912": "Essential Kanji (P.G. O’Neill)",
+                "1269": "Japanese Names (P.G. O’Neill)",
+                "2205": "Kanji and Kana (Spahn and Hadamitzky)",
+                "17": "New Japanese English Character Dictionary (Jack Halpern)",
+                "8": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "29405": "Morohashi",
+                "4786": "New Nelson (John Haig)",
+                "2921": "Remembering The Kanji (James Heisig)",
+                "2929": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4b5.16": "The Kanji Dictionary",
+                "1-1-8": "SKIP code",
+                "2201.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-93": "JIS X 0208-1997 kuten code",
+                "80e4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つぎ、 つぐ、 かず"
+                ],
+                "chinese": [
+                    "yin4"
+                ],
+                "korean": [
+                    "yun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "儿",
+                "幺",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "胤",
+                    "reading": "たね",
+                    "meanings": [
+                        "issue",
+                        "offspring",
+                        "paternal blood"
+                    ]
+                },
+                {
+                    "kanji": "種違い",
+                    "reading": "たねちがい",
+                    "meanings": [
+                        "half- (sibling by a different father)",
+                        "uterine",
+                        "maternal"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "胤裔",
+                    "reading": "インエイ",
+                    "meanings": [
+                        "successor",
+                        "descendant"
+                    ]
+                },
+                {
+                    "kanji": "後胤",
+                    "reading": "コウイン",
+                    "meanings": [
+                        "descendant",
+                        "scion"
+                    ]
+                },
+                {
+                    "kanji": "皇胤",
+                    "reading": "コウイン",
+                    "meanings": [
+                        "Imperial descendant (posterity)"
+                    ]
+                }
+            ]
+        }
+    }
+}

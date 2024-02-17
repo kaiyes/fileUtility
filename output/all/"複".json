@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"複\"",
+        "strokes": 14,
+        "main_meanings": [
+            "duplicate",
+            "double",
+            "compound",
+            "multiple"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "フク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "865": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "804": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "783": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1050": "A New Dictionary of Kanji Usage",
+                "4255": "Classic Nelson (Andrew Nelson)",
+                "764": "Essential Kanji (P.G. O’Neill)",
+                "886": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "916": "Kanji and Kana (Spahn and Hadamitzky)",
+                "938": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "522": "Kanji in Context (Nishiguchi and Kono)",
+                "1636": "Kodansha Compact Kanji Guide",
+                "1565": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "827": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1132": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "476": "Les Kanjis dans la tete (Yves Maniette)",
+                "34417": "Morohashi",
+                "1222": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5484": "New Nelson (John Haig)",
+                "465": "Remembering The Kanji (James Heisig)",
+                "504": "Remembering The Kanji, 6th edition (James Heisig)",
+                "802": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "667": "2001 Kanji",
+                "5e9.3": "The Kanji Dictionary",
+                "1-5-9": "SKIP code",
+                "3824.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-03": "JIS X 0208-1997 kuten code",
+                "8907": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bog",
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "夂",
+                "日",
+                "初",
+                "乞"
+            ],
+            "basis": "衣",
+            "kangxi_order": 145,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "複",
+                    "reading": "フク",
+                    "meanings": [
+                        "compound",
+                        "composite",
+                        "multiple",
+                        "re-",
+                        "bi-",
+                        "doubles (tennis",
+                        "badminton",
+                        "etc.)",
+                        "place bet (in horse racing",
+                        "etc.)",
+                        "show bet",
+                        "bet that predicts a top 2 or top 3 finish (depending on number of horses",
+                        "etc. in race)"
+                    ]
+                },
+                {
+                    "kanji": "複合",
+                    "reading": "フクゴウ",
+                    "meanings": [
+                        "composite",
+                        "combined",
+                        "complex"
+                    ]
+                },
+                {
+                    "kanji": "重複",
+                    "reading": "チョウフク",
+                    "meanings": [
+                        "duplication",
+                        "repetition",
+                        "overlapping",
+                        "redundancy",
+                        "restoration"
+                    ]
+                },
+                {
+                    "kanji": "遺伝子重複",
+                    "reading": "イデンシジュウフク",
+                    "meanings": [
+                        "gene duplication"
+                    ]
+                }
+            ]
+        }
+    }
+}

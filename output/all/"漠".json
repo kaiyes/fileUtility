@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"漠\"",
+        "strokes": 13,
+        "main_meanings": [
+            "vague",
+            "obscure",
+            "desert",
+            "wide"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "バク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1700": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1789": "A New Dictionary of Kanji Usage",
+                "2649": "Classic Nelson (Andrew Nelson)",
+                "1496": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1853": "Japanese Names (P.G. O’Neill)",
+                "1427": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1516": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1159": "Kanji in Context (Nishiguchi and Kono)",
+                "1236": "Kodansha Compact Kanji Guide",
+                "804": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "469": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "598": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "235": "Les Kanjis dans la tete (Yves Maniette)",
+                "18149X": "Morohashi",
+                "655": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3268": "New Nelson (John Haig)",
+                "230": "Remembering The Kanji (James Heisig)",
+                "245": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1641": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "363": "2001 Kanji",
+                "3a10.18": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "3413.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-89": "JIS X 0208-1997 kuten code",
+                "6f20": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mo4"
+                ],
+                "korean": [
+                    "mag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "大",
+                "汁",
+                "艾",
+                "日"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "漠",
+                    "reading": "バク",
+                    "meanings": [
+                        "vague",
+                        "obscure",
+                        "vast",
+                        "boundless"
+                    ]
+                },
+                {
+                    "kanji": "漠然",
+                    "reading": "バクゼン",
+                    "meanings": [
+                        "vague",
+                        "obscure",
+                        "indistinct",
+                        "hazy",
+                        "ambiguous"
+                    ]
+                },
+                {
+                    "kanji": "冥漠",
+                    "reading": "メイバク",
+                    "meanings": [
+                        "dim and distant"
+                    ]
+                },
+                {
+                    "kanji": "空漠",
+                    "reading": "クウバク",
+                    "meanings": [
+                        "vast",
+                        "boundless",
+                        "vague"
+                    ]
+                }
+            ]
+        }
+    }
+}

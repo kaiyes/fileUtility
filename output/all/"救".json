@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"救\"",
+        "strokes": 11,
+        "main_meanings": [
+            "salvation",
+            "save",
+            "help",
+            "rescue",
+            "reclaim"
+        ],
+        "main_readings": {
+            "kun": [
+                "すく.う"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "584": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "480": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "456": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "876": "A New Dictionary of Kanji Usage",
+                "2051": "Classic Nelson (Andrew Nelson)",
+                "698": "Essential Kanji (P.G. O’Neill)",
+                "588": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1406": "Japanese Names (P.G. O’Neill)",
+                "725": "Kanji and Kana (Spahn and Hadamitzky)",
+                "738": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "934": "Kanji in Context (Nishiguchi and Kono)",
+                "939": "Kodansha Compact Kanji Guide",
+                "1891": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1003": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1358": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "945": "Les Kanjis dans la tete (Yves Maniette)",
+                "13221": "Morohashi",
+                "1497": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2344": "New Nelson (John Haig)",
+                "936": "Remembering The Kanji (James Heisig)",
+                "1006": "Remembering The Kanji, 6th edition (James Heisig)",
+                "563": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1466": "2001 Kanji",
+                "4i7.1": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "4814.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-63": "JIS X 0208-1997 kuten code",
+                "6551": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiu4"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "攵"
+            ],
+            "meaning": "rap",
+            "parts": [
+                "丶",
+                "水",
+                "乞",
+                "攵"
+            ],
+            "basis": "攴",
+            "kangxi_order": 66,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "救う",
+                    "reading": "すくう",
+                    "meanings": [
+                        "to rescue from",
+                        "to help out of",
+                        "to save"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "救急",
+                    "reading": "キュウキュウ",
+                    "meanings": [
+                        "first-aid",
+                        "emergency (aid)"
+                    ]
+                },
+                {
+                    "kanji": "救援",
+                    "reading": "キュウエン",
+                    "meanings": [
+                        "relief",
+                        "rescue"
+                    ]
+                },
+                {
+                    "kanji": "匡救",
+                    "reading": "キョウキュウ",
+                    "meanings": [
+                        "delivering from sin",
+                        "succor",
+                        "succour"
+                    ]
+                }
+            ]
+        }
+    }
+}

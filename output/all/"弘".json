@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"弘\"",
+        "strokes": 5,
+        "main_meanings": [
+            "vast",
+            "broad",
+            "wide"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひろ.い"
+            ],
+            "on": [
+                "コウ",
+                "グ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1075": "A New Dictionary of Kanji Usage",
+                "1563": "Classic Nelson (Andrew Nelson)",
+                "1937": "Essential Kanji (P.G. O’Neill)",
+                "410": "Japanese Names (P.G. O’Neill)",
+                "2064": "Kanji and Kana (Spahn and Hadamitzky)",
+                "223": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "141": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "169": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1242": "Les Kanjis dans la tete (Yves Maniette)",
+                "9709": "Morohashi",
+                "192": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1682": "New Nelson (John Haig)",
+                "1234": "Remembering The Kanji (James Heisig)",
+                "1320": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3h2.1": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "1223.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-16": "JIS X 0208-1997 kuten code",
+                "5f18": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ、 ひろし、 ひろむ、 みつ、 お、 こお"
+                ],
+                "chinese": [
+                    "hong2"
+                ],
+                "korean": [
+                    "hong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bow",
+            "parts": [
+                "厶",
+                "弓"
+            ],
+            "basis": "弓",
+            "kangxi_order": 57,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "広い",
+                    "reading": "ひろい",
+                    "meanings": [
+                        "spacious",
+                        "vast",
+                        "wide"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "広報",
+                    "reading": "コウホウ",
+                    "meanings": [
+                        "public relations",
+                        "PR",
+                        "publicity",
+                        "public information",
+                        "publicizing"
+                    ]
+                },
+                {
+                    "kanji": "広大",
+                    "reading": "コウダイ",
+                    "meanings": [
+                        "vast",
+                        "extensive",
+                        "immense",
+                        "huge",
+                        "large",
+                        "grand",
+                        "magnificent"
+                    ]
+                },
+                {
+                    "kanji": "恢弘",
+                    "reading": "カイコウ",
+                    "meanings": [
+                        "propagation",
+                        "spreading out",
+                        "extending"
+                    ]
+                },
+                {
+                    "kanji": "寛弘",
+                    "reading": "カンコウ",
+                    "meanings": [
+                        "Kankō era (1004.7.20-1012.12.25)"
+                    ]
+                },
+                {
+                    "kanji": "弘通",
+                    "reading": "グズウ",
+                    "meanings": [
+                        "spread (of Buddhist teachings)"
+                    ]
+                },
+                {
+                    "kanji": "弘誓",
+                    "reading": "グゼイ",
+                    "meanings": [
+                        "Buddha's great vows"
+                    ]
+                }
+            ]
+        }
+    }
+}

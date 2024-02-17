@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"長\"",
+        "strokes": 8,
+        "main_meanings": [
+            "long",
+            "leader",
+            "superior",
+            "senior"
+        ],
+        "main_readings": {
+            "kun": [
+                "なが.い",
+                "おさ"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "116": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "189": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "173": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "25": "A New Dictionary of Kanji Usage",
+                "4938": "Classic Nelson (Andrew Nelson)",
+                "155": "Essential Kanji (P.G. O’Neill)",
+                "95": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "939": "Japanese Names (P.G. O’Neill)",
+                "2.20": "Japanese for Busy People",
+                "89": "Kanji in Context (Nishiguchi and Kono)",
+                "1837": "Kodansha Compact Kanji Guide",
+                "3163": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1626": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2212": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1939": "Les Kanjis dans la tete (Yves Maniette)",
+                "41100": "Morohashi",
+                "2556": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6379": "New Nelson (John Haig)",
+                "1920": "Remembering The Kanji (James Heisig)",
+                "2070": "Remembering The Kanji, 6th edition (James Heisig)",
+                "90": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "161": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3465": "2001 Kanji",
+                "0a8.2": "The Kanji Dictionary",
+                "2-5-3": "SKIP code",
+                "4-8-1": "SKIP code",
+                "7173.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-25": "JIS X 0208-1997 kuten code",
+                "9577": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "お、 おしゃ、 たかし、 たけ、 な、 は、 ひさ"
+                ],
+                "chinese": [
+                    "chang2",
+                    "zhang3"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "镸"
+            ],
+            "meaning": "long,",
+            "parts": [
+                "長"
+            ],
+            "basis": "長",
+            "kangxi_order": 168,
+            "variants": [
+                "兏"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "長い",
+                    "reading": "ながい",
+                    "meanings": [
+                        "long (distance",
+                        "length)",
+                        "long (time)",
+                        "protracted",
+                        "prolonged"
+                    ]
+                },
+                {
+                    "kanji": "長居",
+                    "reading": "ながい",
+                    "meanings": [
+                        "long visit",
+                        "overstaying"
+                    ]
+                },
+                {
+                    "kanji": "長",
+                    "reading": "おさ",
+                    "meanings": [
+                        "head",
+                        "chief",
+                        "leader",
+                        "the greatest (of all the ...)"
+                    ]
+                },
+                {
+                    "kanji": "長亀",
+                    "reading": "おさがめ",
+                    "meanings": [
+                        "leatherback turtle (Dermochelys coriacea)"
+                    ]
+                },
+                {
+                    "kanji": "田長",
+                    "reading": "たおさ",
+                    "meanings": [
+                        "master of the rice field",
+                        "chief farmer",
+                        "lesser cuckoo (Cuculus poliocephalus)"
+                    ]
+                },
+                {
+                    "kanji": "死出田長",
+                    "reading": "しでたおさ",
+                    "meanings": [
+                        "lesser cuckoo (Cuculus poliocephalus)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "長",
+                    "reading": "チョウ",
+                    "meanings": [
+                        "head",
+                        "chief",
+                        "leader",
+                        "elder",
+                        "merit",
+                        "strong point",
+                        "superiority",
+                        "major"
+                    ]
+                },
+                {
+                    "kanji": "長官",
+                    "reading": "チョウカン",
+                    "meanings": [
+                        "secretary (government)",
+                        "director",
+                        "chief"
+                    ]
+                },
+                {
+                    "kanji": "体長",
+                    "reading": "タイチョウ",
+                    "meanings": [
+                        "length (of an animal)",
+                        "body length"
+                    ]
+                },
+                {
+                    "kanji": "医長",
+                    "reading": "イチョウ",
+                    "meanings": [
+                        "medical director",
+                        "chief physician"
+                    ]
+                }
+            ]
+        }
+    }
+}

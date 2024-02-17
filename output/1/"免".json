@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"免\"",
+        "strokes": 8,
+        "main_meanings": [
+            "excuse",
+            "dismissal"
+        ],
+        "main_readings": {
+            "kun": [
+                "まぬか.れる",
+                "まぬが.れる"
+            ],
+            "on": [
+                "メン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1849": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1084": "A New Dictionary of Kanji Usage",
+                "573": "Classic Nelson (Andrew Nelson)",
+                "931": "Essential Kanji (P.G. O’Neill)",
+                "1076": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "762": "Japanese Names (P.G. O’Neill)",
+                "733": "Kanji and Kana (Spahn and Hadamitzky)",
+                "746": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "941": "Kanji in Context (Nishiguchi and Kono)",
+                "149": "Kodansha Compact Kanji Guide",
+                "2565": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1309": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1779": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1991": "Les Kanjis dans la tete (Yves Maniette)",
+                "1358": "Morohashi",
+                "2067": "New Japanese English Character Dictionary (Jack Halpern)",
+                "361": "New Nelson (John Haig)",
+                "1972": "Remembering The Kanji (James Heisig)",
+                "2126": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1153": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2557": "2001 Kanji",
+                "2n6.1": "The Kanji Dictionary",
+                "2-2-6": "SKIP code",
+                "2-6-2": "SKIP code",
+                "2741.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-40": "JIS X 0208-1997 kuten code",
+                "514d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "め"
+                ],
+                "chinese": [
+                    "mian3",
+                    "wen4"
+                ],
+                "korean": [
+                    "myeon",
+                    "mun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "legs",
+            "parts": [
+                "一",
+                "｜",
+                "儿",
+                "勹",
+                "口",
+                "免"
+            ],
+            "basis": "儿",
+            "kangxi_order": 10,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "免れる",
+                    "reading": "まぬがれる",
+                    "meanings": [
+                        "to escape (disaster",
+                        "death",
+                        "etc.)",
+                        "to be saved from",
+                        "to be rescued from",
+                        "to avoid (e.g. punishment)",
+                        "to evade (e.g. responsibility)",
+                        "to avert",
+                        "to elude",
+                        "to be exempted from"
+                    ]
+                },
+                {
+                    "kanji": "免れる",
+                    "reading": "まぬがれる",
+                    "meanings": [
+                        "to escape (disaster",
+                        "death",
+                        "etc.)",
+                        "to be saved from",
+                        "to be rescued from",
+                        "to avoid (e.g. punishment)",
+                        "to evade (e.g. responsibility)",
+                        "to avert",
+                        "to elude",
+                        "to be exempted from"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "免",
+                    "reading": "メン",
+                    "meanings": [
+                        "dismissal",
+                        "discharge"
+                    ]
+                },
+                {
+                    "kanji": "免疫",
+                    "reading": "メンエキ",
+                    "meanings": [
+                        "immunity",
+                        "immunization",
+                        "immunisation",
+                        "being hardened (to)",
+                        "being unaffected (by)",
+                        "being accustomed (to)"
+                    ]
+                },
+                {
+                    "kanji": "任免",
+                    "reading": "ニンメン",
+                    "meanings": [
+                        "appointments and dismissal"
+                    ]
+                },
+                {
+                    "kanji": "懲戒免",
+                    "reading": "チョウカイメン",
+                    "meanings": [
+                        "disciplinary dismissal",
+                        "disciplinary discharge"
+                    ]
+                }
+            ]
+        }
+    }
+}

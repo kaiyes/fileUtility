@@ -1,0 +1,198 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"虚\"",
+        "strokes": 11,
+        "main_meanings": [
+            "void",
+            "emptiness",
+            "unpreparedness",
+            "crack",
+            "fissure",
+            "untruth"
+        ],
+        "main_readings": {
+            "kun": [
+                "むな.しい",
+                "うつ.ろ"
+            ],
+            "on": [
+                "キョ",
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1156": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1588": "A New Dictionary of Kanji Usage",
+                "4109": "Classic Nelson (Andrew Nelson)",
+                "1484": "Essential Kanji (P.G. O’Neill)",
+                "1712": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1519": "Japanese Names (P.G. O’Neill)",
+                "1572": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1678": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1741": "Kanji in Context (Nishiguchi and Kono)",
+                "1601": "Kodansha Compact Kanji Guide",
+                "4017": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2053": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2778": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2012": "Les Kanjis dans la tete (Yves Maniette)",
+                "32708": "Morohashi",
+                "3237": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5269": "New Nelson (John Haig)",
+                "1993": "Remembering The Kanji (James Heisig)",
+                "2148": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1481": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1274": "2001 Kanji",
+                "2m9.1": "The Kanji Dictionary",
+                "3-4-7": "SKIP code",
+                "3-6-5": "SKIP code",
+                "2121.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-85": "JIS X 0208-1997 kuten code",
+                "865a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xu1"
+                ],
+                "korean": [
+                    "heo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tiger",
+            "parts": [
+                "一",
+                "匕",
+                "卜",
+                "厂",
+                "虍"
+            ],
+            "basis": "虍",
+            "kangxi_order": 141,
+            "variants": [
+                "虗"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "虚しい",
+                    "reading": "むなしい",
+                    "meanings": [
+                        "empty",
+                        "void",
+                        "vacant",
+                        "vain",
+                        "fruitless",
+                        "futile",
+                        "ineffective",
+                        "lifeless"
+                    ]
+                },
+                {
+                    "kanji": "虚ろ",
+                    "reading": "うつろ",
+                    "meanings": [
+                        "cavity",
+                        "hollow",
+                        "void",
+                        "hollow (voice",
+                        "smile",
+                        "etc.)",
+                        "blank (eyes",
+                        "look",
+                        "etc.)",
+                        "vacant (expression",
+                        "stare",
+                        "etc.)",
+                        "empty (words",
+                        "heart",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "虚舟",
+                    "reading": "うつろぶね",
+                    "meanings": [
+                        "unidentified craft said to have washed ashore in Ibaraki Prefecture during the Edo period (sometimes alleged to have been a UFO)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "虚",
+                    "reading": "キョ",
+                    "meanings": [
+                        "unpreparedness",
+                        "falsehood",
+                        "Chinese \"Emptiness\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "虚偽",
+                    "reading": "キョギ",
+                    "meanings": [
+                        "falsehood",
+                        "untruth",
+                        "lie",
+                        "misinformation",
+                        "fallacy"
+                    ]
+                },
+                {
+                    "kanji": "盈虚",
+                    "reading": "エイキョ",
+                    "meanings": [
+                        "waxing and waning (of the moon)",
+                        "phase",
+                        "rising and falling (of fortune)"
+                    ]
+                },
+                {
+                    "kanji": "太虚",
+                    "reading": "タイキョ",
+                    "meanings": [
+                        "the sky",
+                        "the heavens",
+                        "Great Void (in ancient Chinese philosophy",
+                        "the primordial substance that gives rise to qi)"
+                    ]
+                },
+                {
+                    "kanji": "虚偽",
+                    "reading": "キョギ",
+                    "meanings": [
+                        "falsehood",
+                        "untruth",
+                        "lie",
+                        "misinformation",
+                        "fallacy"
+                    ]
+                },
+                {
+                    "kanji": "虚空",
+                    "reading": "コクウ",
+                    "meanings": [
+                        "empty space",
+                        "empty sky"
+                    ]
+                }
+            ]
+        }
+    }
+}

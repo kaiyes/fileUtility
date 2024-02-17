@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"姉\"",
+        "strokes": 8,
+        "main_meanings": [
+            "elder sister"
+        ],
+        "main_readings": {
+            "kun": [
+                "あね",
+                "はは"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "413": "Remembering The Kanji (James Heisig)",
+                "146": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "498": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1329": "A New Dictionary of Kanji Usage",
+                "1207": "Classic Nelson (Andrew Nelson)",
+                "120": "Essential Kanji (P.G. O’Neill)",
+                "154": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "847": "Japanese Names (P.G. O’Neill)",
+                "3.15": "Japanese for Busy People",
+                "407": "Kanji and Kana (Spahn and Hadamitzky)",
+                "411": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "77": "Kanji in Context (Nishiguchi and Kono)",
+                "438": "Kodansha Compact Kanji Guide",
+                "336": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "210": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "253": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "420": "Les Kanjis dans la tete (Yves Maniette)",
+                "6165": "Morohashi",
+                "280": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1201": "New Nelson (John Haig)",
+                "442": "Remembering The Kanji, 6th edition (James Heisig)",
+                "159": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1744": "2001 Kanji",
+                "3e5.8": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "1-3-4": "SKIP code",
+                "4042.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-48": "JIS X 0208-1997 kuten code",
+                "59c9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zi3"
+                ],
+                "korean": [
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "亠",
+                "女",
+                "巾"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": [
+                "姊"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "姉",
+                    "reading": "あね",
+                    "meanings": [
+                        "older sister",
+                        "elder sister"
+                    ]
+                },
+                {
+                    "kanji": "姉さん",
+                    "reading": "ねえさん",
+                    "meanings": [
+                        "older sister",
+                        "elder sister",
+                        "young lady",
+                        "miss",
+                        "ma'am"
+                    ]
+                },
+                {
+                    "kanji": "大姉",
+                    "reading": "おおあね",
+                    "meanings": [
+                        "eldest sister"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "姉",
+                    "reading": "シ",
+                    "meanings": [
+                        "honorific suffix used after the name of a woman of equal or higher status"
+                    ]
+                },
+                {
+                    "kanji": "姉妹",
+                    "reading": "シマイ",
+                    "meanings": [
+                        "sisters"
+                    ]
+                },
+                {
+                    "kanji": "実姉",
+                    "reading": "ジッシ",
+                    "meanings": [
+                        "biological older sister",
+                        "real elder sister"
+                    ]
+                },
+                {
+                    "kanji": "兄姉",
+                    "reading": "ケイシ",
+                    "meanings": [
+                        "brother and sister"
+                    ]
+                }
+            ]
+        }
+    }
+}

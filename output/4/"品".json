@@ -1,0 +1,219 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"品\"",
+        "strokes": 9,
+        "main_meanings": [
+            "goods",
+            "refinement",
+            "dignity",
+            "article",
+            "counter for meal courses"
+        ],
+        "main_readings": {
+            "kun": [
+                "しな"
+            ],
+            "on": [
+                "ヒン",
+                "ホン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "311": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "405": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "382": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "138": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "923": "Classic Nelson (Andrew Nelson)",
+                "146": "Essential Kanji (P.G. O’Neill)",
+                "916": "Japanese Names (P.G. O’Neill)",
+                "3.11": "Japanese for Busy People",
+                "230": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "683": "Kanji in Context (Nishiguchi and Kono)",
+                "328": "Kodansha Compact Kanji Guide",
+                "2795": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1437": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1937": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "23": "Remembering The Kanji, 6th edition (James Heisig)",
+                "3581": "Morohashi",
+                "2248": "New Japanese English Character Dictionary (Jack Halpern)",
+                "792": "New Nelson (John Haig)",
+                "372": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "345": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3777": "2001 Kanji",
+                "3d6.15": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "6066.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-42": "JIS X 0208-1997 kuten code",
+                "54c1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pin3"
+                ],
+                "korean": [
+                    "pum"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "品"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "品",
+                    "reading": "しな",
+                    "meanings": [
+                        "article",
+                        "item",
+                        "thing",
+                        "goods",
+                        "stock",
+                        "quality",
+                        "flirtatiousness",
+                        "coquetry"
+                    ]
+                },
+                {
+                    "kanji": "品目",
+                    "reading": "ひんもく",
+                    "meanings": [
+                        "item",
+                        "commodity",
+                        "list of articles"
+                    ]
+                },
+                {
+                    "kanji": "一品",
+                    "reading": "いっぴん",
+                    "meanings": [
+                        "item",
+                        "article",
+                        "dish",
+                        "course",
+                        "finest item"
+                    ]
+                },
+                {
+                    "kanji": "極め付きの品",
+                    "reading": "きわめつきのしな",
+                    "meanings": [
+                        "article of certified genuineness"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "品",
+                    "reading": "ヒン",
+                    "meanings": [
+                        "elegance",
+                        "grace",
+                        "refinement",
+                        "class",
+                        "dignity",
+                        "article",
+                        "item",
+                        "counter for items (of food",
+                        "etc.)",
+                        "counter for dishes or courses (at a restaurant)"
+                    ]
+                },
+                {
+                    "kanji": "品位",
+                    "reading": "ヒンイ",
+                    "meanings": [
+                        "dignity",
+                        "grace",
+                        "nobility",
+                        "grade",
+                        "quality",
+                        "fineness",
+                        "carat",
+                        "karat"
+                    ]
+                },
+                {
+                    "kanji": "小品",
+                    "reading": "ショウヒン",
+                    "meanings": [
+                        "short piece (of music",
+                        "writing)",
+                        "small work (painting",
+                        "sculpture",
+                        "etc.)",
+                        "literary sketch",
+                        "essay",
+                        "small article",
+                        "small item"
+                    ]
+                },
+                {
+                    "kanji": "遺品",
+                    "reading": "イヒン",
+                    "meanings": [
+                        "things left (to one) by the deceased",
+                        "inherited item",
+                        "estate",
+                        "memento",
+                        "keepsake",
+                        "lost item",
+                        "lost property"
+                    ]
+                },
+                {
+                    "kanji": "品",
+                    "reading": "ホン",
+                    "meanings": [
+                        "court rank",
+                        "level",
+                        "grade",
+                        "chapter",
+                        "section",
+                        "volume"
+                    ]
+                },
+                {
+                    "kanji": "品題",
+                    "reading": "ホンダイ",
+                    "meanings": [
+                        "chapter title",
+                        "section title",
+                        "volume title"
+                    ]
+                },
+                {
+                    "kanji": "九品",
+                    "reading": "クホン",
+                    "meanings": [
+                        "nine levels of Amitabha's Pure Land",
+                        "Amitabha's Pure Land",
+                        "nine-tiered lotus leaf platform in Amitabha's Pure Land"
+                    ]
+                }
+            ]
+        }
+    }
+}

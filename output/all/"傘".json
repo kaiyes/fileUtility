@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"傘\"",
+        "strokes": 12,
+        "main_meanings": [
+            "umbrella"
+        ],
+        "main_readings": {
+            "kun": [
+                "かさ"
+            ],
+            "on": [
+                "サン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1310": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1856": "A New Dictionary of Kanji Usage",
+                "518": "Classic Nelson (Andrew Nelson)",
+                "1064": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1702": "Japanese Names (P.G. O’Neill)",
+                "790": "Kanji and Kana (Spahn and Hadamitzky)",
+                "804": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1655": "Kanji in Context (Nishiguchi and Kono)",
+                "53": "Kodansha Compact Kanji Guide",
+                "2640": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1349": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1829": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1035": "Les Kanjis dans la tete (Yves Maniette)",
+                "966": "Morohashi",
+                "2131": "New Japanese English Character Dictionary (Jack Halpern)",
+                "283": "New Nelson (John Haig)",
+                "1026": "Remembering The Kanji (James Heisig)",
+                "1103": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1505": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2855": "2001 Kanji",
+                "2a10.7": "The Kanji Dictionary",
+                "2-2-10": "SKIP code",
+                "8040.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-17": "JIS X 0208-1997 kuten code",
+                "5098": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "san3"
+                ],
+                "korean": [
+                    "san"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "人",
+                "个",
+                "十"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "仐"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "傘",
+                    "reading": "かさ",
+                    "meanings": [
+                        "umbrella",
+                        "parasol",
+                        "something shaped like an umbrella or a conical hat",
+                        "shade (of a lamp)",
+                        "mushroom cap",
+                        "pileus"
+                    ]
+                },
+                {
+                    "kanji": "笠貝",
+                    "reading": "かさがい",
+                    "meanings": [
+                        "limpet (esp. species Cellana mazatlandica)"
+                    ]
+                },
+                {
+                    "kanji": "核の傘",
+                    "reading": "かくのかさ",
+                    "meanings": [
+                        "nuclear umbrella"
+                    ]
+                },
+                {
+                    "kanji": "から傘",
+                    "reading": "からかさ",
+                    "meanings": [
+                        "paper umbrella",
+                        "bamboo-and-oiled-paper umbrella"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "傘下",
+                    "reading": "サンカ",
+                    "meanings": [
+                        "affiliated with",
+                        "under jurisdiction of",
+                        "under the umbrella"
+                    ]
+                },
+                {
+                    "kanji": "傘寿",
+                    "reading": "サンジュ",
+                    "meanings": [
+                        "80th birthday"
+                    ]
+                },
+                {
+                    "kanji": "落下傘",
+                    "reading": "ラッカサン",
+                    "meanings": [
+                        "parachute"
+                    ]
+                },
+                {
+                    "kanji": "開傘",
+                    "reading": "カイサン",
+                    "meanings": [
+                        "opening of a parachute"
+                    ]
+                }
+            ]
+        }
+    }
+}

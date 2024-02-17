@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"律\"",
+        "strokes": 9,
+        "main_meanings": [
+            "rhythm",
+            "law",
+            "regulation",
+            "gauge",
+            "control"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "リツ",
+                "リチ",
+                "レツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "877": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "1003": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "993": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1048": "A New Dictionary of Kanji Usage",
+                "1608": "Classic Nelson (Andrew Nelson)",
+                "526": "Essential Kanji (P.G. O’Neill)",
+                "521": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "787": "Japanese Names (P.G. O’Neill)",
+                "667": "Kanji and Kana (Spahn and Hadamitzky)",
+                "678": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "519": "Kanji in Context (Nishiguchi and Kono)",
+                "627": "Kodansha Compact Kanji Guide",
+                "433": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "268": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "322": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "883": "Les Kanjis dans la tete (Yves Maniette)",
+                "10097": "Morohashi",
+                "363": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1740": "New Nelson (John Haig)",
+                "874": "Remembering The Kanji (James Heisig)",
+                "939": "Remembering The Kanji, 6th edition (James Heisig)",
+                "895": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2055": "2001 Kanji",
+                "3i6.1": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "2520.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-07": "JIS X 0208-1997 kuten code",
+                "5f8b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たかし、 のり"
+                ],
+                "chinese": [
+                    "lu:4"
+                ],
+                "korean": [
+                    "ryul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "彳",
+                "聿"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "律",
+                    "reading": "リツ",
+                    "meanings": [
+                        "law (esp. ancient East Asian criminal code)",
+                        "regulation",
+                        "vinaya (rules for the monastic community)",
+                        "Ritsu (school of Buddhism)",
+                        "lüshi (style of Chinese poem)",
+                        "(musical) pitch",
+                        "six odd-numbered notes of the ancient chromatic scale",
+                        "Japanese seven-tone gagaku scale",
+                        "similar to Dorian mode (corresponding to: re",
+                        "mi",
+                        "fa",
+                        "so",
+                        "la",
+                        "ti",
+                        "do)",
+                        "step (in traditional Eastern music",
+                        "corresponding to a Western semitone)"
+                    ]
+                },
+                {
+                    "kanji": "律令",
+                    "reading": "リツリョウ",
+                    "meanings": [
+                        "ritsuryō",
+                        "criminal",
+                        "administrative and civil codes of the Nara and Heian eras based on Chinese models"
+                    ]
+                },
+                {
+                    "kanji": "一律",
+                    "reading": "イチリツ",
+                    "meanings": [
+                        "uniform",
+                        "even",
+                        "across-the-board",
+                        "equal"
+                    ]
+                },
+                {
+                    "kanji": "自律",
+                    "reading": "ジリツ",
+                    "meanings": [
+                        "autonomy (in Kantian ethics)",
+                        "self-control"
+                    ]
+                },
+                {
+                    "kanji": "律儀",
+                    "reading": "リチギ",
+                    "meanings": [
+                        "upright",
+                        "honest",
+                        "faithful",
+                        "conscientious",
+                        "sincere"
+                    ]
+                },
+                {
+                    "kanji": "律義者",
+                    "reading": "リチギモノ",
+                    "meanings": [
+                        "honest person",
+                        "conscientious person"
+                    ]
+                },
+                {
+                    "kanji": "呂律",
+                    "reading": "ロレツ",
+                    "meanings": [
+                        "articulation"
+                    ]
+                }
+            ]
+        }
+    }
+}

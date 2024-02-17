@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"訓\"",
+        "strokes": 10,
+        "main_meanings": [
+            "instruction",
+            "Japanese character reading",
+            "explanation",
+            "read"
+        ],
+        "main_readings": {
+            "kun": [
+                "おし.える",
+                "よ.む",
+                "くん.ずる"
+            ],
+            "on": [
+                "クン",
+                "キン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "764": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "489": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "656": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1059": "A New Dictionary of Kanji Usage",
+                "4317": "Classic Nelson (Andrew Nelson)",
+                "613": "Essential Kanji (P.G. O’Neill)",
+                "894": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1148": "Japanese Names (P.G. O’Neill)",
+                "771": "Kanji and Kana (Spahn and Hadamitzky)",
+                "785": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "951": "Kanji in Context (Nishiguchi and Kono)",
+                "1661": "Kodansha Compact Kanji Guide",
+                "1844": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "975": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1322": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "347": "Les Kanjis dans la tete (Yves Maniette)",
+                "35238": "Morohashi",
+                "1454": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5562": "New Nelson (John Haig)",
+                "341": "Remembering The Kanji (James Heisig)",
+                "365": "Remembering The Kanji, 6th edition (James Heisig)",
+                "540": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3054": "2001 Kanji",
+                "7a3.6": "The Kanji Dictionary",
+                "1-7-3": "SKIP code",
+                "0260.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-17": "JIS X 0208-1997 kuten code",
+                "8a13": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "く、 くに、 くの、 さとし、 のり、 ふみ"
+                ],
+                "chinese": [
+                    "xun4"
+                ],
+                "korean": [
+                    "hun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "川",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "読む",
+                    "reading": "よむ",
+                    "meanings": [
+                        "to read",
+                        "to recite (e.g. a sutra)",
+                        "to chant",
+                        "to predict",
+                        "to guess",
+                        "to forecast",
+                        "to read (someone's thoughts)",
+                        "to see (e.g. into someone's heart)",
+                        "to divine",
+                        "to pronounce",
+                        "to read (e.g. a kanji)",
+                        "to decipher",
+                        "to read (a meter",
+                        "graph",
+                        "music",
+                        "etc.)",
+                        "to tell (the time)",
+                        "to count",
+                        "to estimate",
+                        "to read (a kanji) with its native Japanese reading"
+                    ]
+                },
+                {
+                    "kanji": "訓む",
+                    "reading": "よむ",
+                    "meanings": [
+                        "to read (a kanji) with its native Japanese reading"
+                    ]
+                },
+                {
+                    "kanji": "訓ずる",
+                    "reading": "くんずる",
+                    "meanings": [
+                        "to read kanji using its native Japanese pronunciation"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "訓",
+                    "reading": "クン",
+                    "meanings": [
+                        "native Japanese reading of a Chinese character",
+                        "precept",
+                        "lesson",
+                        "one's teachings"
+                    ]
+                },
+                {
+                    "kanji": "訓示",
+                    "reading": "クンジ",
+                    "meanings": [
+                        "instruction",
+                        "direction",
+                        "briefing"
+                    ]
+                },
+                {
+                    "kanji": "特訓",
+                    "reading": "トックン",
+                    "meanings": [
+                        "special training",
+                        "intensive training",
+                        "crash course"
+                    ]
+                },
+                {
+                    "kanji": "校訓",
+                    "reading": "コウクン",
+                    "meanings": [
+                        "school precepts"
+                    ]
+                },
+                {
+                    "kanji": "庭訓",
+                    "reading": "テイキン",
+                    "meanings": [
+                        "home education"
+                    ]
+                },
+                {
+                    "kanji": "家訓",
+                    "reading": "カクン",
+                    "meanings": [
+                        "family precepts",
+                        "family motto",
+                        "rule of the home"
+                    ]
+                }
+            ]
+        }
+    }
+}

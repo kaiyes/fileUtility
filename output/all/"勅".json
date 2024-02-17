@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"勅\"",
+        "strokes": 9,
+        "main_meanings": [
+            "imperial order"
+        ],
+        "main_readings": {
+            "kun": [
+                "いまし.める",
+                "みことのり"
+            ],
+            "on": [
+                "チョク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1600": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2034": "A New Dictionary of Kanji Usage",
+                "725": "Classic Nelson (Andrew Nelson)",
+                "1478": "Essential Kanji (P.G. O’Neill)",
+                "1103": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "898": "Japanese Names (P.G. O’Neill)",
+                "1886": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2056": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1895": "Kanji in Context (Nishiguchi and Kono)",
+                "217": "Kodansha Compact Kanji Guide",
+                "1841": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "973": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1319": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1683": "Les Kanjis dans la tete (Yves Maniette)",
+                "2354": "Morohashi",
+                "1451": "New Japanese English Character Dictionary (Jack Halpern)",
+                "540": "New Nelson (John Haig)",
+                "1667": "Remembering The Kanji (James Heisig)",
+                "1796": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1234": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1545": "2001 Kanji",
+                "2g7.1": "The Kanji Dictionary",
+                "1-7-2": "SKIP code",
+                "5492.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-28": "JIS X 0208-1997 kuten code",
+                "52c5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "て、 のり"
+                ],
+                "chinese": [
+                    "chi4"
+                ],
+                "korean": [
+                    "chig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "一",
+                "｜",
+                "力",
+                "口",
+                "木"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": [
+                "敕"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "詔",
+                    "reading": "みことのり",
+                    "meanings": [
+                        "imperial decree",
+                        "imperial edict"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "詔",
+                    "reading": "ミコトノリ",
+                    "meanings": [
+                        "imperial decree",
+                        "imperial edict"
+                    ]
+                },
+                {
+                    "kanji": "勅意",
+                    "reading": "チョクイ",
+                    "meanings": [
+                        "meaning or gist of a decree"
+                    ]
+                },
+                {
+                    "kanji": "違勅",
+                    "reading": "イチョク",
+                    "meanings": [
+                        "disobeying the emperor's order"
+                    ]
+                },
+                {
+                    "kanji": "回勅",
+                    "reading": "カイチョク",
+                    "meanings": [
+                        "encyclical"
+                    ]
+                }
+            ]
+        }
+    }
+}

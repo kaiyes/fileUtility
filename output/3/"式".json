@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"式\"",
+        "strokes": 6,
+        "main_meanings": [
+            "style",
+            "ceremony",
+            "rite",
+            "function",
+            "method",
+            "system",
+            "form",
+            "expression"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "417": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "311": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "295": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "185": "A New Dictionary of Kanji Usage",
+                "1556": "Classic Nelson (Andrew Nelson)",
+                "349": "Essential Kanji (P.G. O’Neill)",
+                "515": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "306": "Japanese Names (P.G. O’Neill)",
+                "525": "Kanji and Kana (Spahn and Hadamitzky)",
+                "534": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "796": "Kanji in Context (Nishiguchi and Kono)",
+                "602": "Kodansha Compact Kanji Guide",
+                "3785": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1931": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2623": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "359": "Les Kanjis dans la tete (Yves Maniette)",
+                "9663": "Morohashi",
+                "3049": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1676": "New Nelson (John Haig)",
+                "353": "Remembering The Kanji (James Heisig)",
+                "377": "Remembering The Kanji, 6th edition (James Heisig)",
+                "356": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "269": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1456": "2001 Kanji",
+                "4n3.2": "The Kanji Dictionary",
+                "3-3-3": "SKIP code",
+                "4310.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-16": "JIS X 0208-1997 kuten code",
+                "5f0f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のり"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "sig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shoot,",
+            "parts": [
+                "工",
+                "弋"
+            ],
+            "basis": "弋",
+            "kangxi_order": 56,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "式",
+                    "reading": "シキ",
+                    "meanings": [
+                        "way",
+                        "style",
+                        "fashion",
+                        "method",
+                        "system",
+                        "form",
+                        "type",
+                        "ceremony",
+                        "rite",
+                        "ritual",
+                        "celebration",
+                        "wedding (ceremony)",
+                        "equation",
+                        "formula",
+                        "expression",
+                        "enforcement regulations (of the ritsuryō legal codes)"
+                    ]
+                },
+                {
+                    "kanji": "式場",
+                    "reading": "シキジョウ",
+                    "meanings": [
+                        "ceremonial hall (e.g. wedding",
+                        "funeral)",
+                        "hall for ceremonies",
+                        "place of ceremony"
+                    ]
+                },
+                {
+                    "kanji": "硬式",
+                    "reading": "コウシキ",
+                    "meanings": [
+                        "hard (esp. of hardball",
+                        "tennis",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "型式",
+                    "reading": "カタシキ",
+                    "meanings": [
+                        "model (e.g. of a vehicle)",
+                        "type"
+                    ]
+                }
+            ]
+        }
+    }
+}

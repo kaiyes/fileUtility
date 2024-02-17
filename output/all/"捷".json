@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"捷\"",
+        "strokes": 11,
+        "main_meanings": [
+            "victory",
+            "fast"
+        ],
+        "main_readings": {
+            "kun": [
+                "はや.い"
+            ],
+            "on": [
+                "ショウ",
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1938": "Classic Nelson (Andrew Nelson)",
+                "1323": "Japanese Names (P.G. O’Neill)",
+                "2079": "Kanji and Kana (Spahn and Hadamitzky)",
+                "609": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "370": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "462": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "12216": "Morohashi",
+                "2198": "New Nelson (John Haig)",
+                "2273": "Remembering The Kanji (James Heisig)",
+                "2372": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3c8.4": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5508.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-25": "JIS X 0208-1997 kuten code",
+                "6377": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かつ"
+                ],
+                "chinese": [
+                    "jie2"
+                ],
+                "korean": [
+                    "cheob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "ヨ",
+                "扎",
+                "疋"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "早い",
+                    "reading": "はやい",
+                    "meanings": [
+                        "fast",
+                        "quick",
+                        "rapid",
+                        "swift",
+                        "speedy",
+                        "brisk",
+                        "prompt",
+                        "early",
+                        "soon",
+                        "earlier than usual",
+                        "premature",
+                        "too soon",
+                        "too early",
+                        "easy",
+                        "simple",
+                        "quick",
+                        "fast",
+                        "as soon as ...",
+                        "the moment ...",
+                        "the instant ..."
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "勝利",
+                    "reading": "ショウリ",
+                    "meanings": [
+                        "victory",
+                        "triumph",
+                        "win",
+                        "conquest",
+                        "success"
+                    ]
+                },
+                {
+                    "kanji": "捷運",
+                    "reading": "ショウウン",
+                    "meanings": [
+                        "rapid transit (in Taiwan)"
+                    ]
+                },
+                {
+                    "kanji": "必勝",
+                    "reading": "ヒッショウ",
+                    "meanings": [
+                        "certain victory"
+                    ]
+                },
+                {
+                    "kanji": "軽捷",
+                    "reading": "ケイショウ",
+                    "meanings": [
+                        "nimble"
+                    ]
+                }
+            ]
+        }
+    }
+}

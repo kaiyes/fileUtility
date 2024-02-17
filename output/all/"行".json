@@ -1,0 +1,365 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"行\"",
+        "strokes": 6,
+        "main_meanings": [
+            "going",
+            "journey",
+            "carry out",
+            "conduct",
+            "act",
+            "line",
+            "row",
+            "bank"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.く",
+                "ゆ.く",
+                "-ゆ.き",
+                "-ゆき",
+                "-い.き",
+                "-いき",
+                "おこな.う",
+                "おこ.なう"
+            ],
+            "on": [
+                "コウ",
+                "ギョウ",
+                "アン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "73": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "131": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "118": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "31": "A New Dictionary of Kanji Usage",
+                "4213": "Classic Nelson (Andrew Nelson)",
+                "24": "Essential Kanji (P.G. O’Neill)",
+                "82": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "245": "Japanese Names (P.G. O’Neill)",
+                "2.4": "Japanese for Busy People",
+                "68": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "58": "Kanji in Context (Nishiguchi and Kono)",
+                "1613": "Kodansha Compact Kanji Guide",
+                "246": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "157": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "187": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "882": "Les Kanjis dans la tete (Yves Maniette)",
+                "34029": "Morohashi",
+                "212": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5419": "New Nelson (John Haig)",
+                "873": "Remembering The Kanji (James Heisig)",
+                "938": "Remembering The Kanji, 6th edition (James Heisig)",
+                "18": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "123": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2053": "2001 Kanji",
+                "3i3.1": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "2122.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-52": "JIS X 0208-1997 kuten code",
+                "884c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いく、 なみ、 なめ、 みち、 ゆき、 ゆく"
+                ],
+                "chinese": [
+                    "xing2",
+                    "hang2",
+                    "hang4",
+                    "xing4"
+                ],
+                "korean": [
+                    "haeng",
+                    "hang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "go,",
+            "parts": [
+                "彳",
+                "行"
+            ],
+            "basis": "行",
+            "kangxi_order": 144,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "行く",
+                    "reading": "いく",
+                    "meanings": [
+                        "to go",
+                        "to move (towards)",
+                        "to head (towards)",
+                        "to leave (for)",
+                        "to move through",
+                        "to travel across",
+                        "to walk along (e.g. a road)",
+                        "to go (well",
+                        "badly",
+                        "etc.)",
+                        "to proceed",
+                        "to turn out",
+                        "to get along",
+                        "to do (in a particular way)",
+                        "to go (with; a choice)",
+                        "to try",
+                        "to pass (of time",
+                        "seasons",
+                        "etc.)",
+                        "to go by",
+                        "to stream",
+                        "to flow",
+                        "to die",
+                        "to pass away",
+                        "to reach (a stage",
+                        "extent",
+                        "age",
+                        "etc.)",
+                        "to get to",
+                        "to go (so far as ...)",
+                        "to reach (of information",
+                        "instructions",
+                        "wind",
+                        "etc.)",
+                        "to arrive",
+                        "to continue ...",
+                        "to go on ...",
+                        "to (progress) steadily",
+                        "to gradually ...",
+                        "to progressively ...",
+                        "to have an orgasm",
+                        "to come",
+                        "to cum",
+                        "to trip",
+                        "to get high",
+                        "to have a drug-induced hallucination"
+                    ]
+                },
+                {
+                    "kanji": "行く先",
+                    "reading": "ゆくさき",
+                    "meanings": [
+                        "destination",
+                        "whereabouts",
+                        "future",
+                        "prospects"
+                    ]
+                },
+                {
+                    "kanji": "行く",
+                    "reading": "いく",
+                    "meanings": [
+                        "to go",
+                        "to move (towards)",
+                        "to head (towards)",
+                        "to leave (for)",
+                        "to move through",
+                        "to travel across",
+                        "to walk along (e.g. a road)",
+                        "to go (well",
+                        "badly",
+                        "etc.)",
+                        "to proceed",
+                        "to turn out",
+                        "to get along",
+                        "to do (in a particular way)",
+                        "to go (with; a choice)",
+                        "to try",
+                        "to pass (of time",
+                        "seasons",
+                        "etc.)",
+                        "to go by",
+                        "to stream",
+                        "to flow",
+                        "to die",
+                        "to pass away",
+                        "to reach (a stage",
+                        "extent",
+                        "age",
+                        "etc.)",
+                        "to get to",
+                        "to go (so far as ...)",
+                        "to reach (of information",
+                        "instructions",
+                        "wind",
+                        "etc.)",
+                        "to arrive",
+                        "to continue ...",
+                        "to go on ...",
+                        "to (progress) steadily",
+                        "to gradually ...",
+                        "to progressively ...",
+                        "to have an orgasm",
+                        "to come",
+                        "to cum",
+                        "to trip",
+                        "to get high",
+                        "to have a drug-induced hallucination"
+                    ]
+                },
+                {
+                    "kanji": "行方",
+                    "reading": "ゆくえ",
+                    "meanings": [
+                        "(one's) whereabouts",
+                        "destination",
+                        "where one is headed",
+                        "outcome",
+                        "course (of events)",
+                        "development",
+                        "direction",
+                        "tide",
+                        "future",
+                        "journey ahead"
+                    ]
+                },
+                {
+                    "kanji": "行う",
+                    "reading": "おこなう",
+                    "meanings": [
+                        "to perform",
+                        "to do",
+                        "to conduct oneself",
+                        "to carry out"
+                    ]
+                },
+                {
+                    "kanji": "行う",
+                    "reading": "おこなう",
+                    "meanings": [
+                        "to perform",
+                        "to do",
+                        "to conduct oneself",
+                        "to carry out"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "行",
+                    "reading": "コウ",
+                    "meanings": [
+                        "going",
+                        "travelling",
+                        "traveling",
+                        "journey",
+                        "trip",
+                        "act",
+                        "action",
+                        "bank",
+                        "counter for banks",
+                        "counter for groups or parties of people",
+                        "type of classical Chinese verse (usu. an epic from the Tang period onwards)",
+                        "shopping district (of similar merchants; in the Sui and Tang periods)",
+                        "merchants' guild (in the Tang period)"
+                    ]
+                },
+                {
+                    "kanji": "行為",
+                    "reading": "コウイ",
+                    "meanings": [
+                        "act",
+                        "deed",
+                        "conduct"
+                    ]
+                },
+                {
+                    "kanji": "並行",
+                    "reading": "ヘイコウ",
+                    "meanings": [
+                        "going side-by-side",
+                        "going abreast",
+                        "running concurrently",
+                        "occurring at the same time",
+                        "keeping pace with"
+                    ]
+                },
+                {
+                    "kanji": "性行",
+                    "reading": "セイコウ",
+                    "meanings": [
+                        "character and conduct"
+                    ]
+                },
+                {
+                    "kanji": "行",
+                    "reading": "ギョウ",
+                    "meanings": [
+                        "line (of text)",
+                        "row",
+                        "verse",
+                        "carya (austerities)",
+                        "samskara (formations)",
+                        "semi-cursive style (of writing Chinese characters)",
+                        "running style"
+                    ]
+                },
+                {
+                    "kanji": "行革",
+                    "reading": "ギョウカク",
+                    "meanings": [
+                        "administrative reform"
+                    ]
+                },
+                {
+                    "kanji": "奉行",
+                    "reading": "ブギョウ",
+                    "meanings": [
+                        "magistrate",
+                        "shogunate administrator"
+                    ]
+                },
+                {
+                    "kanji": "施行",
+                    "reading": "シコウ",
+                    "meanings": [
+                        "putting in force (a law)",
+                        "putting into operation",
+                        "putting into effect",
+                        "enforcement",
+                        "carrying out (a plan",
+                        "policy",
+                        "etc.)",
+                        "execution"
+                    ]
+                },
+                {
+                    "kanji": "行脚",
+                    "reading": "アンギャ",
+                    "meanings": [
+                        "pilgrimage",
+                        "walking tour",
+                        "travelling (on foot)"
+                    ]
+                },
+                {
+                    "kanji": "行火",
+                    "reading": "アンカ",
+                    "meanings": [
+                        "bed warmer",
+                        "foot warmer"
+                    ]
+                }
+            ]
+        }
+    }
+}

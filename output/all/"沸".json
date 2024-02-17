@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"沸\"",
+        "strokes": 8,
+        "main_meanings": [
+            "seethe",
+            "boil",
+            "ferment",
+            "uproar",
+            "breed"
+        ],
+        "main_readings": {
+            "kun": [
+                "わ.く",
+                "わ.かす"
+            ],
+            "on": [
+                "フツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1767": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1707": "A New Dictionary of Kanji Usage",
+                "2524": "Classic Nelson (Andrew Nelson)",
+                "1627": "Essential Kanji (P.G. O’Neill)",
+                "670": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1792": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1928": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1494": "Kanji in Context (Nishiguchi and Kono)",
+                "1180": "Kodansha Compact Kanji Guide",
+                "387": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "244": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "291": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1245": "Les Kanjis dans la tete (Yves Maniette)",
+                "17251": "Morohashi",
+                "329": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3094": "New Nelson (John Haig)",
+                "1237": "Remembering The Kanji (James Heisig)",
+                "1325": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1205": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "344": "2001 Kanji",
+                "3a5.3": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3512.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-08": "JIS X 0208-1997 kuten code",
+                "6cb8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fei4"
+                ],
+                "korean": [
+                    "bi",
+                    "bul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "｜",
+                "ノ",
+                "弓",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "沸く",
+                    "reading": "わく",
+                    "meanings": [
+                        "to grow hot (e.g. water)",
+                        "to boil",
+                        "to get excited (at)",
+                        "to erupt (in applause",
+                        "cheering",
+                        "etc.)",
+                        "to be in a ferment",
+                        "to take place energetically",
+                        "to ferment",
+                        "to melt (of metal)"
+                    ]
+                },
+                {
+                    "kanji": "沸かす",
+                    "reading": "わかす",
+                    "meanings": [
+                        "to boil",
+                        "to heat (a liquid)",
+                        "to prepare (a bath",
+                        "hot drink)",
+                        "to excite",
+                        "to rouse",
+                        "to stir"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "沸々",
+                    "reading": "フツフツ",
+                    "meanings": [
+                        "simmer",
+                        "bubble out",
+                        "flow out"
+                    ]
+                },
+                {
+                    "kanji": "沸々",
+                    "reading": "フツフツ",
+                    "meanings": [
+                        "simmer",
+                        "bubble out",
+                        "flow out"
+                    ]
+                }
+            ]
+        }
+    }
+}

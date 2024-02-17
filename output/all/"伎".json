@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伎\"",
+        "strokes": 6,
+        "main_meanings": [
+            "deed",
+            "skill"
+        ],
+        "main_readings": {
+            "kun": [
+                "わざ",
+                "わざおぎ"
+            ],
+            "on": [
+                "ギ",
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1654": "A New Dictionary of Kanji Usage",
+                "371": "Classic Nelson (Andrew Nelson)",
+                "232": "Japanese Names (P.G. O’Neill)",
+                "2012": "Kanji and Kana (Spahn and Hadamitzky)",
+                "890": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "55": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "30": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "36": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "436": "Morohashi",
+                "46": "New Japanese English Character Dictionary (Jack Halpern)",
+                "133": "New Nelson (John Haig)",
+                "2122": "Remembering The Kanji (James Heisig)",
+                "1040": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2a4.13": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2424.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-76": "JIS X 0208-1997 kuten code",
+                "4f0e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "十",
+                "又",
+                "支"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "技",
+                    "reading": "わざ",
+                    "meanings": [
+                        "technique",
+                        "art",
+                        "skill",
+                        "move"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "技",
+                    "reading": "ワザ",
+                    "meanings": [
+                        "technique",
+                        "art",
+                        "skill",
+                        "move"
+                    ]
+                },
+                {
+                    "kanji": "技能",
+                    "reading": "ギノウ",
+                    "meanings": [
+                        "technical skill",
+                        "ability",
+                        "capacity"
+                    ]
+                },
+                {
+                    "kanji": "雑技",
+                    "reading": "ザツギ",
+                    "meanings": [
+                        "performing arts",
+                        "acrobatics"
+                    ]
+                },
+                {
+                    "kanji": "地歌舞伎",
+                    "reading": "ジカブキ",
+                    "meanings": [
+                        "amateur kabuki performed at local festivals"
+                    ]
+                },
+                {
+                    "kanji": "上方歌舞伎",
+                    "reading": "カミガタカブキ",
+                    "meanings": [
+                        "kabuki in the Kyoto-Osaka style"
+                    ]
+                }
+            ]
+        }
+    }
+}

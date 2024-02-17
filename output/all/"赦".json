@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"赦\"",
+        "strokes": 11,
+        "main_meanings": [
+            "pardon",
+            "forgiveness"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1336": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1967": "A New Dictionary of Kanji Usage",
+                "4536": "Classic Nelson (Andrew Nelson)",
+                "1739": "Essential Kanji (P.G. O’Neill)",
+                "1788": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1570": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1675": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1897": "Kanji in Context (Nishiguchi and Kono)",
+                "1752": "Kodansha Compact Kanji Guide",
+                "1870": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "993": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1344": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1760": "Les Kanjis dans la tete (Yves Maniette)",
+                "36999": "Morohashi",
+                "1478": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5841": "New Nelson (John Haig)",
+                "1744": "Remembering The Kanji (James Heisig)",
+                "1881": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1445": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1466": "2001 Kanji",
+                "4i7.3": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "4834.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-47": "JIS X 0208-1997 kuten code",
+                "8d66": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "she4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "red,",
+            "parts": [
+                "土",
+                "赤",
+                "乞",
+                "攵"
+            ],
+            "basis": "赤",
+            "kangxi_order": 155,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "赦",
+                    "reading": "シャ",
+                    "meanings": [
+                        "pardon",
+                        "amnesty"
+                    ]
+                },
+                {
+                    "kanji": "赦免",
+                    "reading": "シャメン",
+                    "meanings": [
+                        "pardon",
+                        "remission",
+                        "amnesty"
+                    ]
+                },
+                {
+                    "kanji": "特赦",
+                    "reading": "トクシャ",
+                    "meanings": [
+                        "special pardon",
+                        "(general) amnesty"
+                    ]
+                },
+                {
+                    "kanji": "情け容赦",
+                    "reading": "ナサケヨウシャ",
+                    "meanings": [
+                        "mercy"
+                    ]
+                }
+            ]
+        }
+    }
+}

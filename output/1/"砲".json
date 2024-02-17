@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"砲\"",
+        "strokes": 10,
+        "main_meanings": [
+            "cannon",
+            "gun"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1800": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1217": "A New Dictionary of Kanji Usage",
+                "3185": "Classic Nelson (Andrew Nelson)",
+                "993": "Essential Kanji (P.G. O’Neill)",
+                "1569": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1764": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1894": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1631": "Kanji in Context (Nishiguchi and Kono)",
+                "1402": "Kodansha Compact Kanji Guide",
+                "1479": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "785": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1065": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "538": "Les Kanjis dans la tete (Yves Maniette)",
+                "24120P": "Morohashi",
+                "1151": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3998": "New Nelson (John Haig)",
+                "532": "Remembering The Kanji (James Heisig)",
+                "571": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1372": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3356": "2001 Kanji",
+                "5a5.3": "The Kanji Dictionary",
+                "1-5-5": "SKIP code",
+                "1761.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-04": "JIS X 0208-1997 kuten code",
+                "7832": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "づつ"
+                ],
+                "chinese": [
+                    "pao4"
+                ],
+                "korean": [
+                    "po"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "勹",
+                "口",
+                "已",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "砲",
+                    "reading": "ホウ",
+                    "meanings": [
+                        "gun",
+                        "cannon",
+                        "artillery",
+                        "ordnance"
+                    ]
+                },
+                {
+                    "kanji": "砲火",
+                    "reading": "ホウカ",
+                    "meanings": [
+                        "gunfire",
+                        "fire"
+                    ]
+                },
+                {
+                    "kanji": "主砲",
+                    "reading": "シュホウ",
+                    "meanings": [
+                        "main battery",
+                        "main armament"
+                    ]
+                },
+                {
+                    "kanji": "迫撃砲",
+                    "reading": "ハクゲキホウ",
+                    "meanings": [
+                        "mortar"
+                    ]
+                }
+            ]
+        }
+    }
+}

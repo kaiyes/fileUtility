@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"晶\"",
+        "strokes": 12,
+        "main_meanings": [
+            "sparkle",
+            "clear",
+            "crystal"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1403": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1698": "A New Dictionary of Kanji Usage",
+                "2137": "Classic Nelson (Andrew Nelson)",
+                "1582": "Essential Kanji (P.G. O’Neill)",
+                "1408": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1740": "Japanese Names (P.G. O’Neill)",
+                "1645": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1758": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1808": "Kanji in Context (Nishiguchi and Kono)",
+                "977": "Kodansha Compact Kanji Guide",
+                "3122": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1601": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2183": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "22": "Remembering The Kanji, 6th edition (James Heisig)",
+                "14000": "Morohashi",
+                "2474": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2482": "New Nelson (John Haig)",
+                "1546": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3878": "2001 Kanji",
+                "4c8.6": "The Kanji Dictionary",
+                "2-4-8": "SKIP code",
+                "6066.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-29": "JIS X 0208-1997 kuten code",
+                "6676": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あき、 あきら、 ひかり、 まさ"
+                ],
+                "chinese": [
+                    "jing1"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "晶化",
+                    "reading": "ショウカ",
+                    "meanings": [
+                        "crystallization",
+                        "crystallisation"
+                    ]
+                },
+                {
+                    "kanji": "晶光",
+                    "reading": "ショウコウ",
+                    "meanings": [
+                        "brilliant light"
+                    ]
+                },
+                {
+                    "kanji": "水晶",
+                    "reading": "スイショウ",
+                    "meanings": [
+                        "(rock) crystal",
+                        "high purity quartz"
+                    ]
+                },
+                {
+                    "kanji": "骸晶",
+                    "reading": "ガイショウ",
+                    "meanings": [
+                        "hopper crystal",
+                        "skeleton crystal"
+                    ]
+                }
+            ]
+        }
+    }
+}

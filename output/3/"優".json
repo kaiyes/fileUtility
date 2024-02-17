@@ -1,0 +1,229 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"優\"",
+        "strokes": 17,
+        "main_meanings": [
+            "tenderness",
+            "excel",
+            "surpass",
+            "actor",
+            "superiority",
+            "gentleness"
+        ],
+        "main_readings": {
+            "kun": [
+                "やさ.しい",
+                "すぐ.れる",
+                "まさ.る"
+            ],
+            "on": [
+                "ユウ",
+                "ウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "995": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "984": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "453": "A New Dictionary of Kanji Usage",
+                "564": "Classic Nelson (Andrew Nelson)",
+                "1148": "Essential Kanji (P.G. O’Neill)",
+                "336": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2599": "Japanese Names (P.G. O’Neill)",
+                "1033": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1074": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1168": "Kanji in Context (Nishiguchi and Kono)",
+                "140": "Kodansha Compact Kanji Guide",
+                "200": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "130": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "156": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1002": "Les Kanjis dans la tete (Yves Maniette)",
+                "1261": "Morohashi",
+                "177": "New Japanese English Character Dictionary (Jack Halpern)",
+                "334": "New Nelson (John Haig)",
+                "993": "Remembering The Kanji (James Heisig)",
+                "1068": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1000": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2167": "2001 Kanji",
+                "2a15.1": "The Kanji Dictionary",
+                "1-2-15": "SKIP code",
+                "2124.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-05": "JIS X 0208-1997 kuten code",
+                "512a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ゆ、 よし"
+                ],
+                "chinese": [
+                    "you1"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "化",
+                "冖",
+                "夂",
+                "心",
+                "白",
+                "自"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "優しい",
+                    "reading": "やさしい",
+                    "meanings": [
+                        "tender",
+                        "kind",
+                        "gentle",
+                        "graceful",
+                        "affectionate",
+                        "amiable"
+                    ]
+                },
+                {
+                    "kanji": "優しい声",
+                    "reading": "やさしいこえ",
+                    "meanings": [
+                        "soft voice"
+                    ]
+                },
+                {
+                    "kanji": "優れる",
+                    "reading": "すぐれる",
+                    "meanings": [
+                        "to surpass",
+                        "to outstrip",
+                        "to excel"
+                    ]
+                },
+                {
+                    "kanji": "勝る",
+                    "reading": "まさる",
+                    "meanings": [
+                        "to excel",
+                        "to surpass",
+                        "to exceed",
+                        "to have an edge",
+                        "to be superior",
+                        "to outrival",
+                        "to outweigh",
+                        "to preponderate"
+                    ]
+                },
+                {
+                    "kanji": "優るとも劣らない",
+                    "reading": "まさるともおとらない",
+                    "meanings": [
+                        "not at all inferior to",
+                        "rival or surpass",
+                        "compare favorably (with)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "優",
+                    "reading": "ユウ",
+                    "meanings": [
+                        "Excellent (grade)",
+                        "A",
+                        "superiority",
+                        "excellence",
+                        "gentle",
+                        "graceful",
+                        "elegant",
+                        "skillful"
+                    ]
+                },
+                {
+                    "kanji": "優位",
+                    "reading": "ユウイ",
+                    "meanings": [
+                        "predominance",
+                        "superiority",
+                        "ascendancy",
+                        "advantage",
+                        "supremacy"
+                    ]
+                },
+                {
+                    "kanji": "声優",
+                    "reading": "セイユウ",
+                    "meanings": [
+                        "voice actor or actress (radio",
+                        "animation",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "怪優",
+                    "reading": "カイユウ",
+                    "meanings": [
+                        "actor or performer with fascinating acting and appearance"
+                    ]
+                },
+                {
+                    "kanji": "優曇華",
+                    "reading": "ウドンゲ",
+                    "meanings": [
+                        "udumbara (mythical Indian plant often identified with the cluster fig",
+                        "Ficus glomerata)",
+                        "something very rare (from the legend that the udumbara flowers once in 3000 years)",
+                        "Japanese fiber banana flower",
+                        "green lacewing eggs"
+                    ]
+                },
+                {
+                    "kanji": "優婆夷",
+                    "reading": "ウバイ",
+                    "meanings": [
+                        "upasika (devout female lay follower of Buddhism)"
+                    ]
+                },
+                {
+                    "kanji": "声優",
+                    "reading": "セイユウ",
+                    "meanings": [
+                        "voice actor or actress (radio",
+                        "animation",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "怪優",
+                    "reading": "カイユウ",
+                    "meanings": [
+                        "actor or performer with fascinating acting and appearance"
+                    ]
+                }
+            ]
+        }
+    }
+}

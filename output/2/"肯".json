@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肯\"",
+        "strokes": 8,
+        "main_meanings": [
+            "agreement",
+            "consent",
+            "comply with"
+        ],
+        "main_readings": {
+            "kun": [
+                "がえんじ.る"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1250": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1535": "A New Dictionary of Kanji Usage",
+                "2432": "Classic Nelson (Andrew Nelson)",
+                "1625": "Essential Kanji (P.G. O’Neill)",
+                "842": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "709": "Japanese Names (P.G. O’Neill)",
+                "1262": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1334": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1403": "Kanji in Context (Nishiguchi and Kono)",
+                "1015": "Kodansha Compact Kanji Guide",
+                "3072": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1567": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2142": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "380": "Les Kanjis dans la tete (Yves Maniette)",
+                "29311": "Morohashi",
+                "2417": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4771": "New Nelson (John Haig)",
+                "374": "Remembering The Kanji (James Heisig)",
+                "400": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1191": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1246": "2001 Kanji",
+                "4b4.11": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "2122.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-46": "JIS X 0208-1997 kuten code",
+                "80af": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ken3"
+                ],
+                "korean": [
+                    "geung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "月",
+                "止"
+            ],
+            "basis": "肉",
+            "kangxi_order": null,
+            "variants": [
+                "肎"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "肯んじる",
+                    "reading": "がえんじる",
+                    "meanings": [
+                        "to consent",
+                        "to allow",
+                        "to accept",
+                        "to agree"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "肯定",
+                    "reading": "コウテイ",
+                    "meanings": [
+                        "affirmation",
+                        "affirmative"
+                    ]
+                },
+                {
+                    "kanji": "肯綮",
+                    "reading": "コウケイ",
+                    "meanings": [
+                        "the essential point"
+                    ]
+                },
+                {
+                    "kanji": "首肯",
+                    "reading": "シュコウ",
+                    "meanings": [
+                        "assent",
+                        "consent"
+                    ]
+                }
+            ]
+        }
+    }
+}

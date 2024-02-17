@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"丑\"",
+        "strokes": 4,
+        "main_meanings": [
+            "sign of the ox or cow",
+            "1-3AM",
+            "second sign of Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "うし"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2056": "A New Dictionary of Kanji Usage",
+                "13": "Classic Nelson (Andrew Nelson)",
+                "1965": "Essential Kanji (P.G. O’Neill)",
+                "99": "Japanese Names (P.G. O’Neill)",
+                "2001": "Kanji and Kana (Spahn and Hadamitzky)",
+                "4241": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2140": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2889": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2061": "Les Kanjis dans la tete (Yves Maniette)",
+                "23": "Morohashi",
+                "3433": "New Japanese English Character Dictionary (Jack Halpern)",
+                "12": "New Nelson (John Haig)",
+                "2040": "Remembering The Kanji (James Heisig)",
+                "2197": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "0a4.39": "The Kanji Dictionary",
+                "4-4-1": "SKIP code",
+                "1710.5": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-15": "JIS X 0208-1997 kuten code",
+                "4e11": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ"
+                ],
+                "chinese": [
+                    "chou3"
+                ],
+                "korean": [
+                    "chug",
+                    "chu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "ノ"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": [
+                "丒"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "丑",
+                    "reading": "うし",
+                    "meanings": [
+                        "the Ox (second sign of the Chinese zodiac)",
+                        "hour of the Ox (around 2am",
+                        "1-3am",
+                        "or 2-4am)",
+                        "north-northeast",
+                        "twelfth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "丑寅",
+                    "reading": "うしとら",
+                    "meanings": [
+                        "northeast"
+                    ]
+                },
+                {
+                    "kanji": "土用丑",
+                    "reading": "どよううし",
+                    "meanings": [
+                        "day of the ox in midsummer (during the hottest season)",
+                        "dog days of summer"
+                    ]
+                },
+                {
+                    "kanji": "辛丑",
+                    "reading": "かのとうし",
+                    "meanings": [
+                        "Metal Ox (38th term of the sexagenary cycle",
+                        "e.g. 1961",
+                        "2021",
+                        "2081)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "丁丑",
+                    "reading": "ヒノトノウシ",
+                    "meanings": [
+                        "Fire Ox (14th term of the sexagenary cycle",
+                        "e.g. 1937",
+                        "1997",
+                        "2057)"
+                    ]
+                },
+                {
+                    "kanji": "癸丑",
+                    "reading": "ミズノトウシ",
+                    "meanings": [
+                        "Water Ox (50th term of the sexagenary cycle",
+                        "e.g. 1913",
+                        "1973",
+                        "2033)"
+                    ]
+                }
+            ]
+        }
+    }
+}

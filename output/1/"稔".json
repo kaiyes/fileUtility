@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"稔\"",
+        "strokes": 13,
+        "main_meanings": [
+            "harvest",
+            "ripen"
+        ],
+        "main_readings": {
+            "kun": [
+                "みの.る",
+                "みのり"
+            ],
+            "on": [
+                "ネン",
+                "ジン",
+                "ニン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3288": "Classic Nelson (Andrew Nelson)",
+                "1979": "Essential Kanji (P.G. O’Neill)",
+                "1916": "Japanese Names (P.G. O’Neill)",
+                "2183": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1544": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "815": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1115": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "25107": "Morohashi",
+                "1207": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4149": "New Nelson (John Haig)",
+                "2607": "Remembering The Kanji (James Heisig)",
+                "2653": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5d8.5": "The Kanji Dictionary",
+                "1-5-8": "SKIP code",
+                "2893.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-13": "JIS X 0208-1997 kuten code",
+                "7a14": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とし、 なる、 なり、 みのる、 ね、 み"
+                ],
+                "chinese": [
+                    "ren3"
+                ],
+                "korean": [
+                    "im",
+                    "yeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "一",
+                "个",
+                "心",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "実る",
+                    "reading": "みのる",
+                    "meanings": [
+                        "to bear fruit",
+                        "to ripen",
+                        "to produce (good) results",
+                        "to show results",
+                        "to bear fruit"
+                    ]
+                },
+                {
+                    "kanji": "実り",
+                    "reading": "みのり",
+                    "meanings": [
+                        "ripening (of a crop)",
+                        "crop",
+                        "harvest"
+                    ]
+                },
+                {
+                    "kanji": "実りの秋",
+                    "reading": "みのりのあき",
+                    "meanings": [
+                        "autumn",
+                        "the harvest season"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "稔実不良",
+                    "reading": "ネンジツフリョウ",
+                    "meanings": [
+                        "poor crop (of rice)"
+                    ]
+                },
+                {
+                    "kanji": "稔性",
+                    "reading": "ネンセイ",
+                    "meanings": [
+                        "fertility (esp. of plants)"
+                    ]
+                },
+                {
+                    "kanji": "豊稔",
+                    "reading": "ホウネン",
+                    "meanings": [
+                        "bumper harvest"
+                    ]
+                }
+            ]
+        }
+    }
+}

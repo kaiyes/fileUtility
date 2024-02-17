@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"属\"",
+        "strokes": 12,
+        "main_meanings": [
+            "belong",
+            "genus",
+            "subordinate official",
+            "affiliated"
+        ],
+        "main_readings": {
+            "kun": [
+                "さかん",
+                "つく",
+                "やから"
+            ],
+            "on": [
+                "ゾク",
+                "ショク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "835": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "766": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "744": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "799": "A New Dictionary of Kanji Usage",
+                "1400": "Classic Nelson (Andrew Nelson)",
+                "655": "Essential Kanji (P.G. O’Neill)",
+                "1233": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1802": "Japanese Names (P.G. O’Neill)",
+                "1637": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1750": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1091": "Kanji in Context (Nishiguchi and Kono)",
+                "532": "Kodansha Compact Kanji Guide",
+                "3901": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2009": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2711": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1972": "Les Kanjis dans la tete (Yves Maniette)",
+                "7754X": "Morohashi",
+                "3145": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1430": "New Nelson (John Haig)",
+                "1953": "Remembering The Kanji (James Heisig)",
+                "2103": "Remembering The Kanji, 6th edition (James Heisig)",
+                "758": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3753": "2001 Kanji",
+                "3r9.1": "The Kanji Dictionary",
+                "3-3-9": "SKIP code",
+                "7722.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-16": "JIS X 0208-1997 kuten code",
+                "5c5e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さっか、 つき"
+                ],
+                "chinese": [
+                    "shu3",
+                    "zhu3"
+                ],
+                "korean": [
+                    "chog",
+                    "sog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "ノ",
+                "尸",
+                "禹"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": [
+                "屬"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "雅楽属",
+                    "reading": "うたのさかん",
+                    "meanings": [
+                        "alternate assistant court musician (ritsuryō system)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "属",
+                    "reading": "ゾク",
+                    "meanings": [
+                        "genus",
+                        "generic"
+                    ]
+                },
+                {
+                    "kanji": "属する",
+                    "reading": "ゾクスル",
+                    "meanings": [
+                        "to belong to",
+                        "to come under",
+                        "to be affiliated with",
+                        "to be subject to"
+                    ]
+                },
+                {
+                    "kanji": "非鉄金属",
+                    "reading": "ヒテツキンゾク",
+                    "meanings": [
+                        "non-ferrous metal"
+                    ]
+                },
+                {
+                    "kanji": "貴金属",
+                    "reading": "キキンゾク",
+                    "meanings": [
+                        "precious metal"
+                    ]
+                },
+                {
+                    "kanji": "嘱託",
+                    "reading": "ショクタク",
+                    "meanings": [
+                        "commission",
+                        "entrusting with (work)",
+                        "part-time employee",
+                        "temporary work"
+                    ]
+                },
+                {
+                    "kanji": "嘱望",
+                    "reading": "ショクボウ",
+                    "meanings": [
+                        "having great hopes for (someone's future)",
+                        "expecting much of",
+                        "pinning one's hopes on"
+                    ]
+                }
+            ]
+        }
+    }
+}

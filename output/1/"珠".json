@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"珠\"",
+        "strokes": 10,
+        "main_meanings": [
+            "pearl",
+            "gem",
+            "jewel"
+        ],
+        "main_readings": {
+            "kun": [
+                "たま"
+            ],
+            "on": [
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1349": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1540": "A New Dictionary of Kanji Usage",
+                "2936": "Classic Nelson (Andrew Nelson)",
+                "1585": "Essential Kanji (P.G. O’Neill)",
+                "1534": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1077": "Japanese Names (P.G. O’Neill)",
+                "1504": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1603": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1769": "Kanji in Context (Nishiguchi and Kono)",
+                "1317": "Kodansha Compact Kanji Guide",
+                "1183": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "643": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "854": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "264": "Les Kanjis dans la tete (Yves Maniette)",
+                "20956": "Morohashi",
+                "947": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3637": "New Nelson (John Haig)",
+                "258": "Remembering The Kanji (James Heisig)",
+                "274": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1364": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3164": "2001 Kanji",
+                "4f6.2": "The Kanji Dictionary",
+                "1-4-6": "SKIP code",
+                "1519.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-78": "JIS X 0208-1997 kuten code",
+                "73e0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "す、 とも、 ま、 み"
+                ],
+                "chinese": [
+                    "zhu1"
+                ],
+                "korean": [
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "｜",
+                "ノ",
+                "二",
+                "ハ",
+                "木",
+                "牛",
+                "王"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "玉",
+                    "reading": "たま",
+                    "meanings": [
+                        "ball",
+                        "sphere",
+                        "globe",
+                        "orb",
+                        "bead (of sweat",
+                        "dew",
+                        "etc.)",
+                        "drop",
+                        "droplet",
+                        "ball (in sports)",
+                        "pile (of noodles",
+                        "etc.)",
+                        "bullet",
+                        "bulb (i.e. a light bulb)",
+                        "lens (of glasses",
+                        "etc.)",
+                        "bead (of an abacus)",
+                        "ball (i.e. a testicle)",
+                        "gem",
+                        "jewel (esp. spherical; sometimes used figuratively)",
+                        "pearl",
+                        "female entertainer (e.g. a geisha)",
+                        "person (when commenting on their nature)",
+                        "character",
+                        "item",
+                        "funds or person used as part of a plot",
+                        "egg",
+                        "okonomiyaki",
+                        "coin",
+                        "precious",
+                        "beautiful",
+                        "excellent"
+                    ]
+                },
+                {
+                    "kanji": "珠算",
+                    "reading": "しゅざん",
+                    "meanings": [
+                        "calculation on an abacus"
+                    ]
+                },
+                {
+                    "kanji": "射干玉",
+                    "reading": "ぬばたま",
+                    "meanings": [
+                        "pitch-black",
+                        "darkness"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "珠算",
+                    "reading": "シュザン",
+                    "meanings": [
+                        "calculation on an abacus"
+                    ]
+                },
+                {
+                    "kanji": "珠玉",
+                    "reading": "シュギョク",
+                    "meanings": [
+                        "jewel",
+                        "gem",
+                        "gem (of a story",
+                        "essay",
+                        "etc.)",
+                        "accomplished work",
+                        "beautiful piece"
+                    ]
+                },
+                {
+                    "kanji": "遺珠",
+                    "reading": "イシュ",
+                    "meanings": [
+                        "unknown literary masterpiece",
+                        "lost pearl"
+                    ]
+                },
+                {
+                    "kanji": "滄海遺珠",
+                    "reading": "ソウカイノイシュ",
+                    "meanings": [
+                        "talented person unbeknownst to the world"
+                    ]
+                }
+            ]
+        }
+    }
+}
