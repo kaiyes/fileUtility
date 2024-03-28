@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"esm": "^3.2.25",
-		"express": "^4.17.3",
+		"express": "^4.19.2",
 		"load-json-file": "^6.2.0",
 		"lodash": "^4.17.19",
 		"node-fetch": "^2.6.7"
