@@ -1,0 +1,93 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"蒔\"",
+        "strokes": 13,
+        "main_meanings": [
+            "sow (seeds)"
+        ],
+        "main_readings": {
+            "kun": [
+                "う.える",
+                "ま.く"
+            ],
+            "on": [
+                "シ",
+                "ジ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4018": "Classic Nelson (Andrew Nelson)",
+                "1985": "Japanese Names (P.G. O’Neill)",
+                "2224": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2935": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1507": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2042": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "31546X": "Morohashi",
+                "5153": "New Nelson (John Haig)",
+                "2395": "Remembering The Kanji (James Heisig)",
+                "2476": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k10.7": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "4464.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-12": "JIS X 0208-1997 kuten code",
+                "8494": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まい、 まか、 まき"
+                ],
+                "chinese": [
+                    "shi4",
+                    "shi2"
+                ],
+                "korean": [
+                    "si"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "土",
+                "寸",
+                "艾",
+                "日"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "蒔く",
+                    "reading": "まく",
+                    "meanings": [
+                        "to sow",
+                        "to plant",
+                        "to seed",
+                        "to sow (the seeds of; e.g. conflict)",
+                        "to sprinkle (gold or silver powder on lacquerware)"
+                    ]
+                }
+            ]
+        }
+    }
+}

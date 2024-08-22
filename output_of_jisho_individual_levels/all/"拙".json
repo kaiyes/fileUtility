@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"拙\"",
+        "strokes": 8,
+        "main_meanings": [
+            "bungling",
+            "clumsy",
+            "unskillful"
+        ],
+        "main_readings": {
+            "kun": [
+                "つたな.い"
+            ],
+            "on": [
+                "セツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1487": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1785": "A New Dictionary of Kanji Usage",
+                "1880": "Classic Nelson (Andrew Nelson)",
+                "1733": "Essential Kanji (P.G. O’Neill)",
+                "1351": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1801": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1939": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1470": "Kanji in Context (Nishiguchi and Kono)",
+                "875": "Kodansha Compact Kanji Guide",
+                "373": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "235": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "280": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "776": "Les Kanjis dans la tete (Yves Maniette)",
+                "11965": "Morohashi",
+                "315": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2122": "New Nelson (John Haig)",
+                "769": "Remembering The Kanji (James Heisig)",
+                "831": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1180": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1376": "2001 Kanji",
+                "3c5.11": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5207.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-59": "JIS X 0208-1997 kuten code",
+                "62d9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhuo2",
+                    "zhuo1"
+                ],
+                "korean": [
+                    "jol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "｜",
+                "山",
+                "扎",
+                "凵"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "拙い",
+                    "reading": "つたない",
+                    "meanings": [
+                        "poor-quality",
+                        "shoddy",
+                        "crude",
+                        "unskillful",
+                        "inexpert",
+                        "maladroit",
+                        "inept",
+                        "foolish",
+                        "clumsy",
+                        "unlucky"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "拙",
+                    "reading": "セツ",
+                    "meanings": [
+                        "poor",
+                        "unskillful",
+                        "clumsy",
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "拙劣",
+                    "reading": "セツレツ",
+                    "meanings": [
+                        "clumsy",
+                        "unskillful"
+                    ]
+                },
+                {
+                    "kanji": "稚拙",
+                    "reading": "チセツ",
+                    "meanings": [
+                        "unskillful",
+                        "childish",
+                        "immature",
+                        "naive",
+                        "artless",
+                        "clumsy",
+                        "crude"
+                    ]
+                },
+                {
+                    "kanji": "巧拙",
+                    "reading": "コウセツ",
+                    "meanings": [
+                        "skill",
+                        "workmanship",
+                        "dexterity",
+                        "quality"
+                    ]
+                }
+            ]
+        }
+    }
+}

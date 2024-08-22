@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"副\"",
+        "strokes": 11,
+        "main_meanings": [
+            "vice-",
+            "assistant",
+            "aide",
+            "duplicate",
+            "copy"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "フク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "709": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "604": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "576": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "681": "A New Dictionary of Kanji Usage",
+                "699": "Classic Nelson (Andrew Nelson)",
+                "772": "Essential Kanji (P.G. O’Neill)",
+                "363": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1428": "Japanese Names (P.G. O’Neill)",
+                "714": "Kanji and Kana (Spahn and Hadamitzky)",
+                "727": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "898": "Kanji in Context (Nishiguchi and Kono)",
+                "203": "Kodansha Compact Kanji Guide",
+                "2230": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1161": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1581": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "90": "Les Kanjis dans la tete (Yves Maniette)",
+                "2097": "Morohashi",
+                "1776": "New Japanese English Character Dictionary (Jack Halpern)",
+                "503": "New Nelson (John Haig)",
+                "89": "Remembering The Kanji (James Heisig)",
+                "93": "Remembering The Kanji, 6th edition (James Heisig)",
+                "577": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3043": "2001 Kanji",
+                "2f9.2": "The Kanji Dictionary",
+                "1-9-2": "SKIP code",
+                "1260.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-91": "JIS X 0208-1997 kuten code",
+                "526f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "そい、 そえ"
+                ],
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bu",
+                    "bog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "一",
+                "刈",
+                "口",
+                "田"
+            ],
+            "basis": "刀",
+            "kangxi_order": 18,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "副",
+                    "reading": "フク",
+                    "meanings": [
+                        "assistant",
+                        "associate",
+                        "vice-",
+                        "sub-",
+                        "deputy",
+                        "substitute",
+                        "auxiliary",
+                        "supplementary",
+                        "additional",
+                        "collateral",
+                        "duplicate",
+                        "copy",
+                        "adverb"
+                    ]
+                },
+                {
+                    "kanji": "副作用",
+                    "reading": "フクサヨウ",
+                    "meanings": [
+                        "side effect",
+                        "adverse reaction"
+                    ]
+                },
+                {
+                    "kanji": "正副",
+                    "reading": "セイフク",
+                    "meanings": [
+                        "original and copy (of a document)",
+                        "principal and vice- (e.g. chairman and vice-chairman)"
+                    ]
+                },
+                {
+                    "kanji": "関副",
+                    "reading": "カンフク",
+                    "meanings": [
+                        "relative adverb"
+                    ]
+                }
+            ]
+        }
+    }
+}

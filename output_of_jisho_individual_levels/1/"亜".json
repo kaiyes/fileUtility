@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"亜\"",
+        "strokes": 7,
+        "main_meanings": [
+            "Asia",
+            "rank next",
+            "come after",
+            "-ous"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.ぐ"
+            ],
+            "on": [
+                "ア"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "997": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1331": "A New Dictionary of Kanji Usage",
+                "43": "Classic Nelson (Andrew Nelson)",
+                "1788": "Essential Kanji (P.G. O’Neill)",
+                "1032": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "525": "Japanese Names (P.G. O’Neill)",
+                "1616": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1724": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1818": "Kanji in Context (Nishiguchi and Kono)",
+                "35": "Kodansha Compact Kanji Guide",
+                "4354": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2204": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2966": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1827": "Les Kanjis dans la tete (Yves Maniette)",
+                "272": "Morohashi",
+                "3540": "New Japanese English Character Dictionary (Jack Halpern)",
+                "81": "New Nelson (John Haig)",
+                "1809": "Remembering The Kanji (James Heisig)",
+                "1950": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1092": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3273": "2001 Kanji",
+                "0a7.14": "The Kanji Dictionary",
+                "4-7-1": "SKIP code",
+                "1010.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-01": "JIS X 0208-1997 kuten code",
+                "4e9c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "や、 つぎ、 つぐ"
+                ],
+                "chinese": [
+                    "ya4"
+                ],
+                "korean": [
+                    "a"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "two",
+            "parts": [
+                "一",
+                "｜",
+                "口"
+            ],
+            "basis": "二",
+            "kangxi_order": null,
+            "variants": [
+                "亞"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "次ぐ",
+                    "reading": "つぐ",
+                    "meanings": [
+                        "to follow",
+                        "to come after",
+                        "to come next (to)",
+                        "to rank next (to)",
+                        "to rank second (to)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "亜",
+                    "reading": "ア",
+                    "meanings": [
+                        "sub-",
+                        "second-rate",
+                        "inferior",
+                        "-ous (indicating a low oxidation state)",
+                        "-ite",
+                        "Asia",
+                        "Argentina",
+                        "Arabia",
+                        "America",
+                        "American person"
+                    ]
+                },
+                {
+                    "kanji": "亜鉛",
+                    "reading": "アエン",
+                    "meanings": [
+                        "zinc (Zn)"
+                    ]
+                },
+                {
+                    "kanji": "東亜",
+                    "reading": "トウア",
+                    "meanings": [
+                        "East Asia",
+                        "the Orient"
+                    ]
+                },
+                {
+                    "kanji": "叙利亜",
+                    "reading": "シリア",
+                    "meanings": [
+                        "Syria"
+                    ]
+                }
+            ]
+        }
+    }
+}

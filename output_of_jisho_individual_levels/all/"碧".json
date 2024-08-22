@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"碧\"",
+        "strokes": 14,
+        "main_meanings": [
+            "blue",
+            "green"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヘキ",
+                "ヒャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3208": "Classic Nelson (Andrew Nelson)",
+                "2225": "Japanese Names (P.G. O’Neill)",
+                "2176": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3515": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1815": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2469": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "24334": "Morohashi",
+                "2836": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4027": "New Nelson (John Haig)",
+                "2588": "Remembering The Kanji (James Heisig)",
+                "2634": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5a9.7": "The Kanji Dictionary",
+                "2-9-5": "SKIP code",
+                "1660.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-43": "JIS X 0208-1997 kuten code",
+                "78a7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "みどり、 あお、 たま"
+                ],
+                "chinese": [
+                    "bi4"
+                ],
+                "korean": [
+                    "byeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "口",
+                "王",
+                "白",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "碧雲",
+                    "reading": "ヘキウン",
+                    "meanings": [
+                        "bluish cloud",
+                        "azure sky",
+                        "blue sky"
+                    ]
+                },
+                {
+                    "kanji": "碧海",
+                    "reading": "ヘキカイ",
+                    "meanings": [
+                        "blue sea",
+                        "blue expanse of water"
+                    ]
+                }
+            ]
+        }
+    }
+}

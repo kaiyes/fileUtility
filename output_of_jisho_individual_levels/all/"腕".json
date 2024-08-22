@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"腕\"",
+        "strokes": 12,
+        "main_meanings": [
+            "arm",
+            "ability",
+            "talent"
+        ],
+        "main_readings": {
+            "kun": [
+                "うで"
+            ],
+            "on": [
+                "ワン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1945": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1114": "A New Dictionary of Kanji Usage",
+                "3786": "Classic Nelson (Andrew Nelson)",
+                "1180": "Essential Kanji (P.G. O’Neill)",
+                "850": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1299": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1376": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1342": "Kanji in Context (Nishiguchi and Kono)",
+                "1038": "Kodansha Compact Kanji Guide",
+                "1269": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "687": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "919": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1430": "Les Kanjis dans la tete (Yves Maniette)",
+                "29631": "Morohashi",
+                "1006": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4837": "New Nelson (John Haig)",
+                "1418": "Remembering The Kanji (James Heisig)",
+                "1522": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1550": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3956": "2001 Kanji",
+                "4b8.6": "The Kanji Dictionary",
+                "1-4-8": "SKIP code",
+                "7321.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-51": "JIS X 0208-1997 kuten code",
+                "8155": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wan4"
+                ],
+                "korean": [
+                    "wan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "卩",
+                "夕",
+                "宀",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "腕",
+                    "reading": "うで",
+                    "meanings": [
+                        "arm",
+                        "skill",
+                        "efforts",
+                        "ability"
+                    ]
+                },
+                {
+                    "kanji": "腕時計",
+                    "reading": "うでどけい",
+                    "meanings": [
+                        "wristwatch",
+                        "watch"
+                    ]
+                },
+                {
+                    "kanji": "細腕",
+                    "reading": "ほそうで",
+                    "meanings": [
+                        "thin arm",
+                        "slender arm",
+                        "slender means",
+                        "meager ability to earn a living"
+                    ]
+                },
+                {
+                    "kanji": "太い腕",
+                    "reading": "ふというで",
+                    "meanings": [
+                        "big arm",
+                        "brawny arm"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "腕力",
+                    "reading": "ワンリョク",
+                    "meanings": [
+                        "physical strength",
+                        "brute strength",
+                        "arm strength"
+                    ]
+                },
+                {
+                    "kanji": "腕白",
+                    "reading": "ワンパク",
+                    "meanings": [
+                        "naughty",
+                        "mischievous",
+                        "unruly"
+                    ]
+                },
+                {
+                    "kanji": "鉄腕",
+                    "reading": "テツワン",
+                    "meanings": [
+                        "strong arm"
+                    ]
+                },
+                {
+                    "kanji": "怪腕",
+                    "reading": "カイワン",
+                    "meanings": [
+                        "remarkable ability",
+                        "amazing ability"
+                    ]
+                }
+            ]
+        }
+    }
+}

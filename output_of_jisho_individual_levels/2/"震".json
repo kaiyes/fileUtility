@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"震\"",
+        "strokes": 15,
+        "main_meanings": [
+            "quake",
+            "shake",
+            "tremble",
+            "quiver",
+            "shiver"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふる.う",
+                "ふる.える",
+                "ふる.わせる",
+                "ふる.わす"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1444": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "800": "A New Dictionary of Kanji Usage",
+                "5055": "Classic Nelson (Andrew Nelson)",
+                "1123": "Essential Kanji (P.G. O’Neill)",
+                "999": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2577": "Japanese Names (P.G. O’Neill)",
+                "953": "Kanji and Kana (Spahn and Hadamitzky)",
+                "983": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "847": "Kanji in Context (Nishiguchi and Kono)",
+                "1866": "Kodansha Compact Kanji Guide",
+                "3481": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1794": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2443": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2029": "Les Kanjis dans la tete (Yves Maniette)",
+                "42300": "Morohashi",
+                "2806": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6531": "New Nelson (John Haig)",
+                "2010": "Remembering The Kanji (James Heisig)",
+                "2166": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1814": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3165": "2001 Kanji",
+                "8d7.3": "The Kanji Dictionary",
+                "2-8-7": "SKIP code",
+                "1023.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-44": "JIS X 0208-1997 kuten code",
+                "9707": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhen4"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "厂",
+                "衣",
+                "辰",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "震う",
+                    "reading": "ふるう",
+                    "meanings": [
+                        "to shake",
+                        "to tremble",
+                        "to vibrate"
+                    ]
+                },
+                {
+                    "kanji": "震える",
+                    "reading": "ふるえる",
+                    "meanings": [
+                        "to shiver",
+                        "to shake",
+                        "to quake",
+                        "to tremble",
+                        "to quaver",
+                        "to quiver"
+                    ]
+                },
+                {
+                    "kanji": "震わせる",
+                    "reading": "ふるわせる",
+                    "meanings": [
+                        "to (make something) quiver",
+                        "to shake",
+                        "to tremble",
+                        "to vibrate"
+                    ]
+                },
+                {
+                    "kanji": "震わす",
+                    "reading": "ふるわす",
+                    "meanings": [
+                        "to (make something) quiver",
+                        "to shake",
+                        "to tremble",
+                        "to vibrate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "震",
+                    "reading": "シン",
+                    "meanings": [
+                        "zhen (one of the trigrams of the I Ching: thunder",
+                        "east)"
+                    ]
+                },
+                {
+                    "kanji": "震源",
+                    "reading": "シンゲン",
+                    "meanings": [
+                        "hypocentre (of an earthquake)",
+                        "hypocenter",
+                        "focus"
+                    ]
+                },
+                {
+                    "kanji": "微震",
+                    "reading": "ビシン",
+                    "meanings": [
+                        "slight earthquake"
+                    ]
+                },
+                {
+                    "kanji": "軽震",
+                    "reading": "ケイシン",
+                    "meanings": [
+                        "weak earthquake"
+                    ]
+                }
+            ]
+        }
+    }
+}

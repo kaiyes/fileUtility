@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"郎\"",
+        "strokes": 9,
+        "main_meanings": [
+            "son",
+            "counter for sons"
+        ],
+        "main_readings": {
+            "kun": [
+                "おとこ"
+            ],
+            "on": [
+                "ロウ",
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1936": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "237": "A New Dictionary of Kanji Usage",
+                "4762": "Classic Nelson (Andrew Nelson)",
+                "955": "Essential Kanji (P.G. O’Neill)",
+                "1827": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1145": "Japanese Names (P.G. O’Neill)",
+                "980": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1014": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "546": "Kanji in Context (Nishiguchi and Kono)",
+                "757": "Kodansha Compact Kanji Guide",
+                "1641": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "867": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1184": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1868": "Les Kanjis dans la tete (Yves Maniette)",
+                "39405P": "Morohashi",
+                "1289": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6138": "New Nelson (John Haig)",
+                "1851": "Remembering The Kanji (James Heisig)",
+                "1995": "Remembering The Kanji, 6th edition (James Heisig)",
+                "264": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1300": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "844": "2001 Kanji",
+                "2d6.5": "The Kanji Dictionary",
+                "1-6-3": "SKIP code",
+                "1-6-2": "SKIP code",
+                "3772.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-26": "JIS X 0208-1997 kuten code",
+                "90ce": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いら、 お、 とう、 もん、 ろ、 ろお"
+                ],
+                "chinese": [
+                    "lang2",
+                    "lang4"
+                ],
+                "korean": [
+                    "rang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "邦",
+                "艮"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": [
+                "郒"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "郎",
+                    "reading": "ロウ",
+                    "meanings": [
+                        "nth son",
+                        "lang",
+                        "official title in ancient China",
+                        "man",
+                        "young man",
+                        "my husband",
+                        "my lover",
+                        "nth child (male and female)"
+                    ]
+                },
+                {
+                    "kanji": "郎君",
+                    "reading": "ロウクン",
+                    "meanings": [
+                        "young man",
+                        "boy",
+                        "son (of one's master",
+                        "employer",
+                        "etc.)",
+                        "husband",
+                        "(male) lover",
+                        "dear",
+                        "darling"
+                    ]
+                },
+                {
+                    "kanji": "新郎",
+                    "reading": "シンロウ",
+                    "meanings": [
+                        "bridegroom"
+                    ]
+                },
+                {
+                    "kanji": "女郎",
+                    "reading": "ジョロウ",
+                    "meanings": [
+                        "prostitute (esp. Edo period)"
+                    ]
+                }
+            ]
+        }
+    }
+}

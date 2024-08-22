@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"挟\"",
+        "strokes": 9,
+        "main_meanings": [
+            "pinch",
+            "between"
+        ],
+        "main_readings": {
+            "kun": [
+                "はさ.む",
+                "はさ.まる",
+                "わきばさ.む",
+                "さしはさ.む"
+            ],
+            "on": [
+                "キョウ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1165": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1923": "A New Dictionary of Kanji Usage",
+                "570": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1354": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1437": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1473": "Kanji in Context (Nishiguchi and Kono)",
+                "886": "Kodansha Compact Kanji Guide",
+                "450": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "277": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "335": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1275": "Les Kanjis dans la tete (Yves Maniette)",
+                "377": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2146": "New Nelson (John Haig)",
+                "1267": "Remembering The Kanji (James Heisig)",
+                "1357": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1258": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3c6.1": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "5503.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-20": "JIS X 0208-1997 kuten code",
+                "631f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xie2"
+                ],
+                "korean": [
+                    "hyeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "丶",
+                "二",
+                "亠",
+                "人",
+                "并",
+                "大",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "挾"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "挟む",
+                    "reading": "はさむ",
+                    "meanings": [
+                        "to hold between (e.g. one's fingers",
+                        "chopsticks)",
+                        "to grip (from both sides)",
+                        "to put between",
+                        "to sandwich between",
+                        "to insert",
+                        "to interpose",
+                        "to catch (e.g. a finger in a door)",
+                        "to trap",
+                        "to pinch",
+                        "to insert (e.g. a break into proceedings)",
+                        "to interpose (e.g. an objection)",
+                        "to interject",
+                        "to throw in (e.g. a joke)",
+                        "to be on either side of (a road",
+                        "table",
+                        "etc.)",
+                        "to have between each other",
+                        "to be across (a street",
+                        "river",
+                        "etc.)",
+                        "to harbour (feelings)",
+                        "to cast (e.g. doubt)"
+                    ]
+                },
+                {
+                    "kanji": "挟まる",
+                    "reading": "はさまる",
+                    "meanings": [
+                        "to get between",
+                        "to be caught in"
+                    ]
+                },
+                {
+                    "kanji": "差し挟む",
+                    "reading": "さしはさむ",
+                    "meanings": [
+                        "to insert",
+                        "to interrupt",
+                        "to slip in a word",
+                        "to harbor (e.g. doubts)",
+                        "to harbour",
+                        "to entertain (e.g. a theory)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "挟殺",
+                    "reading": "キョウサツ",
+                    "meanings": [
+                        "rundown"
+                    ]
+                },
+                {
+                    "kanji": "挟瞼器",
+                    "reading": "キョウケンキ",
+                    "meanings": [
+                        "entropion forceps"
+                    ]
+                }
+            ]
+        }
+    }
+}

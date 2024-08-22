@@ -1,0 +1,178 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"釣\"",
+        "strokes": 11,
+        "main_meanings": [
+            "angling",
+            "fish",
+            "catch",
+            "allure",
+            "ensnare"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.る",
+                "つ.り",
+                "つ.り-"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1592": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1225": "A New Dictionary of Kanji Usage",
+                "4820": "Classic Nelson (Andrew Nelson)",
+                "1836": "Essential Kanji (P.G. O’Neill)",
+                "1843": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1416": "Japanese Names (P.G. O’Neill)",
+                "1862": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2020": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1335": "Kanji in Context (Nishiguchi and Kono)",
+                "1810": "Kodansha Compact Kanji Guide",
+                "2108": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1098": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1496": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "279": "Les Kanjis dans la tete (Yves Maniette)",
+                "40172X": "Morohashi",
+                "1674": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6224": "New Nelson (John Haig)",
+                "273": "Remembering The Kanji (James Heisig)",
+                "291": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1495": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2852": "2001 Kanji",
+                "8a3.5": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "8712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-64": "JIS X 0208-1997 kuten code",
+                "91e3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つり"
+                ],
+                "chinese": [
+                    "diao4"
+                ],
+                "korean": [
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "釒"
+            ],
+            "meaning": "metal,",
+            "parts": [
+                "丶",
+                "勹",
+                "金"
+            ],
+            "basis": "金",
+            "kangxi_order": 167,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "釣る",
+                    "reading": "つる",
+                    "meanings": [
+                        "to fish",
+                        "to angle",
+                        "to catch",
+                        "to lure in",
+                        "to tempt",
+                        "to attract",
+                        "to entice",
+                        "to allure"
+                    ]
+                },
+                {
+                    "kanji": "釣瓶",
+                    "reading": "つるべ",
+                    "meanings": [
+                        "well bucket"
+                    ]
+                },
+                {
+                    "kanji": "釣り",
+                    "reading": "つり",
+                    "meanings": [
+                        "fishing",
+                        "angling",
+                        "change (for a purchase)",
+                        "clickbaiting",
+                        "trolling",
+                        "bait",
+                        "making deliberately inflammatory posts online"
+                    ]
+                },
+                {
+                    "kanji": "釣り合い",
+                    "reading": "つりあい",
+                    "meanings": [
+                        "balance",
+                        "equilibrium"
+                    ]
+                },
+                {
+                    "kanji": "雪釣り",
+                    "reading": "ゆきつり",
+                    "meanings": [
+                        "game in which children use a piece of charcoal on a string to create and lift up snowballs"
+                    ]
+                },
+                {
+                    "kanji": "雪吊り",
+                    "reading": "ゆきづり",
+                    "meanings": [
+                        "placing ropes or wires around trees to protect them from the snow",
+                        "ropes stretched from the top of a tree to the lower branches to prevent their breaking under heavy snow"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "釣果",
+                    "reading": "チョウカ",
+                    "meanings": [
+                        "catch (fishing)",
+                        "amount of fish caught",
+                        "caught fish"
+                    ]
+                },
+                {
+                    "kanji": "釣菌",
+                    "reading": "チョウキン",
+                    "meanings": [
+                        "extracting bacteria (from a petri dish",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "爆釣",
+                    "reading": "バクチョウ",
+                    "meanings": [
+                        "big catch (of fish)",
+                        "big haul"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"痛\"",
+        "strokes": 12,
+        "main_meanings": [
+            "pain",
+            "hurt",
+            "damage",
+            "bruise"
+        ],
+        "main_readings": {
+            "kun": [
+                "いた.い",
+                "いた.む",
+                "いた.ましい",
+                "いた.める"
+            ],
+            "on": [
+                "ツウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "954": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "943": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "769": "A New Dictionary of Kanji Usage",
+                "3054": "Classic Nelson (Andrew Nelson)",
+                "1020": "Essential Kanji (P.G. O’Neill)",
+                "750": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1320": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1402": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "346": "Kanji in Context (Nishiguchi and Kono)",
+                "1353": "Kodansha Compact Kanji Guide",
+                "4071": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2065": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2799": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1706": "Les Kanjis dans la tete (Yves Maniette)",
+                "22195": "Morohashi",
+                "3285": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3814": "New Nelson (John Haig)",
+                "1690": "Remembering The Kanji (James Heisig)",
+                "1825": "Remembering The Kanji, 6th edition (James Heisig)",
+                "953": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "553": "2001 Kanji",
+                "5i7.7": "The Kanji Dictionary",
+                "3-5-7": "SKIP code",
+                "0012.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-43": "JIS X 0208-1997 kuten code",
+                "75db": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tong4"
+                ],
+                "korean": [
+                    "tong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sickness",
+            "parts": [
+                "マ",
+                "用",
+                "疔"
+            ],
+            "basis": "疒",
+            "kangxi_order": 104,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "痛い",
+                    "reading": "いたい",
+                    "meanings": [
+                        "painful",
+                        "sore",
+                        "cringy",
+                        "embarrassing"
+                    ]
+                },
+                {
+                    "kanji": "痛々しい",
+                    "reading": "いたいたしい",
+                    "meanings": [
+                        "pitiful",
+                        "pathetic",
+                        "painful to look at"
+                    ]
+                },
+                {
+                    "kanji": "痛む",
+                    "reading": "いたむ",
+                    "meanings": [
+                        "to hurt",
+                        "to ache",
+                        "to feel a pain",
+                        "to be injured",
+                        "to be spoiled (e.g. food)",
+                        "to be damaged"
+                    ]
+                },
+                {
+                    "kanji": "痛ましい",
+                    "reading": "いたましい",
+                    "meanings": [
+                        "pitiful",
+                        "heartbreaking",
+                        "heartrending",
+                        "touching",
+                        "tragic",
+                        "sad",
+                        "hurtful"
+                    ]
+                },
+                {
+                    "kanji": "痛める",
+                    "reading": "いためる",
+                    "meanings": [
+                        "to hurt",
+                        "to injure",
+                        "to cause pain",
+                        "to harm",
+                        "to damage",
+                        "to spoil",
+                        "to worry",
+                        "to bother",
+                        "to be grieved over",
+                        "to afflict",
+                        "to cause financial loss",
+                        "to hurt one's pocket"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "痛",
+                    "reading": "ツウ",
+                    "meanings": [
+                        "pain",
+                        "ache",
+                        "-algia"
+                    ]
+                },
+                {
+                    "kanji": "痛感",
+                    "reading": "ツウカン",
+                    "meanings": [
+                        "feeling keenly",
+                        "fully realizing"
+                    ]
+                },
+                {
+                    "kanji": "悲痛",
+                    "reading": "ヒツウ",
+                    "meanings": [
+                        "grief",
+                        "sorrow",
+                        "extreme sadness",
+                        "heartbreak"
+                    ]
+                },
+                {
+                    "kanji": "沈痛",
+                    "reading": "チンツウ",
+                    "meanings": [
+                        "grave",
+                        "sad",
+                        "mournful",
+                        "sorrowful",
+                        "pensive"
+                    ]
+                }
+            ]
+        }
+    }
+}

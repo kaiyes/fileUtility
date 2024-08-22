@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"不\"",
+        "strokes": 4,
+        "main_meanings": [
+            "negative",
+            "non-",
+            "bad",
+            "ugly",
+            "clumsy"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "フ",
+                "ブ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "500": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "600": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "572": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "134": "A New Dictionary of Kanji Usage",
+                "17": "Classic Nelson (Andrew Nelson)",
+                "130": "Essential Kanji (P.G. O’Neill)",
+                "104": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "94": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "3.18": "Japanese for Busy People",
+                "422": "Kanji in Context (Nishiguchi and Kono)",
+                "10": "Kodansha Compact Kanji Guide",
+                "4242": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2141": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2890": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1225": "Les Kanjis dans la tete (Yves Maniette)",
+                "19": "Morohashi",
+                "3434": "New Japanese English Character Dictionary (Jack Halpern)",
+                "13": "New Nelson (John Haig)",
+                "1217": "Remembering The Kanji (James Heisig)",
+                "1302": "Remembering The Kanji, 6th edition (James Heisig)",
+                "103": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "444": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3154": "2001 Kanji",
+                "0a4.2": "The Kanji Dictionary",
+                "4-4-1": "SKIP code",
+                "3-3-1": "SKIP code",
+                "3-2-2": "SKIP code",
+                "1090.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-52": "JIS X 0208-1997 kuten code",
+                "4e0d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bu4",
+                    "bu2"
+                ],
+                "korean": [
+                    "bu",
+                    "bul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "丶",
+                "ノ"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "不",
+                    "reading": "フ",
+                    "meanings": [
+                        "un-",
+                        "non-",
+                        "negative prefix"
+                    ]
+                },
+                {
+                    "kanji": "不安",
+                    "reading": "フアン",
+                    "meanings": [
+                        "anxiety",
+                        "uneasiness",
+                        "worry",
+                        "apprehension",
+                        "fear",
+                        "insecurity",
+                        "suspense"
+                    ]
+                },
+                {
+                    "kanji": "意味不",
+                    "reading": "イミフ",
+                    "meanings": [
+                        "of uncertain meaning",
+                        "ambiguous",
+                        "cryptic",
+                        "nonsensical",
+                        "incomprehensible",
+                        "perplexing"
+                    ]
+                },
+                {
+                    "kanji": "社不",
+                    "reading": "シャフ",
+                    "meanings": [
+                        "person unfit for society",
+                        "misfit"
+                    ]
+                },
+                {
+                    "kanji": "無",
+                    "reading": "ブ",
+                    "meanings": [
+                        "un-",
+                        "non-",
+                        "bad ...",
+                        "poor ..."
+                    ]
+                },
+                {
+                    "kanji": "不気味",
+                    "reading": "ブキミ",
+                    "meanings": [
+                        "weird",
+                        "eerie",
+                        "ominous",
+                        "creepy",
+                        "uncanny",
+                        "unearthly"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"注\"",
+        "strokes": 8,
+        "main_meanings": [
+            "pour",
+            "irrigate",
+            "shed (tears)",
+            "flow into",
+            "concentrate on",
+            "notes",
+            "comment",
+            "annotate"
+        ],
+        "main_readings": {
+            "kun": [
+                "そそ.ぐ",
+                "さ.す",
+                "つ.ぐ"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "277": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "365": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "344": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "437": "A New Dictionary of Kanji Usage",
+                "2531": "Classic Nelson (Andrew Nelson)",
+                "444": "Essential Kanji (P.G. O’Neill)",
+                "208": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "591": "Japanese Names (P.G. O’Neill)",
+                "3.17": "Japanese for Busy People",
+                "357": "Kanji and Kana (Spahn and Hadamitzky)",
+                "358": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "290": "Kanji in Context (Nishiguchi and Kono)",
+                "1175": "Kodansha Compact Kanji Guide",
+                "383": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "240": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "287": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "273": "Les Kanjis dans la tete (Yves Maniette)",
+                "17316": "Morohashi",
+                "325": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3103": "New Nelson (John Haig)",
+                "267": "Remembering The Kanji (James Heisig)",
+                "285": "Remembering The Kanji, 6th edition (James Heisig)",
+                "459": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "307": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "372": "2001 Kanji",
+                "3a5.16": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3011.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-77": "JIS X 0208-1997 kuten code",
+                "6ce8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhu4"
+                ],
+                "korean": [
+                    "ju"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "汁",
+                "王"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "注ぐ",
+                    "reading": "そそぐ",
+                    "meanings": [
+                        "to pour (into)",
+                        "to sprinkle on (from above)",
+                        "to water (e.g. plants)",
+                        "to pour onto",
+                        "to spray",
+                        "to shed (tears)",
+                        "to concentrate one's energy (strength",
+                        "attention",
+                        "etc.) on",
+                        "to devote to",
+                        "to fix (one's eyes) on",
+                        "to flow into (e.g. of a river)",
+                        "to run into",
+                        "to drain into",
+                        "to fall (of rain",
+                        "snow)",
+                        "to pour down"
+                    ]
+                },
+                {
+                    "kanji": "注す",
+                    "reading": "さす",
+                    "meanings": [
+                        "to pour",
+                        "to add (liquid)",
+                        "to serve (drinks)",
+                        "to put on (lipstick",
+                        "etc.)",
+                        "to apply",
+                        "to colour",
+                        "to dye",
+                        "to light (a fire)",
+                        "to burn"
+                    ]
+                },
+                {
+                    "kanji": "注ぐ",
+                    "reading": "つぐ",
+                    "meanings": [
+                        "to pour (into a vessel)",
+                        "to fill (a cup",
+                        "bowl",
+                        "etc.) with",
+                        "to dish out (food or drink)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "注",
+                    "reading": "チュウ",
+                    "meanings": [
+                        "annotation",
+                        "explanatory note",
+                        "comment"
+                    ]
+                },
+                {
+                    "kanji": "注意",
+                    "reading": "チュウイ",
+                    "meanings": [
+                        "attention",
+                        "notice",
+                        "heed",
+                        "care",
+                        "caution",
+                        "precaution",
+                        "looking out (for)",
+                        "watching out (for)",
+                        "advice",
+                        "warning",
+                        "caution",
+                        "reminder",
+                        "admonishment",
+                        "reprimand",
+                        "telling-off"
+                    ]
+                },
+                {
+                    "kanji": "受注",
+                    "reading": "ジュチュウ",
+                    "meanings": [
+                        "accepting an order",
+                        "receiving an order",
+                        "orders received",
+                        "closed won"
+                    ]
+                },
+                {
+                    "kanji": "特注",
+                    "reading": "トクチュウ",
+                    "meanings": [
+                        "special order (goods)",
+                        "custom (made)",
+                        "bespoke"
+                    ]
+                }
+            ]
+        }
+    }
+}

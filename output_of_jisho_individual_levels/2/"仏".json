@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"仏\"",
+        "strokes": 4,
+        "main_meanings": [
+            "Buddha",
+            "the dead",
+            "France"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほとけ"
+            ],
+            "on": [
+                "ブツ",
+                "フツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "711": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "805": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "784": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "678": "A New Dictionary of Kanji Usage",
+                "351": "Classic Nelson (Andrew Nelson)",
+                "249": "Essential Kanji (P.G. O’Neill)",
+                "300": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "128": "Japanese Names (P.G. O’Neill)",
+                "583": "Kanji and Kana (Spahn and Hadamitzky)",
+                "592": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "416": "Kanji in Context (Nishiguchi and Kono)",
+                "57": "Kodansha Compact Kanji Guide",
+                "20": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "10": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "973": "Les Kanjis dans la tete (Yves Maniette)",
+                "364": "Morohashi",
+                "19": "New Japanese English Character Dictionary (Jack Halpern)",
+                "111": "New Nelson (John Haig)",
+                "964": "Remembering The Kanji (James Heisig)",
+                "1037": "Remembering The Kanji, 6th edition (James Heisig)",
+                "644": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2171": "2001 Kanji",
+                "2a2.5": "The Kanji Dictionary",
+                "1-2-2": "SKIP code",
+                "2223.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-09": "JIS X 0208-1997 kuten code",
+                "4ecf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fo2",
+                    "fu2"
+                ],
+                "korean": [
+                    "bul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "厶"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "佛"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "仏",
+                    "reading": "ほとけ",
+                    "meanings": [
+                        "Buddha",
+                        "Shakyamuni",
+                        "Buddhist image",
+                        "figure of Buddha",
+                        "the dead",
+                        "dead person",
+                        "departed soul",
+                        "merciful person"
+                    ]
+                },
+                {
+                    "kanji": "仏顔",
+                    "reading": "ほとけがお",
+                    "meanings": [
+                        "gentle face"
+                    ]
+                },
+                {
+                    "kanji": "神仏",
+                    "reading": "しんぶつ",
+                    "meanings": [
+                        "gods and Buddha",
+                        "Shinto and Buddhism"
+                    ]
+                },
+                {
+                    "kanji": "吾が仏",
+                    "reading": "あがほとけ",
+                    "meanings": [
+                        "my dear",
+                        "my Buddha"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "仏",
+                    "reading": "ブツ",
+                    "meanings": [
+                        "Buddha",
+                        "Buddhism"
+                    ]
+                },
+                {
+                    "kanji": "仏像",
+                    "reading": "ブツゾウ",
+                    "meanings": [
+                        "statue of Buddha",
+                        "image of Buddha",
+                        "Buddhist statue",
+                        "Buddhist image"
+                    ]
+                },
+                {
+                    "kanji": "石仏",
+                    "reading": "セキブツ",
+                    "meanings": [
+                        "stone Buddhist image",
+                        "unemotional person",
+                        "taciturn person"
+                    ]
+                },
+                {
+                    "kanji": "成仏",
+                    "reading": "ジョウブツ",
+                    "meanings": [
+                        "attaining Buddhahood",
+                        "becoming a Buddha",
+                        "entering Nirvana",
+                        "going to heaven",
+                        "resting in peace",
+                        "dying (peacefully)"
+                    ]
+                },
+                {
+                    "kanji": "仏",
+                    "reading": "フツ",
+                    "meanings": [
+                        "France",
+                        "French (language)"
+                    ]
+                },
+                {
+                    "kanji": "仏語",
+                    "reading": "フツゴ",
+                    "meanings": [
+                        "French (language)"
+                    ]
+                },
+                {
+                    "kanji": "渡仏",
+                    "reading": "トフツ",
+                    "meanings": [
+                        "going to France"
+                    ]
+                },
+                {
+                    "kanji": "滞仏",
+                    "reading": "タイフツ",
+                    "meanings": [
+                        "staying in France"
+                    ]
+                }
+            ]
+        }
+    }
+}

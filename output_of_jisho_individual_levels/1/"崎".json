@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"崎\"",
+        "strokes": 11,
+        "main_meanings": [
+            "promontory",
+            "cape",
+            "spit"
+        ],
+        "main_readings": {
+            "kun": [
+                "さき",
+                "さい",
+                "みさき"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1297": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "457": "A New Dictionary of Kanji Usage",
+                "1426": "Classic Nelson (Andrew Nelson)",
+                "1898": "Essential Kanji (P.G. O’Neill)",
+                "1243": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1592": "Japanese Names (P.G. O’Neill)",
+                "1362": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1447": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1293": "Kanji in Context (Nishiguchi and Kono)",
+                "545": "Kodansha Compact Kanji Guide",
+                "569": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "345": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "428": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "785": "Les Kanjis dans la tete (Yves Maniette)",
+                "8169": "Morohashi",
+                "472": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1485": "New Nelson (John Haig)",
+                "778": "Remembering The Kanji (James Heisig)",
+                "840": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1424": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1249": "2001 Kanji",
+                "3o8.3": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "2472.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-74": "JIS X 0208-1997 kuten code",
+                "5d0e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qi2"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "一",
+                "｜",
+                "口",
+                "大",
+                "山"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": [
+                "埼"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "崎",
+                    "reading": "さき",
+                    "meanings": [
+                        "small peninsula",
+                        "cape",
+                        "promontory",
+                        "headland"
+                    ]
+                },
+                {
+                    "kanji": "川崎",
+                    "reading": "かわさき",
+                    "meanings": [
+                        "Kawasaki (city)"
+                    ]
+                },
+                {
+                    "kanji": "長崎",
+                    "reading": "ながさき",
+                    "meanings": [
+                        "Nagasaki (city",
+                        "prefecture)"
+                    ]
+                },
+                {
+                    "kanji": "岬",
+                    "reading": "みさき",
+                    "meanings": [
+                        "cape (on coast)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "崎崖",
+                    "reading": "キガイ",
+                    "meanings": [
+                        "steepness of a mountain"
+                    ]
+                },
+                {
+                    "kanji": "崎嶇",
+                    "reading": "キク",
+                    "meanings": [
+                        "steep (mountain)",
+                        "precipitous",
+                        "hard (life)",
+                        "difficult",
+                        "troubled"
+                    ]
+                },
+                {
+                    "kanji": "川崎",
+                    "reading": "カワサキ",
+                    "meanings": [
+                        "Kawasaki (city)"
+                    ]
+                },
+                {
+                    "kanji": "長崎",
+                    "reading": "ナガサキ",
+                    "meanings": [
+                        "Nagasaki (city",
+                        "prefecture)"
+                    ]
+                }
+            ]
+        }
+    }
+}

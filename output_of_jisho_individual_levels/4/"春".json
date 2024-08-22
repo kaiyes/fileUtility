@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"春\"",
+        "strokes": 9,
+        "main_meanings": [
+            "springtime",
+            "spring (season)"
+        ],
+        "main_readings": {
+            "kun": [
+                "はる"
+            ],
+            "on": [
+                "シュン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "91": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "158": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "141": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "461": "A New Dictionary of Kanji Usage",
+                "2122": "Classic Nelson (Andrew Nelson)",
+                "162": "Essential Kanji (P.G. O’Neill)",
+                "188": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "963": "Japanese Names (P.G. O’Neill)",
+                "2.20": "Japanese for Busy People",
+                "460": "Kanji and Kana (Spahn and Hadamitzky)",
+                "468": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "96": "Kanji in Context (Nishiguchi and Kono)",
+                "971": "Kodansha Compact Kanji Guide",
+                "3184": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1644": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2232": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1582": "Les Kanjis dans la tete (Yves Maniette)",
+                "13844": "Morohashi",
+                "2576": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2453": "New Nelson (John Haig)",
+                "1568": "Remembering The Kanji (James Heisig)",
+                "1690": "Remembering The Kanji, 6th edition (James Heisig)",
+                "179": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1478": "2001 Kanji",
+                "4c5.13": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "4-9-2": "SKIP code",
+                "5060.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-53": "JIS X 0208-1997 kuten code",
+                "6625": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あずま、 かす、 すの、 ひ、 わら"
+                ],
+                "chinese": [
+                    "chun1"
+                ],
+                "korean": [
+                    "chun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "一",
+                "二",
+                "人",
+                "大",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": [
+                "旾"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "春",
+                    "reading": "はる",
+                    "meanings": [
+                        "spring",
+                        "springtime",
+                        "New Year",
+                        "prime (of life)",
+                        "height (of one's prosperity)",
+                        "heyday",
+                        "adolescence",
+                        "puberty",
+                        "sexuality",
+                        "sexual desire"
+                    ]
+                },
+                {
+                    "kanji": "春秋",
+                    "reading": "しゅんじゅう",
+                    "meanings": [
+                        "spring and autumn",
+                        "spring and fall",
+                        "years",
+                        "age",
+                        "The Spring and Autumn Annals",
+                        "The Chronicles of Lu",
+                        "Chunqiu",
+                        "Ch'un Ch'iu"
+                    ]
+                },
+                {
+                    "kanji": "小春",
+                    "reading": "こはる",
+                    "meanings": [
+                        "10th month of the lunisolar calendar (traditional first month of winter",
+                        "approx. November)",
+                        "late autumn",
+                        "late fall"
+                    ]
+                },
+                {
+                    "kanji": "毎春",
+                    "reading": "まいしゅん",
+                    "meanings": [
+                        "every spring"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "春秋",
+                    "reading": "シュンジュウ",
+                    "meanings": [
+                        "spring and autumn",
+                        "spring and fall",
+                        "years",
+                        "age",
+                        "The Spring and Autumn Annals",
+                        "The Chronicles of Lu",
+                        "Chunqiu",
+                        "Ch'un Ch'iu"
+                    ]
+                },
+                {
+                    "kanji": "春季",
+                    "reading": "シュンキ",
+                    "meanings": [
+                        "spring season"
+                    ]
+                },
+                {
+                    "kanji": "昨春",
+                    "reading": "サクシュン",
+                    "meanings": [
+                        "last spring",
+                        "the spring of last year"
+                    ]
+                },
+                {
+                    "kanji": "売春",
+                    "reading": "バイシュン",
+                    "meanings": [
+                        "prostitution"
+                    ]
+                }
+            ]
+        }
+    }
+}

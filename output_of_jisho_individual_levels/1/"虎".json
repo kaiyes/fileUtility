@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"虎\"",
+        "strokes": 8,
+        "main_meanings": [
+            "tiger",
+            "drunkard"
+        ],
+        "main_readings": {
+            "kun": [
+                "とら"
+            ],
+            "on": [
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1558": "A New Dictionary of Kanji Usage",
+                "4105": "Classic Nelson (Andrew Nelson)",
+                "1932": "Essential Kanji (P.G. O’Neill)",
+                "754": "Japanese Names (P.G. O’Neill)",
+                "2234": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1677": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "3981": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2048": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2766": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2009": "Les Kanjis dans la tete (Yves Maniette)",
+                "32675": "Morohashi",
+                "3212": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5265": "New Nelson (John Haig)",
+                "1990": "Remembering The Kanji (James Heisig)",
+                "2145": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "1257": "2001 Kanji",
+                "2m6.3": "The Kanji Dictionary",
+                "3-4-4": "SKIP code",
+                "3-6-2": "SKIP code",
+                "2121.7": "Four corner code",
+                "2121.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-55": "JIS X 0208-1997 kuten code",
+                "864e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たけ"
+                ],
+                "chinese": [
+                    "hu3"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tiger",
+            "parts": [
+                "儿",
+                "匕",
+                "卜",
+                "厂",
+                "虍"
+            ],
+            "basis": "虍",
+            "kangxi_order": 141,
+            "variants": [
+                "乕"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "虎",
+                    "reading": "とら",
+                    "meanings": [
+                        "tiger (Panthera tigris)",
+                        "drunkard",
+                        "drunk",
+                        "sot"
+                    ]
+                },
+                {
+                    "kanji": "虎葦毛",
+                    "reading": "とらあしげ",
+                    "meanings": [
+                        "dapple gray (horse coat color)",
+                        "dapple grey"
+                    ]
+                },
+                {
+                    "kanji": "大虎",
+                    "reading": "おおとら",
+                    "meanings": [
+                        "big tiger",
+                        "drinker",
+                        "staggering drunkard"
+                    ]
+                },
+                {
+                    "kanji": "小虎",
+                    "reading": "ことら",
+                    "meanings": [
+                        "small tiger",
+                        "light drinker",
+                        "occasional drinker"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "虎列剌",
+                    "reading": "コレラ",
+                    "meanings": [
+                        "cholera"
+                    ]
+                },
+                {
+                    "kanji": "虎疫",
+                    "reading": "コエキ",
+                    "meanings": [
+                        "cholera"
+                    ]
+                },
+                {
+                    "kanji": "猛虎",
+                    "reading": "モウコ",
+                    "meanings": [
+                        "fierce tiger",
+                        "ferocious tiger",
+                        "Hanshin Tigers (baseball team)"
+                    ]
+                },
+                {
+                    "kanji": "竜虎",
+                    "reading": "リュウコ",
+                    "meanings": [
+                        "dragon and tiger",
+                        "two mighty rivals"
+                    ]
+                }
+            ]
+        }
+    }
+}

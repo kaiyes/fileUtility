@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"枚\"",
+        "strokes": 8,
+        "main_meanings": [
+            "sheet of...",
+            "counter for flat thin objects or sheets"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "マイ",
+                "バイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "988": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "976": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "730": "A New Dictionary of Kanji Usage",
+                "2202": "Classic Nelson (Andrew Nelson)",
+                "952": "Essential Kanji (P.G. O’Neill)",
+                "624": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "630": "Japanese Names (P.G. O’Neill)",
+                "3.4": "Japanese for Busy People",
+                "1156": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1211": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "982": "Kanji in Context (Nishiguchi and Kono)",
+                "1080": "Kodansha Compact Kanji Guide",
+                "1069": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "576": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "764": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "338": "Les Kanjis dans la tete (Yves Maniette)",
+                "14554": "Morohashi",
+                "859": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2582": "New Nelson (John Haig)",
+                "332": "Remembering The Kanji (James Heisig)",
+                "354": "Remembering The Kanji, 6th edition (James Heisig)",
+                "875": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1866": "2001 Kanji",
+                "4a4.4": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "4894.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-71": "JIS X 0208-1997 kuten code",
+                "679a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひら"
+                ],
+                "chinese": [
+                    "mei2"
+                ],
+                "korean": [
+                    "mae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "木",
+                "乞",
+                "攵"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "枚",
+                    "reading": "マイ",
+                    "meanings": [
+                        "counter for thin",
+                        "flat objects (e.g. sheets of paper",
+                        "plates",
+                        "coins)",
+                        "counter for portions of gyōza or soba",
+                        "counter for ranks",
+                        "counter for wrestlers of a particular rank",
+                        "counter for fields or rice paddies",
+                        "counter for palanquin bearers"
+                    ]
+                },
+                {
+                    "kanji": "枚数",
+                    "reading": "マイスウ",
+                    "meanings": [
+                        "the number of flat things",
+                        "win-loss difference which influences the ranking of wrestlers"
+                    ]
+                },
+                {
+                    "kanji": "パンツ一枚",
+                    "reading": "パンツイチマイ",
+                    "meanings": [
+                        "(wearing) nothing but a pair of underpants"
+                    ]
+                },
+                {
+                    "kanji": "奇跡の一枚",
+                    "reading": "キセキノイチマイ",
+                    "meanings": [
+                        "photo in which its subject looks much more attractive than their usual self"
+                    ]
+                },
+                {
+                    "kanji": "枚を銜む",
+                    "reading": "バイヲフクム",
+                    "meanings": [
+                        "(of a horse) to be gagged"
+                    ]
+                }
+            ]
+        }
+    }
+}

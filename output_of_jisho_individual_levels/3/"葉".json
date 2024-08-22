@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"葉\"",
+        "strokes": 12,
+        "main_meanings": [
+            "leaf",
+            "plane",
+            "lobe",
+            "needle",
+            "blade",
+            "spear",
+            "counter for flat things",
+            "fragment",
+            "piece"
+        ],
+        "main_readings": {
+            "kun": [
+                "は"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "327": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "428": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "405": "A New Dictionary of Kanji Usage",
+                "4001": "Classic Nelson (Andrew Nelson)",
+                "179": "Essential Kanji (P.G. O’Neill)",
+                "870": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1991": "Japanese Names (P.G. O’Neill)",
+                "253": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "569": "Kanji in Context (Nishiguchi and Kono)",
+                "663": "Kodansha Compact Kanji Guide",
+                "2912": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1497": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2024": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "233": "Les Kanjis dans la tete (Yves Maniette)",
+                "31387P": "Morohashi",
+                "2321": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5129": "New Nelson (John Haig)",
+                "228": "Remembering The Kanji (James Heisig)",
+                "243": "Remembering The Kanji, 6th edition (James Heisig)",
+                "275": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "412": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1964": "2001 Kanji",
+                "3k9.21": "The Kanji Dictionary",
+                "2-3-9": "SKIP code",
+                "2-3-8": "SKIP code",
+                "4490.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-53": "JIS X 0208-1997 kuten code",
+                "8449": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "よ、 わ"
+                ],
+                "chinese": [
+                    "xie2",
+                    "ye4",
+                    "she4"
+                ],
+                "korean": [
+                    "yeob",
+                    "seob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "木",
+                "世"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "葉",
+                    "reading": "は",
+                    "meanings": [
+                        "leaf",
+                        "blade (of grass)",
+                        "(pine) needle"
+                    ]
+                },
+                {
+                    "kanji": "葉書",
+                    "reading": "はがき",
+                    "meanings": [
+                        "postcard",
+                        "memo",
+                        "note",
+                        "card"
+                    ]
+                },
+                {
+                    "kanji": "一葉",
+                    "reading": "いちよう",
+                    "meanings": [
+                        "one leaf",
+                        "one page",
+                        "one sheet",
+                        "one card",
+                        "one photo",
+                        "one boat"
+                    ]
+                },
+                {
+                    "kanji": "枝葉",
+                    "reading": "えだは",
+                    "meanings": [
+                        "branches and leaves",
+                        "foliage",
+                        "unimportant details",
+                        "nonessentials",
+                        "side issue",
+                        "digression"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "葉",
+                    "reading": "ヨウ",
+                    "meanings": [
+                        "counter for leaves",
+                        "pieces of paper",
+                        "etc.",
+                        "counter for boats"
+                    ]
+                },
+                {
+                    "kanji": "葉胃",
+                    "reading": "ヨウイ",
+                    "meanings": [
+                        "omasum",
+                        "psalterium",
+                        "third compartment of the stomach in ruminants"
+                    ]
+                },
+                {
+                    "kanji": "紅葉",
+                    "reading": "コウヨウ",
+                    "meanings": [
+                        "leaves turning red (in autumn)",
+                        "red leaves",
+                        "autumn colours",
+                        "fall colors"
+                    ]
+                },
+                {
+                    "kanji": "前頭葉",
+                    "reading": "ゼントウヨウ",
+                    "meanings": [
+                        "frontal lobe"
+                    ]
+                }
+            ]
+        }
+    }
+}

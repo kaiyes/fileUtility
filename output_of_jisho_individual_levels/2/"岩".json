@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"岩\"",
+        "strokes": 8,
+        "main_meanings": [
+            "boulder",
+            "rock",
+            "cliff"
+        ],
+        "main_readings": {
+            "kun": [
+                "いわ"
+            ],
+            "on": [
+                "ガン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "178": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "102": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "249": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "744": "A New Dictionary of Kanji Usage",
+                "1414": "Classic Nelson (Andrew Nelson)",
+                "821": "Essential Kanji (P.G. O’Neill)",
+                "487": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "942": "Japanese Names (P.G. O’Neill)",
+                "1345": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1428": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "457": "Kanji in Context (Nishiguchi and Kono)",
+                "538": "Kodansha Compact Kanji Guide",
+                "2778": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1423": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1921": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "777": "Les Kanjis dans la tete (Yves Maniette)",
+                "7985": "Morohashi",
+                "2235": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1461": "New Nelson (John Haig)",
+                "770": "Remembering The Kanji (James Heisig)",
+                "832": "Remembering The Kanji, 6th edition (James Heisig)",
+                "156": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1277": "2001 Kanji",
+                "3o5.10": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "2260.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-68": "JIS X 0208-1997 kuten code",
+                "5ca9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "am"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "口",
+                "山",
+                "石"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "岩",
+                    "reading": "いわ",
+                    "meanings": [
+                        "rock",
+                        "boulder",
+                        "crag"
+                    ]
+                },
+                {
+                    "kanji": "岩間",
+                    "reading": "いわま",
+                    "meanings": [
+                        "among rocks"
+                    ]
+                },
+                {
+                    "kanji": "一枚岩",
+                    "reading": "いちまいいわ",
+                    "meanings": [
+                        "monolith",
+                        "large slab of rock",
+                        "unity (of a group",
+                        "organization",
+                        "etc.)",
+                        "unanimity",
+                        "solidarity"
+                    ]
+                },
+                {
+                    "kanji": "浮岩",
+                    "reading": "うきいわ",
+                    "meanings": [
+                        "rock partially submerged in water",
+                        "rock partially emerging from the water",
+                        "pumice stone"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "岩盤",
+                    "reading": "ガンバン",
+                    "meanings": [
+                        "bedrock"
+                    ]
+                },
+                {
+                    "kanji": "岩石",
+                    "reading": "ガンセキ",
+                    "meanings": [
+                        "rock"
+                    ]
+                },
+                {
+                    "kanji": "砂岩",
+                    "reading": "サガン",
+                    "meanings": [
+                        "sandstone"
+                    ]
+                },
+                {
+                    "kanji": "石灰岩",
+                    "reading": "セッカイガン",
+                    "meanings": [
+                        "limestone"
+                    ]
+                }
+            ]
+        }
+    }
+}

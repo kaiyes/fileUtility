@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"彼\"",
+        "strokes": 8,
+        "main_meanings": [
+            "he",
+            "that",
+            "the"
+        ],
+        "main_readings": {
+            "kun": [
+                "かれ",
+                "かの",
+                "か.の"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1725": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "536": "A New Dictionary of Kanji Usage",
+                "1604": "Classic Nelson (Andrew Nelson)",
+                "1764": "Essential Kanji (P.G. O’Neill)",
+                "520": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "578": "Japanese Names (P.G. O’Neill)",
+                "977": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1010": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1146": "Kanji in Context (Nishiguchi and Kono)",
+                "624": "Kodansha Compact Kanji Guide",
+                "346": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "215": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "259": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "892": "Les Kanjis dans la tete (Yves Maniette)",
+                "10066": "Morohashi",
+                "290": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1732": "New Nelson (John Haig)",
+                "883": "Remembering The Kanji (James Heisig)",
+                "948": "Remembering The Kanji, 6th edition (James Heisig)",
+                "56": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1171": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2067": "2001 Kanji",
+                "3i5.2": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "2424.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-64": "JIS X 0208-1997 kuten code",
+                "5f7c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "その"
+                ],
+                "chinese": [
+                    "bi3"
+                ],
+                "korean": [
+                    "pi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "又",
+                "彳",
+                "皮"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "彼",
+                    "reading": "かれ",
+                    "meanings": [
+                        "he",
+                        "him",
+                        "boyfriend"
+                    ]
+                },
+                {
+                    "kanji": "彼ら",
+                    "reading": "かれら",
+                    "meanings": [
+                        "they",
+                        "them"
+                    ]
+                },
+                {
+                    "kanji": "前彼",
+                    "reading": "まえかれ",
+                    "meanings": [
+                        "former boyfriend",
+                        "ex-boyfriend"
+                    ]
+                },
+                {
+                    "kanji": "元彼",
+                    "reading": "もとかれ",
+                    "meanings": [
+                        "former boyfriend",
+                        "ex-boyfriend"
+                    ]
+                },
+                {
+                    "kanji": "彼の",
+                    "reading": "かの",
+                    "meanings": [
+                        "that well-known ..."
+                    ]
+                },
+                {
+                    "kanji": "彼女",
+                    "reading": "かのじょ",
+                    "meanings": [
+                        "she",
+                        "her",
+                        "girlfriend"
+                    ]
+                },
+                {
+                    "kanji": "彼の",
+                    "reading": "かの",
+                    "meanings": [
+                        "that well-known ..."
+                    ]
+                },
+                {
+                    "kanji": "彼女",
+                    "reading": "かのじょ",
+                    "meanings": [
+                        "she",
+                        "her",
+                        "girlfriend"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "彼岸",
+                    "reading": "ヒガン",
+                    "meanings": [
+                        "equinoctial week (when Buddhist services are held)",
+                        "Buddhist services during the equinoctial week",
+                        "nirvana",
+                        "opposite bank",
+                        "opposite shore",
+                        "shore on the other side"
+                    ]
+                },
+                {
+                    "kanji": "彼是",
+                    "reading": "アレコレ",
+                    "meanings": [
+                        "this and that",
+                        "this or that",
+                        "one thing or another",
+                        "this way and that",
+                        "around",
+                        "about",
+                        "round about",
+                        "roughly",
+                        "nearly",
+                        "almost"
+                    ]
+                }
+            ]
+        }
+    }
+}

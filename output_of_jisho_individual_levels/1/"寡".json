@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寡\"",
+        "strokes": 14,
+        "main_meanings": [
+            "widow",
+            "minority",
+            "few"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1053": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1935": "A New Dictionary of Kanji Usage",
+                "1337": "Classic Nelson (Andrew Nelson)",
+                "1855": "Essential Kanji (P.G. O’Neill)",
+                "1216": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1851": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2007": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1660": "Kanji in Context (Nishiguchi and Kono)",
+                "494": "Kodansha Compact Kanji Guide",
+                "2957": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1518": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2059": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "791": "Les Kanjis dans la tete (Yves Maniette)",
+                "7286": "Morohashi",
+                "2344": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1363": "New Nelson (John Haig)",
+                "617": "Remembering The Kanji (James Heisig)",
+                "664": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1699": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "745": "2001 Kanji",
+                "3m11.2": "The Kanji Dictionary",
+                "2-3-11": "SKIP code",
+                "3022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-41": "JIS X 0208-1997 kuten code",
+                "5be1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gua3"
+                ],
+                "korean": [
+                    "gwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "ハ",
+                "刀",
+                "宀",
+                "自"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "寡",
+                    "reading": "カ",
+                    "meanings": [
+                        "minority",
+                        "small numbers",
+                        "unmarried person",
+                        "widow",
+                        "widower"
+                    ]
+                },
+                {
+                    "kanji": "寡婦",
+                    "reading": "カフ",
+                    "meanings": [
+                        "widow",
+                        "divorced woman not remarried",
+                        "unmarried woman"
+                    ]
+                },
+                {
+                    "kanji": "多寡",
+                    "reading": "タカ",
+                    "meanings": [
+                        "degree (of something)",
+                        "greatness or smallness (of something)",
+                        "quantity",
+                        "number",
+                        "amount",
+                        "size"
+                    ]
+                },
+                {
+                    "kanji": "鰥寡",
+                    "reading": "カンカ",
+                    "meanings": [
+                        "widow and widower",
+                        "lonely people"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寄\"",
+        "strokes": 11,
+        "main_meanings": [
+            "draw near",
+            "stop in",
+            "bring near",
+            "gather",
+            "collect",
+            "send",
+            "forward"
+        ],
+        "main_readings": {
+            "kun": [
+                "よ.る",
+                "-よ.り",
+                "よ.せる"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "576": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "671": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "642": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "545": "A New Dictionary of Kanji Usage",
+                "1318": "Classic Nelson (Andrew Nelson)",
+                "692": "Essential Kanji (P.G. O’Neill)",
+                "471": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1525": "Japanese Names (P.G. O’Neill)",
+                "1361": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1445": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1120": "Kanji in Context (Nishiguchi and Kono)",
+                "486": "Kodansha Compact Kanji Guide",
+                "2856": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1473": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1983": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "196": "Les Kanjis dans la tete (Yves Maniette)",
+                "7203": "Morohashi",
+                "2291": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1345": "New Nelson (John Haig)",
+                "192": "Remembering The Kanji (James Heisig)",
+                "204": "Remembering The Kanji, 6th edition (James Heisig)",
+                "727": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "749": "2001 Kanji",
+                "3m8.8": "The Kanji Dictionary",
+                "2-3-8": "SKIP code",
+                "3062.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-83": "JIS X 0208-1997 kuten code",
+                "5bc4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "よせ、 より、 よろ"
+                ],
+                "chinese": [
+                    "ji4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "亅",
+                "口",
+                "大",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "寄る",
+                    "reading": "よる",
+                    "meanings": [
+                        "to approach",
+                        "to draw near",
+                        "to come near",
+                        "to be close to",
+                        "to gather (in one place)",
+                        "to come together",
+                        "to meet",
+                        "to stop by (while on one's way to another place)",
+                        "to drop by",
+                        "to make a short visit",
+                        "to grow old",
+                        "to grow high (number",
+                        "etc.)",
+                        "to grow (wrinkly)",
+                        "to lean against",
+                        "to recline on",
+                        "to push one's opponent while holding their belt",
+                        "to decide on a price and come to a deal",
+                        "to be swayed by (a person)",
+                        "to yield to"
+                    ]
+                },
+                {
+                    "kanji": "寄ると触ると",
+                    "reading": "よるとさわると",
+                    "meanings": [
+                        "whenever they come together"
+                    ]
+                },
+                {
+                    "kanji": "寄せる",
+                    "reading": "よせる",
+                    "meanings": [
+                        "to come near",
+                        "to let someone approach",
+                        "to bring near",
+                        "to bring together",
+                        "to collect",
+                        "to gather",
+                        "to deliver (opinion",
+                        "news",
+                        "etc.)",
+                        "to send (e.g. a letter)",
+                        "to contribute",
+                        "to donate",
+                        "to let someone drop by",
+                        "to add (numbers)",
+                        "to have feelings for (love",
+                        "goodwill",
+                        "trust",
+                        "etc.)",
+                        "to rely upon for a time",
+                        "to depend on",
+                        "to use as a pretext",
+                        "to put aside",
+                        "to press",
+                        "to push",
+                        "to force",
+                        "to include",
+                        "to welcome (in a group)",
+                        "to let in"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "寄港",
+                    "reading": "キコウ",
+                    "meanings": [
+                        "calling at a port",
+                        "making an intermediate stop at an airport"
+                    ]
+                },
+                {
+                    "kanji": "寄金",
+                    "reading": "キキン",
+                    "meanings": [
+                        "contribution",
+                        "donation"
+                    ]
+                },
+                {
+                    "kanji": "数寄",
+                    "reading": "スキ",
+                    "meanings": [
+                        "refined taste",
+                        "elegant pursuits"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"麦\"",
+        "strokes": 7,
+        "main_meanings": [
+            "barley",
+            "wheat"
+        ],
+        "main_readings": {
+            "kun": [
+                "むぎ"
+            ],
+            "on": [
+                "バク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "128": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "213": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "194": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1411": "A New Dictionary of Kanji Usage",
+                "5385": "Classic Nelson (Andrew Nelson)",
+                "816": "Essential Kanji (P.G. O’Neill)",
+                "1020": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "456": "Japanese Names (P.G. O’Neill)",
+                "270": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "637": "Kanji in Context (Nishiguchi and Kono)",
+                "400": "Kodansha Compact Kanji Guide",
+                "3061": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1559": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2133": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1547": "Les Kanjis dans la tete (Yves Maniette)",
+                "47718": "Morohashi",
+                "2408": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7030": "New Nelson (John Haig)",
+                "1533": "Remembering The Kanji (James Heisig)",
+                "1653": "Remembering The Kanji, 6th edition (James Heisig)",
+                "152": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1467": "2001 Kanji",
+                "4i4.2": "The Kanji Dictionary",
+                "2-4-3": "SKIP code",
+                "5024.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-94": "JIS X 0208-1997 kuten code",
+                "9ea6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mai4"
+                ],
+                "korean": [
+                    "maeg"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wheat",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "夂",
+                "麦"
+            ],
+            "basis": "麥",
+            "kangxi_order": 199,
+            "variants": [
+                "麥"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "麦",
+                    "reading": "むぎ",
+                    "meanings": [
+                        "wheat",
+                        "barley",
+                        "oat (oats)"
+                    ]
+                },
+                {
+                    "kanji": "麦茶",
+                    "reading": "むぎちゃ",
+                    "meanings": [
+                        "barley tea"
+                    ]
+                },
+                {
+                    "kanji": "はだか麦",
+                    "reading": "はだかむぎ",
+                    "meanings": [
+                        "naked barley (Hordeum vulgare var. nudum)"
+                    ]
+                },
+                {
+                    "kanji": "毒麦",
+                    "reading": "どくむぎ",
+                    "meanings": [
+                        "darnel (Lolium temulentum)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "麦芽",
+                    "reading": "バクガ",
+                    "meanings": [
+                        "malt"
+                    ]
+                },
+                {
+                    "kanji": "麦価",
+                    "reading": "バクカ",
+                    "meanings": [
+                        "price of wheat"
+                    ]
+                },
+                {
+                    "kanji": "精麦",
+                    "reading": "セイバク",
+                    "meanings": [
+                        "polished barley or wheat"
+                    ]
+                },
+                {
+                    "kanji": "米麦",
+                    "reading": "ベイバク",
+                    "meanings": [
+                        "rice and barley",
+                        "corn"
+                    ]
+                }
+            ]
+        }
+    }
+}

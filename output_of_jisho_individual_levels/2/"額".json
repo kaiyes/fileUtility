@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"額\"",
+        "strokes": 18,
+        "main_meanings": [
+            "forehead",
+            "tablet",
+            "plaque",
+            "framed picture",
+            "sum",
+            "amount",
+            "volume"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひたい"
+            ],
+            "on": [
+                "ガク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "748": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "665": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "635": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "522": "A New Dictionary of Kanji Usage",
+                "5136": "Classic Nelson (Andrew Nelson)",
+                "749": "Essential Kanji (P.G. O’Neill)",
+                "1010": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2756": "Japanese Names (P.G. O’Neill)",
+                "838": "Kanji and Kana (Spahn and Hadamitzky)",
+                "857": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "861": "Kanji in Context (Nishiguchi and Kono)",
+                "1892": "Kodansha Compact Kanji Guide",
+                "2273": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1174": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1604": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "301": "Les Kanjis dans la tete (Yves Maniette)",
+                "43586": "Morohashi",
+                "1805": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6644": "New Nelson (John Haig)",
+                "295": "Remembering The Kanji (James Heisig)",
+                "316": "Remembering The Kanji, 6th edition (James Heisig)",
+                "821": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "761": "2001 Kanji",
+                "9a9.6": "The Kanji Dictionary",
+                "1-9-9": "SKIP code",
+                "3168.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-59": "JIS X 0208-1997 kuten code",
+                "984d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぬか"
+                ],
+                "chinese": [
+                    "e2"
+                ],
+                "korean": [
+                    "aeg"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "ハ",
+                "口",
+                "夂",
+                "宀",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": 181,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "額",
+                    "reading": "ひたい",
+                    "meanings": [
+                        "forehead",
+                        "brow"
+                    ]
+                },
+                {
+                    "kanji": "額当て",
+                    "reading": "ひたいあて",
+                    "meanings": [
+                        "(military) headband with reinforced metal plate",
+                        "red headband"
+                    ]
+                },
+                {
+                    "kanji": "広い額",
+                    "reading": "ひろいひたい",
+                    "meanings": [
+                        "high brow",
+                        "broad forehead"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "額",
+                    "reading": "ガク",
+                    "meanings": [
+                        "(picture) frame",
+                        "framed picture",
+                        "amount (esp. of money)",
+                        "sum"
+                    ]
+                },
+                {
+                    "kanji": "額面",
+                    "reading": "ガクメン",
+                    "meanings": [
+                        "face value",
+                        "par"
+                    ]
+                },
+                {
+                    "kanji": "定額",
+                    "reading": "テイガク",
+                    "meanings": [
+                        "fixed amount (of money)",
+                        "fixed sum",
+                        "flat sum"
+                    ]
+                },
+                {
+                    "kanji": "税額",
+                    "reading": "ゼイガク",
+                    "meanings": [
+                        "amount of tax"
+                    ]
+                }
+            ]
+        }
+    }
+}

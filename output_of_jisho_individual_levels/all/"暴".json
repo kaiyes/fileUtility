@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"暴\"",
+        "strokes": 15,
+        "main_meanings": [
+            "outburst",
+            "rave",
+            "fret",
+            "force",
+            "violence",
+            "cruelty",
+            "outrage"
+        ],
+        "main_readings": {
+            "kun": [
+                "あば.く",
+                "あば.れる"
+            ],
+            "on": [
+                "ボウ",
+                "バク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "871": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "814": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "793": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "821": "A New Dictionary of Kanji Usage",
+                "2157": "Classic Nelson (Andrew Nelson)",
+                "833": "Essential Kanji (P.G. O’Neill)",
+                "607": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1014": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1052": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1043": "Kanji in Context (Nishiguchi and Kono)",
+                "982": "Kodansha Compact Kanji Guide",
+                "3138": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1609": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2194": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1819": "Les Kanjis dans la tete (Yves Maniette)",
+                "14137": "Morohashi",
+                "2515": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2511": "New Nelson (John Haig)",
+                "1801": "Remembering The Kanji (James Heisig)",
+                "1941": "Remembering The Kanji, 6th edition (James Heisig)",
+                "812": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3842": "2001 Kanji",
+                "4c11.2": "The Kanji Dictionary",
+                "2-4-11": "SKIP code",
+                "2-8-7": "SKIP code",
+                "6013.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-29": "JIS X 0208-1997 kuten code",
+                "66b4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bao4",
+                    "pu4"
+                ],
+                "korean": [
+                    "pog",
+                    "po"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "ハ",
+                "日",
+                "水",
+                "井"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "暴く",
+                    "reading": "あばく",
+                    "meanings": [
+                        "to disclose",
+                        "to divulge",
+                        "to expose",
+                        "to open (a grave)",
+                        "to dig out"
+                    ]
+                },
+                {
+                    "kanji": "暴れる",
+                    "reading": "あばれる",
+                    "meanings": [
+                        "to act violently",
+                        "to rage",
+                        "to struggle",
+                        "to be riotous"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "暴",
+                    "reading": "ボウ",
+                    "meanings": [
+                        "violence",
+                        "force"
+                    ]
+                },
+                {
+                    "kanji": "暴挙",
+                    "reading": "ボウキョ",
+                    "meanings": [
+                        "violence",
+                        "reckless action",
+                        "(an) outrage"
+                    ]
+                },
+                {
+                    "kanji": "無謀",
+                    "reading": "ムボウ",
+                    "meanings": [
+                        "reckless",
+                        "thoughtless",
+                        "rash",
+                        "ill-advised",
+                        "impulsive",
+                        "mad (e.g. scheme)"
+                    ]
+                },
+                {
+                    "kanji": "凶暴",
+                    "reading": "キョウボウ",
+                    "meanings": [
+                        "ferocious",
+                        "brutal",
+                        "atrocious",
+                        "savage",
+                        "barbarous"
+                    ]
+                },
+                {
+                    "kanji": "暴露",
+                    "reading": "バクロ",
+                    "meanings": [
+                        "disclosure",
+                        "exposure",
+                        "revelation"
+                    ]
+                },
+                {
+                    "kanji": "暴露戦術",
+                    "reading": "バクロセンジュツ",
+                    "meanings": [
+                        "exposure tactics",
+                        "muckraking tactics"
+                    ]
+                }
+            ]
+        }
+    }
+}

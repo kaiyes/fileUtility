@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"筒\"",
+        "strokes": 12,
+        "main_meanings": [
+            "cylinder",
+            "pipe",
+            "tube",
+            "gun barrel",
+            "sleeve"
+        ],
+        "main_readings": {
+            "kun": [
+                "つつ"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1655": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1567": "A New Dictionary of Kanji Usage",
+                "3392": "Classic Nelson (Andrew Nelson)",
+                "1125": "Essential Kanji (P.G. O’Neill)",
+                "796": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1818": "Japanese Names (P.G. O’Neill)",
+                "1472": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1569": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "373": "Kanji in Context (Nishiguchi and Kono)",
+                "1480": "Kodansha Compact Kanji Guide",
+                "3323": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1721": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2341": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "953": "Les Kanjis dans la tete (Yves Maniette)",
+                "26004": "Morohashi",
+                "2680": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4283": "New Nelson (John Haig)",
+                "944": "Remembering The Kanji (James Heisig)",
+                "1015": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1574": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2349": "2001 Kanji",
+                "6f6.15": "The Kanji Dictionary",
+                "2-6-6": "SKIP code",
+                "3-8-4": "SKIP code",
+                "8822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-91": "JIS X 0208-1997 kuten code",
+                "7b52": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tong3"
+                ],
+                "korean": [
+                    "tong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "一",
+                "冂",
+                "口",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "筒",
+                    "reading": "つつ",
+                    "meanings": [
+                        "pipe",
+                        "tube",
+                        "cylinder",
+                        "gun barrel",
+                        "gun",
+                        "cannon",
+                        "well lining",
+                        "well curb"
+                    ]
+                },
+                {
+                    "kanji": "筒井",
+                    "reading": "つつい",
+                    "meanings": [
+                        "round well"
+                    ]
+                },
+                {
+                    "kanji": "銃の筒",
+                    "reading": "じゅうのつつ",
+                    "meanings": [
+                        "barrel of a gun"
+                    ]
+                },
+                {
+                    "kanji": "紙筒",
+                    "reading": "かみづつ",
+                    "meanings": [
+                        "paper tube",
+                        "cardboard tube"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "筒状",
+                    "reading": "ツツジョウ",
+                    "meanings": [
+                        "cylindrical",
+                        "tubular"
+                    ]
+                },
+                {
+                    "kanji": "筒状花",
+                    "reading": "トウジョウカ",
+                    "meanings": [
+                        "tubular flower",
+                        "disk floret"
+                    ]
+                },
+                {
+                    "kanji": "円筒",
+                    "reading": "エントウ",
+                    "meanings": [
+                        "cylinder"
+                    ]
+                },
+                {
+                    "kanji": "気筒",
+                    "reading": "キトウ",
+                    "meanings": [
+                        "cylinder"
+                    ]
+                }
+            ]
+        }
+    }
+}

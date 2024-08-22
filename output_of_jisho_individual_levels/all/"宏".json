@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宏\"",
+        "strokes": 7,
+        "main_meanings": [
+            "wide",
+            "large"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひろ.い"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1286": "Classic Nelson (Andrew Nelson)",
+                "1936": "Essential Kanji (P.G. O’Neill)",
+                "674": "Japanese Names (P.G. O’Neill)",
+                "2050": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2728": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1397": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1884": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "7086": "Morohashi",
+                "2202": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1314": "New Nelson (John Haig)",
+                "2212": "Remembering The Kanji (James Heisig)",
+                "2324": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3m4.3": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "3043.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-08": "JIS X 0208-1997 kuten code",
+                "5b8f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつ、 ひろ、 ひろし"
+                ],
+                "chinese": [
+                    "hong2"
+                ],
+                "korean": [
+                    "goeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "ノ",
+                "厶",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "広い",
+                    "reading": "ひろい",
+                    "meanings": [
+                        "spacious",
+                        "vast",
+                        "wide"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "広大",
+                    "reading": "コウダイ",
+                    "meanings": [
+                        "vast",
+                        "extensive",
+                        "immense",
+                        "huge",
+                        "large",
+                        "grand",
+                        "magnificent"
+                    ]
+                },
+                {
+                    "kanji": "宏遠",
+                    "reading": "コウエン",
+                    "meanings": [
+                        "vast and far-reaching"
+                    ]
+                },
+                {
+                    "kanji": "恢弘",
+                    "reading": "カイコウ",
+                    "meanings": [
+                        "propagation",
+                        "spreading out",
+                        "extending"
+                    ]
+                }
+            ]
+        }
+    }
+}

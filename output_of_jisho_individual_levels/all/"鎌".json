@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鎌\"",
+        "strokes": 18,
+        "main_meanings": [
+            "sickle",
+            "scythe",
+            "trick"
+        ],
+        "main_readings": {
+            "kun": [
+                "かま"
+            ],
+            "on": [
+                "レン",
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1277": "A New Dictionary of Kanji Usage",
+                "4902": "Classic Nelson (Andrew Nelson)",
+                "1996": "Essential Kanji (P.G. O’Neill)",
+                "2750": "Japanese Names (P.G. O’Neill)",
+                "2257": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1130": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "2212": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1155": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1572": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1613": "Les Kanjis dans la tete (Yves Maniette)",
+                "40693X": "Morohashi",
+                "1760": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6326": "New Nelson (John Haig)",
+                "1599": "Remembering The Kanji (James Heisig)",
+                "1725": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2864": "2001 Kanji",
+                "8a10.8": "The Kanji Dictionary",
+                "1-8-10": "SKIP code",
+                "8813.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-89": "JIS X 0208-1997 kuten code",
+                "938c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かた、 かね"
+                ],
+                "chinese": [
+                    "lian2"
+                ],
+                "korean": [
+                    "gyeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "釒"
+            ],
+            "meaning": "metal,",
+            "parts": [
+                "丶",
+                "ノ",
+                "ハ",
+                "并",
+                "ヨ",
+                "王",
+                "金"
+            ],
+            "basis": "金",
+            "kangxi_order": 167,
+            "variants": [
+                "鐮"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "鎌",
+                    "reading": "かま",
+                    "meanings": [
+                        "sickle",
+                        "leading question",
+                        "trick question",
+                        "sickle-and-chain (weapon)",
+                        "spear with curved cross-blades",
+                        "gooseneck tenon and mortise joint",
+                        "noisiness",
+                        "part of a fish around the gills"
+                    ]
+                },
+                {
+                    "kanji": "鎌倉",
+                    "reading": "かまくら",
+                    "meanings": [
+                        "Kamakura (city)"
+                    ]
+                },
+                {
+                    "kanji": "大鎌",
+                    "reading": "おおがま",
+                    "meanings": [
+                        "scythe"
+                    ]
+                },
+                {
+                    "kanji": "大脳鎌",
+                    "reading": "だいのうかま",
+                    "meanings": [
+                        "falx cerebri",
+                        "cerebral falx"
+                    ]
+                }
+            ]
+        }
+    }
+}

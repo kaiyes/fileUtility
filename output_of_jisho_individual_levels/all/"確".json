@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"確\"",
+        "strokes": 15,
+        "main_meanings": [
+            "assurance",
+            "firm",
+            "tight",
+            "hard",
+            "solid",
+            "confirm",
+            "clear",
+            "evident"
+        ],
+        "main_readings": {
+            "kun": [
+                "たし.か",
+                "たし.かめる"
+            ],
+            "on": [
+                "カク",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "570": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "664": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "634": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "395": "A New Dictionary of Kanji Usage",
+                "3217": "Classic Nelson (Andrew Nelson)",
+                "661": "Essential Kanji (P.G. O’Neill)",
+                "767": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2305": "Japanese Names (P.G. O’Neill)",
+                "603": "Kanji and Kana (Spahn and Hadamitzky)",
+                "613": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "803": "Kanji in Context (Nishiguchi and Kono)",
+                "1409": "Kodansha Compact Kanji Guide",
+                "1571": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "830": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1135": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "574": "Les Kanjis dans la tete (Yves Maniette)",
+                "24366": "Morohashi",
+                "1228": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4039": "New Nelson (John Haig)",
+                "567": "Remembering The Kanji (James Heisig)",
+                "609": "Remembering The Kanji, 6th edition (James Heisig)",
+                "343": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "805": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3375": "2001 Kanji",
+                "5a10.3": "The Kanji Dictionary",
+                "1-5-10": "SKIP code",
+                "1461.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-46": "JIS X 0208-1997 kuten code",
+                "78ba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "que4"
+                ],
+                "korean": [
+                    "hwag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "口",
+                "宀",
+                "石",
+                "隹"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": [
+                "碻"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "確か",
+                    "reading": "たしか",
+                    "meanings": [
+                        "sure",
+                        "certain",
+                        "positive",
+                        "definite",
+                        "reliable",
+                        "trustworthy",
+                        "safe",
+                        "sound",
+                        "firm",
+                        "accurate",
+                        "correct",
+                        "exact",
+                        "If I'm not mistaken",
+                        "If I remember correctly",
+                        "If I remember rightly"
+                    ]
+                },
+                {
+                    "kanji": "確かめる",
+                    "reading": "たしかめる",
+                    "meanings": [
+                        "to make sure",
+                        "to check",
+                        "to ascertain",
+                        "to confirm",
+                        "to verify"
+                    ]
+                },
+                {
+                    "kanji": "確かめる",
+                    "reading": "たしかめる",
+                    "meanings": [
+                        "to make sure",
+                        "to check",
+                        "to ascertain",
+                        "to confirm",
+                        "to verify"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "確",
+                    "reading": "カク",
+                    "meanings": [
+                        "certain",
+                        "definite"
+                    ]
+                },
+                {
+                    "kanji": "確執",
+                    "reading": "カクシツ",
+                    "meanings": [
+                        "discord",
+                        "antagonism"
+                    ]
+                },
+                {
+                    "kanji": "当確",
+                    "reading": "トウカク",
+                    "meanings": [
+                        "projected to win",
+                        "sure to be elected",
+                        "home free"
+                    ]
+                },
+                {
+                    "kanji": "精確",
+                    "reading": "セイカク",
+                    "meanings": [
+                        "detailed and accurate",
+                        "exhaustive and precise",
+                        "meticulous",
+                        "finely detailed"
+                    ]
+                }
+            ]
+        }
+    }
+}

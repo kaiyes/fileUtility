@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"朔\"",
+        "strokes": 10,
+        "main_meanings": [
+            "conjunction (astronomy)",
+            "first day of month",
+            "north"
+        ],
+        "main_readings": {
+            "kun": [
+                "ついたち"
+            ],
+            "on": [
+                "サク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3761": "Classic Nelson (Andrew Nelson)",
+                "1393": "Japanese Names (P.G. O’Neill)",
+                "2101": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1678": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "890": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1209": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "14359": "Morohashi",
+                "4801": "New Nelson (John Haig)",
+                "2846": "Remembering The Kanji (James Heisig)",
+                "2862": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4b6.12": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "8742.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-83": "JIS X 0208-1997 kuten code",
+                "6714": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たち"
+                ],
+                "chinese": [
+                    "shuo4"
+                ],
+                "korean": [
+                    "sag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "moon,",
+            "parts": [
+                "并",
+                "屮",
+                "月"
+            ],
+            "basis": "月",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "１日",
+                    "reading": "ついたち",
+                    "meanings": [
+                        "1st day of the month",
+                        "first 10 days of the lunar month"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "朔",
+                    "reading": "サク",
+                    "meanings": [
+                        "new moon",
+                        "first day of the lunar month",
+                        "next year's calendar and decrees (in ancient China; distributed by the Emperor at year's end)"
+                    ]
+                },
+                {
+                    "kanji": "１日",
+                    "reading": "ツイタチ",
+                    "meanings": [
+                        "1st day of the month",
+                        "first 10 days of the lunar month"
+                    ]
+                },
+                {
+                    "kanji": "晦朔",
+                    "reading": "カイサク",
+                    "meanings": [
+                        "last and first days of the month"
+                    ]
+                },
+                {
+                    "kanji": "正朔",
+                    "reading": "セイサク",
+                    "meanings": [
+                        "beginning of the month or the year",
+                        "New Year's Day",
+                        "the calendar"
+                    ]
+                }
+            ]
+        }
+    }
+}

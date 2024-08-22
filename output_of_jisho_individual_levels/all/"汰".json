@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"汰\"",
+        "strokes": 7,
+        "main_meanings": [
+            "washing",
+            "sieving",
+            "filtering",
+            "weeding out",
+            "luxury"
+        ],
+        "main_readings": {
+            "kun": [
+                "おご.る",
+                "にご.る",
+                "よな.げる"
+            ],
+            "on": [
+                "タ",
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2496": "Classic Nelson (Andrew Nelson)",
+                "2136": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1206": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "312": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "200": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "237": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17160": "Morohashi",
+                "3055": "New Nelson (John Haig)",
+                "2316": "Remembering The Kanji (James Heisig)",
+                "149": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a4.8": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "3413.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-33": "JIS X 0208-1997 kuten code",
+                "6c70": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tai4"
+                ],
+                "korean": [
+                    "tae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "大",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "自然淘汰",
+                    "reading": "シゼントウタ",
+                    "meanings": [
+                        "natural selection"
+                    ]
+                },
+                {
+                    "kanji": "淘汰",
+                    "reading": "トウタ",
+                    "meanings": [
+                        "weeding out",
+                        "elimination (e.g. of unneeded employees)",
+                        "culling",
+                        "selection",
+                        "selection"
+                    ]
+                }
+            ]
+        }
+    }
+}

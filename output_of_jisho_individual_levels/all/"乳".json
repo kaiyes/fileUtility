@@ -1,0 +1,191 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"乳\"",
+        "strokes": 8,
+        "main_meanings": [
+            "milk",
+            "breasts"
+        ],
+        "main_readings": {
+            "kun": [
+                "ちち",
+                "ち"
+            ],
+            "on": [
+                "ニュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "961": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "951": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "873": "A New Dictionary of Kanji Usage",
+                "266": "Classic Nelson (Andrew Nelson)",
+                "1216": "Essential Kanji (P.G. O’Neill)",
+                "291": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "657": "Japanese Names (P.G. O’Neill)",
+                "939": "Kanji and Kana (Spahn and Hadamitzky)",
+                "969": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "821": "Kanji in Context (Nishiguchi and Kono)",
+                "29": "Kodansha Compact Kanji Guide",
+                "1823": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "964": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1306": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "737": "Les Kanjis dans la tete (Yves Maniette)",
+                "190X": "Morohashi",
+                "1438": "New Japanese English Character Dictionary (Jack Halpern)",
+                "61": "New Nelson (John Haig)",
+                "729": "Remembering The Kanji (James Heisig)",
+                "786": "Remembering The Kanji, 6th edition (James Heisig)",
+                "871": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2056": "2001 Kanji",
+                "3n4.4": "The Kanji Dictionary",
+                "1-7-1": "SKIP code",
+                "1-6-1": "SKIP code",
+                "2241.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-93": "JIS X 0208-1997 kuten code",
+                "4e73": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ru3"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "乙",
+                "⺄",
+                "乚"
+            ],
+            "meaning": "second",
+            "parts": [
+                "乙",
+                "子",
+                "爪"
+            ],
+            "basis": "乛",
+            "kangxi_order": 5,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "乳",
+                    "reading": "ちち",
+                    "meanings": [
+                        "milk",
+                        "breast",
+                        "loop",
+                        "decorative bump (on a hanging bell)"
+                    ]
+                },
+                {
+                    "kanji": "乳首",
+                    "reading": "ちくび",
+                    "meanings": [
+                        "nipple",
+                        "teat"
+                    ]
+                },
+                {
+                    "kanji": "無い乳",
+                    "reading": "ないちち",
+                    "meanings": [
+                        "very small breasts"
+                    ]
+                },
+                {
+                    "kanji": "もらい乳",
+                    "reading": "もらいぢち",
+                    "meanings": [
+                        "having one's baby nursed by another woman",
+                        "wet-nursing",
+                        "breast milk received from another woman"
+                    ]
+                },
+                {
+                    "kanji": "乳",
+                    "reading": "ちち",
+                    "meanings": [
+                        "milk",
+                        "breast",
+                        "loop",
+                        "decorative bump (on a hanging bell)"
+                    ]
+                },
+                {
+                    "kanji": "乳房",
+                    "reading": "ちぶさ",
+                    "meanings": [
+                        "breast",
+                        "udder"
+                    ]
+                },
+                {
+                    "kanji": "無い乳",
+                    "reading": "ないちち",
+                    "meanings": [
+                        "very small breasts"
+                    ]
+                },
+                {
+                    "kanji": "もらい乳",
+                    "reading": "もらいぢち",
+                    "meanings": [
+                        "having one's baby nursed by another woman",
+                        "wet-nursing",
+                        "breast milk received from another woman"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "乳製品",
+                    "reading": "ニュウセイヒン",
+                    "meanings": [
+                        "dairy products"
+                    ]
+                },
+                {
+                    "kanji": "乳児",
+                    "reading": "ニュウジ",
+                    "meanings": [
+                        "infant (below 1 year old)",
+                        "suckling baby"
+                    ]
+                },
+                {
+                    "kanji": "豆乳",
+                    "reading": "トウニュウ",
+                    "meanings": [
+                        "soy milk"
+                    ]
+                },
+                {
+                    "kanji": "生乳",
+                    "reading": "セイニュウ",
+                    "meanings": [
+                        "raw milk"
+                    ]
+                }
+            ]
+        }
+    }
+}

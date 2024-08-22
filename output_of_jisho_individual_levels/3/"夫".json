@@ -1,0 +1,246 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"夫\"",
+        "strokes": 4,
+        "main_meanings": [
+            "husband",
+            "man"
+        ],
+        "main_readings": {
+            "kun": [
+                "おっと",
+                "それ"
+            ],
+            "on": [
+                "フ",
+                "フウ",
+                "ブ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "501": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "601": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "573": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "265": "A New Dictionary of Kanji Usage",
+                "164": "Classic Nelson (Andrew Nelson)",
+                "51": "Essential Kanji (P.G. O’Neill)",
+                "445": "Tuttle Kanji Cards (Alexander Kask)",
+                "104": "Japanese Names (P.G. O’Neill)",
+                "315": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "595": "Kanji in Context (Nishiguchi and Kono)",
+                "411": "Kodansha Compact Kanji Guide",
+                "4271": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2157": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2909": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "846": "Les Kanjis dans la tete (Yves Maniette)",
+                "5835": "Morohashi",
+                "3460": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1136": "New Nelson (John Haig)",
+                "838": "Remembering The Kanji (James Heisig)",
+                "901": "Remembering The Kanji, 6th edition (James Heisig)",
+                "220": "The Kanji Way to Japanese Language Power (Dale Crowley)"
+            },
+            "classifications": {
+                "1463": "2001 Kanji",
+                "0a4.31": "The Kanji Dictionary",
+                "4-4-4": "SKIP code",
+                "5003.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-55": "JIS X 0208-1997 kuten code",
+                "592b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "お、 と、 ゆう、 よ"
+                ],
+                "chinese": [
+                    "fu1",
+                    "fu2"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "big,",
+            "parts": [
+                "二",
+                "亠",
+                "人",
+                "大"
+            ],
+            "basis": "大",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "夫",
+                    "reading": "おっと",
+                    "meanings": [
+                        "husband"
+                    ]
+                },
+                {
+                    "kanji": "夫選び",
+                    "reading": "おっとえらび",
+                    "meanings": [
+                        "choosing a husband"
+                    ]
+                },
+                {
+                    "kanji": "ＤＶ夫",
+                    "reading": "ディーブイおっと",
+                    "meanings": [
+                        "(physically) abusive husband",
+                        "wife beater"
+                    ]
+                },
+                {
+                    "kanji": "元夫",
+                    "reading": "もとおっと",
+                    "meanings": [
+                        "ex-husband",
+                        "former husband"
+                    ]
+                },
+                {
+                    "kanji": "其れ其れ",
+                    "reading": "それぞれ",
+                    "meanings": [
+                        "each",
+                        "respectively"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "夫妻",
+                    "reading": "フサイ",
+                    "meanings": [
+                        "husband and wife",
+                        "married couple"
+                    ]
+                },
+                {
+                    "kanji": "夫婦",
+                    "reading": "フウフ",
+                    "meanings": [
+                        "married couple",
+                        "husband and wife",
+                        "man and wife"
+                    ]
+                },
+                {
+                    "kanji": "継夫",
+                    "reading": "ケイフ",
+                    "meanings": [
+                        "second husband"
+                    ]
+                },
+                {
+                    "kanji": "炊夫",
+                    "reading": "スイフ",
+                    "meanings": [
+                        "male cook"
+                    ]
+                },
+                {
+                    "kanji": "夫婦",
+                    "reading": "フウフ",
+                    "meanings": [
+                        "married couple",
+                        "husband and wife",
+                        "man and wife"
+                    ]
+                },
+                {
+                    "kanji": "夫子",
+                    "reading": "フウシ",
+                    "meanings": [
+                        "teacher",
+                        "wise man",
+                        "sage",
+                        "master",
+                        "Confucius",
+                        "the person concerned",
+                        "you",
+                        "he",
+                        "she"
+                    ]
+                },
+                {
+                    "kanji": "一工夫",
+                    "reading": "ヒトクフウ",
+                    "meanings": [
+                        "a bit of contrivance",
+                        "some fiddling",
+                        "a little ingenuity"
+                    ]
+                },
+                {
+                    "kanji": "創意工夫",
+                    "reading": "ソウイクフウ",
+                    "meanings": [
+                        "ingenuity",
+                        "inventiveness",
+                        "creative originality"
+                    ]
+                },
+                {
+                    "kanji": "夫人",
+                    "reading": "フジン",
+                    "meanings": [
+                        "wife",
+                        "Mrs",
+                        "madam",
+                        "wife of a nobleman (aristocrat",
+                        "etc.)",
+                        "consort of the emperor"
+                    ]
+                },
+                {
+                    "kanji": "賦役",
+                    "reading": "フエキ",
+                    "meanings": [
+                        "slave labour",
+                        "slave labor",
+                        "compulsory service",
+                        "forced labour",
+                        "forced labor",
+                        "exacted service"
+                    ]
+                },
+                {
+                    "kanji": "大夫",
+                    "reading": "ダイブ",
+                    "meanings": [
+                        "high steward",
+                        "grand master"
+                    ]
+                },
+                {
+                    "kanji": "右京大夫",
+                    "reading": "ウキョウノダイブ",
+                    "meanings": [
+                        "Ukyō no Daibu (title under the ritsuryō system)",
+                        "high steward"
+                    ]
+                }
+            ]
+        }
+    }
+}

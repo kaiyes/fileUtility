@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"椎\"",
+        "strokes": 12,
+        "main_meanings": [
+            "chinquapin",
+            "mallet",
+            "spine"
+        ],
+        "main_readings": {
+            "kun": [
+                "つち",
+                "う.つ"
+            ],
+            "on": [
+                "ツイ",
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1314": "A New Dictionary of Kanji Usage",
+                "2296": "Classic Nelson (Andrew Nelson)",
+                "1629": "Japanese Names (P.G. O’Neill)",
+                "2116": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1748": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1249": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "679": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "905": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "15024": "Morohashi",
+                "2742": "New Nelson (John Haig)",
+                "2505": "Remembering The Kanji (James Heisig)",
+                "597": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a8.1": "The Kanji Dictionary",
+                "1-4-8": "SKIP code",
+                "4091.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-39": "JIS X 0208-1997 kuten code",
+                "690e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しい"
+                ],
+                "chinese": [
+                    "zhui1",
+                    "chui2"
+                ],
+                "korean": [
+                    "chu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "木",
+                "隹"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": [
+                "桘"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "槌",
+                    "reading": "つち",
+                    "meanings": [
+                        "hammer",
+                        "mallet",
+                        "sledgehammer",
+                        "gavel"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "椎間板",
+                    "reading": "ツイカンバン",
+                    "meanings": [
+                        "intervertebral disk"
+                    ]
+                },
+                {
+                    "kanji": "椎間孔狭窄",
+                    "reading": "ツイカンコウキョウサク",
+                    "meanings": [
+                        "vertebral canal stenosis"
+                    ]
+                },
+                {
+                    "kanji": "脊椎",
+                    "reading": "セキツイ",
+                    "meanings": [
+                        "spine",
+                        "vertebral column"
+                    ]
+                },
+                {
+                    "kanji": "腰椎",
+                    "reading": "ヨウツイ",
+                    "meanings": [
+                        "lumbar vertebra",
+                        "lumbar vertebrae"
+                    ]
+                }
+            ]
+        }
+    }
+}

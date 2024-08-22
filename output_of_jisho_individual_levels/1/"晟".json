@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"晟\"",
+        "strokes": 10,
+        "main_meanings": [
+            "clear"
+        ],
+        "main_readings": {
+            "kun": [
+                "あきらか"
+            ],
+            "on": [
+                "セイ",
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1187": "Japanese Names (P.G. O’Neill)",
+                "2094": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3104": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1586": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2167": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "13950X": "Morohashi",
+                "2472": "New Nelson (John Haig)",
+                "2438": "Remembering The Kanji (James Heisig)",
+                "2515": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4c7.5": "The Kanji Dictionary",
+                "2-4-6": "SKIP code",
+                "6025.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-58-80": "JIS X 0208-1997 kuten code",
+                "665f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sheng4",
+                    "cheng2"
+                ],
+                "korean": [
+                    "seong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "ノ",
+                "戈",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": [
+                "晠"
+            ]
+        },
+        "reading_examples": null
+    }
+}

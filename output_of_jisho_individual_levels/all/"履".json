@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"履\"",
+        "strokes": 15,
+        "main_meanings": [
+            "perform",
+            "complete",
+            "footgear",
+            "shoes",
+            "boots",
+            "put on (the feet)"
+        ],
+        "main_readings": {
+            "kun": [
+                "は.く"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1896": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1657": "A New Dictionary of Kanji Usage",
+                "1404": "Classic Nelson (Andrew Nelson)",
+                "1639": "Essential Kanji (P.G. O’Neill)",
+                "1234": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2415": "Japanese Names (P.G. O’Neill)",
+                "1635": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1745": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1405": "Kanji in Context (Nishiguchi and Kono)",
+                "534": "Kodansha Compact Kanji Guide",
+                "3933": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2028": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2736": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1066": "Les Kanjis dans la tete (Yves Maniette)",
+                "7799": "Morohashi",
+                "3171": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1434": "New Nelson (John Haig)",
+                "1057": "Remembering The Kanji (James Heisig)",
+                "1137": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1755": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3767": "2001 Kanji",
+                "3r12.1": "The Kanji Dictionary",
+                "3-3-12": "SKIP code",
+                "7724.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-90": "JIS X 0208-1997 kuten code",
+                "5c65": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lu:3"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "夂",
+                "尸",
+                "彳",
+                "日",
+                "乞"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "履く",
+                    "reading": "はく",
+                    "meanings": [
+                        "to put on (lower-body clothing",
+                        "e.g. pants",
+                        "skirt",
+                        "footwear)",
+                        "to wear",
+                        "to affix (a sword to one's hip)",
+                        "to affix (a bowstring to a bow)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "履歴書",
+                    "reading": "リレキショ",
+                    "meanings": [
+                        "personal history",
+                        "curriculum vitae",
+                        "resume"
+                    ]
+                },
+                {
+                    "kanji": "履行",
+                    "reading": "リコウ",
+                    "meanings": [
+                        "performance (of a duty)",
+                        "fulfillment (of a promise)",
+                        "fulfilment",
+                        "execution (of a contract)",
+                        "discharge",
+                        "implementation"
+                    ]
+                },
+                {
+                    "kanji": "草履",
+                    "reading": "ゾウリ",
+                    "meanings": [
+                        "zori",
+                        "traditional Japanese thonged sandals"
+                    ]
+                },
+                {
+                    "kanji": "再履",
+                    "reading": "サイリ",
+                    "meanings": [
+                        "repeating a course",
+                        "taking a course again"
+                    ]
+                }
+            ]
+        }
+    }
+}

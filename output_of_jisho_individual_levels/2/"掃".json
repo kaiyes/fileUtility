@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"掃\"",
+        "strokes": 11,
+        "main_meanings": [
+            "sweep",
+            "brush"
+        ],
+        "main_readings": {
+            "kun": [
+                "は.く"
+            ],
+            "on": [
+                "ソウ",
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1519": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1235": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1945": "Classic Nelson (Andrew Nelson)",
+                "947": "Essential Kanji (P.G. O’Neill)",
+                "574": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1319": "Japanese Names (P.G. O’Neill)",
+                "1080": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1128": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "957": "Kanji in Context (Nishiguchi and Kono)",
+                "907": "Kodansha Compact Kanji Guide",
+                "611": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "372": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "464": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1160": "Les Kanjis dans la tete (Yves Maniette)",
+                "12237P": "Morohashi",
+                "503": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2207": "New Nelson (John Haig)",
+                "1152": "Remembering The Kanji (James Heisig)",
+                "1442": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1344": "2001 Kanji",
+                "3c8.22": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5702.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-61": "JIS X 0208-1997 kuten code",
+                "6383": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か"
+                ],
+                "chinese": [
+                    "sao3",
+                    "sao4"
+                ],
+                "korean": [
+                    "so"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "冖",
+                "巾",
+                "ヨ",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "埽"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "掃く",
+                    "reading": "はく",
+                    "meanings": [
+                        "to sweep",
+                        "to brush",
+                        "to clean",
+                        "to gather silkworms"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "掃除",
+                    "reading": "ソウジ",
+                    "meanings": [
+                        "cleaning",
+                        "sweeping",
+                        "dusting",
+                        "scrubbing"
+                    ]
+                },
+                {
+                    "kanji": "掃海",
+                    "reading": "ソウカイ",
+                    "meanings": [
+                        "sweeping the sea for mines",
+                        "dragging for mines"
+                    ]
+                }
+            ]
+        }
+    }
+}

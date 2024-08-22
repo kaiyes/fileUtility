@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"紹\"",
+        "strokes": 11,
+        "main_meanings": [
+            "introduce",
+            "inherit",
+            "help"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1400": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "938": "A New Dictionary of Kanji Usage",
+                "3516": "Classic Nelson (Andrew Nelson)",
+                "1130": "Essential Kanji (P.G. O’Neill)",
+                "813": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1955": "Japanese Names (P.G. O’Neill)",
+                "456": "Kanji and Kana (Spahn and Hadamitzky)",
+                "463": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "694": "Kanji in Context (Nishiguchi and Kono)",
+                "1527": "Kodansha Compact Kanji Guide",
+                "1691": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "902": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1222": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1371": "Les Kanjis dans la tete (Yves Maniette)",
+                "27361": "Morohashi",
+                "1335": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4465": "New Nelson (John Haig)",
+                "1359": "Remembering The Kanji (James Heisig)",
+                "1459": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1473": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2777": "2001 Kanji",
+                "6a5.10": "The Kanji Dictionary",
+                "1-6-5": "SKIP code",
+                "2796.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-50": "JIS X 0208-1997 kuten code",
+                "7d39": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つぐ"
+                ],
+                "chinese": [
+                    "shao4"
+                ],
+                "korean": [
+                    "so"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "刀",
+                "口",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "紹介",
+                    "reading": "ショウカイ",
+                    "meanings": [
+                        "introduction",
+                        "presentation",
+                        "referral",
+                        "showcase (of a product)"
+                    ]
+                },
+                {
+                    "kanji": "紹介者",
+                    "reading": "ショウカイシャ",
+                    "meanings": [
+                        "person who introduces someone",
+                        "introducer"
+                    ]
+                }
+            ]
+        }
+    }
+}

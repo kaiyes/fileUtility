@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"欺\"",
+        "strokes": 12,
+        "main_meanings": [
+            "deceit",
+            "cheat",
+            "delude"
+        ],
+        "main_readings": {
+            "kun": [
+                "あざむ.く"
+            ],
+            "on": [
+                "ギ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1136": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1465": "A New Dictionary of Kanji Usage",
+                "2419": "Classic Nelson (Andrew Nelson)",
+                "1397": "Essential Kanji (P.G. O’Neill)",
+                "1448": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1499": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1598": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1623": "Kanji in Context (Nishiguchi and Kono)",
+                "1124": "Kodansha Compact Kanji Guide",
+                "2138": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1119": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1519": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1778": "Les Kanjis dans la tete (Yves Maniette)",
+                "16097": "Morohashi",
+                "1703": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2939": "New Nelson (John Haig)",
+                "1762": "Remembering The Kanji (James Heisig)",
+                "1899": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1556": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1962": "2001 Kanji",
+                "4j8.1": "The Kanji Dictionary",
+                "1-8-4": "SKIP code",
+                "4788.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-29": "JIS X 0208-1997 kuten code",
+                "6b3a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qi1"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lack,",
+            "parts": [
+                "ハ",
+                "欠",
+                "甘"
+            ],
+            "basis": "欠",
+            "kangxi_order": 76,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "欺く",
+                    "reading": "あざむく",
+                    "meanings": [
+                        "to deceive",
+                        "to delude",
+                        "to trick",
+                        "to fool",
+                        "to be as ... as ... (e.g. \"as bright as day\"",
+                        "\"as beautiful as a rose\")"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "欺瞞",
+                    "reading": "ギマン",
+                    "meanings": [
+                        "deception",
+                        "deceit"
+                    ]
+                },
+                {
+                    "kanji": "欺詐",
+                    "reading": "ギサ",
+                    "meanings": [
+                        "fraud",
+                        "fraudulence",
+                        "dupery",
+                        "hoax"
+                    ]
+                },
+                {
+                    "kanji": "ナイジェリア詐欺",
+                    "reading": "ナイジェリアサギ",
+                    "meanings": [
+                        "Nigerian fraud",
+                        "419 fraud"
+                    ]
+                },
+                {
+                    "kanji": "架空請求詐欺",
+                    "reading": "カクウセイキュウサギ",
+                    "meanings": [
+                        "fraud based on demanding payment for false claims or non-existent bills"
+                    ]
+                }
+            ]
+        }
+    }
+}

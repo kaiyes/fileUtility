@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"準\"",
+        "strokes": 13,
+        "main_meanings": [
+            "semi-",
+            "correspond to",
+            "proportionate to",
+            "conform",
+            "imitate"
+        ],
+        "main_readings": {
+            "kun": [
+                "じゅん.じる",
+                "じゅん.ずる",
+                "なぞら.える",
+                "のり",
+                "ひと.しい",
+                "みずもり"
+            ],
+            "on": [
+                "ジュン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "637": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "733": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "709": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "547": "A New Dictionary of Kanji Usage",
+                "791": "Classic Nelson (Andrew Nelson)",
+                "498": "Essential Kanji (P.G. O’Neill)",
+                "704": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2041": "Japanese Names (P.G. O’Neill)",
+                "778": "Tuttle Kanji Cards (Alexander Kask)",
+                "792": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "614": "Kanji in Context (Nishiguchi and Kono)",
+                "1233": "Kodansha Compact Kanji Guide",
+                "3541": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1828": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2486": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "571": "Les Kanjis dans la tete (Yves Maniette)",
+                "17934": "Morohashi",
+                "2856": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3278": "New Nelson (John Haig)",
+                "564": "Remembering The Kanji (James Heisig)",
+                "606": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "355": "2001 Kanji",
+                "2k11.1": "The Kanji Dictionary",
+                "2-11-2": "SKIP code",
+                "3040.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-64": "JIS X 0208-1997 kuten code",
+                "6e96": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhun3"
+                ],
+                "korean": [
+                    "jun",
+                    "jeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "十",
+                "汁",
+                "隹"
+            ],
+            "basis": "水",
+            "kangxi_order": null,
+            "variants": [
+                "凖"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "準じる",
+                    "reading": "じゅんじる",
+                    "meanings": [
+                        "to follow (a rule",
+                        "precedent",
+                        "etc.)",
+                        "to conform to (the law",
+                        "standards",
+                        "etc.)",
+                        "to be based on",
+                        "to apply correspondingly",
+                        "to be proportionate to",
+                        "to correspond to",
+                        "to be equivalent to",
+                        "to be treated in the same way as"
+                    ]
+                },
+                {
+                    "kanji": "準ずる",
+                    "reading": "じゅんずる",
+                    "meanings": [
+                        "to follow (a rule",
+                        "precedent",
+                        "etc.)",
+                        "to conform to (the law",
+                        "standards",
+                        "etc.)",
+                        "to be based on",
+                        "to apply correspondingly",
+                        "to be proportionate to",
+                        "to correspond to",
+                        "to be equivalent to",
+                        "to be treated in the same way as"
+                    ]
+                },
+                {
+                    "kanji": "準える",
+                    "reading": "なぞらえる",
+                    "meanings": [
+                        "to liken to",
+                        "to compare to",
+                        "to pattern after",
+                        "to model after",
+                        "to imitate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "準",
+                    "reading": "ジュン",
+                    "meanings": [
+                        "semi-",
+                        "quasi-",
+                        "associate"
+                    ]
+                },
+                {
+                    "kanji": "準決勝",
+                    "reading": "ジュンケッショウ",
+                    "meanings": [
+                        "semifinal"
+                    ]
+                },
+                {
+                    "kanji": "照準",
+                    "reading": "ショウジュン",
+                    "meanings": [
+                        "sight (e.g. of a gun)",
+                        "aim",
+                        "alignment"
+                    ]
+                },
+                {
+                    "kanji": "低水準",
+                    "reading": "テイスイジュン",
+                    "meanings": [
+                        "substandard",
+                        "low-level"
+                    ]
+                }
+            ]
+        }
+    }
+}

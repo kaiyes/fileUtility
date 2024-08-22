@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"秩\"",
+        "strokes": 10,
+        "main_meanings": [
+            "regularity",
+            "salary",
+            "order"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "チツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1580": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1458": "A New Dictionary of Kanji Usage",
+                "3276": "Classic Nelson (Andrew Nelson)",
+                "1722": "Essential Kanji (P.G. O’Neill)",
+                "1585": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1119": "Japanese Names (P.G. O’Neill)",
+                "1508": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1609": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "954": "Kanji in Context (Nishiguchi and Kono)",
+                "1435": "Kodansha Compact Kanji Guide",
+                "1489": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "786": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1073": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "912": "Les Kanjis dans la tete (Yves Maniette)",
+                "24998": "Morohashi",
+                "1158": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4135": "New Nelson (John Haig)",
+                "903": "Remembering The Kanji (James Heisig)",
+                "969": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1376": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2263": "2001 Kanji",
+                "5d5.2": "The Kanji Dictionary",
+                "1-5-5": "SKIP code",
+                "2593.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-65": "JIS X 0208-1997 kuten code",
+                "79e9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ちち、 ちっ"
+                ],
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "jil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "ノ",
+                "人",
+                "土",
+                "大",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "秩序",
+                    "reading": "チツジョ",
+                    "meanings": [
+                        "order",
+                        "discipline",
+                        "regularity",
+                        "system",
+                        "method"
+                    ]
+                },
+                {
+                    "kanji": "秩序維持",
+                    "reading": "チツジョイジ",
+                    "meanings": [
+                        "maintaining order (e.g. in a courtroom)"
+                    ]
+                }
+            ]
+        }
+    }
+}

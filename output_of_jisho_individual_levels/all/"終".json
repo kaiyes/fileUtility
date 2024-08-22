@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"終\"",
+        "strokes": 11,
+        "main_meanings": [
+            "end",
+            "finish"
+        ],
+        "main_readings": {
+            "kun": [
+                "お.わる",
+                "-お.わる",
+                "おわ.る",
+                "お.える",
+                "つい",
+                "つい.に"
+            ],
+            "on": [
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "241": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "322": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "306": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "344": "A New Dictionary of Kanji Usage",
+                "3521": "Classic Nelson (Andrew Nelson)",
+                "302": "Essential Kanji (P.G. O’Neill)",
+                "237": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1950": "Japanese Names (P.G. O’Neill)",
+                "2.14": "Japanese for Busy People",
+                "458": "Kanji and Kana (Spahn and Hadamitzky)",
+                "466": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "130": "Kanji in Context (Nishiguchi and Kono)",
+                "1526": "Kodansha Compact Kanji Guide",
+                "1692": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "903": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1223": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1364": "Les Kanjis dans la tete (Yves Maniette)",
+                "27372X": "Morohashi",
+                "1336": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4471": "New Nelson (John Haig)",
+                "1352": "Remembering The Kanji (James Heisig)",
+                "1452": "Remembering The Kanji, 6th edition (James Heisig)",
+                "392": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "372": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2740": "2001 Kanji",
+                "6a5.9": "The Kanji Dictionary",
+                "1-6-5": "SKIP code",
+                "2793.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-10": "JIS X 0208-1997 kuten code",
+                "7d42": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ばて"
+                ],
+                "chinese": [
+                    "zhong1"
+                ],
+                "korean": [
+                    "jong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "夂",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "終わる",
+                    "reading": "おわる",
+                    "meanings": [
+                        "to end",
+                        "to come to an end",
+                        "to finish",
+                        "to close",
+                        "to be over",
+                        "to finish",
+                        "to complete",
+                        "to conclude",
+                        "to finish doing"
+                    ]
+                },
+                {
+                    "kanji": "終わる",
+                    "reading": "おわる",
+                    "meanings": [
+                        "to end",
+                        "to come to an end",
+                        "to finish",
+                        "to close",
+                        "to be over",
+                        "to finish",
+                        "to complete",
+                        "to conclude",
+                        "to finish doing"
+                    ]
+                },
+                {
+                    "kanji": "終える",
+                    "reading": "おえる",
+                    "meanings": [
+                        "to finish",
+                        "to graduate"
+                    ]
+                },
+                {
+                    "kanji": "終",
+                    "reading": "つい",
+                    "meanings": [
+                        "end",
+                        "final",
+                        "end of life",
+                        "death",
+                        "never",
+                        "not at all"
+                    ]
+                },
+                {
+                    "kanji": "遂に",
+                    "reading": "ついに",
+                    "meanings": [
+                        "finally",
+                        "at last",
+                        "in the end",
+                        "after all",
+                        "never (happened)"
+                    ]
+                },
+                {
+                    "kanji": "遂に",
+                    "reading": "ついに",
+                    "meanings": [
+                        "finally",
+                        "at last",
+                        "in the end",
+                        "after all",
+                        "never (happened)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "終局",
+                    "reading": "シュウキョク",
+                    "meanings": [
+                        "end",
+                        "close",
+                        "conclusion",
+                        "end of a game of go",
+                        "shogi",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "終焉",
+                    "reading": "シュウエン",
+                    "meanings": [
+                        "end (of life)",
+                        "death",
+                        "demise",
+                        "(peacefully) spending one's final years"
+                    ]
+                },
+                {
+                    "kanji": "有終",
+                    "reading": "ユウシュウ",
+                    "meanings": [
+                        "carrying out to the end",
+                        "bringing to completion"
+                    ]
+                },
+                {
+                    "kanji": "サ終",
+                    "reading": "サシュウ",
+                    "meanings": [
+                        "end of service (esp. of an online server)",
+                        "termination of service"
+                    ]
+                }
+            ]
+        }
+    }
+}

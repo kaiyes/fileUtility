@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"冴\"",
+        "strokes": 7,
+        "main_meanings": [
+            "be clear",
+            "serene",
+            "cold",
+            "skilful"
+        ],
+        "main_readings": {
+            "kun": [
+                "さ.える",
+                "こお.る",
+                "ひ.える"
+            ],
+            "on": [
+                "ゴ",
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "635": "Classic Nelson (Andrew Nelson)",
+                "348": "Japanese Names (P.G. O’Neill)",
+                "2023": "Kanji and Kana (Spahn and Hadamitzky)",
+                "87": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "56": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "60": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1615": "Morohashi",
+                "79": "New Japanese English Character Dictionary (Jack Halpern)",
+                "417": "New Nelson (John Haig)",
+                "2134": "Remembering The Kanji (James Heisig)",
+                "2261": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2b5.2": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "3114.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-67": "JIS X 0208-1997 kuten code",
+                "51b4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さえ、 さえる"
+                ],
+                "chinese": [
+                    "hu4"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ice",
+            "parts": [
+                "冫",
+                "牙"
+            ],
+            "basis": "冫",
+            "kangxi_order": 15,
+            "variants": [
+                "冱"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "冴える",
+                    "reading": "さえる",
+                    "meanings": [
+                        "to be clear (of a sight",
+                        "sound",
+                        "colour",
+                        "etc.)",
+                        "to be bright",
+                        "to be vivid",
+                        "to be crisp",
+                        "to be clear-headed",
+                        "to be alert",
+                        "to be on the ball",
+                        "to be wide awake",
+                        "to look upbeat",
+                        "to be perky",
+                        "to be cheerful",
+                        "to master (a skill)",
+                        "to excel at",
+                        "to cleanly execute",
+                        "to be satisfying",
+                        "to become frigid",
+                        "to become intensely cold"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "冴寒",
+                    "reading": "ゴカン",
+                    "meanings": [
+                        "extreme cold"
+                    ]
+                }
+            ]
+        }
+    }
+}

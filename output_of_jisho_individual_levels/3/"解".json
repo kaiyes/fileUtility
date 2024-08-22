@@ -1,0 +1,327 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"解\"",
+        "strokes": 13,
+        "main_meanings": [
+            "unravel",
+            "notes",
+            "key",
+            "explanation",
+            "understanding",
+            "untie",
+            "undo",
+            "solve",
+            "answer",
+            "cancel",
+            "absolve",
+            "explain",
+            "minute"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.く",
+                "と.かす",
+                "と.ける",
+                "ほど.く",
+                "ほぐ.す",
+                "わか.る",
+                "さと.る"
+            ],
+            "on": [
+                "カイ",
+                "ゲ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "567": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "662": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "632": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "192": "A New Dictionary of Kanji Usage",
+                "4306": "Classic Nelson (Andrew Nelson)",
+                "577": "Essential Kanji (P.G. O’Neill)",
+                "892": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1923": "Japanese Names (P.G. O’Neill)",
+                "474": "Kanji and Kana (Spahn and Hadamitzky)",
+                "482": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "293": "Kanji in Context (Nishiguchi and Kono)",
+                "1651": "Kodansha Compact Kanji Guide",
+                "1913": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1017": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1375": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1831": "Les Kanjis dans la tete (Yves Maniette)",
+                "35067": "Morohashi",
+                "1517": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5548": "New Nelson (John Haig)",
+                "1814": "Remembering The Kanji (James Heisig)",
+                "1955": "Remembering The Kanji, 6th edition (James Heisig)",
+                "142": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "769": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2555": "2001 Kanji",
+                "4g9.1": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "2725.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-82": "JIS X 0208-1997 kuten code",
+                "89e3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さとる、 とけ"
+                ],
+                "chinese": [
+                    "jie3",
+                    "jie4",
+                    "xie4"
+                ],
+                "korean": [
+                    "hae",
+                    "gae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horn",
+            "parts": [
+                "刀",
+                "牛",
+                "角"
+            ],
+            "basis": "角",
+            "kangxi_order": 148,
+            "variants": [
+                "觧"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "解く",
+                    "reading": "とく",
+                    "meanings": [
+                        "to untie",
+                        "to unfasten",
+                        "to unwrap",
+                        "to undo",
+                        "to unbind",
+                        "to unpack",
+                        "to unsew",
+                        "to unstitch",
+                        "to solve",
+                        "to work out",
+                        "to answer",
+                        "to dispel (misunderstanding",
+                        "etc.)",
+                        "to clear up",
+                        "to remove (suspicion)",
+                        "to appease",
+                        "to dissolve (a contract)",
+                        "to cancel",
+                        "to remove (a prohibition)",
+                        "to lift (a ban)",
+                        "to raise (a siege)",
+                        "to release (from duty)",
+                        "to relieve",
+                        "to dismiss",
+                        "to comb (out)",
+                        "to card",
+                        "to untangle (hair)"
+                    ]
+                },
+                {
+                    "kanji": "溶かす",
+                    "reading": "とかす",
+                    "meanings": [
+                        "to dissolve",
+                        "to melt"
+                    ]
+                },
+                {
+                    "kanji": "梳かす",
+                    "reading": "とかす",
+                    "meanings": [
+                        "to comb out",
+                        "to brush",
+                        "to untangle",
+                        "to unravel"
+                    ]
+                },
+                {
+                    "kanji": "解ける",
+                    "reading": "とける",
+                    "meanings": [
+                        "to be solved",
+                        "to be resolved",
+                        "to loosen",
+                        "to come untied",
+                        "to come undone",
+                        "to be removed (of restrictions)",
+                        "to be lifted (e.g. a ban)",
+                        "to be broken (spells",
+                        "curses",
+                        "etc.)",
+                        "to dissipate (of anger",
+                        "tension",
+                        "etc.)",
+                        "to melt away",
+                        "to ease",
+                        "to be appeased",
+                        "to be resolved (of a dispute",
+                        "misunderstanding",
+                        "etc.)",
+                        "to be cleared up"
+                    ]
+                },
+                {
+                    "kanji": "溶ける",
+                    "reading": "とける",
+                    "meanings": [
+                        "to melt",
+                        "to thaw",
+                        "to fuse",
+                        "to dissolve"
+                    ]
+                },
+                {
+                    "kanji": "解く",
+                    "reading": "ほどく",
+                    "meanings": [
+                        "to undo",
+                        "to untie",
+                        "to unfasten",
+                        "to unlace",
+                        "to unravel",
+                        "to loosen",
+                        "to unpack"
+                    ]
+                },
+                {
+                    "kanji": "解す",
+                    "reading": "ほぐす",
+                    "meanings": [
+                        "to unravel",
+                        "to untie",
+                        "to untangle",
+                        "to loosen",
+                        "to break into small pieces (of fish",
+                        "meat",
+                        "etc.)",
+                        "to relax",
+                        "to ease"
+                    ]
+                },
+                {
+                    "kanji": "分かる",
+                    "reading": "わかる",
+                    "meanings": [
+                        "to understand",
+                        "to comprehend",
+                        "to grasp",
+                        "to see",
+                        "to get",
+                        "to follow",
+                        "to become clear",
+                        "to be known",
+                        "to be discovered",
+                        "to be realized",
+                        "to be realised",
+                        "to be found out",
+                        "I know!",
+                        "I think so too!"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "解",
+                    "reading": "カイ",
+                    "meanings": [
+                        "solution (of an equation",
+                        "inequality",
+                        "etc.)",
+                        "root (e.g. of a polynomial)",
+                        "solution (to a given problem)",
+                        "answer",
+                        "explanation",
+                        "interpretation"
+                    ]
+                },
+                {
+                    "kanji": "解禁",
+                    "reading": "カイキン",
+                    "meanings": [
+                        "lifting a ban",
+                        "raising an embargo",
+                        "opening a season (hunting",
+                        "fishing",
+                        "etc.)",
+                        "publishing contents",
+                        "revealing information"
+                    ]
+                },
+                {
+                    "kanji": "瓦解",
+                    "reading": "ガカイ",
+                    "meanings": [
+                        "collapse",
+                        "downfall"
+                    ]
+                },
+                {
+                    "kanji": "明解",
+                    "reading": "メイカイ",
+                    "meanings": [
+                        "clear explanation"
+                    ]
+                },
+                {
+                    "kanji": "解熱",
+                    "reading": "ゲネツ",
+                    "meanings": [
+                        "lowering a fever",
+                        "alleviation of fever"
+                    ]
+                },
+                {
+                    "kanji": "解脱",
+                    "reading": "ゲダツ",
+                    "meanings": [
+                        "liberation from earthly desires and the woes of man",
+                        "deliverance of one's soul",
+                        "moksha",
+                        "mukti",
+                        "vimukti"
+                    ]
+                },
+                {
+                    "kanji": "雪消",
+                    "reading": "ユキゲ",
+                    "meanings": [
+                        "snow melting",
+                        "water from melting snow"
+                    ]
+                },
+                {
+                    "kanji": "義解",
+                    "reading": "ギゲ",
+                    "meanings": [
+                        "explanation (of the meaning)",
+                        "interpretation"
+                    ]
+                }
+            ]
+        }
+    }
+}

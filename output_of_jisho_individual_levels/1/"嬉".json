@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"嬉\"",
+        "strokes": 15,
+        "main_meanings": [
+            "glad",
+            "pleased",
+            "rejoice"
+        ],
+        "main_readings": {
+            "kun": [
+                "うれ.しい",
+                "たの.しむ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1255": "Classic Nelson (Andrew Nelson)",
+                "2476": "Japanese Names (P.G. O’Neill)",
+                "2048": "Kanji and Kana (Spahn and Hadamitzky)",
+                "890": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "508": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "655": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "6736": "Morohashi",
+                "722": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1267": "New Nelson (John Haig)",
+                "2207": "Remembering The Kanji (James Heisig)",
+                "2319": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "1777": "2001 Kanji",
+                "3e12.3": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "4446.1": "Four corner code",
+                "4446.5": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-82": "JIS X 0208-1997 kuten code",
+                "5b09": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うらし、 うれし"
+                ],
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "并",
+                "口",
+                "士",
+                "女",
+                "豆"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "嬉しい",
+                    "reading": "うれしい",
+                    "meanings": [
+                        "happy",
+                        "glad",
+                        "pleased",
+                        "delighted",
+                        "overjoyed",
+                        "joyful",
+                        "delightful",
+                        "gratifying",
+                        "pleasant"
+                    ]
+                },
+                {
+                    "kanji": "嬉しいことに",
+                    "reading": "うれしいことに",
+                    "meanings": [
+                        "to one's delight",
+                        "to one's joy"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "嬉々",
+                    "reading": "キキ",
+                    "meanings": [
+                        "merry",
+                        "joyful",
+                        "gleeful"
+                    ]
+                },
+                {
+                    "kanji": "嬉戯",
+                    "reading": "キギ",
+                    "meanings": [
+                        "frisking",
+                        "frolicking",
+                        "romping",
+                        "merry play"
+                    ]
+                },
+                {
+                    "kanji": "嬉々",
+                    "reading": "キキ",
+                    "meanings": [
+                        "merry",
+                        "joyful",
+                        "gleeful"
+                    ]
+                }
+            ]
+        }
+    }
+}

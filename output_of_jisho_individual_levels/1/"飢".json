@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"飢\"",
+        "strokes": 10,
+        "main_meanings": [
+            "hungry",
+            "starve"
+        ],
+        "main_readings": {
+            "kun": [
+                "う.える"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1127": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1947": "A New Dictionary of Kanji Usage",
+                "5155": "Classic Nelson (Andrew Nelson)",
+                "1717": "Essential Kanji (P.G. O’Neill)",
+                "1903": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1304": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1383": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1346": "Kanji in Context (Nishiguchi and Kono)",
+                "1902": "Kodansha Compact Kanji Guide",
+                "2101": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1093": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1490": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1487": "Les Kanjis dans la tete (Yves Maniette)",
+                "44023P": "Morohashi",
+                "1668": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6675": "New Nelson (John Haig)",
+                "1475": "Remembering The Kanji (James Heisig)",
+                "1585": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1404": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2857": "2001 Kanji",
+                "8b2.1": "The Kanji Dictionary",
+                "1-8-2": "SKIP code",
+                "8771.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-18": "JIS X 0208-1997 kuten code",
+                "98e2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "飠"
+            ],
+            "meaning": "eat,",
+            "parts": [
+                "几",
+                "食"
+            ],
+            "basis": "食",
+            "kangxi_order": 184,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "飢える",
+                    "reading": "うえる",
+                    "meanings": [
+                        "to starve",
+                        "to be famished",
+                        "to be hungry",
+                        "to be starved of (e.g. love)",
+                        "to be thirsty for (e.g. knowledge)",
+                        "to be hungry for"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "飢餓",
+                    "reading": "キガ",
+                    "meanings": [
+                        "starvation",
+                        "famine",
+                        "hunger"
+                    ]
+                },
+                {
+                    "kanji": "飢饉",
+                    "reading": "キキン",
+                    "meanings": [
+                        "famine",
+                        "crop failure",
+                        "chronic shortage (e.g. of water)"
+                    ]
+                }
+            ]
+        }
+    }
+}

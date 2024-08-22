@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"郊\"",
+        "strokes": 9,
+        "main_meanings": [
+            "outskirts",
+            "suburbs",
+            "rural area"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1254": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1237": "A New Dictionary of Kanji Usage",
+                "4761": "Classic Nelson (Andrew Nelson)",
+                "1030": "Essential Kanji (P.G. O’Neill)",
+                "968": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "888": "Japanese Names (P.G. O’Neill)",
+                "817": "Kanji and Kana (Spahn and Hadamitzky)",
+                "836": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "503": "Kanji in Context (Nishiguchi and Kono)",
+                "756": "Kodansha Compact Kanji Guide",
+                "1638": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "864": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1181": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1861": "Les Kanjis dans la tete (Yves Maniette)",
+                "39392": "Morohashi",
+                "1286": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6137": "New Nelson (John Haig)",
+                "1844": "Remembering The Kanji (James Heisig)",
+                "1987": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1299": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "444": "2001 Kanji",
+                "2d6.8": "The Kanji Dictionary",
+                "1-6-3": "SKIP code",
+                "1-6-2": "SKIP code",
+                "0742.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-57": "JIS X 0208-1997 kuten code",
+                "90ca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiao1"
+                ],
+                "korean": [
+                    "gyo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "亠",
+                "邦",
+                "父"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "郊外",
+                    "reading": "コウガイ",
+                    "meanings": [
+                        "suburb",
+                        "residential area on the outskirt of a city",
+                        "commuter belt"
+                    ]
+                },
+                {
+                    "kanji": "郊外化",
+                    "reading": "コウガイカ",
+                    "meanings": [
+                        "suburbanization"
+                    ]
+                },
+                {
+                    "kanji": "南郊",
+                    "reading": "ナンコウ",
+                    "meanings": [
+                        "southern suburbs"
+                    ]
+                },
+                {
+                    "kanji": "北郊",
+                    "reading": "ホッコウ",
+                    "meanings": [
+                        "northern suburbs"
+                    ]
+                }
+            ]
+        }
+    }
+}

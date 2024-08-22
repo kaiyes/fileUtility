@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"疾\"",
+        "strokes": 10,
+        "main_meanings": [
+            "rapidly"
+        ],
+        "main_readings": {
+            "kun": [
+                "はや.い"
+            ],
+            "on": [
+                "シツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1331": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1724": "A New Dictionary of Kanji Usage",
+                "3041": "Classic Nelson (Andrew Nelson)",
+                "1789": "Essential Kanji (P.G. O’Neill)",
+                "1544": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1812": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1954": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1736": "Kanji in Context (Nishiguchi and Kono)",
+                "1349": "Kodansha Compact Kanji Guide",
+                "4064": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2061": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2793": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1702": "Les Kanjis dans la tete (Yves Maniette)",
+                "22112": "Morohashi",
+                "3279": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3797": "New Nelson (John Haig)",
+                "1686": "Remembering The Kanji (James Heisig)",
+                "1819": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1368": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "563": "2001 Kanji",
+                "5i5.12": "The Kanji Dictionary",
+                "3-5-5": "SKIP code",
+                "0013.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-32": "JIS X 0208-1997 kuten code",
+                "75be": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji2"
+                ],
+                "korean": [
+                    "jil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sickness",
+            "parts": [
+                "疔",
+                "矢",
+                "乞"
+            ],
+            "basis": "疒",
+            "kangxi_order": 104,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "早い",
+                    "reading": "はやい",
+                    "meanings": [
+                        "fast",
+                        "quick",
+                        "rapid",
+                        "swift",
+                        "speedy",
+                        "brisk",
+                        "prompt",
+                        "early",
+                        "soon",
+                        "earlier than usual",
+                        "premature",
+                        "too soon",
+                        "too early",
+                        "easy",
+                        "simple",
+                        "quick",
+                        "fast",
+                        "as soon as ...",
+                        "the moment ...",
+                        "the instant ..."
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "疾雷",
+                    "reading": "シツライ",
+                    "meanings": [
+                        "sudden and violent thunder"
+                    ]
+                },
+                {
+                    "kanji": "癈疾",
+                    "reading": "ハイシツ",
+                    "meanings": [
+                        "disablement"
+                    ]
+                },
+                {
+                    "kanji": "廃疾",
+                    "reading": "ハイシツ",
+                    "meanings": [
+                        "disablement",
+                        "disability"
+                    ]
+                }
+            ]
+        }
+    }
+}

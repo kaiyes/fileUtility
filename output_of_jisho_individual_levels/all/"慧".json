@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"慧\"",
+        "strokes": 15,
+        "main_meanings": [
+            "wise"
+        ],
+        "main_readings": {
+            "kun": [
+                "さとい"
+            ],
+            "on": [
+                "ケイ",
+                "エ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1753": "Classic Nelson (Andrew Nelson)",
+                "2392": "Japanese Names (P.G. O’Neill)",
+                "2076": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3485": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1798": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2447": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "11116X": "Morohashi",
+                "2810": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1964": "New Nelson (John Haig)",
+                "2851": "Remembering The Kanji (James Heisig)",
+                "2866": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4k11.16": "The Kanji Dictionary",
+                "2-8-7": "SKIP code",
+                "5533.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-37": "JIS X 0208-1997 kuten code",
+                "6167": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さと、 さとし、 さとる、 あきら、 とし"
+                ],
+                "chinese": [
+                    "hui4"
+                ],
+                "korean": [
+                    "hye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "一",
+                "｜",
+                "ヨ",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "慧眼",
+                    "reading": "ケイガン",
+                    "meanings": [
+                        "discerning (quick) eye",
+                        "keen insight"
+                    ]
+                },
+                {
+                    "kanji": "慧敏",
+                    "reading": "ケイビン",
+                    "meanings": [
+                        "clever",
+                        "of quick intellect"
+                    ]
+                },
+                {
+                    "kanji": "恵",
+                    "reading": "エ",
+                    "meanings": [
+                        "wisdom",
+                        "enlightenment",
+                        "prajñā (one of the three divisions of the noble eightfold path)",
+                        "wisdom"
+                    ]
+                },
+                {
+                    "kanji": "慧眼",
+                    "reading": "エゲン",
+                    "meanings": [
+                        "the wisdom eye"
+                    ]
+                },
+                {
+                    "kanji": "遅知恵",
+                    "reading": "オソヂエ",
+                    "meanings": [
+                        "delayed mental development",
+                        "cognitive delay",
+                        "late-developing intelligence",
+                        "hindsight",
+                        "wisdom after the event"
+                    ]
+                },
+                {
+                    "kanji": "入れ知恵",
+                    "reading": "イレヂエ",
+                    "meanings": [
+                        "putting an idea into someone's head",
+                        "suggestion",
+                        "hint"
+                    ]
+                }
+            ]
+        }
+    }
+}

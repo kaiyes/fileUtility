@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"倉\"",
+        "strokes": 10,
+        "main_meanings": [
+            "godown",
+            "warehouse",
+            "storehouse",
+            "cellar",
+            "treasury"
+        ],
+        "main_readings": {
+            "kun": [
+                "くら"
+            ],
+            "on": [
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "659": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "559": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "531": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "708": "A New Dictionary of Kanji Usage",
+                "486": "Classic Nelson (Andrew Nelson)",
+                "732": "Essential Kanji (P.G. O’Neill)",
+                "1055": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1165": "Japanese Names (P.G. O’Neill)",
+                "1307": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1386": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1112": "Kanji in Context (Nishiguchi and Kono)",
+                "52": "Kodansha Compact Kanji Guide",
+                "2607": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1334": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1807": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1645": "Les Kanjis dans la tete (Yves Maniette)",
+                "756": "Morohashi",
+                "2104": "New Japanese English Character Dictionary (Jack Halpern)",
+                "255": "New Nelson (John Haig)",
+                "1630": "Remembering The Kanji (James Heisig)",
+                "1758": "Remembering The Kanji, 6th edition (James Heisig)",
+                "550": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2877": "2001 Kanji",
+                "2a8.37": "The Kanji Dictionary",
+                "2-2-8": "SKIP code",
+                "2-3-7": "SKIP code",
+                "8060.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-50": "JIS X 0208-1997 kuten code",
+                "5009": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cang1"
+                ],
+                "korean": [
+                    "chang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "ノ",
+                "个",
+                "口",
+                "尸"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "蔵",
+                    "reading": "くら",
+                    "meanings": [
+                        "warehouse",
+                        "storehouse",
+                        "cellar",
+                        "magazine",
+                        "granary",
+                        "godown",
+                        "depository",
+                        "treasury",
+                        "elevator"
+                    ]
+                },
+                {
+                    "kanji": "倉敷",
+                    "reading": "くらしき",
+                    "meanings": [
+                        "Kurashiki (city)",
+                        "storage charges"
+                    ]
+                },
+                {
+                    "kanji": "鎌倉",
+                    "reading": "かまくら",
+                    "meanings": [
+                        "Kamakura (city)"
+                    ]
+                },
+                {
+                    "kanji": "お蔵",
+                    "reading": "おくら",
+                    "meanings": [
+                        "shelving (a play",
+                        "movie",
+                        "etc.)",
+                        "closing down",
+                        "cancelling",
+                        "canceling",
+                        "rice storehouse (of the Edo shogunate)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "倉庫",
+                    "reading": "ソウコ",
+                    "meanings": [
+                        "storehouse",
+                        "warehouse",
+                        "godown"
+                    ]
+                },
+                {
+                    "kanji": "倉頡輸入法",
+                    "reading": "ソウケツユニュウホウ",
+                    "meanings": [
+                        "Cangjie input method (for Chinese)",
+                        "Tsang-chieh input method"
+                    ]
+                },
+                {
+                    "kanji": "船倉",
+                    "reading": "センソウ",
+                    "meanings": [
+                        "ship's hold",
+                        "hatch"
+                    ]
+                },
+                {
+                    "kanji": "穀倉",
+                    "reading": "コクソウ",
+                    "meanings": [
+                        "granary"
+                    ]
+                }
+            ]
+        }
+    }
+}

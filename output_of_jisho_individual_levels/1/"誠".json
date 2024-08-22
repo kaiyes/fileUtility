@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"誠\"",
+        "strokes": 13,
+        "main_meanings": [
+            "sincerity",
+            "admonish",
+            "warn",
+            "prohibit",
+            "truth",
+            "fidelity"
+        ],
+        "main_readings": {
+            "kun": [
+                "まこと"
+            ],
+            "on": [
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "825": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "923": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "912": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1244": "A New Dictionary of Kanji Usage",
+                "4352": "Classic Nelson (Andrew Nelson)",
+                "745": "Essential Kanji (P.G. O’Neill)",
+                "1758": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1935": "Japanese Names (P.G. O’Neill)",
+                "718": "Kanji and Kana (Spahn and Hadamitzky)",
+                "731": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "943": "Kanji in Context (Nishiguchi and Kono)",
+                "1683": "Kodansha Compact Kanji Guide",
+                "1922": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1023": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1382": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "369": "Les Kanjis dans la tete (Yves Maniette)",
+                "35497P": "Morohashi",
+                "1523": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5606": "New Nelson (John Haig)",
+                "363": "Remembering The Kanji (James Heisig)",
+                "388": "Remembering The Kanji, 6th edition (James Heisig)",
+                "963": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3059": "2001 Kanji",
+                "7a6.3": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "0365.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-31": "JIS X 0208-1997 kuten code",
+                "8aa0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "きよ、 さと、 しげ、 とも、 のぶ、 ま、 まこ、 まさ"
+                ],
+                "chinese": [
+                    "cheng2"
+                ],
+                "korean": [
+                    "seong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "ノ",
+                "戈",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "誠",
+                    "reading": "まこと",
+                    "meanings": [
+                        "truth",
+                        "reality",
+                        "fact",
+                        "sincerity",
+                        "honesty",
+                        "faithfulness",
+                        "good faith",
+                        "indeed",
+                        "really",
+                        "absolutely",
+                        "truly",
+                        "actually",
+                        "very",
+                        "quite"
+                    ]
+                },
+                {
+                    "kanji": "誠に",
+                    "reading": "まことに",
+                    "meanings": [
+                        "indeed",
+                        "really",
+                        "absolutely",
+                        "truly",
+                        "actually",
+                        "very",
+                        "quite"
+                    ]
+                },
+                {
+                    "kanji": "嘘から出たまこと",
+                    "reading": "うそからでたまこと",
+                    "meanings": [
+                        "something intended as a lie or joke which (by chance) ends up being true",
+                        "lie turned truth"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "誠実",
+                    "reading": "セイジツ",
+                    "meanings": [
+                        "sincere",
+                        "honest",
+                        "faithful"
+                    ]
+                },
+                {
+                    "kanji": "誠意",
+                    "reading": "セイイ",
+                    "meanings": [
+                        "sincerity",
+                        "good faith"
+                    ]
+                },
+                {
+                    "kanji": "至誠",
+                    "reading": "シセイ",
+                    "meanings": [
+                        "sincerity",
+                        "devotion"
+                    ]
+                },
+                {
+                    "kanji": "赤誠",
+                    "reading": "セキセイ",
+                    "meanings": [
+                        "sincerity",
+                        "true heart",
+                        "devotion"
+                    ]
+                }
+            ]
+        }
+    }
+}

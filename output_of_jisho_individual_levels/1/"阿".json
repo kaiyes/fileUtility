@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"阿\"",
+        "strokes": 8,
+        "main_meanings": [
+            "Africa",
+            "flatter",
+            "fawn upon",
+            "corner",
+            "nook",
+            "recess"
+        ],
+        "main_readings": {
+            "kun": [
+                "おもね.る",
+                "くま"
+            ],
+            "on": [
+                "ア",
+                "オ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1515": "A New Dictionary of Kanji Usage",
+                "4985": "Classic Nelson (Andrew Nelson)",
+                "569": "Japanese Names (P.G. O’Neill)",
+                "2258": "Kanji and Kana (Spahn and Hadamitzky)",
+                "408": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "256": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "305": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1304": "Les Kanjis dans la tete (Yves Maniette)",
+                "41599": "Morohashi",
+                "346": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6435": "New Nelson (John Haig)",
+                "1295": "Remembering The Kanji (James Heisig)",
+                "1391": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2d5.6": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "7122.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-04": "JIS X 0208-1997 kuten code",
+                "963f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ほとり、 あず、 あわ、 おか、 きた、 な"
+                ],
+                "chinese": [
+                    "a1",
+                    "e1",
+                    "a5",
+                    "a2",
+                    "a4"
+                ],
+                "korean": [
+                    "a",
+                    "og"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 left) 阜 (阝"
+            ],
+            "meaning": "mound,",
+            "parts": [
+                "一",
+                "亅",
+                "口",
+                "阡"
+            ],
+            "basis": "dam",
+            "kangxi_order": 170,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "阿る",
+                    "reading": "おもねる",
+                    "meanings": [
+                        "to flatter",
+                        "to play up (to)",
+                        "to curry favor (with)",
+                        "to fawn (on)",
+                        "to cater (to)"
+                    ]
+                },
+                {
+                    "kanji": "隈",
+                    "reading": "くま",
+                    "meanings": [
+                        "corner",
+                        "nook",
+                        "recess",
+                        "shade",
+                        "shadow",
+                        "dark area",
+                        "dark circles (under the eyes)",
+                        "dark rings",
+                        "bend (in a road",
+                        "river",
+                        "etc.)",
+                        "shading",
+                        "gradation",
+                        "kumadori",
+                        "style of kabuki makeup used for violent roles"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "阿",
+                    "reading": "ア",
+                    "meanings": [
+                        "first Sanskrit alphabet letter",
+                        "Africa",
+                        "Awa (old province of Japan)",
+                        "prefixed to names to show intimacy"
+                    ]
+                },
+                {
+                    "kanji": "阿呆",
+                    "reading": "アホ",
+                    "meanings": [
+                        "fool",
+                        "idiot",
+                        "simpleton"
+                    ]
+                },
+                {
+                    "kanji": "南ア",
+                    "reading": "ナンア",
+                    "meanings": [
+                        "South Africa"
+                    ]
+                },
+                {
+                    "kanji": "阿蘭陀",
+                    "reading": "オランダ",
+                    "meanings": [
+                        "Netherlands",
+                        "Holland"
+                    ]
+                },
+                {
+                    "kanji": "お亀",
+                    "reading": "オカメ",
+                    "meanings": [
+                        "homely woman (esp. one with a small low nose",
+                        "high flat forehead",
+                        "and bulging cheeks)",
+                        "plain woman",
+                        "soba in soup with slices of boiled fish paste",
+                        "shiitake mushrooms",
+                        "greens",
+                        "seaweed",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "加加阿",
+                    "reading": "カカオ",
+                    "meanings": [
+                        "cacao tree (Theobroma cacao)",
+                        "cocoa tree"
+                    ]
+                }
+            ]
+        }
+    }
+}

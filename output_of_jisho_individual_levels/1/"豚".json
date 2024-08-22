@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"豚\"",
+        "strokes": 11,
+        "main_meanings": [
+            "pork",
+            "pig"
+        ],
+        "main_readings": {
+            "kun": [
+                "ぶた"
+            ],
+            "on": [
+                "トン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1670": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1557": "A New Dictionary of Kanji Usage",
+                "3772": "Classic Nelson (Andrew Nelson)",
+                "1738": "Essential Kanji (P.G. O’Neill)",
+                "1774": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "796": "Kanji and Kana (Spahn and Hadamitzky)",
+                "810": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1089": "Kanji in Context (Nishiguchi and Kono)",
+                "1717": "Kodansha Compact Kanji Guide",
+                "1228": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "666": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "889": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "544": "Les Kanjis dans la tete (Yves Maniette)",
+                "36352": "Morohashi",
+                "976": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5743": "New Nelson (John Haig)",
+                "538": "Remembering The Kanji (James Heisig)",
+                "577": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1486": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3951": "2001 Kanji",
+                "4b7.2": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "7123.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-58": "JIS X 0208-1997 kuten code",
+                "8c5a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tun2"
+                ],
+                "korean": [
+                    "don"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "pig",
+            "parts": [
+                "月",
+                "豕"
+            ],
+            "basis": "豕",
+            "kangxi_order": null,
+            "variants": [
+                "豘"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "豚",
+                    "reading": "ぶた",
+                    "meanings": [
+                        "pig (Sus scrofa domesticus)",
+                        "pork",
+                        "fatso",
+                        "fatty"
+                    ]
+                },
+                {
+                    "kanji": "豚肉",
+                    "reading": "ぶたにく",
+                    "meanings": [
+                        "pork"
+                    ]
+                },
+                {
+                    "kanji": "野生豚",
+                    "reading": "やせいぶた",
+                    "meanings": [
+                        "feral pig"
+                    ]
+                },
+                {
+                    "kanji": "萌え豚",
+                    "reading": "もえぶた",
+                    "meanings": [
+                        "anime freak",
+                        "person overly interested in female anime and video game characters"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "豚",
+                    "reading": "トン",
+                    "meanings": [
+                        "pig",
+                        "pork"
+                    ]
+                },
+                {
+                    "kanji": "豚肉",
+                    "reading": "ブタニク",
+                    "meanings": [
+                        "pork"
+                    ]
+                },
+                {
+                    "kanji": "養豚",
+                    "reading": "ヨウトン",
+                    "meanings": [
+                        "pig-keeping",
+                        "pig farming"
+                    ]
+                },
+                {
+                    "kanji": "焼きとん",
+                    "reading": "ヤキトン",
+                    "meanings": [
+                        "yakiton",
+                        "grilled pork on skewers"
+                    ]
+                }
+            ]
+        }
+    }
+}

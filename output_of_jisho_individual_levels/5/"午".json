@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"午\"",
+        "strokes": 4,
+        "main_meanings": [
+            "noon",
+            "sign of the horse",
+            "11AM-1PM",
+            "seventh sign of Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "うま"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "207": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "122": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "110": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "98": "A New Dictionary of Kanji Usage",
+                "162": "Classic Nelson (Andrew Nelson)",
+                "140": "Essential Kanji (P.G. O’Neill)",
+                "27": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "112": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "49": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "28": "Kanji in Context (Nishiguchi and Kono)",
+                "241": "Kodansha Compact Kanji Guide",
+                "2478": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1254": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1720": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "575": "Les Kanjis dans la tete (Yves Maniette)",
+                "2703": "Morohashi",
+                "1984": "New Japanese English Character Dictionary (Jack Halpern)",
+                "604": "New Nelson (John Haig)",
+                "568": "Remembering The Kanji (James Heisig)",
+                "610": "Remembering The Kanji, 6th edition (James Heisig)",
+                "91": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2355": "2001 Kanji",
+                "2k2.2": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "4-4-3": "SKIP code",
+                "8040.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-65": "JIS X 0208-1997 kuten code",
+                "5348": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wu3"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ten,",
+            "parts": [
+                "ノ",
+                "十",
+                "干",
+                "乞"
+            ],
+            "basis": "十",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "午",
+                    "reading": "うま",
+                    "meanings": [
+                        "the Horse (seventh sign of the Chinese zodiac)",
+                        "hour of the Horse (around noon",
+                        "11am-1pm",
+                        "or 12 noon-2pm)",
+                        "south",
+                        "fifth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "午年",
+                    "reading": "うまどし",
+                    "meanings": [
+                        "year of the Horse"
+                    ]
+                },
+                {
+                    "kanji": "庚午",
+                    "reading": "かのえうま",
+                    "meanings": [
+                        "Metal Horse (7th term of the sexagenary cycle",
+                        "e.g. 1930",
+                        "1990",
+                        "2050)"
+                    ]
+                },
+                {
+                    "kanji": "甲午",
+                    "reading": "きのえうま",
+                    "meanings": [
+                        "Wood Horse (31st term of the sexagenary cycle",
+                        "e.g. 1954",
+                        "2014",
+                        "2074)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "午前",
+                    "reading": "ゴゼン",
+                    "meanings": [
+                        "morning",
+                        "a.m."
+                    ]
+                },
+                {
+                    "kanji": "午後",
+                    "reading": "ゴゴ",
+                    "meanings": [
+                        "afternoon",
+                        "p.m."
+                    ]
+                },
+                {
+                    "kanji": "端午",
+                    "reading": "タンゴ",
+                    "meanings": [
+                        "Boys' Day celebration (May 5)",
+                        "Dragon Boat Festival (China)"
+                    ]
+                },
+                {
+                    "kanji": "亭午",
+                    "reading": "テイゴ",
+                    "meanings": [
+                        "noon"
+                    ]
+                }
+            ]
+        }
+    }
+}

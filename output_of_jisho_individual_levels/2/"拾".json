@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"拾\"",
+        "strokes": 9,
+        "main_meanings": [
+            "pick up",
+            "gather",
+            "find",
+            "go on foot",
+            "ten"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひろ.う"
+            ],
+            "on": [
+                "シュウ",
+                "ジュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "425": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "321": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "305": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1599": "A New Dictionary of Kanji Usage",
+                "1901": "Classic Nelson (Andrew Nelson)",
+                "625": "Essential Kanji (P.G. O’Neill)",
+                "568": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "802": "Japanese Names (P.G. O’Neill)",
+                "1445": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1538": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "273": "Kanji in Context (Nishiguchi and Kono)",
+                "890": "Kodansha Compact Kanji Guide",
+                "454": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "279": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "339": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "674": "Les Kanjis dans la tete (Yves Maniette)",
+                "12014": "Morohashi",
+                "379": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2149": "New Nelson (John Haig)",
+                "667": "Remembering The Kanji (James Heisig)",
+                "720": "Remembering The Kanji, 6th edition (James Heisig)",
+                "329": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1377": "2001 Kanji",
+                "3c6.14": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "5806.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-06": "JIS X 0208-1997 kuten code",
+                "62fe": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi2",
+                    "she4"
+                ],
+                "korean": [
+                    "seub",
+                    "sib"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "一",
+                "个",
+                "口",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "拾う",
+                    "reading": "ひろう",
+                    "meanings": [
+                        "to pick up",
+                        "to gather",
+                        "to find (and pick up; something someone has dropped)",
+                        "to select",
+                        "to choose",
+                        "to pick out",
+                        "to get (unexpectedly)",
+                        "to hit upon (luck",
+                        "an opportunity",
+                        "etc.)",
+                        "to snatch (an unexpected victory)",
+                        "to pull off",
+                        "to pick up (someone in a car)",
+                        "to flag down (a taxi)",
+                        "to hail",
+                        "to pick up (a signal",
+                        "sound",
+                        "interference",
+                        "etc.)",
+                        "to (just manage to) return (the ball)",
+                        "to return (a difficult shot)",
+                        "to take on (someone in adverse circumstances)",
+                        "to employ",
+                        "to give a job",
+                        "to take in",
+                        "to walk",
+                        "to go on foot"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "収集",
+                    "reading": "シュウシュウ",
+                    "meanings": [
+                        "collecting",
+                        "accumulating",
+                        "gathering",
+                        "collection (of art",
+                        "stamps",
+                        "insects",
+                        "etc.)",
+                        "garbage collection",
+                        "waste collection"
+                    ]
+                },
+                {
+                    "kanji": "拾得",
+                    "reading": "シュウトク",
+                    "meanings": [
+                        "finding (lost property)",
+                        "picking up"
+                    ]
+                },
+                {
+                    "kanji": "十",
+                    "reading": "ジュウ",
+                    "meanings": [
+                        "ten",
+                        "10",
+                        "ten years of age",
+                        "book containing a collection of poems"
+                    ]
+                },
+                {
+                    "kanji": "十一",
+                    "reading": "ジュウイチ",
+                    "meanings": [
+                        "eleven",
+                        "11",
+                        "jack"
+                    ]
+                }
+            ]
+        }
+    }
+}

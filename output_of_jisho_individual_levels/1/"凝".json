@@ -1,0 +1,176 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"凝\"",
+        "strokes": 16,
+        "main_meanings": [
+            "congeal",
+            "freeze",
+            "stiff",
+            "be absorbed in"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ.る",
+                "こ.らす",
+                "こご.らす",
+                "こご.らせる",
+                "こご.る"
+            ],
+            "on": [
+                "ギョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1175": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1845": "A New Dictionary of Kanji Usage",
+                "652": "Classic Nelson (Andrew Nelson)",
+                "1370": "Essential Kanji (P.G. O’Neill)",
+                "1083": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2431": "Japanese Names (P.G. O’Neill)",
+                "1518": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1619": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1790": "Kanji in Context (Nishiguchi and Kono)",
+                "169": "Kodansha Compact Kanji Guide",
+                "198": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "128": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "154": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1424": "Les Kanjis dans la tete (Yves Maniette)",
+                "1720": "Morohashi",
+                "175": "New Japanese English Character Dictionary (Jack Halpern)",
+                "431": "New Nelson (John Haig)",
+                "1412": "Remembering The Kanji (James Heisig)",
+                "1515": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1821": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "370": "2001 Kanji",
+                "2b14.1": "The Kanji Dictionary",
+                "1-2-14": "SKIP code",
+                "3718.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-37": "JIS X 0208-1997 kuten code",
+                "51dd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ning2"
+                ],
+                "korean": [
+                    "eung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ice",
+            "parts": [
+                "冫",
+                "匕",
+                "マ",
+                "疋",
+                "矢",
+                "乞"
+            ],
+            "basis": "冫",
+            "kangxi_order": 15,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "凝る",
+                    "reading": "こる",
+                    "meanings": [
+                        "to become stiff (of muscles)",
+                        "to get absorbed in",
+                        "to develop a passion for",
+                        "to devote oneself to",
+                        "to become obsessed with",
+                        "to get hooked on",
+                        "to be elaborate",
+                        "to be intricate",
+                        "to be exquisite",
+                        "to be particular about",
+                        "to pay great attention to"
+                    ]
+                },
+                {
+                    "kanji": "凝らす",
+                    "reading": "こらす",
+                    "meanings": [
+                        "to concentrate",
+                        "to focus on",
+                        "to devote",
+                        "to apply oneself",
+                        "to stiffen",
+                        "to become tense"
+                    ]
+                },
+                {
+                    "kanji": "凝らす",
+                    "reading": "こごらす",
+                    "meanings": [
+                        "to freeze",
+                        "to congeal",
+                        "to concentrate one's attention on",
+                        "to devote oneself to something",
+                        "to ponder",
+                        "to meditate"
+                    ]
+                },
+                {
+                    "kanji": "凝らせる",
+                    "reading": "こごらせる",
+                    "meanings": [
+                        "to freeze",
+                        "to congeal"
+                    ]
+                },
+                {
+                    "kanji": "凝る",
+                    "reading": "こごる",
+                    "meanings": [
+                        "to congeal",
+                        "to gelatinize",
+                        "to jellify",
+                        "to jell",
+                        "to gell",
+                        "to freeze"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "凝縮",
+                    "reading": "ギョウシュク",
+                    "meanings": [
+                        "condensation (of ideas",
+                        "emotions",
+                        "etc.)",
+                        "condensation (of a vapour or gas)"
+                    ]
+                },
+                {
+                    "kanji": "凝固",
+                    "reading": "ギョウコ",
+                    "meanings": [
+                        "coagulation",
+                        "freezing",
+                        "solidification"
+                    ]
+                }
+            ]
+        }
+    }
+}

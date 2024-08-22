@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"用\"",
+        "strokes": 5,
+        "main_meanings": [
+            "utilize",
+            "business",
+            "service",
+            "use",
+            "employ"
+        ],
+        "main_readings": {
+            "kun": [
+                "もち.いる"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "146": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "235": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "215": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "102": "A New Dictionary of Kanji Usage",
+                "2993": "Classic Nelson (Andrew Nelson)",
+                "110": "Essential Kanji (P.G. O’Neill)",
+                "219": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "193": "Japanese Names (P.G. O’Neill)",
+                "2.19": "Japanese for Busy People",
+                "107": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "308": "Kanji in Context (Nishiguchi and Kono)",
+                "1329": "Kodansha Compact Kanji Guide",
+                "3694": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1889": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2569": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1189": "Les Kanjis dans la tete (Yves Maniette)",
+                "21703": "Morohashi",
+                "2976": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3721": "New Nelson (John Haig)",
+                "1181": "Remembering The Kanji (James Heisig)",
+                "1265": "Remembering The Kanji, 6th edition (James Heisig)",
+                "177": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "116": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3653": "2001 Kanji",
+                "2r3.1": "The Kanji Dictionary",
+                "3-2-3": "SKIP code",
+                "4-5-1": "SKIP code",
+                "7722.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-49": "JIS X 0208-1997 kuten code",
+                "7528": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たから"
+                ],
+                "chinese": [
+                    "yong4"
+                ],
+                "korean": [
+                    "yong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "甩"
+            ],
+            "meaning": "use",
+            "parts": [
+                "用"
+            ],
+            "basis": "用",
+            "kangxi_order": 101,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "用いる",
+                    "reading": "もちいる",
+                    "meanings": [
+                        "to use",
+                        "to make use of",
+                        "to utilize",
+                        "to utilise"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "用",
+                    "reading": "ヨウ",
+                    "meanings": [
+                        "business",
+                        "task",
+                        "errand",
+                        "engagement",
+                        "use",
+                        "purpose",
+                        "for the use of ...",
+                        "used for ...",
+                        "made for ...",
+                        "call of nature",
+                        "excretion"
+                    ]
+                },
+                {
+                    "kanji": "用意",
+                    "reading": "ヨウイ",
+                    "meanings": [
+                        "preparation",
+                        "arrangements",
+                        "provision",
+                        "getting ready",
+                        "laying out (e.g. a meal)"
+                    ]
+                },
+                {
+                    "kanji": "登用",
+                    "reading": "トウヨウ",
+                    "meanings": [
+                        "appointment",
+                        "assignment",
+                        "promotion"
+                    ]
+                },
+                {
+                    "kanji": "効用",
+                    "reading": "コウヨウ",
+                    "meanings": [
+                        "use",
+                        "utility",
+                        "effect",
+                        "benefit"
+                    ]
+                }
+            ]
+        }
+    }
+}

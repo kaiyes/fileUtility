@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"融\"",
+        "strokes": 16,
+        "main_meanings": [
+            "dissolve",
+            "melt"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.ける",
+                "と.かす"
+            ],
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1872": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "702": "A New Dictionary of Kanji Usage",
+                "5274": "Classic Nelson (Andrew Nelson)",
+                "1359": "Essential Kanji (P.G. O’Neill)",
+                "1719": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2545": "Japanese Names (P.G. O’Neill)",
+                "1588": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1695": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1237": "Kanji in Context (Nishiguchi and Kono)",
+                "1610": "Kodansha Compact Kanji Guide",
+                "2303": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1190": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1626": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1053": "Les Kanjis dans la tete (Yves Maniette)",
+                "33384": "Morohashi",
+                "1831": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5371": "New Nelson (John Haig)",
+                "1044": "Remembering The Kanji (James Heisig)",
+                "1123": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1865": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3071": "2001 Kanji",
+                "6d10.5": "The Kanji Dictionary",
+                "1-10-6": "SKIP code",
+                "1523.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-27": "JIS X 0208-1997 kuten code",
+                "878d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら"
+                ],
+                "chinese": [
+                    "rong2"
+                ],
+                "korean": [
+                    "yung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "insect",
+            "parts": [
+                "儿",
+                "冂",
+                "口",
+                "虫",
+                "鬲"
+            ],
+            "basis": "虫",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "溶ける",
+                    "reading": "とける",
+                    "meanings": [
+                        "to melt",
+                        "to thaw",
+                        "to fuse",
+                        "to dissolve"
+                    ]
+                },
+                {
+                    "kanji": "溶かす",
+                    "reading": "とかす",
+                    "meanings": [
+                        "to dissolve",
+                        "to melt"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "融資",
+                    "reading": "ユウシ",
+                    "meanings": [
+                        "financing",
+                        "loan"
+                    ]
+                },
+                {
+                    "kanji": "融合",
+                    "reading": "ユウゴウ",
+                    "meanings": [
+                        "agglutination",
+                        "adhesion",
+                        "fusion",
+                        "combination",
+                        "blending",
+                        "uniting"
+                    ]
+                },
+                {
+                    "kanji": "溶融",
+                    "reading": "ヨウユウ",
+                    "meanings": [
+                        "melting",
+                        "fusion"
+                    ]
+                },
+                {
+                    "kanji": "炉心溶融",
+                    "reading": "ロシンヨウユウ",
+                    "meanings": [
+                        "core meltdown",
+                        "meltdown",
+                        "nuclear reactor core meltdown"
+                    ]
+                }
+            ]
+        }
+    }
+}

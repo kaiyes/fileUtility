@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"望\"",
+        "strokes": 11,
+        "main_meanings": [
+            "ambition",
+            "full moon",
+            "hope",
+            "desire",
+            "aspire to",
+            "expect"
+        ],
+        "main_readings": {
+            "kun": [
+                "のぞ.む",
+                "もち"
+            ],
+            "on": [
+                "ボウ",
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "514": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "613": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "585": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "361": "A New Dictionary of Kanji Usage",
+                "2940": "Classic Nelson (Andrew Nelson)",
+                "767": "Essential Kanji (P.G. O’Neill)",
+                "1777": "Japanese Names (P.G. O’Neill)",
+                "673": "Kanji and Kana (Spahn and Hadamitzky)",
+                "685": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "581": "Kanji in Context (Nishiguchi and Kono)",
+                "1007": "Kodansha Compact Kanji Guide",
+                "3408": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1756": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2390": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "500": "Les Kanjis dans la tete (Yves Maniette)",
+                "14368P": "Morohashi",
+                "2742": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4819": "New Nelson (John Haig)",
+                "489": "Remembering The Kanji (James Heisig)",
+                "528": "Remembering The Kanji, 6th edition (James Heisig)",
+                "314": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "578": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "472": "2001 Kanji",
+                "4f7.6": "The Kanji Dictionary",
+                "2-7-4": "SKIP code",
+                "0710.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-30": "JIS X 0208-1997 kuten code",
+                "671b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "み、 も"
+                ],
+                "chinese": [
+                    "wang4"
+                ],
+                "korean": [
+                    "mang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "moon,",
+            "parts": [
+                "亡",
+                "月",
+                "王"
+            ],
+            "basis": "月",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "望む",
+                    "reading": "のぞむ",
+                    "meanings": [
+                        "to desire",
+                        "to want",
+                        "to wish for",
+                        "to hope for",
+                        "to expect (of someone)",
+                        "to hope for",
+                        "to look forward to",
+                        "to see",
+                        "to command (a view of)",
+                        "to overlook"
+                    ]
+                },
+                {
+                    "kanji": "望むところ",
+                    "reading": "のぞむところ",
+                    "meanings": [
+                        "what one desires",
+                        "what one hopes for",
+                        "suits me well",
+                        "could ask for nothing better",
+                        "bring it on",
+                        "make my day"
+                    ]
+                },
+                {
+                    "kanji": "望",
+                    "reading": "もち",
+                    "meanings": [
+                        "full moon",
+                        "15th day of the lunar month"
+                    ]
+                },
+                {
+                    "kanji": "望月",
+                    "reading": "もちづき",
+                    "meanings": [
+                        "full moon",
+                        "moon on the 15th day of the month (by the lunar calendar)",
+                        "full moon of the eighth lunar month"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "望",
+                    "reading": "モチ",
+                    "meanings": [
+                        "full moon",
+                        "15th day of the lunar month"
+                    ]
+                },
+                {
+                    "kanji": "望遠鏡",
+                    "reading": "ボウエンキョウ",
+                    "meanings": [
+                        "telescope"
+                    ]
+                },
+                {
+                    "kanji": "眺望",
+                    "reading": "チョウボウ",
+                    "meanings": [
+                        "prospect",
+                        "view",
+                        "outlook"
+                    ]
+                },
+                {
+                    "kanji": "太公望",
+                    "reading": "タイコウボウ",
+                    "meanings": [
+                        "(avid) angler"
+                    ]
+                },
+                {
+                    "kanji": "本望",
+                    "reading": "ホンモウ",
+                    "meanings": [
+                        "long-cherished ambition",
+                        "satisfaction"
+                    ]
+                },
+                {
+                    "kanji": "宿望",
+                    "reading": "シュクボウ",
+                    "meanings": [
+                        "long-cherished desire",
+                        "one's heart's desire"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"芽\"",
+        "strokes": 8,
+        "main_meanings": [
+            "bud",
+            "sprout",
+            "spear",
+            "germ"
+        ],
+        "main_readings": {
+            "kun": [
+                "め"
+            ],
+            "on": [
+                "ガ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "358": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "457": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "434": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1676": "A New Dictionary of Kanji Usage",
+                "3920": "Classic Nelson (Andrew Nelson)",
+                "709": "Essential Kanji (P.G. O’Neill)",
+                "1697": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "683": "Japanese Names (P.G. O’Neill)",
+                "1455": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1549": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1835": "Kanji in Context (Nishiguchi and Kono)",
+                "645": "Kodansha Compact Kanji Guide",
+                "2784": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1429": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1927": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1924": "Les Kanjis dans la tete (Yves Maniette)",
+                "30860P": "Morohashi",
+                "2240": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5002": "New Nelson (John Haig)",
+                "1905": "Remembering The Kanji (James Heisig)",
+                "2054": "Remembering The Kanji, 6th edition (James Heisig)",
+                "497": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1947": "2001 Kanji",
+                "3k5.9": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "2-4-4": "SKIP code",
+                "4424.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-74": "JIS X 0208-1997 kuten code",
+                "82bd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "じ、 めぐ"
+                ],
+                "chinese": [
+                    "ya2",
+                    "di2"
+                ],
+                "korean": [
+                    "a"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "牙"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "芽",
+                    "reading": "め",
+                    "meanings": [
+                        "sprout",
+                        "shoot",
+                        "bud",
+                        "germinal disk (in an egg)"
+                    ]
+                },
+                {
+                    "kanji": "目出度い",
+                    "reading": "めでたい",
+                    "meanings": [
+                        "happy",
+                        "auspicious",
+                        "propitious",
+                        "joyous",
+                        "naive"
+                    ]
+                },
+                {
+                    "kanji": "若芽",
+                    "reading": "わかめ",
+                    "meanings": [
+                        "sprouts",
+                        "new shoots",
+                        "young buds"
+                    ]
+                },
+                {
+                    "kanji": "脇芽",
+                    "reading": "わきめ",
+                    "meanings": [
+                        "axillary bud",
+                        "lateral bud",
+                        "side shoots (e.g. of a tomato or broccoli plant)",
+                        "side buds",
+                        "suckers"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "芽球",
+                    "reading": "ガキュウ",
+                    "meanings": [
+                        "gemmule",
+                        "blast (cell)"
+                    ]
+                },
+                {
+                    "kanji": "芽殖孤虫",
+                    "reading": "ガショクコチュウ",
+                    "meanings": [
+                        "Sparganum proliferum (species of worm)"
+                    ]
+                },
+                {
+                    "kanji": "発芽",
+                    "reading": "ハツガ",
+                    "meanings": [
+                        "germination",
+                        "sprouting",
+                        "budding"
+                    ]
+                },
+                {
+                    "kanji": "無性芽",
+                    "reading": "ムセイガ",
+                    "meanings": [
+                        "gemma"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"眸\"",
+        "strokes": 11,
+        "main_meanings": [
+            "pupil of the eye"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひとみ"
+            ],
+            "on": [
+                "ボウ",
+                "ム"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3137": "Classic Nelson (Andrew Nelson)",
+                "1636": "Japanese Names (P.G. O’Neill)",
+                "2171": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1502": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "794": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1082": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "23312": "Morohashi",
+                "1170": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3932": "New Nelson (John Haig)",
+                "2580": "Remembering The Kanji (James Heisig)",
+                "2628": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5c6.3": "The Kanji Dictionary",
+                "1-5-6": "SKIP code",
+                "6305.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-66-40": "JIS X 0208-1997 kuten code",
+                "7738": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mou2"
+                ],
+                "korean": [
+                    "mo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eye",
+            "parts": [
+                "厶",
+                "牛",
+                "目"
+            ],
+            "basis": "目",
+            "kangxi_order": 109,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "瞳",
+                    "reading": "ひとみ",
+                    "meanings": [
+                        "pupil (of the eye)",
+                        "one's eyes"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "眸子",
+                    "reading": "ボウシ",
+                    "meanings": [
+                        "pupil (of the eye)"
+                    ]
+                },
+                {
+                    "kanji": "明眸",
+                    "reading": "メイボウ",
+                    "meanings": [
+                        "bright or beautiful eyes"
+                    ]
+                },
+                {
+                    "kanji": "双眸",
+                    "reading": "ソウボウ",
+                    "meanings": [
+                        "one's eyes",
+                        "(pair of) eyes"
+                    ]
+                }
+            ]
+        }
+    }
+}

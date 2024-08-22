@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"駿\"",
+        "strokes": 17,
+        "main_meanings": [
+            "a good horse",
+            "speed",
+            "a fast person"
+        ],
+        "main_readings": {
+            "kun": [
+                "すぐ.れる"
+            ],
+            "on": [
+                "シュン",
+                "スン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5216": "Classic Nelson (Andrew Nelson)",
+                "2763": "Japanese Names (P.G. O’Neill)",
+                "2269": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2304": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1191": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1627": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "44775": "Morohashi",
+                "1832": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6754": "New Nelson (John Haig)",
+                "2060": "Remembering The Kanji (James Heisig)",
+                "2216": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "10a7.1": "The Kanji Dictionary",
+                "1-10-7": "SKIP code",
+                "7334.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-57": "JIS X 0208-1997 kuten code",
+                "99ff": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "する、 とし、 はやし、 はやお"
+                ],
+                "chinese": [
+                    "jun4"
+                ],
+                "korean": [
+                    "jun",
+                    "sun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horse",
+            "parts": [
+                "儿",
+                "厶",
+                "夂",
+                "杰",
+                "馬"
+            ],
+            "basis": "馬",
+            "kangxi_order": 187,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "俊足",
+                    "reading": "シュンソク",
+                    "meanings": [
+                        "swiftness of foot",
+                        "fast runner",
+                        "swift horse",
+                        "fleet steed",
+                        "person of great talent",
+                        "gifted person"
+                    ]
+                },
+                {
+                    "kanji": "俊才",
+                    "reading": "シュンサイ",
+                    "meanings": [
+                        "prodigy",
+                        "talented person",
+                        "person of exceptional talent",
+                        "genius"
+                    ]
+                },
+                {
+                    "kanji": "優駿",
+                    "reading": "ユウシュン",
+                    "meanings": [
+                        "fine racehorse"
+                    ]
+                },
+                {
+                    "kanji": "駿豆",
+                    "reading": "スンズ",
+                    "meanings": [
+                        "Suruga and Izu (provinces)"
+                    ]
+                },
+                {
+                    "kanji": "駿台電子情報専門学校",
+                    "reading": "スンダイデンシジョウホウセンモンガッコウ",
+                    "meanings": [
+                        "Sundai Computer College"
+                    ]
+                }
+            ]
+        }
+    }
+}

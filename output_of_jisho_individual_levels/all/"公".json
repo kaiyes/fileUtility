@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"公\"",
+        "strokes": 4,
+        "main_meanings": [
+            "public",
+            "prince",
+            "official",
+            "governmental"
+        ],
+        "main_readings": {
+            "kun": [
+                "おおやけ"
+            ],
+            "on": [
+                "コウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "210": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "126": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "277": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "122": "A New Dictionary of Kanji Usage",
+                "579": "Classic Nelson (Andrew Nelson)",
+                "219": "Essential Kanji (P.G. O’Neill)",
+                "341": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "156": "Japanese Names (P.G. O’Neill)",
+                "323": "Kanji in Context (Nishiguchi and Kono)",
+                "152": "Kodansha Compact Kanji Guide",
+                "2468": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1249": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1715": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "792": "Les Kanjis dans la tete (Yves Maniette)",
+                "1452": "Morohashi",
+                "1974": "New Japanese English Character Dictionary (Jack Halpern)",
+                "372": "New Nelson (John Haig)",
+                "784": "Remembering The Kanji (James Heisig)",
+                "847": "Remembering The Kanji, 6th edition (James Heisig)",
+                "212": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "92": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2071": "2001 Kanji",
+                "2o2.2": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "8073.0": "Four corner code",
+                "8073.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-88": "JIS X 0208-1997 kuten code",
+                "516c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 き、 きみ、 きん、 たか、 ただし、 とも、 ひろ、 まさ"
+                ],
+                "chinese": [
+                    "gong1"
+                ],
+                "korean": [
+                    "gong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eight",
+            "parts": [
+                "ハ",
+                "厶"
+            ],
+            "basis": "八",
+            "kangxi_order": 12,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "公",
+                    "reading": "おおやけ",
+                    "meanings": [
+                        "official",
+                        "governmental",
+                        "formal",
+                        "public (use",
+                        "matter",
+                        "forum",
+                        "etc.)",
+                        "common",
+                        "being public knowledge",
+                        "being out in the open",
+                        "exposure to public view"
+                    ]
+                },
+                {
+                    "kanji": "公所",
+                    "reading": "おおやけどころ",
+                    "meanings": [
+                        "imperial court",
+                        "government office",
+                        "imperial land",
+                        "government land"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "公",
+                    "reading": "コウ",
+                    "meanings": [
+                        "public affair",
+                        "government matter",
+                        "the state",
+                        "the government",
+                        "the public",
+                        "duke",
+                        "prince",
+                        "Sir",
+                        "Lord",
+                        "familiar or derogatory suffix"
+                    ]
+                },
+                {
+                    "kanji": "公安",
+                    "reading": "コウアン",
+                    "meanings": [
+                        "public safety",
+                        "public welfare"
+                    ]
+                },
+                {
+                    "kanji": "大公",
+                    "reading": "タイコウ",
+                    "meanings": [
+                        "archduke"
+                    ]
+                },
+                {
+                    "kanji": "乃公",
+                    "reading": "ダイコウ",
+                    "meanings": [
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "公家",
+                    "reading": "クゲ",
+                    "meanings": [
+                        "court noble",
+                        "nobility",
+                        "kuge",
+                        "Imperial Court"
+                    ]
+                },
+                {
+                    "kanji": "公廨",
+                    "reading": "クガイ",
+                    "meanings": [
+                        "government office"
+                    ]
+                },
+                {
+                    "kanji": "夙",
+                    "reading": "シュク",
+                    "meanings": [
+                        "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+                    ]
+                }
+            ]
+        }
+    }
+}

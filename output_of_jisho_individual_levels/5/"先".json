@@ -1,0 +1,236 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"先\"",
+        "strokes": 6,
+        "main_meanings": [
+            "before",
+            "ahead",
+            "previous",
+            "future",
+            "precedence"
+        ],
+        "main_readings": {
+            "kun": [
+                "さき",
+                "ま.ず"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "33": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "43": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "49": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "201": "A New Dictionary of Kanji Usage",
+                "571": "Classic Nelson (Andrew Nelson)",
+                "65": "Essential Kanji (P.G. O’Neill)",
+                "16": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "280": "Japanese Names (P.G. O’Neill)",
+                "2.18": "Japanese for Busy People",
+                "50": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "48": "Kanji in Context (Nishiguchi and Kono)",
+                "145": "Kodansha Compact Kanji Guide",
+                "3046": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1552": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2123": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "254": "Les Kanjis dans la tete (Yves Maniette)",
+                "1349": "Morohashi",
+                "2394": "New Japanese English Character Dictionary (Jack Halpern)",
+                "350": "New Nelson (John Haig)",
+                "248": "Remembering The Kanji (James Heisig)",
+                "263": "Remembering The Kanji, 6th edition (James Heisig)",
+                "115": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "54": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2457": "2001 Kanji",
+                "3b3.7": "The Kanji Dictionary",
+                "2-4-2": "SKIP code",
+                "2421.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-72": "JIS X 0208-1997 kuten code",
+                "5148": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぽん"
+                ],
+                "chinese": [
+                    "xian1"
+                ],
+                "korean": [
+                    "seon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "legs",
+            "parts": [
+                "ノ",
+                "儿",
+                "土"
+            ],
+            "basis": "儿",
+            "kangxi_order": 10,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "先",
+                    "reading": "さき",
+                    "meanings": [
+                        "point",
+                        "tip",
+                        "end",
+                        "nozzle",
+                        "head (of a line)",
+                        "front",
+                        "first",
+                        "before",
+                        "ahead (of)",
+                        "(the way) ahead",
+                        "beyond",
+                        "future",
+                        "previous",
+                        "prior",
+                        "former",
+                        "recent",
+                        "last",
+                        "destination",
+                        "address",
+                        "place where you do something",
+                        "rest (e.g. of a story)",
+                        "continuation",
+                        "remaining part",
+                        "the other party"
+                    ]
+                },
+                {
+                    "kanji": "先行き",
+                    "reading": "さきゆき",
+                    "meanings": [
+                        "the future",
+                        "future prospects"
+                    ]
+                },
+                {
+                    "kanji": "小手先",
+                    "reading": "こてさき",
+                    "meanings": [
+                        "tip of the hand",
+                        "(use of) one's hands",
+                        "cheap trick",
+                        "superficial wit",
+                        "superficial cleverness",
+                        "cheap",
+                        "makeshift (e.g. measures)",
+                        "shortsighted",
+                        "perfunctory",
+                        "halfhearted"
+                    ]
+                },
+                {
+                    "kanji": "矛先",
+                    "reading": "ほこさき",
+                    "meanings": [
+                        "point of a spear",
+                        "spearhead",
+                        "focus (of one's attack",
+                        "criticism",
+                        "etc.)",
+                        "aim",
+                        "target",
+                        "brunt",
+                        "force (of an argument)",
+                        "edge"
+                    ]
+                },
+                {
+                    "kanji": "先ず",
+                    "reading": "まず",
+                    "meanings": [
+                        "first (of all)",
+                        "firstly",
+                        "to begin with",
+                        "before anything else",
+                        "probably",
+                        "most likely",
+                        "almost certainly",
+                        "virtually",
+                        "more or less (satisfactory)",
+                        "on the whole",
+                        "reasonably",
+                        "anyway",
+                        "at any rate",
+                        "for now (at least)",
+                        "for the time being"
+                    ]
+                },
+                {
+                    "kanji": "まず第一に",
+                    "reading": "まずだいいちに",
+                    "meanings": [
+                        "first of all",
+                        "in the first place",
+                        "to begin with",
+                        "for starters"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "先",
+                    "reading": "セン",
+                    "meanings": [
+                        "former",
+                        "previous",
+                        "old",
+                        "first move (in go",
+                        "shogi",
+                        "etc.)",
+                        "opening move"
+                    ]
+                },
+                {
+                    "kanji": "先駆",
+                    "reading": "センク",
+                    "meanings": [
+                        "forerunner",
+                        "precursor",
+                        "pioneer",
+                        "leader",
+                        "outrider",
+                        "outriding"
+                    ]
+                },
+                {
+                    "kanji": "機先",
+                    "reading": "キセン",
+                    "meanings": [
+                        "forestall"
+                    ]
+                },
+                {
+                    "kanji": "互先",
+                    "reading": "タガイセン",
+                    "meanings": [
+                        "even game (esp. in go)"
+                    ]
+                }
+            ]
+        }
+    }
+}

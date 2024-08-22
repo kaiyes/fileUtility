@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"英\"",
+        "strokes": 8,
+        "main_meanings": [
+            "England",
+            "English",
+            "hero",
+            "outstanding",
+            "calyx"
+        ],
+        "main_readings": {
+            "kun": [
+                "はなぶさ"
+            ],
+            "on": [
+                "エイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "353": "Kanji and Kana (Spahn and Hadamitzky)",
+                "449": "A New Dictionary of Kanji Usage",
+                "426": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "3927": "Classic Nelson (Andrew Nelson)",
+                "377": "Essential Kanji (P.G. O’Neill)",
+                "244": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "693": "Japanese Names (P.G. O’Neill)",
+                "2.19": "Japanese for Busy People",
+                "354": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "155": "Kanji in Context (Nishiguchi and Kono)",
+                "644": "Kodansha Compact Kanji Guide",
+                "2782": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1427": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1925": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1757": "Les Kanjis dans la tete (Yves Maniette)",
+                "30808P": "Morohashi",
+                "2238": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5008": "New Nelson (John Haig)",
+                "1741": "Remembering The Kanji (James Heisig)",
+                "1878": "Remembering The Kanji, 6th edition (James Heisig)",
+                "361": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "495": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1963": "2001 Kanji",
+                "3k5.5": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4453.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-49": "JIS X 0208-1997 kuten code",
+                "82f1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あい、 え、 すぐる、 はな、 ひ、 ひで、 よし、 ら"
+                ],
+                "chinese": [
+                    "ying1"
+                ],
+                "korean": [
+                    "yeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "ノ",
+                "冖",
+                "大",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": [
+                "偀"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "花房",
+                    "reading": "はなぶさ",
+                    "meanings": [
+                        "calyx",
+                        "corolla"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "英",
+                    "reading": "エイ",
+                    "meanings": [
+                        "United Kingdom",
+                        "Britain",
+                        "English (language)"
+                    ]
+                },
+                {
+                    "kanji": "英語",
+                    "reading": "エイゴ",
+                    "meanings": [
+                        "English (language)"
+                    ]
+                },
+                {
+                    "kanji": "育英",
+                    "reading": "イクエイ",
+                    "meanings": [
+                        "education of gifted young people",
+                        "providing financial support to gifted students",
+                        "education"
+                    ]
+                },
+                {
+                    "kanji": "和英",
+                    "reading": "ワエイ",
+                    "meanings": [
+                        "Japanese-English",
+                        "Japanese-English dictionary"
+                    ]
+                }
+            ]
+        }
+    }
+}

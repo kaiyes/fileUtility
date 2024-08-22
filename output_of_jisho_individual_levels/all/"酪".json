@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酪\"",
+        "strokes": 13,
+        "main_meanings": [
+            "dairy products",
+            "whey",
+            "broth",
+            "fruit juice"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ラク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1891": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1868": "A New Dictionary of Kanji Usage",
+                "4786": "Classic Nelson (Andrew Nelson)",
+                "1754": "Essential Kanji (P.G. O’Neill)",
+                "1834": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1865": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2025": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1593": "Kanji in Context (Nishiguchi and Kono)",
+                "1794": "Kodansha Compact Kanji Guide",
+                "1940": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1035": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1398": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1445": "Les Kanjis dans la tete (Yves Maniette)",
+                "39847": "Morohashi",
+                "1538": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6172": "New Nelson (John Haig)",
+                "1433": "Remembering The Kanji (James Heisig)",
+                "1541": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1679": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3277": "2001 Kanji",
+                "7e6.4": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "1766.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-79": "JIS X 0208-1997 kuten code",
+                "916a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lao4",
+                    "luo4"
+                ],
+                "korean": [
+                    "rag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "口",
+                "夂",
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "酪",
+                    "reading": "ラク",
+                    "meanings": [
+                        "acidic drink made from fermented milk (cow",
+                        "sheep",
+                        "mare; one of the five flavors in Buddhism)"
+                    ]
+                },
+                {
+                    "kanji": "酪農",
+                    "reading": "ラクノウ",
+                    "meanings": [
+                        "dairy farming"
+                    ]
+                },
+                {
+                    "kanji": "製酪",
+                    "reading": "セイラク",
+                    "meanings": [
+                        "dairy production (butter",
+                        "cheese",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "牛酪",
+                    "reading": "ギュウラク",
+                    "meanings": [
+                        "butter"
+                    ]
+                }
+            ]
+        }
+    }
+}

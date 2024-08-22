@@ -1,0 +1,277 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"悪\"",
+        "strokes": 11,
+        "main_meanings": [
+            "bad",
+            "vice",
+            "rascal",
+            "false",
+            "evil",
+            "wrong"
+        ],
+        "main_readings": {
+            "kun": [
+                "わる.い",
+                "わる-",
+                "あ.し",
+                "にく.い",
+                "-にく.い",
+                "ああ",
+                "いずくに",
+                "いずくんぞ",
+                "にく.む"
+            ],
+            "on": [
+                "アク",
+                "オ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "152": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "241": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "222": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "504": "A New Dictionary of Kanji Usage",
+                "62": "Classic Nelson (Andrew Nelson)",
+                "804": "Essential Kanji (P.G. O’Neill)",
+                "175": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1483A": "Japanese Names (P.G. O’Neill)",
+                "3.14": "Japanese for Busy People",
+                "304": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "114": "Kanji in Context (Nishiguchi and Kono)",
+                "785": "Kodansha Compact Kanji Guide",
+                "3413": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1758": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2393": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1828": "Les Kanjis dans la tete (Yves Maniette)",
+                "10717": "Morohashi",
+                "2745": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1873": "New Nelson (John Haig)",
+                "1810": "Remembering The Kanji (James Heisig)",
+                "1951": "Remembering The Kanji, 6th edition (James Heisig)",
+                "295": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "369": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3258": "2001 Kanji",
+                "4k7.17": "The Kanji Dictionary",
+                "2-7-4": "SKIP code",
+                "1033.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-13": "JIS X 0208-1997 kuten code",
+                "60aa": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "e4",
+                    "e3",
+                    "wu4"
+                ],
+                "korean": [
+                    "ag",
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "一",
+                "｜",
+                "口",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": [
+                "惡"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "悪い",
+                    "reading": "わるい",
+                    "meanings": [
+                        "bad",
+                        "poor",
+                        "undesirable",
+                        "poor (quality)",
+                        "inferior",
+                        "insufficient",
+                        "evil",
+                        "sinful",
+                        "ugly",
+                        "not beautiful",
+                        "at fault",
+                        "to blame",
+                        "in the wrong",
+                        "bad (at doing something)",
+                        "unprofitable",
+                        "unbeneficial",
+                        "sorry",
+                        "(my) bad",
+                        "unforgivable"
+                    ]
+                },
+                {
+                    "kanji": "悪い行い",
+                    "reading": "わるいおこない",
+                    "meanings": [
+                        "bad deed",
+                        "evil deed"
+                    ]
+                },
+                {
+                    "kanji": "悪し",
+                    "reading": "あし",
+                    "meanings": [
+                        "bad",
+                        "evil"
+                    ]
+                },
+                {
+                    "kanji": "悪しからず",
+                    "reading": "あしからず",
+                    "meanings": [
+                        "don't get me wrong",
+                        "but ...",
+                        "I'm sorry"
+                    ]
+                },
+                {
+                    "kanji": "難い",
+                    "reading": "にくい",
+                    "meanings": [
+                        "difficult to ...",
+                        "hard to ..."
+                    ]
+                },
+                {
+                    "kanji": "憎い",
+                    "reading": "にくい",
+                    "meanings": [
+                        "hateful",
+                        "detestable",
+                        "abominable",
+                        "vexing",
+                        "provoking",
+                        "amazing",
+                        "fantastic",
+                        "admirable",
+                        "lovely",
+                        "wonderful"
+                    ]
+                },
+                {
+                    "kanji": "安んぞ",
+                    "reading": "いずくんぞ",
+                    "meanings": [
+                        "how",
+                        "why"
+                    ]
+                },
+                {
+                    "kanji": "憎む",
+                    "reading": "にくむ",
+                    "meanings": [
+                        "to hate",
+                        "to detest"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "悪",
+                    "reading": "アク",
+                    "meanings": [
+                        "evil",
+                        "wickedness",
+                        "(role of) the villain (in theatre",
+                        "etc.)",
+                        "the bad guy"
+                    ]
+                },
+                {
+                    "kanji": "悪質",
+                    "reading": "アクシツ",
+                    "meanings": [
+                        "malicious",
+                        "vicious",
+                        "malignant",
+                        "underhanded",
+                        "shoddy",
+                        "inferior",
+                        "poor-quality",
+                        "second-rate"
+                    ]
+                },
+                {
+                    "kanji": "害悪",
+                    "reading": "ガイアク",
+                    "meanings": [
+                        "harm",
+                        "injury",
+                        "evil (influence)"
+                    ]
+                },
+                {
+                    "kanji": "改悪",
+                    "reading": "カイアク",
+                    "meanings": [
+                        "changing (something) for the worse",
+                        "disimprovement",
+                        "deterioration"
+                    ]
+                },
+                {
+                    "kanji": "悪寒",
+                    "reading": "オカン",
+                    "meanings": [
+                        "chill",
+                        "shakes",
+                        "ague"
+                    ]
+                },
+                {
+                    "kanji": "悪血",
+                    "reading": "アクチ",
+                    "meanings": [
+                        "impure blood"
+                    ]
+                },
+                {
+                    "kanji": "自己嫌悪",
+                    "reading": "ジコケンオ",
+                    "meanings": [
+                        "self-hatred",
+                        "self-abhorrence",
+                        "self-loathing"
+                    ]
+                },
+                {
+                    "kanji": "好悪",
+                    "reading": "コウオ",
+                    "meanings": [
+                        "likes and dislikes"
+                    ]
+                }
+            ]
+        }
+    }
+}

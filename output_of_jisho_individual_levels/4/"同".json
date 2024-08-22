@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"同\"",
+        "strokes": 6,
+        "main_meanings": [
+            "same",
+            "agree",
+            "equal"
+        ],
+        "main_readings": {
+            "kun": [
+                "おな.じ"
+            ],
+            "on": [
+                "ドウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "295": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "204": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "187": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "23": "A New Dictionary of Kanji Usage",
+                "619": "Classic Nelson (Andrew Nelson)",
+                "185": "Essential Kanji (P.G. O’Neill)",
+                "136": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "298": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "198": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "350": "Kanji in Context (Nishiguchi and Kono)",
+                "320": "Kodansha Compact Kanji Guide",
+                "3707": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1897": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2578": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "182": "Les Kanjis dans la tete (Yves Maniette)",
+                "3294": "Morohashi",
+                "2987": "New Japanese English Character Dictionary (Jack Halpern)",
+                "717": "New Nelson (John Haig)",
+                "180": "Remembering The Kanji (James Heisig)",
+                "192": "Remembering The Kanji, 6th edition (James Heisig)",
+                "54": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "133": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3649": "2001 Kanji",
+                "2r4.2": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "7722.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-17": "JIS X 0208-1997 kuten code",
+                "540c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tong2",
+                    "tong4"
+                ],
+                "korean": [
+                    "dong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "冂",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "同じ",
+                    "reading": "おなじ",
+                    "meanings": [
+                        "same",
+                        "identical",
+                        "equal",
+                        "uniform",
+                        "equivalent",
+                        "similar",
+                        "common (origin)",
+                        "changeless",
+                        "alike",
+                        "anyway",
+                        "anyhow",
+                        "in either case"
+                    ]
+                },
+                {
+                    "kanji": "同じく",
+                    "reading": "おなじく",
+                    "meanings": [
+                        "in the same way",
+                        "like",
+                        "likewise",
+                        "similarly"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "同",
+                    "reading": "ドウ",
+                    "meanings": [
+                        "the same",
+                        "the said",
+                        "likewise"
+                    ]
+                },
+                {
+                    "kanji": "同意",
+                    "reading": "ドウイ",
+                    "meanings": [
+                        "agreement",
+                        "consent",
+                        "approval",
+                        "assent",
+                        "same opinion",
+                        "same view",
+                        "same meaning"
+                    ]
+                },
+                {
+                    "kanji": "合同",
+                    "reading": "ゴウドウ",
+                    "meanings": [
+                        "combination",
+                        "union",
+                        "joining",
+                        "incorporation",
+                        "amalgamation",
+                        "merger",
+                        "fusion",
+                        "combined",
+                        "joint",
+                        "united",
+                        "shared",
+                        "congruence"
+                    ]
+                },
+                {
+                    "kanji": "大同",
+                    "reading": "ダイドウ",
+                    "meanings": [
+                        "general resemblance",
+                        "being largely the same",
+                        "uniting with a common goal",
+                        "Daidō era (806.5.18-810.9.19)"
+                    ]
+                }
+            ]
+        }
+    }
+}

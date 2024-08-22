@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"顔\"",
+        "strokes": 18,
+        "main_meanings": [
+            "face",
+            "expression"
+        ],
+        "main_readings": {
+            "kun": [
+                "かお"
+            ],
+            "on": [
+                "ガン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "179": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "103": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "93": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "527": "A New Dictionary of Kanji Usage",
+                "5139": "Classic Nelson (Andrew Nelson)",
+                "481": "Essential Kanji (P.G. O’Neill)",
+                "277": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "2754": "Japanese Names (P.G. O’Neill)",
+                "573": "Kanji in Context (Nishiguchi and Kono)",
+                "1893": "Kodansha Compact Kanji Guide",
+                "2277": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1177": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1608": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1733": "Les Kanjis dans la tete (Yves Maniette)",
+                "43591P": "Morohashi",
+                "1808": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6648": "New Nelson (John Haig)",
+                "1717": "Remembering The Kanji (James Heisig)",
+                "1853": "Remembering The Kanji, 6th edition (James Heisig)",
+                "355": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "239": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "461": "2001 Kanji",
+                "9a9.3": "The Kanji Dictionary",
+                "1-9-9": "SKIP code",
+                "0128.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-73": "JIS X 0208-1997 kuten code",
+                "9854": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "an"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "亠",
+                "ハ",
+                "厂",
+                "彡",
+                "目",
+                "立",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": 181,
+            "variants": [
+                "顏"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "顔",
+                    "reading": "かお",
+                    "meanings": [
+                        "face",
+                        "visage",
+                        "look",
+                        "expression",
+                        "countenance",
+                        "honor",
+                        "honour",
+                        "face",
+                        "influence",
+                        "notoriety"
+                    ]
+                },
+                {
+                    "kanji": "顔合わせ",
+                    "reading": "かおあわせ",
+                    "meanings": [
+                        "meeting together",
+                        "introduction",
+                        "costarring",
+                        "appearing together",
+                        "being matched",
+                        "facing off"
+                    ]
+                },
+                {
+                    "kanji": "いい顔",
+                    "reading": "いいかお",
+                    "meanings": [
+                        "big-shot",
+                        "influential person",
+                        "happy face",
+                        "smiling face",
+                        "sympathetic attitude",
+                        "getting along with",
+                        "being all smiles",
+                        "good looks",
+                        "nice face"
+                    ]
+                },
+                {
+                    "kanji": "涼しい顔",
+                    "reading": "すずしいかお",
+                    "meanings": [
+                        "nonchalant air",
+                        "unruffled air"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "顔",
+                    "reading": "カオ",
+                    "meanings": [
+                        "face",
+                        "visage",
+                        "look",
+                        "expression",
+                        "countenance",
+                        "honor",
+                        "honour",
+                        "face",
+                        "influence",
+                        "notoriety"
+                    ]
+                },
+                {
+                    "kanji": "顔色",
+                    "reading": "カオイロ",
+                    "meanings": [
+                        "complexion",
+                        "one's colour",
+                        "one's color",
+                        "countenance",
+                        "expression",
+                        "one's face"
+                    ]
+                },
+                {
+                    "kanji": "美顔",
+                    "reading": "ビガン",
+                    "meanings": [
+                        "beautiful face",
+                        "facial care",
+                        "facial treatment"
+                    ]
+                },
+                {
+                    "kanji": "童顔",
+                    "reading": "ドウガン",
+                    "meanings": [
+                        "child's face",
+                        "childlike face",
+                        "boyish face",
+                        "baby face"
+                    ]
+                }
+            ]
+        }
+    }
+}

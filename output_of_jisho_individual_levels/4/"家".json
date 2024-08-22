@@ -1,0 +1,305 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"家\"",
+        "strokes": 10,
+        "main_meanings": [
+            "house",
+            "home",
+            "family",
+            "professional",
+            "expert",
+            "performer"
+        ],
+        "main_readings": {
+            "kun": [
+                "いえ",
+                "や",
+                "うち"
+            ],
+            "on": [
+                "カ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "53": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "89": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "83": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "81": "A New Dictionary of Kanji Usage",
+                "1311": "Classic Nelson (Andrew Nelson)",
+                "151": "Essential Kanji (P.G. O’Neill)",
+                "158": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1185": "Japanese Names (P.G. O’Neill)",
+                "2.8": "Japanese for Busy People",
+                "165": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "52": "Kanji in Context (Nishiguchi and Kono)",
+                "480": "Kodansha Compact Kanji Guide",
+                "2827": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1458": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1963": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "547": "Les Kanjis dans la tete (Yves Maniette)",
+                "7169": "Morohashi",
+                "2273": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1337": "New Nelson (John Haig)",
+                "541": "Remembering The Kanji (James Heisig)",
+                "580": "Remembering The Kanji, 6th edition (James Heisig)",
+                "46": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "189": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "751": "2001 Kanji",
+                "3m7.1": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "3023.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-40": "JIS X 0208-1997 kuten code",
+                "5bb6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あり、 え、 く、 つか、 べ"
+                ],
+                "chinese": [
+                    "jia1",
+                    "gu1"
+                ],
+                "korean": [
+                    "ga"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "宀",
+                "豕"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "家",
+                    "reading": "いえ",
+                    "meanings": [
+                        "house",
+                        "residence",
+                        "dwelling",
+                        "family",
+                        "household",
+                        "lineage",
+                        "family name"
+                    ]
+                },
+                {
+                    "kanji": "家主",
+                    "reading": "やぬし",
+                    "meanings": [
+                        "landlord",
+                        "landlady",
+                        "house owner",
+                        "home owner",
+                        "head of the household"
+                    ]
+                },
+                {
+                    "kanji": "本家",
+                    "reading": "ほんけ",
+                    "meanings": [
+                        "head house (family)",
+                        "birthplace",
+                        "originator"
+                    ]
+                },
+                {
+                    "kanji": "小家",
+                    "reading": "こいえ",
+                    "meanings": [
+                        "small and simple home"
+                    ]
+                },
+                {
+                    "kanji": "屋",
+                    "reading": "や",
+                    "meanings": [
+                        "shop",
+                        "store",
+                        "restaurant",
+                        "someone who sells (something) or works as (something)",
+                        "someone with a (certain) personality trait",
+                        "house",
+                        "roof"
+                    ]
+                },
+                {
+                    "kanji": "家内",
+                    "reading": "かない",
+                    "meanings": [
+                        "(my) wife",
+                        "inside the home",
+                        "one's family"
+                    ]
+                },
+                {
+                    "kanji": "長屋",
+                    "reading": "ながや",
+                    "meanings": [
+                        "tenement house",
+                        "row house"
+                    ]
+                },
+                {
+                    "kanji": "本家",
+                    "reading": "ほんけ",
+                    "meanings": [
+                        "head house (family)",
+                        "birthplace",
+                        "originator"
+                    ]
+                },
+                {
+                    "kanji": "家",
+                    "reading": "うち",
+                    "meanings": [
+                        "one's house",
+                        "one's home",
+                        "one's family",
+                        "one's household",
+                        "house"
+                    ]
+                },
+                {
+                    "kanji": "内",
+                    "reading": "うち",
+                    "meanings": [
+                        "inside",
+                        "within",
+                        "while (e.g. one is young)",
+                        "during",
+                        "within (e.g. a day)",
+                        "in the course of",
+                        "among",
+                        "amongst",
+                        "(out) of",
+                        "between",
+                        "in (secret",
+                        "chaos",
+                        "poverty",
+                        "etc.)",
+                        "amidst",
+                        "with (e.g. success)",
+                        "within oneself",
+                        "one's feelings",
+                        "inner thoughts",
+                        "we",
+                        "our company",
+                        "our organization",
+                        "one's home",
+                        "one's family",
+                        "my spouse",
+                        "my husband",
+                        "my wife",
+                        "signed on behalf of (husband's name) by his wife",
+                        "I",
+                        "me",
+                        "imperial palace grounds",
+                        "emperor"
+                    ]
+                },
+                {
+                    "kanji": "お家",
+                    "reading": "おうち",
+                    "meanings": [
+                        "your home",
+                        "your family",
+                        "their home",
+                        "their family",
+                        "(my) home"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "家",
+                    "reading": "カ",
+                    "meanings": [
+                        "-ist",
+                        "-er"
+                    ]
+                },
+                {
+                    "kanji": "家屋",
+                    "reading": "カオク",
+                    "meanings": [
+                        "house",
+                        "building"
+                    ]
+                },
+                {
+                    "kanji": "研究家",
+                    "reading": "ケンキュウカ",
+                    "meanings": [
+                        "researcher",
+                        "student (of)"
+                    ]
+                },
+                {
+                    "kanji": "活動家",
+                    "reading": "カツドウカ",
+                    "meanings": [
+                        "activist"
+                    ]
+                },
+                {
+                    "kanji": "家",
+                    "reading": "ケ",
+                    "meanings": [
+                        "house",
+                        "family"
+                    ]
+                },
+                {
+                    "kanji": "家来",
+                    "reading": "ケライ",
+                    "meanings": [
+                        "retainer",
+                        "retinue",
+                        "servant"
+                    ]
+                },
+                {
+                    "kanji": "本家",
+                    "reading": "ホンケ",
+                    "meanings": [
+                        "head house (family)",
+                        "birthplace",
+                        "originator"
+                    ]
+                },
+                {
+                    "kanji": "公家",
+                    "reading": "クゲ",
+                    "meanings": [
+                        "court noble",
+                        "nobility",
+                        "kuge",
+                        "Imperial Court"
+                    ]
+                }
+            ]
+        }
+    }
+}

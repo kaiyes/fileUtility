@@ -1,62 +1,54 @@
-const fs = require('fs');
+const fs = require('fs').promises; // Import the fs module
 
-// Read the input array from a file named 'merged.json'
-const mergedFile = 'merged.json';
+const axios = require('axios');
 
-try {
-  // Read the content of the file and parse it as JSON
-  const mergedData = JSON.parse(fs.readFileSync(mergedFile, 'utf8'));
+const getJapaneseWords = async (kanjis) => {
+  try {
+    const dataToWrite = []; // Array to store extracted data
 
-  // Function to extract the "kanji" field and "reading_examples"
-  const extractData = (object) => {
-    const extractedData = {
-      kanji: object.data?.kanji,
-      kun: object.data?.reading_examples?.kun || [],
-      on: object.data?.reading_examples?.on || [],
-    };
-
-    if (extractedData.kun.length > 0) {
-      extractedData.kun.forEach((item) => {
-        if (item.meanings && item.meanings.length > 0) {
-          item.meanings = item.meanings[0];
-        }
+    for (const kanji of kanjis) {
+      const response = await axios.post('http://localhost:11434/api/generate', {
+        model: 'llama3.1',
+        stream: false,
+        prompt: `give me 5 Japanese words that are made with ${kanji}`,
       });
+
+      console.log(`Ollama Local Response for ${kanji}:`, response.data);
+
+      const matches = response.data.response.match(
+        /\d+\.\s(\S+)\s\((\S+)\)\s-\s(.+)/g
+      );
+
+      if (matches) {
+        const result = matches.map((match) => {
+          const [, word, pronunciation, meaning] = match.match(
+            /\d+\.\s(\S+)\s\((\S+)\)\s-\s(.+)/
+          );
+          return { kanji, word, pronunciation, meaning };
+        });
+
+        console.log(`Restructured data for ${kanji}:`, result);
+
+        // Add the extracted data to the array
+        dataToWrite.push(...result);
+      } else {
+        console.log(`No matches found for ${kanji}.`);
+      }
     }
 
-    if (extractedData.on.length > 0) {
-      extractedData.on.forEach((item) => {
-        if (item.meanings && item.meanings.length > 0) {
-          item.meanings = item.meanings[0];
-        }
-      });
-    }
+    // Write data to a JSON file
+    await fs.writeFile(
+      'llama13_jlpt5.json',
+      JSON.stringify(dataToWrite, null, 2)
+    );
+    console.log('Data written to json successfully.');
+  } catch (error) {
+    console.error('Error making local API request to Ollama:', error.message);
+  }
+};
 
-    let combinedObject = {
-      kanji: object.data?.kanji,
-      usedIn: [...extractedData.kun, ...extractedData.on],
-    };
+// Placeholder array for kanjis (replace this with your actual kanji array)
+const kanjiArray = ['七', '人'];
 
-    return combinedObject;
-  };
-
-  // Apply the extraction function to each object in the array
-  const extractedArray = mergedData.map(extractData);
-
-  // Function to transform the array of objects into a single object
-  const transformToObject = (array) => {
-    const transformedObject = array.reduce((acc, obj) => {
-      acc[obj.kanji] = obj.usedIn;
-      return acc;
-    }, {});
-    return transformedObject;
-  };
-
-  // Apply the transformation function to the extracted array
-  const transformedObject = transformToObject(extractedArray);
-
-  const outputContent = JSON.stringify(transformedObject, null, 2);
-  fs.writeFileSync('./cleanedJisho.json', outputContent, 'utf8');
-  console.error('done');
-} catch (error) {
-  console.error(`Error reading or processing ${mergedFile}: ${error.message}`);
-}
+// Make the API requests for each kanji
+getJapaneseWords(kanjiArray);

@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"黄\"",
+        "strokes": 11,
+        "main_meanings": [
+            "yellow"
+        ],
+        "main_readings": {
+            "kun": [
+                "き",
+                "こ-"
+            ],
+            "on": [
+                "コウ",
+                "オウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "214": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "133": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "120": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1063": "A New Dictionary of Kanji Usage",
+                "5399": "Classic Nelson (Andrew Nelson)",
+                "469": "Essential Kanji (P.G. O’Neill)",
+                "1021": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1499": "Japanese Names (P.G. O’Neill)",
+                "780": "Kanji and Kana (Spahn and Hadamitzky)",
+                "794": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "993": "Kanji in Context (Nishiguchi and Kono)",
+                "1939": "Kodansha Compact Kanji Guide",
+                "3116": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1596": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2177": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1766": "Les Kanjis dans la tete (Yves Maniette)",
+                "47926P": "Morohashi",
+                "2468": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7045": "New Nelson (John Haig)",
+                "1750": "Remembering The Kanji (James Heisig)",
+                "1887": "Remembering The Kanji, 6th edition (James Heisig)",
+                "203": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1961": "2001 Kanji",
+                "3k8.16": "The Kanji Dictionary",
+                "2-4-7": "SKIP code",
+                "2-9-2": "SKIP code",
+                "2-3-8": "SKIP code",
+                "4480.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-11": "JIS X 0208-1997 kuten code",
+                "9ec4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うい、 れい"
+                ],
+                "chinese": [
+                    "huang2"
+                ],
+                "korean": [
+                    "hwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "yellow",
+            "parts": [
+                "ハ",
+                "田",
+                "黄"
+            ],
+            "basis": "黃",
+            "kangxi_order": 201,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "黄",
+                    "reading": "き",
+                    "meanings": [
+                        "yellow"
+                    ]
+                },
+                {
+                    "kanji": "黄色",
+                    "reading": "きいろ",
+                    "meanings": [
+                        "yellow",
+                        "amber"
+                    ]
+                },
+                {
+                    "kanji": "海気",
+                    "reading": "かいき",
+                    "meanings": [
+                        "sea air",
+                        "sea breeze",
+                        "ocean and atmosphere",
+                        "type of yarn-dyed silk goods"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "黄色",
+                    "reading": "キイロ",
+                    "meanings": [
+                        "yellow",
+                        "amber"
+                    ]
+                },
+                {
+                    "kanji": "黄昏",
+                    "reading": "タソガレ",
+                    "meanings": [
+                        "dusk",
+                        "twilight",
+                        "twilight years",
+                        "melancholia",
+                        "melancholic nostalgia"
+                    ]
+                },
+                {
+                    "kanji": "玄黄",
+                    "reading": "ゲンコウ",
+                    "meanings": [
+                        "black and yellow silk (offered to gods)",
+                        "heaven and earth"
+                    ]
+                },
+                {
+                    "kanji": "天地玄黄",
+                    "reading": "テンチゲンコウ",
+                    "meanings": [
+                        "heaven is black and earth is yellow",
+                        "heaven and earth"
+                    ]
+                },
+                {
+                    "kanji": "黄金時代",
+                    "reading": "オウゴンジダイ",
+                    "meanings": [
+                        "golden age"
+                    ]
+                },
+                {
+                    "kanji": "黄金",
+                    "reading": "オウゴン",
+                    "meanings": [
+                        "gold (Au)",
+                        "golden",
+                        "prosperous",
+                        "excellent",
+                        "superb",
+                        "money (esp. ōban coin)",
+                        "cash"
+                    ]
+                },
+                {
+                    "kanji": "卵黄",
+                    "reading": "ランオウ",
+                    "meanings": [
+                        "egg yolk"
+                    ]
+                },
+                {
+                    "kanji": "六フッ化硫黄",
+                    "reading": "ロクフッカイオウ",
+                    "meanings": [
+                        "sulfur hexafluoride",
+                        "SF6"
+                    ]
+                }
+            ]
+        }
+    }
+}

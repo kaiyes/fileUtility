@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伊\"",
+        "strokes": 6,
+        "main_meanings": [
+            "Italy",
+            "that one"
+        ],
+        "main_readings": {
+            "kun": [
+                "かれ"
+            ],
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "603": "A New Dictionary of Kanji Usage",
+                "372": "Classic Nelson (Andrew Nelson)",
+                "1909": "Essential Kanji (P.G. O’Neill)",
+                "237": "Japanese Names (P.G. O’Neill)",
+                "2011": "Kanji and Kana (Spahn and Hadamitzky)",
+                "52": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "33": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1169": "Les Kanjis dans la tete (Yves Maniette)",
+                "432": "Morohashi",
+                "49": "New Japanese English Character Dictionary (Jack Halpern)",
+                "134": "New Nelson (John Haig)",
+                "1161": "Remembering The Kanji (James Heisig)",
+                "1245": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2160": "2001 Kanji",
+                "2a4.6": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2725.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-43": "JIS X 0208-1997 kuten code",
+                "4f0a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "これ、 ただ、 よし、 いと、 だ"
+                ],
+                "chinese": [
+                    "yi1"
+                ],
+                "korean": [
+                    "i"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "｜",
+                "化",
+                "ヨ"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "伊",
+                    "reading": "イ",
+                    "meanings": [
+                        "Italy"
+                    ]
+                },
+                {
+                    "kanji": "伊勢丹",
+                    "reading": "イセタン",
+                    "meanings": [
+                        "Isetan (department store)"
+                    ]
+                },
+                {
+                    "kanji": "駐伊",
+                    "reading": "チュウイ",
+                    "meanings": [
+                        "stationed in Italy"
+                    ]
+                },
+                {
+                    "kanji": "紀伊",
+                    "reading": "キイ",
+                    "meanings": [
+                        "Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+                    ]
+                }
+            ]
+        }
+    }
+}

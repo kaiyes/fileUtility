@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"尾\"",
+        "strokes": 7,
+        "main_meanings": [
+            "tail",
+            "end",
+            "counter for fish",
+            "lower slope of mountain"
+        ],
+        "main_readings": {
+            "kun": [
+                "お"
+            ],
+            "on": [
+                "ビ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1734": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "675": "A New Dictionary of Kanji Usage",
+                "1383": "Classic Nelson (Andrew Nelson)",
+                "1005": "Essential Kanji (P.G. O’Neill)",
+                "1230": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "505": "Japanese Names (P.G. O’Neill)",
+                "1868": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2028": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1723": "Kanji in Context (Nishiguchi and Kono)",
+                "526": "Kodansha Compact Kanji Guide",
+                "3799": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1942": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2635": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1934": "Les Kanjis dans la tete (Yves Maniette)",
+                "7650": "Morohashi",
+                "3062": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1411": "New Nelson (John Haig)",
+                "1915": "Remembering The Kanji (James Heisig)",
+                "2064": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1117": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3756": "2001 Kanji",
+                "3r4.2": "The Kanji Dictionary",
+                "3-3-4": "SKIP code",
+                "7721.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-88": "JIS X 0208-1997 kuten code",
+                "5c3e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei3",
+                    "yi3"
+                ],
+                "korean": [
+                    "mi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "corpse",
+            "parts": [
+                "尸",
+                "毛"
+            ],
+            "basis": "尸",
+            "kangxi_order": 44,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "尾",
+                    "reading": "お",
+                    "meanings": [
+                        "tail (of an animal)",
+                        "cauda",
+                        "tail (of a kite",
+                        "etc.)",
+                        "tail end",
+                        "tail (of a comet)",
+                        "slope at the foot of a mountain"
+                    ]
+                },
+                {
+                    "kanji": "尾根",
+                    "reading": "おね",
+                    "meanings": [
+                        "(mountain) ridge"
+                    ]
+                },
+                {
+                    "kanji": "ガスの尾",
+                    "reading": "ガスのお",
+                    "meanings": [
+                        "gas tail (of a comet)"
+                    ]
+                },
+                {
+                    "kanji": "虎の尾",
+                    "reading": "とらのお",
+                    "meanings": [
+                        "tiger's tail",
+                        "gooseneck loosestrife (Lysimachia clethroides)",
+                        "Asplenium incisum (species of spleenwort)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "尾",
+                    "reading": "ビ",
+                    "meanings": [
+                        "Chinese \"Tail\" constellation (one of the 28 mansions)",
+                        "counter for fish",
+                        "shrimp",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "尾行",
+                    "reading": "ビコウ",
+                    "meanings": [
+                        "shadow",
+                        "tail",
+                        "following"
+                    ]
+                },
+                {
+                    "kanji": "最後尾",
+                    "reading": "サイコウビ",
+                    "meanings": [
+                        "end (e.g. of a line)",
+                        "tail end",
+                        "rear",
+                        "backmost part"
+                    ]
+                },
+                {
+                    "kanji": "交尾",
+                    "reading": "コウビ",
+                    "meanings": [
+                        "copulation (among animals)",
+                        "mating",
+                        "treading",
+                        "covering",
+                        "serving"
+                    ]
+                }
+            ]
+        }
+    }
+}

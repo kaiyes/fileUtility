@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"巳\"",
+        "strokes": 3,
+        "main_meanings": [
+            "sign of the snake or serpent",
+            "9-11AM",
+            "sixth sign of Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "み"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1697": "A New Dictionary of Kanji Usage",
+                "1460": "Classic Nelson (Andrew Nelson)",
+                "1944": "Essential Kanji (P.G. O’Neill)",
+                "30": "Japanese Names (P.G. O’Neill)",
+                "2060": "Kanji and Kana (Spahn and Hadamitzky)",
+                "4197": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2124": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2873": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2063": "Les Kanjis dans la tete (Yves Maniette)",
+                "8744": "Morohashi",
+                "3388": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1538": "New Nelson (John Haig)",
+                "2042": "Remembering The Kanji (James Heisig)",
+                "2200": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "0a3.16": "The Kanji Dictionary",
+                "4-3-1": "SKIP code",
+                "3-1-2": "SKIP code",
+                "7771.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-06": "JIS X 0208-1997 kuten code",
+                "5df3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "si4"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "巳",
+                "已",
+                "㔾"
+            ],
+            "meaning": "oneself",
+            "parts": [
+                "已"
+            ],
+            "basis": "己",
+            "kangxi_order": 49,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "巳",
+                    "reading": "み",
+                    "meanings": [
+                        "the Snake (sixth sign of the Chinese zodiac)",
+                        "the Serpent",
+                        "hour of the Snake (around 10am",
+                        "9-11am",
+                        "or 10am-12 noon)",
+                        "south-southeast",
+                        "fourth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "巳年",
+                    "reading": "みどし",
+                    "meanings": [
+                        "year of the Snake"
+                    ]
+                },
+                {
+                    "kanji": "上巳",
+                    "reading": "じょうし",
+                    "meanings": [
+                        "Doll's Festival (March 3)",
+                        "Girls' Festival",
+                        "Peach Festival"
+                    ]
+                },
+                {
+                    "kanji": "辰巳",
+                    "reading": "たつみ",
+                    "meanings": [
+                        "southeast"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "巳",
+                    "reading": "ミ",
+                    "meanings": [
+                        "the Snake (sixth sign of the Chinese zodiac)",
+                        "the Serpent",
+                        "hour of the Snake (around 10am",
+                        "9-11am",
+                        "or 10am-12 noon)",
+                        "south-southeast",
+                        "fourth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "丁巳",
+                    "reading": "ヒノトミ",
+                    "meanings": [
+                        "Fire Snake (54th term of the sexagenary cycle",
+                        "e.g. 1917",
+                        "1977",
+                        "2037)"
+                    ]
+                },
+                {
+                    "kanji": "上巳",
+                    "reading": "ジョウシ",
+                    "meanings": [
+                        "Doll's Festival (March 3)",
+                        "Girls' Festival",
+                        "Peach Festival"
+                    ]
+                }
+            ]
+        }
+    }
+}

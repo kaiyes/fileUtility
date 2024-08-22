@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"理\"",
+        "strokes": 11,
+        "main_meanings": [
+            "logic",
+            "arrangement",
+            "reason",
+            "justice",
+            "truth"
+        ],
+        "main_readings": {
+            "kun": [
+                "ことわり"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "333": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "239": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "220": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "95": "A New Dictionary of Kanji Usage",
+                "2942": "Classic Nelson (Andrew Nelson)",
+                "104": "Essential Kanji (P.G. O’Neill)",
+                "217": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1361": "Japanese Names (P.G. O’Neill)",
+                "3.17": "Japanese for Busy People",
+                "143": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "241": "Kanji in Context (Nishiguchi and Kono)",
+                "1321": "Kodansha Compact Kanji Guide",
+                "1220": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "659": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "881": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "271": "Les Kanjis dans la tete (Yves Maniette)",
+                "21014": "Morohashi",
+                "970": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3644": "New Nelson (John Haig)",
+                "265": "Remembering The Kanji (James Heisig)",
+                "283": "Remembering The Kanji, 6th edition (James Heisig)",
+                "59": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "212": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3172": "2001 Kanji",
+                "4f7.1": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "1611.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-93": "JIS X 0208-1997 kuten code",
+                "7406": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あや、 おさむ、 さと、 さとる、 ただ、 ただし、 とおる、 に、 のり、 ひ、 まこと、 まさ、 まさし、 まろ、 みち、 よし"
+                ],
+                "chinese": [
+                    "li3"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "王",
+                "里"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "理",
+                    "reading": "ことわり",
+                    "meanings": [
+                        "reason",
+                        "logic",
+                        "sense",
+                        "natural way of things"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "理",
+                    "reading": "リ",
+                    "meanings": [
+                        "reason",
+                        "principle",
+                        "logic",
+                        "general principle (as opposed to individual concrete phenomenon)",
+                        "the underlying principles of the cosmos (in neo-Confucianism)"
+                    ]
+                },
+                {
+                    "kanji": "理科",
+                    "reading": "リカ",
+                    "meanings": [
+                        "science (inc. mathematics",
+                        "medicine",
+                        "etc.)",
+                        "natural science",
+                        "science department (university)",
+                        "science course",
+                        "science (as a school subject)"
+                    ]
+                },
+                {
+                    "kanji": "合理",
+                    "reading": "ゴウリ",
+                    "meanings": [
+                        "rationality"
+                    ]
+                },
+                {
+                    "kanji": "経理",
+                    "reading": "ケイリ",
+                    "meanings": [
+                        "accounting",
+                        "administration (of money)"
+                    ]
+                }
+            ]
+        }
+    }
+}

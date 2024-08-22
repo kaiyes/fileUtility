@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"企\"",
+        "strokes": 6,
+        "main_meanings": [
+            "undertake",
+            "scheme",
+            "design",
+            "attempt",
+            "plan"
+        ],
+        "main_readings": {
+            "kun": [
+                "くわだ.てる",
+                "たくら.む"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1120": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "486": "A New Dictionary of Kanji Usage",
+                "373": "Classic Nelson (Andrew Nelson)",
+                "966": "Essential Kanji (P.G. O’Neill)",
+                "1038": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "269": "Japanese Names (P.G. O’Neill)",
+                "481": "Kanji and Kana (Spahn and Hadamitzky)",
+                "490": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "701": "Kanji in Context (Nishiguchi and Kono)",
+                "48": "Kodansha Compact Kanji Guide",
+                "2513": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1276": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1742": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "381": "Les Kanjis dans la tete (Yves Maniette)",
+                "422": "Morohashi",
+                "2021": "New Japanese English Character Dictionary (Jack Halpern)",
+                "135": "New Nelson (John Haig)",
+                "375": "Remembering The Kanji (James Heisig)",
+                "401": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1056": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2873": "2001 Kanji",
+                "2a4.17": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "8010.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-75": "JIS X 0208-1997 kuten code",
+                "4f01": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qi3",
+                    "qi4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "个",
+                "止"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "企てる",
+                    "reading": "くわだてる",
+                    "meanings": [
+                        "to plan",
+                        "to plot",
+                        "to propose",
+                        "to design",
+                        "to intend",
+                        "to contemplate",
+                        "to attempt (e.g. suicide",
+                        "murder)",
+                        "to undertake (e.g. business)",
+                        "to stand on tip-toes"
+                    ]
+                },
+                {
+                    "kanji": "企む",
+                    "reading": "たくらむ",
+                    "meanings": [
+                        "to scheme",
+                        "to plan",
+                        "to play a trick",
+                        "to invent",
+                        "to conspire",
+                        "to frame up"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "企画室",
+                    "reading": "キカクシツ",
+                    "meanings": [
+                        "planning office"
+                    ]
+                },
+                {
+                    "kanji": "企画",
+                    "reading": "キカク",
+                    "meanings": [
+                        "planning",
+                        "plan",
+                        "project",
+                        "arrangements"
+                    ]
+                },
+                {
+                    "kanji": "投企",
+                    "reading": "トウキ",
+                    "meanings": [
+                        "projection",
+                        "project",
+                        "philosophical concept introduced by Heidegger (Entwurf)"
+                    ]
+                },
+                {
+                    "kanji": "発起",
+                    "reading": "ホッキ",
+                    "meanings": [
+                        "originating (something)",
+                        "coming up with the idea",
+                        "starting (something)",
+                        "initiating",
+                        "proposing",
+                        "spiritual awakening",
+                        "resolution"
+                    ]
+                }
+            ]
+        }
+    }
+}

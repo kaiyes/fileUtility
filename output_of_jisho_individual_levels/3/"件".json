@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"件\"",
+        "strokes": 6,
+        "main_meanings": [
+            "affair",
+            "case",
+            "matter",
+            "item"
+        ],
+        "main_readings": {
+            "kun": [
+                "くだん"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "598": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "687": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "660": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "290": "A New Dictionary of Kanji Usage",
+                "368": "Classic Nelson (Andrew Nelson)",
+                "485": "Essential Kanji (P.G. O’Neill)",
+                "306": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "3.9": "Japanese for Busy People",
+                "732": "Kanji and Kana (Spahn and Hadamitzky)",
+                "745": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "482": "Kanji in Context (Nishiguchi and Kono)",
+                "66": "Kodansha Compact Kanji Guide",
+                "54": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "35": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "968": "Les Kanjis dans la tete (Yves Maniette)",
+                "410": "Morohashi",
+                "51": "New Japanese English Character Dictionary (Jack Halpern)",
+                "130": "New Nelson (John Haig)",
+                "959": "Remembering The Kanji (James Heisig)",
+                "1032": "Remembering The Kanji, 6th edition (James Heisig)",
+                "171": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "657": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2155": "2001 Kanji",
+                "2a4.4": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2520.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-79": "JIS X 0208-1997 kuten code",
+                "4ef6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jian4"
+                ],
+                "korean": [
+                    "geon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "牛"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "件",
+                    "reading": "くだん",
+                    "meanings": [
+                        "the aforementioned",
+                        "the said",
+                        "(man",
+                        "incident",
+                        "etc.) in question",
+                        "the above-mentioned",
+                        "the aforesaid",
+                        "the usual"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "件",
+                    "reading": "ケン",
+                    "meanings": [
+                        "matter",
+                        "affair",
+                        "case",
+                        "item",
+                        "subject",
+                        "counter for (received) emails",
+                        "text messages",
+                        "voicemail messages",
+                        "etc.",
+                        "counter for accounts (on a website",
+                        "email service",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "件数",
+                    "reading": "ケンスウ",
+                    "meanings": [
+                        "number of events (e.g. accidents",
+                        "crimes",
+                        "meetings",
+                        "housing starts",
+                        "hits on a web page)"
+                    ]
+                },
+                {
+                    "kanji": "刑事事件",
+                    "reading": "ケイジジケン",
+                    "meanings": [
+                        "criminal case"
+                    ]
+                },
+                {
+                    "kanji": "要件",
+                    "reading": "ヨウケン",
+                    "meanings": [
+                        "important matter",
+                        "requirement",
+                        "requisite",
+                        "necessary condition",
+                        "sine qua non"
+                    ]
+                }
+            ]
+        }
+    }
+}

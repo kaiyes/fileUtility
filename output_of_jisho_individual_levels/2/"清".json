@@ -1,0 +1,237 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"清\"",
+        "strokes": 11,
+        "main_meanings": [
+            "pure",
+            "purify",
+            "cleanse",
+            "exorcise",
+            "Manchu dynasty"
+        ],
+        "main_readings": {
+            "kun": [
+                "きよ.い",
+                "きよ.まる",
+                "きよ.める"
+            ],
+            "on": [
+                "セイ",
+                "ショウ",
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "440": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "547": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "517": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "509": "A New Dictionary of Kanji Usage",
+                "2605": "Classic Nelson (Andrew Nelson)",
+                "654": "Essential Kanji (P.G. O’Neill)",
+                "692": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1342": "Japanese Names (P.G. O’Neill)",
+                "660": "Kanji and Kana (Spahn and Hadamitzky)",
+                "671": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "754": "Kanji in Context (Nishiguchi and Kono)",
+                "1213": "Kodansha Compact Kanji Guide",
+                "635": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "384": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "479": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1553": "Les Kanjis dans la tete (Yves Maniette)",
+                "17695P": "Morohashi",
+                "523": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3205": "New Nelson (John Haig)",
+                "1539": "Remembering The Kanji (James Heisig)",
+                "1659": "Remembering The Kanji, 6th edition (James Heisig)",
+                "569": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "346": "2001 Kanji",
+                "3a8.18": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3512.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-22": "JIS X 0208-1997 kuten code",
+                "6e05": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 さや、 し、 すが、 すみ、 せ、 ちん"
+                ],
+                "chinese": [
+                    "qing1"
+                ],
+                "korean": [
+                    "cheong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "汁",
+                "月",
+                "青"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "清い",
+                    "reading": "きよい",
+                    "meanings": [
+                        "clean",
+                        "clear",
+                        "pure",
+                        "honest",
+                        "clean",
+                        "innocent",
+                        "platonic",
+                        "chaste"
+                    ]
+                },
+                {
+                    "kanji": "清い愛",
+                    "reading": "きよいあい",
+                    "meanings": [
+                        "pure love",
+                        "platonic love"
+                    ]
+                },
+                {
+                    "kanji": "清まる",
+                    "reading": "きよまる",
+                    "meanings": [
+                        "to be purified",
+                        "to be cleansed"
+                    ]
+                },
+                {
+                    "kanji": "清める",
+                    "reading": "きよめる",
+                    "meanings": [
+                        "to purify",
+                        "to cleanse",
+                        "to exorcise",
+                        "to purge",
+                        "to ward off"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "清算",
+                    "reading": "セイサン",
+                    "meanings": [
+                        "(financial) settlement",
+                        "squaring accounts",
+                        "clearing debts",
+                        "liquidation",
+                        "ending (a relationship)",
+                        "breaking up (with)",
+                        "burying (the past)",
+                        "redeeming (one's faults)"
+                    ]
+                },
+                {
+                    "kanji": "清潔",
+                    "reading": "セイケツ",
+                    "meanings": [
+                        "clean",
+                        "hygienic",
+                        "sanitary",
+                        "pure",
+                        "virtuous",
+                        "immaculate"
+                    ]
+                },
+                {
+                    "kanji": "血清",
+                    "reading": "ケッセイ",
+                    "meanings": [
+                        "serum",
+                        "blood serum"
+                    ]
+                },
+                {
+                    "kanji": "乳清",
+                    "reading": "ニュウセイ",
+                    "meanings": [
+                        "whey"
+                    ]
+                },
+                {
+                    "kanji": "清浄",
+                    "reading": "セイジョウ",
+                    "meanings": [
+                        "pure",
+                        "clean",
+                        "purity"
+                    ]
+                },
+                {
+                    "kanji": "清浄無垢",
+                    "reading": "セイジョウムク",
+                    "meanings": [
+                        "purity",
+                        "spotlessness"
+                    ]
+                },
+                {
+                    "kanji": "清",
+                    "reading": "シン",
+                    "meanings": [
+                        "Qing dynasty (of China; 1644-1912)",
+                        "Ch'ing dynasty",
+                        "Manchu dynasty"
+                    ]
+                },
+                {
+                    "kanji": "清朝",
+                    "reading": "シンチョウ",
+                    "meanings": [
+                        "Qing dynasty (of China; 1644-1912)",
+                        "Ch'ing dynasty",
+                        "Manchu dynasty",
+                        "seichōtai",
+                        "typeface which resembles brush-stroke forms of characters"
+                    ]
+                },
+                {
+                    "kanji": "東清",
+                    "reading": "トウシン",
+                    "meanings": [
+                        "Eastern China"
+                    ]
+                },
+                {
+                    "kanji": "日清",
+                    "reading": "ニッシン",
+                    "meanings": [
+                        "Nissin Foods (abbr)"
+                    ]
+                }
+            ]
+        }
+    }
+}

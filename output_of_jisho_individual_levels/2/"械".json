@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"械\"",
+        "strokes": 11,
+        "main_meanings": [
+            "contraption",
+            "fetter",
+            "machine",
+            "instrument"
+        ],
+        "main_readings": {
+            "kun": [
+                "かせ"
+            ],
+            "on": [
+                "カイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "360": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "459": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "436": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "929": "A New Dictionary of Kanji Usage",
+                "2264": "Classic Nelson (Andrew Nelson)",
+                "474": "Essential Kanji (P.G. O’Neill)",
+                "635": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "529": "Kanji and Kana (Spahn and Hadamitzky)",
+                "538": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "511": "Kanji in Context (Nishiguchi and Kono)",
+                "1097": "Kodansha Compact Kanji Guide",
+                "1203": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "654": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "870": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "684": "Les Kanjis dans la tete (Yves Maniette)",
+                "14882": "Morohashi",
+                "961": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2685": "New Nelson (John Haig)",
+                "677": "Remembering The Kanji (James Heisig)",
+                "732": "Remembering The Kanji, 6th edition (James Heisig)",
+                "562": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1859": "2001 Kanji",
+                "4a7.22": "The Kanji Dictionary",
+                "1-4-7": "SKIP code",
+                "4395.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-03": "JIS X 0208-1997 kuten code",
+                "68b0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xie4"
+                ],
+                "korean": [
+                    "gye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "廾",
+                "戈",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "枷",
+                    "reading": "かせ",
+                    "meanings": [
+                        "shackles",
+                        "fetters",
+                        "irons",
+                        "handcuffs",
+                        "restraint",
+                        "constraint",
+                        "bonds (e.g. family)",
+                        "ties",
+                        "binding relationship",
+                        "binding relationships",
+                        "encumbrance"
+                    ]
+                },
+                {
+                    "kanji": "足かせ",
+                    "reading": "あしかせ",
+                    "meanings": [
+                        "fetters",
+                        "shackles",
+                        "hobbles",
+                        "encumbrance",
+                        "hindrance",
+                        "burden",
+                        "trap"
+                    ]
+                },
+                {
+                    "kanji": "手かせ",
+                    "reading": "てかせ",
+                    "meanings": [
+                        "handcuffs"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "工作機械",
+                    "reading": "コウサクキカイ",
+                    "meanings": [
+                        "machine tool"
+                    ]
+                },
+                {
+                    "kanji": "産業機械",
+                    "reading": "サンギョウキカイ",
+                    "meanings": [
+                        "industrial machinery"
+                    ]
+                }
+            ]
+        }
+    }
+}

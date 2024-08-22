@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"混\"",
+        "strokes": 11,
+        "main_meanings": [
+            "mix",
+            "blend",
+            "confuse"
+        ],
+        "main_readings": {
+            "kun": [
+                "ま.じる",
+                "-ま.じり",
+                "ま.ざる",
+                "ま.ぜる",
+                "こ.む"
+            ],
+            "on": [
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "787": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "704": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "677": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "888": "A New Dictionary of Kanji Usage",
+                "2604": "Classic Nelson (Andrew Nelson)",
+                "684": "Essential Kanji (P.G. O’Neill)",
+                "691": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "799": "Kanji and Kana (Spahn and Hadamitzky)",
+                "813": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "837": "Kanji in Context (Nishiguchi and Kono)",
+                "1207": "Kodansha Compact Kanji Guide",
+                "631": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "381": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "475": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "459": "Les Kanjis dans la tete (Yves Maniette)",
+                "17694": "Morohashi",
+                "519": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3204": "New Nelson (John Haig)",
+                "450": "Remembering The Kanji (James Heisig)",
+                "487": "Remembering The Kanji, 6th edition (James Heisig)",
+                "733": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "356": "2001 Kanji",
+                "3a8.14": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3611.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-14": "JIS X 0208-1997 kuten code",
+                "6df7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hun3",
+                    "hun2",
+                    "hun4"
+                ],
+                "korean": [
+                    "hon",
+                    "gon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "汁",
+                "日",
+                "比"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "混じる",
+                    "reading": "まじる",
+                    "meanings": [
+                        "to be mixed",
+                        "to be blended with",
+                        "to be combined",
+                        "to associate with",
+                        "to mingle with",
+                        "to interest",
+                        "to join"
+                    ]
+                },
+                {
+                    "kanji": "混ざる",
+                    "reading": "まざる",
+                    "meanings": [
+                        "to be mixed",
+                        "to be blended with",
+                        "to associate with",
+                        "to mingle with",
+                        "to join"
+                    ]
+                },
+                {
+                    "kanji": "混ぜる",
+                    "reading": "まぜる",
+                    "meanings": [
+                        "to mix",
+                        "to stir",
+                        "to blend"
+                    ]
+                },
+                {
+                    "kanji": "混む",
+                    "reading": "こむ",
+                    "meanings": [
+                        "to be crowded",
+                        "to be packed",
+                        "to be congested",
+                        "to be thronged (with)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "混",
+                    "reading": "コン",
+                    "meanings": [
+                        "(traffic) congestion",
+                        "heavy traffic"
+                    ]
+                },
+                {
+                    "kanji": "混血",
+                    "reading": "コンケツ",
+                    "meanings": [
+                        "mixed race",
+                        "mixed parentage"
+                    ]
+                },
+                {
+                    "kanji": "麻混",
+                    "reading": "アサコン",
+                    "meanings": [
+                        "hemp blend",
+                        "linen blend"
+                    ]
+                },
+                {
+                    "kanji": "滾々",
+                    "reading": "コンコン",
+                    "meanings": [
+                        "copious (flowing)"
+                    ]
+                }
+            ]
+        }
+    }
+}

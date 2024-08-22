@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"熱\"",
+        "strokes": 15,
+        "main_meanings": [
+            "heat",
+            "temperature",
+            "fever",
+            "mania",
+            "passion"
+        ],
+        "main_readings": {
+            "kun": [
+                "あつ.い"
+            ],
+            "on": [
+                "ネツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "490": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "589": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "560": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "629": "A New Dictionary of Kanji Usage",
+                "2797": "Classic Nelson (Andrew Nelson)",
+                "300": "Essential Kanji (P.G. O’Neill)",
+                "720": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2408": "Japanese Names (P.G. O’Neill)",
+                "645": "Kanji and Kana (Spahn and Hadamitzky)",
+                "655": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "866": "Kanji in Context (Nishiguchi and Kono)",
+                "1283": "Kodansha Compact Kanji Guide",
+                "3555": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1834": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2495": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1530": "Les Kanjis dans la tete (Yves Maniette)",
+                "19360": "Morohashi",
+                "2866": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3473": "New Nelson (John Haig)",
+                "1516": "Remembering The Kanji (James Heisig)",
+                "1634": "Remembering The Kanji, 6th edition (James Heisig)",
+                "627": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1440": "2001 Kanji",
+                "4d11.4": "The Kanji Dictionary",
+                "2-11-4": "SKIP code",
+                "4433.1": "Four corner code",
+                "4533.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-14": "JIS X 0208-1997 kuten code",
+                "71b1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あた"
+                ],
+                "chinese": [
+                    "re4"
+                ],
+                "korean": [
+                    "yeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "丶",
+                "儿",
+                "九",
+                "土",
+                "杰"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "熱い",
+                    "reading": "あつい",
+                    "meanings": [
+                        "hot (to the touch)",
+                        "passionate (feelings",
+                        "etc.)",
+                        "ardent",
+                        "hot (e.g. gaze)",
+                        "hot (e.g. temper)",
+                        "zealous",
+                        "enthusiastic",
+                        "fired up",
+                        "intense",
+                        "severe",
+                        "extreme",
+                        "hot (topic)",
+                        "of interest"
+                    ]
+                },
+                {
+                    "kanji": "熱い暗黒物質",
+                    "reading": "あついあんこくぶっしつ",
+                    "meanings": [
+                        "hot dark matter"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "熱",
+                    "reading": "ネツ",
+                    "meanings": [
+                        "heat",
+                        "fever",
+                        "temperature",
+                        "zeal",
+                        "passion",
+                        "enthusiasm",
+                        "mania",
+                        "craze",
+                        "rage"
+                    ]
+                },
+                {
+                    "kanji": "熱意",
+                    "reading": "ネツイ",
+                    "meanings": [
+                        "zeal",
+                        "enthusiasm",
+                        "ardor",
+                        "ardour"
+                    ]
+                },
+                {
+                    "kanji": "発熱",
+                    "reading": "ハツネツ",
+                    "meanings": [
+                        "generation of heat",
+                        "(attack of) fever",
+                        "pyrexia"
+                    ]
+                },
+                {
+                    "kanji": "解熱",
+                    "reading": "ゲネツ",
+                    "meanings": [
+                        "lowering a fever",
+                        "alleviation of fever"
+                    ]
+                }
+            ]
+        }
+    }
+}

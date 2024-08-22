@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"栞\"",
+        "strokes": 10,
+        "main_meanings": [
+            "bookmark",
+            "guidebook"
+        ],
+        "main_readings": {
+            "kun": [
+                "しおり"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2243": "Classic Nelson (Andrew Nelson)",
+                "2108": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3285": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1697": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2307": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "14708": "Morohashi",
+                "2645": "New Nelson (John Haig)",
+                "2523": "Remembering The Kanji (James Heisig)",
+                "2583": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a6.34": "The Kanji Dictionary",
+                "2-6-4": "SKIP code",
+                "1190.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-59-57": "JIS X 0208-1997 kuten code",
+                "681e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kan1"
+                ],
+                "korean": [
+                    "gan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "干",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "栞",
+                    "reading": "しおり",
+                    "meanings": [
+                        "bookmark",
+                        "guidebook"
+                    ]
+                }
+            ]
+        }
+    }
+}

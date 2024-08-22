@@ -1,0 +1,198 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"卑\"",
+        "strokes": 9,
+        "main_meanings": [
+            "lowly",
+            "base",
+            "vile",
+            "vulgar",
+            "despise"
+        ],
+        "main_readings": {
+            "kun": [
+                "いや.しい",
+                "いや.しむ",
+                "いや.しめる"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1727": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2041": "A New Dictionary of Kanji Usage",
+                "221": "Classic Nelson (Andrew Nelson)",
+                "1795": "Essential Kanji (P.G. O’Neill)",
+                "1110": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "976": "Japanese Names (P.G. O’Neill)",
+                "1521": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1622": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1770": "Kanji in Context (Nishiguchi and Kono)",
+                "248": "Kodansha Compact Kanji Guide",
+                "3270": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1688": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2295": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1525": "Les Kanjis dans la tete (Yves Maniette)",
+                "2738X": "Morohashi",
+                "2642": "New Japanese English Character Dictionary (Jack Halpern)",
+                "618": "New Nelson (John Haig)",
+                "1511": "Remembering The Kanji (James Heisig)",
+                "1629": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1235": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "855": "2001 Kanji",
+                "5f4.8": "The Kanji Dictionary",
+                "2-6-3": "SKIP code",
+                "2640.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-60": "JIS X 0208-1997 kuten code",
+                "5351": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bei1"
+                ],
+                "korean": [
+                    "bi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ten,",
+            "parts": [
+                "十",
+                "田"
+            ],
+            "basis": "十",
+            "kangxi_order": null,
+            "variants": [
+                "卑"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "卑しい",
+                    "reading": "いやしい",
+                    "meanings": [
+                        "lowborn",
+                        "humble",
+                        "lowly",
+                        "vulgar",
+                        "coarse",
+                        "crude",
+                        "mean",
+                        "base",
+                        "vile",
+                        "despicable",
+                        "dirty",
+                        "unfair",
+                        "shabby",
+                        "poor-looking",
+                        "greedy",
+                        "gluttonous",
+                        "avaricious"
+                    ]
+                },
+                {
+                    "kanji": "卑しい生まれ",
+                    "reading": "いやしいうまれ",
+                    "meanings": [
+                        "lowborn",
+                        "of humble birth"
+                    ]
+                },
+                {
+                    "kanji": "卑しむ",
+                    "reading": "いやしむ",
+                    "meanings": [
+                        "to despise",
+                        "to disdain",
+                        "to scorn",
+                        "to hold in contempt",
+                        "to look down on"
+                    ]
+                },
+                {
+                    "kanji": "卑しむべき",
+                    "reading": "いやしむべき",
+                    "meanings": [
+                        "despicable"
+                    ]
+                },
+                {
+                    "kanji": "卑しめる",
+                    "reading": "いやしめる",
+                    "meanings": [
+                        "to demean",
+                        "to despise",
+                        "to treat with contempt",
+                        "to abase"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "卑劣",
+                    "reading": "ヒレツ",
+                    "meanings": [
+                        "mean",
+                        "contemptible",
+                        "despicable",
+                        "dirty",
+                        "foul",
+                        "cowardly",
+                        "base"
+                    ]
+                },
+                {
+                    "kanji": "卑怯",
+                    "reading": "ヒキョウ",
+                    "meanings": [
+                        "cowardly",
+                        "craven",
+                        "unfair",
+                        "mean",
+                        "sneaky",
+                        "dirty",
+                        "dastardly"
+                    ]
+                },
+                {
+                    "kanji": "男尊女卑",
+                    "reading": "ダンソンジョヒ",
+                    "meanings": [
+                        "male domination of women",
+                        "male chauvinism",
+                        "subjection of women"
+                    ]
+                },
+                {
+                    "kanji": "野卑",
+                    "reading": "ヤヒ",
+                    "meanings": [
+                        "vulgar",
+                        "mean",
+                        "base",
+                        "coarse",
+                        "crude"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"束\"",
+        "strokes": 7,
+        "main_meanings": [
+            "bundle",
+            "sheaf",
+            "ream",
+            "tie in bundles",
+            "govern",
+            "manage",
+            "control"
+        ],
+        "main_readings": {
+            "kun": [
+                "たば",
+                "たば.ねる",
+                "つか",
+                "つか.ねる"
+            ],
+            "on": [
+                "ソク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "561": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "1535": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "998": "A New Dictionary of Kanji Usage",
+                "196": "Classic Nelson (Andrew Nelson)",
+                "1126": "Essential Kanji (P.G. O’Neill)",
+                "620": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "536": "Japanese Names (P.G. O’Neill)",
+                "2.20": "Japanese for Busy People",
+                "501": "Kanji and Kana (Spahn and Hadamitzky)",
+                "510": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "382": "Kanji in Context (Nishiguchi and Kono)",
+                "1051": "Kodansha Compact Kanji Guide",
+                "4369": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2214": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2978": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1680": "Les Kanjis dans la tete (Yves Maniette)",
+                "14480": "Morohashi",
+                "3554": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2559": "New Nelson (John Haig)",
+                "1664": "Remembering The Kanji (James Heisig)",
+                "1793": "Remembering The Kanji, 6th edition (James Heisig)",
+                "486": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1564": "2001 Kanji",
+                "0a7.8": "The Kanji Dictionary",
+                "4-7-3": "SKIP code",
+                "5090.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-11": "JIS X 0208-1997 kuten code",
+                "675f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shu4"
+                ],
+                "korean": [
+                    "sog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "一",
+                "｜",
+                "ハ",
+                "口",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "束",
+                    "reading": "たば",
+                    "meanings": [
+                        "bundle",
+                        "bunch",
+                        "sheaf"
+                    ]
+                },
+                {
+                    "kanji": "束ねる",
+                    "reading": "たばねる",
+                    "meanings": [
+                        "to tie up in a bundle (e.g. straw",
+                        "hair",
+                        "bills",
+                        "letters)",
+                        "to bundle",
+                        "to sheathe",
+                        "to govern",
+                        "to manage",
+                        "to control",
+                        "to administer",
+                        "to fold (one's arms)",
+                        "to put together (one's hands)"
+                    ]
+                },
+                {
+                    "kanji": "鍵束",
+                    "reading": "かぎたば",
+                    "meanings": [
+                        "bunch of keys"
+                    ]
+                },
+                {
+                    "kanji": "麦束",
+                    "reading": "むぎたば",
+                    "meanings": [
+                        "wheat sheaf",
+                        "stacked wheat"
+                    ]
+                },
+                {
+                    "kanji": "束ねる",
+                    "reading": "たばねる",
+                    "meanings": [
+                        "to tie up in a bundle (e.g. straw",
+                        "hair",
+                        "bills",
+                        "letters)",
+                        "to bundle",
+                        "to sheathe",
+                        "to govern",
+                        "to manage",
+                        "to control",
+                        "to administer",
+                        "to fold (one's arms)",
+                        "to put together (one's hands)"
+                    ]
+                },
+                {
+                    "kanji": "束",
+                    "reading": "つか",
+                    "meanings": [
+                        "strut",
+                        "short vertical post",
+                        "thickness (of a book minus the cover",
+                        "a sheaf of paper",
+                        "etc.)",
+                        "handbreadth",
+                        "bundle"
+                    ]
+                },
+                {
+                    "kanji": "束ねる",
+                    "reading": "たばねる",
+                    "meanings": [
+                        "to tie up in a bundle (e.g. straw",
+                        "hair",
+                        "bills",
+                        "letters)",
+                        "to bundle",
+                        "to sheathe",
+                        "to govern",
+                        "to manage",
+                        "to control",
+                        "to administer",
+                        "to fold (one's arms)",
+                        "to put together (one's hands)"
+                    ]
+                },
+                {
+                    "kanji": "不束",
+                    "reading": "ふつつか",
+                    "meanings": [
+                        "inexperienced",
+                        "incompetent",
+                        "inept",
+                        "incapable",
+                        "careless"
+                    ]
+                },
+                {
+                    "kanji": "矢束",
+                    "reading": "やつか",
+                    "meanings": [
+                        "arrow length",
+                        "bundle of arrows"
+                    ]
+                },
+                {
+                    "kanji": "束ねる",
+                    "reading": "たばねる",
+                    "meanings": [
+                        "to tie up in a bundle (e.g. straw",
+                        "hair",
+                        "bills",
+                        "letters)",
+                        "to bundle",
+                        "to sheathe",
+                        "to govern",
+                        "to manage",
+                        "to control",
+                        "to administer",
+                        "to fold (one's arms)",
+                        "to put together (one's hands)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "束",
+                    "reading": "ソク",
+                    "meanings": [
+                        "lattice",
+                        "counter for large bundles (e.g. 10 sheafs of rice",
+                        "200 sheets of calligraphy paper",
+                        "20 whistling arrows",
+                        "100 fish)",
+                        "handbreadth (unit for measuring the length of arrows)"
+                    ]
+                },
+                {
+                    "kanji": "束縛",
+                    "reading": "ソクバク",
+                    "meanings": [
+                        "restraint",
+                        "restriction",
+                        "fetters",
+                        "yoke",
+                        "shackles",
+                        "binding",
+                        "confinement with rope"
+                    ]
+                },
+                {
+                    "kanji": "結束",
+                    "reading": "ケッソク",
+                    "meanings": [
+                        "union",
+                        "unity",
+                        "solidarity",
+                        "bundling",
+                        "binding",
+                        "tying",
+                        "putting on (clothes",
+                        "armour",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "口約束",
+                    "reading": "クチヤクソク",
+                    "meanings": [
+                        "verbal promise",
+                        "one's word"
+                    ]
+                }
+            ]
+        }
+    }
+}

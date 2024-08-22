@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"御\"",
+        "strokes": 12,
+        "main_meanings": [
+            "honorable",
+            "manipulate",
+            "govern"
+        ],
+        "main_readings": {
+            "kun": [
+                "おん-",
+                "お-",
+                "み-"
+            ],
+            "on": [
+                "ギョ",
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1158": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "620": "A New Dictionary of Kanji Usage",
+                "1628": "Classic Nelson (Andrew Nelson)",
+                "924": "Essential Kanji (P.G. O’Neill)",
+                "524": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1572": "Japanese Names (P.G. O’Neill)",
+                "708": "Kanji and Kana (Spahn and Hadamitzky)",
+                "721": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "919": "Kanji in Context (Nishiguchi and Kono)",
+                "632": "Kodansha Compact Kanji Guide",
+                "703": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "422": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "529": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1410": "Les Kanjis dans la tete (Yves Maniette)",
+                "10157X": "Morohashi",
+                "577": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1761": "New Nelson (John Haig)",
+                "1398": "Remembering The Kanji (James Heisig)",
+                "1500": "Remembering The Kanji, 6th edition (James Heisig)",
+                "371": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1530": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2044": "2001 Kanji",
+                "3i9.1": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "2722.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-70": "JIS X 0208-1997 kuten code",
+                "5fa1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "う"
+                ],
+                "chinese": [
+                    "yu4"
+                ],
+                "korean": [
+                    "eo",
+                    "a"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "ノ",
+                "卩",
+                "彳",
+                "止",
+                "乞"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "御",
+                    "reading": "ギョ",
+                    "meanings": [
+                        "honorific affix",
+                        "honorific prefix"
+                    ]
+                },
+                {
+                    "kanji": "御苑",
+                    "reading": "ギョエン",
+                    "meanings": [
+                        "imperial garden"
+                    ]
+                },
+                {
+                    "kanji": "自動制御",
+                    "reading": "ジドウセイギョ",
+                    "meanings": [
+                        "automatic control"
+                    ]
+                },
+                {
+                    "kanji": "ファジィ制御",
+                    "reading": "ファジィセイギョ",
+                    "meanings": [
+                        "fuzzy control"
+                    ]
+                },
+                {
+                    "kanji": "御",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "honorific/polite/humble prefix",
+                        "honorific suffix"
+                    ]
+                },
+                {
+                    "kanji": "御所",
+                    "reading": "ゴショ",
+                    "meanings": [
+                        "imperial palace (esp. Kyoto Imperial Palace)",
+                        "imperial residence",
+                        "residence of a shogun",
+                        "minister",
+                        "etc.",
+                        "emperor",
+                        "ex-emperor",
+                        "empress",
+                        "imperial prince",
+                        "shogun",
+                        "minister"
+                    ]
+                },
+                {
+                    "kanji": "甥御",
+                    "reading": "オイゴ",
+                    "meanings": [
+                        "(another person's) nephew"
+                    ]
+                },
+                {
+                    "kanji": "大御",
+                    "reading": "オオイゴ",
+                    "meanings": [
+                        "older lady"
+                    ]
+                }
+            ]
+        }
+    }
+}

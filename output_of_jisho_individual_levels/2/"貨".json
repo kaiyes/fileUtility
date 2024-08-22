@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"貨\"",
+        "strokes": 11,
+        "main_meanings": [
+            "freight",
+            "goods",
+            "property"
+        ],
+        "main_readings": {
+            "kun": [
+                "たから"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "357": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "455": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "432": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "911": "A New Dictionary of Kanji Usage",
+                "4493": "Classic Nelson (Andrew Nelson)",
+                "220": "Essential Kanji (P.G. O’Neill)",
+                "921": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "752": "Kanji and Kana (Spahn and Hadamitzky)",
+                "765": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "857": "Kanji in Context (Nishiguchi and Kono)",
+                "1724": "Kodansha Compact Kanji Guide",
+                "3113": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1594": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2175": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1019": "Les Kanjis dans la tete (Yves Maniette)",
+                "36678": "Morohashi",
+                "2465": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5781": "New Nelson (John Haig)",
+                "1010": "Remembering The Kanji (James Heisig)",
+                "1085": "Remembering The Kanji, 6th edition (James Heisig)",
+                "561": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2161": "2001 Kanji",
+                "7b4.5": "The Kanji Dictionary",
+                "2-4-7": "SKIP code",
+                "2480.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-63": "JIS X 0208-1997 kuten code",
+                "8ca8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "huo4"
+                ],
+                "korean": [
+                    "hwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "化",
+                "ハ",
+                "匕",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "宝",
+                    "reading": "たから",
+                    "meanings": [
+                        "treasure"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "貨幣",
+                    "reading": "カヘイ",
+                    "meanings": [
+                        "money",
+                        "currency",
+                        "coin"
+                    ]
+                },
+                {
+                    "kanji": "貨物",
+                    "reading": "カモツ",
+                    "meanings": [
+                        "cargo",
+                        "freight",
+                        "money or assets"
+                    ]
+                },
+                {
+                    "kanji": "基軸通貨",
+                    "reading": "キジクツウカ",
+                    "meanings": [
+                        "key currency"
+                    ]
+                },
+                {
+                    "kanji": "英貨",
+                    "reading": "エイカ",
+                    "meanings": [
+                        "British currency",
+                        "pound sterling"
+                    ]
+                }
+            ]
+        }
+    }
+}

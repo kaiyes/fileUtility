@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"濁\"",
+        "strokes": 16,
+        "main_meanings": [
+            "voiced",
+            "uncleanness",
+            "wrong",
+            "nigori",
+            "impurity"
+        ],
+        "main_readings": {
+            "kun": [
+                "にご.る",
+                "にご.す"
+            ],
+            "on": [
+                "ダク",
+                "ジョク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1558": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1787": "A New Dictionary of Kanji Usage",
+                "2710": "Classic Nelson (Andrew Nelson)",
+                "1749": "Essential Kanji (P.G. O’Neill)",
+                "1507": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2457": "Japanese Names (P.G. O’Neill)",
+                "1625": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1735": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1511": "Kanji in Context (Nishiguchi and Kono)",
+                "1255": "Kodansha Compact Kanji Guide",
+                "953": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "533": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "695": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "843": "Les Kanjis dans la tete (Yves Maniette)",
+                "18440": "Morohashi",
+                "774": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3348": "New Nelson (John Haig)",
+                "835": "Remembering The Kanji (James Heisig)",
+                "898": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1836": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "352": "2001 Kanji",
+                "3a13.8": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "3612.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-89": "JIS X 0208-1997 kuten code",
+                "6fc1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "にごり"
+                ],
+                "chinese": [
+                    "zhuo2"
+                ],
+                "korean": [
+                    "tag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "勹",
+                "汁",
+                "買",
+                "虫"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "濁る",
+                    "reading": "にごる",
+                    "meanings": [
+                        "to become muddy",
+                        "to become cloudy",
+                        "to become turbid",
+                        "to become impure (of a liquid or gas)",
+                        "to become dull (of a sound",
+                        "color",
+                        "etc.)",
+                        "to become indistinct",
+                        "to become fuzzy",
+                        "to become hoarse",
+                        "to become impure (of one's heart",
+                        "a society",
+                        "etc.)",
+                        "to be corrupted",
+                        "to be polluted",
+                        "to become voiced (of a consonant)",
+                        "to be pronounced as a voiced sound"
+                    ]
+                },
+                {
+                    "kanji": "濁す",
+                    "reading": "にごす",
+                    "meanings": [
+                        "to make muddy (of a liquid)",
+                        "to make cloudy",
+                        "to make turbid",
+                        "to roil",
+                        "to make ambiguous",
+                        "to evade (e.g. the point)",
+                        "to be noncommittal about"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "濁流",
+                    "reading": "ダクリュウ",
+                    "meanings": [
+                        "muddy stream"
+                    ]
+                },
+                {
+                    "kanji": "濁音",
+                    "reading": "ダクオン",
+                    "meanings": [
+                        "syllable with a voiced consonant (in Japanese)",
+                        "voiced sound"
+                    ]
+                },
+                {
+                    "kanji": "汚濁",
+                    "reading": "オダク",
+                    "meanings": [
+                        "pollution",
+                        "contamination",
+                        "corruption",
+                        "graft"
+                    ]
+                },
+                {
+                    "kanji": "清濁",
+                    "reading": "セイダク",
+                    "meanings": [
+                        "good and evil",
+                        "purity and impurity",
+                        "voiced and unvoiced consonants"
+                    ]
+                },
+                {
+                    "kanji": "濁酒",
+                    "reading": "ドブロク",
+                    "meanings": [
+                        "doburoku (unrefined sake)"
+                    ]
+                },
+                {
+                    "kanji": "濁世",
+                    "reading": "ダクセ",
+                    "meanings": [
+                        "this corrupt or degenerate world",
+                        "this world or life",
+                        "the world of mankind"
+                    ]
+                }
+            ]
+        }
+    }
+}

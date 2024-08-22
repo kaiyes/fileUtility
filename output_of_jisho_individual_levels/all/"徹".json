@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"徹\"",
+        "strokes": 15,
+        "main_meanings": [
+            "penetrate",
+            "clear",
+            "pierce",
+            "strike home",
+            "sit up (all night)"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "テツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1629": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1017": "A New Dictionary of Kanji Usage",
+                "1637": "Classic Nelson (Andrew Nelson)",
+                "1638": "Essential Kanji (P.G. O’Neill)",
+                "1286": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2451": "Japanese Names (P.G. O’Neill)",
+                "1422": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1511": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1147": "Kanji in Context (Nishiguchi and Kono)",
+                "638": "Kodansha Compact Kanji Guide",
+                "894": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "510": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "659": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "895": "Les Kanjis dans la tete (Yves Maniette)",
+                "10245": "Morohashi",
+                "726": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1771": "New Nelson (John Haig)",
+                "886": "Remembering The Kanji (James Heisig)",
+                "951": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1760": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2066": "2001 Kanji",
+                "3i12.2": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "2824.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-16": "JIS X 0208-1997 kuten code",
+                "5fb9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 つ、 てっ、 とおる"
+                ],
+                "chinese": [
+                    "che4"
+                ],
+                "korean": [
+                    "cheol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "亠",
+                "厶",
+                "彳",
+                "月",
+                "乞",
+                "攵"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "徹夜",
+                    "reading": "テツヤ",
+                    "meanings": [
+                        "staying up all night"
+                    ]
+                },
+                {
+                    "kanji": "徹カラ",
+                    "reading": "テツカラ",
+                    "meanings": [
+                        "all-night karaoke"
+                    ]
+                },
+                {
+                    "kanji": "冷徹",
+                    "reading": "レイテツ",
+                    "meanings": [
+                        "cool-headed",
+                        "level-headed",
+                        "hard-headed"
+                    ]
+                },
+                {
+                    "kanji": "透徹",
+                    "reading": "トウテツ",
+                    "meanings": [
+                        "transparency",
+                        "clarity",
+                        "coherence"
+                    ]
+                }
+            ]
+        }
+    }
+}

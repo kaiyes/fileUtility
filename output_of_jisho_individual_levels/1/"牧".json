@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"牧\"",
+        "strokes": 8,
+        "main_meanings": [
+            "breed",
+            "care for",
+            "shepherd",
+            "feed",
+            "pasture"
+        ],
+        "main_readings": {
+            "kun": [
+                "まき"
+            ],
+            "on": [
+                "ボク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "720": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "614": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "586": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1243": "A New Dictionary of Kanji Usage",
+                "2856": "Classic Nelson (Andrew Nelson)",
+                "799": "Essential Kanji (P.G. O’Neill)",
+                "1520": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "610": "Japanese Names (P.G. O’Neill)",
+                "731": "Kanji and Kana (Spahn and Hadamitzky)",
+                "744": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1273": "Kanji in Context (Nishiguchi and Kono)",
+                "1291": "Kodansha Compact Kanji Guide",
+                "1083": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "776": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "335": "Les Kanjis dans la tete (Yves Maniette)",
+                "19950": "Morohashi",
+                "873": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3537": "New Nelson (John Haig)",
+                "329": "Remembering The Kanji (James Heisig)",
+                "351": "Remembering The Kanji, 6th edition (James Heisig)",
+                "517": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2466": "2001 Kanji",
+                "4g4.1": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "2854.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-50": "JIS X 0208-1997 kuten code",
+                "7267": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ま、 まい、 もく"
+                ],
+                "chinese": [
+                    "mu4"
+                ],
+                "korean": [
+                    "mog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "牜"
+            ],
+            "meaning": "cow",
+            "parts": [
+                "牛",
+                "乞",
+                "攵"
+            ],
+            "basis": "牛",
+            "kangxi_order": 93,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "牧",
+                    "reading": "まき",
+                    "meanings": [
+                        "pasture",
+                        "grazing land"
+                    ]
+                },
+                {
+                    "kanji": "牧場",
+                    "reading": "ぼくじょう",
+                    "meanings": [
+                        "farm (livestock)",
+                        "stock farm",
+                        "ranch",
+                        "station",
+                        "pasture",
+                        "meadow",
+                        "grazing land"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "牧",
+                    "reading": "ボク",
+                    "meanings": [
+                        "regional governor in ancient China"
+                    ]
+                },
+                {
+                    "kanji": "牧師",
+                    "reading": "ボクシ",
+                    "meanings": [
+                        "pastor",
+                        "minister",
+                        "clergyman",
+                        "reverend"
+                    ]
+                },
+                {
+                    "kanji": "遊牧",
+                    "reading": "ユウボク",
+                    "meanings": [
+                        "nomadism"
+                    ]
+                },
+                {
+                    "kanji": "移牧",
+                    "reading": "イボク",
+                    "meanings": [
+                        "transhumance",
+                        "moving stock between pastures according to season"
+                    ]
+                }
+            ]
+        }
+    }
+}

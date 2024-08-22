@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"購\"",
+        "strokes": 17,
+        "main_meanings": [
+            "subscription",
+            "buy"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1268": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1504": "A New Dictionary of Kanji Usage",
+                "4522": "Classic Nelson (Andrew Nelson)",
+                "1353": "Essential Kanji (P.G. O’Neill)",
+                "1787": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1011": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1049": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1210": "Kanji in Context (Nishiguchi and Kono)",
+                "1749": "Kodansha Compact Kanji Guide",
+                "2053": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1080": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1467": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1834": "Les Kanjis dans la tete (Yves Maniette)",
+                "36885X": "Morohashi",
+                "1624": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5823": "New Nelson (John Haig)",
+                "1817": "Remembering The Kanji (James Heisig)",
+                "1958": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1885": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3947": "2001 Kanji",
+                "7b10.3": "The Kanji Dictionary",
+                "1-7-10": "SKIP code",
+                "6584.7": "Four corner code",
+                "6585.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-56": "JIS X 0208-1997 kuten code",
+                "8cfc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gou4"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "一",
+                "｜",
+                "ハ",
+                "冂",
+                "十",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "購入",
+                    "reading": "コウニュウ",
+                    "meanings": [
+                        "purchase",
+                        "buying"
+                    ]
+                },
+                {
+                    "kanji": "購読",
+                    "reading": "コウドク",
+                    "meanings": [
+                        "buying and reading (book",
+                        "magazine",
+                        "etc.)",
+                        "subscribing (incl. free subscriptions)",
+                        "taking (e.g. newspaper)"
+                    ]
+                }
+            ]
+        }
+    }
+}

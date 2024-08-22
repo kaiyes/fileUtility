@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"者\"",
+        "strokes": 8,
+        "main_meanings": [
+            "someone",
+            "person"
+        ],
+        "main_readings": {
+            "kun": [
+                "もの"
+            ],
+            "on": [
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "235": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "314": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "298": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "22": "A New Dictionary of Kanji Usage",
+                "3685": "Classic Nelson (Andrew Nelson)",
+                "56": "Essential Kanji (P.G. O’Neill)",
+                "240": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "769": "Japanese Names (P.G. O’Neill)",
+                "3.6": "Japanese for Busy People",
+                "164": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "148": "Kanji in Context (Nishiguchi and Kono)",
+                "1578": "Kodansha Compact Kanji Guide",
+                "3980": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2047": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2765": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1264": "Les Kanjis dans la tete (Yves Maniette)",
+                "28852": "Morohashi",
+                "3211": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4698": "New Nelson (John Haig)",
+                "1256": "Remembering The Kanji (James Heisig)",
+                "1345": "Remembering The Kanji, 6th edition (James Heisig)",
+                "19": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "302": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1478": "2001 Kanji",
+                "4c4.13": "The Kanji Dictionary",
+                "3-4-4": "SKIP code",
+                "4-8-2": "SKIP code",
+                "2-4-4": "SKIP code",
+                "4460.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-52": "JIS X 0208-1997 kuten code",
+                "8005": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhe3"
+                ],
+                "korean": [
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "耂"
+            ],
+            "meaning": "old",
+            "parts": [
+                "老",
+                "日"
+            ],
+            "basis": "老",
+            "kangxi_order": 125,
+            "variants": [
+                "者"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "者",
+                    "reading": "もの",
+                    "meanings": [
+                        "person"
+                    ]
+                },
+                {
+                    "kanji": "者ども",
+                    "reading": "ものども",
+                    "meanings": [
+                        "you",
+                        "people"
+                    ]
+                },
+                {
+                    "kanji": "弱き者",
+                    "reading": "よわきもの",
+                    "meanings": [
+                        "weak person",
+                        "the weak"
+                    ]
+                },
+                {
+                    "kanji": "若い者",
+                    "reading": "わかいもの",
+                    "meanings": [
+                        "young person",
+                        "young people",
+                        "youth",
+                        "youngsters",
+                        "young employee",
+                        "young manservant",
+                        "young follower"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "者",
+                    "reading": "シャ",
+                    "meanings": [
+                        "person",
+                        "-er",
+                        "expert",
+                        "geisha",
+                        "prostitute"
+                    ]
+                },
+                {
+                    "kanji": "芸者",
+                    "reading": "ゲイシャ",
+                    "meanings": [
+                        "geisha",
+                        "professional female entertainer",
+                        "usu. at traditional banquets"
+                    ]
+                },
+                {
+                    "kanji": "加害者",
+                    "reading": "カガイシャ",
+                    "meanings": [
+                        "perpetrator",
+                        "wrong-doer",
+                        "aggressor",
+                        "assailant",
+                        "offender"
+                    ]
+                }
+            ]
+        }
+    }
+}

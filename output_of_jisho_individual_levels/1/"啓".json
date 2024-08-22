@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"啓\"",
+        "strokes": 11,
+        "main_meanings": [
+            "disclose",
+            "open",
+            "say"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひら.く",
+                "さと.す"
+            ],
+            "on": [
+                "ケイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1197": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1452": "A New Dictionary of Kanji Usage",
+                "940": "Classic Nelson (Andrew Nelson)",
+                "1205": "Essential Kanji (P.G. O’Neill)",
+                "1138": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1491": "Japanese Names (P.G. O’Neill)",
+                "1398": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1487": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1690": "Kanji in Context (Nishiguchi and Kono)",
+                "293": "Kodansha Compact Kanji Guide",
+                "3434": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1769": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2408": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1094": "Les Kanjis dans la tete (Yves Maniette)",
+                "3820X": "Morohashi",
+                "2763": "New Japanese English Character Dictionary (Jack Halpern)",
+                "828": "New Nelson (John Haig)",
+                "1085": "Remembering The Kanji (James Heisig)",
+                "1166": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1415": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3077": "2001 Kanji",
+                "3d8.17": "The Kanji Dictionary",
+                "2-8-3": "SKIP code",
+                "3860.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-28": "JIS X 0208-1997 kuten code",
+                "5553": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら、 さとし、 はじめ、 ひろ、 よし"
+                ],
+                "chinese": [
+                    "qi3"
+                ],
+                "korean": [
+                    "gye"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "口",
+                "尸",
+                "戸",
+                "乞",
+                "攵"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": [
+                "諬"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "啓く",
+                    "reading": "ひらく",
+                    "meanings": [
+                        "to enlighten",
+                        "to edify"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "啓発",
+                    "reading": "ケイハツ",
+                    "meanings": [
+                        "enlightenment",
+                        "development",
+                        "edification",
+                        "public awareness",
+                        "illumination",
+                        "education",
+                        "inspiration"
+                    ]
+                },
+                {
+                    "kanji": "啓蒙",
+                    "reading": "ケイモウ",
+                    "meanings": [
+                        "enlightenment",
+                        "illumination"
+                    ]
+                },
+                {
+                    "kanji": "拝啓",
+                    "reading": "ハイケイ",
+                    "meanings": [
+                        "Dear (so and so)",
+                        "Dear Sir",
+                        "Dear Madam",
+                        "To Whom It May Concern"
+                    ]
+                },
+                {
+                    "kanji": "敬啓",
+                    "reading": "ケイケイ",
+                    "meanings": [
+                        "salutation at the end of a formal letter"
+                    ]
+                }
+            ]
+        }
+    }
+}

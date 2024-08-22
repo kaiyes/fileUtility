@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"媒\"",
+        "strokes": 12,
+        "main_meanings": [
+            "mediator",
+            "go-between"
+        ],
+        "main_readings": {
+            "kun": [
+                "なこうど"
+            ],
+            "on": [
+                "バイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1692": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1862": "A New Dictionary of Kanji Usage",
+                "1241": "Classic Nelson (Andrew Nelson)",
+                "1403": "Essential Kanji (P.G. O’Neill)",
+                "1198": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1496": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1595": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1760": "Kanji in Context (Nishiguchi and Kono)",
+                "450": "Kodansha Compact Kanji Guide",
+                "686": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "412": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "518": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1777": "Les Kanjis dans la tete (Yves Maniette)",
+                "6498": "Morohashi",
+                "564": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1247": "New Nelson (John Haig)",
+                "1761": "Remembering The Kanji (James Heisig)",
+                "1898": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1522": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1764": "2001 Kanji",
+                "3e9.2": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "4449.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-62": "JIS X 0208-1997 kuten code",
+                "5a92": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mei2"
+                ],
+                "korean": [
+                    "mae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "木",
+                "甘"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "仲人",
+                    "reading": "なこうど",
+                    "meanings": [
+                        "matchmaker",
+                        "go-between",
+                        "intermediary",
+                        "middleman",
+                        "mediator",
+                        "intercessor"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "媒体",
+                    "reading": "バイタイ",
+                    "meanings": [
+                        "medium",
+                        "media"
+                    ]
+                },
+                {
+                    "kanji": "媒酌",
+                    "reading": "バイシャク",
+                    "meanings": [
+                        "matchmaking",
+                        "acting as a go-between"
+                    ]
+                },
+                {
+                    "kanji": "溶媒",
+                    "reading": "ヨウバイ",
+                    "meanings": [
+                        "solvent"
+                    ]
+                },
+                {
+                    "kanji": "冷媒",
+                    "reading": "レイバイ",
+                    "meanings": [
+                        "refrigerant",
+                        "coolant"
+                    ]
+                }
+            ]
+        }
+    }
+}

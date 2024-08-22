@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鼓\"",
+        "strokes": 13,
+        "main_meanings": [
+            "drum",
+            "beat",
+            "rouse",
+            "muster"
+        ],
+        "main_readings": {
+            "kun": [
+                "つづみ"
+            ],
+            "on": [
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1234": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1836": "A New Dictionary of Kanji Usage",
+                "5415": "Classic Nelson (Andrew Nelson)",
+                "1064": "Essential Kanji (P.G. O’Neill)",
+                "1926": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1959": "Japanese Names (P.G. O’Neill)",
+                "1147": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1200": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1827": "Kanji in Context (Nishiguchi and Kono)",
+                "1944": "Kodansha Compact Kanji Guide",
+                "2241": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1168": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1589": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1456": "Les Kanjis dans la tete (Yves Maniette)",
+                "48330": "Morohashi",
+                "1786": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7076": "New Nelson (John Haig)",
+                "1444": "Remembering The Kanji (James Heisig)",
+                "1552": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1692": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1467": "2001 Kanji",
+                "3p10.2": "The Kanji Dictionary",
+                "1-9-4": "SKIP code",
+                "4414.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-61": "JIS X 0208-1997 kuten code",
+                "9f13": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gu3"
+                ],
+                "korean": [
+                    "go"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "drum",
+            "parts": [
+                "并",
+                "十",
+                "又",
+                "口",
+                "士",
+                "支",
+                "豆",
+                "鼓"
+            ],
+            "basis": "鼓",
+            "kangxi_order": 207,
+            "variants": [
+                "皷"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鼓",
+                    "reading": "つづみ",
+                    "meanings": [
+                        "hand drum"
+                    ]
+                },
+                {
+                    "kanji": "舌鼓",
+                    "reading": "したつづみ",
+                    "meanings": [
+                        "smacking one's lips (over food)"
+                    ]
+                },
+                {
+                    "kanji": "大鼓",
+                    "reading": "おおつづみ",
+                    "meanings": [
+                        "large hand drum"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鼓舞",
+                    "reading": "コブ",
+                    "meanings": [
+                        "encouragement",
+                        "inspiration",
+                        "rousing",
+                        "stirring up",
+                        "raising (e.g. morale)"
+                    ]
+                },
+                {
+                    "kanji": "鼓動",
+                    "reading": "コドウ",
+                    "meanings": [
+                        "beat",
+                        "palpitation",
+                        "pulsation",
+                        "throbbing"
+                    ]
+                },
+                {
+                    "kanji": "大太鼓",
+                    "reading": "オオダイコ",
+                    "meanings": [
+                        "large drum",
+                        "bass drum"
+                    ]
+                },
+                {
+                    "kanji": "御太鼓",
+                    "reading": "オタイコ",
+                    "meanings": [
+                        "very common way of tying a woman's kimono sash"
+                    ]
+                }
+            ]
+        }
+    }
+}

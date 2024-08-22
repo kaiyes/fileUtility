@@ -1,0 +1,91 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"朕\"",
+        "strokes": 10,
+        "main_meanings": [
+            "majestic plural",
+            "imperial we"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "チン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1603": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2035": "A New Dictionary of Kanji Usage",
+                "3757": "Classic Nelson (Andrew Nelson)",
+                "1876": "Essential Kanji (P.G. O’Neill)",
+                "1921": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2104": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1938": "Kanji in Context (Nishiguchi and Kono)",
+                "1005": "Kodansha Compact Kanji Guide",
+                "1185": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "645": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "856": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2046": "Les Kanjis dans la tete (Yves Maniette)",
+                "14361": "Morohashi",
+                "949": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4797": "New Nelson (John Haig)",
+                "2027": "Remembering The Kanji (James Heisig)",
+                "2183": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1346": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3963": "2001 Kanji",
+                "4b6.6": "The Kanji Dictionary",
+                "1-4-6": "SKIP code",
+                "7823.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-31": "JIS X 0208-1997 kuten code",
+                "6715": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhen4"
+                ],
+                "korean": [
+                    "jim"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "moon,",
+            "parts": [
+                "一",
+                "人",
+                "并",
+                "大",
+                "月"
+            ],
+            "basis": "月",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "朕",
+                    "reading": "チン",
+                    "meanings": [
+                        "We"
+                    ]
+                }
+            ]
+        }
+    }
+}

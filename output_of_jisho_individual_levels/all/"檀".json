@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"檀\"",
+        "strokes": 17,
+        "main_meanings": [
+            "cedar",
+            "sandalwood",
+            "spindle tree"
+        ],
+        "main_readings": {
+            "kun": [
+                "まゆみ"
+            ],
+            "on": [
+                "ダン",
+                "タン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2386": "Classic Nelson (Andrew Nelson)",
+                "2623": "Japanese Names (P.G. O’Neill)",
+                "2128": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1385": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "743": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1003": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "15632": "Morohashi",
+                "2895": "New Nelson (John Haig)",
+                "2525": "Remembering The Kanji (James Heisig)",
+                "2585": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a13.11": "The Kanji Dictionary",
+                "1-4-13": "SKIP code",
+                "4091.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-41": "JIS X 0208-1997 kuten code",
+                "6a80": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tan2"
+                ],
+                "korean": [
+                    "dan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "一",
+                "亠",
+                "口",
+                "日",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "小檀",
+                    "reading": "こまゆみ",
+                    "meanings": [
+                        "spindle tree (Euonymus alatus f. ciliatodentatus)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "旦那",
+                    "reading": "ダンナ",
+                    "meanings": [
+                        "master (of a house",
+                        "shop",
+                        "etc.)",
+                        "husband",
+                        "sir",
+                        "boss",
+                        "master",
+                        "governor",
+                        "patron of a mistress",
+                        "geisha",
+                        "bar or nightclub hostess",
+                        "sugar daddy",
+                        "alms",
+                        "almsgiving",
+                        "almsgiver"
+                    ]
+                },
+                {
+                    "kanji": "檀越",
+                    "reading": "ダンオツ",
+                    "meanings": [
+                        "alms-giver",
+                        "person who donates to a monk or a temple",
+                        "dana-pati"
+                    ]
+                },
+                {
+                    "kanji": "仏壇",
+                    "reading": "ブツダン",
+                    "meanings": [
+                        "Buddhist (household) altar"
+                    ]
+                },
+                {
+                    "kanji": "阿檀",
+                    "reading": "アダン",
+                    "meanings": [
+                        "umbrella tree (Pandanus odorifer)",
+                        "fragrant screw pine",
+                        "kewda"
+                    ]
+                },
+                {
+                    "kanji": "黒檀",
+                    "reading": "コクタン",
+                    "meanings": [
+                        "ebony"
+                    ]
+                },
+                {
+                    "kanji": "紫檀",
+                    "reading": "シタン",
+                    "meanings": [
+                        "rosewood",
+                        "red sandalwood"
+                    ]
+                }
+            ]
+        }
+    }
+}

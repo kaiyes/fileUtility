@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"躍\"",
+        "strokes": 21,
+        "main_meanings": [
+            "leap",
+            "dance",
+            "skip"
+        ],
+        "main_readings": {
+            "kun": [
+                "おど.る"
+            ],
+            "on": [
+                "ヤク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1860": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "934": "A New Dictionary of Kanji Usage",
+                "4595": "Classic Nelson (Andrew Nelson)",
+                "1342": "Essential Kanji (P.G. O’Neill)",
+                "1796": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1560": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1663": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1384": "Kanji in Context (Nishiguchi and Kono)",
+                "1767": "Kodansha Compact Kanji Guide",
+                "2090": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1091": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1484": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1293": "Les Kanjis dans la tete (Yves Maniette)",
+                "37955P": "Morohashi",
+                "1658": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5921": "New Nelson (John Haig)",
+                "1285": "Remembering The Kanji (James Heisig)",
+                "1379": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1939": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3775": "2001 Kanji",
+                "7d14.2": "The Kanji Dictionary",
+                "1-7-14": "SKIP code",
+                "6711.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-86": "JIS X 0208-1997 kuten code",
+                "8e8d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おどり"
+                ],
+                "chinese": [
+                    "yue4"
+                ],
+                "korean": [
+                    "yag",
+                    "jeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⻊"
+            ],
+            "meaning": "foot",
+            "parts": [
+                "口",
+                "ヨ",
+                "止",
+                "足",
+                "隹"
+            ],
+            "basis": "足",
+            "kangxi_order": 157,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "躍る",
+                    "reading": "おどる",
+                    "meanings": [
+                        "to jump up",
+                        "to spring up",
+                        "to leap",
+                        "to move around",
+                        "to bounce up and down",
+                        "to pound (of one's heart",
+                        "e.g. with excitement)",
+                        "to throb",
+                        "to be messy (of handwriting)",
+                        "to be untidy"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "躍動",
+                    "reading": "ヤクドウ",
+                    "meanings": [
+                        "lively motion",
+                        "throb"
+                    ]
+                },
+                {
+                    "kanji": "躍進",
+                    "reading": "ヤクシン",
+                    "meanings": [
+                        "making rapid progress",
+                        "making great advances",
+                        "rush",
+                        "dash",
+                        "onslaught"
+                    ]
+                },
+                {
+                    "kanji": "勇躍",
+                    "reading": "ユウヤク",
+                    "meanings": [
+                        "taking heart",
+                        "being in high spirits"
+                    ]
+                },
+                {
+                    "kanji": "時間跳躍",
+                    "reading": "ジカンチョウヤク",
+                    "meanings": [
+                        "time travel",
+                        "leaping through time"
+                    ]
+                }
+            ]
+        }
+    }
+}

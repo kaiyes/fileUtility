@@ -1,0 +1,88 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"撤\"",
+        "strokes": 15,
+        "main_meanings": [
+            "remove",
+            "withdraw",
+            "disarm",
+            "dismantle",
+            "reject",
+            "exclude"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "テツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1630": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1289": "A New Dictionary of Kanji Usage",
+                "1999": "Classic Nelson (Andrew Nelson)",
+                "1456": "Essential Kanji (P.G. O’Neill)",
+                "1382": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1423": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1512": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1488": "Kanji in Context (Nishiguchi and Kono)",
+                "926": "Kodansha Compact Kanji Guide",
+                "912": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "515": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "673": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "767": "Les Kanjis dans la tete (Yves Maniette)",
+                "12726": "Morohashi",
+                "738": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2280": "New Nelson (John Haig)",
+                "760": "Remembering The Kanji (James Heisig)",
+                "822": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1770": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1366": "2001 Kanji",
+                "3c12.3": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "5804.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-17": "JIS X 0208-1997 kuten code",
+                "64a4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "che4"
+                ],
+                "korean": [
+                    "cheol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "亠",
+                "厶",
+                "扎",
+                "月",
+                "乞",
+                "攵"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": null
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"然\"",
+        "strokes": 12,
+        "main_meanings": [
+            "sort of thing",
+            "so",
+            "if so",
+            "in that case",
+            "well"
+        ],
+        "main_readings": {
+            "kun": [
+                "しか",
+                "しか.り",
+                "しか.し",
+                "さ"
+            ],
+            "on": [
+                "ゼン",
+                "ネン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "450": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "557": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "528": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "375": "A New Dictionary of Kanji Usage",
+                "2770": "Classic Nelson (Andrew Nelson)",
+                "437": "Essential Kanji (P.G. O’Neill)",
+                "716": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1788": "Japanese Names (P.G. O’Neill)",
+                "651": "Kanji and Kana (Spahn and Hadamitzky)",
+                "662": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "401": "Kanji in Context (Nishiguchi and Kono)",
+                "1279": "Kodansha Compact Kanji Guide",
+                "3456": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1779": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2423": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "246": "Les Kanjis dans la tete (Yves Maniette)",
+                "19149": "Morohashi",
+                "2782": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3435": "New Nelson (John Haig)",
+                "241": "Remembering The Kanji (James Heisig)",
+                "256": "Remembering The Kanji, 6th edition (James Heisig)",
+                "144": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "592": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2540": "2001 Kanji",
+                "4d8.10": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "2333.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-19": "JIS X 0208-1997 kuten code",
+                "7136": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ran2"
+                ],
+                "korean": [
+                    "yeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "夕",
+                "杰",
+                "犬"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "然",
+                    "reading": "しか",
+                    "meanings": [
+                        "like that",
+                        "as such",
+                        "yeah",
+                        "uh-huh"
+                    ]
+                },
+                {
+                    "kanji": "然し",
+                    "reading": "しかし",
+                    "meanings": [
+                        "however",
+                        "but"
+                    ]
+                },
+                {
+                    "kanji": "然り",
+                    "reading": "しかり",
+                    "meanings": [
+                        "yes",
+                        "yea",
+                        "aye",
+                        "affirmative",
+                        "to be so"
+                    ]
+                },
+                {
+                    "kanji": "然し",
+                    "reading": "しかし",
+                    "meanings": [
+                        "however",
+                        "but"
+                    ]
+                },
+                {
+                    "kanji": "而して",
+                    "reading": "そして",
+                    "meanings": [
+                        "and",
+                        "and then",
+                        "thus",
+                        "and now",
+                        "and finally"
+                    ]
+                },
+                {
+                    "kanji": "然",
+                    "reading": "さ",
+                    "meanings": [
+                        "so",
+                        "like that",
+                        "in that way"
+                    ]
+                },
+                {
+                    "kanji": "然らば",
+                    "reading": "さらば",
+                    "meanings": [
+                        "farewell",
+                        "goodbye",
+                        "adieu",
+                        "if so",
+                        "in that case",
+                        "then",
+                        "and (then)"
+                    ]
+                },
+                {
+                    "kanji": "然然",
+                    "reading": "ささ",
+                    "meanings": [
+                        "such and such"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "然",
+                    "reading": "ゼン",
+                    "meanings": [
+                        "-like"
+                    ]
+                },
+                {
+                    "kanji": "然諾",
+                    "reading": "ゼンダク",
+                    "meanings": [
+                        "consent",
+                        "saying yes"
+                    ]
+                },
+                {
+                    "kanji": "必然",
+                    "reading": "ヒツゼン",
+                    "meanings": [
+                        "inevitable",
+                        "necessary",
+                        "certain",
+                        "sure",
+                        "inevitability",
+                        "necessity"
+                    ]
+                },
+                {
+                    "kanji": "漠然",
+                    "reading": "バクゼン",
+                    "meanings": [
+                        "vague",
+                        "obscure",
+                        "indistinct",
+                        "hazy",
+                        "ambiguous"
+                    ]
+                },
+                {
+                    "kanji": "寂然",
+                    "reading": "セキゼン",
+                    "meanings": [
+                        "lonely",
+                        "desolate",
+                        "forlornness",
+                        "desolation"
+                    ]
+                },
+                {
+                    "kanji": "自然",
+                    "reading": "ジネン",
+                    "meanings": [
+                        "occurring naturally (without human influence)"
+                    ]
+                }
+            ]
+        }
+    }
+}

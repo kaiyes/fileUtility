@@ -1,0 +1,108 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"暉\"",
+        "strokes": 13,
+        "main_meanings": [
+            "shine",
+            "light"
+        ],
+        "main_readings": {
+            "kun": [
+                "かが.やく"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2150": "Classic Nelson (Andrew Nelson)",
+                "1884": "Japanese Names (P.G. O’Neill)",
+                "2096": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1276": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "692": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "924": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "14038": "Morohashi",
+                "2499": "New Nelson (John Haig)",
+                "2440": "Remembering The Kanji (James Heisig)",
+                "2517": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4c9.6": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "6705.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-58-86": "JIS X 0208-1997 kuten code",
+                "6689": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "てる"
+                ],
+                "chinese": [
+                    "hui1"
+                ],
+                "korean": [
+                    "hwi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "冖",
+                "日",
+                "車"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "綺麗",
+                    "reading": "キレイ",
+                    "meanings": [
+                        "pretty",
+                        "lovely",
+                        "beautiful",
+                        "fair",
+                        "clean",
+                        "clear",
+                        "pure",
+                        "tidy",
+                        "neat",
+                        "completely",
+                        "entirely"
+                    ]
+                },
+                {
+                    "kanji": "夕暉",
+                    "reading": "セッキ",
+                    "meanings": [
+                        "rays of the setting sun"
+                    ]
+                },
+                {
+                    "kanji": "旭暉",
+                    "reading": "キョッキ",
+                    "meanings": [
+                        "rays of the rising sun"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"黛\"",
+        "strokes": 16,
+        "main_meanings": [
+            "blackened eyebrows"
+        ],
+        "main_readings": {
+            "kun": [
+                "まゆずみ"
+            ],
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5408": "Classic Nelson (Andrew Nelson)",
+                "2283": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3240": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1678": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2275": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "48075X": "Morohashi",
+                "7060": "New Nelson (John Haig)",
+                "2864": "Remembering The Kanji (James Heisig)",
+                "2877": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4d13.7": "The Kanji Dictionary",
+                "2-5-11": "SKIP code",
+                "2333.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-67": "JIS X 0208-1997 kuten code",
+                "9edb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dai4"
+                ],
+                "korean": [
+                    "dae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "black",
+            "parts": [
+                "化",
+                "弋",
+                "杰",
+                "里",
+                "黒"
+            ],
+            "basis": "黑",
+            "kangxi_order": 203,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "眉墨",
+                    "reading": "まゆずみ",
+                    "meanings": [
+                        "eyebrow pencil",
+                        "blackened eyebrows",
+                        "(metaphorically) distant mountain range"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "黛青",
+                    "reading": "タイセイ",
+                    "meanings": [
+                        "blackish blue"
+                    ]
+                },
+                {
+                    "kanji": "翠黛",
+                    "reading": "スイタイ",
+                    "meanings": [
+                        "green eyebrow pencil",
+                        "green-shaded eyebrows",
+                        "hazy green (distant mountains)"
+                    ]
+                },
+                {
+                    "kanji": "青黛",
+                    "reading": "セイタイ",
+                    "meanings": [
+                        "blue eyebrow pencil",
+                        "blue eyebrows",
+                        "deep blue",
+                        "dark blue"
+                    ]
+                }
+            ]
+        }
+    }
+}

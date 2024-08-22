@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"告\"",
+        "strokes": 7,
+        "main_meanings": [
+            "revelation",
+            "tell",
+            "inform",
+            "announce"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.げる"
+            ],
+            "on": [
+                "コク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "398": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "507": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "481": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "320": "A New Dictionary of Kanji Usage",
+                "900": "Classic Nelson (Andrew Nelson)",
+                "296": "Essential Kanji (P.G. O’Neill)",
+                "408": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "490": "Japanese Names (P.G. O’Neill)",
+                "690": "Kanji and Kana (Spahn and Hadamitzky)",
+                "703": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "892": "Kanji in Context (Nishiguchi and Kono)",
+                "288": "Kodansha Compact Kanji Guide",
+                "3062": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1560": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2134": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "253": "Les Kanjis dans la tete (Yves Maniette)",
+                "3381P": "Morohashi",
+                "2409": "New Japanese English Character Dictionary (Jack Halpern)",
+                "744": "New Nelson (John Haig)",
+                "247": "Remembering The Kanji (James Heisig)",
+                "262": "Remembering The Kanji, 6th edition (James Heisig)",
+                "480": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2477": "2001 Kanji",
+                "3d4.18": "The Kanji Dictionary",
+                "2-4-3": "SKIP code",
+                "2460.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-80": "JIS X 0208-1997 kuten code",
+                "544a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い"
+                ],
+                "chinese": [
+                    "gao4",
+                    "gu4"
+                ],
+                "korean": [
+                    "go",
+                    "gog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "ノ",
+                "口",
+                "土"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "告げる",
+                    "reading": "つげる",
+                    "meanings": [
+                        "to tell",
+                        "to inform",
+                        "to announce",
+                        "to indicate",
+                        "to signal",
+                        "to mark"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "告訴",
+                    "reading": "コクソ",
+                    "meanings": [
+                        "accusation",
+                        "complaint",
+                        "charge",
+                        "suit",
+                        "legal action",
+                        "legal proceedings"
+                    ]
+                },
+                {
+                    "kanji": "告示",
+                    "reading": "コクジ",
+                    "meanings": [
+                        "notice",
+                        "bulletin"
+                    ]
+                },
+                {
+                    "kanji": "抗告",
+                    "reading": "コウコク",
+                    "meanings": [
+                        "appeal",
+                        "protest",
+                        "complaint"
+                    ]
+                },
+                {
+                    "kanji": "戒告",
+                    "reading": "カイコク",
+                    "meanings": [
+                        "admonition",
+                        "warning",
+                        "caution"
+                    ]
+                }
+            ]
+        }
+    }
+}

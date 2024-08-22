@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"裏\"",
+        "strokes": 13,
+        "main_meanings": [
+            "back",
+            "amidst",
+            "in",
+            "reverse",
+            "inside",
+            "palm",
+            "sole",
+            "rear",
+            "lining",
+            "wrong side"
+        ],
+        "main_readings": {
+            "kun": [
+                "うら"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1002": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "992": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "755": "A New Dictionary of Kanji Usage",
+                "327": "Classic Nelson (Andrew Nelson)",
+                "1076": "Essential Kanji (P.G. O’Neill)",
+                "883": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2176": "Japanese Names (P.G. O’Neill)",
+                "273": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "436": "Kanji in Context (Nishiguchi and Kono)",
+                "1627": "Kodansha Compact Kanji Guide",
+                "2652": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1354": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1836": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "406": "Les Kanjis dans la tete (Yves Maniette)",
+                "34294": "Morohashi",
+                "2138": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5462": "New Nelson (John Haig)",
+                "399": "Remembering The Kanji (James Heisig)",
+                "426": "Remembering The Kanji, 6th edition (James Heisig)",
+                "969": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "465": "2001 Kanji",
+                "2j11.2": "The Kanji Dictionary",
+                "2-2-11": "SKIP code",
+                "0073.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-02": "JIS X 0208-1997 kuten code",
+                "88cf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "li3"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "亠",
+                "衣",
+                "里"
+            ],
+            "basis": "衣",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "裏",
+                    "reading": "うら",
+                    "meanings": [
+                        "opposite side",
+                        "bottom",
+                        "other side",
+                        "side hidden from view",
+                        "undersurface",
+                        "reverse side",
+                        "rear",
+                        "back",
+                        "behind",
+                        "lining",
+                        "inside",
+                        "in the shadows",
+                        "behind the scenes",
+                        "offstage",
+                        "behind (someone's) back",
+                        "more (to something than meets the eye)",
+                        "hidden side (e.g. of one's personality)",
+                        "unknown circumstances",
+                        "different side",
+                        "proof",
+                        "opposite (of a prediction",
+                        "common sense",
+                        "etc.)",
+                        "contrary",
+                        "inverse (of a hypothesis",
+                        "etc.)",
+                        "bottom (of an inning)",
+                        "last half (of an inning)"
+                    ]
+                },
+                {
+                    "kanji": "裏方",
+                    "reading": "うらかた",
+                    "meanings": [
+                        "someone working behind-the-scenes",
+                        "scene shifter",
+                        "lady consort (to a high personage)"
+                    ]
+                },
+                {
+                    "kanji": "舞台裏",
+                    "reading": "ぶたいうら",
+                    "meanings": [
+                        "offstage",
+                        "backstage",
+                        "behind the scenes"
+                    ]
+                },
+                {
+                    "kanji": "口裏",
+                    "reading": "くちうら",
+                    "meanings": [
+                        "determining a speaker's true or hidden meaning",
+                        "determining a speaker's intentions from his manner of speech",
+                        "divining good or bad luck from listening to someone"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "裏",
+                    "reading": "リ",
+                    "meanings": [
+                        "in (e.g. secret)",
+                        "with (e.g. success)"
+                    ]
+                },
+                {
+                    "kanji": "裏面",
+                    "reading": "リメン",
+                    "meanings": [
+                        "back (side)",
+                        "reverse",
+                        "the inside",
+                        "background",
+                        "dark side (e.g. of society)",
+                        "behind the scenes",
+                        "beneath the surface"
+                    ]
+                },
+                {
+                    "kanji": "内裏",
+                    "reading": "ダイリ",
+                    "meanings": [
+                        "imperial palace",
+                        "festival dolls representing the emperor and the empress"
+                    ]
+                },
+                {
+                    "kanji": "影裏",
+                    "reading": "エイリ",
+                    "meanings": [
+                        "shade"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"卓\"",
+        "strokes": 8,
+        "main_meanings": [
+            "eminent",
+            "table",
+            "desk",
+            "high"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "タク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1553": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1428": "A New Dictionary of Kanji Usage",
+                "802": "Classic Nelson (Andrew Nelson)",
+                "1761": "Essential Kanji (P.G. O’Neill)",
+                "1111": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "660": "Japanese Names (P.G. O’Neill)",
+                "1679": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1794": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1030": "Kanji in Context (Nishiguchi and Kono)",
+                "246": "Kodansha Compact Kanji Guide",
+                "2561": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1307": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1777": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "51": "Remembering The Kanji (James Heisig)",
+                "2741": "Morohashi",
+                "2064": "New Japanese English Character Dictionary (Jack Halpern)",
+                "616": "New Nelson (John Haig)",
+                "52": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1157": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1255": "2001 Kanji",
+                "2m6.2": "The Kanji Dictionary",
+                "2-2-6": "SKIP code",
+                "2-6-2": "SKIP code",
+                "2140.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-78": "JIS X 0208-1997 kuten code",
+                "5353": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "すぐる、 たか、 たかし"
+                ],
+                "chinese": [
+                    "zhuo1",
+                    "zhuo2"
+                ],
+                "korean": [
+                    "tag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ten,",
+            "parts": [
+                "十",
+                "卜",
+                "日"
+            ],
+            "basis": "十",
+            "kangxi_order": null,
+            "variants": [
+                "桌"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "卓",
+                    "reading": "タク",
+                    "meanings": [
+                        "table",
+                        "desk",
+                        "counter for tables",
+                        "desks",
+                        "etc.",
+                        "offering table before an altar (sometimes used in tea ceremony)",
+                        "tabletop incense burner"
+                    ]
+                },
+                {
+                    "kanji": "卓越",
+                    "reading": "タクエツ",
+                    "meanings": [
+                        "preeminence",
+                        "excellence",
+                        "superiority",
+                        "transcendence"
+                    ]
+                },
+                {
+                    "kanji": "聖卓",
+                    "reading": "セイタク",
+                    "meanings": [
+                        "altar (esp. Christian)"
+                    ]
+                },
+                {
+                    "kanji": "音声調整卓",
+                    "reading": "オンセイチョウセイタク",
+                    "meanings": [
+                        "mixing board (console",
+                        "desk)",
+                        "(audio) mixer"
+                    ]
+                }
+            ]
+        }
+    }
+}

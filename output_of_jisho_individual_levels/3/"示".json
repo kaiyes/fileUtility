@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"示\"",
+        "strokes": 5,
+        "main_meanings": [
+            "show",
+            "indicate",
+            "point out",
+            "express",
+            "display"
+        ],
+        "main_readings": {
+            "kun": [
+                "しめ.す"
+            ],
+            "on": [
+                "ジ",
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "622": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "723": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "695": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "415": "A New Dictionary of Kanji Usage",
+                "3228": "Classic Nelson (Andrew Nelson)",
+                "575": "Essential Kanji (P.G. O’Neill)",
+                "769": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "148": "Japanese Names (P.G. O’Neill)",
+                "615": "Kanji and Kana (Spahn and Hadamitzky)",
+                "625": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "814": "Kanji in Context (Nishiguchi and Kono)",
+                "1413": "Kodansha Compact Kanji Guide",
+                "2435": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1229": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1694": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1095": "Les Kanjis dans la tete (Yves Maniette)",
+                "24623": "Morohashi",
+                "1936": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4060": "New Nelson (John Haig)",
+                "1086": "Remembering The Kanji (James Heisig)",
+                "1167": "Remembering The Kanji, 6th edition (James Heisig)",
+                "465": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "651": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3041": "2001 Kanji",
+                "4e0.1": "The Kanji Dictionary",
+                "2-1-4": "SKIP code",
+                "1090.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-08": "JIS X 0208-1997 kuten code",
+                "793a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "si",
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "礻"
+            ],
+            "meaning": "sign",
+            "parts": [
+                "二",
+                "小",
+                "示"
+            ],
+            "basis": "示",
+            "kangxi_order": 113,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "示す",
+                    "reading": "しめす",
+                    "meanings": [
+                        "to (take out and) show",
+                        "to demonstrate",
+                        "to tell",
+                        "to exemplify",
+                        "to make apparent",
+                        "to point out (finger",
+                        "clock hand",
+                        "needle",
+                        "etc.)",
+                        "to indicate",
+                        "to show",
+                        "to represent",
+                        "to signify",
+                        "to display"
+                    ]
+                },
+                {
+                    "kanji": "示偏",
+                    "reading": "しめすへん",
+                    "meanings": [
+                        "kanji \"show\" radical at left (radical 113)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "示談",
+                    "reading": "ジダン",
+                    "meanings": [
+                        "settlement out of court",
+                        "private settlement"
+                    ]
+                },
+                {
+                    "kanji": "示威",
+                    "reading": "ジイ",
+                    "meanings": [
+                        "demonstration",
+                        "show of force"
+                    ]
+                },
+                {
+                    "kanji": "内示",
+                    "reading": "ナイジ",
+                    "meanings": [
+                        "unofficial announcement"
+                    ]
+                },
+                {
+                    "kanji": "開示",
+                    "reading": "カイジ",
+                    "meanings": [
+                        "release (e.g. information)",
+                        "disclosure (legal)",
+                        "show",
+                        "indication",
+                        "display"
+                    ]
+                },
+                {
+                    "kanji": "示し",
+                    "reading": "シメシ",
+                    "meanings": [
+                        "lesson",
+                        "discipline",
+                        "example (e.g. set a bad example)",
+                        "revelation"
+                    ]
+                },
+                {
+                    "kanji": "示唆",
+                    "reading": "シサ",
+                    "meanings": [
+                        "suggestion",
+                        "hint",
+                        "implication"
+                    ]
+                },
+                {
+                    "kanji": "公示",
+                    "reading": "コウジ",
+                    "meanings": [
+                        "public announcement",
+                        "official notice",
+                        "edict"
+                    ]
+                },
+                {
+                    "kanji": "内示",
+                    "reading": "ナイジ",
+                    "meanings": [
+                        "unofficial announcement"
+                    ]
+                }
+            ]
+        }
+    }
+}

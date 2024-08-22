@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"委\"",
+        "strokes": 8,
+        "main_meanings": [
+            "committee",
+            "entrust to",
+            "leave to",
+            "devote",
+            "discard"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆだ.ねる"
+            ],
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "346": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "245": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "423": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "171": "A New Dictionary of Kanji Usage",
+                "3267": "Classic Nelson (Andrew Nelson)",
+                "837": "Essential Kanji (P.G. O’Neill)",
+                "451": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "960": "Japanese Names (P.G. O’Neill)",
+                "466": "Kanji and Kana (Spahn and Hadamitzky)",
+                "474": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "697": "Kanji in Context (Nishiguchi and Kono)",
+                "426": "Kodansha Compact Kanji Guide",
+                "3160": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1623": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2209": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "922": "Les Kanjis dans la tete (Yves Maniette)",
+                "6181": "Morohashi",
+                "2553": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1204": "New Nelson (John Haig)",
+                "913": "Remembering The Kanji (James Heisig)",
+                "979": "Remembering The Kanji, 6th edition (James Heisig)",
+                "291": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2269": "2001 Kanji",
+                "5d3.2": "The Kanji Dictionary",
+                "2-5-3": "SKIP code",
+                "2-1-7": "SKIP code",
+                "2040.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-49": "JIS X 0208-1997 kuten code",
+                "59d4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まかせ"
+                ],
+                "chinese": [
+                    "wei3",
+                    "wei1"
+                ],
+                "korean": [
+                    "wi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "禾"
+            ],
+            "basis": "女",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "委ねる",
+                    "reading": "ゆだねる",
+                    "meanings": [
+                        "to entrust (a matter) to",
+                        "to leave to",
+                        "to abandon oneself to (e.g. pleasure)",
+                        "to yield to (e.g. anger)",
+                        "to devote oneself to"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "委員会",
+                    "reading": "イインカイ",
+                    "meanings": [
+                        "committee",
+                        "commission",
+                        "board",
+                        "panel",
+                        "committee meeting"
+                    ]
+                },
+                {
+                    "kanji": "委員",
+                    "reading": "イイン",
+                    "meanings": [
+                        "committee member"
+                    ]
+                },
+                {
+                    "kanji": "公取委",
+                    "reading": "コウトリイ",
+                    "meanings": [
+                        "Japan Fair Trade Commission"
+                    ]
+                },
+                {
+                    "kanji": "公委",
+                    "reading": "コウイ",
+                    "meanings": [
+                        "public safety commission"
+                    ]
+                }
+            ]
+        }
+    }
+}

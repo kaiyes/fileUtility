@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"義\"",
+        "strokes": 13,
+        "main_meanings": [
+            "righteousness",
+            "justice",
+            "morality",
+            "honor",
+            "loyalty",
+            "meaning"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ギ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "580": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "674": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "645": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "287": "A New Dictionary of Kanji Usage",
+                "3668": "Classic Nelson (Andrew Nelson)",
+                "244": "Essential Kanji (P.G. O’Neill)",
+                "1658": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1975": "Japanese Names (P.G. O’Neill)",
+                "291": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "493": "Kanji in Context (Nishiguchi and Kono)",
+                "1568": "Kodansha Compact Kanji Guide",
+                "2948": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1514": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2052": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "648": "Les Kanjis dans la tete (Yves Maniette)",
+                "28504": "Morohashi",
+                "2338": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4668": "New Nelson (John Haig)",
+                "641": "Remembering The Kanji (James Heisig)",
+                "691": "Remembering The Kanji, 6th edition (James Heisig)",
+                "62": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "771": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "959": "2001 Kanji",
+                "2o11.3": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "2-6-7": "SKIP code",
+                "2-2-11": "SKIP code",
+                "8055.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-33": "JIS X 0208-1997 kuten code",
+                "7fa9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ただし、 ちか、 のり、 よし"
+                ],
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "eui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺶"
+            ],
+            "meaning": "sheep",
+            "parts": [
+                "一",
+                "亅",
+                "并",
+                "手",
+                "戈",
+                "王",
+                "羊"
+            ],
+            "basis": "羊",
+            "kangxi_order": 123,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "義",
+                    "reading": "ギ",
+                    "meanings": [
+                        "morality",
+                        "righteousness",
+                        "justice",
+                        "honour (honor)",
+                        "meaning",
+                        "teachings",
+                        "doctrine",
+                        "nonconsanguineous relationship (i.e. of in-laws)",
+                        "prosthesis"
+                    ]
+                },
+                {
+                    "kanji": "義援金",
+                    "reading": "ギエンキン",
+                    "meanings": [
+                        "donation money (esp. disaster relief or charity)",
+                        "contribution"
+                    ]
+                },
+                {
+                    "kanji": "疑義",
+                    "reading": "ギギ",
+                    "meanings": [
+                        "doubt"
+                    ]
+                },
+                {
+                    "kanji": "大義",
+                    "reading": "タイギ",
+                    "meanings": [
+                        "great cause",
+                        "moral law",
+                        "justice"
+                    ]
+                }
+            ]
+        }
+    }
+}

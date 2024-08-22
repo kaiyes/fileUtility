@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"炎\"",
+        "strokes": 8,
+        "main_meanings": [
+            "inflammation",
+            "flame",
+            "blaze"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほのお"
+            ],
+            "on": [
+                "エン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1024": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1231": "A New Dictionary of Kanji Usage",
+                "2751": "Classic Nelson (Andrew Nelson)",
+                "1727": "Essential Kanji (P.G. O’Neill)",
+                "1513": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "697": "Japanese Names (P.G. O’Neill)",
+                "1336": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1419": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1803": "Kanji in Context (Nishiguchi and Kono)",
+                "1264": "Kodansha Compact Kanji Guide",
+                "3075": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1568": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2145": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "164": "Les Kanjis dans la tete (Yves Maniette)",
+                "18910": "Morohashi",
+                "2420": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3404": "New Nelson (John Haig)",
+                "162": "Remembering The Kanji (James Heisig)",
+                "174": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1207": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1162": "2001 Kanji",
+                "4d4.4": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "9080.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-74": "JIS X 0208-1997 kuten code",
+                "708e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぬく"
+                ],
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "yeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "火"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "炎",
+                    "reading": "ほのお",
+                    "meanings": [
+                        "flame",
+                        "blaze",
+                        "flames (of intense emotion",
+                        "e.g. love",
+                        "jealousy",
+                        "anger)",
+                        "passion"
+                    ]
+                },
+                {
+                    "kanji": "炎検出器",
+                    "reading": "ほのおけんしゅつき",
+                    "meanings": [
+                        "flame detector"
+                    ]
+                },
+                {
+                    "kanji": "瞋恚の炎",
+                    "reading": "しんいのほのお",
+                    "meanings": [
+                        "intense antipathy (like a blazing fire)",
+                        "flames of rage"
+                    ]
+                },
+                {
+                    "kanji": "嫉妬の炎",
+                    "reading": "しっとのほのお",
+                    "meanings": [
+                        "flames of jealousy"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "炎",
+                    "reading": "エン",
+                    "meanings": [
+                        "-itis (indicating an inflammatory disease)"
+                    ]
+                },
+                {
+                    "kanji": "炎症",
+                    "reading": "エンショウ",
+                    "meanings": [
+                        "inflammation",
+                        "irritation"
+                    ]
+                },
+                {
+                    "kanji": "脳炎",
+                    "reading": "ノウエン",
+                    "meanings": [
+                        "brain inflammation",
+                        "encephalitis",
+                        "cerebritis"
+                    ]
+                },
+                {
+                    "kanji": "胃炎",
+                    "reading": "イエン",
+                    "meanings": [
+                        "gastritis",
+                        "gastric catarrh"
+                    ]
+                }
+            ]
+        }
+    }
+}

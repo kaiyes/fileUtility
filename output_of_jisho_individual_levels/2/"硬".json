@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"硬\"",
+        "strokes": 12,
+        "main_meanings": [
+            "stiff",
+            "hard"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた.い"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1260": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1149": "A New Dictionary of Kanji Usage",
+                "3193": "Classic Nelson (Andrew Nelson)",
+                "1598": "Essential Kanji (P.G. O’Neill)",
+                "766": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1635": "Japanese Names (P.G. O’Neill)",
+                "1009": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1046": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1309": "Kanji in Context (Nishiguchi and Kono)",
+                "1403": "Kodansha Compact Kanji Guide",
+                "1518": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "802": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1095": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "702": "Les Kanjis dans la tete (Yves Maniette)",
+                "24230": "Morohashi",
+                "1183": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4008": "New Nelson (John Haig)",
+                "695": "Remembering The Kanji (James Heisig)",
+                "750": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1571": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3366": "2001 Kanji",
+                "5a7.1": "The Kanji Dictionary",
+                "1-5-7": "SKIP code",
+                "1164.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-37": "JIS X 0208-1997 kuten code",
+                "786c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ying4"
+                ],
+                "korean": [
+                    "gyeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "一",
+                "ノ",
+                "口",
+                "日",
+                "田",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "硬い",
+                    "reading": "かたい",
+                    "meanings": [
+                        "hard",
+                        "solid",
+                        "tough",
+                        "stiff",
+                        "tight",
+                        "wooden",
+                        "unpolished (e.g. writing)",
+                        "strong",
+                        "firm (not viscous or easily moved)",
+                        "safe",
+                        "steady",
+                        "honest",
+                        "steadfast",
+                        "obstinate",
+                        "stubborn",
+                        "bookish",
+                        "formal",
+                        "stuffy"
+                    ]
+                },
+                {
+                    "kanji": "かたいことは言いっこなし",
+                    "reading": "かたいことはいいっこなし",
+                    "meanings": [
+                        "let's put formalities aside",
+                        "let's not speak so stiffly"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "硬",
+                    "reading": "コウ",
+                    "meanings": [
+                        "hardness"
+                    ]
+                },
+                {
+                    "kanji": "硬貨",
+                    "reading": "コウカ",
+                    "meanings": [
+                        "coin",
+                        "hard currency"
+                    ]
+                },
+                {
+                    "kanji": "生硬",
+                    "reading": "セイコウ",
+                    "meanings": [
+                        "crude",
+                        "immature",
+                        "unpolished"
+                    ]
+                },
+                {
+                    "kanji": "重硬",
+                    "reading": "ジュウコウ",
+                    "meanings": [
+                        "heavy and hard (of a wood)"
+                    ]
+                }
+            ]
+        }
+    }
+}

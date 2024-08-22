@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"盲\"",
+        "strokes": 8,
+        "main_meanings": [
+            "blind",
+            "blind man",
+            "ignoramus"
+        ],
+        "main_readings": {
+            "kun": [
+                "めくら"
+            ],
+            "on": [
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1852": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1499": "A New Dictionary of Kanji Usage",
+                "297": "Classic Nelson (Andrew Nelson)",
+                "1177": "Essential Kanji (P.G. O’Neill)",
+                "1558": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "936": "Japanese Names (P.G. O’Neill)",
+                "1375": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1462": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1278": "Kanji in Context (Nishiguchi and Kono)",
+                "1378": "Kodansha Compact Kanji Guide",
+                "2547": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1298": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1767": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "497": "Les Kanjis dans la tete (Yves Maniette)",
+                "23132X": "Morohashi",
+                "2053": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3907": "New Nelson (John Haig)",
+                "486": "Remembering The Kanji (James Heisig)",
+                "525": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1210": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "479": "2001 Kanji",
+                "2j6.6": "The Kanji Dictionary",
+                "2-2-6": "SKIP code",
+                "0060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-53": "JIS X 0208-1997 kuten code",
+                "76f2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mang2"
+                ],
+                "korean": [
+                    "maeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eye",
+            "parts": [
+                "亠",
+                "亡",
+                "目"
+            ],
+            "basis": "目",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "盲",
+                    "reading": "めくら",
+                    "meanings": [
+                        "blindness",
+                        "blind person",
+                        "illiteracy",
+                        "illiterate person",
+                        "ignorance",
+                        "ignoramus"
+                    ]
+                },
+                {
+                    "kanji": "盲穴",
+                    "reading": "めくらあな",
+                    "meanings": [
+                        "blind hole"
+                    ]
+                },
+                {
+                    "kanji": "俄盲",
+                    "reading": "にわかめくら",
+                    "meanings": [
+                        "sudden blindness",
+                        "one suddenly blinded"
+                    ]
+                },
+                {
+                    "kanji": "作り盲",
+                    "reading": "つくりめくら",
+                    "meanings": [
+                        "feigned blindness"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "盲",
+                    "reading": "モウ",
+                    "meanings": [
+                        "blindness"
+                    ]
+                },
+                {
+                    "kanji": "盲学校",
+                    "reading": "モウガッコウ",
+                    "meanings": [
+                        "school for the blind"
+                    ]
+                },
+                {
+                    "kanji": "全盲",
+                    "reading": "ゼンモウ",
+                    "meanings": [
+                        "total blindness"
+                    ]
+                },
+                {
+                    "kanji": "衆盲",
+                    "reading": "シュウモウ",
+                    "meanings": [
+                        "the blind masses",
+                        "the ignorant masses",
+                        "the unenlightened masses",
+                        "many blind people"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"法\"",
+        "strokes": 8,
+        "main_meanings": [
+            "method",
+            "law",
+            "rule",
+            "principle",
+            "model",
+            "system"
+        ],
+        "main_readings": {
+            "kun": [
+                "のり"
+            ],
+            "on": [
+                "ホウ",
+                "ハッ",
+                "ホッ",
+                "フラン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "513": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "612": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "584": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "145": "A New Dictionary of Kanji Usage",
+                "2535": "Classic Nelson (Andrew Nelson)",
+                "213": "Essential Kanji (P.G. O’Neill)",
+                "676": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "824": "Japanese Names (P.G. O’Neill)",
+                "123": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "518": "Kanji in Context (Nishiguchi and Kono)",
+                "1181": "Kodansha Compact Kanji Guide",
+                "391": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "248": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "295": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "758": "Les Kanjis dans la tete (Yves Maniette)",
+                "17290": "Morohashi",
+                "333": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3107": "New Nelson (John Haig)",
+                "751": "Remembering The Kanji (James Heisig)",
+                "813": "Remembering The Kanji, 6th edition (James Heisig)",
+                "100": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "516": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "371": "2001 Kanji",
+                "3a5.20": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3413.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-01": "JIS X 0208-1997 kuten code",
+                "6cd5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ほ"
+                ],
+                "chinese": [
+                    "fa3",
+                    "fa4"
+                ],
+                "korean": [
+                    "beob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "厶",
+                "土",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "佱"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "法",
+                    "reading": "のり",
+                    "meanings": [
+                        "rule",
+                        "law",
+                        "regulation",
+                        "model",
+                        "pattern",
+                        "teachings of Buddha",
+                        "Buddhist doctrine",
+                        "transverse measurement",
+                        "measurement across",
+                        "side-slope",
+                        "slope"
+                    ]
+                },
+                {
+                    "kanji": "法の筵",
+                    "reading": "のりのむしろ",
+                    "meanings": [
+                        "preaching place"
+                    ]
+                },
+                {
+                    "kanji": "内法",
+                    "reading": "うちのり",
+                    "meanings": [
+                        "inside measure"
+                    ]
+                },
+                {
+                    "kanji": "外法",
+                    "reading": "そとのり",
+                    "meanings": [
+                        "outside measurements"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "法",
+                    "reading": "ホウ",
+                    "meanings": [
+                        "law",
+                        "act",
+                        "principle",
+                        "method",
+                        "mood",
+                        "dharma",
+                        "law"
+                    ]
+                },
+                {
+                    "kanji": "法案",
+                    "reading": "ホウアン",
+                    "meanings": [
+                        "bill (law)",
+                        "measure"
+                    ]
+                },
+                {
+                    "kanji": "航法",
+                    "reading": "コウホウ",
+                    "meanings": [
+                        "sailing",
+                        "navigation"
+                    ]
+                },
+                {
+                    "kanji": "会社更生法",
+                    "reading": "カイシャコウセイホウ",
+                    "meanings": [
+                        "Corporate Rehabilitation Law"
+                    ]
+                },
+                {
+                    "kanji": "法被",
+                    "reading": "ハッピ",
+                    "meanings": [
+                        "happi coat",
+                        "happy coat",
+                        "workman's livery coat",
+                        "traditional Japanese straight-sleeved coat"
+                    ]
+                },
+                {
+                    "kanji": "法度",
+                    "reading": "ハット",
+                    "meanings": [
+                        "ban",
+                        "prohibition",
+                        "taboo",
+                        "something forbidden",
+                        "law",
+                        "ordinance (esp. in the middle ages)"
+                    ]
+                },
+                {
+                    "kanji": "法師",
+                    "reading": "ホウシ",
+                    "meanings": [
+                        "Buddhist priest",
+                        "bonze",
+                        "layman dressed like a priest",
+                        "person"
+                    ]
+                },
+                {
+                    "kanji": "法華経",
+                    "reading": "ホケキョウ",
+                    "meanings": [
+                        "Lotus Sutra"
+                    ]
+                }
+            ]
+        }
+    }
+}

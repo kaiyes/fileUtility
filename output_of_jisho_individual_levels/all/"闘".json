@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"闘\"",
+        "strokes": 18,
+        "main_meanings": [
+            "fight",
+            "war"
+        ],
+        "main_readings": {
+            "kun": [
+                "たたか.う",
+                "あらそ.う"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1659": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "654": "A New Dictionary of Kanji Usage",
+                "4973": "Classic Nelson (Andrew Nelson)",
+                "1056": "Essential Kanji (P.G. O’Neill)",
+                "1865": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1511": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1612": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1328": "Kanji in Context (Nishiguchi and Kono)",
+                "1847": "Kodansha Compact Kanji Guide",
+                "4136": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2102": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2847": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1644": "Les Kanjis dans la tete (Yves Maniette)",
+                "45649P": "Morohashi",
+                "3334": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6418": "New Nelson (John Haig)",
+                "1629": "Remembering The Kanji (James Heisig)",
+                "1757": "Remembering The Kanji, 6th edition (James Heisig)",
+                "367": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1910": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3848": "2001 Kanji",
+                "8e10.2": "The Kanji Dictionary",
+                "3-8-10": "SKIP code",
+                "1-11-7": "SKIP code",
+                "7714.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-14": "JIS X 0208-1997 kuten code",
+                "95d8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "と"
+                ],
+                "chinese": [
+                    "dou4",
+                    "dou3"
+                ],
+                "korean": [
+                    "tu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "gate",
+            "parts": [
+                "并",
+                "口",
+                "寸",
+                "豆",
+                "門"
+            ],
+            "basis": "門",
+            "kangxi_order": 169,
+            "variants": [
+                "鬪"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "戦う",
+                    "reading": "たたかう",
+                    "meanings": [
+                        "to make war (on)",
+                        "to wage war (against)",
+                        "to go to war (with)",
+                        "to fight (with)",
+                        "to do battle (against)",
+                        "to compete (against)",
+                        "to struggle (against adversities",
+                        "etc.)",
+                        "to fight",
+                        "to contend",
+                        "to resist"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "闘士",
+                    "reading": "トウシ",
+                    "meanings": [
+                        "fighter (for)",
+                        "militant",
+                        "champion (of)",
+                        "boxer"
+                    ]
+                },
+                {
+                    "kanji": "闘志",
+                    "reading": "トウシ",
+                    "meanings": [
+                        "fighting spirit",
+                        "(will to) fight"
+                    ]
+                },
+                {
+                    "kanji": "敢闘",
+                    "reading": "カントウ",
+                    "meanings": [
+                        "fighting bravely"
+                    ]
+                },
+                {
+                    "kanji": "共闘",
+                    "reading": "キョウトウ",
+                    "meanings": [
+                        "joint struggle",
+                        "common (united) front"
+                    ]
+                }
+            ]
+        }
+    }
+}

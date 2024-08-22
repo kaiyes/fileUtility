@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"礎\"",
+        "strokes": 18,
+        "main_meanings": [
+            "cornerstone",
+            "foundation stone"
+        ],
+        "main_readings": {
+            "kun": [
+                "いしずえ"
+            ],
+            "on": [
+                "ソ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1512": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1268": "A New Dictionary of Kanji Usage",
+                "3222": "Classic Nelson (Andrew Nelson)",
+                "1701": "Essential Kanji (P.G. O’Neill)",
+                "1576": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2730": "Japanese Names (P.G. O’Neill)",
+                "1515": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1616": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "692": "Kanji in Context (Nishiguchi and Kono)",
+                "1412": "Kodansha Compact Kanji Guide",
+                "1595": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "842": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1152": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "401": "Les Kanjis dans la tete (Yves Maniette)",
+                "24522": "Morohashi",
+                "1248": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4054": "New Nelson (John Haig)",
+                "394": "Remembering The Kanji (James Heisig)",
+                "421": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1898": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3370": "2001 Kanji",
+                "5a13.2": "The Kanji Dictionary",
+                "1-5-13": "SKIP code",
+                "1468.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-35": "JIS X 0208-1997 kuten code",
+                "790e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "もと"
+                ],
+                "chinese": [
+                    "chu3"
+                ],
+                "korean": [
+                    "cho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "口",
+                "木",
+                "疋",
+                "石"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "礎",
+                    "reading": "いしずえ",
+                    "meanings": [
+                        "foundation stone",
+                        "cornerstone"
+                    ]
+                },
+                {
+                    "kanji": "礎を築く",
+                    "reading": "いしずえをきずく",
+                    "meanings": [
+                        "to lay the foundation (for)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "素案",
+                    "reading": "ソアン",
+                    "meanings": [
+                        "rough plan",
+                        "draft"
+                    ]
+                },
+                {
+                    "kanji": "礎石",
+                    "reading": "ソセキ",
+                    "meanings": [
+                        "foundation stone",
+                        "cornerstone"
+                    ]
+                },
+                {
+                    "kanji": "定礎",
+                    "reading": "テイソ",
+                    "meanings": [
+                        "laying a cornerstone (foundation stone)"
+                    ]
+                },
+                {
+                    "kanji": "柱礎",
+                    "reading": "チュウソ",
+                    "meanings": [
+                        "plinth"
+                    ]
+                }
+            ]
+        }
+    }
+}

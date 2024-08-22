@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"位\"",
+        "strokes": 7,
+        "main_meanings": [
+            "rank",
+            "grade",
+            "throne",
+            "crown",
+            "about",
+            "some"
+        ],
+        "main_readings": {
+            "kun": [
+                "くらい",
+                "ぐらい"
+            ],
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "344": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "445": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "421": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "482": "A New Dictionary of Kanji Usage",
+                "401": "Classic Nelson (Andrew Nelson)",
+                "122": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "312": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "354": "Japanese Names (P.G. O’Neill)",
+                "417": "Kanji in Context (Nishiguchi and Kono)",
+                "72": "Kodansha Compact Kanji Guide",
+                "69": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "42": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "45": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "964": "Les Kanjis dans la tete (Yves Maniette)",
+                "503": "Morohashi",
+                "61": "New Japanese English Character Dictionary (Jack Halpern)",
+                "162": "New Nelson (John Haig)",
+                "955": "Remembering The Kanji (James Heisig)",
+                "1028": "Remembering The Kanji, 6th edition (James Heisig)",
+                "319": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "473": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2173": "2001 Kanji",
+                "2a5.1": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "2021.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-44": "JIS X 0208-1997 kuten code",
+                "4f4d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぞき"
+                ],
+                "chinese": [
+                    "wei4"
+                ],
+                "korean": [
+                    "wi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "立"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "位",
+                    "reading": "くらい",
+                    "meanings": [
+                        "throne",
+                        "crown",
+                        "(nobleman's) seat",
+                        "government position",
+                        "court rank",
+                        "social standing",
+                        "rank",
+                        "class",
+                        "echelon",
+                        "rung",
+                        "grade (of quality",
+                        "etc.)",
+                        "level",
+                        "tier",
+                        "rank",
+                        "position of a figure (e.g. tens",
+                        "thousands)",
+                        "digit",
+                        "(decimal) place"
+                    ]
+                },
+                {
+                    "kanji": "位が昇る",
+                    "reading": "くらいがのぼる",
+                    "meanings": [
+                        "to rise in rank"
+                    ]
+                },
+                {
+                    "kanji": "どれ位",
+                    "reading": "どれくらい",
+                    "meanings": [
+                        "how long",
+                        "how far",
+                        "how much"
+                    ]
+                },
+                {
+                    "kanji": "申し訳ないくらい",
+                    "reading": "もうしわけないくらい",
+                    "meanings": [
+                        "to the extent it makes one feel apologetic",
+                        "so (much",
+                        "good",
+                        "etc.) that one feels guilty"
+                    ]
+                },
+                {
+                    "kanji": "どれ位",
+                    "reading": "どれくらい",
+                    "meanings": [
+                        "how long",
+                        "how far",
+                        "how much"
+                    ]
+                },
+                {
+                    "kanji": "申し訳ないくらい",
+                    "reading": "もうしわけないくらい",
+                    "meanings": [
+                        "to the extent it makes one feel apologetic",
+                        "so (much",
+                        "good",
+                        "etc.) that one feels guilty"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "位",
+                    "reading": "イ",
+                    "meanings": [
+                        "rank",
+                        "place (e.g. first place)",
+                        "decimal place",
+                        "counter for ghosts"
+                    ]
+                },
+                {
+                    "kanji": "位置",
+                    "reading": "イチ",
+                    "meanings": [
+                        "place",
+                        "position",
+                        "location",
+                        "position",
+                        "standing",
+                        "status",
+                        "situation"
+                    ]
+                },
+                {
+                    "kanji": "一位",
+                    "reading": "イチイ",
+                    "meanings": [
+                        "first place",
+                        "first rank",
+                        "units position (of a number)"
+                    ]
+                },
+                {
+                    "kanji": "高位",
+                    "reading": "コウイ",
+                    "meanings": [
+                        "dignity",
+                        "eminent",
+                        "high ranking",
+                        "high-order (digit",
+                        "bit",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

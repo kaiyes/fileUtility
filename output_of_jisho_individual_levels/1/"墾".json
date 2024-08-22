@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"墾\"",
+        "strokes": 16,
+        "main_meanings": [
+            "ground-breaking",
+            "open up farmland"
+        ],
+        "main_readings": {
+            "kun": [
+                "は.る",
+                "ひら.く"
+            ],
+            "on": [
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1281": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1962": "A New Dictionary of Kanji Usage",
+                "1142": "Classic Nelson (Andrew Nelson)",
+                "1576": "Essential Kanji (P.G. O’Neill)",
+                "1169": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2702": "Japanese Names (P.G. O’Neill)",
+                "1136": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1188": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1798": "Kanji in Context (Nishiguchi and Kono)",
+                "365": "Kodansha Compact Kanji Guide",
+                "3602": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1850": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2516": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1989": "Les Kanjis dans la tete (Yves Maniette)",
+                "5509": "Morohashi",
+                "2896": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1097": "New Nelson (John Haig)",
+                "1971": "Remembering The Kanji (James Heisig)",
+                "2124": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1823": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2072": "2001 Kanji",
+                "3b13.6": "The Kanji Dictionary",
+                "2-13-3": "SKIP code",
+                "2710.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-06": "JIS X 0208-1997 kuten code",
+                "58be": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ken3"
+                ],
+                "korean": [
+                    "gan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "土",
+                "犯",
+                "爪",
+                "艮",
+                "豸"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "墾く",
+                    "reading": "ひらく",
+                    "meanings": [
+                        "to cultivate (land)",
+                        "to clear (land)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "墾田",
+                    "reading": "コンデン",
+                    "meanings": [
+                        "new rice field"
+                    ]
+                },
+                {
+                    "kanji": "未開墾",
+                    "reading": "ミカイコン",
+                    "meanings": [
+                        "uncultivated",
+                        "wild"
+                    ]
+                },
+                {
+                    "kanji": "未墾",
+                    "reading": "ミコン",
+                    "meanings": [
+                        "uncultivated",
+                        "wild"
+                    ]
+                }
+            ]
+        }
+    }
+}

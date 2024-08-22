@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宇\"",
+        "strokes": 6,
+        "main_meanings": [
+            "eaves",
+            "roof",
+            "house",
+            "heaven"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "829": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "811": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "757": "A New Dictionary of Kanji Usage",
+                "1280": "Classic Nelson (Andrew Nelson)",
+                "1286": "Essential Kanji (P.G. O’Neill)",
+                "459": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "285": "Japanese Names (P.G. O’Neill)",
+                "990": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1027": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1252": "Kanji in Context (Nishiguchi and Kono)",
+                "465": "Kodansha Compact Kanji Guide",
+                "2699": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1377": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1863": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1672": "Les Kanjis dans la tete (Yves Maniette)",
+                "7067": "Morohashi",
+                "2175": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1309": "New Nelson (John Haig)",
+                "1656": "Remembering The Kanji (James Heisig)",
+                "1785": "Remembering The Kanji, 6th edition (James Heisig)",
+                "839": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "747": "2001 Kanji",
+                "3m3.3": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "3040.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-07": "JIS X 0208-1997 kuten code",
+                "5b87": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いえ、 たか、 ひろ、 ひろし"
+                ],
+                "chinese": [
+                    "yu3"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "亅",
+                "宀",
+                "干"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "宇",
+                    "reading": "ウ",
+                    "meanings": [
+                        "Ukraine"
+                    ]
+                },
+                {
+                    "kanji": "宇",
+                    "reading": "ウ",
+                    "meanings": [
+                        "counter for buildings",
+                        "roofs",
+                        "tents",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "大宇",
+                    "reading": "ダイウ",
+                    "meanings": [
+                        "Daewoo (car company)"
+                    ]
+                },
+                {
+                    "kanji": "航宇",
+                    "reading": "コウウ",
+                    "meanings": [
+                        "aerospace"
+                    ]
+                }
+            ]
+        }
+    }
+}

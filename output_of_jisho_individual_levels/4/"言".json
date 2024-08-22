@@ -1,0 +1,241 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"言\"",
+        "strokes": 7,
+        "main_meanings": [
+            "say",
+            "word"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.う",
+                "こと"
+            ],
+            "on": [
+                "ゲン",
+                "ゴン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "392": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "118": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "274": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "279": "A New Dictionary of Kanji Usage",
+                "4309": "Classic Nelson (Andrew Nelson)",
+                "43": "Essential Kanji (P.G. O’Neill)",
+                "85": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "439": "Japanese Names (P.G. O’Neill)",
+                "2.8": "Japanese for Busy People",
+                "66": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "203": "Kanji in Context (Nishiguchi and Kono)",
+                "1653": "Kodansha Compact Kanji Guide",
+                "2440": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1233": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1698": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "341": "Les Kanjis dans la tete (Yves Maniette)",
+                "35205": "Morohashi",
+                "1941": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5552": "New Nelson (John Haig)",
+                "335": "Remembering The Kanji (James Heisig)",
+                "357": "Remembering The Kanji, 6th edition (James Heisig)",
+                "44": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "142": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3077": "2001 Kanji",
+                "7a0.1": "The Kanji Dictionary",
+                "2-1-6": "SKIP code",
+                "0060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-32": "JIS X 0208-1997 kuten code",
+                "8a00": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とき"
+                ],
+                "chinese": [
+                    "yan2"
+                ],
+                "korean": [
+                    "eon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "言う",
+                    "reading": "いう",
+                    "meanings": [
+                        "to say",
+                        "to utter",
+                        "to declare",
+                        "to name",
+                        "to call",
+                        "to go (e.g. \"the alarm went ping\")",
+                        "to make a noise"
+                    ]
+                },
+                {
+                    "kanji": "言うまでもない",
+                    "reading": "いうまでもない",
+                    "meanings": [
+                        "goes without saying",
+                        "needless to say",
+                        "obvious"
+                    ]
+                },
+                {
+                    "kanji": "言",
+                    "reading": "げん",
+                    "meanings": [
+                        "word",
+                        "remark",
+                        "statement"
+                    ]
+                },
+                {
+                    "kanji": "言葉",
+                    "reading": "ことば",
+                    "meanings": [
+                        "language",
+                        "dialect",
+                        "word",
+                        "phrase",
+                        "expression",
+                        "term",
+                        "speech",
+                        "(manner of) speaking",
+                        "(use of) language",
+                        "words",
+                        "remark",
+                        "statement",
+                        "comment",
+                        "learning to speak",
+                        "language acquisition"
+                    ]
+                },
+                {
+                    "kanji": "禍言",
+                    "reading": "まがごと",
+                    "meanings": [
+                        "ominous word",
+                        "ill-omened word",
+                        "misfortune"
+                    ]
+                },
+                {
+                    "kanji": "二言",
+                    "reading": "ふたこと",
+                    "meanings": [
+                        "two words",
+                        "repetition"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "言",
+                    "reading": "ゲン",
+                    "meanings": [
+                        "word",
+                        "remark",
+                        "statement"
+                    ]
+                },
+                {
+                    "kanji": "言及",
+                    "reading": "ゲンキュウ",
+                    "meanings": [
+                        "reference",
+                        "allusion"
+                    ]
+                },
+                {
+                    "kanji": "過言",
+                    "reading": "カゴン",
+                    "meanings": [
+                        "exaggeration",
+                        "overstatement",
+                        "saying too much",
+                        "misstatement",
+                        "slip of the tongue",
+                        "gaffe"
+                    ]
+                },
+                {
+                    "kanji": "狂言",
+                    "reading": "キョウゲン",
+                    "meanings": [
+                        "kyogen",
+                        "farce presented between noh plays or during the interlude of a noh play",
+                        "kabuki play",
+                        "kabuki performance",
+                        "make-believe",
+                        "ruse",
+                        "trick"
+                    ]
+                },
+                {
+                    "kanji": "言語",
+                    "reading": "ゲンゴ",
+                    "meanings": [
+                        "language"
+                    ]
+                },
+                {
+                    "kanji": "言下",
+                    "reading": "ゲンカ",
+                    "meanings": [
+                        "promptly"
+                    ]
+                },
+                {
+                    "kanji": "過言",
+                    "reading": "カゴン",
+                    "meanings": [
+                        "exaggeration",
+                        "overstatement",
+                        "saying too much",
+                        "misstatement",
+                        "slip of the tongue",
+                        "gaffe"
+                    ]
+                },
+                {
+                    "kanji": "二言",
+                    "reading": "ニゴン",
+                    "meanings": [
+                        "double-dealing",
+                        "double tongue",
+                        "going back on what one has said",
+                        "repeating oneself"
+                    ]
+                }
+            ]
+        }
+    }
+}

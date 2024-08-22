@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"適\"",
+        "strokes": 14,
+        "main_meanings": [
+            "suitable",
+            "occasional",
+            "rare",
+            "qualified",
+            "capable"
+        ],
+        "main_readings": {
+            "kun": [
+                "かな.う"
+            ],
+            "on": [
+                "テキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "679": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "778": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "755": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "663": "A New Dictionary of Kanji Usage",
+                "4738": "Classic Nelson (Andrew Nelson)",
+                "453": "Essential Kanji (P.G. O’Neill)",
+                "966": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2240": "Japanese Names (P.G. O’Neill)",
+                "415": "Kanji and Kana (Spahn and Hadamitzky)",
+                "421": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "657": "Kanji in Context (Nishiguchi and Kono)",
+                "718": "Kodansha Compact Kanji Guide",
+                "3918": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2020": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2726": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "448": "Les Kanjis dans la tete (Yves Maniette)",
+                "39076P": "Morohashi",
+                "3160": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6107": "New Nelson (John Haig)",
+                "441": "Remembering The Kanji (James Heisig)",
+                "473": "Remembering The Kanji, 6th edition (James Heisig)",
+                "799": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "449": "2001 Kanji",
+                "2q11.3": "The Kanji Dictionary",
+                "3-3-11": "SKIP code",
+                "3-2-11": "SKIP code",
+                "3030.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-12": "JIS X 0208-1997 kuten code",
+                "9069": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi4",
+                    "kuo4"
+                ],
+                "korean": [
+                    "jeog",
+                    "cheog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "亠",
+                "并",
+                "冂",
+                "十",
+                "込",
+                "口",
+                "立",
+                "滴"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "叶う",
+                    "reading": "かなう",
+                    "meanings": [
+                        "to come true (of a wish",
+                        "prayer",
+                        "etc.)",
+                        "to be realized",
+                        "to be fulfilled",
+                        "to suit (e.g. a purpose)",
+                        "to meet (wishes",
+                        "ideals",
+                        "etc.)",
+                        "to conform to (standards",
+                        "rules",
+                        "etc.)",
+                        "to be consistent with",
+                        "to match (implies competition)",
+                        "to rival",
+                        "to bear (e.g. the heat)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "適格",
+                    "reading": "テキカク",
+                    "meanings": [
+                        "eligible",
+                        "qualified",
+                        "competent"
+                    ]
+                },
+                {
+                    "kanji": "適応",
+                    "reading": "テキオウ",
+                    "meanings": [
+                        "adaptation",
+                        "accommodation",
+                        "conformity"
+                    ]
+                },
+                {
+                    "kanji": "不適",
+                    "reading": "フテキ",
+                    "meanings": [
+                        "inadequacy",
+                        "inappropriateness",
+                        "unfitness",
+                        "impropriety"
+                    ]
+                },
+                {
+                    "kanji": "悠々自適",
+                    "reading": "ユウユウジテキ",
+                    "meanings": [
+                        "living a life of leisure with dignity",
+                        "living quietly and comfortably free from worldly cares",
+                        "otium cum dignitate"
+                    ]
+                }
+            ]
+        }
+    }
+}

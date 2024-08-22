@@ -1,0 +1,185 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"他\"",
+        "strokes": 5,
+        "main_meanings": [
+            "other",
+            "another",
+            "the others"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほか"
+            ],
+            "on": [
+                "タ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "459": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "354": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "334": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "355": "A New Dictionary of Kanji Usage",
+                "361": "Classic Nelson (Andrew Nelson)",
+                "520": "Essential Kanji (P.G. O’Neill)",
+                "301": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "129": "Japanese Names (P.G. O’Neill)",
+                "120": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "415": "Kanji in Context (Nishiguchi and Kono)",
+                "60": "Kodansha Compact Kanji Guide",
+                "39": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "22": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "23": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "970": "Les Kanjis dans la tete (Yves Maniette)",
+                "370": "Morohashi",
+                "35": "New Japanese English Character Dictionary (Jack Halpern)",
+                "122": "New Nelson (John Haig)",
+                "961": "Remembering The Kanji (James Heisig)",
+                "1034": "Remembering The Kanji, 6th edition (James Heisig)",
+                "172": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "255": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2156": "2001 Kanji",
+                "2a3.4": "The Kanji Dictionary",
+                "1-2-3": "SKIP code",
+                "2421.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-30": "JIS X 0208-1997 kuten code",
+                "4ed6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ta1"
+                ],
+                "korean": [
+                    "ta"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "也"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "他",
+                    "reading": "ほか",
+                    "meanings": [
+                        "another place",
+                        "some other place",
+                        "somewhere else",
+                        "outside",
+                        "another (person or thing)",
+                        "other",
+                        "different",
+                        "something else",
+                        "someone else",
+                        "the rest",
+                        "et al.",
+                        "beyond (one's expectations",
+                        "imagination",
+                        "etc.)",
+                        "outside",
+                        "except",
+                        "but",
+                        "other than",
+                        "apart from",
+                        "besides",
+                        "in addition to",
+                        "as well as",
+                        "on top of"
+                    ]
+                },
+                {
+                    "kanji": "他に",
+                    "reading": "ほかに",
+                    "meanings": [
+                        "else",
+                        "in addition",
+                        "besides"
+                    ]
+                },
+                {
+                    "kanji": "思いのほか",
+                    "reading": "おもいのほか",
+                    "meanings": [
+                        "unexpectedly",
+                        "surprisingly"
+                    ]
+                },
+                {
+                    "kanji": "殊の外",
+                    "reading": "ことのほか",
+                    "meanings": [
+                        "exceedingly",
+                        "extremely",
+                        "exceptionally",
+                        "unusually",
+                        "unexpectedly"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "他",
+                    "reading": "タ",
+                    "meanings": [
+                        "other (esp. people and abstract matters)"
+                    ]
+                },
+                {
+                    "kanji": "他国",
+                    "reading": "タコク",
+                    "meanings": [
+                        "foreign country",
+                        "other country",
+                        "another province",
+                        "strange land",
+                        "alien land"
+                    ]
+                },
+                {
+                    "kanji": "自他",
+                    "reading": "ジタ",
+                    "meanings": [
+                        "oneself and others",
+                        "subject and object",
+                        "transitivity",
+                        "transitive and intransitive verbs",
+                        "first person and third person",
+                        "self-salvation and salvation by faith"
+                    ]
+                },
+                {
+                    "kanji": "排他",
+                    "reading": "ハイタ",
+                    "meanings": [
+                        "exclusion"
+                    ]
+                }
+            ]
+        }
+    }
+}

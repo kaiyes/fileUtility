@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伽\"",
+        "strokes": 7,
+        "main_meanings": [
+            "nursing",
+            "attending",
+            "entertainer"
+        ],
+        "main_readings": {
+            "kun": [
+                "とぎ"
+            ],
+            "on": [
+                "カ",
+                "ガ",
+                "キャ",
+                "ギャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "398": "Classic Nelson (Andrew Nelson)",
+                "357": "Japanese Names (P.G. O’Neill)",
+                "2014": "Kanji and Kana (Spahn and Hadamitzky)",
+                "74": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "46": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "49": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "486": "Morohashi",
+                "159": "New Nelson (John Haig)",
+                "2115": "Remembering The Kanji (James Heisig)",
+                "2251": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2a5.12": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "2620.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-32": "JIS X 0208-1997 kuten code",
+                "4f3d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jia1",
+                    "qie2"
+                ],
+                "korean": [
+                    "ga"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "力",
+                "口"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "伽",
+                    "reading": "とぎ",
+                    "meanings": [
+                        "nursing",
+                        "nurse",
+                        "attending",
+                        "attendant",
+                        "entertainer"
+                    ]
+                },
+                {
+                    "kanji": "伽芝居",
+                    "reading": "とぎしばい",
+                    "meanings": [
+                        "fairy play",
+                        "pantomime"
+                    ]
+                },
+                {
+                    "kanji": "御伽",
+                    "reading": "おとぎ",
+                    "meanings": [
+                        "attending (upon)",
+                        "keeping another company"
+                    ]
+                },
+                {
+                    "kanji": "夜伽",
+                    "reading": "よとぎ",
+                    "meanings": [
+                        "attending someone through the night (of a guard",
+                        "nurse)",
+                        "sleeping with a man (at his bidding)",
+                        "overnight vigil before burial"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "伽耶",
+                    "reading": "カヤ",
+                    "meanings": [
+                        "Kaya (ancient Korean confederacy)",
+                        "Karak"
+                    ]
+                },
+                {
+                    "kanji": "伽耶琴",
+                    "reading": "カヤグム",
+                    "meanings": [
+                        "gayageum (12-stringed Korean zither)"
+                    ]
+                },
+                {
+                    "kanji": "閼伽",
+                    "reading": "アカ",
+                    "meanings": [
+                        "water offering to Buddha",
+                        "holy water"
+                    ]
+                },
+                {
+                    "kanji": "真那伽",
+                    "reading": "マナカ",
+                    "meanings": [
+                        "incense variety used in kōdō (orig. from Malacca)"
+                    ]
+                },
+                {
+                    "kanji": "伽藍",
+                    "reading": "ガラン",
+                    "meanings": [
+                        "temple (esp. large one)",
+                        "monastery",
+                        "temple building"
+                    ]
+                },
+                {
+                    "kanji": "伽藍鳥",
+                    "reading": "ガランチョウ",
+                    "meanings": [
+                        "pelican"
+                    ]
+                },
+                {
+                    "kanji": "瑜伽",
+                    "reading": "ユガ",
+                    "meanings": [
+                        "yoga"
+                    ]
+                },
+                {
+                    "kanji": "迦陵頻伽",
+                    "reading": "カリョウビンガ",
+                    "meanings": [
+                        "kalavinka",
+                        "imaginary bird in paradise that sings sweet notes",
+                        "person or creature with a beautiful voice"
+                    ]
+                },
+                {
+                    "kanji": "伽羅",
+                    "reading": "キャラ",
+                    "meanings": [
+                        "aloes wood (Taxus cuspidata var. nana)",
+                        "aloes-wood perfume",
+                        "aloes-wood incense"
+                    ]
+                },
+                {
+                    "kanji": "伽羅蕗",
+                    "reading": "キャラブキ",
+                    "meanings": [
+                        "stalks of butterbur boiled in soy sauce"
+                    ]
+                },
+                {
+                    "kanji": "僧伽",
+                    "reading": "ソウギャ",
+                    "meanings": [
+                        "sangha (the Buddhist community)"
+                    ]
+                }
+            ]
+        }
+    }
+}

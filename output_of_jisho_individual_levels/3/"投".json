@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"投\"",
+        "strokes": 7,
+        "main_meanings": [
+            "throw",
+            "discard",
+            "abandon",
+            "launch into",
+            "join",
+            "invest in",
+            "hurl",
+            "give up",
+            "sell at a loss"
+        ],
+        "main_readings": {
+            "kun": [
+                "な.げる",
+                "-な.げ"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "291": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "378": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "357": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "273": "A New Dictionary of Kanji Usage",
+                "1856": "Classic Nelson (Andrew Nelson)",
+                "653": "Essential Kanji (P.G. O’Neill)",
+                "559": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1021": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1060": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "282": "Kanji in Context (Nishiguchi and Kono)",
+                "862": "Kodansha Compact Kanji Guide",
+                "300": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "192": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "228": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "713": "Les Kanjis dans la tete (Yves Maniette)",
+                "11887": "Morohashi",
+                "256": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2095": "New Nelson (John Haig)",
+                "706": "Remembering The Kanji (James Heisig)",
+                "762": "Remembering The Kanji, 6th edition (James Heisig)",
+                "287": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1368": "2001 Kanji",
+                "3c4.18": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "5704.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-74": "JIS X 0208-1997 kuten code",
+                "6295": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tou2"
+                ],
+                "korean": [
+                    "tu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "几",
+                "又",
+                "扎",
+                "殳"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "投げる",
+                    "reading": "なげる",
+                    "meanings": [
+                        "to throw",
+                        "to hurl",
+                        "to fling",
+                        "to toss",
+                        "to cast",
+                        "to give up",
+                        "to abandon",
+                        "to throw away",
+                        "to cast (a glance",
+                        "shadow",
+                        "doubt",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "投",
+                    "reading": "トウ",
+                    "meanings": [
+                        "pitching ability",
+                        "counter for throws (of a javelin",
+                        "bowling ball",
+                        "etc.)",
+                        "counter for casts (of a line)"
+                    ]
+                },
+                {
+                    "kanji": "投下",
+                    "reading": "トウカ",
+                    "meanings": [
+                        "throwing down",
+                        "dropping",
+                        "airdrop",
+                        "investment"
+                    ]
+                },
+                {
+                    "kanji": "好投",
+                    "reading": "コウトウ",
+                    "meanings": [
+                        "good (nice) pitching"
+                    ]
+                },
+                {
+                    "kanji": "継投",
+                    "reading": "ケイトウ",
+                    "meanings": [
+                        "relieving the (starting) pitcher"
+                    ]
+                }
+            ]
+        }
+    }
+}

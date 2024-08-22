@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"透\"",
+        "strokes": 10,
+        "main_meanings": [
+            "transparent",
+            "permeate",
+            "filter",
+            "penetrate"
+        ],
+        "main_readings": {
+            "kun": [
+                "す.く",
+                "す.かす",
+                "す.ける",
+                "とう.る",
+                "とう.す"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1647": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1592": "A New Dictionary of Kanji Usage",
+                "4699": "Classic Nelson (Andrew Nelson)",
+                "1152": "Essential Kanji (P.G. O’Neill)",
+                "1807": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1685": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1800": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1746": "Kanji in Context (Nishiguchi and Kono)",
+                "698": "Kodansha Compact Kanji Guide",
+                "3854": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1981": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2677": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "924": "Les Kanjis dans la tete (Yves Maniette)",
+                "38876P": "Morohashi",
+                "3108": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6059": "New Nelson (John Haig)",
+                "915": "Remembering The Kanji (James Heisig)",
+                "981": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1399": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2245": "2001 Kanji",
+                "2q7.10": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "3-3-8": "SKIP code",
+                "3230.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-09": "JIS X 0208-1997 kuten code",
+                "900f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とおる"
+                ],
+                "chinese": [
+                    "tou4"
+                ],
+                "korean": [
+                    "tu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "ノ",
+                "乃",
+                "込",
+                "禾"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "透く",
+                    "reading": "すく",
+                    "meanings": [
+                        "to be transparent",
+                        "to leave a gap"
+                    ]
+                },
+                {
+                    "kanji": "透かす",
+                    "reading": "すかす",
+                    "meanings": [
+                        "to look through",
+                        "to hold up to the light",
+                        "to make an opening",
+                        "to leave space",
+                        "to space (lines)",
+                        "to prune (trees)",
+                        "to fart without making a sound"
+                    ]
+                },
+                {
+                    "kanji": "透ける",
+                    "reading": "すける",
+                    "meanings": [
+                        "to be transparent",
+                        "to show through"
+                    ]
+                },
+                {
+                    "kanji": "透水",
+                    "reading": "とうすい",
+                    "meanings": [
+                        "permeation (e.g. of water)",
+                        "percolation",
+                        "seepage"
+                    ]
+                },
+                {
+                    "kanji": "透水性",
+                    "reading": "とうすいせい",
+                    "meanings": [
+                        "permeability"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "透明",
+                    "reading": "トウメイ",
+                    "meanings": [
+                        "transparent",
+                        "clear"
+                    ]
+                },
+                {
+                    "kanji": "透析",
+                    "reading": "トウセキ",
+                    "meanings": [
+                        "dialysis"
+                    ]
+                },
+                {
+                    "kanji": "失透",
+                    "reading": "シットウ",
+                    "meanings": [
+                        "devitrification"
+                    ]
+                },
+                {
+                    "kanji": "市場浸透",
+                    "reading": "シジョウシントウ",
+                    "meanings": [
+                        "market penetration"
+                    ]
+                }
+            ]
+        }
+    }
+}

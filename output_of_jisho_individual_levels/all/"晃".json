@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"晃\"",
+        "strokes": 10,
+        "main_meanings": [
+            "clear"
+        ],
+        "main_readings": {
+            "kun": [
+                "あきらか"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2123": "Classic Nelson (Andrew Nelson)",
+                "1938": "Essential Kanji (P.G. O’Neill)",
+                "1189": "Japanese Names (P.G. O’Neill)",
+                "2092": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3101": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1584": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2165": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "13891": "Morohashi",
+                "2450": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2458": "New Nelson (John Haig)",
+                "2446": "Remembering The Kanji (James Heisig)",
+                "2522": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4c6.5": "The Kanji Dictionary",
+                "2-4-6": "SKIP code",
+                "6021.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-24": "JIS X 0208-1997 kuten code",
+                "6643": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら、 てる、 ひかる、 みつ"
+                ],
+                "chinese": [
+                    "huang3",
+                    "huang4"
+                ],
+                "korean": [
+                    "hwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "一",
+                "儿",
+                "尚",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": [
+                "晄"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "煌々",
+                    "reading": "コウコウ",
+                    "meanings": [
+                        "brilliant",
+                        "bright",
+                        "dazzling"
+                    ]
+                },
+                {
+                    "kanji": "晃曜",
+                    "reading": "コウヨウ",
+                    "meanings": [
+                        "dazzling brightness"
+                    ]
+                }
+            ]
+        }
+    }
+}

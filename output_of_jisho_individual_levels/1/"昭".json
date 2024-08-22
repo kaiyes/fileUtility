@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"昭\"",
+        "strokes": 9,
+        "main_meanings": [
+            "shining",
+            "bright"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "249": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "331": "Tuttle Kanji Cards (Alexander Kask)",
+                "315": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "549": "A New Dictionary of Kanji Usage",
+                "2114": "Classic Nelson (Andrew Nelson)",
+                "517": "Essential Kanji (P.G. O’Neill)",
+                "1406": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "841": "Japanese Names (P.G. O’Neill)",
+                "997": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1034": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "867": "Kanji in Context (Nishiguchi and Kono)",
+                "987": "Kodansha Compact Kanji Guide",
+                "1107": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "602": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "796": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "88": "Les Kanjis dans la tete (Yves Maniette)",
+                "13855": "Morohashi",
+                "894": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2446": "New Nelson (John Haig)",
+                "87": "Remembering The Kanji (James Heisig)",
+                "91": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3877": "2001 Kanji",
+                "4c5.4": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "6706.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-28": "JIS X 0208-1997 kuten code",
+                "662d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 あきら、 かず、 かずみ、 てる"
+                ],
+                "chinese": [
+                    "zhao1"
+                ],
+                "korean": [
+                    "so",
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "刀",
+                "口",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "昭",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "nth year in the Shōwa era (1926.12.25-1989.1.7)"
+                    ]
+                },
+                {
+                    "kanji": "昭和",
+                    "reading": "ショウワ",
+                    "meanings": [
+                        "Shōwa era (1926.12.25-1989.1.7)",
+                        "reminiscent of the Shōwa era",
+                        "Shōwa-nostalgic",
+                        "old-fashioned",
+                        "quaint",
+                        "old-school"
+                    ]
+                },
+                {
+                    "kanji": "昭昭",
+                    "reading": "ショウショウ",
+                    "meanings": [
+                        "clear",
+                        "bright",
+                        "plain",
+                        "obvious"
+                    ]
+                },
+                {
+                    "kanji": "遍照",
+                    "reading": "ヘンジョウ",
+                    "meanings": [
+                        "universal illumination (esp. in Buddhism",
+                        "by the dharma-body)"
+                    ]
+                }
+            ]
+        }
+    }
+}

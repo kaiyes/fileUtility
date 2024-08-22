@@ -1,0 +1,181 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"締\"",
+        "strokes": 15,
+        "main_meanings": [
+            "tighten",
+            "tie",
+            "shut",
+            "lock",
+            "fasten"
+        ],
+        "main_readings": {
+            "kun": [
+                "し.まる",
+                "し.まり",
+                "し.める",
+                "-し.め",
+                "-じ.め"
+            ],
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1622": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "740": "A New Dictionary of Kanji Usage",
+                "3581": "Classic Nelson (Andrew Nelson)",
+                "1243": "Essential Kanji (P.G. O’Neill)",
+                "1638": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1180": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1239": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1067": "Kanji in Context (Nishiguchi and Kono)",
+                "1552": "Kodansha Compact Kanji Guide",
+                "1761": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "945": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1274": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1352": "Les Kanjis dans la tete (Yves Maniette)",
+                "27651": "Morohashi",
+                "1393": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4549": "New Nelson (John Haig)",
+                "1340": "Remembering The Kanji (James Heisig)",
+                "1440": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1794": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2744": "2001 Kanji",
+                "6a9.11": "The Kanji Dictionary",
+                "1-6-9": "SKIP code",
+                "2092.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-89": "JIS X 0208-1997 kuten code",
+                "7de0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "di4"
+                ],
+                "korean": [
+                    "che"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "亠",
+                "并",
+                "冖",
+                "小",
+                "巾",
+                "幺",
+                "立",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "閉まる",
+                    "reading": "しまる",
+                    "meanings": [
+                        "to be shut",
+                        "to close",
+                        "to be closed",
+                        "to be firm (of a body",
+                        "face",
+                        "etc.)",
+                        "to be well-knit",
+                        "to be locked",
+                        "to tighten",
+                        "to be tightened",
+                        "to become sober",
+                        "to become tense"
+                    ]
+                },
+                {
+                    "kanji": "締まり",
+                    "reading": "しまり",
+                    "meanings": [
+                        "closing",
+                        "shutting",
+                        "firmness",
+                        "tightness",
+                        "discipline",
+                        "control"
+                    ]
+                },
+                {
+                    "kanji": "締まり屋",
+                    "reading": "しまりや",
+                    "meanings": [
+                        "thrifty person",
+                        "stingy person",
+                        "tight-fisted person"
+                    ]
+                },
+                {
+                    "kanji": "締める",
+                    "reading": "しめる",
+                    "meanings": [
+                        "to tie",
+                        "to fasten",
+                        "to tighten",
+                        "to wear (necktie",
+                        "belt)",
+                        "to put on",
+                        "to total",
+                        "to sum",
+                        "to be strict with",
+                        "to economize",
+                        "to economise",
+                        "to cut down on",
+                        "to salt",
+                        "to marinate",
+                        "to pickle",
+                        "to make sushi adding a mixture of vinegar and salt",
+                        "to kill (fish",
+                        "poultry",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "締約",
+                    "reading": "テイヤク",
+                    "meanings": [
+                        "conclusion of a treaty"
+                    ]
+                },
+                {
+                    "kanji": "締結",
+                    "reading": "テイケツ",
+                    "meanings": [
+                        "conclusion",
+                        "execution (of a contract)",
+                        "entering (into treaty)",
+                        "fastening (as in a joint)"
+                    ]
+                }
+            ]
+        }
+    }
+}

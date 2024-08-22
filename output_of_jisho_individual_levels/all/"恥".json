@@ -1,0 +1,192 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"恥\"",
+        "strokes": 10,
+        "main_meanings": [
+            "shame",
+            "dishonor"
+        ],
+        "main_readings": {
+            "kun": [
+                "は.じる",
+                "はじ",
+                "は.じらう",
+                "は.ずかしい"
+            ],
+            "on": [
+                "チ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1572": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1710": "A New Dictionary of Kanji Usage",
+                "3704": "Classic Nelson (Andrew Nelson)",
+                "1431": "Essential Kanji (P.G. O’Neill)",
+                "538": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1690": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1805": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1366": "Kanji in Context (Nishiguchi and Kono)",
+                "783": "Kodansha Compact Kanji Guide",
+                "1664": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "882": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1200": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "831": "Les Kanjis dans la tete (Yves Maniette)",
+                "10585": "Morohashi",
+                "1313": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1846": "New Nelson (John Haig)",
+                "823": "Remembering The Kanji (James Heisig)",
+                "886": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1332": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3258": "2001 Kanji",
+                "6e4.2": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "1340.0": "Four corner code",
+                "1310.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-49": "JIS X 0208-1997 kuten code",
+                "6065": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chi3"
+                ],
+                "korean": [
+                    "chi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "心",
+                "耳"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": [
+                "耻"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "恥じる",
+                    "reading": "はじる",
+                    "meanings": [
+                        "to feel ashamed"
+                    ]
+                },
+                {
+                    "kanji": "恥",
+                    "reading": "はじ",
+                    "meanings": [
+                        "shame",
+                        "embarrassment",
+                        "disgrace"
+                    ]
+                },
+                {
+                    "kanji": "恥さらし",
+                    "reading": "はじさらし",
+                    "meanings": [
+                        "disgrace",
+                        "shame"
+                    ]
+                },
+                {
+                    "kanji": "大恥",
+                    "reading": "おおはじ",
+                    "meanings": [
+                        "great shame",
+                        "great disgrace",
+                        "harsh humiliation",
+                        "deep embarrassment",
+                        "unbearable loss of face"
+                    ]
+                },
+                {
+                    "kanji": "死に恥",
+                    "reading": "しにはじ",
+                    "meanings": [
+                        "dishonor that persists after death",
+                        "shame at the moment of one's death"
+                    ]
+                },
+                {
+                    "kanji": "恥じらう",
+                    "reading": "はじらう",
+                    "meanings": [
+                        "to feel shy",
+                        "to be bashful",
+                        "to blush"
+                    ]
+                },
+                {
+                    "kanji": "恥ずかしい",
+                    "reading": "はずかしい",
+                    "meanings": [
+                        "embarrassing",
+                        "embarrassed",
+                        "ashamed",
+                        "humiliated",
+                        "shy",
+                        "disgraceful",
+                        "shameful"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "恥辱",
+                    "reading": "チジョク",
+                    "meanings": [
+                        "disgrace",
+                        "shame",
+                        "insult"
+                    ]
+                },
+                {
+                    "kanji": "恥丘",
+                    "reading": "チキュウ",
+                    "meanings": [
+                        "mons pubis",
+                        "mons veneris"
+                    ]
+                },
+                {
+                    "kanji": "無恥",
+                    "reading": "ムチ",
+                    "meanings": [
+                        "shameless"
+                    ]
+                },
+                {
+                    "kanji": "羞恥",
+                    "reading": "シュウチ",
+                    "meanings": [
+                        "shyness",
+                        "bashfulness",
+                        "shame"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"駆\"",
+        "strokes": 14,
+        "main_meanings": [
+            "drive",
+            "run",
+            "gallop",
+            "advance",
+            "inspire",
+            "impel"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.ける",
+                "か.る"
+            ],
+            "on": [
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1183": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1477": "A New Dictionary of Kanji Usage",
+                "5200": "Classic Nelson (Andrew Nelson)",
+                "1271": "Essential Kanji (P.G. O’Neill)",
+                "1910": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1882": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2049": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1611": "Kanji in Context (Nishiguchi and Kono)",
+                "1916": "Kodansha Compact Kanji Guide",
+                "2293": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1185": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1619": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2002": "Les Kanjis dans la tete (Yves Maniette)",
+                "44634": "Morohashi",
+                "1823": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6736": "New Nelson (John Haig)",
+                "1983": "Remembering The Kanji (James Heisig)",
+                "2137": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1743": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3475": "2001 Kanji",
+                "10a4.5": "The Kanji Dictionary",
+                "1-10-4": "SKIP code",
+                "7131.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-78": "JIS X 0208-1997 kuten code",
+                "99c6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qu1"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "horse",
+            "parts": [
+                "丶",
+                "ノ",
+                "匚",
+                "杰",
+                "馬"
+            ],
+            "basis": "馬",
+            "kangxi_order": 187,
+            "variants": [
+                "駈"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "翔る",
+                    "reading": "かける",
+                    "meanings": [
+                        "to soar",
+                        "to fly",
+                        "to run",
+                        "to dash"
+                    ]
+                },
+                {
+                    "kanji": "駆ける",
+                    "reading": "かける",
+                    "meanings": [
+                        "to run",
+                        "to dash",
+                        "to race",
+                        "to gallop (on horseback)",
+                        "to canter",
+                        "to advance (against one's enemy)",
+                        "to charge (on horseback)"
+                    ]
+                },
+                {
+                    "kanji": "駆る",
+                    "reading": "かる",
+                    "meanings": [
+                        "to spur on",
+                        "to urge forward",
+                        "to impel",
+                        "to drive at high speed (e.g. a car)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "駆使",
+                    "reading": "クシ",
+                    "meanings": [
+                        "using freely",
+                        "making full use of",
+                        "having a good command of",
+                        "working (someone) hard",
+                        "driving (someone) on"
+                    ]
+                },
+                {
+                    "kanji": "駆除",
+                    "reading": "クジョ",
+                    "meanings": [
+                        "extermination (of pests)",
+                        "eradication",
+                        "stamping out (e.g. a social evil)"
+                    ]
+                },
+                {
+                    "kanji": "先駆",
+                    "reading": "センク",
+                    "meanings": [
+                        "forerunner",
+                        "precursor",
+                        "pioneer",
+                        "leader",
+                        "outrider",
+                        "outriding"
+                    ]
+                },
+                {
+                    "kanji": "上手く行く",
+                    "reading": "ウマクイク",
+                    "meanings": [
+                        "to go smoothly",
+                        "to turn out well",
+                        "to do the trick",
+                        "to have peaceful relations"
+                    ]
+                }
+            ]
+        }
+    }
+}

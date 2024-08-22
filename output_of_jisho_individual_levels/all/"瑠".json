@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"瑠\"",
+        "strokes": 14,
+        "main_meanings": [
+            "lapis lazuli"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ル",
+                "リュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2965": "Classic Nelson (Andrew Nelson)",
+                "2165": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1605": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1342": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "726": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "972": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "21143": "Morohashi",
+                "1060": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3673": "New Nelson (John Haig)",
+                "2555": "Remembering The Kanji (James Heisig)",
+                "1528": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4f10.3": "The Kanji Dictionary",
+                "1-4-10": "SKIP code",
+                "1716.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-60": "JIS X 0208-1997 kuten code",
+                "7460": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "るり"
+                ],
+                "chinese": [
+                    "liu2"
+                ],
+                "korean": [
+                    "ryu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "刀",
+                "厶",
+                "王",
+                "田"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": [
+                "璢"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "瑠璃",
+                    "reading": "ルリ",
+                    "meanings": [
+                        "lapis lazuli",
+                        "lapis lazuli (color)",
+                        "beryl",
+                        "mall blue passerine bird (esp. the blue-and-white flycatcher and the Siberian blue robin",
+                        "but also the red-flanked bluetail)",
+                        "glass"
+                    ]
+                },
+                {
+                    "kanji": "瑠璃色",
+                    "reading": "ルリイロ",
+                    "meanings": [
+                        "lapis lazuli blue",
+                        "bright blue",
+                        "azure"
+                    ]
+                }
+            ]
+        }
+    }
+}

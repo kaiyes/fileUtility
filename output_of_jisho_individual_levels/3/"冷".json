@@ -1,0 +1,281 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"冷\"",
+        "strokes": 7,
+        "main_meanings": [
+            "cool",
+            "cold (beer",
+            "person)",
+            "chill"
+        ],
+        "main_readings": {
+            "kun": [
+                "つめ.たい",
+                "ひ.える",
+                "ひ.や",
+                "ひ.ややか",
+                "ひ.やす",
+                "ひ.やかす",
+                "さ.める",
+                "さ.ます"
+            ],
+            "on": [
+                "レイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "535": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "634": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "604": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "607": "A New Dictionary of Kanji Usage",
+                "642": "Classic Nelson (Andrew Nelson)",
+                "792": "Essential Kanji (P.G. O’Neill)",
+                "348": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "349": "Japanese Names (P.G. O’Neill)",
+                "832": "Kanji and Kana (Spahn and Hadamitzky)",
+                "851": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "662": "Kanji in Context (Nishiguchi and Kono)",
+                "166": "Kodansha Compact Kanji Guide",
+                "88": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "57": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "61": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1416": "Les Kanjis dans la tete (Yves Maniette)",
+                "1622": "Morohashi",
+                "80": "New Japanese English Character Dictionary (Jack Halpern)",
+                "419": "New Nelson (John Haig)",
+                "1404": "Remembering The Kanji (James Heisig)",
+                "1506": "Remembering The Kanji, 6th edition (James Heisig)",
+                "493": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "344": "2001 Kanji",
+                "2b5.3": "The Kanji Dictionary",
+                "1-2-5": "SKIP code",
+                "3812.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-68": "JIS X 0208-1997 kuten code",
+                "51b7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "leng3"
+                ],
+                "korean": [
+                    "raeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ice",
+            "parts": [
+                "一",
+                "个",
+                "冫",
+                "卩"
+            ],
+            "basis": "冫",
+            "kangxi_order": 15,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "冷たい",
+                    "reading": "つめたい",
+                    "meanings": [
+                        "cold (to the touch)",
+                        "chilly",
+                        "icy",
+                        "freezing",
+                        "(emotionally) cold",
+                        "coldhearted",
+                        "unfeeling",
+                        "indifferent",
+                        "unfriendly",
+                        "distant"
+                    ]
+                },
+                {
+                    "kanji": "冷たい暗黒物質",
+                    "reading": "つめたいあんこくぶっしつ",
+                    "meanings": [
+                        "cold dark matter"
+                    ]
+                },
+                {
+                    "kanji": "冷える",
+                    "reading": "ひえる",
+                    "meanings": [
+                        "to grow cold (from room temperature",
+                        "e.g. in refrigerator)",
+                        "to get chilly",
+                        "to cool down"
+                    ]
+                },
+                {
+                    "kanji": "冷や",
+                    "reading": "ひや",
+                    "meanings": [
+                        "cold water",
+                        "cold sake",
+                        "cold",
+                        "cool",
+                        "chilled",
+                        "unheated"
+                    ]
+                },
+                {
+                    "kanji": "冷やす",
+                    "reading": "ひやす",
+                    "meanings": [
+                        "to cool (from room temperature)",
+                        "to chill",
+                        "to refrigerate",
+                        "to calm down",
+                        "to cool off",
+                        "to regain one's composure",
+                        "to relax",
+                        "to be frightened (at)",
+                        "to be scared (of)"
+                    ]
+                },
+                {
+                    "kanji": "お冷",
+                    "reading": "おひや",
+                    "meanings": [
+                        "cold (drinking) water",
+                        "(glass of) cold water",
+                        "cold boiled rice"
+                    ]
+                },
+                {
+                    "kanji": "冷ややか",
+                    "reading": "ひややか",
+                    "meanings": [
+                        "cold",
+                        "chilly",
+                        "cool",
+                        "cold (attitude",
+                        "stare",
+                        "etc.)",
+                        "frigid",
+                        "indifferent",
+                        "distant",
+                        "surly",
+                        "curt",
+                        "composed",
+                        "cool",
+                        "calm"
+                    ]
+                },
+                {
+                    "kanji": "冷やす",
+                    "reading": "ひやす",
+                    "meanings": [
+                        "to cool (from room temperature)",
+                        "to chill",
+                        "to refrigerate",
+                        "to calm down",
+                        "to cool off",
+                        "to regain one's composure",
+                        "to relax",
+                        "to be frightened (at)",
+                        "to be scared (of)"
+                    ]
+                },
+                {
+                    "kanji": "冷やかす",
+                    "reading": "ひやかす",
+                    "meanings": [
+                        "to banter",
+                        "to make fun of",
+                        "to jeer at",
+                        "to cool",
+                        "to refrigerate",
+                        "to window-shop",
+                        "to look at without buying"
+                    ]
+                },
+                {
+                    "kanji": "冷める",
+                    "reading": "さめる",
+                    "meanings": [
+                        "to cool down",
+                        "to get cold",
+                        "to cool off (excitement",
+                        "temper",
+                        "etc.)",
+                        "to subside",
+                        "to dampen",
+                        "to fade",
+                        "to wane",
+                        "to be cold (eyes",
+                        "expression",
+                        "etc.)",
+                        "to be composed"
+                    ]
+                },
+                {
+                    "kanji": "冷ます",
+                    "reading": "さます",
+                    "meanings": [
+                        "to cool (e.g. from a high temperature to room temperature)",
+                        "to let cool",
+                        "to dampen",
+                        "to throw a damper on",
+                        "to spoil"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "冷",
+                    "reading": "レイ",
+                    "meanings": [
+                        "refrigerator",
+                        "cold",
+                        "cool",
+                        "cold sake"
+                    ]
+                },
+                {
+                    "kanji": "冷夏",
+                    "reading": "レイカ",
+                    "meanings": [
+                        "cool summer",
+                        "cold summer",
+                        "cooler-than-normal summer"
+                    ]
+                },
+                {
+                    "kanji": "寒冷",
+                    "reading": "カンレイ",
+                    "meanings": [
+                        "cold",
+                        "coldness",
+                        "chilliness"
+                    ]
+                },
+                {
+                    "kanji": "空冷",
+                    "reading": "クウレイ",
+                    "meanings": [
+                        "air cooling"
+                    ]
+                }
+            ]
+        }
+    }
+}

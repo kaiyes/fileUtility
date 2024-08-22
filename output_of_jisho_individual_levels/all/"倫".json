@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"倫\"",
+        "strokes": 10,
+        "main_meanings": [
+            "ethics",
+            "companion"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "リン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1914": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1795": "A New Dictionary of Kanji Usage",
+                "474": "Classic Nelson (Andrew Nelson)",
+                "1742": "Essential Kanji (P.G. O’Neill)",
+                "1057": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1037": "Japanese Names (P.G. O’Neill)",
+                "1163": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1220": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "497": "Kanji in Context (Nishiguchi and Kono)",
+                "115": "Kodansha Compact Kanji Guide",
+                "135": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "90": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "103": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1838": "Les Kanjis dans la tete (Yves Maniette)",
+                "793": "Morohashi",
+                "120": "New Japanese English Character Dictionary (Jack Halpern)",
+                "246": "New Nelson (John Haig)",
+                "1821": "Remembering The Kanji (James Heisig)",
+                "1962": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1306": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2153": "2001 Kanji",
+                "2a8.28": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "2822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-49": "JIS X 0208-1997 kuten code",
+                "502b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とも、 のり、 ひとし、 ひろ、 みち"
+                ],
+                "chinese": [
+                    "lun2"
+                ],
+                "korean": [
+                    "ryun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "｜",
+                "亅",
+                "化",
+                "个",
+                "廾",
+                "冊"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "倫理的",
+                    "reading": "リンリテキ",
+                    "meanings": [
+                        "ethical"
+                    ]
+                },
+                {
+                    "kanji": "倫理",
+                    "reading": "リンリ",
+                    "meanings": [
+                        "ethics",
+                        "morals"
+                    ]
+                },
+                {
+                    "kanji": "映倫",
+                    "reading": "エイリン",
+                    "meanings": [
+                        "Eirin",
+                        "Film Classification and Rating Organization"
+                    ]
+                },
+                {
+                    "kanji": "五倫",
+                    "reading": "ゴリン",
+                    "meanings": [
+                        "the five Confucian filial-piety relationships"
+                    ]
+                }
+            ]
+        }
+    }
+}

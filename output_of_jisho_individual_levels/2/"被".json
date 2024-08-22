@@ -1,0 +1,208 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"被\"",
+        "strokes": 10,
+        "main_meanings": [
+            "incur",
+            "cover",
+            "veil",
+            "brood over",
+            "shelter",
+            "wear",
+            "put on",
+            "be exposed (film)",
+            "receiving"
+        ],
+        "main_readings": {
+            "kun": [
+                "こうむ.る",
+                "おお.う",
+                "かぶ.る",
+                "かぶ.せる"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1729": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "852": "A New Dictionary of Kanji Usage",
+                "4225": "Classic Nelson (Andrew Nelson)",
+                "1410": "Essential Kanji (P.G. O’Neill)",
+                "881": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "976": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1009": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1145": "Kanji in Context (Nishiguchi and Kono)",
+                "1631": "Kodansha Compact Kanji Guide",
+                "1495": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "790": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1077": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "815": "Les Kanjis dans la tete (Yves Maniette)",
+                "34222": "Morohashi",
+                "1163": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5445": "New Nelson (John Haig)",
+                "807": "Remembering The Kanji (James Heisig)",
+                "870": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1390": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "667": "2001 Kanji",
+                "5e5.3": "The Kanji Dictionary",
+                "1-5-5": "SKIP code",
+                "3424.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-79": "JIS X 0208-1997 kuten code",
+                "88ab": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぎぬ"
+                ],
+                "chinese": [
+                    "bei4",
+                    "pi1"
+                ],
+                "korean": [
+                    "pi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "又",
+                "皮",
+                "初"
+            ],
+            "basis": "衣",
+            "kangxi_order": 145,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "被る",
+                    "reading": "こうむる",
+                    "meanings": [
+                        "to suffer",
+                        "to receive (kindness",
+                        "rebuke",
+                        "support)",
+                        "to sustain (damage)"
+                    ]
+                },
+                {
+                    "kanji": "覆う",
+                    "reading": "おおう",
+                    "meanings": [
+                        "to cover",
+                        "to hide",
+                        "to conceal",
+                        "to wrap",
+                        "to disguise"
+                    ]
+                },
+                {
+                    "kanji": "被る",
+                    "reading": "かぶる",
+                    "meanings": [
+                        "to put on (one's head)",
+                        "to wear",
+                        "to have on",
+                        "to pull over (one's head)",
+                        "to crown (oneself)",
+                        "to be covered with (dust",
+                        "snow",
+                        "etc.)",
+                        "to pour (water",
+                        "etc.) on oneself",
+                        "to dash on oneself",
+                        "to ship water",
+                        "to bear (e.g. someone's debts",
+                        "faults",
+                        "etc.)",
+                        "to take (blame)",
+                        "to assume (responsibility)",
+                        "to shoulder (burden)",
+                        "to overlap (e.g. sound or color)",
+                        "to be similar",
+                        "to be redundant",
+                        "to be fogged (due to overexposure",
+                        "etc.)",
+                        "to close",
+                        "to come to an end",
+                        "to get a full house",
+                        "to sell out",
+                        "to blunder",
+                        "to bungle",
+                        "to fail",
+                        "to be deceived"
+                    ]
+                },
+                {
+                    "kanji": "被せる",
+                    "reading": "かぶせる",
+                    "meanings": [
+                        "to cover (with something)",
+                        "to put on (e.g. on someone else's head)",
+                        "to plate something (with a metal)",
+                        "to pour or dash a liquid (on something)",
+                        "to charge (a person with a guilt)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "被",
+                    "reading": "ヒ",
+                    "meanings": [
+                        "indicates the target of an activity",
+                        "-ee (e.g. employee",
+                        "examinee",
+                        "trustee)"
+                    ]
+                },
+                {
+                    "kanji": "被害",
+                    "reading": "ヒガイ",
+                    "meanings": [
+                        "(suffering) damage",
+                        "injury",
+                        "harm"
+                    ]
+                },
+                {
+                    "kanji": "外被",
+                    "reading": "ガイヒ",
+                    "meanings": [
+                        "(protective) coat",
+                        "casing",
+                        "housing",
+                        "jacket"
+                    ]
+                },
+                {
+                    "kanji": "花被",
+                    "reading": "カヒ",
+                    "meanings": [
+                        "perianth",
+                        "floral envelope"
+                    ]
+                }
+            ]
+        }
+    }
+}

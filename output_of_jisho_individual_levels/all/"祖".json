@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"祖\"",
+        "strokes": 9,
+        "main_meanings": [
+            "ancestor",
+            "pioneer",
+            "founder"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ソ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "657": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "758": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "736": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1325": "A New Dictionary of Kanji Usage",
+                "3243": "Classic Nelson (Andrew Nelson)",
+                "540": "Essential Kanji (P.G. O’Neill)",
+                "772": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "850": "Japanese Names (P.G. O’Neill)",
+                "622": "Kanji and Kana (Spahn and Hadamitzky)",
+                "632": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "824": "Kanji in Context (Nishiguchi and Kono)",
+                "1423": "Kodansha Compact Kanji Guide",
+                "1145": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "617": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "823": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1795": "Les Kanjis dans la tete (Yves Maniette)",
+                "24664P": "Morohashi",
+                "914": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4083": "New Nelson (John Haig)",
+                "1779": "Remembering The Kanji (James Heisig)",
+                "1918": "Remembering The Kanji, 6th edition (James Heisig)",
+                "701": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "673": "2001 Kanji",
+                "4e5.4": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "3721.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-36": "JIS X 0208-1997 kuten code",
+                "7956": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い"
+                ],
+                "chinese": [
+                    "zu3"
+                ],
+                "korean": [
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "礻"
+            ],
+            "meaning": "sign",
+            "parts": [
+                "一",
+                "礼",
+                "目"
+            ],
+            "basis": "示",
+            "kangxi_order": 113,
+            "variants": [
+                "祖"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "祖",
+                    "reading": "ソ",
+                    "meanings": [
+                        "ancestor",
+                        "forefather",
+                        "progenitor",
+                        "originator",
+                        "pioneer",
+                        "inventor",
+                        "founder",
+                        "grandfather"
+                    ]
+                },
+                {
+                    "kanji": "祖国",
+                    "reading": "ソコク",
+                    "meanings": [
+                        "homeland",
+                        "motherland",
+                        "fatherland",
+                        "native country"
+                    ]
+                },
+                {
+                    "kanji": "元祖",
+                    "reading": "ガンソ",
+                    "meanings": [
+                        "originator",
+                        "pioneer",
+                        "inventor",
+                        "founder",
+                        "progenitor",
+                        "primogenitor",
+                        "founder of a family line"
+                    ]
+                },
+                {
+                    "kanji": "教祖",
+                    "reading": "キョウソ",
+                    "meanings": [
+                        "founder of a religious sect"
+                    ]
+                }
+            ]
+        }
+    }
+}

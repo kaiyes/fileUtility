@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酔\"",
+        "strokes": 11,
+        "main_meanings": [
+            "drunk",
+            "feel sick",
+            "poisoned",
+            "elated",
+            "spellbound"
+        ],
+        "main_readings": {
+            "kun": [
+                "よ.う",
+                "よ.い",
+                "よ"
+            ],
+            "on": [
+                "スイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1457": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1335": "A New Dictionary of Kanji Usage",
+                "4781": "Classic Nelson (Andrew Nelson)",
+                "1648": "Essential Kanji (P.G. O’Neill)",
+                "1832": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1709": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1826": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "728": "Kanji in Context (Nishiguchi and Kono)",
+                "1791": "Kodansha Compact Kanji Guide",
+                "1875": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "996": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1348": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1447": "Les Kanjis dans la tete (Yves Maniette)",
+                "39807": "Morohashi",
+                "1483": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6166": "New Nelson (John Haig)",
+                "1435": "Remembering The Kanji (James Heisig)",
+                "1543": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1493": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3255": "2001 Kanji",
+                "7e4.3": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "1464.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-76": "JIS X 0208-1997 kuten code",
+                "9154": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "よい"
+                ],
+                "chinese": [
+                    "zui4"
+                ],
+                "korean": [
+                    "chwi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "十",
+                "九",
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": [
+                "醉"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "酔う",
+                    "reading": "よう",
+                    "meanings": [
+                        "to get drunk",
+                        "to become intoxicated",
+                        "to feel sick (e.g. in a vehicle)",
+                        "to become nauseated",
+                        "to be elated",
+                        "to be exalted",
+                        "to be spellbound",
+                        "to be in raptures"
+                    ]
+                },
+                {
+                    "kanji": "酔い",
+                    "reading": "よい",
+                    "meanings": [
+                        "drunkenness",
+                        "intoxication",
+                        "motion sickness",
+                        "travel sickness"
+                    ]
+                },
+                {
+                    "kanji": "酔いが覚める",
+                    "reading": "よいがさめる",
+                    "meanings": [
+                        "to sober up"
+                    ]
+                },
+                {
+                    "kanji": "酔い",
+                    "reading": "よい",
+                    "meanings": [
+                        "drunkenness",
+                        "intoxication",
+                        "motion sickness",
+                        "travel sickness"
+                    ]
+                },
+                {
+                    "kanji": "酔う",
+                    "reading": "よう",
+                    "meanings": [
+                        "to get drunk",
+                        "to become intoxicated",
+                        "to feel sick (e.g. in a vehicle)",
+                        "to become nauseated",
+                        "to be elated",
+                        "to be exalted",
+                        "to be spellbound",
+                        "to be in raptures"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "酔客",
+                    "reading": "スイキャク",
+                    "meanings": [
+                        "drunken person"
+                    ]
+                },
+                {
+                    "kanji": "酔漢",
+                    "reading": "スイカン",
+                    "meanings": [
+                        "drunkard",
+                        "drunken fellow"
+                    ]
+                },
+                {
+                    "kanji": "陶酔",
+                    "reading": "トウスイ",
+                    "meanings": [
+                        "intoxication",
+                        "being fascinated (by)",
+                        "being carried away (by)",
+                        "being enraptured (by)",
+                        "being intoxicated (with)"
+                    ]
+                },
+                {
+                    "kanji": "大酔",
+                    "reading": "タイスイ",
+                    "meanings": [
+                        "dead drunk"
+                    ]
+                }
+            ]
+        }
+    }
+}

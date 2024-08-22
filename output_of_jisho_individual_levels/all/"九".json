@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"九\"",
+        "strokes": 2,
+        "main_meanings": [
+            "nine"
+        ],
+        "main_readings": {
+            "kun": [
+                "ここの",
+                "ここの.つ"
+            ],
+            "on": [
+                "キュウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "9": "Remembering The Kanji, 6th edition (James Heisig)",
+                "12": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "58": "A New Dictionary of Kanji Usage",
+                "146": "Classic Nelson (Andrew Nelson)",
+                "11": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "8": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "16": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "26": "Kodansha Compact Kanji Guide",
+                "4176": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2112": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2858": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "167": "Morohashi",
+                "3369": "New Japanese English Character Dictionary (Jack Halpern)",
+                "57": "New Nelson (John Haig)",
+                "112": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "5": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1657": "2001 Kanji",
+                "0a2.15": "The Kanji Dictionary",
+                "4-2-4": "SKIP code",
+                "4001.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-69": "JIS X 0208-1997 kuten code",
+                "4e5d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いちじく、 いちのく、 この、 ひさし"
+                ],
+                "chinese": [
+                    "jiu3"
+                ],
+                "korean": [
+                    "gu",
+                    "gyu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "乙",
+                "⺄",
+                "乚"
+            ],
+            "meaning": "second",
+            "parts": [
+                "九"
+            ],
+            "basis": "乛",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "九",
+                    "reading": "きゅう",
+                    "meanings": [
+                        "nine",
+                        "9"
+                    ]
+                },
+                {
+                    "kanji": "九重",
+                    "reading": "ここのえ",
+                    "meanings": [
+                        "ninefold",
+                        "imperial palace",
+                        "the Court"
+                    ]
+                },
+                {
+                    "kanji": "九つ",
+                    "reading": "ここのつ",
+                    "meanings": [
+                        "nine",
+                        "nine years of age",
+                        "twelve o'clock (old time system)"
+                    ]
+                },
+                {
+                    "kanji": "九つ時",
+                    "reading": "ここのつどき",
+                    "meanings": [
+                        "(approx.) twelve o'clock (am or pm",
+                        "old time system)",
+                        "noon",
+                        "midnight"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "九",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "nine",
+                        "9"
+                    ]
+                },
+                {
+                    "kanji": "九州",
+                    "reading": "キュウシュウ",
+                    "meanings": [
+                        "Kyūshū (southernmost of the four main islands of Japan)"
+                    ]
+                },
+                {
+                    "kanji": "十九",
+                    "reading": "ジュウキュウ",
+                    "meanings": [
+                        "nineteen",
+                        "19"
+                    ]
+                },
+                {
+                    "kanji": "２９",
+                    "reading": "ニジュウキュウ",
+                    "meanings": [
+                        "29",
+                        "twenty nine",
+                        "5am"
+                    ]
+                },
+                {
+                    "kanji": "九",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "nine",
+                        "9"
+                    ]
+                },
+                {
+                    "kanji": "９月",
+                    "reading": "クガツ",
+                    "meanings": [
+                        "September",
+                        "ninth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "九九",
+                    "reading": "クク",
+                    "meanings": [
+                        "multiplication table",
+                        "times table"
+                    ]
+                },
+                {
+                    "kanji": "第九",
+                    "reading": "ダイク",
+                    "meanings": [
+                        "ninth",
+                        "Beethoven's Ninth Symphony"
+                    ]
+                }
+            ]
+        }
+    }
+}

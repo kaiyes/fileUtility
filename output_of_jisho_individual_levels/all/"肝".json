@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肝\"",
+        "strokes": 7,
+        "main_meanings": [
+            "liver",
+            "pluck",
+            "nerve",
+            "chutzpah"
+        ],
+        "main_readings": {
+            "kun": [
+                "きも"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1096": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1410": "A New Dictionary of Kanji Usage",
+                "3731": "Classic Nelson (Andrew Nelson)",
+                "1516": "Essential Kanji (P.G. O’Neill)",
+                "1666": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "408": "Japanese Names (P.G. O’Neill)",
+                "1272": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1346": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1107": "Kanji in Context (Nishiguchi and Kono)",
+                "1022": "Kodansha Compact Kanji Guide",
+                "1045": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "563": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "747": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1664": "Les Kanjis dans la tete (Yves Maniette)",
+                "29273": "Morohashi",
+                "841": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4762": "New Nelson (John Haig)",
+                "1649": "Remembering The Kanji (James Heisig)",
+                "1778": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1134": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3955": "2001 Kanji",
+                "4b3.2": "The Kanji Dictionary",
+                "1-4-3": "SKIP code",
+                "7124.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-46": "JIS X 0208-1997 kuten code",
+                "809d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gan1"
+                ],
+                "korean": [
+                    "gan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "干",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "肝",
+                    "reading": "きも",
+                    "meanings": [
+                        "liver",
+                        "innards",
+                        "courage",
+                        "spirit",
+                        "pluck",
+                        "guts",
+                        "crux",
+                        "essential point",
+                        "key"
+                    ]
+                },
+                {
+                    "kanji": "肝いり",
+                    "reading": "きもいり",
+                    "meanings": [
+                        "good offices",
+                        "auspices",
+                        "sponsorship",
+                        "help",
+                        "assistance",
+                        "village official (during the Edo period)"
+                    ]
+                },
+                {
+                    "kanji": "群肝",
+                    "reading": "むらぎも",
+                    "meanings": [
+                        "internal organs",
+                        "entrails"
+                    ]
+                },
+                {
+                    "kanji": "あん肝",
+                    "reading": "あんきも",
+                    "meanings": [
+                        "monkfish liver",
+                        "goosefish liver"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "肝硬変",
+                    "reading": "カンコウヘン",
+                    "meanings": [
+                        "cirrhosis (of the liver)"
+                    ]
+                },
+                {
+                    "kanji": "肝炎",
+                    "reading": "カンエン",
+                    "meanings": [
+                        "hepatitis"
+                    ]
+                },
+                {
+                    "kanji": "肺肝",
+                    "reading": "ハイカン",
+                    "meanings": [
+                        "lungs and livers",
+                        "depths of one's heart",
+                        "innermost heart"
+                    ]
+                },
+                {
+                    "kanji": "脂肪肝",
+                    "reading": "シボウカン",
+                    "meanings": [
+                        "fatty liver"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"菖\"",
+        "strokes": 11,
+        "main_meanings": [
+            "iris"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3969": "Classic Nelson (Andrew Nelson)",
+                "1444": "Japanese Names (P.G. O’Neill)",
+                "2220": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2881": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1487": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2005": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "31174X": "Morohashi",
+                "5085": "New Nelson (John Haig)",
+                "2366": "Remembering The Kanji (James Heisig)",
+                "2452": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k8.22": "The Kanji Dictionary",
+                "2-3-8": "SKIP code",
+                "4460.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-52": "JIS X 0208-1997 kuten code",
+                "83d6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chang1"
+                ],
+                "korean": [
+                    "chang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "艾",
+                "日"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "菖蒲",
+                    "reading": "ショウブ",
+                    "meanings": [
+                        "sweet flag (Acorus calamus)",
+                        "calamus",
+                        "Japanese iris (Iris ensata var. ensata)"
+                    ]
+                },
+                {
+                    "kanji": "菖蒲湯",
+                    "reading": "ショウブユ",
+                    "meanings": [
+                        "bathwater with iris petals"
+                    ]
+                },
+                {
+                    "kanji": "石菖",
+                    "reading": "セキショウ",
+                    "meanings": [
+                        "Japanese sweet flag (Acorus gramineus)"
+                    ]
+                },
+                {
+                    "kanji": "庭石菖",
+                    "reading": "ニワゼキショウ",
+                    "meanings": [
+                        "blue-eyed grass (Sisyrinchium rosulatum)"
+                    ]
+                }
+            ]
+        }
+    }
+}

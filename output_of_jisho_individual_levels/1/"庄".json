@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"庄\"",
+        "strokes": 6,
+        "main_meanings": [
+            "level",
+            "in the country",
+            "manor",
+            "village",
+            "hamlet"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ショウ",
+                "ソ",
+                "ソウ",
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1500": "Classic Nelson (Andrew Nelson)",
+                "1949": "Essential Kanji (P.G. O’Neill)",
+                "315": "Japanese Names (P.G. O’Neill)",
+                "2063": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3788": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1933": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2625": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "9234": "Morohashi",
+                "3051": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1605": "New Nelson (John Haig)",
+                "2238": "Remembering The Kanji (James Heisig)",
+                "2345": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3q3.1": "The Kanji Dictionary",
+                "3-3-3": "SKIP code",
+                "0021.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-17": "JIS X 0208-1997 kuten code",
+                "5e84": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まさ"
+                ],
+                "chinese": [
+                    "zhuang1"
+                ],
+                "korean": [
+                    "jang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "土",
+                "广"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "荘",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "manor",
+                        "villa"
+                    ]
+                },
+                {
+                    "kanji": "荘園",
+                    "reading": "ショウエン",
+                    "meanings": [
+                        "manor",
+                        "demesne"
+                    ]
+                },
+                {
+                    "kanji": "村庄",
+                    "reading": "ソンショウ",
+                    "meanings": [
+                        "village",
+                        "countryside",
+                        "country house"
+                    ]
+                },
+                {
+                    "kanji": "荘",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "manor",
+                        "villa"
+                    ]
+                },
+                {
+                    "kanji": "荘園",
+                    "reading": "ショウエン",
+                    "meanings": [
+                        "manor",
+                        "demesne"
+                    ]
+                },
+                {
+                    "kanji": "荘",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "manor",
+                        "villa"
+                    ]
+                },
+                {
+                    "kanji": "荘園",
+                    "reading": "ショウエン",
+                    "meanings": [
+                        "manor",
+                        "demesne"
+                    ]
+                }
+            ]
+        }
+    }
+}

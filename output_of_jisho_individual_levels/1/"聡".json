@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"聡\"",
+        "strokes": 14,
+        "main_meanings": [
+            "wise",
+            "fast learner"
+        ],
+        "main_readings": {
+            "kun": [
+                "さと.い",
+                "みみざと.い"
+            ],
+            "on": [
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3708": "Classic Nelson (Andrew Nelson)",
+                "1961": "Essential Kanji (P.G. O’Neill)",
+                "2311": "Japanese Names (P.G. O’Neill)",
+                "2203": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1750": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "938": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1266": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "29109": "Morohashi",
+                "1384": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4730": "New Nelson (John Haig)",
+                "2677": "Remembering The Kanji (James Heisig)",
+                "2717": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3258": "2001 Kanji",
+                "6e8.2": "The Kanji Dictionary",
+                "1-6-8": "SKIP code",
+                "1813.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-79": "JIS X 0208-1997 kuten code",
+                "8061": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さと、 さとし、 さとる、 あき、 あきら、 とし、 さた、 みのる"
+                ],
+                "chinese": [
+                    "cong1"
+                ],
+                "korean": [
+                    "chong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ear",
+            "parts": [
+                "ハ",
+                "厶",
+                "心",
+                "耳"
+            ],
+            "basis": "耳",
+            "kangxi_order": 128,
+            "variants": [
+                "聰"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "聡い",
+                    "reading": "さとい",
+                    "meanings": [
+                        "clever",
+                        "smart",
+                        "sharp (ear",
+                        "etc.)",
+                        "sensitive",
+                        "discerning"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "聡明",
+                    "reading": "ソウメイ",
+                    "meanings": [
+                        "wise",
+                        "sagacious",
+                        "intelligent",
+                        "sensible"
+                    ]
+                },
+                {
+                    "kanji": "聡敏",
+                    "reading": "ソウビン",
+                    "meanings": [
+                        "sagacity",
+                        "cleverness"
+                    ]
+                }
+            ]
+        }
+    }
+}

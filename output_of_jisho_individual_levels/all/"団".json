@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"団\"",
+        "strokes": 6,
+        "main_meanings": [
+            "group",
+            "association"
+        ],
+        "main_readings": {
+            "kun": [
+                "かたまり",
+                "まる.い"
+            ],
+            "on": [
+                "ダン",
+                "トン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "672": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "772": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "749": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "172": "A New Dictionary of Kanji Usage",
+                "1027": "Classic Nelson (Andrew Nelson)",
+                "243": "Essential Kanji (P.G. O’Neill)",
+                "421": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "310": "Japanese Names (P.G. O’Neill)",
+                "491": "Kanji and Kana (Spahn and Hadamitzky)",
+                "500": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "366": "Kanji in Context (Nishiguchi and Kono)",
+                "339": "Kodansha Compact Kanji Guide",
+                "3791": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1935": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2628": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "589": "Les Kanjis dans la tete (Yves Maniette)",
+                "4703P": "Morohashi",
+                "3053": "New Japanese English Character Dictionary (Jack Halpern)",
+                "940": "New Nelson (John Haig)",
+                "582": "Remembering The Kanji (James Heisig)",
+                "625": "Remembering The Kanji, 6th edition (James Heisig)",
+                "336": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "661": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1448": "2001 Kanji",
+                "3s3.3": "The Kanji Dictionary",
+                "3-3-3": "SKIP code",
+                "6034.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-36": "JIS X 0208-1997 kuten code",
+                "56e3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tuan2"
+                ],
+                "korean": [
+                    "dan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "enclosure",
+            "parts": [
+                "囗",
+                "寸"
+            ],
+            "basis": "囗",
+            "kangxi_order": 31,
+            "variants": [
+                "團"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "団",
+                    "reading": "ダン",
+                    "meanings": [
+                        "body",
+                        "group",
+                        "party",
+                        "company",
+                        "troupe"
+                    ]
+                },
+                {
+                    "kanji": "団員",
+                    "reading": "ダンイン",
+                    "meanings": [
+                        "group member"
+                    ]
+                },
+                {
+                    "kanji": "退団",
+                    "reading": "タイダン",
+                    "meanings": [
+                        "leaving (a group",
+                        "team",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "営団",
+                    "reading": "エイダン",
+                    "meanings": [
+                        "corporation",
+                        "foundation"
+                    ]
+                },
+                {
+                    "kanji": "敷き布団",
+                    "reading": "シキブトン",
+                    "meanings": [
+                        "futon (laid on the floor)",
+                        "(Japanese) mattress",
+                        "underquilt",
+                        "sleeping mat"
+                    ]
+                },
+                {
+                    "kanji": "水団",
+                    "reading": "スイトン",
+                    "meanings": [
+                        "flour dumplings in soup"
+                    ]
+                }
+            ]
+        }
+    }
+}

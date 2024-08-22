@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"愛\"",
+        "strokes": 13,
+        "main_meanings": [
+            "love",
+            "affection",
+            "favourite"
+        ],
+        "main_readings": {
+            "kun": [
+                "いと.しい",
+                "かな.しい",
+                "め.でる",
+                "お.しむ",
+                "まな"
+            ],
+            "on": [
+                "アイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "339": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "441": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "417": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "436": "A New Dictionary of Kanji Usage",
+                "2829": "Classic Nelson (Andrew Nelson)",
+                "456": "Essential Kanji (P.G. O’Neill)",
+                "545": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2018": "Japanese Names (P.G. O’Neill)",
+                "259": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1079": "Kanji in Context (Nishiguchi and Kono)",
+                "790": "Kodansha Compact Kanji Guide",
+                "3133": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1606": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2191": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "745": "Les Kanjis dans la tete (Yves Maniette)",
+                "10947": "Morohashi",
+                "2492": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1927": "New Nelson (John Haig)",
+                "737": "Remembering The Kanji (James Heisig)",
+                "796": "Remembering The Kanji, 6th edition (James Heisig)",
+                "268": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "602": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2067": "2001 Kanji",
+                "4i10.1": "The Kanji Dictionary",
+                "2-4-9": "SKIP code",
+                "2-6-7": "SKIP code",
+                "2-1-12": "SKIP code",
+                "2024.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-06": "JIS X 0208-1997 kuten code",
+                "611b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あし、 え、 かな、 なる、 めぐ、 めぐみ、 よし、 ちか"
+                ],
+                "chinese": [
+                    "ai4"
+                ],
+                "korean": [
+                    "ae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "冖",
+                "夂",
+                "心",
+                "爪"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "愛しい",
+                    "reading": "いとしい",
+                    "meanings": [
+                        "lovely",
+                        "dear",
+                        "beloved",
+                        "darling",
+                        "dearest",
+                        "pitiable",
+                        "pitiful"
+                    ]
+                },
+                {
+                    "kanji": "悲しい",
+                    "reading": "かなしい",
+                    "meanings": [
+                        "sad",
+                        "miserable",
+                        "unhappy",
+                        "sorrowful",
+                        "sad",
+                        "lamentable",
+                        "deplorable",
+                        "grievous"
+                    ]
+                },
+                {
+                    "kanji": "愛でる",
+                    "reading": "めでる",
+                    "meanings": [
+                        "to love",
+                        "to cherish",
+                        "to admire",
+                        "to appreciate"
+                    ]
+                },
+                {
+                    "kanji": "惜しむ",
+                    "reading": "おしむ",
+                    "meanings": [
+                        "to be frugal",
+                        "to be sparing",
+                        "to value",
+                        "to hold dear",
+                        "to regret (e.g. a loss)",
+                        "to feel sorry (for)",
+                        "to be unwilling",
+                        "to be reluctant"
+                    ]
+                },
+                {
+                    "kanji": "愛",
+                    "reading": "まな",
+                    "meanings": [
+                        "beloved",
+                        "dear"
+                    ]
+                },
+                {
+                    "kanji": "愛弟子",
+                    "reading": "まなでし",
+                    "meanings": [
+                        "favorite pupil",
+                        "favourite pupil",
+                        "teacher's pet"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "愛",
+                    "reading": "アイ",
+                    "meanings": [
+                        "love",
+                        "affection",
+                        "care",
+                        "attachment",
+                        "craving",
+                        "desire",
+                        "agape",
+                        "Ireland"
+                    ]
+                },
+                {
+                    "kanji": "愛犬",
+                    "reading": "アイケン",
+                    "meanings": [
+                        "pet dog",
+                        "beloved dog",
+                        "love of dogs",
+                        "fondness for dogs"
+                    ]
+                },
+                {
+                    "kanji": "友愛",
+                    "reading": "ユウアイ",
+                    "meanings": [
+                        "fraternity",
+                        "friendship"
+                    ]
+                },
+                {
+                    "kanji": "同性愛",
+                    "reading": "ドウセイアイ",
+                    "meanings": [
+                        "homosexuality",
+                        "homosexual love"
+                    ]
+                }
+            ]
+        }
+    }
+}

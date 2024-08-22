@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"李\"",
+        "strokes": 7,
+        "main_meanings": [
+            "plum"
+        ],
+        "main_readings": {
+            "kun": [
+                "すもも"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2179": "Classic Nelson (Andrew Nelson)",
+                "488": "Japanese Names (P.G. O’Neill)",
+                "2104": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3050": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1555": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2126": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "14459": "Morohashi",
+                "2398": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2549": "New Nelson (John Haig)",
+                "2511": "Remembering The Kanji (James Heisig)",
+                "2571": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a2.7": "The Kanji Dictionary",
+                "2-4-3": "SKIP code",
+                "2-4-2": "SKIP code",
+                "4040.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-91": "JIS X 0208-1997 kuten code",
+                "674e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "もも、 い"
+                ],
+                "chinese": [
+                    "li3"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "子",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "李",
+                    "reading": "すもも",
+                    "meanings": [
+                        "Japanese plum (Prunus salicina)",
+                        "Chinese plum"
+                    ]
+                },
+                {
+                    "kanji": "スピノサ李",
+                    "reading": "スピノサすもも",
+                    "meanings": [
+                        "blackthorn (Prunus spinosa)",
+                        "sloe"
+                    ]
+                },
+                {
+                    "kanji": "干し李",
+                    "reading": "ほしすもも",
+                    "meanings": [
+                        "prune"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "李花",
+                    "reading": "リカ",
+                    "meanings": [
+                        "plum blossoms"
+                    ]
+                },
+                {
+                    "kanji": "李下",
+                    "reading": "リカ",
+                    "meanings": [
+                        "underneath a Japanese plum tree"
+                    ]
+                },
+                {
+                    "kanji": "行李",
+                    "reading": "コウリ",
+                    "meanings": [
+                        "wicker trunk",
+                        "wicker luggage"
+                    ]
+                },
+                {
+                    "kanji": "柳行李",
+                    "reading": "ヤナギゴウリ",
+                    "meanings": [
+                        "wicker trunk"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"海\"",
+        "strokes": 9,
+        "main_meanings": [
+            "sea",
+            "ocean"
+        ],
+        "main_readings": {
+            "kun": [
+                "うみ"
+            ],
+            "on": [
+                "カイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "55": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "94": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "88": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "158": "A New Dictionary of Kanji Usage",
+                "2553": "Classic Nelson (Andrew Nelson)",
+                "99": "Essential Kanji (P.G. O’Neill)",
+                "211": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1071": "Japanese Names (P.G. O’Neill)",
+                "3.14": "Japanese for Busy People",
+                "117": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "454": "Kanji in Context (Nishiguchi and Kono)",
+                "1184": "Kodansha Compact Kanji Guide",
+                "459": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "284": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "344": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "471": "Les Kanjis dans la tete (Yves Maniette)",
+                "17450": "Morohashi",
+                "384": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3133": "New Nelson (John Haig)",
+                "461": "Remembering The Kanji (James Heisig)",
+                "500": "Remembering The Kanji, 6th edition (James Heisig)",
+                "206": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "171": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "347": "2001 Kanji",
+                "3a6.20": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3815.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-04": "JIS X 0208-1997 kuten code",
+                "6d77": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あ、 あま、 うな、 うん、 え、 か、 た、 ひろ、 ひろし、 ぶ、 まち、 まま、 み、 め、 わたる"
+                ],
+                "chinese": [
+                    "hai3"
+                ],
+                "korean": [
+                    "hae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "汁",
+                "毋",
+                "母",
+                "乞"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "海",
+                    "reading": "うみ",
+                    "meanings": [
+                        "sea",
+                        "ocean",
+                        "waters"
+                    ]
+                },
+                {
+                    "kanji": "海辺",
+                    "reading": "うみべ",
+                    "meanings": [
+                        "beach",
+                        "seashore",
+                        "seaside",
+                        "coast"
+                    ]
+                },
+                {
+                    "kanji": "内海",
+                    "reading": "ないかい",
+                    "meanings": [
+                        "inland sea",
+                        "inlet",
+                        "gulf",
+                        "bay",
+                        "lake"
+                    ]
+                },
+                {
+                    "kanji": "血の海",
+                    "reading": "ちのうみ",
+                    "meanings": [
+                        "sea of blood",
+                        "pool of blood"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "海運",
+                    "reading": "カイウン",
+                    "meanings": [
+                        "maritime transport",
+                        "shipping"
+                    ]
+                },
+                {
+                    "kanji": "海域",
+                    "reading": "カイイキ",
+                    "meanings": [
+                        "area of ocean"
+                    ]
+                },
+                {
+                    "kanji": "公海",
+                    "reading": "コウカイ",
+                    "meanings": [
+                        "high seas",
+                        "international waters"
+                    ]
+                },
+                {
+                    "kanji": "内海",
+                    "reading": "ナイカイ",
+                    "meanings": [
+                        "inland sea",
+                        "inlet",
+                        "gulf",
+                        "bay",
+                        "lake"
+                    ]
+                }
+            ]
+        }
+    }
+}

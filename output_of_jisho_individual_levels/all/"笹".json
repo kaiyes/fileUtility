@@ -1,0 +1,93 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"笹\"",
+        "strokes": 11,
+        "main_meanings": [
+            "bamboo grass",
+            "(kokuji)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ささ"
+            ],
+            "on": null
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3384": "Classic Nelson (Andrew Nelson)",
+                "1772": "Japanese Names (P.G. O’Neill)",
+                "2189": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3301": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1708": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2321": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "949": "Les Kanjis dans la tete (Yves Maniette)",
+                "25968": "Morohashi",
+                "2663": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4271": "New Nelson (John Haig)",
+                "940": "Remembering The Kanji (James Heisig)",
+                "1010": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6f5.3": "The Kanji Dictionary",
+                "2-6-5": "SKIP code",
+                "2-6-4": "SKIP code",
+                "8871.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-91": "JIS X 0208-1997 kuten code",
+                "7b39": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さ、 さき、 しの、 じね"
+                ],
+                "chinese": null,
+                "korean": [
+                    "se"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "世",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "笹",
+                    "reading": "ささ",
+                    "meanings": [
+                        "bamboo grass",
+                        "generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"
+                    ]
+                },
+                {
+                    "kanji": "笹原",
+                    "reading": "ささはら",
+                    "meanings": [
+                        "field of bamboo grass"
+                    ]
+                }
+            ]
+        }
+    }
+}

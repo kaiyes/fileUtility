@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"愁\"",
+        "strokes": 13,
+        "main_meanings": [
+            "distress",
+            "grieve",
+            "lament",
+            "be anxious"
+        ],
+        "main_readings": {
+            "kun": [
+                "うれ.える",
+                "うれ.い"
+            ],
+            "on": [
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1357": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1737": "A New Dictionary of Kanji Usage",
+                "1729": "Classic Nelson (Andrew Nelson)",
+                "1778": "Essential Kanji (P.G. O’Neill)",
+                "1306": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1601": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1708": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1700": "Kanji in Context (Nishiguchi and Kono)",
+                "795": "Kodansha Compact Kanji Guide",
+                "3508": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1811": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2463": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "910": "Les Kanjis dans la tete (Yves Maniette)",
+                "10885": "Morohashi",
+                "2829": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1923": "New Nelson (John Haig)",
+                "901": "Remembering The Kanji (James Heisig)",
+                "967": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1625": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2258": "2001 Kanji",
+                "4k9.16": "The Kanji Dictionary",
+                "2-9-4": "SKIP code",
+                "2933.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-05": "JIS X 0208-1997 kuten code",
+                "6101": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chou2"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "心",
+                "火",
+                "禾"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "憂える",
+                    "reading": "うれえる",
+                    "meanings": [
+                        "to worry about",
+                        "to be anxious about",
+                        "to be concerned about",
+                        "to lament",
+                        "to grieve",
+                        "to feel sorrow for"
+                    ]
+                },
+                {
+                    "kanji": "憂い",
+                    "reading": "うれい",
+                    "meanings": [
+                        "sorrow",
+                        "grief",
+                        "anguish",
+                        "distress",
+                        "anxiety",
+                        "worry",
+                        "trouble",
+                        "affliction",
+                        "fear",
+                        "misgivings"
+                    ]
+                },
+                {
+                    "kanji": "憂い顔",
+                    "reading": "うれいがお",
+                    "meanings": [
+                        "sad face",
+                        "sorrowful face",
+                        "anxious look",
+                        "sad countenance"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "愁傷",
+                    "reading": "シュウショウ",
+                    "meanings": [
+                        "grief",
+                        "sorrow"
+                    ]
+                },
+                {
+                    "kanji": "愁色",
+                    "reading": "シュウショク",
+                    "meanings": [
+                        "worried look"
+                    ]
+                },
+                {
+                    "kanji": "哀愁",
+                    "reading": "アイシュウ",
+                    "meanings": [
+                        "pathos",
+                        "sorrow",
+                        "grief"
+                    ]
+                },
+                {
+                    "kanji": "憂愁",
+                    "reading": "ユウシュウ",
+                    "meanings": [
+                        "melancholy",
+                        "gloom",
+                        "grief"
+                    ]
+                }
+            ]
+        }
+    }
+}

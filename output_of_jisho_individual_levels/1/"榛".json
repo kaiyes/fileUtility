@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"榛\"",
+        "strokes": 14,
+        "main_meanings": [
+            "hazelnut",
+            "filbert"
+        ],
+        "main_readings": {
+            "kun": [
+                "はしばみ",
+                "はり"
+            ],
+            "on": [
+                "シン",
+                "ハン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2333": "Classic Nelson (Andrew Nelson)",
+                "2108": "Japanese Names (P.G. O’Neill)",
+                "2124": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1328": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "721": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "965": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "15240": "Morohashi",
+                "2811": "New Nelson (John Haig)",
+                "2475": "Remembering The Kanji (James Heisig)",
+                "2541": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a10.11": "The Kanji Dictionary",
+                "1-4-10": "SKIP code",
+                "4599.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-26": "JIS X 0208-1997 kuten code",
+                "699b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はい、 はる"
+                ],
+                "chinese": [
+                    "zhen1"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "一",
+                "二",
+                "人",
+                "木",
+                "禾"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "榛",
+                    "reading": "はしばみ",
+                    "meanings": [
+                        "Asian hazel (Corylus heterophylla var. thunbergii)",
+                        "Siberian hazel"
+                    ]
+                },
+                {
+                    "kanji": "はしばみの実",
+                    "reading": "はしばみのみ",
+                    "meanings": [
+                        "hazelnut"
+                    ]
+                },
+                {
+                    "kanji": "西洋榛",
+                    "reading": "せいようはしばみ",
+                    "meanings": [
+                        "Eurasian hazel (Corylus avellana)"
+                    ]
+                },
+                {
+                    "kanji": "角榛",
+                    "reading": "つのはしばみ",
+                    "meanings": [
+                        "Japanese hazel (Corylus sieboldiana)"
+                    ]
+                },
+                {
+                    "kanji": "榛",
+                    "reading": "はり",
+                    "meanings": [
+                        "Japanese alder (Alnus japonica)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "榛莽",
+                    "reading": "シンボウ",
+                    "meanings": [
+                        "luxuriant vegetation"
+                    ]
+                },
+                {
+                    "kanji": "榛の木",
+                    "reading": "ハンノキ",
+                    "meanings": [
+                        "Japanese alder (Alnus japonica)"
+                    ]
+                }
+            ]
+        }
+    }
+}

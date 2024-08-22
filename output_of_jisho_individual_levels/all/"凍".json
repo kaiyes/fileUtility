@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"凍\"",
+        "strokes": 10,
+        "main_meanings": [
+            "frozen",
+            "congeal",
+            "refrigerate"
+        ],
+        "main_readings": {
+            "kun": [
+                "こお.る",
+                "こご.える",
+                "こご.る",
+                "い.てる",
+                "し.みる"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1644": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1274": "A New Dictionary of Kanji Usage",
+                "649": "Classic Nelson (Andrew Nelson)",
+                "1435": "Essential Kanji (P.G. O’Neill)",
+                "349": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1205": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1268": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1094": "Kanji in Context (Nishiguchi and Kono)",
+                "168": "Kodansha Compact Kanji Guide",
+                "146": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "97": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "111": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "518": "Les Kanjis dans la tete (Yves Maniette)",
+                "1670": "Morohashi",
+                "129": "New Japanese English Character Dictionary (Jack Halpern)",
+                "427": "New Nelson (John Haig)",
+                "506": "Remembering The Kanji (James Heisig)",
+                "545": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1309": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "364": "2001 Kanji",
+                "2b8.2": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "3519.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-64": "JIS X 0208-1997 kuten code",
+                "51cd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こおり"
+                ],
+                "chinese": [
+                    "dong4"
+                ],
+                "korean": [
+                    "dong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ice",
+            "parts": [
+                "一",
+                "｜",
+                "冫",
+                "日",
+                "木",
+                "田"
+            ],
+            "basis": "冫",
+            "kangxi_order": 15,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "凍る",
+                    "reading": "こおる",
+                    "meanings": [
+                        "to freeze",
+                        "to become frozen",
+                        "to freeze over"
+                    ]
+                },
+                {
+                    "kanji": "凍える",
+                    "reading": "こごえる",
+                    "meanings": [
+                        "to freeze (of one's body)",
+                        "to be frozen",
+                        "to become numb (with cold)",
+                        "to be chilled"
+                    ]
+                },
+                {
+                    "kanji": "凍てる",
+                    "reading": "いてる",
+                    "meanings": [
+                        "to freeze",
+                        "to freeze over"
+                    ]
+                },
+                {
+                    "kanji": "凍みる",
+                    "reading": "しみる",
+                    "meanings": [
+                        "to freeze",
+                        "to be frozen over",
+                        "to congeal"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "凍結",
+                    "reading": "トウケツ",
+                    "meanings": [
+                        "freezing (e.g. water)",
+                        "freezing (prices",
+                        "wages",
+                        "assets",
+                        "etc.)",
+                        "moratorium",
+                        "suspension (e.g. investment)"
+                    ]
+                },
+                {
+                    "kanji": "凍死",
+                    "reading": "トウシ",
+                    "meanings": [
+                        "death from cold",
+                        "freezing to death"
+                    ]
+                },
+                {
+                    "kanji": "解凍",
+                    "reading": "カイトウ",
+                    "meanings": [
+                        "thawing",
+                        "defrosting",
+                        "decompression (of data)",
+                        "extraction",
+                        "unpacking",
+                        "unzipping"
+                    ]
+                },
+                {
+                    "kanji": "自動解凍",
+                    "reading": "ジドウカイトウ",
+                    "meanings": [
+                        "self-extracting (file)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"閑\"",
+        "strokes": 12,
+        "main_meanings": [
+            "leisure"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1109": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1645": "A New Dictionary of Kanji Usage",
+                "4948": "Classic Nelson (Andrew Nelson)",
+                "1280": "Essential Kanji (P.G. O’Neill)",
+                "1861": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1820": "Japanese Names (P.G. O’Neill)",
+                "1532": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1633": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1718": "Kanji in Context (Nishiguchi and Kono)",
+                "1842": "Kodansha Compact Kanji Guide",
+                "4123": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2093": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2837": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1639": "Les Kanjis dans la tete (Yves Maniette)",
+                "41247": "Morohashi",
+                "3322": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6390": "New Nelson (John Haig)",
+                "1625": "Remembering The Kanji (James Heisig)",
+                "1753": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1598": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3864": "2001 Kanji",
+                "8e4.2": "The Kanji Dictionary",
+                "3-8-4": "SKIP code",
+                "7790.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-55": "JIS X 0208-1997 kuten code",
+                "9591": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "が、 より"
+                ],
+                "chinese": [
+                    "xian2"
+                ],
+                "korean": [
+                    "han"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "gate",
+            "parts": [
+                "木",
+                "門"
+            ],
+            "basis": "門",
+            "kangxi_order": 169,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "閑",
+                    "reading": "カン",
+                    "meanings": [
+                        "spare time",
+                        "free time",
+                        "leisure"
+                    ]
+                },
+                {
+                    "kanji": "閑散",
+                    "reading": "カンサン",
+                    "meanings": [
+                        "deserted (esp. store",
+                        "market",
+                        "town",
+                        "streets)",
+                        "quiet",
+                        "still",
+                        "hushed",
+                        "empty",
+                        "inactive (business",
+                        "trade",
+                        "etc.)",
+                        "slack",
+                        "flat",
+                        "off-season",
+                        "quiet",
+                        "dull",
+                        "idle",
+                        "free",
+                        "unoccupied"
+                    ]
+                },
+                {
+                    "kanji": "清閑",
+                    "reading": "セイカン",
+                    "meanings": [
+                        "peaceful",
+                        "quiet",
+                        "tranquility",
+                        "tranquillity"
+                    ]
+                },
+                {
+                    "kanji": "休閑",
+                    "reading": "キュウカン",
+                    "meanings": [
+                        "fallowing"
+                    ]
+                }
+            ]
+        }
+    }
+}

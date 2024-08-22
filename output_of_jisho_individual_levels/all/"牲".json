@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"牲\"",
+        "strokes": 9,
+        "main_meanings": [
+            "animal sacrifice",
+            "offering"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1474": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1420": "A New Dictionary of Kanji Usage",
+                "2858": "Classic Nelson (Andrew Nelson)",
+                "1812": "Essential Kanji (P.G. O’Neill)",
+                "1521": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "830": "Japanese Names (P.G. O’Neill)",
+                "729": "Kanji and Kana (Spahn and Hadamitzky)",
+                "742": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "938": "Kanji in Context (Nishiguchi and Kono)",
+                "1292": "Kodansha Compact Kanji Guide",
+                "1133": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "612": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "813": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1573": "Les Kanjis dans la tete (Yves Maniette)",
+                "19986": "Morohashi",
+                "907": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3539": "New Nelson (John Haig)",
+                "1559": "Remembering The Kanji (James Heisig)",
+                "1680": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1278": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2472": "2001 Kanji",
+                "4g5.1": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "2551.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-23": "JIS X 0208-1997 kuten code",
+                "7272": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sheng1"
+                ],
+                "korean": [
+                    "saeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "牜"
+            ],
+            "meaning": "cow",
+            "parts": [
+                "牛",
+                "生"
+            ],
+            "basis": "牛",
+            "kangxi_order": 93,
+            "variants": null
+        },
+        "reading_examples": null
+    }
+}

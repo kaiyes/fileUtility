@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"壇\"",
+        "strokes": 16,
+        "main_meanings": [
+            "podium",
+            "stage",
+            "rostrum",
+            "terrace"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ダン",
+                "タン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1571": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1384": "A New Dictionary of Kanji Usage",
+                "1146": "Classic Nelson (Andrew Nelson)",
+                "1711": "Essential Kanji (P.G. O’Neill)",
+                "1170": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2438": "Japanese Names (P.G. O’Neill)",
+                "1839": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1990": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1440": "Kanji in Context (Nishiguchi and Kono)",
+                "392": "Kodansha Compact Kanji Guide",
+                "932": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "522": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "682": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "594": "Les Kanjis dans la tete (Yves Maniette)",
+                "5528": "Morohashi",
+                "754": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1101": "New Nelson (John Haig)",
+                "587": "Remembering The Kanji (James Heisig)",
+                "631": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1825": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1472": "2001 Kanji",
+                "3b13.5": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "4011.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-37": "JIS X 0208-1997 kuten code",
+                "58c7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tan2"
+                ],
+                "korean": [
+                    "dan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "一",
+                "亠",
+                "口",
+                "囗",
+                "土",
+                "日"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "壇",
+                    "reading": "ダン",
+                    "meanings": [
+                        "platform",
+                        "podium",
+                        "rostrum",
+                        "pulpit",
+                        "(ceremonial) mound",
+                        "world (of haiku",
+                        "art",
+                        "etc.)",
+                        "(literary) circles",
+                        "mandala"
+                    ]
+                },
+                {
+                    "kanji": "壇上",
+                    "reading": "ダンジョウ",
+                    "meanings": [
+                        "on a stage",
+                        "on a platform",
+                        "on an altar"
+                    ]
+                },
+                {
+                    "kanji": "仏壇",
+                    "reading": "ブツダン",
+                    "meanings": [
+                        "Buddhist (household) altar"
+                    ]
+                },
+                {
+                    "kanji": "教壇",
+                    "reading": "キョウダン",
+                    "meanings": [
+                        "(teacher's) platform",
+                        "podium",
+                        "dais"
+                    ]
+                },
+                {
+                    "kanji": "黒檀",
+                    "reading": "コクタン",
+                    "meanings": [
+                        "ebony"
+                    ]
+                }
+            ]
+        }
+    }
+}

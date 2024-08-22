@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"娘\"",
+        "strokes": 10,
+        "main_meanings": [
+            "daughter",
+            "girl"
+        ],
+        "main_readings": {
+            "kun": [
+                "むすめ",
+                "こ"
+            ],
+            "on": [
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1846": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "979": "A New Dictionary of Kanji Usage",
+                "1225": "Classic Nelson (Andrew Nelson)",
+                "999": "Essential Kanji (P.G. O’Neill)",
+                "452": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1599": "Japanese Names (P.G. O’Neill)",
+                "1752": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1876": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "601": "Kanji in Context (Nishiguchi and Kono)",
+                "446": "Kodansha Compact Kanji Guide",
+                "488": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "302": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "367": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1483": "Les Kanjis dans la tete (Yves Maniette)",
+                "6304": "Morohashi",
+                "406": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1230": "New Nelson (John Haig)",
+                "1471": "Remembering The Kanji (James Heisig)",
+                "1581": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1322": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1765": "2001 Kanji",
+                "3e7.2": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "4743.2": "Four corner code",
+                "4343.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-28": "JIS X 0208-1997 kuten code",
+                "5a18": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "niang2"
+                ],
+                "korean": [
+                    "nang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "艮"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "娘",
+                    "reading": "むすめ",
+                    "meanings": [
+                        "daughter",
+                        "girl (i.e. a young",
+                        "unmarried woman)"
+                    ]
+                },
+                {
+                    "kanji": "娘婿",
+                    "reading": "むすめむこ",
+                    "meanings": [
+                        "son-in-law"
+                    ]
+                },
+                {
+                    "kanji": "一人娘",
+                    "reading": "ひとりむすめ",
+                    "meanings": [
+                        "only daughter"
+                    ]
+                },
+                {
+                    "kanji": "もらい娘",
+                    "reading": "もらいむすめ",
+                    "meanings": [
+                        "adopted daughter"
+                    ]
+                },
+                {
+                    "kanji": "娘",
+                    "reading": "むすめ",
+                    "meanings": [
+                        "daughter",
+                        "girl (i.e. a young",
+                        "unmarried woman)"
+                    ]
+                },
+                {
+                    "kanji": "ボクっ娘",
+                    "reading": "ぼくっこ",
+                    "meanings": [
+                        "young woman who uses the usually male first person pronoun \"boku\""
+                    ]
+                },
+                {
+                    "kanji": "ドジっ子",
+                    "reading": "どじっこ",
+                    "meanings": [
+                        "clumsy girl",
+                        "clumsy kid"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "嬢",
+                    "reading": "ジョウ",
+                    "meanings": [
+                        "unmarried woman",
+                        "Miss",
+                        "-ess",
+                        "-ette"
+                    ]
+                },
+                {
+                    "kanji": "娘核",
+                    "reading": "ジョウカク",
+                    "meanings": [
+                        "daughter nucleus"
+                    ]
+                },
+                {
+                    "kanji": "令娘",
+                    "reading": "レイジョウ",
+                    "meanings": [
+                        "your daughter",
+                        "young lady"
+                    ]
+                },
+                {
+                    "kanji": "中国娘",
+                    "reading": "チュウゴクジョウ",
+                    "meanings": [
+                        "Chinese girl"
+                    ]
+                }
+            ]
+        }
+    }
+}

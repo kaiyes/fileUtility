@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"肢\"",
+        "strokes": 8,
+        "main_meanings": [
+            "limb",
+            "arms & legs"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1317": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1932": "A New Dictionary of Kanji Usage",
+                "3736": "Classic Nelson (Andrew Nelson)",
+                "1667": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1146": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1199": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1355": "Kanji in Context (Nishiguchi and Kono)",
+                "1023": "Kodansha Compact Kanji Guide",
+                "1094": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "594": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "786": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "721": "Les Kanjis dans la tete (Yves Maniette)",
+                "29285": "Morohashi",
+                "882": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4768": "New Nelson (John Haig)",
+                "714": "Remembering The Kanji (James Heisig)",
+                "771": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1192": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3967": "2001 Kanji",
+                "4b4.7": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "7424.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-72": "JIS X 0208-1997 kuten code",
+                "80a2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi1"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "十",
+                "又",
+                "支",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "肢体不自由児",
+                    "reading": "シタイフジユウジ",
+                    "meanings": [
+                        "physically disabled child",
+                        "child with a physical disability"
+                    ]
+                },
+                {
+                    "kanji": "肢体",
+                    "reading": "シタイ",
+                    "meanings": [
+                        "limbs",
+                        "arms and legs",
+                        "body"
+                    ]
+                },
+                {
+                    "kanji": "四肢",
+                    "reading": "シシ",
+                    "meanings": [
+                        "the (four) limbs",
+                        "arms and legs"
+                    ]
+                },
+                {
+                    "kanji": "下肢",
+                    "reading": "カシ",
+                    "meanings": [
+                        "lower limbs",
+                        "legs"
+                    ]
+                }
+            ]
+        }
+    }
+}

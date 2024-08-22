@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"失\"",
+        "strokes": 5,
+        "main_meanings": [
+            "lose",
+            "error",
+            "fault",
+            "disadvantage",
+            "loss"
+        ],
+        "main_readings": {
+            "kun": [
+                "うしな.う",
+                "う.せる"
+            ],
+            "on": [
+                "シツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "418": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "529": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "501": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "523": "A New Dictionary of Kanji Usage",
+                "178": "Classic Nelson (Andrew Nelson)",
+                "238": "Essential Kanji (P.G. O’Neill)",
+                "447": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "3.13": "Japanese for Busy People",
+                "311": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "594": "Kanji in Context (Nishiguchi and Kono)",
+                "413": "Kodansha Compact Kanji Guide",
+                "4325": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2189": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2947": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "853": "Les Kanjis dans la tete (Yves Maniette)",
+                "5844": "Morohashi",
+                "3511": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1141": "New Nelson (John Haig)",
+                "845": "Remembering The Kanji (James Heisig)",
+                "908": "Remembering The Kanji, 6th edition (James Heisig)",
+                "346": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "452": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2463": "2001 Kanji",
+                "0a5.28": "The Kanji Dictionary",
+                "4-5-4": "SKIP code",
+                "2503.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-26": "JIS X 0208-1997 kuten code",
+                "5931": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi1"
+                ],
+                "korean": [
+                    "sil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "big,",
+            "parts": [
+                "ノ",
+                "二",
+                "人",
+                "大"
+            ],
+            "basis": "大",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "失う",
+                    "reading": "うしなう",
+                    "meanings": [
+                        "to lose",
+                        "to miss (a chance",
+                        "opportunity)",
+                        "to lose (a loved one)",
+                        "to be bereaved of",
+                        "to concede (goals",
+                        "points",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "失せる",
+                    "reading": "うせる",
+                    "meanings": [
+                        "to disappear",
+                        "to vanish",
+                        "to fade away",
+                        "to go",
+                        "to leave",
+                        "to die"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "失",
+                    "reading": "シツ",
+                    "meanings": [
+                        "loss (of something)",
+                        "disadvantage",
+                        "mistake",
+                        "error",
+                        "failure",
+                        "flaw",
+                        "defect",
+                        "error"
+                    ]
+                },
+                {
+                    "kanji": "失業",
+                    "reading": "シツギョウ",
+                    "meanings": [
+                        "unemployment",
+                        "losing one's job",
+                        "becoming unemployed"
+                    ]
+                },
+                {
+                    "kanji": "得失",
+                    "reading": "トクシツ",
+                    "meanings": [
+                        "advantages and disadvantages",
+                        "plus and minuses"
+                    ]
+                },
+                {
+                    "kanji": "敵失",
+                    "reading": "テキシツ",
+                    "meanings": [
+                        "error made by the enemy or opposing team"
+                    ]
+                }
+            ]
+        }
+    }
+}

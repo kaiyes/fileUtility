@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"刷\"",
+        "strokes": 8,
+        "main_meanings": [
+            "printing",
+            "print",
+            "brush"
+        ],
+        "main_readings": {
+            "kun": [
+                "す.る",
+                "-ず.り",
+                "-ずり",
+                "は.く"
+            ],
+            "on": [
+                "サツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "405": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "514": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "487": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1261": "A New Dictionary of Kanji Usage",
+                "210": "Classic Nelson (Andrew Nelson)",
+                "802": "Essential Kanji (P.G. O’Neill)",
+                "358": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "655": "Japanese Names (P.G. O’Neill)",
+                "1044": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1087": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1137": "Kanji in Context (Nishiguchi and Kono)",
+                "191": "Kodansha Compact Kanji Guide",
+                "1623": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "853": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1169": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1078": "Les Kanjis dans la tete (Yves Maniette)",
+                "1964": "Morohashi",
+                "1273": "New Japanese English Character Dictionary (Jack Halpern)",
+                "479": "New Nelson (John Haig)",
+                "1069": "Remembering The Kanji (James Heisig)",
+                "1150": "Remembering The Kanji, 6th edition (James Heisig)",
+                "504": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3743": "2001 Kanji",
+                "2f6.9": "The Kanji Dictionary",
+                "1-6-2": "SKIP code",
+                "7220.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-94": "JIS X 0208-1997 kuten code",
+                "5237": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shua1",
+                    "shua4"
+                ],
+                "korean": [
+                    "swae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "刈",
+                "尸",
+                "巾"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "刷る",
+                    "reading": "する",
+                    "meanings": [
+                        "to print",
+                        "to color or pattern fabric using a wooden mold"
+                    ]
+                },
+                {
+                    "kanji": "刷く",
+                    "reading": "はく",
+                    "meanings": [
+                        "to daub",
+                        "to brush",
+                        "to touch up"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "刷",
+                    "reading": "サツ",
+                    "meanings": [
+                        "printing",
+                        "impression",
+                        "issue"
+                    ]
+                },
+                {
+                    "kanji": "刷数",
+                    "reading": "サツスウ",
+                    "meanings": [
+                        "number (of books) printed"
+                    ]
+                },
+                {
+                    "kanji": "凸版印刷",
+                    "reading": "トッパンインサツ",
+                    "meanings": [
+                        "letterpress",
+                        "relief printing"
+                    ]
+                },
+                {
+                    "kanji": "増刷",
+                    "reading": "ゾウサツ",
+                    "meanings": [
+                        "additional printing (esp. of books",
+                        "etc.)",
+                        "additional run"
+                    ]
+                }
+            ]
+        }
+    }
+}

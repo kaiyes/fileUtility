@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"枯\"",
+        "strokes": 9,
+        "main_meanings": [
+            "wither",
+            "die",
+            "dry up",
+            "be seasoned"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.れる",
+                "か.らす"
+            ],
+            "on": [
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1231": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1783": "A New Dictionary of Kanji Usage",
+                "2238": "Classic Nelson (Andrew Nelson)",
+                "1246": "Essential Kanji (P.G. O’Neill)",
+                "627": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "859": "Japanese Names (P.G. O’Neill)",
+                "974": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1007": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1356": "Kanji in Context (Nishiguchi and Kono)",
+                "1083": "Kodansha Compact Kanji Guide",
+                "1113": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "605": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "801": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "210": "Les Kanjis dans la tete (Yves Maniette)",
+                "14579": "Morohashi",
+                "898": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2634": "New Nelson (John Haig)",
+                "206": "Remembering The Kanji (James Heisig)",
+                "219": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1268": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1877": "2001 Kanji",
+                "4a5.26": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "4496.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-47": "JIS X 0208-1997 kuten code",
+                "67af": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ku1"
+                ],
+                "korean": [
+                    "go"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "十",
+                "口",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "枯れる",
+                    "reading": "かれる",
+                    "meanings": [
+                        "to wither (of a plant)",
+                        "to be blasted",
+                        "to die",
+                        "to mature (of one's personality",
+                        "abilities",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "枯らす",
+                    "reading": "からす",
+                    "meanings": [
+                        "to let dry",
+                        "to kill (vegetation)",
+                        "to season (lumber)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "枯れ木",
+                    "reading": "カレキ",
+                    "meanings": [
+                        "dead tree",
+                        "withered tree",
+                        "leafless tree",
+                        "bare tree"
+                    ]
+                },
+                {
+                    "kanji": "枯死",
+                    "reading": "コシ",
+                    "meanings": [
+                        "withering",
+                        "dying"
+                    ]
+                },
+                {
+                    "kanji": "栄枯",
+                    "reading": "エイコ",
+                    "meanings": [
+                        "vicissitudes",
+                        "ups and downs"
+                    ]
+                },
+                {
+                    "kanji": "蒼古",
+                    "reading": "ソウコ",
+                    "meanings": [
+                        "old-fashioned and tasteful"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"峠\"",
+        "strokes": 9,
+        "main_meanings": [
+            "mountain peak",
+            "mountain pass",
+            "climax",
+            "crest",
+            "(kokuji)"
+        ],
+        "main_readings": {
+            "kun": [
+                "とうげ"
+            ],
+            "on": null
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1663": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1751": "A New Dictionary of Kanji Usage",
+                "1416": "Classic Nelson (Andrew Nelson)",
+                "1473": "Essential Kanji (P.G. O’Neill)",
+                "1239": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1081": "Japanese Names (P.G. O’Neill)",
+                "1351": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1434": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1849": "Kanji in Context (Nishiguchi and Kono)",
+                "542": "Kodansha Compact Kanji Guide",
+                "428": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "265": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "319": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "780": "Les Kanjis dans la tete (Yves Maniette)",
+                "8068": "Morohashi",
+                "358": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1464": "New Nelson (John Haig)",
+                "773": "Remembering The Kanji (James Heisig)",
+                "835": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1248": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1254": "2001 Kanji",
+                "3o6.3": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "2173.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-29": "JIS X 0208-1997 kuten code",
+                "5ce0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": null,
+                "korean": [
+                    "sang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "一",
+                "｜",
+                "卜",
+                "山"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "峠",
+                    "reading": "とうげ",
+                    "meanings": [
+                        "(mountain) pass",
+                        "highest point on a mountain road",
+                        "ridge",
+                        "peak (e.g. of summer)",
+                        "worst (e.g. of an illness)",
+                        "crisis",
+                        "critical point",
+                        "most difficult part"
+                    ]
+                },
+                {
+                    "kanji": "峠越え",
+                    "reading": "とうげごえ",
+                    "meanings": [
+                        "crossing a mountain pass"
+                    ]
+                },
+                {
+                    "kanji": "碓氷峠",
+                    "reading": "うすいとうげ",
+                    "meanings": [
+                        "Usui Pass"
+                    ]
+                },
+                {
+                    "kanji": "大菩薩峠",
+                    "reading": "だいぼさつとうげ",
+                    "meanings": [
+                        "The Sword of Doom (1966 film)"
+                    ]
+                }
+            ]
+        }
+    }
+}

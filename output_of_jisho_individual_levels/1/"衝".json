@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"衝\"",
+        "strokes": 15,
+        "main_meanings": [
+            "collide",
+            "brunt",
+            "highway",
+            "opposition (astronomy)",
+            "thrust",
+            "pierce",
+            "stab",
+            "prick"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.く"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1411": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "918": "A New Dictionary of Kanji Usage",
+                "1638": "Classic Nelson (Andrew Nelson)",
+                "1117": "Essential Kanji (P.G. O’Neill)",
+                "1723": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2264": "Japanese Names (P.G. O’Neill)",
+                "1772": "New Nelson (John Haig)",
+                "1904": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1388": "Kanji in Context (Nishiguchi and Kono)",
+                "1616": "Kodansha Compact Kanji Guide",
+                "893": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "509": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "658": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1696": "Les Kanjis dans la tete (Yves Maniette)",
+                "34069": "Morohashi",
+                "725": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1680": "Remembering The Kanji (James Heisig)",
+                "1811": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1759": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2053": "2001 Kanji",
+                "3i12.1": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "2122.1": "Four corner code",
+                "2110.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-55": "JIS X 0208-1997 kuten code",
+                "885d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "chong1",
+                    "chong4"
+                ],
+                "korean": [
+                    "chung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "go,",
+            "parts": [
+                "｜",
+                "ノ",
+                "彳",
+                "日",
+                "行",
+                "里"
+            ],
+            "basis": "行",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "突く",
+                    "reading": "つく",
+                    "meanings": [
+                        "to prick",
+                        "to stab",
+                        "to poke",
+                        "to prod",
+                        "to push",
+                        "to thrust",
+                        "to nudge",
+                        "to hit",
+                        "to strike",
+                        "to use (a cane)",
+                        "to prop oneself up with",
+                        "to press against (the floor",
+                        "etc.)",
+                        "to attack",
+                        "to brave (the rain",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "衝羽根",
+                    "reading": "つくばね",
+                    "meanings": [
+                        "Buckleya lanceolata (species of parasitic deciduous shrub)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "衝",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "important point (e.g. on a route)",
+                        "important role (responsibility",
+                        "etc.)",
+                        "opposition"
+                    ]
+                },
+                {
+                    "kanji": "衝撃",
+                    "reading": "ショウゲキ",
+                    "meanings": [
+                        "impact",
+                        "shock",
+                        "impulse",
+                        "(psychological) shock"
+                    ]
+                },
+                {
+                    "kanji": "要衝",
+                    "reading": "ヨウショウ",
+                    "meanings": [
+                        "important point",
+                        "strategic position",
+                        "key point"
+                    ]
+                },
+                {
+                    "kanji": "緩衝",
+                    "reading": "カンショウ",
+                    "meanings": [
+                        "buffered"
+                    ]
+                }
+            ]
+        }
+    }
+}

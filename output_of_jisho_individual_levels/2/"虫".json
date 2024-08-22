@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"虫\"",
+        "strokes": 6,
+        "main_meanings": [
+            "insect",
+            "bug",
+            "temper"
+        ],
+        "main_readings": {
+            "kun": [
+                "むし"
+            ],
+            "on": [
+                "チュウ",
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "114": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "74": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "56": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1073": "A New Dictionary of Kanji Usage",
+                "4115": "Classic Nelson (Andrew Nelson)",
+                "133": "Essential Kanji (P.G. O’Neill)",
+                "875": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "324": "Japanese Names (P.G. O’Neill)",
+                "873": "Kanji and Kana (Spahn and Hadamitzky)",
+                "893": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "466": "Kanji in Context (Nishiguchi and Kono)",
+                "1604": "Kodansha Compact Kanji Guide",
+                "4343": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2199": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2959": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "523": "Les Kanjis dans la tete (Yves Maniette)",
+                "32804": "Morohashi",
+                "3530": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5275": "New Nelson (John Haig)",
+                "517": "Remembering The Kanji (James Heisig)",
+                "556": "Remembering The Kanji, 6th edition (James Heisig)",
+                "60": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1671": "2001 Kanji",
+                "6d0.1": "The Kanji Dictionary",
+                "4-6-3": "SKIP code",
+                "2-4-2": "SKIP code",
+                "5013.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-78": "JIS X 0208-1997 kuten code",
+                "866b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "む"
+                ],
+                "chinese": [
+                    "chong2",
+                    "hui3"
+                ],
+                "korean": [
+                    "hwe",
+                    "chung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "insect",
+            "parts": [
+                "虫"
+            ],
+            "basis": "虫",
+            "kangxi_order": 142,
+            "variants": [
+                "蟲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "虫",
+                    "reading": "むし",
+                    "meanings": [
+                        "insect",
+                        "bug",
+                        "cricket",
+                        "moth",
+                        "worm",
+                        "roundworm",
+                        "thing inside one's body believed to influence one's thoughts and feelings",
+                        "(one's) unconscious",
+                        "nervousness",
+                        "fretfulness",
+                        "person devoted to one thing",
+                        "single-minded person",
+                        "valve core",
+                        "mushi (type of game played with a stripped deck)"
+                    ]
+                },
+                {
+                    "kanji": "虫歯",
+                    "reading": "むしば",
+                    "meanings": [
+                        "tooth decay",
+                        "cavity",
+                        "decayed tooth",
+                        "dental caries"
+                    ]
+                },
+                {
+                    "kanji": "苦虫",
+                    "reading": "にがむし",
+                    "meanings": [
+                        "bitter-tasting bug"
+                    ]
+                },
+                {
+                    "kanji": "馬追虫",
+                    "reading": "うまおいむし",
+                    "meanings": [
+                        "Hexacentrus japonicus (species of katydid)",
+                        "Hexacentrus unicolor (species of katydid)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "虫垂炎",
+                    "reading": "チュウスイエン",
+                    "meanings": [
+                        "appendicitis"
+                    ]
+                },
+                {
+                    "kanji": "虫えい",
+                    "reading": "チュウエイ",
+                    "meanings": [
+                        "gall (abnormal plant growth formed by insects)"
+                    ]
+                },
+                {
+                    "kanji": "幼虫",
+                    "reading": "ヨウチュウ",
+                    "meanings": [
+                        "larva",
+                        "grub",
+                        "maggot"
+                    ]
+                },
+                {
+                    "kanji": "寄生虫",
+                    "reading": "キセイチュウ",
+                    "meanings": [
+                        "parasite"
+                    ]
+                },
+                {
+                    "kanji": "虫部",
+                    "reading": "キブ",
+                    "meanings": [
+                        "insect radical",
+                        "worm radical"
+                    ]
+                },
+                {
+                    "kanji": "蟻巻",
+                    "reading": "アリマキ",
+                    "meanings": [
+                        "aphid",
+                        "plant louse",
+                        "plant lice"
+                    ]
+                }
+            ]
+        }
+    }
+}

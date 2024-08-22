@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"一\"",
+        "strokes": 1,
+        "main_meanings": [
+            "one",
+            "one radical (no.1)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひと-",
+                "ひと.つ"
+            ],
+            "on": [
+                "イチ",
+                "イツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1": "Tuttle Kanji Cards (Alexander Kask)",
+                "4": "A New Dictionary of Kanji Usage",
+                "3": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "2": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "4148": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2105": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2850": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "3341": "New Japanese English Character Dictionary (Jack Halpern)"
+            },
+            "classifications": {
+                "3072": "2001 Kanji",
+                "0a1.1": "The Kanji Dictionary",
+                "4-1-4": "SKIP code",
+                "1000.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-76": "JIS X 0208-1997 kuten code",
+                "4e00": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かず、 い、 いっ、 いる、 かつ、 かづ、 てん、 はじめ、 ひ、 ひとつ、 まこと"
+                ],
+                "chinese": [
+                    "yi1"
+                ],
+                "korean": [
+                    "il"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": [
+                "弌"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "一つ",
+                    "reading": "ひとつ",
+                    "meanings": [
+                        "one",
+                        "for one thing",
+                        "only",
+                        "(not) even",
+                        "just (e.g. \"just try it\")",
+                        "some kind of",
+                        "one type of"
+                    ]
+                },
+                {
+                    "kanji": "一つ一つ",
+                    "reading": "ひとつひとつ",
+                    "meanings": [
+                        "one-by-one",
+                        "separately",
+                        "in detail"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "一",
+                    "reading": "イチ",
+                    "meanings": [
+                        "one",
+                        "1",
+                        "best",
+                        "first",
+                        "foremost",
+                        "beginning",
+                        "start",
+                        "a (single)",
+                        "one (of many)",
+                        "ace",
+                        "bottom string (on a shamisen",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "一位",
+                    "reading": "イチイ",
+                    "meanings": [
+                        "first place",
+                        "first rank",
+                        "units position (of a number)"
+                    ]
+                },
+                {
+                    "kanji": "十一",
+                    "reading": "ジュウイチ",
+                    "meanings": [
+                        "eleven",
+                        "11",
+                        "jack"
+                    ]
+                },
+                {
+                    "kanji": "１対１",
+                    "reading": "イチタイイチ",
+                    "meanings": [
+                        "one-to-one",
+                        "one-on-one"
+                    ]
+                },
+                {
+                    "kanji": "一",
+                    "reading": "イツ",
+                    "meanings": [
+                        "one",
+                        "same (mind",
+                        "path",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "一に",
+                    "reading": "イツニ",
+                    "meanings": [
+                        "solely",
+                        "entirely",
+                        "only",
+                        "or"
+                    ]
+                },
+                {
+                    "kanji": "均一",
+                    "reading": "キンイツ",
+                    "meanings": [
+                        "uniformity",
+                        "equality"
+                    ]
+                },
+                {
+                    "kanji": "画一",
+                    "reading": "カクイツ",
+                    "meanings": [
+                        "uniformity",
+                        "standardization",
+                        "standardisation"
+                    ]
+                }
+            ]
+        }
+    }
+}

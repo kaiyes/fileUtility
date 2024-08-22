@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"倹\"",
+        "strokes": 10,
+        "main_meanings": [
+            "frugal",
+            "economy",
+            "thrifty"
+        ],
+        "main_readings": {
+            "kun": [
+                "つま.しい",
+                "つづまやか"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1213": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1949": "A New Dictionary of Kanji Usage",
+                "479": "Classic Nelson (Andrew Nelson)",
+                "1620": "Essential Kanji (P.G. O’Neill)",
+                "1058": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "878": "Kanji and Kana (Spahn and Hadamitzky)",
+                "899": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1425": "Kanji in Context (Nishiguchi and Kono)",
+                "103": "Kodansha Compact Kanji Guide",
+                "130": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "86": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "98": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1690": "Les Kanjis dans la tete (Yves Maniette)",
+                "823": "Morohashi",
+                "116": "New Japanese English Character Dictionary (Jack Halpern)",
+                "248": "New Nelson (John Haig)",
+                "1674": "Remembering The Kanji (James Heisig)",
+                "1804": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1302": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2163": "2001 Kanji",
+                "2a8.27": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "2823.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-80": "JIS X 0208-1997 kuten code",
+                "5039": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jian3"
+                ],
+                "korean": [
+                    "geom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "人",
+                "化",
+                "个",
+                "口"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "儉"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "倹しい",
+                    "reading": "つましい",
+                    "meanings": [
+                        "thrifty",
+                        "frugal",
+                        "economical"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "倹",
+                    "reading": "ケン",
+                    "meanings": [
+                        "economizing",
+                        "thriftiness",
+                        "prudence",
+                        "frugality"
+                    ]
+                },
+                {
+                    "kanji": "倹約",
+                    "reading": "ケンヤク",
+                    "meanings": [
+                        "thrift",
+                        "economy",
+                        "frugality"
+                    ]
+                },
+                {
+                    "kanji": "恭倹",
+                    "reading": "キョウケン",
+                    "meanings": [
+                        "respectfulness and modesty",
+                        "deference"
+                    ]
+                },
+                {
+                    "kanji": "節倹",
+                    "reading": "セッケン",
+                    "meanings": [
+                        "economy",
+                        "thrift"
+                    ]
+                }
+            ]
+        }
+    }
+}

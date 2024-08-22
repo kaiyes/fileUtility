@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"思\"",
+        "strokes": 9,
+        "main_meanings": [
+            "think"
+        ],
+        "main_readings": {
+            "kun": [
+                "おも.う",
+                "おもえら.く",
+                "おぼ.す"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "84": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "147": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "131": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "149": "A New Dictionary of Kanji Usage",
+                "3001": "Classic Nelson (Andrew Nelson)",
+                "95": "Essential Kanji (P.G. O’Neill)",
+                "173": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "966": "Japanese Names (P.G. O’Neill)",
+                "2.8": "Japanese for Busy People",
+                "99": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "202": "Kanji in Context (Nishiguchi and Kono)",
+                "776": "Kodansha Compact Kanji Guide",
+                "3173": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1633": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2221": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "612": "Les Kanjis dans la tete (Yves Maniette)",
+                "10462": "Morohashi",
+                "2564": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1824": "New Nelson (John Haig)",
+                "605": "Remembering The Kanji (James Heisig)",
+                "651": "Remembering The Kanji, 6th edition (James Heisig)",
+                "26": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "175": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3658": "2001 Kanji",
+                "5f4.4": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "6033.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-55": "JIS X 0208-1997 kuten code",
+                "601d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "si1",
+                    "sai1"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "心",
+                "田"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": [
+                "恖"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "思う",
+                    "reading": "おもう",
+                    "meanings": [
+                        "to think",
+                        "to consider",
+                        "to believe",
+                        "to reckon",
+                        "to think (of doing)",
+                        "to plan (to do)",
+                        "to judge",
+                        "to assess",
+                        "to regard",
+                        "to imagine",
+                        "to suppose",
+                        "to dream",
+                        "to expect",
+                        "to look forward to",
+                        "to feel",
+                        "to be (in a state of mind)",
+                        "to desire",
+                        "to want",
+                        "to recall",
+                        "to remember"
+                    ]
+                },
+                {
+                    "kanji": "思う存分",
+                    "reading": "おもうぞんぶん",
+                    "meanings": [
+                        "to one's heart's content",
+                        "to one's complete satisfaction",
+                        "as much as one likes",
+                        "heartily",
+                        "thoroughly",
+                        "without restraint",
+                        "to the full"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "思春期",
+                    "reading": "シシュンキ",
+                    "meanings": [
+                        "puberty",
+                        "adolescence"
+                    ]
+                },
+                {
+                    "kanji": "思考",
+                    "reading": "シコウ",
+                    "meanings": [
+                        "thought",
+                        "consideration",
+                        "thinking"
+                    ]
+                },
+                {
+                    "kanji": "相思",
+                    "reading": "ソウシ",
+                    "meanings": [
+                        "mutual affection",
+                        "mutual love"
+                    ]
+                },
+                {
+                    "kanji": "哀思",
+                    "reading": "アイシ",
+                    "meanings": [
+                        "sad feeling"
+                    ]
+                }
+            ]
+        }
+    }
+}

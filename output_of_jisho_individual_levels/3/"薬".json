@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"薬\"",
+        "strokes": 16,
+        "main_meanings": [
+            "medicine",
+            "chemical",
+            "enamel",
+            "gunpowder",
+            "benefit"
+        ],
+        "main_readings": {
+            "kun": [
+                "くすり"
+            ],
+            "on": [
+                "ヤク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "521": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "420": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "398": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "541": "A New Dictionary of Kanji Usage",
+                "4074": "Classic Nelson (Andrew Nelson)",
+                "323": "Essential Kanji (P.G. O’Neill)",
+                "247": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2568": "Japanese Names (P.G. O’Neill)",
+                "2.6": "Japanese for Busy People",
+                "359": "Kanji and Kana (Spahn and Hadamitzky)",
+                "360": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "315": "Kanji in Context (Nishiguchi and Kono)",
+                "672": "Kodansha Compact Kanji Guide",
+                "3011": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1539": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2100": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1752": "Les Kanjis dans la tete (Yves Maniette)",
+                "32188PX": "Morohashi",
+                "2375": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5224": "New Nelson (John Haig)",
+                "1736": "Remembering The Kanji (James Heisig)",
+                "1873": "Remembering The Kanji, 6th edition (James Heisig)",
+                "439": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1964": "2001 Kanji",
+                "3k13.15": "The Kanji Dictionary",
+                "2-3-13": "SKIP code",
+                "4490.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-84": "JIS X 0208-1997 kuten code",
+                "85ac": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "み"
+                ],
+                "chinese": [
+                    "yao4"
+                ],
+                "korean": [
+                    "yag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "冫",
+                "艾",
+                "日",
+                "木"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": [
+                "藥"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "薬",
+                    "reading": "くすり",
+                    "meanings": [
+                        "medicine",
+                        "pharmaceuticals",
+                        "(legal) drugs",
+                        "pill",
+                        "ointment",
+                        "salve",
+                        "efficacious chemical (gunpowder",
+                        "pesticide",
+                        "etc.)",
+                        "(pottery) glaze",
+                        "(illegal) drug",
+                        "narcotic",
+                        "small bribe"
+                    ]
+                },
+                {
+                    "kanji": "薬指",
+                    "reading": "くすりゆび",
+                    "meanings": [
+                        "ring finger",
+                        "third finger",
+                        "fourth finger (in piano-playing)",
+                        "fourth toe"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "薬",
+                    "reading": "ヤク",
+                    "meanings": [
+                        "dope",
+                        "narcotic",
+                        "drug"
+                    ]
+                },
+                {
+                    "kanji": "薬価",
+                    "reading": "ヤッカ",
+                    "meanings": [
+                        "drug price",
+                        "cost of medicine"
+                    ]
+                },
+                {
+                    "kanji": "製薬",
+                    "reading": "セイヤク",
+                    "meanings": [
+                        "medicine manufacture",
+                        "drug manufacture"
+                    ]
+                },
+                {
+                    "kanji": "医薬",
+                    "reading": "イヤク",
+                    "meanings": [
+                        "medicine",
+                        "Pharmaceutical and Food Safety Bureau"
+                    ]
+                }
+            ]
+        }
+    }
+}

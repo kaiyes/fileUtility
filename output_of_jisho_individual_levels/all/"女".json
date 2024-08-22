@@ -1,0 +1,261 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"女\"",
+        "strokes": 3,
+        "main_meanings": [
+            "woman",
+            "female"
+        ],
+        "main_readings": {
+            "kun": [
+                "おんな",
+                "め"
+            ],
+            "on": [
+                "ジョ",
+                "ニョ",
+                "ニョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "32": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "41": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "35": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "178": "A New Dictionary of Kanji Usage",
+                "1185": "Classic Nelson (Andrew Nelson)",
+                "62": "Essential Kanji (P.G. O’Neill)",
+                "42": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "114": "Japanese Names (P.G. O’Neill)",
+                "2.13": "Japanese for Busy People",
+                "102": "Remembering The Kanji, 6th edition (James Heisig)",
+                "68": "Kanji in Context (Nishiguchi and Kono)",
+                "423": "Kodansha Compact Kanji Guide",
+                "4226": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2135": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2884": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "99": "Les Kanjis dans la tete (Yves Maniette)",
+                "6036": "Morohashi",
+                "3418": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1173": "New Nelson (John Haig)",
+                "98": "Remembering The Kanji (James Heisig)",
+                "60": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "19": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1769": "2001 Kanji",
+                "3e0.1": "The Kanji Dictionary",
+                "4-3-4": "SKIP code",
+                "4040.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-87": "JIS X 0208-1997 kuten code",
+                "5973": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おな、 た、 つき、 な"
+                ],
+                "chinese": [
+                    "nu:3",
+                    "ru3"
+                ],
+                "korean": [
+                    "nyeo",
+                    "yeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "女",
+                    "reading": "おんな",
+                    "meanings": [
+                        "woman",
+                        "female",
+                        "female lover",
+                        "girlfriend",
+                        "mistress",
+                        "(someone's) woman"
+                    ]
+                },
+                {
+                    "kanji": "女形",
+                    "reading": "おんながた",
+                    "meanings": [
+                        "onnagata",
+                        "male actor in female kabuki roles",
+                        "female partner (in a relationship)"
+                    ]
+                },
+                {
+                    "kanji": "醜女",
+                    "reading": "しゅうじょ",
+                    "meanings": [
+                        "homely woman",
+                        "plain-looking woman",
+                        "female demon"
+                    ]
+                },
+                {
+                    "kanji": "囲い女",
+                    "reading": "かこいおんな",
+                    "meanings": [
+                        "mistress"
+                    ]
+                },
+                {
+                    "kanji": "雌",
+                    "reading": "め",
+                    "meanings": [
+                        "female",
+                        "smaller (of the two)",
+                        "weaker",
+                        "woman",
+                        "wife"
+                    ]
+                },
+                {
+                    "kanji": "女神",
+                    "reading": "めがみ",
+                    "meanings": [
+                        "goddess",
+                        "female deity"
+                    ]
+                },
+                {
+                    "kanji": "早乙女",
+                    "reading": "さおとめ",
+                    "meanings": [
+                        "young female rice planter",
+                        "young girl"
+                    ]
+                },
+                {
+                    "kanji": "醜女",
+                    "reading": "しゅうじょ",
+                    "meanings": [
+                        "homely woman",
+                        "plain-looking woman",
+                        "female demon"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "女",
+                    "reading": "ジョ",
+                    "meanings": [
+                        "woman",
+                        "girl",
+                        "daughter",
+                        "Chinese \"Girl\" constellation (one of the 28 mansions)",
+                        "feminine noun"
+                    ]
+                },
+                {
+                    "kanji": "女王",
+                    "reading": "ジョオウ",
+                    "meanings": [
+                        "queen",
+                        "female champion"
+                    ]
+                },
+                {
+                    "kanji": "処女",
+                    "reading": "ショジョ",
+                    "meanings": [
+                        "virgin (usu. female)",
+                        "maiden",
+                        "virgin (e.g. forest)",
+                        "unspoiled by human activity",
+                        "debut",
+                        "maiden (e.g. voyage)"
+                    ]
+                },
+                {
+                    "kanji": "一女",
+                    "reading": "イチジョ",
+                    "meanings": [
+                        "one daughter",
+                        "eldest daughter",
+                        "first-born daughter"
+                    ]
+                },
+                {
+                    "kanji": "女王",
+                    "reading": "ジョオウ",
+                    "meanings": [
+                        "queen",
+                        "female champion"
+                    ]
+                },
+                {
+                    "kanji": "女房",
+                    "reading": "ニョウボウ",
+                    "meanings": [
+                        "wife (esp. one's own wife)",
+                        "court lady",
+                        "female court attache",
+                        "woman who served at the imperial palace",
+                        "woman (esp. as a love interest)"
+                    ]
+                },
+                {
+                    "kanji": "老若男女",
+                    "reading": "ロウニャクナンニョ",
+                    "meanings": [
+                        "men and women of all ages"
+                    ]
+                },
+                {
+                    "kanji": "天女",
+                    "reading": "テンニョ",
+                    "meanings": [
+                        "heavenly nymph",
+                        "celestial maiden",
+                        "beautiful and kind woman"
+                    ]
+                },
+                {
+                    "kanji": "女房",
+                    "reading": "ニョウボウ",
+                    "meanings": [
+                        "wife (esp. one's own wife)",
+                        "court lady",
+                        "female court attache",
+                        "woman who served at the imperial palace",
+                        "woman (esp. as a love interest)"
+                    ]
+                },
+                {
+                    "kanji": "女官",
+                    "reading": "ジョカン",
+                    "meanings": [
+                        "court lady",
+                        "lady-in-waiting"
+                    ]
+                }
+            ]
+        }
+    }
+}

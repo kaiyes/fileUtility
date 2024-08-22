@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"妨\"",
+        "strokes": 7,
+        "main_meanings": [
+            "disturb",
+            "prevent",
+            "hamper",
+            "obstruct"
+        ],
+        "main_readings": {
+            "kun": [
+                "さまた.げる"
+            ],
+            "on": [
+                "ボウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1808": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1508": "A New Dictionary of Kanji Usage",
+                "1196": "Classic Nelson (Andrew Nelson)",
+                "1674": "Essential Kanji (P.G. O’Neill)",
+                "1190": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1182": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1241": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "784": "Kanji in Context (Nishiguchi and Kono)",
+                "436": "Kodansha Compact Kanji Guide",
+                "279": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "175": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "209": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "502": "Les Kanjis dans la tete (Yves Maniette)",
+                "6111": "Morohashi",
+                "238": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1187": "New Nelson (John Haig)",
+                "491": "Remembering The Kanji (James Heisig)",
+                "530": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1113": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1745": "2001 Kanji",
+                "3e4.1": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "4042.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-24": "JIS X 0208-1997 kuten code",
+                "59a8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fang2",
+                    "fang1"
+                ],
+                "korean": [
+                    "bang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "方"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "妨げる",
+                    "reading": "さまたげる",
+                    "meanings": [
+                        "to disturb",
+                        "to prevent",
+                        "to obstruct",
+                        "to hinder"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "妨害",
+                    "reading": "ボウガイ",
+                    "meanings": [
+                        "obstruction",
+                        "hindrance",
+                        "blocking",
+                        "disturbance",
+                        "interference",
+                        "interruption",
+                        "jamming (a signal)"
+                    ]
+                },
+                {
+                    "kanji": "妨害機",
+                    "reading": "ボウガイキ",
+                    "meanings": [
+                        "jammer (e.g. radio signals)",
+                        "interceptor (aircraft)"
+                    ]
+                },
+                {
+                    "kanji": "公妨",
+                    "reading": "コウボウ",
+                    "meanings": [
+                        "interference with a public servant in the execution of his or her duties"
+                    ]
+                },
+                {
+                    "kanji": "転び公妨",
+                    "reading": "コロビコウボウ",
+                    "meanings": [
+                        "falsely-provoked arrest for obstruction",
+                        "police pretending to be knocked down so as to have grounds for an arrest"
+                    ]
+                }
+            ]
+        }
+    }
+}

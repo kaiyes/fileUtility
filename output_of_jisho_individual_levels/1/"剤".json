@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"剤\"",
+        "strokes": 10,
+        "main_meanings": [
+            "dose",
+            "medicine",
+            "drug"
+        ],
+        "main_readings": {
+            "kun": [
+                "かる",
+                "けず.る"
+            ],
+            "on": [
+                "ザイ",
+                "スイ",
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1296": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "949": "A New Dictionary of Kanji Usage",
+                "5424": "Classic Nelson (Andrew Nelson)",
+                "1497": "Essential Kanji (P.G. O’Neill)",
+                "1096": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "550": "Kanji and Kana (Spahn and Hadamitzky)",
+                "559": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1780": "Kanji in Context (Nishiguchi and Kono)",
+                "200": "Kodansha Compact Kanji Guide",
+                "2102": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1094": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1491": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1746": "Les Kanjis dans la tete (Yves Maniette)",
+                "2076P": "Morohashi",
+                "1669": "New Japanese English Character Dictionary (Jack Halpern)",
+                "493": "New Nelson (John Haig)",
+                "1730": "Remembering The Kanji (James Heisig)",
+                "1867": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1312": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "443": "2001 Kanji",
+                "2f8.6": "The Kanji Dictionary",
+                "1-8-2": "SKIP code",
+                "0220.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-62": "JIS X 0208-1997 kuten code",
+                "5264": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji4"
+                ],
+                "korean": [
+                    "je",
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "｜",
+                "ノ",
+                "刈",
+                "廾",
+                "文",
+                "斉"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": [
+                "劑"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "剤",
+                    "reading": "ザイ",
+                    "meanings": [
+                        "medicine",
+                        "agent",
+                        "(chemical) substance",
+                        "drug",
+                        "dose"
+                    ]
+                },
+                {
+                    "kanji": "剤形",
+                    "reading": "ザイケイ",
+                    "meanings": [
+                        "dosage form"
+                    ]
+                },
+                {
+                    "kanji": "薬剤",
+                    "reading": "ヤクザイ",
+                    "meanings": [
+                        "medicine",
+                        "drug",
+                        "chemical"
+                    ]
+                },
+                {
+                    "kanji": "覚醒剤",
+                    "reading": "カクセイザイ",
+                    "meanings": [
+                        "stimulant (e.g. psychoactive drugs like methamphetamine",
+                        "ritalin",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

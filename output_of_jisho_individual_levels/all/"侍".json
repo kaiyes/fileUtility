@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"侍\"",
+        "strokes": 8,
+        "main_meanings": [
+            "waiter",
+            "samurai",
+            "wait upon",
+            "serve"
+        ],
+        "main_readings": {
+            "kun": [
+                "さむらい",
+                "はべ.る"
+            ],
+            "on": [
+                "ジ",
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1326": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1823": "A New Dictionary of Kanji Usage",
+                "427": "Classic Nelson (Andrew Nelson)",
+                "1446": "Essential Kanji (P.G. O’Neill)",
+                "1046": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "559": "Japanese Names (P.G. O’Neill)",
+                "571": "Kanji and Kana (Spahn and Hadamitzky)",
+                "580": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1878": "Kanji in Context (Nishiguchi and Kono)",
+                "90": "Kodansha Compact Kanji Guide",
+                "94": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "62": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "66": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "985": "Les Kanjis dans la tete (Yves Maniette)",
+                "589": "Morohashi",
+                "85": "New Japanese English Character Dictionary (Jack Halpern)",
+                "192": "New Nelson (John Haig)",
+                "976": "Remembering The Kanji (James Heisig)",
+                "1050": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1150": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2148": "2001 Kanji",
+                "2a6.11": "The Kanji Dictionary",
+                "1-2-6": "SKIP code",
+                "2424.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-88": "JIS X 0208-1997 kuten code",
+                "4f8d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かみ"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "si"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "土",
+                "寸"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "侍",
+                    "reading": "さむらい",
+                    "meanings": [
+                        "warrior (esp. of military retainers of daimyos in the Edo period)",
+                        "samurai",
+                        "man in attendance (on a person of high standing)",
+                        "retainer"
+                    ]
+                },
+                {
+                    "kanji": "侍蟻",
+                    "reading": "さむらいあり",
+                    "meanings": [
+                        "Polyergus samurai (species of amazon ant)"
+                    ]
+                },
+                {
+                    "kanji": "二四六九士",
+                    "reading": "にしむくさむらい",
+                    "meanings": [
+                        "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+                    ]
+                },
+                {
+                    "kanji": "七人の侍",
+                    "reading": "しちにんのさむらい",
+                    "meanings": [
+                        "Seven Samurai (film by Akira Kurosawa)"
+                    ]
+                },
+                {
+                    "kanji": "侍る",
+                    "reading": "はべる",
+                    "meanings": [
+                        "to wait upon",
+                        "to serve"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "侍従",
+                    "reading": "ジジュウ",
+                    "meanings": [
+                        "chamberlain"
+                    ]
+                },
+                {
+                    "kanji": "侍医",
+                    "reading": "ジイ",
+                    "meanings": [
+                        "court physician"
+                    ]
+                },
+                {
+                    "kanji": "内侍",
+                    "reading": "ナイシ",
+                    "meanings": [
+                        "maid of honor",
+                        "maid of honour",
+                        "lady-in-waiting"
+                    ]
+                },
+                {
+                    "kanji": "陪侍",
+                    "reading": "バイジ",
+                    "meanings": [
+                        "retainer",
+                        "attending on the nobility"
+                    ]
+                },
+                {
+                    "kanji": "内侍",
+                    "reading": "ナイシ",
+                    "meanings": [
+                        "maid of honor",
+                        "maid of honour",
+                        "lady-in-waiting"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"岬\"",
+        "strokes": 8,
+        "main_meanings": [
+            "headland",
+            "cape",
+            "spit",
+            "promontory"
+        ],
+        "main_readings": {
+            "kun": [
+                "みさき"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1840": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1820": "A New Dictionary of Kanji Usage",
+                "1412": "Classic Nelson (Andrew Nelson)",
+                "1237": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "829": "Japanese Names (P.G. O’Neill)",
+                "1363": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1449": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1850": "Kanji in Context (Nishiguchi and Kono)",
+                "540": "Kodansha Compact Kanji Guide",
+                "340": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "212": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "255": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1124": "Les Kanjis dans la tete (Yves Maniette)",
+                "7992": "Morohashi",
+                "284": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1458": "New Nelson (John Haig)",
+                "1115": "Remembering The Kanji (James Heisig)",
+                "1196": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1168": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1255": "2001 Kanji",
+                "3o5.4": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "2675.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-08": "JIS X 0208-1997 kuten code",
+                "5cac": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さき"
+                ],
+                "chinese": [
+                    "jia3"
+                ],
+                "korean": [
+                    "gab"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "｜",
+                "山",
+                "凵",
+                "日",
+                "田"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "岬",
+                    "reading": "みさき",
+                    "meanings": [
+                        "cape (on coast)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "岬角",
+                    "reading": "コウカク",
+                    "meanings": [
+                        "anat promontory",
+                        "promontory"
+                    ]
+                },
+                {
+                    "kanji": "岬湾",
+                    "reading": "コウワン",
+                    "meanings": [
+                        "capes and bays",
+                        "indentation (of a coast)"
+                    ]
+                }
+            ]
+        }
+    }
+}

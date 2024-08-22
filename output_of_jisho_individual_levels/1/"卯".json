@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"卯\"",
+        "strokes": 5,
+        "main_meanings": [
+            "sign of the hare or rabbit",
+            "fourth sign of Chinese zodiac",
+            "5-7AM",
+            "east"
+        ],
+        "main_readings": {
+            "kun": [
+                "う"
+            ],
+            "on": [
+                "ボウ",
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2052": "A New Dictionary of Kanji Usage",
+                "806": "Classic Nelson (Andrew Nelson)",
+                "1983": "Essential Kanji (P.G. O’Neill)",
+                "259": "Japanese Names (P.G. O’Neill)",
+                "2031": "Kanji and Kana (Spahn and Hadamitzky)",
+                "231": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "148": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "177": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2062": "Les Kanjis dans la tete (Yves Maniette)",
+                "2847": "Morohashi",
+                "199": "New Japanese English Character Dictionary (Jack Halpern)",
+                "628": "New Nelson (John Haig)",
+                "2041": "Remembering The Kanji (James Heisig)",
+                "2199": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2e3.1": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "7772.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-12": "JIS X 0208-1997 kuten code",
+                "536f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら、 しげる、 い"
+                ],
+                "chinese": [
+                    "mao3"
+                ],
+                "korean": [
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "kneel",
+            "parts": [
+                "卩"
+            ],
+            "basis": "卩",
+            "kangxi_order": 26,
+            "variants": [
+                "夘"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "卯",
+                    "reading": "う",
+                    "meanings": [
+                        "the Rabbit (fourth sign of the Chinese zodiac)",
+                        "the Hare",
+                        "hour of the Rabbit (around 6am",
+                        "5-7am",
+                        "or 6-8am)",
+                        "east",
+                        "second month in the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "卯年",
+                    "reading": "うさぎどし",
+                    "meanings": [
+                        "year of the Hare",
+                        "year of the Rabbit"
+                    ]
+                },
+                {
+                    "kanji": "なか卯",
+                    "reading": "なかう",
+                    "meanings": [
+                        "Nakau (restaurant chain)"
+                    ]
+                },
+                {
+                    "kanji": "辛卯",
+                    "reading": "かのとう",
+                    "meanings": [
+                        "Metal Rabbit (28th term of the sexagenary cycle",
+                        "e.g. 1951",
+                        "2011",
+                        "2071)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "卯",
+                    "reading": "ウ",
+                    "meanings": [
+                        "the Rabbit (fourth sign of the Chinese zodiac)",
+                        "the Hare",
+                        "hour of the Rabbit (around 6am",
+                        "5-7am",
+                        "or 6-8am)",
+                        "east",
+                        "second month in the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "丁卯",
+                    "reading": "ヒノトウ",
+                    "meanings": [
+                        "Fire Rabbit (4th term of the sexagenary cycle",
+                        "e.g. 1927",
+                        "1987",
+                        "2047)"
+                    ]
+                },
+                {
+                    "kanji": "己卯",
+                    "reading": "ツチノトウ",
+                    "meanings": [
+                        "Earth Rabbit (16th term of the sexagenary cycle",
+                        "e.g. 1939",
+                        "1999",
+                        "2059)"
+                    ]
+                }
+            ]
+        }
+    }
+}

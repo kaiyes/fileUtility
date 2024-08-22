@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"采\"",
+        "strokes": 8,
+        "main_meanings": [
+            "dice",
+            "form",
+            "appearance",
+            "take",
+            "gather",
+            "coloring"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.る",
+                "いろどり"
+            ],
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2825": "Classic Nelson (Andrew Nelson)",
+                "707": "Japanese Names (P.G. O’Neill)",
+                "2153": "Kanji and Kana (Spahn and Hadamitzky)",
+                "957": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "3077": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1570": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2147": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "40116X": "Morohashi",
+                "6201": "New Nelson (John Haig)",
+                "2090": "Remembering The Kanji (James Heisig)",
+                "791": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a4.24": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "2090.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-51": "JIS X 0208-1997 kuten code",
+                "91c7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cai3",
+                    "cai4"
+                ],
+                "korean": [
+                    "chae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "divide,",
+            "parts": [
+                "木",
+                "爪"
+            ],
+            "basis": "釆",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "采",
+                    "reading": "サイ",
+                    "meanings": [
+                        "baton (of command)"
+                    ]
+                },
+                {
+                    "kanji": "賽",
+                    "reading": "サイ",
+                    "meanings": [
+                        "dice",
+                        "die"
+                    ]
+                },
+                {
+                    "kanji": "納采",
+                    "reading": "ノウサイ",
+                    "meanings": [
+                        "betrothal gift"
+                    ]
+                },
+                {
+                    "kanji": "神采",
+                    "reading": "シンサイ",
+                    "meanings": [
+                        "surpassing looks",
+                        "exceptional appearance",
+                        "mind and appearance"
+                    ]
+                }
+            ]
+        }
+    }
+}

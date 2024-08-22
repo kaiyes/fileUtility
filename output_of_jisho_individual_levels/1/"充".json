@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"充\"",
+        "strokes": 6,
+        "main_meanings": [
+            "allot",
+            "fill"
+        ],
+        "main_readings": {
+            "kun": [
+                "あ.てる",
+                "み.たす"
+            ],
+            "on": [
+                "ジュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1362": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "974": "A New Dictionary of Kanji Usage",
+                "289": "Classic Nelson (Andrew Nelson)",
+                "1319": "Essential Kanji (P.G. O’Neill)",
+                "1074": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "521": "Japanese Names (P.G. O’Neill)",
+                "828": "Kanji and Kana (Spahn and Hadamitzky)",
+                "847": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1275": "Kanji in Context (Nishiguchi and Kono)",
+                "144": "Kodansha Compact Kanji Guide",
+                "2507": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1271": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1737": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "768": "Les Kanjis dans la tete (Yves Maniette)",
+                "1345": "Morohashi",
+                "2014": "New Japanese English Character Dictionary (Jack Halpern)",
+                "348": "New Nelson (John Haig)",
+                "761": "Remembering The Kanji (James Heisig)",
+                "823": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1060": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "457": "2001 Kanji",
+                "2j4.5": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "2-4-2": "SKIP code",
+                "0021.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-28": "JIS X 0208-1997 kuten code",
+                "5145": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつ、 のぶ、 まさ、 みち、 みつ、 よし"
+                ],
+                "chinese": [
+                    "chong1"
+                ],
+                "korean": [
+                    "chung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "legs",
+            "parts": [
+                "亠",
+                "儿",
+                "厶"
+            ],
+            "basis": "儿",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "充てる",
+                    "reading": "あてる",
+                    "meanings": [
+                        "to assign",
+                        "to set aside"
+                    ]
+                },
+                {
+                    "kanji": "満たす",
+                    "reading": "みたす",
+                    "meanings": [
+                        "to satisfy (conditions",
+                        "one's appetite",
+                        "etc.)",
+                        "to meet (e.g. demands)",
+                        "to fulfill",
+                        "to gratify",
+                        "to fill (e.g. a cup)",
+                        "to pack",
+                        "to supply"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "充足",
+                    "reading": "ジュウソク",
+                    "meanings": [
+                        "sufficiency"
+                    ]
+                },
+                {
+                    "kanji": "充実",
+                    "reading": "ジュウジツ",
+                    "meanings": [
+                        "fullness",
+                        "completeness",
+                        "perfection",
+                        "substantiality",
+                        "enhancement",
+                        "improvement",
+                        "enrichment",
+                        "upgrading",
+                        "replenishment",
+                        "repletion"
+                    ]
+                },
+                {
+                    "kanji": "リア充",
+                    "reading": "リアジュウ",
+                    "meanings": [
+                        "person who is satisfied with their real (offline) life",
+                        "normie"
+                    ]
+                },
+                {
+                    "kanji": "事業拡充",
+                    "reading": "ジギョウカクジュウ",
+                    "meanings": [
+                        "business expansion"
+                    ]
+                }
+            ]
+        }
+    }
+}

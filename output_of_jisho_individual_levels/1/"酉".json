@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酉\"",
+        "strokes": 7,
+        "main_meanings": [
+            "west",
+            "bird",
+            "sign of the bird",
+            "5-7PM",
+            "tenth sign of Chinese zodiac",
+            "sake radical (no. 164)"
+        ],
+        "main_readings": {
+            "kun": [
+                "とり"
+            ],
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2053": "A New Dictionary of Kanji Usage",
+                "4775": "Classic Nelson (Andrew Nelson)",
+                "1989": "Essential Kanji (P.G. O’Neill)",
+                "526": "Japanese Names (P.G. O’Neill)",
+                "2254": "Kanji and Kana (Spahn and Hadamitzky)",
+                "4358": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2207": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2969": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1439": "Les Kanjis dans la tete (Yves Maniette)",
+                "39763": "Morohashi",
+                "3544": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6157": "New Nelson (John Haig)",
+                "1427": "Remembering The Kanji (James Heisig)",
+                "1534": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "7e0.1": "The Kanji Dictionary",
+                "4-7-1": "SKIP code",
+                "1060.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-51": "JIS X 0208-1997 kuten code",
+                "9149": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なが、 みのる"
+                ],
+                "chinese": [
+                    "you3"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": [
+                "丣"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "酉",
+                    "reading": "とり",
+                    "meanings": [
+                        "the Rooster (tenth sign of the Chinese zodiac)",
+                        "the Cock",
+                        "the Chicken",
+                        "the Bird",
+                        "hour of the Rooster (around 6pm",
+                        "5-7pm",
+                        "or 6-8pm)",
+                        "west",
+                        "eight month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "酉年",
+                    "reading": "とりどし",
+                    "meanings": [
+                        "year of the Rooster",
+                        "year of the Cock"
+                    ]
+                },
+                {
+                    "kanji": "辛酉",
+                    "reading": "かのととり",
+                    "meanings": [
+                        "Metal Rooster (58th term of the sexagenary cycle",
+                        "e.g. 1921",
+                        "1981",
+                        "2041)"
+                    ]
+                },
+                {
+                    "kanji": "乙酉",
+                    "reading": "きのととり",
+                    "meanings": [
+                        "Wood Rooster (22nd term of the sexagenary cycle",
+                        "e.g. 1945",
+                        "2005",
+                        "2065)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "丁酉",
+                    "reading": "ヒノトトリ",
+                    "meanings": [
+                        "Fire Rooster (34th term of the sexagenary cycle",
+                        "e.g. 1957",
+                        "2017",
+                        "2077)"
+                    ]
+                },
+                {
+                    "kanji": "癸酉",
+                    "reading": "ミズノトトリ",
+                    "meanings": [
+                        "Water Rooster (10th term of the sexagenary cycle",
+                        "e.g. 1933",
+                        "1993",
+                        "2053)"
+                    ]
+                }
+            ]
+        }
+    }
+}

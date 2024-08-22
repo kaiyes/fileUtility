@@ -1,0 +1,250 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"交\"",
+        "strokes": 6,
+        "main_meanings": [
+            "mingle",
+            "mixing",
+            "association",
+            "coming & going"
+        ],
+        "main_readings": {
+            "kun": [
+                "まじ.わる",
+                "まじ.える",
+                "ま.じる",
+                "まじ.る",
+                "ま.ざる",
+                "ま.ぜる",
+                "-か.う",
+                "か.わす",
+                "かわ.す",
+                "こもごも"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "212": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "128": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "115": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "200": "A New Dictionary of Kanji Usage",
+                "290": "Classic Nelson (Andrew Nelson)",
+                "86": "Essential Kanji (P.G. O’Neill)",
+                "298": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "293": "Japanese Names (P.G. O’Neill)",
+                "114": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "504": "Kanji in Context (Nishiguchi and Kono)",
+                "38": "Kodansha Compact Kanji Guide",
+                "2508": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1272": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1738": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1283": "Les Kanjis dans la tete (Yves Maniette)",
+                "291": "Morohashi",
+                "2015": "New Japanese English Character Dictionary (Jack Halpern)",
+                "90": "New Nelson (John Haig)",
+                "1275": "Remembering The Kanji (James Heisig)",
+                "1368": "Remembering The Kanji, 6th edition (James Heisig)",
+                "269": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "120": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "466": "2001 Kanji",
+                "2j4.3": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "2-4-2": "SKIP code",
+                "0040.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-82": "JIS X 0208-1997 kuten code",
+                "4ea4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かた"
+                ],
+                "chinese": [
+                    "jiao1"
+                ],
+                "korean": [
+                    "gyo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lid",
+            "parts": [
+                "亠",
+                "父"
+            ],
+            "basis": "亠",
+            "kangxi_order": 8,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "交わる",
+                    "reading": "まじわる",
+                    "meanings": [
+                        "to cross",
+                        "to intersect",
+                        "to join",
+                        "to meet",
+                        "to associate with",
+                        "to mingle with",
+                        "to consort with",
+                        "to have a sexual relationship",
+                        "to copulate"
+                    ]
+                },
+                {
+                    "kanji": "交える",
+                    "reading": "まじえる",
+                    "meanings": [
+                        "to mix",
+                        "to combine",
+                        "to include",
+                        "to exchange (words",
+                        "fire",
+                        "etc.)",
+                        "to cross (e.g. swords)",
+                        "to join together"
+                    ]
+                },
+                {
+                    "kanji": "混じる",
+                    "reading": "まじる",
+                    "meanings": [
+                        "to be mixed",
+                        "to be blended with",
+                        "to be combined",
+                        "to associate with",
+                        "to mingle with",
+                        "to interest",
+                        "to join"
+                    ]
+                },
+                {
+                    "kanji": "混じる",
+                    "reading": "まじる",
+                    "meanings": [
+                        "to be mixed",
+                        "to be blended with",
+                        "to be combined",
+                        "to associate with",
+                        "to mingle with",
+                        "to interest",
+                        "to join"
+                    ]
+                },
+                {
+                    "kanji": "混ざる",
+                    "reading": "まざる",
+                    "meanings": [
+                        "to be mixed",
+                        "to be blended with",
+                        "to associate with",
+                        "to mingle with",
+                        "to join"
+                    ]
+                },
+                {
+                    "kanji": "混ぜる",
+                    "reading": "まぜる",
+                    "meanings": [
+                        "to mix",
+                        "to stir",
+                        "to blend"
+                    ]
+                },
+                {
+                    "kanji": "交わす",
+                    "reading": "かわす",
+                    "meanings": [
+                        "to exchange (messages",
+                        "greetings",
+                        "arguments",
+                        "etc.)",
+                        "to intersect",
+                        "to cross",
+                        "to interlace",
+                        "... with one another",
+                        "... to each other"
+                    ]
+                },
+                {
+                    "kanji": "交わす",
+                    "reading": "かわす",
+                    "meanings": [
+                        "to exchange (messages",
+                        "greetings",
+                        "arguments",
+                        "etc.)",
+                        "to intersect",
+                        "to cross",
+                        "to interlace",
+                        "... with one another",
+                        "... to each other"
+                    ]
+                },
+                {
+                    "kanji": "交々",
+                    "reading": "こもごも",
+                    "meanings": [
+                        "alternately",
+                        "in succession"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "交",
+                    "reading": "コウ",
+                    "meanings": [
+                        "association",
+                        "fellowship",
+                        "change (of season",
+                        "year",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "交易",
+                    "reading": "コウエキ",
+                    "meanings": [
+                        "trade",
+                        "commerce"
+                    ]
+                },
+                {
+                    "kanji": "親交",
+                    "reading": "シンコウ",
+                    "meanings": [
+                        "intimacy",
+                        "friendship",
+                        "friendly relations"
+                    ]
+                },
+                {
+                    "kanji": "国交",
+                    "reading": "コッコウ",
+                    "meanings": [
+                        "diplomatic relations"
+                    ]
+                }
+            ]
+        }
+    }
+}

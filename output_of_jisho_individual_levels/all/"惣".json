@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"惣\"",
+        "strokes": 12,
+        "main_meanings": [
+            "all"
+        ],
+        "main_readings": {
+            "kun": [
+                "すべ.て"
+            ],
+            "on": [
+                "ソウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1708": "Classic Nelson (Andrew Nelson)",
+                "1960": "Essential Kanji (P.G. O’Neill)",
+                "1785": "Japanese Names (P.G. O’Neill)",
+                "2074": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3452": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1777": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2419": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "10829": "Morohashi",
+                "2780": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1889": "New Nelson (John Haig)",
+                "2432": "Remembering The Kanji (James Heisig)",
+                "2510": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2458": "2001 Kanji",
+                "4k8.17": "The Kanji Dictionary",
+                "2-8-4": "SKIP code",
+                "2733.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-33-58": "JIS X 0208-1997 kuten code",
+                "60e3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おさむ、 あしむ、 ふさ、 そ、 みち"
+                ],
+                "chinese": [
+                    "zong3"
+                ],
+                "korean": [
+                    "chong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "心",
+                "牛",
+                "勿"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "全て",
+                    "reading": "すべて",
+                    "meanings": [
+                        "everything",
+                        "all",
+                        "the whole",
+                        "entirely",
+                        "completely",
+                        "wholly",
+                        "all"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "惣",
+                    "reading": "ソウ",
+                    "meanings": [
+                        "rural local self-government (Muromachi period)"
+                    ]
+                },
+                {
+                    "kanji": "惣菜",
+                    "reading": "ソウザイ",
+                    "meanings": [
+                        "small dish (served as a part of an ordinary household meal)",
+                        "side dish"
+                    ]
+                }
+            ]
+        }
+    }
+}

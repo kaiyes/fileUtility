@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"邸\"",
+        "strokes": 8,
+        "main_meanings": [
+            "residence",
+            "mansion"
+        ],
+        "main_readings": {
+            "kun": [
+                "やしき"
+            ],
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1613": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1278": "A New Dictionary of Kanji Usage",
+                "4759": "Classic Nelson (Andrew Nelson)",
+                "1621": "Essential Kanji (P.G. O’Neill)",
+                "1826": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "563": "Kanji and Kana (Spahn and Hadamitzky)",
+                "572": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1238": "Kanji in Context (Nishiguchi and Kono)",
+                "755": "Kodansha Compact Kanji Guide",
+                "1451": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "770": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1045": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1858": "Les Kanjis dans la tete (Yves Maniette)",
+                "39347": "Morohashi",
+                "1131": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6134": "New Nelson (John Haig)",
+                "1841": "Remembering The Kanji (James Heisig)",
+                "1984": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1220": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2644": "2001 Kanji",
+                "2d5.10": "The Kanji Dictionary",
+                "1-5-3": "SKIP code",
+                "1-5-2": "SKIP code",
+                "7772.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-01": "JIS X 0208-1997 kuten code",
+                "90b8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "むら"
+                ],
+                "chinese": [
+                    "di3"
+                ],
+                "korean": [
+                    "jeo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "邦",
+                "氏"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "屋敷",
+                    "reading": "やしき",
+                    "meanings": [
+                        "residence",
+                        "estate",
+                        "grounds",
+                        "premises",
+                        "mansion"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "邸",
+                    "reading": "テイ",
+                    "meanings": [
+                        "residence",
+                        "mansion"
+                    ]
+                },
+                {
+                    "kanji": "邸宅",
+                    "reading": "テイタク",
+                    "meanings": [
+                        "(large) house",
+                        "residence",
+                        "mansion"
+                    ]
+                },
+                {
+                    "kanji": "御用邸",
+                    "reading": "ゴヨウテイ",
+                    "meanings": [
+                        "imperial villa"
+                    ]
+                },
+                {
+                    "kanji": "公邸",
+                    "reading": "コウテイ",
+                    "meanings": [
+                        "official residence"
+                    ]
+                }
+            ]
+        }
+    }
+}

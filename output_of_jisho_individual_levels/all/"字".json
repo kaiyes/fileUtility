@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"字\"",
+        "strokes": 6,
+        "main_meanings": [
+            "character",
+            "letter",
+            "word",
+            "section of village"
+        ],
+        "main_readings": {
+            "kun": [
+                "あざ",
+                "あざな",
+                "-な"
+            ],
+            "on": [
+                "ジ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "86": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "78": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "28": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "612": "A New Dictionary of Kanji Usage",
+                "1281": "Classic Nelson (Andrew Nelson)",
+                "121": "Essential Kanji (P.G. O’Neill)",
+                "156": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2.17": "Japanese for Busy People",
+                "110": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "528": "Kanji in Context (Nishiguchi and Kono)",
+                "457": "Kodansha Compact Kanji Guide",
+                "2696": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1374": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1860": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "188": "Les Kanjis dans la tete (Yves Maniette)",
+                "6942": "Morohashi",
+                "2172": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1285": "New Nelson (John Haig)",
+                "185": "Remembering The Kanji (James Heisig)",
+                "197": "Remembering The Kanji, 6th edition (James Heisig)",
+                "57": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "747": "2001 Kanji",
+                "3m2.1": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "2-3-2": "SKIP code",
+                "3040.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-90": "JIS X 0208-1997 kuten code",
+                "5b57": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zi4"
+                ],
+                "korean": [
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "child,",
+            "parts": [
+                "子",
+                "宀"
+            ],
+            "basis": "子",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "字",
+                    "reading": "あざ",
+                    "meanings": [
+                        "section of village"
+                    ]
+                },
+                {
+                    "kanji": "字",
+                    "reading": "あざな",
+                    "meanings": [
+                        "Chinese courtesy name (name formerly given to adult Chinese men",
+                        "used in place of their given name in formal situations)",
+                        "nickname",
+                        "section of a village"
+                    ]
+                },
+                {
+                    "kanji": "大字",
+                    "reading": "おおあざ",
+                    "meanings": [
+                        "larger section (of village)"
+                    ]
+                },
+                {
+                    "kanji": "小字",
+                    "reading": "こあざ",
+                    "meanings": [
+                        "small administrative unit (of a village)"
+                    ]
+                },
+                {
+                    "kanji": "字",
+                    "reading": "あざな",
+                    "meanings": [
+                        "Chinese courtesy name (name formerly given to adult Chinese men",
+                        "used in place of their given name in formal situations)",
+                        "nickname",
+                        "section of a village"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "字",
+                    "reading": "ジ",
+                    "meanings": [
+                        "character (esp. kanji)",
+                        "letter",
+                        "written text",
+                        "handwriting",
+                        "penmanship",
+                        "the ... word (e.g. \"the L word\" = \"love\")"
+                    ]
+                },
+                {
+                    "kanji": "字形",
+                    "reading": "ジケイ",
+                    "meanings": [
+                        "character style",
+                        "character form"
+                    ]
+                },
+                {
+                    "kanji": "題字",
+                    "reading": "ダイジ",
+                    "meanings": [
+                        "title lettering"
+                    ]
+                },
+                {
+                    "kanji": "英字",
+                    "reading": "エイジ",
+                    "meanings": [
+                        "English letter",
+                        "alphabetic character"
+                    ]
+                }
+            ]
+        }
+    }
+}

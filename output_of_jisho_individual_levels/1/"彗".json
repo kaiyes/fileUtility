@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"彗\"",
+        "strokes": 11,
+        "main_meanings": [
+            "comet"
+        ],
+        "main_readings": {
+            "kun": [
+                "ほうき"
+            ],
+            "on": [
+                "スイ",
+                "エ",
+                "ケイ",
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1584": "Classic Nelson (Andrew Nelson)",
+                "2066": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3439": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1770": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2410": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "9927": "Morohashi",
+                "1708": "New Nelson (John Haig)",
+                "2850": "Remembering The Kanji (James Heisig)",
+                "2865": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "0a11.9": "The Kanji Dictionary",
+                "2-8-3": "SKIP code",
+                "5517.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-55-34": "JIS X 0208-1997 kuten code",
+                "5f57": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とし"
+                ],
+                "chinese": [
+                    "hui4"
+                ],
+                "korean": [
+                    "hye",
+                    "se"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "彑"
+            ],
+            "meaning": "pig",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "ヨ"
+            ],
+            "basis": "彐",
+            "kangxi_order": 58,
+            "variants": [
+                "篲"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "彗星",
+                    "reading": "スイセイ",
+                    "meanings": [
+                        "comet"
+                    ]
+                },
+                {
+                    "kanji": "彗星のように現れる",
+                    "reading": "スイセイノヨウニアラワレル",
+                    "meanings": [
+                        "to become famous overnight",
+                        "to burst into fame"
+                    ]
+                }
+            ]
+        }
+    }
+}

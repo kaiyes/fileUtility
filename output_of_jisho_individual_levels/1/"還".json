@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"還\"",
+        "strokes": 16,
+        "main_meanings": [
+            "send back",
+            "return"
+        ],
+        "main_readings": {
+            "kun": [
+                "かえ.る"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1114": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1139": "A New Dictionary of Kanji Usage",
+                "4750": "Classic Nelson (Andrew Nelson)",
+                "1557": "Essential Kanji (P.G. O’Neill)",
+                "1823": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2588": "Japanese Names (P.G. O’Neill)",
+                "866": "Kanji and Kana (Spahn and Hadamitzky)",
+                "885": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1215": "Kanji in Context (Nishiguchi and Kono)",
+                "723": "Kodansha Compact Kanji Guide",
+                "3945": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2032": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2743": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "845": "Les Kanjis dans la tete (Yves Maniette)",
+                "39174P": "Morohashi",
+                "3180": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6121": "New Nelson (John Haig)",
+                "837": "Remembering The Kanji (James Heisig)",
+                "900": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1856": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3665": "2001 Kanji",
+                "2q13.4": "The Kanji Dictionary",
+                "3-3-13": "SKIP code",
+                "3630.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-52": "JIS X 0208-1997 kuten code",
+                "9084": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "huan2",
+                    "hai2",
+                    "xuan2"
+                ],
+                "korean": [
+                    "hwan",
+                    "seon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "一",
+                "込",
+                "口",
+                "買",
+                "衣"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "帰る",
+                    "reading": "かえる",
+                    "meanings": [
+                        "to return",
+                        "to come home",
+                        "to go home",
+                        "to go back",
+                        "to leave (of a guest",
+                        "customer",
+                        "etc.)",
+                        "to get home",
+                        "to get to home plate"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "還元",
+                    "reading": "カンゲン",
+                    "meanings": [
+                        "restoration",
+                        "return",
+                        "reduction",
+                        "resolution",
+                        "deoxidization",
+                        "deoxidation"
+                    ]
+                },
+                {
+                    "kanji": "環境",
+                    "reading": "カンキョウ",
+                    "meanings": [
+                        "environment",
+                        "surroundings",
+                        "circumstances"
+                    ]
+                },
+                {
+                    "kanji": "奪還",
+                    "reading": "ダッカン",
+                    "meanings": [
+                        "recapture",
+                        "retaking",
+                        "recovery",
+                        "taking back"
+                    ]
+                },
+                {
+                    "kanji": "送還",
+                    "reading": "ソウカン",
+                    "meanings": [
+                        "sending home",
+                        "repatriation",
+                        "deportation"
+                    ]
+                }
+            ]
+        }
+    }
+}

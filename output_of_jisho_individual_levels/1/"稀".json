@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"稀\"",
+        "strokes": 12,
+        "main_meanings": [
+            "rare",
+            "phenomenal",
+            "dilute (acid)"
+        ],
+        "main_readings": {
+            "kun": [
+                "まれ",
+                "まばら"
+            ],
+            "on": [
+                "キ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3286": "Classic Nelson (Andrew Nelson)",
+                "1640": "Japanese Names (P.G. O’Neill)",
+                "2182": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1523": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "805": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1099": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "25058": "Morohashi",
+                "1189": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4145": "New Nelson (John Haig)",
+                "2611": "Remembering The Kanji (James Heisig)",
+                "2657": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5d7.5": "The Kanji Dictionary",
+                "1-5-7": "SKIP code",
+                "2492.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-09": "JIS X 0208-1997 kuten code",
+                "7a00": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "一",
+                "丶",
+                "ノ",
+                "巾",
+                "禾"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "稀",
+                    "reading": "まれ",
+                    "meanings": [
+                        "rare",
+                        "seldom"
+                    ]
+                },
+                {
+                    "kanji": "稀に見る",
+                    "reading": "まれにみる",
+                    "meanings": [
+                        "rare",
+                        "extraordinary",
+                        "singular"
+                    ]
+                },
+                {
+                    "kanji": "類まれ",
+                    "reading": "たぐいまれ",
+                    "meanings": [
+                        "rare",
+                        "exceptional",
+                        "extraordinary",
+                        "unique",
+                        "incomparable",
+                        "unparalleled",
+                        "matchless"
+                    ]
+                },
+                {
+                    "kanji": "ごく稀",
+                    "reading": "ごくまれ",
+                    "meanings": [
+                        "extremely rare"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "希",
+                    "reading": "キ",
+                    "meanings": [
+                        "dilute",
+                        "rare",
+                        "Greece"
+                    ]
+                },
+                {
+                    "kanji": "希少",
+                    "reading": "キショウ",
+                    "meanings": [
+                        "scarce",
+                        "rare"
+                    ]
+                },
+                {
+                    "kanji": "古希",
+                    "reading": "コキ",
+                    "meanings": [
+                        "70th birthday",
+                        "ancient Greek (language)"
+                    ]
+                },
+                {
+                    "kanji": "珍稀",
+                    "reading": "チンキ",
+                    "meanings": [
+                        "unusual",
+                        "rare"
+                    ]
+                },
+                {
+                    "kanji": "希有",
+                    "reading": "ケウ",
+                    "meanings": [
+                        "rare",
+                        "uncommon"
+                    ]
+                }
+            ]
+        }
+    }
+}

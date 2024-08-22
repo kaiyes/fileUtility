@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"俸\"",
+        "strokes": 10,
+        "main_meanings": [
+            "stipend",
+            "salary"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1797": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1914": "A New Dictionary of Kanji Usage",
+                "480": "Classic Nelson (Andrew Nelson)",
+                "1842": "Essential Kanji (P.G. O’Neill)",
+                "1054": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1542": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1644": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1427": "Kanji in Context (Nishiguchi and Kono)",
+                "114": "New Japanese English Character Dictionary (Jack Halpern)",
+                "128": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "84": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "96": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1588": "Les Kanjis dans la tete (Yves Maniette)",
+                "734": "Morohashi",
+                "249": "New Nelson (John Haig)",
+                "1574": "Remembering The Kanji (James Heisig)",
+                "1696": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1305": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2155": "2001 Kanji",
+                "2a8.18": "The Kanji Dictionary",
+                "1-2-8": "SKIP code",
+                "2525.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-80": "JIS X 0208-1997 kuten code",
+                "4ff8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "feng4"
+                ],
+                "korean": [
+                    "bong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "人",
+                "化",
+                "大"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "俸",
+                    "reading": "ホウ",
+                    "meanings": [
+                        "salary"
+                    ]
+                },
+                {
+                    "kanji": "俸給",
+                    "reading": "ホウキュウ",
+                    "meanings": [
+                        "salary (esp. public employees)",
+                        "wages",
+                        "pay"
+                    ]
+                },
+                {
+                    "kanji": "号俸",
+                    "reading": "ゴウホウ",
+                    "meanings": [
+                        "gradational salary"
+                    ]
+                },
+                {
+                    "kanji": "増俸",
+                    "reading": "ゾウホウ",
+                    "meanings": [
+                        "salary increase",
+                        "raise"
+                    ]
+                }
+            ]
+        }
+    }
+}

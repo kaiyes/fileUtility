@@ -1,0 +1,213 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"結\"",
+        "strokes": 12,
+        "main_meanings": [
+            "tie",
+            "bind",
+            "contract",
+            "join",
+            "organize",
+            "do up hair",
+            "fasten"
+        ],
+        "main_readings": {
+            "kun": [
+                "むす.ぶ",
+                "ゆ.う",
+                "ゆ.わえる"
+            ],
+            "on": [
+                "ケツ",
+                "ケチ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "390": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "497": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "472": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "163": "A New Dictionary of Kanji Usage",
+                "3540": "Classic Nelson (Andrew Nelson)",
+                "359": "Essential Kanji (P.G. O’Neill)",
+                "816": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2151": "Japanese Names (P.G. O’Neill)",
+                "485": "Kanji and Kana (Spahn and Hadamitzky)",
+                "494": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "302": "Kanji in Context (Nishiguchi and Kono)",
+                "1532": "Kodansha Compact Kanji Guide",
+                "1706": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "912": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1235": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1363": "Les Kanjis dans la tete (Yves Maniette)",
+                "27398": "Morohashi",
+                "1348": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4492": "New Nelson (John Haig)",
+                "1351": "Remembering The Kanji (James Heisig)",
+                "1451": "Remembering The Kanji, 6th edition (James Heisig)",
+                "109": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "586": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2777": "2001 Kanji",
+                "6a6.5": "The Kanji Dictionary",
+                "1-6-6": "SKIP code",
+                "2496.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-75": "JIS X 0208-1997 kuten code",
+                "7d50": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ゆい、 ゆう"
+                ],
+                "chinese": [
+                    "jie2",
+                    "jie1"
+                ],
+                "korean": [
+                    "gyeol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "口",
+                "士",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "結ぶ",
+                    "reading": "むすぶ",
+                    "meanings": [
+                        "to tie",
+                        "to bind",
+                        "to link",
+                        "to bear (fruit)",
+                        "to close (e.g. deal)",
+                        "to confirm",
+                        "to conclude",
+                        "to connect (two distant places)",
+                        "to close tightly",
+                        "to purse (e.g. lips)",
+                        "to unite (with)",
+                        "to ally",
+                        "to join hands"
+                    ]
+                },
+                {
+                    "kanji": "結ぶ便",
+                    "reading": "むすぶびん",
+                    "meanings": [
+                        "connecting flight",
+                        "connecting service"
+                    ]
+                },
+                {
+                    "kanji": "結う",
+                    "reading": "ゆう",
+                    "meanings": [
+                        "to do up (hair)",
+                        "to dress",
+                        "to arrange",
+                        "to tie",
+                        "to bind",
+                        "to fasten",
+                        "to make (a fence)"
+                    ]
+                },
+                {
+                    "kanji": "結城紬",
+                    "reading": "ゆうきつむぎ",
+                    "meanings": [
+                        "silk products produced near Yūki (using natural indigo dye)",
+                        "Yūki pongee"
+                    ]
+                },
+                {
+                    "kanji": "結わえる",
+                    "reading": "ゆわえる",
+                    "meanings": [
+                        "to bind",
+                        "to fasten",
+                        "to tie up"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "結末",
+                    "reading": "ケツマツ",
+                    "meanings": [
+                        "end",
+                        "conclusion"
+                    ]
+                },
+                {
+                    "kanji": "結合",
+                    "reading": "ケツゴウ",
+                    "meanings": [
+                        "combination",
+                        "union",
+                        "joining",
+                        "linking",
+                        "coupling",
+                        "bond",
+                        "join (in relational algebra)"
+                    ]
+                },
+                {
+                    "kanji": "完結",
+                    "reading": "カンケツ",
+                    "meanings": [
+                        "conclusion",
+                        "completion"
+                    ]
+                },
+                {
+                    "kanji": "妥結",
+                    "reading": "ダケツ",
+                    "meanings": [
+                        "settlement",
+                        "an agreement"
+                    ]
+                },
+                {
+                    "kanji": "結縁",
+                    "reading": "ケチエン",
+                    "meanings": [
+                        "making a connection (with Buddha)"
+                    ]
+                },
+                {
+                    "kanji": "結願",
+                    "reading": "ケチガン",
+                    "meanings": [
+                        "expiration of term of a vow"
+                    ]
+                }
+            ]
+        }
+    }
+}

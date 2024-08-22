@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"去\"",
+        "strokes": 5,
+        "main_meanings": [
+            "gone",
+            "past",
+            "quit",
+            "leave",
+            "elapse",
+            "eliminate",
+            "divorce"
+        ],
+        "main_readings": {
+            "kun": [
+                "さ.る",
+                "-さ.る"
+            ],
+            "on": [
+                "キョ",
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "189": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "276": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "258": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "618": "A New Dictionary of Kanji Usage",
+                "1051": "Classic Nelson (Andrew Nelson)",
+                "475": "Essential Kanji (P.G. O’Neill)",
+                "133": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "266": "Japanese Names (P.G. O’Neill)",
+                "2.8": "Japanese for Busy People",
+                "414": "Kanji and Kana (Spahn and Hadamitzky)",
+                "420": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "309": "Kanji in Context (Nishiguchi and Kono)",
+                "261": "Kodansha Compact Kanji Guide",
+                "2678": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1364": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1850": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "757": "Les Kanjis dans la tete (Yves Maniette)",
+                "3070": "Morohashi",
+                "2156": "New Japanese English Character Dictionary (Jack Halpern)",
+                "665": "New Nelson (John Haig)",
+                "750": "Remembering The Kanji (James Heisig)",
+                "812": "Remembering The Kanji, 6th edition (James Heisig)",
+                "496": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "247": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1471": "2001 Kanji",
+                "3b2.2": "The Kanji Dictionary",
+                "2-3-2": "SKIP code",
+                "4073.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-78": "JIS X 0208-1997 kuten code",
+                "53bb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "い"
+                ],
+                "chinese": [
+                    "qu4"
+                ],
+                "korean": [
+                    "geo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "private",
+            "parts": [
+                "厶",
+                "土"
+            ],
+            "basis": "厶",
+            "kangxi_order": null,
+            "variants": [
+                "厺"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "去る",
+                    "reading": "さる",
+                    "meanings": [
+                        "to leave",
+                        "to go away",
+                        "to pass",
+                        "to elapse",
+                        "to be distant",
+                        "to send away",
+                        "to drive off",
+                        "to divorce",
+                        "to (do) completely",
+                        "last ... (e.g. \"last April\")"
+                    ]
+                },
+                {
+                    "kanji": "去る者追わず",
+                    "reading": "さるものおわず",
+                    "meanings": [
+                        "do not chase the one who leaves"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "去年",
+                    "reading": "キョネン",
+                    "meanings": [
+                        "last year"
+                    ]
+                },
+                {
+                    "kanji": "去就",
+                    "reading": "キョシュウ",
+                    "meanings": [
+                        "leaving or staying",
+                        "(one's) course of action",
+                        "(one's) position",
+                        "(one's) attitude"
+                    ]
+                },
+                {
+                    "kanji": "消去",
+                    "reading": "ショウキョ",
+                    "meanings": [
+                        "erasure",
+                        "deletion",
+                        "elimination",
+                        "clearing",
+                        "elimination (of variables)",
+                        "extinction"
+                    ]
+                },
+                {
+                    "kanji": "国外退去",
+                    "reading": "コクガイタイキョ",
+                    "meanings": [
+                        "deportation"
+                    ]
+                },
+                {
+                    "kanji": "去年",
+                    "reading": "キョネン",
+                    "meanings": [
+                        "last year"
+                    ]
+                },
+                {
+                    "kanji": "大過去",
+                    "reading": "ダイカコ",
+                    "meanings": [
+                        "past perfect tense",
+                        "pluperfect"
+                    ]
+                },
+                {
+                    "kanji": "不定過去",
+                    "reading": "フテイカコ",
+                    "meanings": [
+                        "aorist tense (in Greek)",
+                        "past-perfective tense"
+                    ]
+                }
+            ]
+        }
+    }
+}

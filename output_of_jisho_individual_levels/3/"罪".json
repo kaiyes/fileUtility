@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"罪\"",
+        "strokes": 13,
+        "main_meanings": [
+            "guilt",
+            "sin",
+            "crime",
+            "fault",
+            "blame",
+            "offense"
+        ],
+        "main_readings": {
+            "kun": [
+                "つみ"
+            ],
+            "on": [
+                "ザイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "794": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "713": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "686": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "928": "A New Dictionary of Kanji Usage",
+                "3643": "Classic Nelson (Andrew Nelson)",
+                "748": "Essential Kanji (P.G. O’Neill)",
+                "830": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2006": "Japanese Names (P.G. O’Neill)",
+                "885": "Kanji and Kana (Spahn and Hadamitzky)",
+                "906": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1047": "Kanji in Context (Nishiguchi and Kono)",
+                "1464": "Kodansha Compact Kanji Guide",
+                "3224": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1673": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2264": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1651": "Les Kanjis dans la tete (Yves Maniette)",
+                "28293": "Morohashi",
+                "2610": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4644": "New Nelson (John Haig)",
+                "1636": "Remembering The Kanji (James Heisig)",
+                "1764": "Remembering The Kanji, 6th edition (James Heisig)",
+                "775": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3654": "2001 Kanji",
+                "5g8.4": "The Kanji Dictionary",
+                "2-5-8": "SKIP code",
+                "6011.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-65": "JIS X 0208-1997 kuten code",
+                "7f6a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zui4"
+                ],
+                "korean": [
+                    "joe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "罒",
+                "⺲",
+                "罓",
+                "⺳"
+            ],
+            "meaning": "net",
+            "parts": [
+                "買",
+                "非"
+            ],
+            "basis": "网",
+            "kangxi_order": 122,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "罪",
+                    "reading": "つみ",
+                    "meanings": [
+                        "crime",
+                        "sin",
+                        "wrongdoing",
+                        "indiscretion",
+                        "penalty",
+                        "sentence",
+                        "punishment",
+                        "fault",
+                        "responsibility",
+                        "culpability",
+                        "thoughtlessness",
+                        "lack of consideration"
+                    ]
+                },
+                {
+                    "kanji": "罪滅ぼし",
+                    "reading": "つみほろぼし",
+                    "meanings": [
+                        "atonement (for one's sins)",
+                        "expiation",
+                        "making amends",
+                        "making up for (a misdeed)"
+                    ]
+                },
+                {
+                    "kanji": "無実の罪",
+                    "reading": "むじつのつみ",
+                    "meanings": [
+                        "false charge"
+                    ]
+                },
+                {
+                    "kanji": "重い罪",
+                    "reading": "おもいつみ",
+                    "meanings": [
+                        "serious crime",
+                        "grave crime"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "罪",
+                    "reading": "ザイ",
+                    "meanings": [
+                        "crime"
+                    ]
+                },
+                {
+                    "kanji": "罪悪",
+                    "reading": "ザイアク",
+                    "meanings": [
+                        "crime",
+                        "sin",
+                        "vice"
+                    ]
+                },
+                {
+                    "kanji": "同罪",
+                    "reading": "ドウザイ",
+                    "meanings": [
+                        "same crime",
+                        "being equally guilty",
+                        "bearing the same amount of responsibility"
+                    ]
+                },
+                {
+                    "kanji": "功罪",
+                    "reading": "コウザイ",
+                    "meanings": [
+                        "merits and demerits",
+                        "good points and bad points",
+                        "strengths and weaknesses"
+                    ]
+                }
+            ]
+        }
+    }
+}

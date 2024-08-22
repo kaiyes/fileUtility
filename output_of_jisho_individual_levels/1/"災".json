@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"災\"",
+        "strokes": 7,
+        "main_meanings": [
+            "disaster",
+            "calamity",
+            "woe",
+            "curse",
+            "evil"
+        ],
+        "main_readings": {
+            "kun": [
+                "わざわ.い"
+            ],
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "789": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "707": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "680": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1061": "A New Dictionary of Kanji Usage",
+                "1448": "Classic Nelson (Andrew Nelson)",
+                "788": "Essential Kanji (P.G. O’Neill)",
+                "1510": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1335": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1418": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "873": "Kanji in Context (Nishiguchi and Kono)",
+                "1263": "Kodansha Compact Kanji Guide",
+                "2734": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1400": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1888": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "169": "Les Kanjis dans la tete (Yves Maniette)",
+                "18879": "Morohashi",
+                "2206": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3400": "New Nelson (John Haig)",
+                "167": "Remembering The Kanji (James Heisig)",
+                "179": "Remembering The Kanji, 6th edition (James Heisig)",
+                "667": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2762": "2001 Kanji",
+                "4d3.3": "The Kanji Dictionary",
+                "2-3-4": "SKIP code",
+                "2280.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-50": "JIS X 0208-1997 kuten code",
+                "707d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zai1"
+                ],
+                "korean": [
+                    "jae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "巛",
+                "火"
+            ],
+            "basis": "火",
+            "kangxi_order": null,
+            "variants": [
+                "灾"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "災い",
+                    "reading": "わざわい",
+                    "meanings": [
+                        "disaster",
+                        "calamity",
+                        "misfortune",
+                        "trouble",
+                        "woes"
+                    ]
+                },
+                {
+                    "kanji": "災いする",
+                    "reading": "わざわいする",
+                    "meanings": [
+                        "to be one's ruin",
+                        "to do harm",
+                        "to cause trouble",
+                        "to have negative consequences",
+                        "to bring about a bad outcome"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "災害",
+                    "reading": "サイガイ",
+                    "meanings": [
+                        "calamity",
+                        "disaster",
+                        "misfortune"
+                    ]
+                },
+                {
+                    "kanji": "災難",
+                    "reading": "サイナン",
+                    "meanings": [
+                        "calamity",
+                        "misfortune",
+                        "disaster"
+                    ]
+                },
+                {
+                    "kanji": "労災",
+                    "reading": "ロウサイ",
+                    "meanings": [
+                        "work-related injury",
+                        "work-related illness",
+                        "work-related death",
+                        "on-the-job accident",
+                        "workers' compensation insurance"
+                    ]
+                },
+                {
+                    "kanji": "防災",
+                    "reading": "ボウサイ",
+                    "meanings": [
+                        "disaster preparedness",
+                        "prevention of damage resulting from a natural disaster",
+                        "protection against disaster"
+                    ]
+                }
+            ]
+        }
+    }
+}

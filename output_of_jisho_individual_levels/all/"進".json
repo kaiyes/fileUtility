@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"進\"",
+        "strokes": 11,
+        "main_meanings": [
+            "advance",
+            "proceed",
+            "progress",
+            "promote"
+        ],
+        "main_readings": {
+            "kun": [
+                "すす.む",
+                "すす.める"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "259": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "343": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "326": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "175": "A New Dictionary of Kanji Usage",
+                "4709": "Classic Nelson (Andrew Nelson)",
+                "194": "Essential Kanji (P.G. O’Neill)",
+                "262": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1503": "Japanese Names (P.G. O’Neill)",
+                "3.14": "Japanese for Busy People",
+                "437": "Kanji and Kana (Spahn and Hadamitzky)",
+                "443": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "267": "Kanji in Context (Nishiguchi and Kono)",
+                "702": "Kodansha Compact Kanji Guide",
+                "3873": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1991": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2689": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "568": "Les Kanjis dans la tete (Yves Maniette)",
+                "38943P": "Morohashi",
+                "3121": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6073": "New Nelson (John Haig)",
+                "561": "Remembering The Kanji (James Heisig)",
+                "603": "Remembering The Kanji, 6th edition (James Heisig)",
+                "156": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "378": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2475": "2001 Kanji",
+                "2q8.1": "The Kanji Dictionary",
+                "3-3-8": "SKIP code",
+                "3-2-8": "SKIP code",
+                "3030.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-42": "JIS X 0208-1997 kuten code",
+                "9032": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぶ"
+                ],
+                "chinese": [
+                    "jin4"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "隹"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "進む",
+                    "reading": "すすむ",
+                    "meanings": [
+                        "to advance",
+                        "to go forward",
+                        "to precede",
+                        "to go ahead (of)",
+                        "to make progress",
+                        "to improve",
+                        "to deepen",
+                        "to heighten",
+                        "to be fast (of a clock)",
+                        "to be ahead",
+                        "to do of one's own free will"
+                    ]
+                },
+                {
+                    "kanji": "進むも地獄退くも地獄",
+                    "reading": "すすむもじごくしりぞくもじごく",
+                    "meanings": [
+                        "between the devil and the deep blue sea",
+                        "both advancing and retreating are hell"
+                    ]
+                },
+                {
+                    "kanji": "進める",
+                    "reading": "すすめる",
+                    "meanings": [
+                        "to advance",
+                        "to move forward",
+                        "to put (a clock",
+                        "watch) forward",
+                        "to carry forward (plans",
+                        "work",
+                        "etc.)",
+                        "to proceed with",
+                        "to make progress in",
+                        "to further",
+                        "to advance",
+                        "to hasten",
+                        "to speed up",
+                        "to raise",
+                        "to elevate",
+                        "to promote",
+                        "to develop",
+                        "to stimulate (e.g. one's appetite)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "進学",
+                    "reading": "シンガク",
+                    "meanings": [
+                        "advancing to the next stage of education",
+                        "going on to (high school",
+                        "college",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "進化",
+                    "reading": "シンカ",
+                    "meanings": [
+                        "evolution",
+                        "evolution",
+                        "becoming more advanced",
+                        "progress",
+                        "development",
+                        "improvement"
+                    ]
+                },
+                {
+                    "kanji": "後進",
+                    "reading": "コウシン",
+                    "meanings": [
+                        "one's junior",
+                        "younger generation",
+                        "next generation",
+                        "moving backwards",
+                        "backing up",
+                        "reversing"
+                    ]
+                },
+                {
+                    "kanji": "累進",
+                    "reading": "ルイシン",
+                    "meanings": [
+                        "successive promotion",
+                        "gradual progression",
+                        "rising step by step",
+                        "increasing progressively (of income tax",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

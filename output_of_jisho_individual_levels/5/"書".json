@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"書\"",
+        "strokes": 10,
+        "main_meanings": [
+            "write"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.く",
+                "-が.き",
+                "-がき"
+            ],
+            "on": [
+                "ショ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "92": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "159": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "142": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "130": "A New Dictionary of Kanji Usage",
+                "3719": "Classic Nelson (Andrew Nelson)",
+                "70": "Essential Kanji (P.G. O’Neill)",
+                "58": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1216": "Japanese Names (P.G. O’Neill)",
+                "2.3": "Japanese for Busy People",
+                "131": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "181": "Kanji in Context (Nishiguchi and Kono)",
+                "998": "Kodansha Compact Kanji Guide",
+                "3292": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1703": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2314": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "333": "Les Kanjis dans la tete (Yves Maniette)",
+                "14294": "Morohashi",
+                "2658": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2463": "New Nelson (John Haig)",
+                "327": "Remembering The Kanji (James Heisig)",
+                "349": "Remembering The Kanji, 6th edition (James Heisig)",
+                "121": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "197": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1678": "2001 Kanji",
+                "4c6.6": "The Kanji Dictionary",
+                "2-6-4": "SKIP code",
+                "5060.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-81": "JIS X 0208-1997 kuten code",
+                "66f8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かき"
+                ],
+                "chinese": [
+                    "shu1"
+                ],
+                "korean": [
+                    "seo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "say",
+            "parts": [
+                "日",
+                "聿"
+            ],
+            "basis": "曰",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "書く",
+                    "reading": "かく",
+                    "meanings": [
+                        "to write",
+                        "to compose",
+                        "to pen",
+                        "to draw",
+                        "to paint"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "書",
+                    "reading": "ショ",
+                    "meanings": [
+                        "book",
+                        "document",
+                        "calligraphy (esp. Chinese)",
+                        "penmanship",
+                        "handwriting",
+                        "letter",
+                        "note"
+                    ]
+                },
+                {
+                    "kanji": "書院",
+                    "reading": "ショイン",
+                    "meanings": [
+                        "drawing room",
+                        "study",
+                        "writing alcove",
+                        "publishing house"
+                    ]
+                },
+                {
+                    "kanji": "投書",
+                    "reading": "トウショ",
+                    "meanings": [
+                        "letter (e.g. of complaint)",
+                        "letter to the editor",
+                        "letter from a reader",
+                        "contribution (to a newspaper",
+                        "magazine",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "議定書",
+                    "reading": "ギテイショ",
+                    "meanings": [
+                        "protocol"
+                    ]
+                }
+            ]
+        }
+    }
+}

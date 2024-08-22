@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"湖\"",
+        "strokes": 12,
+        "main_meanings": [
+            "lake"
+        ],
+        "main_readings": {
+            "kun": [
+                "みずうみ"
+            ],
+            "on": [
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "394": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "293": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "276": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1086": "A New Dictionary of Kanji Usage",
+                "2628": "Classic Nelson (Andrew Nelson)",
+                "573": "Essential Kanji (P.G. O’Neill)",
+                "699": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1584": "Japanese Names (P.G. O’Neill)",
+                "467": "Kanji and Kana (Spahn and Hadamitzky)",
+                "475": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "453": "Kanji in Context (Nishiguchi and Kono)",
+                "1220": "Kodansha Compact Kanji Guide",
+                "736": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "439": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "551": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "150": "Les Kanjis dans la tete (Yves Maniette)",
+                "17836": "Morohashi",
+                "604": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3240": "New Nelson (John Haig)",
+                "148": "Remembering The Kanji (James Heisig)",
+                "159": "Remembering The Kanji, 6th edition (James Heisig)",
+                "396": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "346": "2001 Kanji",
+                "3a9.8": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "3712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-48": "JIS X 0208-1997 kuten code",
+                "6e56": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うみ、 み"
+                ],
+                "chinese": [
+                    "hu2"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "十",
+                "口",
+                "汁",
+                "月"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "湖",
+                    "reading": "みずうみ",
+                    "meanings": [
+                        "lake"
+                    ]
+                },
+                {
+                    "kanji": "白鳥の湖",
+                    "reading": "はくちょうのみずうみ",
+                    "meanings": [
+                        "Swan Lake (ballet)"
+                    ]
+                },
+                {
+                    "kanji": "白鳥の湖",
+                    "reading": "はくちょうのみずうみ",
+                    "meanings": [
+                        "Swan Lake (ballet)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "湖",
+                    "reading": "コ",
+                    "meanings": [
+                        "lake (in place names)"
+                    ]
+                },
+                {
+                    "kanji": "湖沼",
+                    "reading": "コショウ",
+                    "meanings": [
+                        "lake",
+                        "marsh",
+                        "wetland",
+                        "inland waters"
+                    ]
+                },
+                {
+                    "kanji": "汽水湖",
+                    "reading": "キスイコ",
+                    "meanings": [
+                        "brackish lake"
+                    ]
+                },
+                {
+                    "kanji": "塩水湖",
+                    "reading": "エンスイコ",
+                    "meanings": [
+                        "saltwater or saline lake"
+                    ]
+                }
+            ]
+        }
+    }
+}

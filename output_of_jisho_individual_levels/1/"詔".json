@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"詔\"",
+        "strokes": 12,
+        "main_meanings": [
+            "imperial edict"
+        ],
+        "main_readings": {
+            "kun": [
+                "みことのり"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1407": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2023": "A New Dictionary of Kanji Usage",
+                "4333": "Classic Nelson (Andrew Nelson)",
+                "1213": "Essential Kanji (P.G. O’Neill)",
+                "1748": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1658": "Japanese Names (P.G. O’Neill)",
+                "1885": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2055": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1935": "Kanji in Context (Nishiguchi and Kono)",
+                "1673": "Kodansha Compact Kanji Guide",
+                "1900": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1009": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1366": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "348": "Les Kanjis dans la tete (Yves Maniette)",
+                "35379": "Morohashi",
+                "1505": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5581": "New Nelson (John Haig)",
+                "342": "Remembering The Kanji (James Heisig)",
+                "366": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1585": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3077": "2001 Kanji",
+                "7a5.10": "The Kanji Dictionary",
+                "1-7-5": "SKIP code",
+                "0766.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-59": "JIS X 0208-1997 kuten code",
+                "8a54": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さとし、 のり"
+                ],
+                "chinese": [
+                    "zhao4"
+                ],
+                "korean": [
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "刀",
+                "口",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "詔",
+                    "reading": "みことのり",
+                    "meanings": [
+                        "imperial decree",
+                        "imperial edict"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "詔",
+                    "reading": "ミコトノリ",
+                    "meanings": [
+                        "imperial decree",
+                        "imperial edict"
+                    ]
+                },
+                {
+                    "kanji": "詔書",
+                    "reading": "ショウショ",
+                    "meanings": [
+                        "imperial edict",
+                        "decree"
+                    ]
+                },
+                {
+                    "kanji": "大詔",
+                    "reading": "タイショウ",
+                    "meanings": [
+                        "imperial rescript"
+                    ]
+                }
+            ]
+        }
+    }
+}

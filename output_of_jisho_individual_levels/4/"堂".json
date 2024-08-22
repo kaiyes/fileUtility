@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"堂\"",
+        "strokes": 11,
+        "main_meanings": [
+            "public chamber",
+            "hall"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ドウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "486": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "584": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "557": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "662": "A New Dictionary of Kanji Usage",
+                "1365": "Classic Nelson (Andrew Nelson)",
+                "358": "Essential Kanji (P.G. O’Neill)",
+                "144": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1462": "Japanese Names (P.G. O’Neill)",
+                "2.6": "Japanese for Busy People",
+                "496": "Kanji and Kana (Spahn and Hadamitzky)",
+                "505": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "709": "Kanji in Context (Nishiguchi and Kono)",
+                "355": "Kodansha Compact Kanji Guide",
+                "3202": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1656": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2246": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "806": "Les Kanjis dans la tete (Yves Maniette)",
+                "5207": "Morohashi",
+                "2589": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1037": "New Nelson (John Haig)",
+                "798": "Remembering The Kanji (James Heisig)",
+                "861": "Remembering The Kanji, 6th edition (James Heisig)",
+                "573": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1072": "2001 Kanji",
+                "3n8.4": "The Kanji Dictionary",
+                "2-5-6": "SKIP code",
+                "9010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-18": "JIS X 0208-1997 kuten code",
+                "5802": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tang2"
+                ],
+                "korean": [
+                    "dang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "冖",
+                "口",
+                "土",
+                "尚"
+            ],
+            "basis": "土",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "堂",
+                    "reading": "ドウ",
+                    "meanings": [
+                        "temple",
+                        "shrine",
+                        "chapel",
+                        "hall",
+                        "company",
+                        "front room"
+                    ]
+                },
+                {
+                    "kanji": "堂々",
+                    "reading": "ドウドウ",
+                    "meanings": [
+                        "magnificent",
+                        "grand",
+                        "impressive",
+                        "dignified",
+                        "majestic",
+                        "imposing",
+                        "stately",
+                        "fair",
+                        "square",
+                        "open",
+                        "unashamed",
+                        "brazen",
+                        "grandly",
+                        "boldly",
+                        "confidently",
+                        "fairly",
+                        "squarely",
+                        "unreservedly",
+                        "brazenly"
+                    ]
+                },
+                {
+                    "kanji": "殿堂",
+                    "reading": "デンドウ",
+                    "meanings": [
+                        "palace",
+                        "hall",
+                        "shrine",
+                        "temple",
+                        "sanctuary",
+                        "hall of fame"
+                    ]
+                },
+                {
+                    "kanji": "議事堂",
+                    "reading": "ギジドウ",
+                    "meanings": [
+                        "assembly hall",
+                        "parliament house",
+                        "diet building",
+                        "capitol",
+                        "houses of parliament",
+                        "congress hall"
+                    ]
+                }
+            ]
+        }
+    }
+}

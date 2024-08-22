@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"薫\"",
+        "strokes": 16,
+        "main_meanings": [
+            "send forth fragrance",
+            "fragrant",
+            "be scented",
+            "smoke (tobacco)"
+        ],
+        "main_readings": {
+            "kun": [
+                "かお.る"
+            ],
+            "on": [
+                "クン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1192": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1735": "A New Dictionary of Kanji Usage",
+                "4073": "Classic Nelson (Andrew Nelson)",
+                "1360": "Essential Kanji (P.G. O’Neill)",
+                "1708": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2567": "Japanese Names (P.G. O’Neill)",
+                "1774": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1906": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1710": "Kanji in Context (Nishiguchi and Kono)",
+                "668": "Kodansha Compact Kanji Guide",
+                "3005": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1535": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2094": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1697": "Les Kanjis dans la tete (Yves Maniette)",
+                "32173": "Morohashi",
+                "2371": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5223": "New Nelson (John Haig)",
+                "1681": "Remembering The Kanji (James Heisig)",
+                "1812": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1847": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1940": "2001 Kanji",
+                "3k13.17": "The Kanji Dictionary",
+                "2-3-13": "SKIP code",
+                "4433.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-16": "JIS X 0208-1997 kuten code",
+                "85ab": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かおり、 かおる、 かほ、 かほる、 くに、 しげ、 にほ、 のぶ、 よし"
+                ],
+                "chinese": [
+                    "xun1"
+                ],
+                "korean": [
+                    "hun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "一",
+                "｜",
+                "ノ",
+                "艾",
+                "日",
+                "杰"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": [
+                "蘍"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "香る",
+                    "reading": "かおる",
+                    "meanings": [
+                        "to smell sweet",
+                        "to be fragrant"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "薫",
+                    "reading": "クン",
+                    "meanings": [
+                        "pleasant smell",
+                        "aroma",
+                        "fragrance",
+                        "scent",
+                        "pleasant-smelling vegetation"
+                    ]
+                },
+                {
+                    "kanji": "燻蒸",
+                    "reading": "クンジョウ",
+                    "meanings": [
+                        "fumigation",
+                        "smoking (out)"
+                    ]
+                },
+                {
+                    "kanji": "余薫",
+                    "reading": "ヨクン",
+                    "meanings": [
+                        "lingering odor",
+                        "lingering odour"
+                    ]
+                }
+            ]
+        }
+    }
+}

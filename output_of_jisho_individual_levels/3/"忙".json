@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"忙\"",
+        "strokes": 6,
+        "main_meanings": [
+            "busy",
+            "occupied",
+            "restless"
+        ],
+        "main_readings": {
+            "kun": [
+                "いそが.しい",
+                "せわ.しい",
+                "おそ.れる",
+                "うれえるさま"
+            ],
+            "on": [
+                "ボウ",
+                "モウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1806": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1371": "A New Dictionary of Kanji Usage",
+                "1647": "Classic Nelson (Andrew Nelson)",
+                "890": "Essential Kanji (P.G. O’Neill)",
+                "529": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "3.16": "Japanese for Busy People",
+                "1373": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1460": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "126": "Kanji in Context (Nishiguchi and Kono)",
+                "807": "Kodansha Compact Kanji Guide",
+                "248": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "158": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "188": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "625": "Les Kanjis dans la tete (Yves Maniette)",
+                "10334": "Morohashi",
+                "214": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1783": "New Nelson (John Haig)",
+                "618": "Remembering The Kanji (James Heisig)",
+                "665": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1075": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1175": "2001 Kanji",
+                "4k3.2": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "1-1-5": "SKIP code",
+                "9001.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-27": "JIS X 0208-1997 kuten code",
+                "5fd9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mang2"
+                ],
+                "korean": [
+                    "mang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "亠",
+                "忙",
+                "亡"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": [
+                "恾"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "忙しい",
+                    "reading": "いそがしい",
+                    "meanings": [
+                        "busy",
+                        "occupied",
+                        "hectic",
+                        "restless",
+                        "hurried",
+                        "fidgety"
+                    ]
+                },
+                {
+                    "kanji": "忙しい",
+                    "reading": "せわしい",
+                    "meanings": [
+                        "busy",
+                        "hectic",
+                        "frantic",
+                        "restless",
+                        "hurried",
+                        "fidgety"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "忙殺",
+                    "reading": "ボウサツ",
+                    "meanings": [
+                        "being extremely busy",
+                        "being swamped with work"
+                    ]
+                },
+                {
+                    "kanji": "忙殺される",
+                    "reading": "ボウサツサレル",
+                    "meanings": [
+                        "to be very busily occupied",
+                        "to be swamped with work"
+                    ]
+                },
+                {
+                    "kanji": "繁忙",
+                    "reading": "ハンボウ",
+                    "meanings": [
+                        "busy",
+                        "high-stress",
+                        "hectic",
+                        "pressed (with business)"
+                    ]
+                }
+            ]
+        }
+    }
+}

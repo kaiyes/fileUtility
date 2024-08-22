@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"見\"",
+        "strokes": 7,
+        "main_meanings": [
+            "see",
+            "hopes",
+            "chances",
+            "idea",
+            "opinion",
+            "look at",
+            "visible"
+        ],
+        "main_readings": {
+            "kun": [
+                "み.る",
+                "み.える",
+                "み.せる"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "67": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "31": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "18": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "48": "A New Dictionary of Kanji Usage",
+                "4284": "Classic Nelson (Andrew Nelson)",
+                "23": "Essential Kanji (P.G. O’Neill)",
+                "84": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "518": "Japanese Names (P.G. O’Neill)",
+                "2.3": "Japanese for Busy People",
+                "63": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "139": "Kanji in Context (Nishiguchi and Kono)",
+                "1643": "Kodansha Compact Kanji Guide",
+                "3151": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1615": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2201": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "57": "Remembering The Kanji (James Heisig)",
+                "34796": "Morohashi",
+                "2544": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5522": "New Nelson (John Haig)",
+                "61": "Remembering The Kanji, 6th edition (James Heisig)",
+                "20": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "62": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3957": "2001 Kanji",
+                "5c2.1": "The Kanji Dictionary",
+                "2-5-2": "SKIP code",
+                "6021.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-11": "JIS X 0208-1997 kuten code",
+                "898b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jian4",
+                    "xian4"
+                ],
+                "korean": [
+                    "gyeon",
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "see",
+            "parts": [
+                "儿",
+                "目",
+                "見"
+            ],
+            "basis": "見",
+            "kangxi_order": 147,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "見る",
+                    "reading": "みる",
+                    "meanings": [
+                        "to see",
+                        "to look",
+                        "to watch",
+                        "to view",
+                        "to observe",
+                        "to examine",
+                        "to look over",
+                        "to assess",
+                        "to check",
+                        "to judge",
+                        "to look after",
+                        "to attend to",
+                        "to take care of",
+                        "to keep an eye on",
+                        "to experience",
+                        "to meet with (misfortune",
+                        "success",
+                        "etc.)",
+                        "to try ...",
+                        "to have a go at ...",
+                        "to give ... a try",
+                        "to see (that) ...",
+                        "to find (that) ..."
+                    ]
+                },
+                {
+                    "kanji": "見る見る",
+                    "reading": "みるみる",
+                    "meanings": [
+                        "very fast",
+                        "in a twinkle",
+                        "before one's eyes"
+                    ]
+                },
+                {
+                    "kanji": "見える",
+                    "reading": "みえる",
+                    "meanings": [
+                        "to be seen",
+                        "to be visible",
+                        "to be in sight",
+                        "to look",
+                        "to seem",
+                        "to appear",
+                        "to come"
+                    ]
+                },
+                {
+                    "kanji": "見える化",
+                    "reading": "みえるか",
+                    "meanings": [
+                        "visualization",
+                        "rendering visible (e.g. a problem)",
+                        "digitization"
+                    ]
+                },
+                {
+                    "kanji": "見せる",
+                    "reading": "みせる",
+                    "meanings": [
+                        "to show",
+                        "to display",
+                        "to make (something or someone) look ...",
+                        "to present an appearance of ...",
+                        "to make (something) worth watching",
+                        "to be entertaining",
+                        "to make a show of (doing)",
+                        "to do in a conspicuous manner",
+                        "to do in view of others",
+                        "to resolve to do",
+                        "to do at any cost",
+                        "to show others that one will ..."
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "見",
+                    "reading": "ケン",
+                    "meanings": [
+                        "view (of life",
+                        "etc.)",
+                        "outlook"
+                    ]
+                },
+                {
+                    "kanji": "見解",
+                    "reading": "ケンカイ",
+                    "meanings": [
+                        "opinion",
+                        "point of view"
+                    ]
+                },
+                {
+                    "kanji": "後見",
+                    "reading": "コウケン",
+                    "meanings": [
+                        "guardianship",
+                        "guardian",
+                        "(theatrical) assistant",
+                        "prompter"
+                    ]
+                },
+                {
+                    "kanji": "政見",
+                    "reading": "セイケン",
+                    "meanings": [
+                        "political views"
+                    ]
+                }
+            ]
+        }
+    }
+}

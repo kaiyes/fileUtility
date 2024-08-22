@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"湧\"",
+        "strokes": 12,
+        "main_meanings": [
+            "boil",
+            "ferment",
+            "seethe",
+            "uproar",
+            "breed"
+        ],
+        "main_readings": {
+            "kun": [
+                "わ.く"
+            ],
+            "on": [
+                "ユウ",
+                "ヨウ",
+                "ユ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2607": "Classic Nelson (Andrew Nelson)",
+                "1573": "Japanese Names (P.G. O’Neill)",
+                "2144": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1475": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "749": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "448": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "563": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17862X": "Morohashi",
+                "615": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3207": "New Nelson (John Haig)",
+                "2284": "Remembering The Kanji (James Heisig)",
+                "1510": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a9.31": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "3712.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-15": "JIS X 0208-1997 kuten code",
+                "6e67": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "わき、 わく"
+                ],
+                "chinese": [
+                    "yong3",
+                    "chong1"
+                ],
+                "korean": [
+                    "yong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "力",
+                "マ",
+                "汁",
+                "田"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "涌"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "湧く",
+                    "reading": "わく",
+                    "meanings": [
+                        "to well (up)",
+                        "to gush out (of water)",
+                        "to spring out",
+                        "to surge",
+                        "to appear (esp. suddenly) (sweat",
+                        "tears",
+                        "etc.)",
+                        "to sweat",
+                        "to cry",
+                        "to feel emotions (e.g. joy",
+                        "bravery",
+                        "etc.)",
+                        "to spring up (e.g. an idea",
+                        "emotions",
+                        "clouds)",
+                        "to well up",
+                        "to arise",
+                        "to hatch",
+                        "to breed",
+                        "to propagate",
+                        "to be infested (esp. of parasitic insects",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "湧水",
+                    "reading": "ユウスイ",
+                    "meanings": [
+                        "spring",
+                        "welling of water"
+                    ]
+                },
+                {
+                    "kanji": "湧出",
+                    "reading": "ユウシュツ",
+                    "meanings": [
+                        "gushing out",
+                        "welling up",
+                        "springing up"
+                    ]
+                },
+                {
+                    "kanji": "湧出",
+                    "reading": "ユウシュツ",
+                    "meanings": [
+                        "gushing out",
+                        "welling up",
+                        "springing up"
+                    ]
+                },
+                {
+                    "kanji": "湧水",
+                    "reading": "ユウスイ",
+                    "meanings": [
+                        "spring",
+                        "welling of water"
+                    ]
+                },
+                {
+                    "kanji": "湧出",
+                    "reading": "ユウシュツ",
+                    "meanings": [
+                        "gushing out",
+                        "welling up",
+                        "springing up"
+                    ]
+                }
+            ]
+        }
+    }
+}

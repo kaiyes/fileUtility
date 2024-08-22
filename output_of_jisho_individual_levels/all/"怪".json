@@ -1,0 +1,214 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"怪\"",
+        "strokes": 8,
+        "main_meanings": [
+            "suspicious",
+            "mystery",
+            "apparition"
+        ],
+        "main_readings": {
+            "kun": [
+                "あや.しい",
+                "あや.しむ"
+            ],
+            "on": [
+                "カイ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1061": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1367": "A New Dictionary of Kanji Usage",
+                "1665": "Classic Nelson (Andrew Nelson)",
+                "1176": "Essential Kanji (P.G. O’Neill)",
+                "1291": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1476": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1573": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1450": "Kanji in Context (Nishiguchi and Kono)",
+                "809": "Kodansha Compact Kanji Guide",
+                "354": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "220": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "264": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "723": "Les Kanjis dans la tete (Yves Maniette)",
+                "10483": "Morohashi",
+                "297": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1821": "New Nelson (John Haig)",
+                "716": "Remembering The Kanji (James Heisig)",
+                "773": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1172": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1172": "2001 Kanji",
+                "4k5.11": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "9701.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-88": "JIS X 0208-1997 kuten code",
+                "602a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "guai4"
+                ],
+                "korean": [
+                    "goe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "又",
+                "土",
+                "忙"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": [
+                "恠"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "怪しい",
+                    "reading": "あやしい",
+                    "meanings": [
+                        "suspicious",
+                        "dubious",
+                        "questionable",
+                        "dodgy",
+                        "shady",
+                        "fishy",
+                        "doubtful",
+                        "unsure",
+                        "uncertain",
+                        "unlikely",
+                        "implausible",
+                        "untrustworthy",
+                        "unreliable",
+                        "clumsy",
+                        "awkward",
+                        "shaky",
+                        "poor",
+                        "strange",
+                        "weird",
+                        "eerie",
+                        "spooky",
+                        "uncanny",
+                        "ominous (e.g. weather)",
+                        "threatening",
+                        "dangerous (e.g. financial situation)",
+                        "uncertain",
+                        "suspicious (of a potential amorous relation)",
+                        "mysterious",
+                        "bewitching",
+                        "alluring",
+                        "enticing",
+                        "enchanting"
+                    ]
+                },
+                {
+                    "kanji": "怪しい手つきで",
+                    "reading": "あやしいてつきで",
+                    "meanings": [
+                        "clumsily",
+                        "with clumsy hands"
+                    ]
+                },
+                {
+                    "kanji": "怪しむ",
+                    "reading": "あやしむ",
+                    "meanings": [
+                        "to suspect"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "怪",
+                    "reading": "カイ",
+                    "meanings": [
+                        "mystery",
+                        "wonder"
+                    ]
+                },
+                {
+                    "kanji": "怪獣",
+                    "reading": "カイジュウ",
+                    "meanings": [
+                        "monster"
+                    ]
+                },
+                {
+                    "kanji": "奇々怪々",
+                    "reading": "キキカイカイ",
+                    "meanings": [
+                        "very strange",
+                        "bizarre",
+                        "weird",
+                        "mysterious"
+                    ]
+                },
+                {
+                    "kanji": "夜道怪",
+                    "reading": "ヤドウカイ",
+                    "meanings": [
+                        "folk monster who wanders at night injuring and kidnapping people"
+                    ]
+                },
+                {
+                    "kanji": "怪我",
+                    "reading": "ケガ",
+                    "meanings": [
+                        "injury",
+                        "wound",
+                        "mistake",
+                        "accident",
+                        "loss"
+                    ]
+                },
+                {
+                    "kanji": "けが人",
+                    "reading": "ケガニン",
+                    "meanings": [
+                        "wounded person",
+                        "injured person"
+                    ]
+                },
+                {
+                    "kanji": "物怪",
+                    "reading": "モッケ",
+                    "meanings": [
+                        "unexpected"
+                    ]
+                },
+                {
+                    "kanji": "物の怪",
+                    "reading": "モノノケ",
+                    "meanings": [
+                        "(vengeful) ghost",
+                        "specter",
+                        "spectre"
+                    ]
+                }
+            ]
+        }
+    }
+}

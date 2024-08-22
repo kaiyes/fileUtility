@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"審\"",
+        "strokes": 15,
+        "main_meanings": [
+            "hearing",
+            "judge",
+            "trial"
+        ],
+        "main_readings": {
+            "kun": [
+                "つまび.らか",
+                "つぶさ.に"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1443": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "380": "A New Dictionary of Kanji Usage",
+                "1341": "Classic Nelson (Andrew Nelson)",
+                "1253": "Essential Kanji (P.G. O’Neill)",
+                "1218": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2365": "Japanese Names (P.G. O’Neill)",
+                "1383": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1471": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1661": "Kanji in Context (Nishiguchi and Kono)",
+                "497": "Kodansha Compact Kanji Guide",
+                "2985": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1527": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2080": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1929": "Les Kanjis dans la tete (Yves Maniette)",
+                "7316": "Morohashi",
+                "2360": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1367": "New Nelson (John Haig)",
+                "1910": "Remembering The Kanji (James Heisig)",
+                "2059": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1753": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "776": "2001 Kanji",
+                "3m12.1": "The Kanji Dictionary",
+                "2-3-12": "SKIP code",
+                "3060.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-19": "JIS X 0208-1997 kuten code",
+                "5be9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あきら"
+                ],
+                "chinese": [
+                    "shen3"
+                ],
+                "korean": [
+                    "sim"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "宀",
+                "田",
+                "米",
+                "釆"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": [
+                "宷"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "詳らか",
+                    "reading": "つまびらか",
+                    "meanings": [
+                        "detailed",
+                        "clear"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "審査",
+                    "reading": "シンサ",
+                    "meanings": [
+                        "judging",
+                        "inspection",
+                        "examination",
+                        "investigation",
+                        "review"
+                    ]
+                },
+                {
+                    "kanji": "審議",
+                    "reading": "シンギ",
+                    "meanings": [
+                        "deliberation",
+                        "discussion",
+                        "consideration"
+                    ]
+                },
+                {
+                    "kanji": "一審",
+                    "reading": "イッシン",
+                    "meanings": [
+                        "first instance",
+                        "first trial"
+                    ]
+                },
+                {
+                    "kanji": "再審",
+                    "reading": "サイシン",
+                    "meanings": [
+                        "retrial",
+                        "reopening of a case",
+                        "review",
+                        "reexamination"
+                    ]
+                }
+            ]
+        }
+    }
+}

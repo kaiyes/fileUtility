@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"千\"",
+        "strokes": 3,
+        "main_meanings": [
+            "thousand"
+        ],
+        "main_readings": {
+            "kun": [
+                "ち"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "101": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "12": "Kanji in Context (Nishiguchi and Kono)",
+                "47": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "79": "A New Dictionary of Kanji Usage",
+                "156": "Classic Nelson (Andrew Nelson)",
+                "83": "Essential Kanji (P.G. O’Neill)",
+                "26": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "44": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "15": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "240": "Kodansha Compact Kanji Guide",
+                "4219": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2132": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2881": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "40": "Remembering The Kanji, 6th edition (James Heisig)",
+                "2697": "Morohashi",
+                "3411": "New Japanese English Character Dictionary (Jack Halpern)",
+                "599": "New Nelson (John Haig)",
+                "335": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "11": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2255": "2001 Kanji",
+                "2k1.2": "The Kanji Dictionary",
+                "4-3-3": "SKIP code",
+                "2040.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-73": "JIS X 0208-1997 kuten code",
+                "5343": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かず、 ゆき"
+                ],
+                "chinese": [
+                    "qian1"
+                ],
+                "korean": [
+                    "cheon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ten,",
+            "parts": [
+                "ノ",
+                "十"
+            ],
+            "basis": "十",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "千",
+                    "reading": "せん",
+                    "meanings": [
+                        "thousand",
+                        "1,000"
+                    ]
+                },
+                {
+                    "kanji": "千島",
+                    "reading": "ちしま",
+                    "meanings": [
+                        "Kurile Islands"
+                    ]
+                },
+                {
+                    "kanji": "百千",
+                    "reading": "ひゃくせん",
+                    "meanings": [
+                        "a large number",
+                        "all sorts",
+                        "hundreds and thousands"
+                    ]
+                },
+                {
+                    "kanji": "８０００",
+                    "reading": "はっせん",
+                    "meanings": [
+                        "8000",
+                        "eight thousand",
+                        "many"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "千",
+                    "reading": "セン",
+                    "meanings": [
+                        "thousand",
+                        "1,000"
+                    ]
+                },
+                {
+                    "kanji": "千九百年代",
+                    "reading": "センキュウヒャクネンダイ",
+                    "meanings": [
+                        "the 1900s"
+                    ]
+                },
+                {
+                    "kanji": "一騎当千",
+                    "reading": "イッキトウセン",
+                    "meanings": [
+                        "being a match for a thousand",
+                        "being a mighty warrior (combatant",
+                        "player)"
+                    ]
+                },
+                {
+                    "kanji": "一人当千",
+                    "reading": "イチニントウセン",
+                    "meanings": [
+                        "being a match for a thousand"
+                    ]
+                }
+            ]
+        }
+    }
+}

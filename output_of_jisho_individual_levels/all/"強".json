@@ -1,0 +1,253 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"強\"",
+        "strokes": 11,
+        "main_meanings": [
+            "strong"
+        ],
+        "main_readings": {
+            "kun": [
+                "つよ.い",
+                "つよ.まる",
+                "つよ.める",
+                "し.いる",
+                "こわ.い"
+            ],
+            "on": [
+                "キョウ",
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "192": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "111": "Kanji in Context (Nishiguchi and Kono)",
+                "100": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "112": "A New Dictionary of Kanji Usage",
+                "1571": "Classic Nelson (Andrew Nelson)",
+                "332": "Essential Kanji (P.G. O’Neill)",
+                "170": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1878": "Japanese Names (P.G. O’Neill)",
+                "2.11": "Japanese for Busy People",
+                "217": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "611": "Kodansha Compact Kanji Guide",
+                "574": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "349": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "432": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1243": "Les Kanjis dans la tete (Yves Maniette)",
+                "9815": "Morohashi",
+                "475": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1695": "New Nelson (John Haig)",
+                "1235": "Remembering The Kanji (James Heisig)",
+                "1321": "Remembering The Kanji, 6th edition (James Heisig)",
+                "133": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "201": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3571": "2001 Kanji",
+                "3h8.3": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "1323.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-15": "JIS X 0208-1997 kuten code",
+                "5f37": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "すね"
+                ],
+                "chinese": [
+                    "qiang2",
+                    "jiang4",
+                    "qiang3"
+                ],
+                "korean": [
+                    "gang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bow",
+            "parts": [
+                "厶",
+                "弓",
+                "虫"
+            ],
+            "basis": "弓",
+            "kangxi_order": 57,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "強い",
+                    "reading": "つよい",
+                    "meanings": [
+                        "strong",
+                        "potent",
+                        "competent",
+                        "domineering",
+                        "tough",
+                        "strong",
+                        "brawny",
+                        "powerful",
+                        "healthy",
+                        "rugged",
+                        "good (at)",
+                        "skilled",
+                        "knowledgeable",
+                        "being able to handle",
+                        "know how to deal (with)",
+                        "durable (against)",
+                        "resistant (to)",
+                        "resilient",
+                        "firm",
+                        "rigid",
+                        "solid",
+                        "intense",
+                        "strong",
+                        "fierce",
+                        "high",
+                        "dependable",
+                        "trustworthy"
+                    ]
+                },
+                {
+                    "kanji": "強い雨",
+                    "reading": "つよいあめ",
+                    "meanings": [
+                        "heavy rain (specifically 20-29 mm per hour in JMA use)"
+                    ]
+                },
+                {
+                    "kanji": "強まる",
+                    "reading": "つよまる",
+                    "meanings": [
+                        "to get strong",
+                        "to gain strength"
+                    ]
+                },
+                {
+                    "kanji": "強める",
+                    "reading": "つよめる",
+                    "meanings": [
+                        "to strengthen",
+                        "to emphasize",
+                        "to emphasise"
+                    ]
+                },
+                {
+                    "kanji": "強いる",
+                    "reading": "しいる",
+                    "meanings": [
+                        "to force",
+                        "to compel",
+                        "to coerce",
+                        "to press",
+                        "to impose"
+                    ]
+                },
+                {
+                    "kanji": "強い",
+                    "reading": "こわい",
+                    "meanings": [
+                        "tough",
+                        "stiff",
+                        "hard",
+                        "inflexible",
+                        "obstinate",
+                        "stubborn",
+                        "tired",
+                        "worn out"
+                    ]
+                },
+                {
+                    "kanji": "強飯",
+                    "reading": "こわめし",
+                    "meanings": [
+                        "glutinous rice with red beans (eaten on celebratory occasions)",
+                        "mochi rice with red beans"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "強",
+                    "reading": "キョウ",
+                    "meanings": [
+                        "a little over",
+                        "a little more than",
+                        "strength",
+                        "the strong",
+                        "powerhouse",
+                        "one of the biggest",
+                        "one of the most powerful",
+                        "-upper (seismic intensity)"
+                    ]
+                },
+                {
+                    "kanji": "強化",
+                    "reading": "キョウカ",
+                    "meanings": [
+                        "strengthening",
+                        "intensifying",
+                        "reinforcement",
+                        "enhancement",
+                        "solidification",
+                        "reinforcement"
+                    ]
+                },
+                {
+                    "kanji": "列強",
+                    "reading": "レッキョウ",
+                    "meanings": [
+                        "major powers of the world",
+                        "great powers"
+                    ]
+                },
+                {
+                    "kanji": "屈強",
+                    "reading": "クッキョウ",
+                    "meanings": [
+                        "robust",
+                        "brawny",
+                        "muscular",
+                        "strong",
+                        "sturdy"
+                    ]
+                },
+                {
+                    "kanji": "強盗",
+                    "reading": "ゴウトウ",
+                    "meanings": [
+                        "robber",
+                        "mugger",
+                        "robbery",
+                        "burglary"
+                    ]
+                },
+                {
+                    "kanji": "強引",
+                    "reading": "ゴウイン",
+                    "meanings": [
+                        "overbearing",
+                        "coercive",
+                        "pushy",
+                        "forcible",
+                        "high-handed"
+                    ]
+                }
+            ]
+        }
+    }
+}

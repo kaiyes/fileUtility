@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"吸\"",
+        "strokes": 6,
+        "main_meanings": [
+            "suck",
+            "imbibe",
+            "inhale",
+            "sip"
+        ],
+        "main_readings": {
+            "kun": [
+                "す.う"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "849": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "837": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1133": "A New Dictionary of Kanji Usage",
+                "885": "Classic Nelson (Andrew Nelson)",
+                "1083": "Essential Kanji (P.G. O’Neill)",
+                "406": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1256": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1327": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "272": "Kanji in Context (Nishiguchi and Kono)",
+                "296": "Kodansha Compact Kanji Guide",
+                "234": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "150": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "179": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "696": "Les Kanjis dans la tete (Yves Maniette)",
+                "3372P": "Morohashi",
+                "202": "New Japanese English Character Dictionary (Jack Halpern)",
+                "713": "New Nelson (John Haig)",
+                "689": "Remembering The Kanji (James Heisig)",
+                "744": "Remembering The Kanji, 6th edition (James Heisig)",
+                "843": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3767": "2001 Kanji",
+                "3d3.5": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "1-3-4": "SKIP code",
+                "6704.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-59": "JIS X 0208-1997 kuten code",
+                "5438": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1"
+                ],
+                "korean": [
+                    "heub"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "ノ",
+                "口",
+                "及"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "吸う",
+                    "reading": "すう",
+                    "meanings": [
+                        "to smoke",
+                        "to breathe in",
+                        "to inhale",
+                        "to suck",
+                        "to sip",
+                        "to slurp",
+                        "to absorb",
+                        "to soak up",
+                        "to kiss"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "吸収",
+                    "reading": "キュウシュウ",
+                    "meanings": [
+                        "absorption",
+                        "suction",
+                        "attraction"
+                    ]
+                },
+                {
+                    "kanji": "吸血鬼",
+                    "reading": "キュウケツキ",
+                    "meanings": [
+                        "vampire",
+                        "bloodsucker"
+                    ]
+                },
+                {
+                    "kanji": "腹式呼吸",
+                    "reading": "フクシキコキュウ",
+                    "meanings": [
+                        "diaphragmatic breathing",
+                        "abdominal breathing"
+                    ]
+                },
+                {
+                    "kanji": "外呼吸",
+                    "reading": "ガイコキュウ",
+                    "meanings": [
+                        "external respiration"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"罰\"",
+        "strokes": 14,
+        "main_meanings": [
+            "penalty",
+            "punishment"
+        ],
+        "main_readings": {
+            "kun": [
+                "ばっ.する"
+            ],
+            "on": [
+                "バツ",
+                "バチ",
+                "ハツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1709": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1374": "A New Dictionary of Kanji Usage",
+                "3646": "Classic Nelson (Andrew Nelson)",
+                "936": "Essential Kanji (P.G. O’Neill)",
+                "1654": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "886": "Kanji and Kana (Spahn and Hadamitzky)",
+                "907": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1317": "Kanji in Context (Nishiguchi and Kono)",
+                "1467": "Kodansha Compact Kanji Guide",
+                "3228": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1675": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2266": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "841": "Les Kanjis dans la tete (Yves Maniette)",
+                "28315": "Morohashi",
+                "2613": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4647": "New Nelson (John Haig)",
+                "833": "Remembering The Kanji (James Heisig)",
+                "896": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1726": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3643": "2001 Kanji",
+                "5g9.1": "The Kanji Dictionary",
+                "2-5-9": "SKIP code",
+                "6062.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-19": "JIS X 0208-1997 kuten code",
+                "7f70": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fa2"
+                ],
+                "korean": [
+                    "beol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "罒",
+                "⺲",
+                "罓",
+                "⺳"
+            ],
+            "meaning": "net",
+            "parts": [
+                "刈",
+                "買",
+                "言"
+            ],
+            "basis": "网",
+            "kangxi_order": 122,
+            "variants": [
+                "罸"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "罰する",
+                    "reading": "ばっする",
+                    "meanings": [
+                        "to punish",
+                        "to penalize",
+                        "to penalise"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "罰",
+                    "reading": "バツ",
+                    "meanings": [
+                        "punishment",
+                        "penalty"
+                    ]
+                },
+                {
+                    "kanji": "罰一",
+                    "reading": "バツイチ",
+                    "meanings": [
+                        "being once divorced",
+                        "one-time divorcee",
+                        "one x mark (i.e. one name struck from the family register)"
+                    ]
+                },
+                {
+                    "kanji": "賞罰",
+                    "reading": "ショウバツ",
+                    "meanings": [
+                        "reward and punishment"
+                    ]
+                },
+                {
+                    "kanji": "冥罰",
+                    "reading": "ミョウバツ",
+                    "meanings": [
+                        "retribution",
+                        "divine punishment"
+                    ]
+                },
+                {
+                    "kanji": "罰",
+                    "reading": "バチ",
+                    "meanings": [
+                        "(divine) punishment",
+                        "curse",
+                        "retribution"
+                    ]
+                },
+                {
+                    "kanji": "罰当たり",
+                    "reading": "バチアタリ",
+                    "meanings": [
+                        "damned",
+                        "cursed",
+                        "accursed"
+                    ]
+                },
+                {
+                    "kanji": "仏罰",
+                    "reading": "ブツバチ",
+                    "meanings": [
+                        "punishment by Buddha",
+                        "divine retribution"
+                    ]
+                }
+            ]
+        }
+    }
+}

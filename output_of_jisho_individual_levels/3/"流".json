@@ -1,0 +1,293 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"流\"",
+        "strokes": 10,
+        "main_meanings": [
+            "current",
+            "a sink",
+            "flow",
+            "forfeit"
+        ],
+        "main_readings": {
+            "kun": [
+                "なが.れる",
+                "なが.れ",
+                "なが.す",
+                "-なが.す"
+            ],
+            "on": [
+                "リュウ",
+                "ル"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "334": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "432": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "409": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "296": "A New Dictionary of Kanji Usage",
+                "2576": "Classic Nelson (Andrew Nelson)",
+                "329": "Essential Kanji (P.G. O’Neill)",
+                "682": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1332": "Japanese Names (P.G. O’Neill)",
+                "247": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "279": "Kanji in Context (Nishiguchi and Kono)",
+                "1200": "Kodansha Compact Kanji Guide",
+                "529": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "325": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "400": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "771": "Les Kanjis dans la tete (Yves Maniette)",
+                "17572P": "Morohashi",
+                "441": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3160": "New Nelson (John Haig)",
+                "764": "Remembering The Kanji (James Heisig)",
+                "826": "Remembering The Kanji, 6th edition (James Heisig)",
+                "235": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "367": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "357": "2001 Kanji",
+                "3a7.10": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "3011.3": "Four corner code",
+                "3411.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-14": "JIS X 0208-1997 kuten code",
+                "6d41": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "な、 ながれ、 めぐる"
+                ],
+                "chinese": [
+                    "liu2"
+                ],
+                "korean": [
+                    "ryu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "亠",
+                "厶",
+                "川",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "流れる",
+                    "reading": "ながれる",
+                    "meanings": [
+                        "to stream",
+                        "to flow (liquid",
+                        "time",
+                        "etc.)",
+                        "to run (ink)",
+                        "to be washed away",
+                        "to be carried",
+                        "to drift",
+                        "to float (e.g. clouds)",
+                        "to wander",
+                        "to stray",
+                        "to sweep (e.g. rumour",
+                        "fire)",
+                        "to spread",
+                        "to circulate",
+                        "to be heard (e.g. music)",
+                        "to be played",
+                        "to lapse (e.g. into indolence",
+                        "despair)",
+                        "to pass",
+                        "to elapse",
+                        "to be transmitted",
+                        "to be called off",
+                        "to be forfeited",
+                        "to disappear",
+                        "to be removed"
+                    ]
+                },
+                {
+                    "kanji": "流れ",
+                    "reading": "ながれ",
+                    "meanings": [
+                        "flow (of a fluid or gas)",
+                        "stream",
+                        "current",
+                        "flow (of people",
+                        "things)",
+                        "passage (of time)",
+                        "tide",
+                        "passing",
+                        "(changing) trends",
+                        "tendency",
+                        "course (of events)",
+                        "(step-by-step) procedure",
+                        "process",
+                        "group of people who remain together after the end of an event",
+                        "descent",
+                        "ancestry",
+                        "school",
+                        "forfeiture",
+                        "foreclosure",
+                        "cancellation",
+                        "drifting",
+                        "wandering",
+                        "roaming"
+                    ]
+                },
+                {
+                    "kanji": "流れ込む",
+                    "reading": "ながれこむ",
+                    "meanings": [
+                        "to flow into",
+                        "to pour into",
+                        "to stream into"
+                    ]
+                },
+                {
+                    "kanji": "流す",
+                    "reading": "ながす",
+                    "meanings": [
+                        "to drain",
+                        "to pour",
+                        "to run",
+                        "to let flow",
+                        "to flush",
+                        "to shed (blood",
+                        "tears)",
+                        "to spill",
+                        "to float (e.g. logs down a river)",
+                        "to set adrift",
+                        "to wash away",
+                        "to carry away",
+                        "to sweep away",
+                        "to broadcast",
+                        "to play (e.g. music over a loudspeaker)",
+                        "to send (electricity through a wire)",
+                        "to circulate (a rumour",
+                        "information",
+                        "etc.)",
+                        "to spread",
+                        "to distribute",
+                        "to cruise (of a taxi)",
+                        "to stroll around (in search of customers",
+                        "an audience",
+                        "etc.)",
+                        "to go from place to place",
+                        "to cancel (a plan",
+                        "meeting",
+                        "etc.)",
+                        "to call off",
+                        "to reject (e.g. a bill)",
+                        "to forfeit (a pawn)",
+                        "to do leisurely (e.g. running",
+                        "swimming)",
+                        "to do with ease",
+                        "to do effortlessly",
+                        "to exile",
+                        "to banish",
+                        "to hit (the ball) to the opposite field",
+                        "to do inattentively",
+                        "to do without concentrating",
+                        "to put little effort into doing"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "流",
+                    "reading": "リュウ",
+                    "meanings": [
+                        "way",
+                        "manner",
+                        "style",
+                        "fashion",
+                        "mode",
+                        "school (e.g. of flower arrangement)",
+                        "class",
+                        "rate",
+                        "rank",
+                        "flow",
+                        "current",
+                        "stream"
+                    ]
+                },
+                {
+                    "kanji": "旒",
+                    "reading": "リュウ",
+                    "meanings": [
+                        "counter for flags",
+                        "banners",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "清流",
+                    "reading": "セイリュウ",
+                    "meanings": [
+                        "clear stream"
+                    ]
+                },
+                {
+                    "kanji": "火砕流",
+                    "reading": "カサイリュウ",
+                    "meanings": [
+                        "pyroclastic flow"
+                    ]
+                },
+                {
+                    "kanji": "流",
+                    "reading": "ル",
+                    "meanings": [
+                        "exile (second most severe of the five ritsuryō punishments)"
+                    ]
+                },
+                {
+                    "kanji": "流刑",
+                    "reading": "リュウケイ",
+                    "meanings": [
+                        "exile",
+                        "banishment",
+                        "deportation"
+                    ]
+                },
+                {
+                    "kanji": "配流",
+                    "reading": "ハイル",
+                    "meanings": [
+                        "exile",
+                        "banishment"
+                    ]
+                },
+                {
+                    "kanji": "中流",
+                    "reading": "チュウル",
+                    "meanings": [
+                        "banishment (to a somewhat distant province)",
+                        "middle-degree punishment of the three banishment punishments under the ritsuryō system"
+                    ]
+                }
+            ]
+        }
+    }
+}

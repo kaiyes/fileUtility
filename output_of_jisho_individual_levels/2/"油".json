@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"油\"",
+        "strokes": 8,
+        "main_meanings": [
+            "oil",
+            "fat"
+        ],
+        "main_readings": {
+            "kun": [
+                "あぶら"
+            ],
+            "on": [
+                "ユ",
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "522": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "422": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "400": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "689": "A New Dictionary of Kanji Usage",
+                "2534": "Classic Nelson (Andrew Nelson)",
+                "298": "Essential Kanji (P.G. O’Neill)",
+                "671": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "593": "Japanese Names (P.G. O’Neill)",
+                "364": "Kanji and Kana (Spahn and Hadamitzky)",
+                "365": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "624": "Kanji in Context (Nishiguchi and Kono)",
+                "1183": "Kodansha Compact Kanji Guide",
+                "255": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "303": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1116": "Les Kanjis dans la tete (Yves Maniette)",
+                "17253": "Morohashi",
+                "341": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3106": "New Nelson (John Haig)",
+                "1107": "Remembering The Kanji (James Heisig)",
+                "1188": "Remembering The Kanji, 6th edition (James Heisig)",
+                "317": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "376": "2001 Kanji",
+                "3a5.6": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3516.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-93": "JIS X 0208-1997 kuten code",
+                "6cb9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "you2"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "｜",
+                "汁",
+                "日",
+                "田"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "油",
+                    "reading": "あぶら",
+                    "meanings": [
+                        "oil"
+                    ]
+                },
+                {
+                    "kanji": "油絵",
+                    "reading": "あぶらえ",
+                    "meanings": [
+                        "oil painting"
+                    ]
+                },
+                {
+                    "kanji": "匂い油",
+                    "reading": "においあぶら",
+                    "meanings": [
+                        "perfumed hair oil"
+                    ]
+                },
+                {
+                    "kanji": "機械油",
+                    "reading": "きかいあぶら",
+                    "meanings": [
+                        "machine oil"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "油井",
+                    "reading": "ユセイ",
+                    "meanings": [
+                        "oil well"
+                    ]
+                },
+                {
+                    "kanji": "油彩",
+                    "reading": "ユサイ",
+                    "meanings": [
+                        "oil painting"
+                    ]
+                },
+                {
+                    "kanji": "重油",
+                    "reading": "ジュウユ",
+                    "meanings": [
+                        "heavy oil",
+                        "fuel oil"
+                    ]
+                },
+                {
+                    "kanji": "軽油",
+                    "reading": "ケイユ",
+                    "meanings": [
+                        "diesel oil",
+                        "diesel fuel",
+                        "gas oil",
+                        "light oil"
+                    ]
+                },
+                {
+                    "kanji": "油色",
+                    "reading": "ユショク",
+                    "meanings": [
+                        "coating a painting with a layer of transparent oil"
+                    ]
+                },
+                {
+                    "kanji": "油然",
+                    "reading": "ユウゼン",
+                    "meanings": [
+                        "gushingly",
+                        "freely (welling up)",
+                        "copiously"
+                    ]
+                }
+            ]
+        }
+    }
+}

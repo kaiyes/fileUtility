@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"慣\"",
+        "strokes": 14,
+        "main_meanings": [
+            "accustomed",
+            "get used to",
+            "become experienced"
+        ],
+        "main_readings": {
+            "kun": [
+                "な.れる",
+                "な.らす"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "574": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "668": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "638": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1293": "A New Dictionary of Kanji Usage",
+                "1756": "Classic Nelson (Andrew Nelson)",
+                "442": "Essential Kanji (P.G. O’Neill)",
+                "547": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "915": "Kanji and Kana (Spahn and Hadamitzky)",
+                "937": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "655": "Kanji in Context (Nishiguchi and Kono)",
+                "827": "Kodansha Compact Kanji Guide",
+                "843": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "487": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "624": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "634": "Les Kanjis dans la tete (Yves Maniette)",
+                "11111": "Morohashi",
+                "685": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1970": "New Nelson (John Haig)",
+                "627": "Remembering The Kanji (James Heisig)",
+                "674": "Remembering The Kanji, 6th edition (James Heisig)",
+                "786": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1161": "2001 Kanji",
+                "4k11.9": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "1-1-13": "SKIP code",
+                "9708.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-23": "JIS X 0208-1997 kuten code",
+                "6163": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "guan4"
+                ],
+                "korean": [
+                    "gwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "ハ",
+                "忙",
+                "毋",
+                "目",
+                "母",
+                "貝"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "慣れる",
+                    "reading": "なれる",
+                    "meanings": [
+                        "to get used to",
+                        "to grow accustomed to",
+                        "to become familiar with",
+                        "to become skilled in",
+                        "to become experienced at",
+                        "to become tame",
+                        "to become domesticated",
+                        "to get used to doing"
+                    ]
+                },
+                {
+                    "kanji": "慣らす",
+                    "reading": "ならす",
+                    "meanings": [
+                        "to accustom",
+                        "to train (e.g. one's ear)",
+                        "to tame",
+                        "to domesticate",
+                        "to train (an animal)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "慣習",
+                    "reading": "カンシュウ",
+                    "meanings": [
+                        "custom",
+                        "convention",
+                        "common practice",
+                        "becoming accustomed (to)"
+                    ]
+                },
+                {
+                    "kanji": "慣行",
+                    "reading": "カンコウ",
+                    "meanings": [
+                        "customary practice",
+                        "habit",
+                        "traditional event"
+                    ]
+                },
+                {
+                    "kanji": "旧慣",
+                    "reading": "キュウカン",
+                    "meanings": [
+                        "old customs"
+                    ]
+                },
+                {
+                    "kanji": "購買習慣",
+                    "reading": "コウバイシュウカン",
+                    "meanings": [
+                        "buying habit"
+                    ]
+                }
+            ]
+        }
+    }
+}

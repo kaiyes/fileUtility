@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"振\"",
+        "strokes": 10,
+        "main_meanings": [
+            "shake",
+            "wave",
+            "wag",
+            "swing"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふ.る",
+                "ふ.れる",
+                "ふ.るう"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1437": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "600": "A New Dictionary of Kanji Usage",
+                "1920": "Classic Nelson (Andrew Nelson)",
+                "1612": "Essential Kanji (P.G. O’Neill)",
+                "1357": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1320": "Japanese Names (P.G. O’Neill)",
+                "954": "Kanji and Kana (Spahn and Hadamitzky)",
+                "984": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "770": "Kanji in Context (Nishiguchi and Kono)",
+                "892": "Kodansha Compact Kanji Guide",
+                "515": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "316": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "388": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2030": "Les Kanjis dans la tete (Yves Maniette)",
+                "12093": "Morohashi",
+                "430": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2171": "New Nelson (John Haig)",
+                "2011": "Remembering The Kanji (James Heisig)",
+                "2167": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1338": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1365": "2001 Kanji",
+                "3c7.14": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "5103.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-22": "JIS X 0208-1997 kuten code",
+                "632f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ふり"
+                ],
+                "chinese": [
+                    "zhen4"
+                ],
+                "korean": [
+                    "jin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "厂",
+                "扎",
+                "衣",
+                "辰"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "振る",
+                    "reading": "ふる",
+                    "meanings": [
+                        "to wave",
+                        "to shake",
+                        "to swing",
+                        "to sprinkle",
+                        "to throw (dice)",
+                        "to cast (actor)",
+                        "to allocate (work)",
+                        "to turn down (someone)",
+                        "to reject",
+                        "to jilt",
+                        "to dump",
+                        "to abandon",
+                        "to give up",
+                        "to ruin",
+                        "to add kana indicating a reading of a word",
+                        "to slightly change headings",
+                        "to change directions",
+                        "to extract by broiling",
+                        "to prepare an infusion of",
+                        "to decoct",
+                        "to carry with great vigor (e.g. a portable shrine)",
+                        "to bring up a topic",
+                        "to lead to a topic",
+                        "to replace",
+                        "to substitute",
+                        "to set up a joke for someone else"
+                    ]
+                },
+                {
+                    "kanji": "振る舞い",
+                    "reading": "ふるまい",
+                    "meanings": [
+                        "behavior",
+                        "behaviour",
+                        "conduct",
+                        "entertainment",
+                        "treat",
+                        "feast",
+                        "banquet"
+                    ]
+                },
+                {
+                    "kanji": "振れる",
+                    "reading": "ふれる",
+                    "meanings": [
+                        "to swing",
+                        "to shake",
+                        "to wave",
+                        "to veer",
+                        "to deflect",
+                        "to lean towards"
+                    ]
+                },
+                {
+                    "kanji": "振るう",
+                    "reading": "ふるう",
+                    "meanings": [
+                        "to swing",
+                        "to wield (physically)",
+                        "to exert",
+                        "to exercise (e.g. power",
+                        "ability)",
+                        "to exhibit",
+                        "to display",
+                        "to wield (metaphorically)",
+                        "to flourish",
+                        "to prosper",
+                        "to thrive"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "振り子",
+                    "reading": "フリコ",
+                    "meanings": [
+                        "pendulum"
+                    ]
+                },
+                {
+                    "kanji": "振興",
+                    "reading": "シンコウ",
+                    "meanings": [
+                        "promotion",
+                        "encouragement"
+                    ]
+                },
+                {
+                    "kanji": "奪三振",
+                    "reading": "ダツサンシン",
+                    "meanings": [
+                        "striking a batter out"
+                    ]
+                },
+                {
+                    "kanji": "不振",
+                    "reading": "フシン",
+                    "meanings": [
+                        "dullness",
+                        "slump",
+                        "stagnation",
+                        "inactivity",
+                        "depression"
+                    ]
+                }
+            ]
+        }
+    }
+}

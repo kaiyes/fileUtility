@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"戯\"",
+        "strokes": 15,
+        "main_meanings": [
+            "frolic",
+            "play",
+            "sport"
+        ],
+        "main_readings": {
+            "kun": [
+                "たわむ.れる",
+                "ざ.れる",
+                "じゃ.れる"
+            ],
+            "on": [
+                "ギ",
+                "ゲ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1138": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1632": "A New Dictionary of Kanji Usage",
+                "246": "Classic Nelson (Andrew Nelson)",
+                "1298": "Essential Kanji (P.G. O’Neill)",
+                "1331": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2350": "Japanese Names (P.G. O’Neill)",
+                "1573": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1679": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1901": "Kanji in Context (Nishiguchi and Kono)",
+                "840": "Kodansha Compact Kanji Guide",
+                "2351": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1208": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1654": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2013": "Les Kanjis dans la tete (Yves Maniette)",
+                "11665": "Morohashi",
+                "1875": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2041": "New Nelson (John Haig)",
+                "1994": "Remembering The Kanji (James Heisig)",
+                "2149": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1766": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1259": "2001 Kanji",
+                "4n11.1": "The Kanji Dictionary",
+                "1-11-4": "SKIP code",
+                "2325.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-26": "JIS X 0208-1997 kuten code",
+                "622f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi4",
+                    "hu1"
+                ],
+                "korean": [
+                    "heui",
+                    "hwi",
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "spear,",
+            "parts": [
+                "匕",
+                "卜",
+                "厂",
+                "戈",
+                "虍"
+            ],
+            "basis": "戈",
+            "kangxi_order": null,
+            "variants": [
+                "戲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "戯れる",
+                    "reading": "たわむれる",
+                    "meanings": [
+                        "to be playful",
+                        "to gambol",
+                        "to be amused (with something)",
+                        "to play",
+                        "to sport",
+                        "to frolic",
+                        "to joke",
+                        "to flirt with",
+                        "to have elegance",
+                        "to have refinement"
+                    ]
+                },
+                {
+                    "kanji": "戯れる",
+                    "reading": "たわむれる",
+                    "meanings": [
+                        "to be playful",
+                        "to gambol",
+                        "to be amused (with something)",
+                        "to play",
+                        "to sport",
+                        "to frolic",
+                        "to joke",
+                        "to flirt with",
+                        "to have elegance",
+                        "to have refinement"
+                    ]
+                },
+                {
+                    "kanji": "戯れる",
+                    "reading": "じゃれる",
+                    "meanings": [
+                        "to play around (of a cat",
+                        "dog",
+                        "etc.)",
+                        "to frisk",
+                        "to gambol",
+                        "to frolic"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "冗談",
+                    "reading": "ジョウダン",
+                    "meanings": [
+                        "joke",
+                        "jest",
+                        "funny story"
+                    ]
+                },
+                {
+                    "kanji": "戯曲",
+                    "reading": "ギキョク",
+                    "meanings": [
+                        "drama",
+                        "play",
+                        "Chinese opera"
+                    ]
+                },
+                {
+                    "kanji": "遊戯",
+                    "reading": "ユウギ",
+                    "meanings": [
+                        "play",
+                        "playing",
+                        "game",
+                        "play and dance (at a kindergarten or elementary school)"
+                    ]
+                },
+                {
+                    "kanji": "性戯",
+                    "reading": "セイギ",
+                    "meanings": [
+                        "sex act",
+                        "sexual play"
+                    ]
+                },
+                {
+                    "kanji": "冗談",
+                    "reading": "ジョウダン",
+                    "meanings": [
+                        "joke",
+                        "jest",
+                        "funny story"
+                    ]
+                },
+                {
+                    "kanji": "戯作",
+                    "reading": "ゲサク",
+                    "meanings": [
+                        "cheap literature",
+                        "writing for amusement",
+                        "light literature popular in the late Edo period"
+                    ]
+                }
+            ]
+        }
+    }
+}

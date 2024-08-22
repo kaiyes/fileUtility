@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鬼\"",
+        "strokes": 10,
+        "main_meanings": [
+            "ghost",
+            "devil"
+        ],
+        "main_readings": {
+            "kun": [
+                "おに",
+                "おに-"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1128": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1207": "A New Dictionary of Kanji Usage",
+                "5276": "Classic Nelson (Andrew Nelson)",
+                "1226": "Essential Kanji (P.G. O’Neill)",
+                "1916": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1527": "Japanese Names (P.G. O’Neill)",
+                "1523": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1624": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1752": "Kanji in Context (Nishiguchi and Kono)",
+                "1926": "Kodansha Compact Kanji Guide",
+                "3291": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1702": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2313": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2038": "Les Kanjis dans la tete (Yves Maniette)",
+                "45758": "Morohashi",
+                "2657": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6833": "New Nelson (John Haig)",
+                "2019": "Remembering The Kanji (James Heisig)",
+                "2175": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1405": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "857": "2001 Kanji",
+                "5f5.6": "The Kanji Dictionary",
+                "2-6-4": "SKIP code",
+                "2621.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-20": "JIS X 0208-1997 kuten code",
+                "9b3c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gui3"
+                ],
+                "korean": [
+                    "gwi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ghost,",
+            "parts": [
+                "儿",
+                "匕",
+                "厶",
+                "田",
+                "鬼"
+            ],
+            "basis": "鬼",
+            "kangxi_order": 194,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鬼",
+                    "reading": "おに",
+                    "meanings": [
+                        "ogre",
+                        "demon",
+                        "oni",
+                        "spirit of a deceased person",
+                        "ogre-like person (i.e. fierce",
+                        "relentless",
+                        "merciless",
+                        "etc.)",
+                        "it (in a game of tag",
+                        "hide-and-seek",
+                        "etc.)",
+                        "Chinese \"ghost\" constellation (one of the 28 mansions)",
+                        "very",
+                        "extremely",
+                        "super-"
+                    ]
+                },
+                {
+                    "kanji": "鬼神",
+                    "reading": "きしん",
+                    "meanings": [
+                        "fierce god"
+                    ]
+                },
+                {
+                    "kanji": "青鬼",
+                    "reading": "あおおに",
+                    "meanings": [
+                        "(horned) blue demon",
+                        "blue ogre"
+                    ]
+                },
+                {
+                    "kanji": "赤鬼",
+                    "reading": "あかおに",
+                    "meanings": [
+                        "red-horned demon",
+                        "red ogre"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鬼",
+                    "reading": "オニ",
+                    "meanings": [
+                        "ogre",
+                        "demon",
+                        "oni",
+                        "spirit of a deceased person",
+                        "ogre-like person (i.e. fierce",
+                        "relentless",
+                        "merciless",
+                        "etc.)",
+                        "it (in a game of tag",
+                        "hide-and-seek",
+                        "etc.)",
+                        "Chinese \"ghost\" constellation (one of the 28 mansions)",
+                        "very",
+                        "extremely",
+                        "super-"
+                    ]
+                },
+                {
+                    "kanji": "鬼神",
+                    "reading": "キシン",
+                    "meanings": [
+                        "fierce god"
+                    ]
+                },
+                {
+                    "kanji": "債鬼",
+                    "reading": "サイキ",
+                    "meanings": [
+                        "cruel creditor",
+                        "bill collector"
+                    ]
+                },
+                {
+                    "kanji": "豪鬼",
+                    "reading": "ゴウキ",
+                    "meanings": [
+                        "Akuma (Street Fighter)"
+                    ]
+                }
+            ]
+        }
+    }
+}

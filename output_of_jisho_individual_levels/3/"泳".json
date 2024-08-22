@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"泳\"",
+        "strokes": 8,
+        "main_meanings": [
+            "swim"
+        ],
+        "main_readings": {
+            "kun": [
+                "およ.ぐ"
+            ],
+            "on": [
+                "エイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "352": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "252": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "232": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1198": "A New Dictionary of Kanji Usage",
+                "2520": "Classic Nelson (Andrew Nelson)",
+                "562": "Essential Kanji (P.G. O’Neill)",
+                "680": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1208": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1271": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "193": "Kanji in Context (Nishiguchi and Kono)",
+                "1168": "Kodansha Compact Kanji Guide",
+                "385": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "242": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "289": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "138": "Les Kanjis dans la tete (Yves Maniette)",
+                "17328": "Morohashi",
+                "327": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3090": "New Nelson (John Haig)",
+                "136": "Remembering The Kanji (James Heisig)",
+                "144": "Remembering The Kanji, 6th edition (James Heisig)",
+                "293": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "342": "2001 Kanji",
+                "3a5.14": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "3313.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-43": "JIS X 0208-1997 kuten code",
+                "6cf3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yong3"
+                ],
+                "korean": [
+                    "yeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "汁",
+                "水"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "泳ぐ",
+                    "reading": "およぐ",
+                    "meanings": [
+                        "to swim",
+                        "to struggle through (a crowd)",
+                        "to make one's way through the world",
+                        "to get along (in life)",
+                        "to totter",
+                        "to lose one's balance"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "泳者",
+                    "reading": "エイシャ",
+                    "meanings": [
+                        "a swimmer"
+                    ]
+                },
+                {
+                    "kanji": "泳動",
+                    "reading": "エイドウ",
+                    "meanings": [
+                        "migration",
+                        "movement",
+                        "phoresis"
+                    ]
+                },
+                {
+                    "kanji": "遠泳",
+                    "reading": "エンエイ",
+                    "meanings": [
+                        "long-distance swimming"
+                    ]
+                },
+                {
+                    "kanji": "着衣泳",
+                    "reading": "チャクイエイ",
+                    "meanings": [
+                        "swimming fully-clothed"
+                    ]
+                }
+            ]
+        }
+    }
+}

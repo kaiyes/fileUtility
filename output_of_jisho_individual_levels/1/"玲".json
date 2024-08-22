@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"玲\"",
+        "strokes": 9,
+        "main_meanings": [
+            "sound of jewels"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "レイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2928": "Classic Nelson (Andrew Nelson)",
+                "1995": "Essential Kanji (P.G. O’Neill)",
+                "835": "Japanese Names (P.G. O’Neill)",
+                "2157": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1139": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "614": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "818": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "20888": "Morohashi",
+                "910": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3626": "New Nelson (John Haig)",
+                "2568": "Remembering The Kanji (James Heisig)",
+                "2619": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4f5.7": "The Kanji Dictionary",
+                "1-4-5": "SKIP code",
+                "1813.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-72": "JIS X 0208-1997 kuten code",
+                "73b2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たま、 あきら、 あき、 りょう、 れ"
+                ],
+                "chinese": [
+                    "ling2"
+                ],
+                "korean": [
+                    "ryeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "一",
+                "个",
+                "卩",
+                "王"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "玲々",
+                    "reading": "レイレイ",
+                    "meanings": [
+                        "tinkling (jewels",
+                        "metal",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "玲瓏",
+                    "reading": "レイロウ",
+                    "meanings": [
+                        "clear",
+                        "translucent",
+                        "brilliant",
+                        "sweetly ringing (as the tinklings of jade)"
+                    ]
+                },
+                {
+                    "kanji": "玲々",
+                    "reading": "レイレイ",
+                    "meanings": [
+                        "tinkling (jewels",
+                        "metal",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "白玲",
+                    "reading": "ハクレイ",
+                    "meanings": [
+                        "Hakurei (one of the eight major professional female titles of shogi)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"兼\"",
+        "strokes": 10,
+        "main_meanings": [
+            "concurrently",
+            "and",
+            "beforehand",
+            "in advance"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.ねる",
+                "-か.ねる"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "769": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "850": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1042": "A New Dictionary of Kanji Usage",
+                "598": "Classic Nelson (Andrew Nelson)",
+                "669": "Essential Kanji (P.G. O’Neill)",
+                "1078": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1268": "Japanese Names (P.G. O’Neill)",
+                "1081": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1129": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1324": "Kanji in Context (Nishiguchi and Kono)",
+                "765": "Kodansha Compact Kanji Guide",
+                "2850": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1469": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1979": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1611": "Les Kanjis dans la tete (Yves Maniette)",
+                "1483": "Morohashi",
+                "2286": "New Japanese English Character Dictionary (Jack Halpern)",
+                "381": "New Nelson (John Haig)",
+                "1597": "Remembering The Kanji (James Heisig)",
+                "1723": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1307": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "964": "2001 Kanji",
+                "2o8.1": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "8023.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-83": "JIS X 0208-1997 kuten code",
+                "517c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かね"
+                ],
+                "chinese": [
+                    "jian1"
+                ],
+                "korean": [
+                    "gyeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eight",
+            "parts": [
+                "一",
+                "｜",
+                "ハ",
+                "并",
+                "ヨ"
+            ],
+            "basis": "八",
+            "kangxi_order": 12,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "兼ねる",
+                    "reading": "かねる",
+                    "meanings": [
+                        "to be unable to",
+                        "to find difficult (unpleasant",
+                        "awkward",
+                        "painful) to do",
+                        "to serve two or more functions or roles simultaneously",
+                        "to contain (or combine) two or more features",
+                        "to work in two or more jobs simultaneously (positions",
+                        "etc.)",
+                        "to do alongside",
+                        "to hesitate to do something (out of consideration for others)",
+                        "to think of the future (as well as the present)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "兼",
+                    "reading": "ケン",
+                    "meanings": [
+                        "cum (e.g. bedroom-cum-study)",
+                        "and (concurrently; e.g. chauffeur and secretary)",
+                        "in addition to",
+                        "at the same time"
+                    ]
+                },
+                {
+                    "kanji": "兼任",
+                    "reading": "ケンニン",
+                    "meanings": [
+                        "serving concurrently as",
+                        "holding the additional post of"
+                    ]
+                }
+            ]
+        }
+    }
+}

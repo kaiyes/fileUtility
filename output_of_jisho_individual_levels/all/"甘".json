@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"甘\"",
+        "strokes": 5,
+        "main_meanings": [
+            "sweet",
+            "coax",
+            "pamper",
+            "be content",
+            "sugary"
+        ],
+        "main_readings": {
+            "kun": [
+                "あま.い",
+                "あま.える",
+                "あま.やかす",
+                "うま.い"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1093": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1212": "A New Dictionary of Kanji Usage",
+                "2988": "Classic Nelson (Andrew Nelson)",
+                "1333": "Essential Kanji (P.G. O’Neill)",
+                "738": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "207": "Japanese Names (P.G. O’Neill)",
+                "1492": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1591": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "345": "Kanji in Context (Nishiguchi and Kono)",
+                "1325": "Kodansha Compact Kanji Guide",
+                "4306": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2176": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2930": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1773": "Les Kanjis dans la tete (Yves Maniette)",
+                "21643": "Morohashi",
+                "3494": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3710": "New Nelson (John Haig)",
+                "1757": "Remembering The Kanji (James Heisig)",
+                "1894": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1052": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1978": "2001 Kanji",
+                "0a5.32": "The Kanji Dictionary",
+                "4-5-2": "SKIP code",
+                "4-4-2": "SKIP code",
+                "4477.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-37": "JIS X 0208-1997 kuten code",
+                "7518": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かも"
+                ],
+                "chinese": [
+                    "gan1"
+                ],
+                "korean": [
+                    "gam"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sweet",
+            "parts": [
+                "甘"
+            ],
+            "basis": "甘",
+            "kangxi_order": 99,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "甘い",
+                    "reading": "あまい",
+                    "meanings": [
+                        "sweet-tasting",
+                        "sweet",
+                        "sugary",
+                        "sugared",
+                        "fragrant (smelling)",
+                        "sweet (music)",
+                        "lightly salted",
+                        "light in salt",
+                        "not spicy",
+                        "naive",
+                        "overly optimistic",
+                        "soft on",
+                        "generous",
+                        "indulgent",
+                        "easy-going",
+                        "lenient",
+                        "half-hearted",
+                        "not finished properly",
+                        "insufficient",
+                        "not satisfactory",
+                        "inadequate",
+                        "loose",
+                        "mild",
+                        "tempting",
+                        "enticing",
+                        "luring"
+                    ]
+                },
+                {
+                    "kanji": "甘い顔をする",
+                    "reading": "あまいかおをする",
+                    "meanings": [
+                        "to go easy on someone",
+                        "to be easygoing",
+                        "to be lenient"
+                    ]
+                },
+                {
+                    "kanji": "甘える",
+                    "reading": "あまえる",
+                    "meanings": [
+                        "to behave like a spoiled child",
+                        "to fawn on",
+                        "to take advantage of",
+                        "to presume upon (e.g. another's benevolence)",
+                        "to depend on"
+                    ]
+                },
+                {
+                    "kanji": "甘やかす",
+                    "reading": "あまやかす",
+                    "meanings": [
+                        "to pamper",
+                        "to spoil"
+                    ]
+                },
+                {
+                    "kanji": "上手い",
+                    "reading": "うまい",
+                    "meanings": [
+                        "skillful",
+                        "skilful",
+                        "skilled",
+                        "good",
+                        "expert",
+                        "clever (expression",
+                        "trick",
+                        "etc.)",
+                        "apt",
+                        "appropriate",
+                        "delicious",
+                        "tasty",
+                        "good",
+                        "nice",
+                        "good (deal",
+                        "idea",
+                        "etc.)",
+                        "profitable",
+                        "promising",
+                        "lucky",
+                        "fortunate",
+                        "successful",
+                        "satisfactory",
+                        "splendid"
+                    ]
+                },
+                {
+                    "kanji": "うまい話",
+                    "reading": "うまいはなし",
+                    "meanings": [
+                        "too-good-to-be-true offers (e.g. scams and frauds)",
+                        "too-good-to-be-true stories"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "さつま芋",
+                    "reading": "サツマイモ",
+                    "meanings": [
+                        "sweet potato (Ipomoea batatas)"
+                    ]
+                },
+                {
+                    "kanji": "甘言",
+                    "reading": "カンゲン",
+                    "meanings": [
+                        "sweet words",
+                        "smooth talk",
+                        "cajolery",
+                        "flattery",
+                        "sycophancy"
+                    ]
+                }
+            ]
+        }
+    }
+}

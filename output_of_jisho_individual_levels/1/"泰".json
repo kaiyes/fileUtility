@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"泰\"",
+        "strokes": 10,
+        "main_meanings": [
+            "peaceful",
+            "calm",
+            "peace",
+            "easy",
+            "Thailand",
+            "extreme",
+            "excessive",
+            "great"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1545": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1310": "A New Dictionary of Kanji Usage",
+                "2526": "Classic Nelson (Andrew Nelson)",
+                "1765": "Essential Kanji (P.G. O’Neill)",
+                "1467": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1203": "Japanese Names (P.G. O’Neill)",
+                "1647": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1680": "Kanji in Context (Nishiguchi and Kono)",
+                "1156": "Kodansha Compact Kanji Guide",
+                "3193": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1650": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2239": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1584": "Les Kanjis dans la tete (Yves Maniette)",
+                "17325": "Morohashi",
+                "2583": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3098": "New Nelson (John Haig)",
+                "1570": "Remembering The Kanji (James Heisig)",
+                "1692": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1356": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1442": "2001 Kanji",
+                "3a5.34": "The Kanji Dictionary",
+                "2-5-5": "SKIP code",
+                "4-10-4": "SKIP code",
+                "5013.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-57": "JIS X 0208-1997 kuten code",
+                "6cf0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "た、 はす、 ひろ、 や、 やす、 やすし、 ゆたか、 よし"
+                ],
+                "chinese": [
+                    "tai4"
+                ],
+                "korean": [
+                    "tae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "人",
+                "大",
+                "水"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "夳"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "泰",
+                    "reading": "タイ",
+                    "meanings": [
+                        "Thailand"
+                    ]
+                },
+                {
+                    "kanji": "大山",
+                    "reading": "タイザン",
+                    "meanings": [
+                        "great mountain",
+                        "large mountain"
+                    ]
+                },
+                {
+                    "kanji": "昌泰",
+                    "reading": "ショウタイ",
+                    "meanings": [
+                        "Shōtai era (898.4.26-901.7.15)"
+                    ]
+                },
+                {
+                    "kanji": "日タイ",
+                    "reading": "ニッタイ",
+                    "meanings": [
+                        "Japan and Thailand",
+                        "Japanese-Thai"
+                    ]
+                }
+            ]
+        }
+    }
+}

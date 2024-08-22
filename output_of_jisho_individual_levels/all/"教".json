@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"教\"",
+        "strokes": 11,
+        "main_meanings": [
+            "teach",
+            "faith",
+            "doctrine"
+        ],
+        "main_readings": {
+            "kun": [
+                "おし.える",
+                "おそ.わる"
+            ],
+            "on": [
+                "キョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "191": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "112": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "101": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "97": "A New Dictionary of Kanji Usage",
+                "2052": "Classic Nelson (Andrew Nelson)",
+                "247": "Essential Kanji (P.G. O’Neill)",
+                "179": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1408": "Japanese Names (P.G. O’Neill)",
+                "2.18": "Japanese for Busy People",
+                "245": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "214": "Kanji in Context (Nishiguchi and Kono)",
+                "940": "Kodansha Compact Kanji Guide",
+                "1887": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1002": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1356": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1262": "Les Kanjis dans la tete (Yves Maniette)",
+                "13213": "Morohashi",
+                "1493": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2345": "New Nelson (John Haig)",
+                "1254": "Remembering The Kanji (James Heisig)",
+                "1343": "Remembering The Kanji, 6th edition (James Heisig)",
+                "58": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "202": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1466": "2001 Kanji",
+                "4i6.1": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "1-6-4": "SKIP code",
+                "4844.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-21": "JIS X 0208-1997 kuten code",
+                "6559": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のり、 ひさ"
+                ],
+                "chinese": [
+                    "jiao4",
+                    "jiao1"
+                ],
+                "korean": [
+                    "gyo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "攵"
+            ],
+            "meaning": "rap",
+            "parts": [
+                "子",
+                "老",
+                "乞",
+                "攵"
+            ],
+            "basis": "攴",
+            "kangxi_order": 66,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "教える",
+                    "reading": "おしえる",
+                    "meanings": [
+                        "to teach",
+                        "to instruct",
+                        "to tell",
+                        "to inform",
+                        "to show",
+                        "to preach"
+                    ]
+                },
+                {
+                    "kanji": "教わる",
+                    "reading": "おそわる",
+                    "meanings": [
+                        "to be taught",
+                        "to learn",
+                        "to take lessons in"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "教育委員会",
+                    "reading": "キョウイクイインカイ",
+                    "meanings": [
+                        "Board of Education"
+                    ]
+                },
+                {
+                    "kanji": "教育",
+                    "reading": "キョウイク",
+                    "meanings": [
+                        "education",
+                        "schooling",
+                        "training",
+                        "instruction",
+                        "teaching",
+                        "upbringing",
+                        "culture",
+                        "cultivation",
+                        "education"
+                    ]
+                },
+                {
+                    "kanji": "政教",
+                    "reading": "セイキョウ",
+                    "meanings": [
+                        "religion and politics",
+                        "church and state"
+                    ]
+                },
+                {
+                    "kanji": "正教",
+                    "reading": "セイキョウ",
+                    "meanings": [
+                        "orthodoxy",
+                        "(Greek) orthodox church"
+                    ]
+                }
+            ]
+        }
+    }
+}

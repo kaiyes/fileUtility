@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"察\"",
+        "strokes": 14,
+        "main_meanings": [
+            "guess",
+            "presume",
+            "surmise",
+            "judge",
+            "understand"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "406": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "516": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "489": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "671": "A New Dictionary of Kanji Usage",
+                "1334": "Classic Nelson (Andrew Nelson)",
+                "511": "Essential Kanji (P.G. O’Neill)",
+                "474": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2180": "Japanese Names (P.G. O’Neill)",
+                "619": "Kanji and Kana (Spahn and Hadamitzky)",
+                "629": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "475": "Kanji in Context (Nishiguchi and Kono)",
+                "495": "Kodansha Compact Kanji Guide",
+                "2961": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1520": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2062": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1112": "Les Kanjis dans la tete (Yves Maniette)",
+                "7283": "Morohashi",
+                "2347": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1360": "New Nelson (John Haig)",
+                "1103": "Remembering The Kanji (James Heisig)",
+                "1184": "Remembering The Kanji, 6th edition (James Heisig)",
+                "492": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "617": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "741": "2001 Kanji",
+                "3m11.6": "The Kanji Dictionary",
+                "2-3-11": "SKIP code",
+                "3090.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-01": "JIS X 0208-1997 kuten code",
+                "5bdf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cha2"
+                ],
+                "korean": [
+                    "chal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "ノ",
+                "二",
+                "宀",
+                "小",
+                "癶",
+                "示"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "察",
+                    "reading": "サツ",
+                    "meanings": [
+                        "cops",
+                        "police"
+                    ]
+                },
+                {
+                    "kanji": "監察",
+                    "reading": "カンサツ",
+                    "meanings": [
+                        "inspection",
+                        "inspector"
+                    ]
+                },
+                {
+                    "kanji": "偵察",
+                    "reading": "テイサツ",
+                    "meanings": [
+                        "scouting",
+                        "reconnaissance"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,538 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"下\"",
+        "strokes": 3,
+        "main_meanings": [
+            "below",
+            "down",
+            "descend",
+            "give",
+            "low",
+            "inferior"
+        ],
+        "main_readings": {
+            "kun": [
+                "した",
+                "しも",
+                "もと",
+                "さ.げる",
+                "さ.がる",
+                "くだ.る",
+                "くだ.り",
+                "くだ.す",
+                "-くだ.す",
+                "くだ.さる",
+                "お.ろす",
+                "お.りる"
+            ],
+            "on": [
+                "カ",
+                "ゲ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "21": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "24": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "7": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "72": "A New Dictionary of Kanji Usage",
+                "9": "New Nelson (John Haig)",
+                "30": "Essential Kanji (P.G. O’Neill)",
+                "6": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "46": "Japanese Names (P.G. O’Neill)",
+                "2.1": "Japanese for Busy People",
+                "31": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "32": "Kanji in Context (Nishiguchi and Kono)",
+                "4": "Kodansha Compact Kanji Guide",
+                "4186": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2115": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2862": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "50": "Remembering The Kanji (James Heisig)",
+                "14": "Morohashi",
+                "3378": "New Japanese English Character Dictionary (Jack Halpern)",
+                "51": "Remembering The Kanji, 6th edition (James Heisig)",
+                "75": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "13": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3154": "2001 Kanji",
+                "2m1.2": "The Kanji Dictionary",
+                "4-3-1": "SKIP code",
+                "1023.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-28": "JIS X 0208-1997 kuten code",
+                "4e0b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さか、 しと"
+                ],
+                "chinese": [
+                    "xia4"
+                ],
+                "korean": [
+                    "ha"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "一",
+                "｜",
+                "卜"
+            ],
+            "basis": "一",
+            "kangxi_order": 1,
+            "variants": [
+                "丅"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "下",
+                    "reading": "した",
+                    "meanings": [
+                        "below",
+                        "down",
+                        "under",
+                        "younger (e.g. daughter)",
+                        "bottom",
+                        "beneath",
+                        "underneath",
+                        "just after",
+                        "right after",
+                        "inferiority",
+                        "one's inferior (i.e. one's junior)",
+                        "trade-in",
+                        "preliminary",
+                        "preparatory"
+                    ]
+                },
+                {
+                    "kanji": "下請け",
+                    "reading": "したうけ",
+                    "meanings": [
+                        "subcontract",
+                        "subcontractor (person or company)"
+                    ]
+                },
+                {
+                    "kanji": "幕下",
+                    "reading": "まくした",
+                    "meanings": [
+                        "third highest division",
+                        "wrestlers of the third highest division"
+                    ]
+                },
+                {
+                    "kanji": "上下",
+                    "reading": "うえした",
+                    "meanings": [
+                        "top and bottom",
+                        "up and down",
+                        "high and low",
+                        "above and below",
+                        "upper and lower ends",
+                        "upside-down"
+                    ]
+                },
+                {
+                    "kanji": "下",
+                    "reading": "しも",
+                    "meanings": [
+                        "lower reaches (of a river)",
+                        "bottom",
+                        "lower part",
+                        "lower half (of the body",
+                        "esp. the privates)",
+                        "feces (faeces)",
+                        "urine",
+                        "menses",
+                        "end",
+                        "far from the imperial palace (i.e. far from Kyoto",
+                        "esp. of western Japan)",
+                        "dirty (e.g. dirty jokes",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "下期",
+                    "reading": "しもき",
+                    "meanings": [
+                        "second half of the (fiscal) year"
+                    ]
+                },
+                {
+                    "kanji": "風下",
+                    "reading": "かざしも",
+                    "meanings": [
+                        "leeward",
+                        "lee",
+                        "downwind"
+                    ]
+                },
+                {
+                    "kanji": "裃",
+                    "reading": "かみしも",
+                    "meanings": [
+                        "samurai costume",
+                        "old ceremonial costume",
+                        "top and bottom",
+                        "up and down",
+                        "high and low",
+                        "above and below",
+                        "upper and lower ends"
+                    ]
+                },
+                {
+                    "kanji": "下",
+                    "reading": "もと",
+                    "meanings": [
+                        "under (guidance",
+                        "supervision",
+                        "rules",
+                        "the law",
+                        "etc.)",
+                        "under (a flag",
+                        "the sun",
+                        "etc.)",
+                        "beneath",
+                        "with (e.g. one blow)",
+                        "on (the promise",
+                        "condition",
+                        "assumption",
+                        "etc. that ...)",
+                        "in (e.g. the name of ...)",
+                        "(someone's) side",
+                        "(someone's) location"
+                    ]
+                },
+                {
+                    "kanji": "山元",
+                    "reading": "やまもと",
+                    "meanings": [
+                        "foot of a mountain",
+                        "base of a mountain",
+                        "mine",
+                        "colliery",
+                        "owner of a mountain",
+                        "operator of a mine"
+                    ]
+                },
+                {
+                    "kanji": "お膝元",
+                    "reading": "おひざもと",
+                    "meanings": [
+                        "beside a nobleman",
+                        "close aid (of a nobleman",
+                        "etc.)",
+                        "place where a high ranking person resides",
+                        "one's own city (of a shogun",
+                        "lord",
+                        "etc.)",
+                        "Imperial capital",
+                        "Imperial court",
+                        "(shogun's) headquarters",
+                        "place under one's direct control",
+                        "one's own turf",
+                        "one's own backyard"
+                    ]
+                },
+                {
+                    "kanji": "下げる",
+                    "reading": "さげる",
+                    "meanings": [
+                        "to hang",
+                        "to suspend",
+                        "to wear (e.g. decoration)",
+                        "to lower",
+                        "to reduce",
+                        "to bring down",
+                        "to demote",
+                        "to move back",
+                        "to pull back",
+                        "to clear (plates)",
+                        "to remove (food",
+                        "etc. from table or altar)",
+                        "to keep on playing after one has formed a scoring combination with captured cards"
+                    ]
+                },
+                {
+                    "kanji": "下がる",
+                    "reading": "さがる",
+                    "meanings": [
+                        "to come down",
+                        "to go down",
+                        "to fall",
+                        "to drop",
+                        "to sink",
+                        "to get lower",
+                        "to hang",
+                        "to dangle",
+                        "to move back",
+                        "to step back",
+                        "to withdraw",
+                        "to retire",
+                        "to deteriorate",
+                        "to fall off",
+                        "to be downgraded",
+                        "to get closer to the present day",
+                        "to go south"
+                    ]
+                },
+                {
+                    "kanji": "下る",
+                    "reading": "くだる",
+                    "meanings": [
+                        "to descend",
+                        "to go down",
+                        "to come down",
+                        "to be handed down (of an order",
+                        "judgment",
+                        "etc.)",
+                        "to pass (of time)",
+                        "to surrender",
+                        "to capitulate",
+                        "to be less than",
+                        "to be inferior to",
+                        "to have the runs",
+                        "to have diarrhea",
+                        "to pass (in stool)",
+                        "to be discharged from the body",
+                        "to depreciate oneself",
+                        "to be humble"
+                    ]
+                },
+                {
+                    "kanji": "下り",
+                    "reading": "くだり",
+                    "meanings": [
+                        "down-train",
+                        "train heading toward the ending point of its route",
+                        "down-slope",
+                        "downward going",
+                        "downbound (esp. away from Tokyo)",
+                        "downstream",
+                        "downhill"
+                    ]
+                },
+                {
+                    "kanji": "下り坂",
+                    "reading": "くだりざか",
+                    "meanings": [
+                        "downhill",
+                        "downward slope",
+                        "descent",
+                        "decline",
+                        "waning",
+                        "ebb",
+                        "(going) downhill"
+                    ]
+                },
+                {
+                    "kanji": "下す",
+                    "reading": "くだす",
+                    "meanings": [
+                        "to make a decision",
+                        "to draw a conclusion",
+                        "to give a judgement",
+                        "to hand down a verdict",
+                        "to pass a sentence",
+                        "to give an order",
+                        "to let go down",
+                        "to lower",
+                        "to do oneself",
+                        "to do by oneself",
+                        "to beat",
+                        "to defeat",
+                        "to have loose bowels",
+                        "to have diarrhea",
+                        "to pass (in stool)",
+                        "to discharge from the body",
+                        "to do in one go",
+                        "to do to the end without stopping"
+                    ]
+                },
+                {
+                    "kanji": "下さる",
+                    "reading": "くださる",
+                    "meanings": [
+                        "to give",
+                        "to confer",
+                        "to bestow",
+                        "to kindly do for one",
+                        "to oblige",
+                        "to favour",
+                        "to favor"
+                    ]
+                },
+                {
+                    "kanji": "下ろす",
+                    "reading": "おろす",
+                    "meanings": [
+                        "to take down",
+                        "to bring down",
+                        "to lower (a hand",
+                        "flag",
+                        "shutter",
+                        "etc.)",
+                        "to drop (an anchor",
+                        "curtain",
+                        "etc.)",
+                        "to let down (hair)",
+                        "to launch (a boat)",
+                        "to drop off (a passenger)",
+                        "to let off",
+                        "to unload (goods",
+                        "a truck",
+                        "etc.)",
+                        "to offload",
+                        "to discharge",
+                        "to withdraw (money)",
+                        "to use for the first time",
+                        "to wear for the first time",
+                        "to cut off",
+                        "to fillet (fish)",
+                        "to grate (e.g. radish)",
+                        "to prune (branches)",
+                        "to remove (someone from a position)",
+                        "to oust",
+                        "to drop",
+                        "to clear (the table)",
+                        "to remove (offerings from an altar)",
+                        "to pass down (e.g. old clothes)",
+                        "to hand down",
+                        "to expel from the body (e.g. worms)",
+                        "to abort (a fetus)",
+                        "to invoke (a spirit)",
+                        "to call down"
+                    ]
+                },
+                {
+                    "kanji": "降りる",
+                    "reading": "おりる",
+                    "meanings": [
+                        "to descend (e.g. a mountain)",
+                        "to go down",
+                        "to come down",
+                        "to alight (e.g. from bus)",
+                        "to get off",
+                        "to disembark",
+                        "to dismount",
+                        "to step down",
+                        "to retire",
+                        "to give up",
+                        "to quit",
+                        "to fold",
+                        "to be granted",
+                        "to be issued",
+                        "to be given",
+                        "to form (of frost",
+                        "dew",
+                        "mist",
+                        "etc.)",
+                        "to be passed (from the body; e.g. of a roundworm)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "下",
+                    "reading": "カ",
+                    "meanings": [
+                        "under (influence",
+                        "control",
+                        "conditions",
+                        "etc. of)",
+                        "during (war",
+                        "occupation",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "下位",
+                    "reading": "カイ",
+                    "meanings": [
+                        "low rank",
+                        "lower position",
+                        "subordinate position",
+                        "lower order (e.g. byte)"
+                    ]
+                },
+                {
+                    "kanji": "陛下",
+                    "reading": "ヘイカ",
+                    "meanings": [
+                        "Your Majesty",
+                        "His Majesty",
+                        "Her Majesty"
+                    ]
+                },
+                {
+                    "kanji": "最下",
+                    "reading": "サイカ",
+                    "meanings": [
+                        "the lowest",
+                        "the worst"
+                    ]
+                },
+                {
+                    "kanji": "下",
+                    "reading": "ゲ",
+                    "meanings": [
+                        "lowness (of degree",
+                        "value",
+                        "etc.)",
+                        "inferiority",
+                        "second volume (of two)",
+                        "third volume (of three)"
+                    ]
+                },
+                {
+                    "kanji": "下山",
+                    "reading": "ゲザン",
+                    "meanings": [
+                        "descending a mountain",
+                        "descent"
+                    ]
+                },
+                {
+                    "kanji": "高下",
+                    "reading": "コウゲ",
+                    "meanings": [
+                        "rise and fall (e.g. prices)",
+                        "fluctuation",
+                        "difference (rank",
+                        "grade",
+                        "quality",
+                        "etc.)",
+                        "variation"
+                    ]
+                },
+                {
+                    "kanji": "帯下",
+                    "reading": "タイゲ",
+                    "meanings": [
+                        "leukorrhoea",
+                        "leucorrhoea",
+                        "leukorrhea",
+                        "leucorrhea",
+                        "mucous discharge from female genitals"
+                    ]
+                }
+            ]
+        }
+    }
+}

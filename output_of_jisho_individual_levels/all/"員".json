@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"員\"",
+        "strokes": 10,
+        "main_meanings": [
+            "employee",
+            "member",
+            "number",
+            "the one in charge"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "イン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "349": "Tuttle Kanji Cards (Alexander Kask)",
+                "248": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "228": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "47": "A New Dictionary of Kanji Usage",
+                "928": "Classic Nelson (Andrew Nelson)",
+                "374": "Essential Kanji (P.G. O’Neill)",
+                "139": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1167": "Japanese Names (P.G. O’Neill)",
+                "2.15": "Japanese for Busy People",
+                "163": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "395": "Kanji in Context (Nishiguchi and Kono)",
+                "329": "Kodansha Compact Kanji Guide",
+                "2822": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1454": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1958": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "56": "Remembering The Kanji (James Heisig)",
+                "3633": "Morohashi",
+                "2269": "New Japanese English Character Dictionary (Jack Halpern)",
+                "808": "New Nelson (John Haig)",
+                "59": "Remembering The Kanji, 6th edition (James Heisig)",
+                "127": "The Kanji Way to Japanese Language Power (Dale Crowley)"
+            },
+            "classifications": {
+                "3761": "2001 Kanji",
+                "3d7.10": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "6080.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-87": "JIS X 0208-1997 kuten code",
+                "54e1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いな、 かず"
+                ],
+                "chinese": [
+                    "yuan2",
+                    "yun2",
+                    "yun4"
+                ],
+                "korean": [
+                    "weon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "ハ",
+                "口",
+                "目",
+                "貝"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "員",
+                    "reading": "イン",
+                    "meanings": [
+                        "member"
+                    ]
+                },
+                {
+                    "kanji": "員数",
+                    "reading": "インズウ",
+                    "meanings": [
+                        "(total) number (of people or things)",
+                        "count",
+                        "quota"
+                    ]
+                },
+                {
+                    "kanji": "随員",
+                    "reading": "ズイイン",
+                    "meanings": [
+                        "member of an entourage or retinue or party",
+                        "attendant"
+                    ]
+                },
+                {
+                    "kanji": "執行委員",
+                    "reading": "シッコウイイン",
+                    "meanings": [
+                        "executive committee"
+                    ]
+                }
+            ]
+        }
+    }
+}

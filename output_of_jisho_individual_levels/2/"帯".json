@@ -1,0 +1,204 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"帯\"",
+        "strokes": 10,
+        "main_meanings": [
+            "sash",
+            "belt",
+            "obi",
+            "zone",
+            "region"
+        ],
+        "main_readings": {
+            "kun": [
+                "お.びる",
+                "おび"
+            ],
+            "on": [
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "669": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "566": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "539": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "718": "A New Dictionary of Kanji Usage",
+                "1474": "Classic Nelson (Andrew Nelson)",
+                "614": "Essential Kanji (P.G. O’Neill)",
+                "498": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1192": "Japanese Names (P.G. O’Neill)",
+                "963": "Kanji and Kana (Spahn and Hadamitzky)",
+                "994": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1065": "Kanji in Context (Nishiguchi and Kono)",
+                "565": "Kodansha Compact Kanji Guide",
+                "3191": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1648": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2237": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "422": "Les Kanjis dans la tete (Yves Maniette)",
+                "8929": "Morohashi",
+                "2582": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1563": "New Nelson (John Haig)",
+                "415": "Remembering The Kanji (James Heisig)",
+                "444": "Remembering The Kanji, 6th edition (James Heisig)",
+                "552": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1944": "2001 Kanji",
+                "3f7.1": "The Kanji Dictionary",
+                "2-5-5": "SKIP code",
+                "2-4-5": "SKIP code",
+                "4422.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-51": "JIS X 0208-1997 kuten code",
+                "5e2f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たて"
+                ],
+                "chinese": [
+                    "dai4"
+                ],
+                "korean": [
+                    "dae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "turban,",
+            "parts": [
+                "一",
+                "｜",
+                "冖",
+                "巾"
+            ],
+            "basis": "巾",
+            "kangxi_order": 50,
+            "variants": [
+                "帶"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "帯びる",
+                    "reading": "おびる",
+                    "meanings": [
+                        "to wear (a sword",
+                        "decoration",
+                        "etc.)",
+                        "to carry",
+                        "to bear",
+                        "to be entrusted with (a mission)",
+                        "to be charged with",
+                        "to take on",
+                        "to have (a quality",
+                        "property",
+                        "etc.)",
+                        "to have a trace of",
+                        "to be tinged with"
+                    ]
+                },
+                {
+                    "kanji": "帯",
+                    "reading": "おび",
+                    "meanings": [
+                        "obi (kimono sash)",
+                        "obi (strip of paper looped around a book",
+                        "CD",
+                        "etc. containing information about the product)",
+                        "band",
+                        "belt",
+                        "strip",
+                        "cingulum",
+                        "radio or television program broadcast in the same time slot on all or most days"
+                    ]
+                },
+                {
+                    "kanji": "帯びる",
+                    "reading": "おびる",
+                    "meanings": [
+                        "to wear (a sword",
+                        "decoration",
+                        "etc.)",
+                        "to carry",
+                        "to bear",
+                        "to be entrusted with (a mission)",
+                        "to be charged with",
+                        "to take on",
+                        "to have (a quality",
+                        "property",
+                        "etc.)",
+                        "to have a trace of",
+                        "to be tinged with"
+                    ]
+                },
+                {
+                    "kanji": "単帯",
+                    "reading": "ひとえおび",
+                    "meanings": [
+                        "unlined sash"
+                    ]
+                },
+                {
+                    "kanji": "赤帯",
+                    "reading": "あかおび",
+                    "meanings": [
+                        "red sash",
+                        "red belt"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "帯",
+                    "reading": "タイ",
+                    "meanings": [
+                        "band (e.g. conduction",
+                        "valence)",
+                        "belt (e.g. Van-Allen",
+                        "asteroid",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "帯状疱疹",
+                    "reading": "タイジョウホウシン",
+                    "meanings": [
+                        "shingles",
+                        "herpes zoster"
+                    ]
+                },
+                {
+                    "kanji": "付帯",
+                    "reading": "フタイ",
+                    "meanings": [
+                        "incidental",
+                        "ancillary",
+                        "accessory",
+                        "secondary",
+                        "collateral"
+                    ]
+                },
+                {
+                    "kanji": "亜熱帯",
+                    "reading": "アネッタイ",
+                    "meanings": [
+                        "subtropics"
+                    ]
+                }
+            ]
+        }
+    }
+}

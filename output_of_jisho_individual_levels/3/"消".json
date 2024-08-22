@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"消\"",
+        "strokes": 10,
+        "main_meanings": [
+            "extinguish",
+            "blow out",
+            "turn off",
+            "neutralize",
+            "cancel"
+        ],
+        "main_readings": {
+            "kun": [
+                "き.える",
+                "け.す"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "429": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "332": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "316": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "336": "A New Dictionary of Kanji Usage",
+                "2574": "Classic Nelson (Andrew Nelson)",
+                "612": "Essential Kanji (P.G. O’Neill)",
+                "686": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "845": "Kanji and Kana (Spahn and Hadamitzky)",
+                "864": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "219": "Kanji in Context (Nishiguchi and Kono)",
+                "1194": "Kodansha Compact Kanji Guide",
+                "531": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "327": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "402": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "146": "Les Kanjis dans la tete (Yves Maniette)",
+                "17529P": "Morohashi",
+                "443": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3158": "New Nelson (John Haig)",
+                "144": "Remembering The Kanji (James Heisig)",
+                "155": "Remembering The Kanji, 6th edition (James Heisig)",
+                "458": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "357": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "346": "2001 Kanji",
+                "3a7.16": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "3912.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-35": "JIS X 0208-1997 kuten code",
+                "6d88": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xiao1"
+                ],
+                "korean": [
+                    "so"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "尚",
+                "汁",
+                "月"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "消える",
+                    "reading": "きえる",
+                    "meanings": [
+                        "to disappear",
+                        "to vanish",
+                        "to go out of sight",
+                        "to go away",
+                        "to become lost",
+                        "to go out (of a fire",
+                        "light",
+                        "etc.)",
+                        "to die",
+                        "to turn off (e.g. of a TV screen)",
+                        "to fade (of a feeling",
+                        "impression",
+                        "etc.)",
+                        "to vanish (e.g. of hope)",
+                        "to go away (e.g. of a smell",
+                        "itchiness",
+                        "sleepiness)",
+                        "to disappear",
+                        "to fade away (e.g. of footsteps)",
+                        "to wear away (e.g. of an inscription)",
+                        "to rub out (of writing)",
+                        "to fade (e.g. of ink)",
+                        "to be lost (e.g. of a tradition)",
+                        "to die out",
+                        "to disappear"
+                    ]
+                },
+                {
+                    "kanji": "消す",
+                    "reading": "けす",
+                    "meanings": [
+                        "to erase",
+                        "to rub out",
+                        "to rub off",
+                        "to cross out",
+                        "to delete",
+                        "to turn off (a light",
+                        "TV",
+                        "heater",
+                        "etc.)",
+                        "to switch off",
+                        "to extinguish (a fire",
+                        "candle",
+                        "etc.)",
+                        "to put out",
+                        "to remove (a smell",
+                        "pain",
+                        "etc.)",
+                        "to eliminate",
+                        "to get rid of",
+                        "to relieve (pain",
+                        "anxiety",
+                        "etc.)",
+                        "to neutralize (poison)",
+                        "to drown out (a sound)",
+                        "to deaden",
+                        "to absorb",
+                        "to muffle",
+                        "to kill",
+                        "to murder",
+                        "to bump off",
+                        "to rub out"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "消化",
+                    "reading": "ショウカ",
+                    "meanings": [
+                        "digestion (of food)",
+                        "digestion (of information)",
+                        "assimilation",
+                        "thorough understanding",
+                        "consumption",
+                        "absorption",
+                        "using up",
+                        "meeting (e.g. a quota)",
+                        "completion",
+                        "losing one's form and turning into something else"
+                    ]
+                },
+                {
+                    "kanji": "消火",
+                    "reading": "ショウカ",
+                    "meanings": [
+                        "fire fighting",
+                        "extinguishing a fire"
+                    ]
+                },
+                {
+                    "kanji": "費消",
+                    "reading": "ヒショウ",
+                    "meanings": [
+                        "spending",
+                        "consumption",
+                        "misappropriation",
+                        "embezzlement"
+                    ]
+                },
+                {
+                    "kanji": "曖昧性解消",
+                    "reading": "アイマイセイカイショウ",
+                    "meanings": [
+                        "disambiguation"
+                    ]
+                }
+            ]
+        }
+    }
+}

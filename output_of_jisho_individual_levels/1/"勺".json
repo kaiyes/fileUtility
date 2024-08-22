@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"勺\"",
+        "strokes": 3,
+        "main_meanings": [
+            "ladle",
+            "one tenth of a go",
+            "dip"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1342": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2020": "A New Dictionary of Kanji Usage",
+                "740": "Classic Nelson (Andrew Nelson)",
+                "1817": "Essential Kanji (P.G. O’Neill)",
+                "1903": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2138": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1917": "Kanji in Context (Nishiguchi and Kono)",
+                "228": "Kodansha Compact Kanji Guide",
+                "3650": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1863": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2540": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "68": "Remembering The Kanji (James Heisig)",
+                "2495": "Morohashi",
+                "2933": "New Japanese English Character Dictionary (Jack Halpern)",
+                "565": "New Nelson (John Haig)",
+                "72": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1015": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2552": "2001 Kanji",
+                "0a3.5": "The Kanji Dictionary",
+                "3-2-1": "SKIP code",
+                "2732.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-59": "JIS X 0208-1997 kuten code",
+                "52fa": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shao2",
+                    "shuo4"
+                ],
+                "korean": [
+                    "jag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wrap,",
+            "parts": [
+                "丶",
+                "勹"
+            ],
+            "basis": "勹",
+            "kangxi_order": 20,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "勺",
+                    "reading": "シャク",
+                    "meanings": [
+                        "shaku",
+                        "traditional unit of volume",
+                        "approx. 18 ml",
+                        "shaku",
+                        "traditional unit of area",
+                        "approx. 0.033 meters square"
+                    ]
+                },
+                {
+                    "kanji": "勺水",
+                    "reading": "シャクスイ",
+                    "meanings": [
+                        "shaku of water",
+                        "18 ml of water",
+                        "droplet of water",
+                        "very small amount of water"
+                    ]
+                },
+                {
+                    "kanji": "一勺",
+                    "reading": "イッシャク",
+                    "meanings": [
+                        "one shaku"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"茎\"",
+        "strokes": 8,
+        "main_meanings": [
+            "stalk",
+            "stem"
+        ],
+        "main_readings": {
+            "kun": [
+                "くき"
+            ],
+            "on": [
+                "ケイ",
+                "キョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1194": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1995": "A New Dictionary of Kanji Usage",
+                "3912": "Classic Nelson (Andrew Nelson)",
+                "1291": "Essential Kanji (P.G. O’Neill)",
+                "1700": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "684": "Japanese Names (P.G. O’Neill)",
+                "1474": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1571": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1836": "Kanji in Context (Nishiguchi and Kono)",
+                "647": "Kodansha Compact Kanji Guide",
+                "2788": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1432": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1931": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "722": "Les Kanjis dans la tete (Yves Maniette)",
+                "30861PX": "Morohashi",
+                "2242": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4991": "New Nelson (John Haig)",
+                "715": "Remembering The Kanji (James Heisig)",
+                "772": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1214": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1972": "2001 Kanji",
+                "3k5.23": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4410.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-52": "JIS X 0208-1997 kuten code",
+                "830e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jing1"
+                ],
+                "korean": [
+                    "gyeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "又",
+                "土",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": [
+                "莖"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "茎",
+                    "reading": "くき",
+                    "meanings": [
+                        "stalk",
+                        "stem"
+                    ]
+                },
+                {
+                    "kanji": "茎茶",
+                    "reading": "くきちゃ",
+                    "meanings": [
+                        "twig tea",
+                        "stem tea",
+                        "kukicha",
+                        "tea made from twigs pruned from the tea plant during its dormant season"
+                    ]
+                },
+                {
+                    "kanji": "水茎",
+                    "reading": "みずぐき",
+                    "meanings": [
+                        "writing brush",
+                        "writing",
+                        "handwriting"
+                    ]
+                },
+                {
+                    "kanji": "一茎",
+                    "reading": "ひとくき",
+                    "meanings": [
+                        "one stem"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "茎頂",
+                    "reading": "ケイチョウ",
+                    "meanings": [
+                        "tip of a stem (of a plant)"
+                    ]
+                },
+                {
+                    "kanji": "茎葉",
+                    "reading": "ケイヨウ",
+                    "meanings": [
+                        "stems and leaves"
+                    ]
+                },
+                {
+                    "kanji": "塊茎",
+                    "reading": "カイケイ",
+                    "meanings": [
+                        "tuber"
+                    ]
+                },
+                {
+                    "kanji": "包茎",
+                    "reading": "ホウケイ",
+                    "meanings": [
+                        "phimosis"
+                    ]
+                },
+                {
+                    "kanji": "包茎",
+                    "reading": "ホウケイ",
+                    "meanings": [
+                        "phimosis"
+                    ]
+                },
+                {
+                    "kanji": "陰茎",
+                    "reading": "インケイ",
+                    "meanings": [
+                        "penis"
+                    ]
+                }
+            ]
+        }
+    }
+}

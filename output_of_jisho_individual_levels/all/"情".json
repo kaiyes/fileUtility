@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"情\"",
+        "strokes": 11,
+        "main_meanings": [
+            "feelings",
+            "emotion",
+            "passion",
+            "sympathy",
+            "circumstances",
+            "facts"
+        ],
+        "main_readings": {
+            "kun": [
+                "なさ.け"
+            ],
+            "on": [
+                "ジョウ",
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "643": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "741": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "719": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "286": "A New Dictionary of Kanji Usage",
+                "1714": "Classic Nelson (Andrew Nelson)",
+                "334": "Essential Kanji (P.G. O’Neill)",
+                "543": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "209": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "654": "Kanji in Context (Nishiguchi and Kono)",
+                "819": "Kodansha Compact Kanji Guide",
+                "583": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "353": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "439": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1551": "Les Kanjis dans la tete (Yves Maniette)",
+                "10756P": "Morohashi",
+                "482": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1898": "New Nelson (John Haig)",
+                "1537": "Remembering The Kanji (James Heisig)",
+                "1657": "Remembering The Kanji, 6th edition (James Heisig)",
+                "183": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "738": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1146": "2001 Kanji",
+                "4k8.9": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "1-1-10": "SKIP code",
+                "9502.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-80": "JIS X 0208-1997 kuten code",
+                "60c5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qing2"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "忙",
+                "月",
+                "青"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "情け",
+                    "reading": "なさけ",
+                    "meanings": [
+                        "pity",
+                        "sympathy",
+                        "compassion",
+                        "mercy",
+                        "affection",
+                        "love"
+                    ]
+                },
+                {
+                    "kanji": "情けない",
+                    "reading": "なさけない",
+                    "meanings": [
+                        "miserable",
+                        "pitiable",
+                        "shameful",
+                        "deplorable",
+                        "pathetic"
+                    ]
+                },
+                {
+                    "kanji": "恋情",
+                    "reading": "れんじょう",
+                    "meanings": [
+                        "love",
+                        "attachment",
+                        "lovesickness"
+                    ]
+                },
+                {
+                    "kanji": "裏情",
+                    "reading": "うらなさけ",
+                    "meanings": [
+                        "inner affection"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "情",
+                    "reading": "ジョウ",
+                    "meanings": [
+                        "feelings",
+                        "emotion",
+                        "sentiment",
+                        "compassion",
+                        "sympathy",
+                        "passion",
+                        "affection",
+                        "love",
+                        "the way things really are",
+                        "the actual situation"
+                    ]
+                },
+                {
+                    "kanji": "情感",
+                    "reading": "ジョウカン",
+                    "meanings": [
+                        "feeling",
+                        "sensitivity",
+                        "emotion"
+                    ]
+                },
+                {
+                    "kanji": "風情",
+                    "reading": "フゼイ",
+                    "meanings": [
+                        "taste",
+                        "elegance",
+                        "charm",
+                        "appearance",
+                        "air",
+                        "the likes of ...",
+                        "lowly people such as ..."
+                    ]
+                },
+                {
+                    "kanji": "内情",
+                    "reading": "ナイジョウ",
+                    "meanings": [
+                        "internal conditions",
+                        "true state of affairs"
+                    ]
+                },
+                {
+                    "kanji": "傾城",
+                    "reading": "ケイセイ",
+                    "meanings": [
+                        "beauty",
+                        "siren",
+                        "courtesan",
+                        "prostitute"
+                    ]
+                }
+            ]
+        }
+    }
+}

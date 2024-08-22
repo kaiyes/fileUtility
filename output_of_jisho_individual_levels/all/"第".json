@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"第\"",
+        "strokes": 11,
+        "main_meanings": [
+            "No.",
+            "residence"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ダイ",
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "273": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "359": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "339": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "76": "A New Dictionary of Kanji Usage",
+                "3385": "Classic Nelson (Andrew Nelson)",
+                "360": "Essential Kanji (P.G. O’Neill)",
+                "793": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1768": "Japanese Names (P.G. O’Neill)",
+                "404": "Kanji and Kana (Spahn and Hadamitzky)",
+                "408": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "354": "Kanji in Context (Nishiguchi and Kono)",
+                "1473": "Kodansha Compact Kanji Guide",
+                "3298": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1706": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2318": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1247": "Les Kanjis dans la tete (Yves Maniette)",
+                "25943": "Morohashi",
+                "2660": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4272": "New Nelson (John Haig)",
+                "1239": "Remembering The Kanji (James Heisig)",
+                "1327": "Remembering The Kanji, 6th edition (James Heisig)",
+                "83": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "380": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2344": "2001 Kanji",
+                "6f5.5": "The Kanji Dictionary",
+                "2-6-5": "SKIP code",
+                "8822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-72": "JIS X 0208-1997 kuten code",
+                "7b2c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "di4"
+                ],
+                "korean": [
+                    "je"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "弓",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "第",
+                    "reading": "ダイ",
+                    "meanings": [
+                        "prefix for forming ordinal numbers"
+                    ]
+                },
+                {
+                    "kanji": "第一義",
+                    "reading": "ダイイチギ",
+                    "meanings": [
+                        "primary significance",
+                        "primary importance",
+                        "first principle",
+                        "absolute truth",
+                        "ultimate truth"
+                    ]
+                },
+                {
+                    "kanji": "式次第",
+                    "reading": "シキシダイ",
+                    "meanings": [
+                        "program of a ceremony (programme)"
+                    ]
+                },
+                {
+                    "kanji": "登第",
+                    "reading": "トウダイ",
+                    "meanings": [
+                        "passing the examination"
+                    ]
+                },
+                {
+                    "kanji": "邸宅",
+                    "reading": "テイタク",
+                    "meanings": [
+                        "(large) house",
+                        "residence",
+                        "mansion"
+                    ]
+                }
+            ]
+        }
+    }
+}

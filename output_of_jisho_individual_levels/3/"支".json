@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"支\"",
+        "strokes": 4,
+        "main_meanings": [
+            "branch",
+            "support",
+            "sustain",
+            "branch radical (no. 65)"
+        ],
+        "main_readings": {
+            "kun": [
+                "ささ.える",
+                "つか.える",
+                "か.う"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "621": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "717": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "691": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "302": "A New Dictionary of Kanji Usage",
+                "2039": "Classic Nelson (Andrew Nelson)",
+                "115": "Essential Kanji (P.G. O’Neill)",
+                "583": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "63": "Japanese Names (P.G. O’Neill)",
+                "2.4": "Japanese for Busy People",
+                "318": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "368": "Kanji in Context (Nishiguchi and Kono)",
+                "932": "Kodansha Compact Kanji Guide",
+                "2473": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1251": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1717": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "718": "Les Kanjis dans la tete (Yves Maniette)",
+                "13061": "Morohashi",
+                "1979": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2324": "New Nelson (John Haig)",
+                "711": "Remembering The Kanji (James Heisig)",
+                "768": "Remembering The Kanji, 6th edition (James Heisig)",
+                "185": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "642": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1467": "2001 Kanji",
+                "2k2.1": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "4040.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-57": "JIS X 0208-1997 kuten code",
+                "652f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi1"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "branch",
+            "parts": [
+                "十",
+                "又",
+                "支"
+            ],
+            "basis": "支",
+            "kangxi_order": 65,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "支える",
+                    "reading": "ささえる",
+                    "meanings": [
+                        "to support",
+                        "to prop",
+                        "to sustain",
+                        "to underlay",
+                        "to hold up",
+                        "to defend",
+                        "to hold at bay",
+                        "to stem",
+                        "to check"
+                    ]
+                },
+                {
+                    "kanji": "閊える",
+                    "reading": "つかえる",
+                    "meanings": [
+                        "to stick",
+                        "to get stuck",
+                        "to get caught",
+                        "to get jammed",
+                        "to clog",
+                        "to be unavailable",
+                        "to be busy",
+                        "to be occupied",
+                        "to be full",
+                        "to be piled up (e.g. of work)",
+                        "to halt (in one's speech)",
+                        "to stumble (over one's words)",
+                        "to stutter",
+                        "to stammer",
+                        "to feel blocked (of one's chest or throat",
+                        "due to grief",
+                        "anxiety",
+                        "illness",
+                        "etc.)",
+                        "to feel pressure",
+                        "to feel pain"
+                    ]
+                },
+                {
+                    "kanji": "支う",
+                    "reading": "かう",
+                    "meanings": [
+                        "to support",
+                        "to prop up"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "支",
+                    "reading": "シ",
+                    "meanings": [
+                        "China"
+                    ]
+                },
+                {
+                    "kanji": "支援",
+                    "reading": "シエン",
+                    "meanings": [
+                        "support",
+                        "backing",
+                        "aid",
+                        "assistance"
+                    ]
+                },
+                {
+                    "kanji": "気管支",
+                    "reading": "キカンシ",
+                    "meanings": [
+                        "bronchus",
+                        "bronchial tube"
+                    ]
+                },
+                {
+                    "kanji": "干支",
+                    "reading": "エト",
+                    "meanings": [
+                        "sexagenary cycle",
+                        "60-term cycle of 12 zodiac animals combined with 5 elements in the traditional Chinese calendar; currently used in Japan for years",
+                        "historically also for days",
+                        "12-year Chinese zodiac"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"畝\"",
+        "strokes": 10,
+        "main_meanings": [
+            "furrow",
+            "thirty tsubo",
+            "ridge",
+            "rib"
+        ],
+        "main_readings": {
+            "kun": [
+                "せ",
+                "うね"
+            ],
+            "on": [
+                "ボウ",
+                "ホ",
+                "モ",
+                "ム"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1468": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2027": "A New Dictionary of Kanji Usage",
+                "311": "Classic Nelson (Andrew Nelson)",
+                "1822": "Essential Kanji (P.G. O’Neill)",
+                "1142": "Japanese Names (P.G. O’Neill)",
+                "1901": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2077": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1939": "Kanji in Context (Nishiguchi and Kono)",
+                "1338": "Kodansha Compact Kanji Guide",
+                "1857": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "983": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1332": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1026": "Les Kanjis dans la tete (Yves Maniette)",
+                "21815": "Morohashi",
+                "1465": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3748": "New Nelson (John Haig)",
+                "1017": "Remembering The Kanji (James Heisig)",
+                "1093": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1367": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "462": "2001 Kanji",
+                "5f5.5": "The Kanji Dictionary",
+                "1-7-3": "SKIP code",
+                "0768.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-06": "JIS X 0208-1997 kuten code",
+                "755d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mu3"
+                ],
+                "korean": [
+                    "mu",
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "field",
+            "parts": [
+                "亠",
+                "久",
+                "田"
+            ],
+            "basis": "田",
+            "kangxi_order": null,
+            "variants": [
+                "畆"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "畝",
+                    "reading": "せ",
+                    "meanings": [
+                        "se (Japanese unit of area equal to 30 tsubo",
+                        "approx. 99.174 m.sq.)"
+                    ]
+                },
+                {
+                    "kanji": "畝",
+                    "reading": "うね",
+                    "meanings": [
+                        "ridge (in field)",
+                        "row of raised earth when planting crops",
+                        "rib (cloth",
+                        "mountains",
+                        "sea)",
+                        "cord (e.g. corduroy)"
+                    ]
+                },
+                {
+                    "kanji": "畝り",
+                    "reading": "うねり",
+                    "meanings": [
+                        "undulation",
+                        "winding",
+                        "meandering",
+                        "swell (of waves)",
+                        "ground swell",
+                        "surge",
+                        "billow",
+                        "roller"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "畝",
+                    "reading": "ホ",
+                    "meanings": [
+                        "mu (Chinese measure of land area",
+                        "formerly approx. 600 m.sq.",
+                        "currently approx. 667 m.sq.)"
+                    ]
+                },
+                {
+                    "kanji": "壟畝",
+                    "reading": "ロウホ",
+                    "meanings": [
+                        "ridges of and paths between fields",
+                        "countryside",
+                        "civilian"
+                    ]
+                }
+            ]
+        }
+    }
+}

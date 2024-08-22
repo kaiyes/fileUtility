@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"涼\"",
+        "strokes": 11,
+        "main_meanings": [
+            "refreshing",
+            "nice and cool"
+        ],
+        "main_readings": {
+            "kun": [
+                "すず.しい",
+                "すず.む",
+                "すず.やか",
+                "うす.い",
+                "ひや.す",
+                "まことに"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1906": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1490": "A New Dictionary of Kanji Usage",
+                "2598": "Classic Nelson (Andrew Nelson)",
+                "1268": "Essential Kanji (P.G. O’Neill)",
+                "689": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1330": "Japanese Names (P.G. O’Neill)",
+                "1204": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1267": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "340": "Kanji in Context (Nishiguchi and Kono)",
+                "1216": "Kodansha Compact Kanji Guide",
+                "633": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "382": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "477": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "319": "Les Kanjis dans la tete (Yves Maniette)",
+                "17606": "Morohashi",
+                "521": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3198": "New Nelson (John Haig)",
+                "313": "Remembering The Kanji (James Heisig)",
+                "335": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1460": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "341": "2001 Kanji",
+                "3a8.31": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3019.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-35": "JIS X 0208-1997 kuten code",
+                "6dbc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "りょ"
+                ],
+                "chinese": [
+                    "liang2",
+                    "liang4"
+                ],
+                "korean": [
+                    "ryang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "亠",
+                "口",
+                "小",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "凉"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "涼しい",
+                    "reading": "すずしい",
+                    "meanings": [
+                        "cool",
+                        "refreshing",
+                        "clear (e.g. eyes)",
+                        "bright",
+                        "clear",
+                        "distinct",
+                        "composed (facial expression)",
+                        "unruffled",
+                        "unconcerned",
+                        "pure",
+                        "upright",
+                        "innocent"
+                    ]
+                },
+                {
+                    "kanji": "涼しい顔",
+                    "reading": "すずしいかお",
+                    "meanings": [
+                        "nonchalant air",
+                        "unruffled air"
+                    ]
+                },
+                {
+                    "kanji": "涼む",
+                    "reading": "すずむ",
+                    "meanings": [
+                        "to cool oneself",
+                        "to cool off",
+                        "to enjoy the cool air"
+                    ]
+                },
+                {
+                    "kanji": "涼やか",
+                    "reading": "すずやか",
+                    "meanings": [
+                        "refreshing",
+                        "clear"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "涼",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "cool breeze",
+                        "cool air",
+                        "refreshing coolness"
+                    ]
+                },
+                {
+                    "kanji": "涼風",
+                    "reading": "リョウフウ",
+                    "meanings": [
+                        "cool breeze",
+                        "refreshing breeze"
+                    ]
+                },
+                {
+                    "kanji": "清涼",
+                    "reading": "セイリョウ",
+                    "meanings": [
+                        "cool",
+                        "refreshing"
+                    ]
+                },
+                {
+                    "kanji": "納涼",
+                    "reading": "ノウリョウ",
+                    "meanings": [
+                        "escaping the heat to enjoy the cool breeze (by the river",
+                        "etc.)"
+                    ]
+                }
+            ]
+        }
+    }
+}

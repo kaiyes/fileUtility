@@ -1,0 +1,286 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"懐\"",
+        "strokes": 16,
+        "main_meanings": [
+            "feelings",
+            "heart",
+            "yearn",
+            "miss someone",
+            "become attached to",
+            "bosom",
+            "breast",
+            "pocket"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふところ",
+                "なつ.かしい",
+                "なつ.かしむ",
+                "なつ.く",
+                "なつ.ける",
+                "なず.ける",
+                "いだ.く",
+                "おも.う"
+            ],
+            "on": [
+                "カイ",
+                "エ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1067": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1736": "A New Dictionary of Kanji Usage",
+                "1782": "Classic Nelson (Andrew Nelson)",
+                "1188": "Essential Kanji (P.G. O’Neill)",
+                "1326": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2605": "Japanese Names (P.G. O’Neill)",
+                "1408": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1497": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1463": "Kanji in Context (Nishiguchi and Kono)",
+                "832": "Kodansha Compact Kanji Guide",
+                "942": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "528": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "689": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "836": "Les Kanjis dans la tete (Yves Maniette)",
+                "11351": "Morohashi",
+                "763": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2003": "New Nelson (John Haig)",
+                "828": "Remembering The Kanji (James Heisig)",
+                "891": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1831": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1165": "2001 Kanji",
+                "4k13.9": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "9403.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-91": "JIS X 0208-1997 kuten code",
+                "61d0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かね"
+                ],
+                "chinese": [
+                    "huai2"
+                ],
+                "korean": [
+                    "hoe"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "亠",
+                "十",
+                "忙",
+                "買",
+                "衣"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": [
+                "懷"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "懐",
+                    "reading": "ふところ",
+                    "meanings": [
+                        "inside the breast of one's clothing (esp. kimono)",
+                        "bosom",
+                        "(breast) pocket",
+                        "space between one's chest and outstretched arms",
+                        "(one's) reach",
+                        "heart (e.g. of a mountain)",
+                        "bosom (e.g. of nature)",
+                        "depths",
+                        "inner part",
+                        "mind",
+                        "heart",
+                        "inner thoughts",
+                        "money (one is carrying)",
+                        "purse",
+                        "pocketbook"
+                    ]
+                },
+                {
+                    "kanji": "懐刀",
+                    "reading": "ふところがたな",
+                    "meanings": [
+                        "dagger",
+                        "stiletto",
+                        "confidant",
+                        "right-hand man"
+                    ]
+                },
+                {
+                    "kanji": "苦しい懐",
+                    "reading": "くるしいふところ",
+                    "meanings": [
+                        "tight budget"
+                    ]
+                },
+                {
+                    "kanji": "谷懐",
+                    "reading": "たにぶところ",
+                    "meanings": [
+                        "valley in a deep mountain"
+                    ]
+                },
+                {
+                    "kanji": "懐かしい",
+                    "reading": "なつかしい",
+                    "meanings": [
+                        "dear (old)",
+                        "fondly-remembered",
+                        "beloved",
+                        "missed",
+                        "nostalgic"
+                    ]
+                },
+                {
+                    "kanji": "懐かしむ",
+                    "reading": "なつかしむ",
+                    "meanings": [
+                        "to yearn for (someone",
+                        "something)",
+                        "to miss"
+                    ]
+                },
+                {
+                    "kanji": "懐く",
+                    "reading": "なつく",
+                    "meanings": [
+                        "to become attached (to)",
+                        "to take (to)",
+                        "to become affectionate (with)",
+                        "to be tamed",
+                        "to get close (e.g. to someone emotionally)",
+                        "to become intimate (with)"
+                    ]
+                },
+                {
+                    "kanji": "懐ける",
+                    "reading": "なつける",
+                    "meanings": [
+                        "to win over",
+                        "to win another's heart"
+                    ]
+                },
+                {
+                    "kanji": "抱く",
+                    "reading": "いだく",
+                    "meanings": [
+                        "to hold in one's arms (e.g. a baby)",
+                        "to embrace",
+                        "to hug",
+                        "to have (a thought or feeling)",
+                        "to hold",
+                        "to harbour (suspicion",
+                        "doubt",
+                        "etc.)",
+                        "to harbor",
+                        "to bear (a grudge",
+                        "ill will",
+                        "etc.)",
+                        "to entertain (hope",
+                        "illusions",
+                        "etc.)",
+                        "to cherish (e.g. an ambition)"
+                    ]
+                },
+                {
+                    "kanji": "思う",
+                    "reading": "おもう",
+                    "meanings": [
+                        "to think",
+                        "to consider",
+                        "to believe",
+                        "to reckon",
+                        "to think (of doing)",
+                        "to plan (to do)",
+                        "to judge",
+                        "to assess",
+                        "to regard",
+                        "to imagine",
+                        "to suppose",
+                        "to dream",
+                        "to expect",
+                        "to look forward to",
+                        "to feel",
+                        "to be (in a state of mind)",
+                        "to desire",
+                        "to want",
+                        "to recall",
+                        "to remember"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "懐疑",
+                    "reading": "カイギ",
+                    "meanings": [
+                        "doubt",
+                        "skepticism",
+                        "scepticism",
+                        "disbelief"
+                    ]
+                },
+                {
+                    "kanji": "懐古",
+                    "reading": "カイコ",
+                    "meanings": [
+                        "reminiscence",
+                        "nostalgia",
+                        "thinking fondly of the past",
+                        "recalling the old days"
+                    ]
+                },
+                {
+                    "kanji": "述懐",
+                    "reading": "ジュッカイ",
+                    "meanings": [
+                        "speaking about (one's thoughts",
+                        "memories",
+                        "etc.)",
+                        "relating (one's feelings",
+                        "reminiscences",
+                        "etc.)",
+                        "recollection",
+                        "reminiscence"
+                    ]
+                },
+                {
+                    "kanji": "追懐",
+                    "reading": "ツイカイ",
+                    "meanings": [
+                        "recollection",
+                        "remembrance",
+                        "reminiscence"
+                    ]
+                }
+            ]
+        }
+    }
+}

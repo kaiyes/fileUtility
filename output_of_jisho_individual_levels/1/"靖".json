@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"靖\"",
+        "strokes": 13,
+        "main_meanings": [
+            "peaceful"
+        ],
+        "main_readings": {
+            "kun": [
+                "やす.んじる"
+            ],
+            "on": [
+                "セイ",
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1554": "A New Dictionary of Kanji Usage",
+                "3358": "Classic Nelson (Andrew Nelson)",
+                "1957": "Essential Kanji (P.G. O’Neill)",
+                "1905": "Japanese Names (P.G. O’Neill)",
+                "2187": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1546": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "817": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1117": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "42570P": "Morohashi",
+                "1208": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6559": "New Nelson (John Haig)",
+                "2621": "Remembering The Kanji (James Heisig)",
+                "2666": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "446": "2001 Kanji",
+                "5b8.1": "The Kanji Dictionary",
+                "1-5-8": "SKIP code",
+                "0512.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-87": "JIS X 0208-1997 kuten code",
+                "9756": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぶ、 やす、 やすし、 しず、 おさむ、 きよし"
+                ],
+                "chinese": [
+                    "jing4"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "靑"
+            ],
+            "meaning": "blue",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "月",
+                "立",
+                "青"
+            ],
+            "basis": "青",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "靖国",
+                    "reading": "セイコク",
+                    "meanings": [
+                        "pacifying the nation"
+                    ]
+                },
+                {
+                    "kanji": "静寧",
+                    "reading": "セイネイ",
+                    "meanings": [
+                        "peace",
+                        "calm",
+                        "tranquility"
+                    ]
+                },
+                {
+                    "kanji": "閑靖",
+                    "reading": "カンセイ",
+                    "meanings": [
+                        "tranquillity",
+                        "quiet"
+                    ]
+                }
+            ]
+        }
+    }
+}

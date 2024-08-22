@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"単\"",
+        "strokes": 9,
+        "main_meanings": [
+            "simple",
+            "one",
+            "single",
+            "merely"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひとえ"
+            ],
+            "on": [
+                "タン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "671": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "569": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "542": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "593": "A New Dictionary of Kanji Usage",
+                "139": "Classic Nelson (Andrew Nelson)",
+                "390": "Essential Kanji (P.G. O’Neill)",
+                "382": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "919A": "Japanese Names (P.G. O’Neill)",
+                "300": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "359": "Kanji in Context (Nishiguchi and Kono)",
+                "516": "Kodansha Compact Kanji Guide",
+                "2805": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1444": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1946": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1947": "Les Kanjis dans la tete (Yves Maniette)",
+                "2752": "Morohashi",
+                "2256": "New Japanese English Character Dictionary (Jack Halpern)",
+                "620": "New Nelson (John Haig)",
+                "1928": "Remembering The Kanji (James Heisig)",
+                "2078": "Remembering The Kanji, 6th edition (James Heisig)",
+                "348": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "530": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "955": "2001 Kanji",
+                "3n6.2": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "9050.6": "Four corner code",
+                "3250.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-17": "JIS X 0208-1997 kuten code",
+                "5358": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "dan1",
+                    "chan2"
+                ],
+                "korean": [
+                    "dan",
+                    "seon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "ten,",
+            "parts": [
+                "十",
+                "尚",
+                "田"
+            ],
+            "basis": "十",
+            "kangxi_order": null,
+            "variants": [
+                "單"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "一重",
+                    "reading": "ひとえ",
+                    "meanings": [
+                        "one layer",
+                        "single layer",
+                        "monopetalous",
+                        "unlined kimono",
+                        "single-edged eyelid",
+                        "eyelid with an epicanthic fold",
+                        "upper eyelid with no fold"
+                    ]
+                },
+                {
+                    "kanji": "単衣",
+                    "reading": "たんい",
+                    "meanings": [
+                        "unlined kimono",
+                        "one kimono",
+                        "a single kimono"
+                    ]
+                },
+                {
+                    "kanji": "十二単",
+                    "reading": "じゅうにひとえ",
+                    "meanings": [
+                        "twelve-layered ceremonial kimono (worn by a court lady)",
+                        "ajuga (Ajuga nipponensis)",
+                        "bugle"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "単",
+                    "reading": "タン",
+                    "meanings": [
+                        "single",
+                        "simple",
+                        "singles (tennis",
+                        "badminton",
+                        "etc.)",
+                        "win bet (bet which predicts the winner of a race)"
+                    ]
+                },
+                {
+                    "kanji": "単位",
+                    "reading": "タンイ",
+                    "meanings": [
+                        "unit",
+                        "denomination",
+                        "credit (in school)",
+                        "in units of (e.g. \"in thousands\")",
+                        "in amounts of"
+                    ]
+                },
+                {
+                    "kanji": "菜単",
+                    "reading": "サイタン",
+                    "meanings": [
+                        "menu (at a Chinese restaurant)"
+                    ]
+                },
+                {
+                    "kanji": "指定単",
+                    "reading": "シテイタン",
+                    "meanings": [
+                        "designated money trust"
+                    ]
+                }
+            ]
+        }
+    }
+}

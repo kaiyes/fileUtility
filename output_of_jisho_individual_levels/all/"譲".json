@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"譲\"",
+        "strokes": 20,
+        "main_meanings": [
+            "defer",
+            "turnover",
+            "transfer",
+            "convey"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆず.る"
+            ],
+            "on": [
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1424": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "960": "A New Dictionary of Kanji Usage",
+                "4446": "Classic Nelson (Andrew Nelson)",
+                "1307": "Essential Kanji (P.G. O’Neill)",
+                "1771": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2918": "Japanese Names (P.G. O’Neill)",
+                "1013": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1051": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1209": "Kanji in Context (Nishiguchi and Kono)",
+                "1712": "Kodansha Compact Kanji Guide",
+                "2080": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1089": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1482": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1542": "Les Kanjis dans la tete (Yves Maniette)",
+                "36037P": "Morohashi",
+                "1649": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5714": "New Nelson (John Haig)",
+                "1528": "Remembering The Kanji (James Heisig)",
+                "1648": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1933": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3065": "2001 Kanji",
+                "7a13.1": "The Kanji Dictionary",
+                "1-7-13": "SKIP code",
+                "0063.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-89": "JIS X 0208-1997 kuten code",
+                "8b72": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ゆずり"
+                ],
+                "chinese": [
+                    "rang4"
+                ],
+                "korean": [
+                    "yang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "亠",
+                "ハ",
+                "衣",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": [
+                "讓"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "譲る",
+                    "reading": "ゆずる",
+                    "meanings": [
+                        "to hand over",
+                        "to transfer",
+                        "to turn over",
+                        "to assign",
+                        "to convey",
+                        "to bequeath",
+                        "to give up (e.g. one's seat)",
+                        "to give way",
+                        "to yield",
+                        "to concede",
+                        "to give ground",
+                        "to surrender",
+                        "to sell",
+                        "to postpone",
+                        "to put off",
+                        "to defer"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "譲歩",
+                    "reading": "ジョウホ",
+                    "meanings": [
+                        "concession",
+                        "conciliation",
+                        "compromise"
+                    ]
+                },
+                {
+                    "kanji": "譲渡",
+                    "reading": "ジョウト",
+                    "meanings": [
+                        "transfer",
+                        "assignment",
+                        "conveyance"
+                    ]
+                },
+                {
+                    "kanji": "分譲",
+                    "reading": "ブンジョウ",
+                    "meanings": [
+                        "selling (real-estate) lots"
+                    ]
+                },
+                {
+                    "kanji": "移譲",
+                    "reading": "イジョウ",
+                    "meanings": [
+                        "transfer",
+                        "assignment"
+                    ]
+                }
+            ]
+        }
+    }
+}

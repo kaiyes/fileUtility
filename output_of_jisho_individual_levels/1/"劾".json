@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"劾\"",
+        "strokes": 8,
+        "main_meanings": [
+            "censure",
+            "criminal investigation"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ガイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1068": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2007": "A New Dictionary of Kanji Usage",
+                "721": "Classic Nelson (Andrew Nelson)",
+                "1867": "Essential Kanji (P.G. O’Neill)",
+                "1102": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1939": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2126": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1614": "Kanji in Context (Nishiguchi and Kono)",
+                "215": "Kodansha Compact Kanji Guide",
+                "1618": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "850": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1165": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1537": "Les Kanjis dans la tete (Yves Maniette)",
+                "2342": "Morohashi",
+                "1266": "New Japanese English Character Dictionary (Jack Halpern)",
+                "534": "New Nelson (John Haig)",
+                "1523": "Remembering The Kanji (James Heisig)",
+                "1642": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1156": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "445": "2001 Kanji",
+                "2g6.1": "The Kanji Dictionary",
+                "1-6-2": "SKIP code",
+                "0482.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-15": "JIS X 0208-1997 kuten code",
+                "52be": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "he2"
+                ],
+                "korean": [
+                    "haeg",
+                    "hae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "丶",
+                "ノ",
+                "亠",
+                "人",
+                "力"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "劾奏",
+                    "reading": "ガイソウ",
+                    "meanings": [
+                        "report of an official's offence to the emperor (offense)"
+                    ]
+                },
+                {
+                    "kanji": "弾劾",
+                    "reading": "ダンガイ",
+                    "meanings": [
+                        "impeachment",
+                        "denunciation",
+                        "accusation",
+                        "censure",
+                        "arraignment"
+                    ]
+                }
+            ]
+        }
+    }
+}

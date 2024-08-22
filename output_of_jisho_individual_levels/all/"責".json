@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"責\"",
+        "strokes": 11,
+        "main_meanings": [
+            "blame",
+            "condemn",
+            "censure"
+        ],
+        "main_readings": {
+            "kun": [
+                "せ.める"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "649": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "751": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "728": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "759": "A New Dictionary of Kanji Usage",
+                "4492": "Classic Nelson (Andrew Nelson)",
+                "492": "Essential Kanji (P.G. O’Neill)",
+                "923": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "655": "Kanji and Kana (Spahn and Hadamitzky)",
+                "666": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "638": "Kanji in Context (Nishiguchi and Kono)",
+                "1726": "Kodansha Compact Kanji Guide",
+                "3115": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1595": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2176": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1555": "Les Kanjis dans la tete (Yves Maniette)",
+                "36682": "Morohashi",
+                "2467": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5780": "New Nelson (John Haig)",
+                "1541": "Remembering The Kanji (James Heisig)",
+                "1661": "Remembering The Kanji, 6th edition (James Heisig)",
+                "739": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1461": "2001 Kanji",
+                "7b4.4": "The Kanji Dictionary",
+                "2-4-7": "SKIP code",
+                "5080.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-53": "JIS X 0208-1997 kuten code",
+                "8cac": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ze2",
+                    "zhai4"
+                ],
+                "korean": [
+                    "chaeg",
+                    "chae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "二",
+                "亠",
+                "ハ",
+                "土",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "責める",
+                    "reading": "せめる",
+                    "meanings": [
+                        "to condemn",
+                        "to blame",
+                        "to criticize",
+                        "to criticise",
+                        "to reproach",
+                        "to accuse",
+                        "to urge",
+                        "to press",
+                        "to pester",
+                        "to torture",
+                        "to torment",
+                        "to persecute",
+                        "to break in (a horse)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "責",
+                    "reading": "セキ",
+                    "meanings": [
+                        "responsibility",
+                        "duty",
+                        "obligation"
+                    ]
+                },
+                {
+                    "kanji": "責任",
+                    "reading": "セキニン",
+                    "meanings": [
+                        "duty",
+                        "responsibility (incl. supervision of staff)",
+                        "liability",
+                        "onus"
+                    ]
+                },
+                {
+                    "kanji": "問責",
+                    "reading": "モンセキ",
+                    "meanings": [
+                        "blame",
+                        "censure",
+                        "reproof",
+                        "reprimand",
+                        "rebuke"
+                    ]
+                },
+                {
+                    "kanji": "引責",
+                    "reading": "インセキ",
+                    "meanings": [
+                        "taking responsibility"
+                    ]
+                }
+            ]
+        }
+    }
+}

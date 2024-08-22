@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"咲\"",
+        "strokes": 9,
+        "main_meanings": [
+            "blossom",
+            "bloom"
+        ],
+        "main_readings": {
+            "kun": [
+                "さ.く",
+                "-ざき"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1303": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1435": "A New Dictionary of Kanji Usage",
+                "922": "Classic Nelson (Andrew Nelson)",
+                "1475": "Essential Kanji (P.G. O’Neill)",
+                "413": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "784": "Japanese Names (P.G. O’Neill)",
+                "927": "Kanji and Kana (Spahn and Hadamitzky)",
+                "951": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "261": "Kanji in Context (Nishiguchi and Kono)",
+                "303": "Kodansha Compact Kanji Guide",
+                "259": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "310": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2037": "Les Kanjis dans la tete (Yves Maniette)",
+                "3554X": "Morohashi",
+                "349": "New Japanese English Character Dictionary (Jack Halpern)",
+                "790": "New Nelson (John Haig)",
+                "2018": "Remembering The Kanji (James Heisig)",
+                "2174": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1240": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3763": "2001 Kanji",
+                "3d6.12": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "6803.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-73": "JIS X 0208-1997 kuten code",
+                "54b2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さ、 さき"
+                ],
+                "chinese": [
+                    "xiao4"
+                ],
+                "korean": [
+                    "so"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "二",
+                "人",
+                "并",
+                "口",
+                "大"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "咲く",
+                    "reading": "さく",
+                    "meanings": [
+                        "to bloom",
+                        "to flower",
+                        "to blossom",
+                        "to open",
+                        "to rise up (of breaking waves)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "巧笑",
+                    "reading": "コウショウ",
+                    "meanings": [
+                        "courteous laughter",
+                        "forced laughter"
+                    ]
+                }
+            ]
+        }
+    }
+}

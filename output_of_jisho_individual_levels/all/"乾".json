@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"乾\"",
+        "strokes": 11,
+        "main_meanings": [
+            "drought",
+            "dry",
+            "dessicate",
+            "drink up",
+            "heaven",
+            "emperor"
+        ],
+        "main_readings": {
+            "kun": [
+                "かわ.く",
+                "かわ.かす",
+                "ほ.す",
+                "ひ.る",
+                "いぬい"
+            ],
+            "on": [
+                "カン",
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1099": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1355": "A New Dictionary of Kanji Usage",
+                "784": "Classic Nelson (Andrew Nelson)",
+                "1195": "Essential Kanji (P.G. O’Neill)",
+                "292": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1411": "Japanese Names (P.G. O’Neill)",
+                "1190": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1249": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "904": "Kanji in Context (Nishiguchi and Kono)",
+                "27": "Kodansha Compact Kanji Guide",
+                "2113": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1101": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1500": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "473": "Les Kanjis dans la tete (Yves Maniette)",
+                "204": "Morohashi",
+                "1679": "New Japanese English Character Dictionary (Jack Halpern)",
+                "63": "New Nelson (John Haig)",
+                "463": "Remembering The Kanji (James Heisig)",
+                "502": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1407": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1556": "2001 Kanji",
+                "4c7.14": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "1-8-4": "SKIP code",
+                "4841.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-05": "JIS X 0208-1997 kuten code",
+                "4e7e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "gan1",
+                    "qian2"
+                ],
+                "korean": [
+                    "gan",
+                    "geon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "乙",
+                "⺄",
+                "乚"
+            ],
+            "meaning": "second",
+            "parts": [
+                "一",
+                "ノ",
+                "乙",
+                "人",
+                "十",
+                "日",
+                "乞"
+            ],
+            "basis": "乛",
+            "kangxi_order": null,
+            "variants": [
+                "乹"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "乾く",
+                    "reading": "かわく",
+                    "meanings": [
+                        "to get dry"
+                    ]
+                },
+                {
+                    "kanji": "乾かす",
+                    "reading": "かわかす",
+                    "meanings": [
+                        "to dry (clothes",
+                        "etc.)",
+                        "to desiccate"
+                    ]
+                },
+                {
+                    "kanji": "干す",
+                    "reading": "ほす",
+                    "meanings": [
+                        "to air",
+                        "to dry",
+                        "to desiccate",
+                        "to drain (off)",
+                        "to drink up",
+                        "to deprive of a role",
+                        "job",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "干る",
+                    "reading": "ひる",
+                    "meanings": [
+                        "to dry (up)",
+                        "to become parched",
+                        "to ebb",
+                        "to recede"
+                    ]
+                },
+                {
+                    "kanji": "戌亥",
+                    "reading": "いぬい",
+                    "meanings": [
+                        "northwest"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "乾電池",
+                    "reading": "カンデンチ",
+                    "meanings": [
+                        "dry cell",
+                        "battery"
+                    ]
+                },
+                {
+                    "kanji": "乾燥",
+                    "reading": "カンソウ",
+                    "meanings": [
+                        "dryness",
+                        "aridity",
+                        "drying (e.g. clothes)",
+                        "dehydration",
+                        "desiccation",
+                        "insipidity"
+                    ]
+                },
+                {
+                    "kanji": "速乾",
+                    "reading": "ソッカン",
+                    "meanings": [
+                        "drying quickly"
+                    ]
+                },
+                {
+                    "kanji": "臘乾",
+                    "reading": "ラカン",
+                    "meanings": [
+                        "Chinese smoked and salted ham"
+                    ]
+                },
+                {
+                    "kanji": "乾",
+                    "reading": "ケン",
+                    "meanings": [
+                        "qian (one of the trigrams of the I Ching: heaven",
+                        "northwest)"
+                    ]
+                },
+                {
+                    "kanji": "乾位",
+                    "reading": "ケンイ",
+                    "meanings": [
+                        "northwest"
+                    ]
+                }
+            ]
+        }
+    }
+}

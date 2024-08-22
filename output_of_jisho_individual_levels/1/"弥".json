@@ -1,0 +1,204 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"弥\"",
+        "strokes": 8,
+        "main_meanings": [
+            "all the more",
+            "increasingly"
+        ],
+        "main_readings": {
+            "kun": [
+                "や",
+                "いや",
+                "いよ.いよ",
+                "わた.る"
+            ],
+            "on": [
+                "ミ",
+                "ビ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1536": "A New Dictionary of Kanji Usage",
+                "1565": "Classic Nelson (Andrew Nelson)",
+                "1980": "Essential Kanji (P.G. O’Neill)",
+                "832": "Japanese Names (P.G. O’Neill)",
+                "2065": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1012": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "344": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "214": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "258": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "9753": "Morohashi",
+                "288": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1689": "New Nelson (John Haig)",
+                "2241": "Remembering The Kanji (James Heisig)",
+                "1322": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3h5.2": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "1829.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-79": "JIS X 0208-1997 kuten code",
+                "5f25": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "わたる、 みつ、 ひろ、 よ"
+                ],
+                "chinese": [
+                    "mi2"
+                ],
+                "korean": [
+                    "mi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bow",
+            "parts": [
+                "ノ",
+                "亅",
+                "小",
+                "弓",
+                "乞"
+            ],
+            "basis": "弓",
+            "kangxi_order": 57,
+            "variants": [
+                "彌"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "弥生",
+                    "reading": "やよい",
+                    "meanings": [
+                        "third month of the lunar calendar",
+                        "Yayoi period (ca. 300 BCE-300 CE)",
+                        "Yayoi culture",
+                        "thick growth (of grass",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "弥栄",
+                    "reading": "いやさか",
+                    "meanings": [
+                        "prosperity",
+                        "prospering",
+                        "flourishing",
+                        "best of luck",
+                        "all the best",
+                        "hurray",
+                        "hoorah"
+                    ]
+                },
+                {
+                    "kanji": "弥",
+                    "reading": "いや",
+                    "meanings": [
+                        "more and more",
+                        "increasingly",
+                        "extremely",
+                        "very"
+                    ]
+                },
+                {
+                    "kanji": "弥生",
+                    "reading": "やよい",
+                    "meanings": [
+                        "third month of the lunar calendar",
+                        "Yayoi period (ca. 300 BCE-300 CE)",
+                        "Yayoi culture",
+                        "thick growth (of grass",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "愈",
+                    "reading": "いよいよ",
+                    "meanings": [
+                        "more and more",
+                        "all the more",
+                        "increasingly",
+                        "at last",
+                        "finally",
+                        "beyond doubt",
+                        "(at the) last moment",
+                        "worst possible time"
+                    ]
+                },
+                {
+                    "kanji": "渡る",
+                    "reading": "わたる",
+                    "meanings": [
+                        "to cross over",
+                        "to go across",
+                        "to extend",
+                        "to cover",
+                        "to range",
+                        "to span"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "弥撒",
+                    "reading": "ミサ",
+                    "meanings": [
+                        "(Catholic) Mass"
+                    ]
+                },
+                {
+                    "kanji": "弥勒",
+                    "reading": "ミロク",
+                    "meanings": [
+                        "Maitreya (Bodhisattva)",
+                        "Miroku"
+                    ]
+                },
+                {
+                    "kanji": "沙弥",
+                    "reading": "シャミ",
+                    "meanings": [
+                        "male Buddhist novice"
+                    ]
+                },
+                {
+                    "kanji": "伊邪那美",
+                    "reading": "イザナミ",
+                    "meanings": [
+                        "Izanami (Shinto goddess)"
+                    ]
+                },
+                {
+                    "kanji": "弥久",
+                    "reading": "ビキュウ",
+                    "meanings": [
+                        "extending over a long time"
+                    ]
+                },
+                {
+                    "kanji": "弥縫",
+                    "reading": "ビホウ",
+                    "meanings": [
+                        "patching up"
+                    ]
+                }
+            ]
+        }
+    }
+}

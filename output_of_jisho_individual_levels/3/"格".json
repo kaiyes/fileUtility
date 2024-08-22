@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"格\"",
+        "strokes": 10,
+        "main_meanings": [
+            "status",
+            "rank",
+            "capacity",
+            "character",
+            "case (law",
+            "grammar)"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カク",
+                "コウ",
+                "キャク",
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "569": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "663": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "633": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "334": "A New Dictionary of Kanji Usage",
+                "2259": "Classic Nelson (Andrew Nelson)",
+                "716": "Essential Kanji (P.G. O’Neill)",
+                "1099": "Japanese Names (P.G. O’Neill)",
+                "643": "Kanji and Kana (Spahn and Hadamitzky)",
+                "653": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "852": "Kanji in Context (Nishiguchi and Kono)",
+                "1088": "Kodansha Compact Kanji Guide",
+                "1161": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "627": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "835": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "298": "Les Kanjis dans la tete (Yves Maniette)",
+                "14749": "Morohashi",
+                "926": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2668": "New Nelson (John Haig)",
+                "292": "Remembering The Kanji (James Heisig)",
+                "312": "Remembering The Kanji, 6th edition (James Heisig)",
+                "403": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "710": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1877": "2001 Kanji",
+                "4a6.17": "The Kanji Dictionary",
+                "1-4-6": "SKIP code",
+                "4796.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-42": "JIS X 0208-1997 kuten code",
+                "683c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いたる、 のり"
+                ],
+                "chinese": [
+                    "ge2",
+                    "ge1"
+                ],
+                "korean": [
+                    "gyeog",
+                    "nag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "口",
+                "夂",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "格",
+                    "reading": "カク",
+                    "meanings": [
+                        "status",
+                        "position",
+                        "rank",
+                        "method",
+                        "way",
+                        "style",
+                        "rule",
+                        "regulation",
+                        "law",
+                        "case",
+                        "figure (form of a syllogism)"
+                    ]
+                },
+                {
+                    "kanji": "格上げ",
+                    "reading": "カクアゲ",
+                    "meanings": [
+                        "status elevation",
+                        "upgrading",
+                        "promotion"
+                    ]
+                },
+                {
+                    "kanji": "規格",
+                    "reading": "キカク",
+                    "meanings": [
+                        "standard",
+                        "norm"
+                    ]
+                },
+                {
+                    "kanji": "低価格",
+                    "reading": "テイカカク",
+                    "meanings": [
+                        "low price"
+                    ]
+                },
+                {
+                    "kanji": "格子",
+                    "reading": "コウシ",
+                    "meanings": [
+                        "lattice",
+                        "latticework",
+                        "window bars",
+                        "grid",
+                        "grating",
+                        "trellis"
+                    ]
+                },
+                {
+                    "kanji": "格子柄",
+                    "reading": "コウシガラ",
+                    "meanings": [
+                        "check pattern",
+                        "checked pattern",
+                        "checkered pattern",
+                        "plaid",
+                        "lattice design"
+                    ]
+                },
+                {
+                    "kanji": "格",
+                    "reading": "キャク",
+                    "meanings": [
+                        "amendment (of the ritsuryō)"
+                    ]
+                },
+                {
+                    "kanji": "格式",
+                    "reading": "カクシキ",
+                    "meanings": [
+                        "formality",
+                        "social rules",
+                        "social status",
+                        "social standing",
+                        "amendments and enforcement regulations (of the ritsuryō)"
+                    ]
+                },
+                {
+                    "kanji": "弘仁格",
+                    "reading": "コウニンキャク",
+                    "meanings": [
+                        "Ordinance of the Konin Era"
+                    ]
+                },
+                {
+                    "kanji": "格組",
+                    "reading": "ゴウグミ",
+                    "meanings": [
+                        "wooden framework"
+                    ]
+                },
+                {
+                    "kanji": "格天井",
+                    "reading": "ゴウテンジョウ",
+                    "meanings": [
+                        "coffered ceiling"
+                    ]
+                }
+            ]
+        }
+    }
+}

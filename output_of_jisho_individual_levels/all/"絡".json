@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"絡\"",
+        "strokes": 12,
+        "main_meanings": [
+            "entwine",
+            "coil around",
+            "get caught in"
+        ],
+        "main_readings": {
+            "kun": [
+                "から.む",
+                "から.まる"
+            ],
+            "on": [
+                "ラク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1890": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "958": "A New Dictionary of Kanji Usage",
+                "3533": "Classic Nelson (Andrew Nelson)",
+                "944": "Essential Kanji (P.G. O’Neill)",
+                "817": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "840": "Kanji and Kana (Spahn and Hadamitzky)",
+                "859": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "300": "Kanji in Context (Nishiguchi and Kono)",
+                "1536": "Kodansha Compact Kanji Guide",
+                "1709": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "915": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1238": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1362": "Les Kanjis dans la tete (Yves Maniette)",
+                "27426": "Morohashi",
+                "1351": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4484": "New Nelson (John Haig)",
+                "1350": "Remembering The Kanji (James Heisig)",
+                "1450": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1578": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2777": "2001 Kanji",
+                "6a6.6": "The Kanji Dictionary",
+                "1-6-6": "SKIP code",
+                "2796.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-77": "JIS X 0208-1997 kuten code",
+                "7d61": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "luo4",
+                    "lao4"
+                ],
+                "korean": [
+                    "rag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "口",
+                "夂",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "絡む",
+                    "reading": "からむ",
+                    "meanings": [
+                        "to twine",
+                        "to get tangled",
+                        "to get entangled",
+                        "to get caught (in)",
+                        "to be involved (e.g. of money in a matter)",
+                        "to get involved (in)",
+                        "to be a factor (in)",
+                        "to have an influence",
+                        "to pick a quarrel (with)",
+                        "to find fault (with)",
+                        "to pester",
+                        "to hassle"
+                    ]
+                },
+                {
+                    "kanji": "絡まる",
+                    "reading": "からまる",
+                    "meanings": [
+                        "to be entwined",
+                        "to be involved"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "絡繹",
+                    "reading": "ラクエキ",
+                    "meanings": [
+                        "constant (stream of traffic)",
+                        "incessant"
+                    ]
+                },
+                {
+                    "kanji": "絡糸嬢",
+                    "reading": "ラクシジョウ",
+                    "meanings": [
+                        "cricket",
+                        "bush-cricket"
+                    ]
+                },
+                {
+                    "kanji": "短絡",
+                    "reading": "タンラク",
+                    "meanings": [
+                        "short circuit",
+                        "short",
+                        "illogical jump",
+                        "drawing a hasty inference (between two events)",
+                        "jumping to conclusions",
+                        "acting rashly"
+                    ]
+                },
+                {
+                    "kanji": "脈絡",
+                    "reading": "ミャクラク",
+                    "meanings": [
+                        "logical connection",
+                        "chain of reasoning",
+                        "coherence",
+                        "context",
+                        "blood vessel"
+                    ]
+                }
+            ]
+        }
+    }
+}

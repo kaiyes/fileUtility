@@ -1,0 +1,388 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"通\"",
+        "strokes": 10,
+        "main_meanings": [
+            "traffic",
+            "pass through",
+            "avenue",
+            "commute",
+            "counter for letters",
+            "notes",
+            "documents",
+            "etc."
+        ],
+        "main_readings": {
+            "kun": [
+                "とお.る",
+                "とお.り",
+                "-とお.り",
+                "-どお.り",
+                "とお.す",
+                "とお.し",
+                "-どお.し",
+                "かよ.う"
+            ],
+            "on": [
+                "ツウ",
+                "ツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "281": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "193": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "176": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "71": "A New Dictionary of Kanji Usage",
+                "4703": "Classic Nelson (Andrew Nelson)",
+                "201": "Essential Kanji (P.G. O’Neill)",
+                "261": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1239": "Japanese Names (P.G. O’Neill)",
+                "3.11": "Japanese for Busy People",
+                "150": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "204": "Kanji in Context (Nishiguchi and Kono)",
+                "695": "Kodansha Compact Kanji Guide",
+                "3855": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1982": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2678": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1420": "Les Kanjis dans la tete (Yves Maniette)",
+                "38892P": "Morohashi",
+                "3109": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6063": "New Nelson (John Haig)",
+                "1408": "Remembering The Kanji (James Heisig)",
+                "1511": "Remembering The Kanji, 6th edition (James Heisig)",
+                "97": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "198": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3553": "2001 Kanji",
+                "2q7.18": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "3-2-7": "SKIP code",
+                "3730.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-44": "JIS X 0208-1997 kuten code",
+                "901a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とん、 どうし、 どおり、 みち"
+                ],
+                "chinese": [
+                    "tong1",
+                    "tong4"
+                ],
+                "korean": [
+                    "tong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "マ",
+                "込",
+                "用"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "通る",
+                    "reading": "とおる",
+                    "meanings": [
+                        "to go by",
+                        "to go past",
+                        "to go along",
+                        "to travel along",
+                        "to pass through",
+                        "to use (a road)",
+                        "to take (a route)",
+                        "to go via",
+                        "to go by way of",
+                        "to run (between; of a rail service",
+                        "bus route",
+                        "etc.)",
+                        "to operate (between)",
+                        "to connect",
+                        "to go indoors",
+                        "to go into a room",
+                        "to be admitted",
+                        "to be shown in",
+                        "to be ushered in",
+                        "to come in",
+                        "to penetrate",
+                        "to pierce",
+                        "to skewer",
+                        "to go through",
+                        "to come through",
+                        "to permeate",
+                        "to soak into",
+                        "to spread throughout",
+                        "to carry (e.g. of a voice)",
+                        "to reach far",
+                        "to be passed on (e.g. of a customer's order to the kitchen)",
+                        "to be relayed",
+                        "to be conveyed",
+                        "to pass (a test",
+                        "a bill in the House",
+                        "etc.)",
+                        "to be approved",
+                        "to be accepted",
+                        "to go by (a name)",
+                        "to be known as",
+                        "to be accepted as",
+                        "to have a reputation for",
+                        "to be coherent",
+                        "to be logical",
+                        "to be reasonable",
+                        "to be comprehensible",
+                        "to be understandable",
+                        "to make sense",
+                        "to get across (e.g. of one's point)",
+                        "to be understood",
+                        "to pass for",
+                        "to come across as",
+                        "to seem like",
+                        "to be straight (e.g. wood grain)",
+                        "to be well-informed",
+                        "to be wise",
+                        "to do ... completely",
+                        "to do ... thoroughly"
+                    ]
+                },
+                {
+                    "kanji": "通り",
+                    "reading": "とおり",
+                    "meanings": [
+                        "street",
+                        "road",
+                        "avenue",
+                        "thoroughfare",
+                        "traffic",
+                        "coming and going",
+                        "flow (of water",
+                        "air",
+                        "etc.)",
+                        "passage",
+                        "running",
+                        "transmission (of sound)",
+                        "reach (of voice)",
+                        "reputation",
+                        "favor",
+                        "favour",
+                        "popularity",
+                        "understanding",
+                        "comprehension",
+                        "comprehensibility",
+                        "clarity",
+                        "the same way (as)",
+                        "as (follows",
+                        "stated",
+                        "expected",
+                        "etc.)",
+                        "counter for sets of things",
+                        "counter for methods",
+                        "ways",
+                        "kinds",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "通り過ぎる",
+                    "reading": "とおりすぎる",
+                    "meanings": [
+                        "to go past",
+                        "to pass",
+                        "to pass by"
+                    ]
+                },
+                {
+                    "kanji": "通す",
+                    "reading": "とおす",
+                    "meanings": [
+                        "to stick through",
+                        "to force through",
+                        "to spread throughout",
+                        "to thoroughly diffuse",
+                        "to make a path between two points",
+                        "to proceed in a logical manner",
+                        "to let pass",
+                        "to allow through",
+                        "to lead (someone) into (a house",
+                        "room",
+                        "etc.)",
+                        "to show in",
+                        "to go through (a middleman)",
+                        "to (look",
+                        "listen) through (a window",
+                        "wall",
+                        "etc.)",
+                        "to pass (a law",
+                        "applicant",
+                        "etc.)",
+                        "to force to accept",
+                        "to force agreement",
+                        "to continue (in a state)",
+                        "to persist in",
+                        "to do to the entirety of",
+                        "to cover all of",
+                        "to span the whole ...",
+                        "to do from beginning to end without a break",
+                        "to convey (one's ideas",
+                        "etc.) to the other party",
+                        "to do to the end",
+                        "to carry through",
+                        "to complete"
+                    ]
+                },
+                {
+                    "kanji": "通し",
+                    "reading": "とおし",
+                    "meanings": [
+                        "continuing from beginning to end",
+                        "continuous run",
+                        "consecutive run",
+                        "appetizer",
+                        "starter",
+                        "hors d'oeuvre",
+                        "performance of an entire play"
+                    ]
+                },
+                {
+                    "kanji": "通し切符",
+                    "reading": "とおしきっぷ",
+                    "meanings": [
+                        "through ticket (e.g. rail",
+                        "air)",
+                        "ticket good for multiple performances (e.g. both matinee and evening shows)",
+                        "all-day ticket",
+                        "season ticket"
+                    ]
+                },
+                {
+                    "kanji": "切通し",
+                    "reading": "きりどおし",
+                    "meanings": [
+                        "road (or railway) cut through hilly terrain",
+                        "cutting"
+                    ]
+                },
+                {
+                    "kanji": "通う",
+                    "reading": "かよう",
+                    "meanings": [
+                        "to go to and from (a place)",
+                        "to go back and forth between",
+                        "to run between (e.g. bus",
+                        "train",
+                        "etc.)",
+                        "to ply between",
+                        "to go to (school",
+                        "work",
+                        "etc.)",
+                        "to attend",
+                        "to commute",
+                        "to frequent",
+                        "to circulate (e.g. blood",
+                        "electricity)",
+                        "to be communicated (e.g. thought)",
+                        "to resemble"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "通",
+                    "reading": "ツウ",
+                    "meanings": [
+                        "authority",
+                        "expert",
+                        "connoisseur",
+                        "well-informed person",
+                        "counter for messages",
+                        "letters",
+                        "notes",
+                        "documents",
+                        "etc.",
+                        "understanding (esp. of male-female relations)",
+                        "tact",
+                        "insight",
+                        "supernatural powers",
+                        "magical powers"
+                    ]
+                },
+                {
+                    "kanji": "通院",
+                    "reading": "ツウイン",
+                    "meanings": [
+                        "going to the hospital for regular treatment",
+                        "going to the hospital regularly"
+                    ]
+                },
+                {
+                    "kanji": "富士通",
+                    "reading": "フジツウ",
+                    "meanings": [
+                        "Fujitsu"
+                    ]
+                },
+                {
+                    "kanji": "食通",
+                    "reading": "ショクツウ",
+                    "meanings": [
+                        "gourmandism",
+                        "gourmet",
+                        "gourmand",
+                        "foodie"
+                    ]
+                },
+                {
+                    "kanji": "通",
+                    "reading": "ツウ",
+                    "meanings": [
+                        "authority",
+                        "expert",
+                        "connoisseur",
+                        "well-informed person",
+                        "counter for messages",
+                        "letters",
+                        "notes",
+                        "documents",
+                        "etc.",
+                        "understanding (esp. of male-female relations)",
+                        "tact",
+                        "insight",
+                        "supernatural powers",
+                        "magical powers"
+                    ]
+                },
+                {
+                    "kanji": "通院",
+                    "reading": "ツウイン",
+                    "meanings": [
+                        "going to the hospital for regular treatment",
+                        "going to the hospital regularly"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"苑\"",
+        "strokes": 8,
+        "main_meanings": [
+            "garden",
+            "farm",
+            "park"
+        ],
+        "main_readings": {
+            "kun": [
+                "その",
+                "う.つ"
+            ],
+            "on": [
+                "エン",
+                "オン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3916": "Classic Nelson (Andrew Nelson)",
+                "682": "Japanese Names (P.G. O’Neill)",
+                "2212": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2783": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1428": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1926": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1431": "Les Kanjis dans la tete (Yves Maniette)",
+                "30774X": "Morohashi",
+                "2239": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4996": "New Nelson (John Haig)",
+                "1419": "Remembering The Kanji (James Heisig)",
+                "1523": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "1956": "2001 Kanji",
+                "3k5.17": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4421.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-81": "JIS X 0208-1997 kuten code",
+                "82d1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あや"
+                ],
+                "chinese": [
+                    "yuan4"
+                ],
+                "korean": [
+                    "weon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "卩",
+                "夕",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "園",
+                    "reading": "その",
+                    "meanings": [
+                        "garden",
+                        "orchard",
+                        "park",
+                        "place",
+                        "world",
+                        "environment"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "園",
+                    "reading": "エン",
+                    "meanings": [
+                        "garden",
+                        "orchard",
+                        "park",
+                        "plantation",
+                        "kindergarten",
+                        "nursery school",
+                        "preschool"
+                    ]
+                },
+                {
+                    "kanji": "園内",
+                    "reading": "エンナイ",
+                    "meanings": [
+                        "inside the kindergarten",
+                        "inside the zoo",
+                        "inside the garden",
+                        "inside the park"
+                    ]
+                },
+                {
+                    "kanji": "霊園",
+                    "reading": "レイエン",
+                    "meanings": [
+                        "(garden) cemetery",
+                        "park-style cemetery",
+                        "memorial park"
+                    ]
+                },
+                {
+                    "kanji": "外苑",
+                    "reading": "ガイエン",
+                    "meanings": [
+                        "outer garden"
+                    ]
+                },
+                {
+                    "kanji": "紫苑",
+                    "reading": "シオン",
+                    "meanings": [
+                        "aster (Aster tataricus)",
+                        "Tartarian aster",
+                        "Michaelmas daisy"
+                    ]
+                },
+                {
+                    "kanji": "鹿野苑",
+                    "reading": "ロクヤオン",
+                    "meanings": [
+                        "Magadaava (where Buddha delivered his first sermon)",
+                        "The Deer Park"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"堅\"",
+        "strokes": 12,
+        "main_meanings": [
+            "strict",
+            "hard",
+            "solid",
+            "tough",
+            "tight",
+            "reliable"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた.い",
+                "-がた.い"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1217": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "914": "A New Dictionary of Kanji Usage",
+                "1096": "Classic Nelson (Andrew Nelson)",
+                "995": "Essential Kanji (P.G. O’Neill)",
+                "1155": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1796": "Japanese Names (P.G. O’Neill)",
+                "1289": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1363": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1228": "Kanji in Context (Nishiguchi and Kono)",
+                "356": "Kodansha Compact Kanji Guide",
+                "3502": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1805": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2457": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "861": "Les Kanjis dans la tete (Yves Maniette)",
+                "5210": "Morohashi",
+                "2823": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1038": "New Nelson (John Haig)",
+                "853": "Remembering The Kanji (James Heisig)",
+                "917": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1513": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3472": "2001 Kanji",
+                "3b9.13": "The Kanji Dictionary",
+                "2-9-3": "SKIP code",
+                "2-8-3": "SKIP code",
+                "7710.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-88": "JIS X 0208-1997 kuten code",
+                "5805": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "きん"
+                ],
+                "chinese": [
+                    "jian1"
+                ],
+                "korean": [
+                    "gyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "又",
+                "土",
+                "臣"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "硬い",
+                    "reading": "かたい",
+                    "meanings": [
+                        "hard",
+                        "solid",
+                        "tough",
+                        "stiff",
+                        "tight",
+                        "wooden",
+                        "unpolished (e.g. writing)",
+                        "strong",
+                        "firm (not viscous or easily moved)",
+                        "safe",
+                        "steady",
+                        "honest",
+                        "steadfast",
+                        "obstinate",
+                        "stubborn",
+                        "bookish",
+                        "formal",
+                        "stuffy"
+                    ]
+                },
+                {
+                    "kanji": "堅い商売",
+                    "reading": "かたいしょうばい",
+                    "meanings": [
+                        "sound business"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "堅",
+                    "reading": "ケン",
+                    "meanings": [
+                        "strength",
+                        "solidity",
+                        "firmness",
+                        "armour",
+                        "armor"
+                    ]
+                },
+                {
+                    "kanji": "堅持",
+                    "reading": "ケンジ",
+                    "meanings": [
+                        "holding on to",
+                        "sticking to"
+                    ]
+                },
+                {
+                    "kanji": "中堅",
+                    "reading": "チュウケン",
+                    "meanings": [
+                        "nucleus",
+                        "backbone",
+                        "mainstay",
+                        "key figure",
+                        "medium-level",
+                        "mid-level",
+                        "middle-ranking",
+                        "midsize",
+                        "main body (of troops)",
+                        "crack troops",
+                        "select troops",
+                        "center field",
+                        "centre field",
+                        "center fielder",
+                        "centre fielder",
+                        "athlete competing in the middle-number match in a team competition",
+                        "i.e. second in 3-on-3",
+                        "third in 5-on-5 (kendo",
+                        "judo",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "米利堅",
+                    "reading": "メリケン",
+                    "meanings": [
+                        "America",
+                        "American",
+                        "fist"
+                    ]
+                }
+            ]
+        }
+    }
+}

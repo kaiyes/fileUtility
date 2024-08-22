@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"栓\"",
+        "strokes": 10,
+        "main_meanings": [
+            "plug",
+            "bolt",
+            "cork",
+            "bung",
+            "stopper"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1493": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1933": "A New Dictionary of Kanji Usage",
+                "2247": "Classic Nelson (Andrew Nelson)",
+                "1428": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1842": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1993": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1531": "Kanji in Context (Nishiguchi and Kono)",
+                "1094": "Kodansha Compact Kanji Guide",
+                "1171": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "634": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "845": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "270": "Les Kanjis dans la tete (Yves Maniette)",
+                "14689X": "Morohashi",
+                "934": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2649": "New Nelson (John Haig)",
+                "264": "Remembering The Kanji (James Heisig)",
+                "282": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1351": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1872": "2001 Kanji",
+                "4a6.26": "The Kanji Dictionary",
+                "1-4-6": "SKIP code",
+                "4891.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-82": "JIS X 0208-1997 kuten code",
+                "6813": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shuan1"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "个",
+                "木",
+                "王"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "栓",
+                    "reading": "セン",
+                    "meanings": [
+                        "stopper",
+                        "cork",
+                        "plug",
+                        "bung",
+                        "tap",
+                        "faucet",
+                        "stopcock"
+                    ]
+                },
+                {
+                    "kanji": "栓抜き",
+                    "reading": "センヌキ",
+                    "meanings": [
+                        "bottle opener",
+                        "corkscrew"
+                    ]
+                },
+                {
+                    "kanji": "脳血栓",
+                    "reading": "ノウケッセン",
+                    "meanings": [
+                        "cerebral thrombosis"
+                    ]
+                },
+                {
+                    "kanji": "血栓",
+                    "reading": "ケッセン",
+                    "meanings": [
+                        "thrombus",
+                        "blood clot"
+                    ]
+                }
+            ]
+        }
+    }
+}

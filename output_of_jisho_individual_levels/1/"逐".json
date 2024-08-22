@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"逐\"",
+        "strokes": 10,
+        "main_meanings": [
+            "pursue",
+            "drive away",
+            "chase",
+            "accomplish",
+            "attain",
+            "commit"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "チク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1578": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1984": "A New Dictionary of Kanji Usage",
+                "4696": "Classic Nelson (Andrew Nelson)",
+                "1573": "Essential Kanji (P.G. O’Neill)",
+                "1808": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1134": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1186": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1216": "Kanji in Context (Nishiguchi and Kono)",
+                "694": "Kodansha Compact Kanji Guide",
+                "3848": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1975": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2671": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "545": "Les Kanjis dans la tete (Yves Maniette)",
+                "38877P": "Morohashi",
+                "3102": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6056": "New Nelson (John Haig)",
+                "539": "Remembering The Kanji (James Heisig)",
+                "578": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1396": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3151": "2001 Kanji",
+                "2q7.6": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "3130.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-64": "JIS X 0208-1997 kuten code",
+                "9010": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhu2"
+                ],
+                "korean": [
+                    "chug",
+                    "jeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "豕"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "逐次",
+                    "reading": "チクジ",
+                    "meanings": [
+                        "successively",
+                        "one after another",
+                        "sequentially",
+                        "one by one"
+                    ]
+                },
+                {
+                    "kanji": "逐一",
+                    "reading": "チクイチ",
+                    "meanings": [
+                        "one by one",
+                        "in detail",
+                        "minutely"
+                    ]
+                },
+                {
+                    "kanji": "放逐",
+                    "reading": "ホウチク",
+                    "meanings": [
+                        "expulsion",
+                        "ousting",
+                        "ejection",
+                        "dismissal",
+                        "banishment"
+                    ]
+                },
+                {
+                    "kanji": "角逐",
+                    "reading": "カクチク",
+                    "meanings": [
+                        "competition",
+                        "rivalry",
+                        "vying (with)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"勢\"",
+        "strokes": 13,
+        "main_meanings": [
+            "forces",
+            "energy",
+            "military strength"
+        ],
+        "main_readings": {
+            "kun": [
+                "いきお.い",
+                "はずみ"
+            ],
+            "on": [
+                "セイ",
+                "ゼイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "441": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "747": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "518": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "365": "A New Dictionary of Kanji Usage",
+                "735": "Classic Nelson (Andrew Nelson)",
+                "299": "Essential Kanji (P.G. O’Neill)",
+                "375": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2039": "Japanese Names (P.G. O’Neill)",
+                "646": "Kanji and Kana (Spahn and Hadamitzky)",
+                "656": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "865": "Kanji in Context (Nishiguchi and Kono)",
+                "227": "Kodansha Compact Kanji Guide",
+                "3542": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1829": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2487": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1529": "Les Kanjis dans la tete (Yves Maniette)",
+                "2422": "Morohashi",
+                "2857": "New Japanese English Character Dictionary (Jack Halpern)",
+                "558": "New Nelson (John Haig)",
+                "1515": "Remembering The Kanji (James Heisig)",
+                "1633": "Remembering The Kanji, 6th edition (James Heisig)",
+                "293": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "779": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1445": "2001 Kanji",
+                "2g11.6": "The Kanji Dictionary",
+                "2-11-2": "SKIP code",
+                "4442.7": "Four corner code",
+                "4542.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-10": "JIS X 0208-1997 kuten code",
+                "52e2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "せ"
+                ],
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "se"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "power,",
+            "parts": [
+                "丶",
+                "儿",
+                "力",
+                "九",
+                "土"
+            ],
+            "basis": "力",
+            "kangxi_order": 19,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "勢い",
+                    "reading": "いきおい",
+                    "meanings": [
+                        "force",
+                        "vigor",
+                        "vigour",
+                        "energy",
+                        "spirit",
+                        "life",
+                        "influence",
+                        "authority",
+                        "power",
+                        "might",
+                        "impetus",
+                        "momentum",
+                        "course (of events)",
+                        "naturally",
+                        "necessarily"
+                    ]
+                },
+                {
+                    "kanji": "勢い余る",
+                    "reading": "いきおいあまる",
+                    "meanings": [
+                        "to have excess momentum (from going too fast",
+                        "using too much force",
+                        "etc.)",
+                        "to get carried away",
+                        "to go overboard",
+                        "to overdo (something)"
+                    ]
+                },
+                {
+                    "kanji": "弾み",
+                    "reading": "はずみ",
+                    "meanings": [
+                        "bounce",
+                        "spring",
+                        "rebound",
+                        "momentum",
+                        "impetus",
+                        "impulse",
+                        "stimulus",
+                        "inertia",
+                        "moment",
+                        "instant",
+                        "impulse",
+                        "chance"
+                    ]
+                },
+                {
+                    "kanji": "弾車",
+                    "reading": "はずみぐるま",
+                    "meanings": [
+                        "flywheel"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "勢",
+                    "reading": "セイ",
+                    "meanings": [
+                        "energy",
+                        "military strength"
+                    ]
+                },
+                {
+                    "kanji": "勢力",
+                    "reading": "セイリョク",
+                    "meanings": [
+                        "influence",
+                        "power",
+                        "might",
+                        "strength",
+                        "potency",
+                        "force",
+                        "energy"
+                    ]
+                },
+                {
+                    "kanji": "国勢",
+                    "reading": "コクセイ",
+                    "meanings": [
+                        "state of a country (population",
+                        "resources",
+                        "etc.)",
+                        "condition of a country",
+                        "strength of a country"
+                    ]
+                },
+                {
+                    "kanji": "党勢",
+                    "reading": "トウセイ",
+                    "meanings": [
+                        "strength of a party"
+                    ]
+                },
+                {
+                    "kanji": "勢",
+                    "reading": "ゼイ",
+                    "meanings": [
+                        "group engaged in some activity (players",
+                        "companies",
+                        "forces",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "同勢",
+                    "reading": "ドウゼイ",
+                    "meanings": [
+                        "party",
+                        "company"
+                    ]
+                },
+                {
+                    "kanji": "猛勢",
+                    "reading": "モウセイ",
+                    "meanings": [
+                        "great strength",
+                        "courageous army",
+                        "valiant troops"
+                    ]
+                }
+            ]
+        }
+    }
+}

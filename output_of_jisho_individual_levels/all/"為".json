@@ -1,0 +1,341 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"為\"",
+        "strokes": 9,
+        "main_meanings": [
+            "do",
+            "change",
+            "make",
+            "benefit",
+            "welfare",
+            "be of use",
+            "reach to",
+            "try",
+            "practice",
+            "cost",
+            "serve as",
+            "good",
+            "advantage",
+            "as a result of"
+        ],
+        "main_readings": {
+            "kun": [
+                "ため",
+                "な.る",
+                "な.す",
+                "す.る",
+                "たり",
+                "つく.る",
+                "なり"
+            ],
+            "on": [
+                "イ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1003": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1137": "A New Dictionary of Kanji Usage",
+                "138": "Classic Nelson (Andrew Nelson)",
+                "977": "Essential Kanji (P.G. O’Neill)",
+                "1514": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1005": "Japanese Names (P.G. O’Neill)",
+                "1484": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1581": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "736": "Kanji in Context (Nishiguchi and Kono)",
+                "1274": "Kodansha Compact Kanji Guide",
+                "4395": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2225": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2994": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1937": "Les Kanjis dans la tete (Yves Maniette)",
+                "18981P": "Morohashi",
+                "3577": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3411": "New Nelson (John Haig)",
+                "1918": "Remembering The Kanji (James Heisig)",
+                "2067": "Remembering The Kanji, 6th edition (James Heisig)",
+                "446": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1277": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "950": "2001 Kanji",
+                "4d5.8": "The Kanji Dictionary",
+                "4-9-4": "SKIP code",
+                "3-5-4": "SKIP code",
+                "3402.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-57": "JIS X 0208-1997 kuten code",
+                "70ba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "びい"
+                ],
+                "chinese": [
+                    "wei4",
+                    "wei2"
+                ],
+                "korean": [
+                    "wi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "丶",
+                "ノ",
+                "并",
+                "勹",
+                "ユ",
+                "杰"
+            ],
+            "basis": "火",
+            "kangxi_order": null,
+            "variants": [
+                "爲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "為",
+                    "reading": "ため",
+                    "meanings": [
+                        "good",
+                        "advantage",
+                        "benefit",
+                        "welfare",
+                        "sake",
+                        "purpose",
+                        "objective",
+                        "aim",
+                        "consequence",
+                        "result",
+                        "effect",
+                        "affecting",
+                        "regarding",
+                        "concerning"
+                    ]
+                },
+                {
+                    "kanji": "為に",
+                    "reading": "ために",
+                    "meanings": [
+                        "for",
+                        "for the sake of",
+                        "to one's advantage",
+                        "in favor of",
+                        "in favour of",
+                        "on behalf of",
+                        "because of",
+                        "as a result of"
+                    ]
+                },
+                {
+                    "kanji": "外為",
+                    "reading": "がいため",
+                    "meanings": [
+                        "foreign exchange"
+                    ]
+                },
+                {
+                    "kanji": "念のため",
+                    "reading": "ねんのため",
+                    "meanings": [
+                        "(just) making sure",
+                        "just to be sure",
+                        "just in case",
+                        "for caution's sake"
+                    ]
+                },
+                {
+                    "kanji": "成る",
+                    "reading": "なる",
+                    "meanings": [
+                        "to become",
+                        "to get",
+                        "to grow",
+                        "to turn",
+                        "to reach",
+                        "to attain",
+                        "to result in",
+                        "to turn out",
+                        "to end up",
+                        "to prove (to be)",
+                        "to consist of",
+                        "to be composed of",
+                        "to be made up of",
+                        "to be completed",
+                        "to be realized",
+                        "to succeed",
+                        "to be attained",
+                        "to be accomplished",
+                        "to change (into)",
+                        "to turn (into)",
+                        "to transform",
+                        "to come (to do)",
+                        "to begin (to do)",
+                        "to grow (to do)",
+                        "to come to",
+                        "to amount to",
+                        "to add up to",
+                        "to make",
+                        "to play (the part of)",
+                        "to act as",
+                        "to be used for",
+                        "to be useful for",
+                        "to serve as",
+                        "to be promoted",
+                        "to do ..."
+                    ]
+                },
+                {
+                    "kanji": "為す",
+                    "reading": "なす",
+                    "meanings": [
+                        "to build up",
+                        "to establish",
+                        "to form",
+                        "to become (a state)",
+                        "to accomplish",
+                        "to achieve",
+                        "to succeed in",
+                        "to change into",
+                        "to do",
+                        "to perform",
+                        "to intend to",
+                        "to attempt",
+                        "to try"
+                    ]
+                },
+                {
+                    "kanji": "なす術",
+                    "reading": "なすすべ",
+                    "meanings": [
+                        "means",
+                        "method",
+                        "way"
+                    ]
+                },
+                {
+                    "kanji": "為る",
+                    "reading": "する",
+                    "meanings": [
+                        "to do",
+                        "to carry out",
+                        "to perform",
+                        "to cause to become",
+                        "to make (into)",
+                        "to turn (into)",
+                        "to serve as",
+                        "to act as",
+                        "to work as",
+                        "to wear (clothes",
+                        "a facial expression",
+                        "etc.)",
+                        "to judge as being",
+                        "to view as being",
+                        "to think of as",
+                        "to treat as",
+                        "to use as",
+                        "to decide on",
+                        "to choose",
+                        "to be sensed (of a smell",
+                        "noise",
+                        "etc.)",
+                        "to be (in a state",
+                        "condition",
+                        "etc.)",
+                        "to be worth",
+                        "to cost",
+                        "to pass (of time)",
+                        "to elapse",
+                        "to place",
+                        "or raise",
+                        "person A to a post or status B",
+                        "to transform A to B",
+                        "to make A into B",
+                        "to exchange A for B",
+                        "to make use of A for B",
+                        "to view A as B",
+                        "to handle A as if it were B",
+                        "to feel A about B",
+                        "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                        "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                        "to be just about to",
+                        "to be just starting to",
+                        "to try to",
+                        "to attempt to"
+                    ]
+                },
+                {
+                    "kanji": "成り",
+                    "reading": "なり",
+                    "meanings": [
+                        "promoted (of a piece)"
+                    ]
+                },
+                {
+                    "kanji": "成り代わる",
+                    "reading": "なりかわる",
+                    "meanings": [
+                        "to take over for (someone)",
+                        "to stand in for",
+                        "to substitute for",
+                        "to replace",
+                        "to take the place of (something)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "為政者",
+                    "reading": "イセイシャ",
+                    "meanings": [
+                        "statesman",
+                        "administrator",
+                        "politician",
+                        "policymaker"
+                    ]
+                },
+                {
+                    "kanji": "為公会",
+                    "reading": "イコウカイ",
+                    "meanings": [
+                        "Iko-kai (faction of the LDP)"
+                    ]
+                },
+                {
+                    "kanji": "人為",
+                    "reading": "ジンイ",
+                    "meanings": [
+                        "human work",
+                        "human agency",
+                        "art",
+                        "artificiality"
+                    ]
+                },
+                {
+                    "kanji": "営為",
+                    "reading": "エイイ",
+                    "meanings": [
+                        "business",
+                        "occupation"
+                    ]
+                }
+            ]
+        }
+    }
+}

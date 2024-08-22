@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"哉\"",
+        "strokes": 9,
+        "main_meanings": [
+            "how",
+            "what",
+            "alas",
+            "question mark",
+            "exclamation mark"
+        ],
+        "main_readings": {
+            "kun": [
+                "かな",
+                "や"
+            ],
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "777": "Classic Nelson (Andrew Nelson)",
+                "1940": "Essential Kanji (P.G. O’Neill)",
+                "1006": "Japanese Names (P.G. O’Neill)",
+                "2037": "Kanji and Kana (Spahn and Hadamitzky)",
+                "4084": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2071": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2807": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "3596": "Morohashi",
+                "3294": "New Japanese English Character Dictionary (Jack Halpern)",
+                "779": "New Nelson (John Haig)",
+                "2704": "Remembering The Kanji (James Heisig)",
+                "2741": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4n5.4": "The Kanji Dictionary",
+                "3-6-3": "SKIP code",
+                "4-9-4": "SKIP code",
+                "4365.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-40": "JIS X 0208-1997 kuten code",
+                "54c9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 すけ、 とし、 ちか、 はじめ"
+                ],
+                "chinese": [
+                    "zai1"
+                ],
+                "korean": [
+                    "jae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "土",
+                "戈"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "哉",
+                    "reading": "かな",
+                    "meanings": [
+                        "how!",
+                        "what!",
+                        "alas!"
+                    ]
+                },
+                {
+                    "kanji": "悲しいかな",
+                    "reading": "かなしいかな",
+                    "meanings": [
+                        "sad to say",
+                        "how sad",
+                        "alas"
+                    ]
+                },
+                {
+                    "kanji": "果たせるかな",
+                    "reading": "はたせるかな",
+                    "meanings": [
+                        "as expected"
+                    ]
+                },
+                {
+                    "kanji": "候哉",
+                    "reading": "そうろうや",
+                    "meanings": [
+                        "I wonder if ..."
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "快哉",
+                    "reading": "カイサイ",
+                    "meanings": [
+                        "joy",
+                        "exultation"
+                    ]
+                },
+                {
+                    "kanji": "悦哉",
+                    "reading": "エッサイ",
+                    "meanings": [
+                        "musket (male Japanese sparrowhawk)"
+                    ]
+                }
+            ]
+        }
+    }
+}

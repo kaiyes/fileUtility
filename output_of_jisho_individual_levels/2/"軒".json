@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"軒\"",
+        "strokes": 10,
+        "main_meanings": [
+            "flats",
+            "counter for houses",
+            "eaves"
+        ],
+        "main_readings": {
+            "kun": [
+                "のき"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1215": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1260": "A New Dictionary of Kanji Usage",
+                "4611": "Classic Nelson (Andrew Nelson)",
+                "953": "Essential Kanji (P.G. O’Neill)",
+                "939": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1187": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1246": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "508": "Kanji in Context (Nishiguchi and Kono)",
+                "1772": "Kodansha Compact Kanji Guide",
+                "1851": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "980": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1328": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1667": "Les Kanjis dans la tete (Yves Maniette)",
+                "38187": "Morohashi",
+                "1459": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5944": "New Nelson (John Haig)",
+                "1652": "Remembering The Kanji (James Heisig)",
+                "1781": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1393": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1555": "2001 Kanji",
+                "7c3.1": "The Kanji Dictionary",
+                "1-7-3": "SKIP code",
+                "5104.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-14": "JIS X 0208-1997 kuten code",
+                "8ed2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xuan1"
+                ],
+                "korean": [
+                    "heon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "干",
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "軒",
+                    "reading": "のき",
+                    "meanings": [
+                        "eaves",
+                        "narrow aisle surrounding the core of a temple building"
+                    ]
+                },
+                {
+                    "kanji": "軒並み",
+                    "reading": "のきなみ",
+                    "meanings": [
+                        "row of houses",
+                        "every house",
+                        "each house",
+                        "every door",
+                        "all",
+                        "totally",
+                        "altogether",
+                        "across the board"
+                    ]
+                },
+                {
+                    "kanji": "傍軒",
+                    "reading": "そばのき",
+                    "meanings": [
+                        "barge course"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "軒",
+                    "reading": "ケン",
+                    "meanings": [
+                        "counter for buildings (esp. houses)",
+                        "suffix for a pen name",
+                        "stage name",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "軒昂",
+                    "reading": "ケンコウ",
+                    "meanings": [
+                        "high-spirited",
+                        "in high spirits"
+                    ]
+                },
+                {
+                    "kanji": "一軒一軒",
+                    "reading": "イッケンイッケン",
+                    "meanings": [
+                        "each house",
+                        "every house",
+                        "house to house",
+                        "door to door"
+                    ]
+                }
+            ]
+        }
+    }
+}

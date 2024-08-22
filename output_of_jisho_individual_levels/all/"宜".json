@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宜\"",
+        "strokes": 8,
+        "main_meanings": [
+            "best regards",
+            "good"
+        ],
+        "main_readings": {
+            "kun": [
+                "よろ.しい",
+                "よろ.しく"
+            ],
+            "on": [
+                "ギ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1134": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1872": "A New Dictionary of Kanji Usage",
+                "1290": "Classic Nelson (Andrew Nelson)",
+                "1042": "Essential Kanji (P.G. O’Neill)",
+                "1207": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "675": "Japanese Names (P.G. O’Neill)",
+                "1086": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1137": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1658": "Kanji in Context (Nishiguchi and Kono)",
+                "478": "Kodansha Compact Kanji Guide",
+                "2763": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1414": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1909": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1799": "Les Kanjis dans la tete (Yves Maniette)",
+                "7111": "Morohashi",
+                "2223": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1317": "New Nelson (John Haig)",
+                "1783": "Remembering The Kanji (James Heisig)",
+                "1922": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1164": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "773": "2001 Kanji",
+                "3m5.7": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "3010.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-25": "JIS X 0208-1997 kuten code",
+                "5b9c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "き、 たか、 のぶ、 のり、 よし"
+                ],
+                "chinese": [
+                    "yi2"
+                ],
+                "korean": [
+                    "eui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "宀",
+                "目"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": [
+                "冝"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "宜しい",
+                    "reading": "よろしい",
+                    "meanings": [
+                        "good",
+                        "OK",
+                        "all right",
+                        "fine",
+                        "very well",
+                        "will do",
+                        "may",
+                        "can"
+                    ]
+                },
+                {
+                    "kanji": "宜しく",
+                    "reading": "よろしく",
+                    "meanings": [
+                        "well",
+                        "properly",
+                        "suitably",
+                        "best regards",
+                        "please remember me",
+                        "please treat me favorably (favourably)",
+                        "please take care of",
+                        "please do",
+                        "just like ...",
+                        "as though one were ...",
+                        "by all means",
+                        "of course"
+                    ]
+                },
+                {
+                    "kanji": "よろしくお願いいたします",
+                    "reading": "よろしくおねがいいたします",
+                    "meanings": [
+                        "please remember me",
+                        "please help me",
+                        "please treat me well",
+                        "I look forward to working with you",
+                        "please do",
+                        "please take care of"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "宜陽殿",
+                    "reading": "ギヨウデン",
+                    "meanings": [
+                        "pavilion housing imperial treasures and historical artifacts (in Heian Palace)"
+                    ]
+                },
+                {
+                    "kanji": "時宜",
+                    "reading": "ジギ",
+                    "meanings": [
+                        "right time",
+                        "appropriate time",
+                        "season's greetings"
+                    ]
+                },
+                {
+                    "kanji": "友誼",
+                    "reading": "ユウギ",
+                    "meanings": [
+                        "friendship",
+                        "friendly relations",
+                        "fellowship"
+                    ]
+                }
+            ]
+        }
+    }
+}

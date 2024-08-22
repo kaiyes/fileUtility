@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"架\"",
+        "strokes": 9,
+        "main_meanings": [
+            "erect",
+            "frame",
+            "mount",
+            "support",
+            "shelf",
+            "construct"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.ける",
+                "か.かる"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1045": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1659": "A New Dictionary of Kanji Usage",
+                "2237": "Classic Nelson (Andrew Nelson)",
+                "1085": "Essential Kanji (P.G. O’Neill)",
+                "1423": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "755": "Kanji and Kana (Spahn and Hadamitzky)",
+                "768": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1704": "Kanji in Context (Nishiguchi and Kono)",
+                "1055": "Kodansha Compact Kanji Guide",
+                "3178": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1638": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2226": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "878": "Les Kanjis dans la tete (Yves Maniette)",
+                "14586": "Morohashi",
+                "2569": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2632": "New Nelson (John Haig)",
+                "869": "Remembering The Kanji (James Heisig)",
+                "934": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1267": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1664": "2001 Kanji",
+                "4a5.36": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "4690.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-45": "JIS X 0208-1997 kuten code",
+                "67b6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jia4"
+                ],
+                "korean": [
+                    "ga"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "力",
+                "口",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "架ける",
+                    "reading": "かける",
+                    "meanings": [
+                        "to suspend between two points",
+                        "to build (a bridge",
+                        "etc.)",
+                        "to put up on something (e.g. legs up on table)"
+                    ]
+                },
+                {
+                    "kanji": "架かる",
+                    "reading": "かかる",
+                    "meanings": [
+                        "to span",
+                        "to bridge",
+                        "to cross",
+                        "to straddle"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "架",
+                    "reading": "カ",
+                    "meanings": [
+                        "rack",
+                        "mount",
+                        "stand"
+                    ]
+                },
+                {
+                    "kanji": "架空",
+                    "reading": "カクウ",
+                    "meanings": [
+                        "fictitious",
+                        "imaginary",
+                        "fanciful",
+                        "fabricated",
+                        "aerial",
+                        "overhead"
+                    ]
+                },
+                {
+                    "kanji": "高架",
+                    "reading": "コウカ",
+                    "meanings": [
+                        "elevated (structure)",
+                        "overhead"
+                    ]
+                },
+                {
+                    "kanji": "担架",
+                    "reading": "タンカ",
+                    "meanings": [
+                        "stretcher",
+                        "litter (medical)",
+                        "gurney"
+                    ]
+                }
+            ]
+        }
+    }
+}

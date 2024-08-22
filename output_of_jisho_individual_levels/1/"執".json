@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"執\"",
+        "strokes": 11,
+        "main_meanings": [
+            "tenacious",
+            "take hold",
+            "grasp",
+            "take to heart"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.る"
+            ],
+            "on": [
+                "シツ",
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1332": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "965": "A New Dictionary of Kanji Usage",
+                "1097": "Classic Nelson (Andrew Nelson)",
+                "1231": "Essential Kanji (P.G. O’Neill)",
+                "1152": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1420": "Japanese Names (P.G. O’Neill)",
+                "686": "Kanji and Kana (Spahn and Hadamitzky)",
+                "699": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1823": "Kanji in Context (Nishiguchi and Kono)",
+                "351": "Kodansha Compact Kanji Guide",
+                "2114": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1102": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1501": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1520": "Les Kanjis dans la tete (Yves Maniette)",
+                "5193": "Morohashi",
+                "1680": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1039": "New Nelson (John Haig)",
+                "1506": "Remembering The Kanji (James Heisig)",
+                "1623": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1418": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1457": "2001 Kanji",
+                "3b8.15": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "4441.7": "Four corner code",
+                "4541.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-25": "JIS X 0208-1997 kuten code",
+                "57f7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "し"
+                ],
+                "chinese": [
+                    "zhi2"
+                ],
+                "korean": [
+                    "jib"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "丶",
+                "ノ",
+                "亠",
+                "十",
+                "九",
+                "土",
+                "立",
+                "辛"
+            ],
+            "basis": "土",
+            "kangxi_order": 32,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "執る",
+                    "reading": "とる",
+                    "meanings": [
+                        "to take (trouble)",
+                        "to attend (to business)",
+                        "to command (army)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "執務",
+                    "reading": "シツム",
+                    "meanings": [
+                        "performance of one's official duties"
+                    ]
+                },
+                {
+                    "kanji": "執拗い",
+                    "reading": "シツコイ",
+                    "meanings": [
+                        "insistent",
+                        "obstinate",
+                        "persistent",
+                        "tenacious",
+                        "too rich (taste",
+                        "etc.)",
+                        "fatty",
+                        "heavy",
+                        "greasy"
+                    ]
+                },
+                {
+                    "kanji": "中執",
+                    "reading": "チュウシツ",
+                    "meanings": [
+                        "Central Executive Committee"
+                    ]
+                },
+                {
+                    "kanji": "確執",
+                    "reading": "カクシツ",
+                    "meanings": [
+                        "discord",
+                        "antagonism"
+                    ]
+                },
+                {
+                    "kanji": "執",
+                    "reading": "シュウ",
+                    "meanings": [
+                        "attachment",
+                        "obsession",
+                        "persistence"
+                    ]
+                },
+                {
+                    "kanji": "執行",
+                    "reading": "シッコウ",
+                    "meanings": [
+                        "execution",
+                        "carrying out",
+                        "performance",
+                        "enforcement",
+                        "exercise",
+                        "service",
+                        "conduct",
+                        "execution",
+                        "lead monk performing various tasks in a temple"
+                    ]
+                },
+                {
+                    "kanji": "愛執",
+                    "reading": "アイシュウ",
+                    "meanings": [
+                        "attachment",
+                        "covetous affection"
+                    ]
+                },
+                {
+                    "kanji": "妄執",
+                    "reading": "モウシュウ",
+                    "meanings": [
+                        "deep-rooted delusion",
+                        "firm conviction (based on incorrect beliefs)"
+                    ]
+                }
+            ]
+        }
+    }
+}

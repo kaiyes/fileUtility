@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"韻\"",
+        "strokes": 19,
+        "main_meanings": [
+            "rhyme",
+            "elegance",
+            "tone"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "イン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1015": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1940": "A New Dictionary of Kanji Usage",
+                "5115": "Classic Nelson (Andrew Nelson)",
+                "1294": "Essential Kanji (P.G. O’Neill)",
+                "1895": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2824": "Japanese Names (P.G. O’Neill)",
+                "349": "Kanji and Kana (Spahn and Hadamitzky)",
+                "350": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1903": "Kanji in Context (Nishiguchi and Kono)",
+                "1880": "Kodansha Compact Kanji Guide",
+                "2279": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1178": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1609": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "492": "Les Kanjis dans la tete (Yves Maniette)",
+                "43307": "Morohashi",
+                "1811": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6611": "New Nelson (John Haig)",
+                "481": "Remembering The Kanji (James Heisig)",
+                "520": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1925": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "461": "2001 Kanji",
+                "7b12.2": "The Kanji Dictionary",
+                "1-9-10": "SKIP code",
+                "0668.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-04": "JIS X 0208-1997 kuten code",
+                "97fb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yun4"
+                ],
+                "korean": [
+                    "un"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sound",
+            "parts": [
+                "ハ",
+                "口",
+                "日",
+                "目",
+                "立",
+                "貝",
+                "音"
+            ],
+            "basis": "音",
+            "kangxi_order": 180,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "韻",
+                    "reading": "イン",
+                    "meanings": [
+                        "rhyme",
+                        "rhyme (of a Chinese character)",
+                        "rime"
+                    ]
+                },
+                {
+                    "kanji": "韻律",
+                    "reading": "インリツ",
+                    "meanings": [
+                        "metre (of a poem)",
+                        "meter",
+                        "rhythm",
+                        "prosody"
+                    ]
+                },
+                {
+                    "kanji": "哀韻",
+                    "reading": "アイイン",
+                    "meanings": [
+                        "sad tone (of music",
+                        "words",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "類韻",
+                    "reading": "ルイイン",
+                    "meanings": [
+                        "assonance"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"罷\"",
+        "strokes": 15,
+        "main_meanings": [
+            "quit",
+            "stop",
+            "leave",
+            "withdraw",
+            "go"
+        ],
+        "main_readings": {
+            "kun": [
+                "まか.り-",
+                "や.める"
+            ],
+            "on": [
+                "ヒ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1732": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1790": "A New Dictionary of Kanji Usage",
+                "3649": "Classic Nelson (Andrew Nelson)",
+                "1870": "Essential Kanji (P.G. O’Neill)",
+                "1655": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1861": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2019": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1671": "Kanji in Context (Nishiguchi and Kono)",
+                "1468": "Kodansha Compact Kanji Guide",
+                "3234": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1676": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2272": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2051": "Les Kanjis dans la tete (Yves Maniette)",
+                "28336": "Morohashi",
+                "2617": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4650": "New Nelson (John Haig)",
+                "2032": "Remembering The Kanji (James Heisig)",
+                "2188": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1795": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3656": "2001 Kanji",
+                "5g10.2": "The Kanji Dictionary",
+                "2-5-10": "SKIP code",
+                "6021.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-77": "JIS X 0208-1997 kuten code",
+                "7f77": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ba4",
+                    "ba5",
+                    "pi2"
+                ],
+                "korean": [
+                    "pa",
+                    "pi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "罒",
+                "⺲",
+                "罓",
+                "⺳"
+            ],
+            "meaning": "net",
+            "parts": [
+                "匕",
+                "厶",
+                "月",
+                "買"
+            ],
+            "basis": "网",
+            "kangxi_order": 122,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "辞める",
+                    "reading": "やめる",
+                    "meanings": [
+                        "to resign",
+                        "to retire",
+                        "to quit",
+                        "to leave (one's job",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "罷免",
+                    "reading": "ヒメン",
+                    "meanings": [
+                        "dismissal (from a position)",
+                        "discharge"
+                    ]
+                },
+                {
+                    "kanji": "罷官",
+                    "reading": "ヒカン",
+                    "meanings": [
+                        "removal from office"
+                    ]
+                }
+            ]
+        }
+    }
+}

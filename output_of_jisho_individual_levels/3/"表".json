@@ -1,0 +1,234 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"表\"",
+        "strokes": 8,
+        "main_meanings": [
+            "surface",
+            "table",
+            "chart",
+            "diagram"
+        ],
+        "main_readings": {
+            "kun": [
+                "おもて",
+                "-おもて",
+                "あらわ.す",
+                "あらわ.れる",
+                "あら.わす"
+            ],
+            "on": [
+                "ヒョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "309": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "402": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "379": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "124": "A New Dictionary of Kanji Usage",
+                "108": "Classic Nelson (Andrew Nelson)",
+                "308": "Essential Kanji (P.G. O’Neill)",
+                "879": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "914": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "272": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "437": "Kanji in Context (Nishiguchi and Kono)",
+                "1620": "Kodansha Compact Kanji Guide",
+                "3083": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1572": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2151": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1560": "Les Kanjis dans la tete (Yves Maniette)",
+                "34105": "Morohashi",
+                "2429": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5422": "New Nelson (John Haig)",
+                "1546": "Remembering The Kanji (James Heisig)",
+                "1666": "Remembering The Kanji, 6th edition (James Heisig)",
+                "178": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "311": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1465": "2001 Kanji",
+                "0a8.6": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "5073.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-29": "JIS X 0208-1997 kuten code",
+                "8868": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "biao3"
+                ],
+                "korean": [
+                    "pyo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "士",
+                "衣"
+            ],
+            "basis": "衣",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "表",
+                    "reading": "おもて",
+                    "meanings": [
+                        "surface",
+                        "face (i.e. the visible side of an object)",
+                        "front (of a building",
+                        "etc.)",
+                        "obverse side (i.e. \"head\") of a coin",
+                        "outside",
+                        "exterior",
+                        "appearance",
+                        "public",
+                        "first half (of an inning)",
+                        "top (of an inning)",
+                        "cover (for tatami mats",
+                        "etc.)",
+                        "foreground",
+                        "Omotesenke school of tea ceremony"
+                    ]
+                },
+                {
+                    "kanji": "表裏",
+                    "reading": "ひょうり",
+                    "meanings": [
+                        "front and back",
+                        "inside and outside",
+                        "two sides",
+                        "both sides",
+                        "duplicity",
+                        "double-dealing",
+                        "being two-faced"
+                    ]
+                },
+                {
+                    "kanji": "京表",
+                    "reading": "きょうおもて",
+                    "meanings": [
+                        "vicinity of Kyoto"
+                    ]
+                },
+                {
+                    "kanji": "中表",
+                    "reading": "なかおもて",
+                    "meanings": [
+                        "cloth folded inside out"
+                    ]
+                },
+                {
+                    "kanji": "表す",
+                    "reading": "あらわす",
+                    "meanings": [
+                        "to represent",
+                        "to signify",
+                        "to stand for",
+                        "to reveal",
+                        "to show",
+                        "to display",
+                        "to express",
+                        "to make widely known"
+                    ]
+                },
+                {
+                    "kanji": "現れる",
+                    "reading": "あらわれる",
+                    "meanings": [
+                        "to appear",
+                        "to come in sight",
+                        "to become visible",
+                        "to come out",
+                        "to embody",
+                        "to materialize",
+                        "to materialise",
+                        "to be expressed (e.g. emotions)",
+                        "to become apparent (e.g. trends",
+                        "effects)"
+                    ]
+                },
+                {
+                    "kanji": "表す",
+                    "reading": "あらわす",
+                    "meanings": [
+                        "to represent",
+                        "to signify",
+                        "to stand for",
+                        "to reveal",
+                        "to show",
+                        "to display",
+                        "to express",
+                        "to make widely known"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "表",
+                    "reading": "ヒョウ",
+                    "meanings": [
+                        "table",
+                        "chart",
+                        "list",
+                        "memorial to an emperor"
+                    ]
+                },
+                {
+                    "kanji": "表記",
+                    "reading": "ヒョウキ",
+                    "meanings": [
+                        "expression in writing",
+                        "written representation",
+                        "notation",
+                        "transcription",
+                        "orthography",
+                        "writing on the surface (e.g. an address on an envelope)",
+                        "inscribing on the face"
+                    ]
+                },
+                {
+                    "kanji": "一覧表",
+                    "reading": "イチランヒョウ",
+                    "meanings": [
+                        "list",
+                        "table",
+                        "schedule",
+                        "catalogue",
+                        "catalog"
+                    ]
+                },
+                {
+                    "kanji": "意表",
+                    "reading": "イヒョウ",
+                    "meanings": [
+                        "surprise",
+                        "something unexpected"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"険\"",
+        "strokes": 11,
+        "main_meanings": [
+            "precipitous",
+            "inaccessible place",
+            "impregnable position",
+            "steep place",
+            "sharp eyes"
+        ],
+        "main_readings": {
+            "kun": [
+                "けわ.しい"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "770": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "689": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "662": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "616": "A New Dictionary of Kanji Usage",
+                "5000": "Classic Nelson (Andrew Nelson)",
+                "356": "Essential Kanji (P.G. O’Neill)",
+                "988": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1308": "Japanese Names (P.G. O’Neill)",
+                "533": "Kanji and Kana (Spahn and Hadamitzky)",
+                "542": "New Japanese English Character Dictionary (Jack Halpern)",
+                "790": "Kanji in Context (Nishiguchi and Kono)",
+                "736": "Kodansha Compact Kanji Guide",
+                "658": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "398": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "495": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1688": "Les Kanjis dans la tete (Yves Maniette)",
+                "41721P": "Morohashi",
+                "6456": "New Nelson (John Haig)",
+                "1672": "Remembering The Kanji (James Heisig)",
+                "1802": "Remembering The Kanji, 6th edition (James Heisig)",
+                "731": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3663": "2001 Kanji",
+                "2d8.8": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "7823.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-17": "JIS X 0208-1997 kuten code",
+                "967a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xian3"
+                ],
+                "korean": [
+                    "heom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 left) 阜 (阝"
+            ],
+            "meaning": "mound,",
+            "parts": [
+                "人",
+                "个",
+                "口",
+                "阡"
+            ],
+            "basis": "dam",
+            "kangxi_order": 170,
+            "variants": [
+                "險"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "険しい",
+                    "reading": "けわしい",
+                    "meanings": [
+                        "precipitous",
+                        "rugged",
+                        "inaccessible",
+                        "impregnable",
+                        "steep",
+                        "grim",
+                        "severe",
+                        "stern"
+                    ]
+                },
+                {
+                    "kanji": "険しい顔",
+                    "reading": "けわしいかお",
+                    "meanings": [
+                        "grim face"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "険",
+                    "reading": "ケン",
+                    "meanings": [
+                        "steepness",
+                        "steep place",
+                        "harsh (look)",
+                        "sharp (tongue)"
+                    ]
+                },
+                {
+                    "kanji": "険悪",
+                    "reading": "ケンアク",
+                    "meanings": [
+                        "dangerous",
+                        "perilous",
+                        "threatening",
+                        "stormy",
+                        "volatile",
+                        "tense",
+                        "critical",
+                        "serious",
+                        "stern (expression)",
+                        "hostile (attitude)",
+                        "sharp",
+                        "harsh"
+                    ]
+                },
+                {
+                    "kanji": "損害保険",
+                    "reading": "ソンガイホケン",
+                    "meanings": [
+                        "damage insurance"
+                    ]
+                },
+                {
+                    "kanji": "社会保険",
+                    "reading": "シャカイホケン",
+                    "meanings": [
+                        "social insurance"
+                    ]
+                }
+            ]
+        }
+    }
+}

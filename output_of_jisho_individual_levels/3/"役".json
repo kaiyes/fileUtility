@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"役\"",
+        "strokes": 7,
+        "main_meanings": [
+            "duty",
+            "war",
+            "campaign",
+            "drafted labor",
+            "office",
+            "service",
+            "role"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ヤク",
+                "エキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "324": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "419": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "397": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "315": "A New Dictionary of Kanji Usage",
+                "1598": "Classic Nelson (Andrew Nelson)",
+                "171": "Essential Kanji (P.G. O’Neill)",
+                "519": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "368": "Japanese Names (P.G. O’Neill)",
+                "375": "Kanji and Kana (Spahn and Hadamitzky)",
+                "376": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "609": "Kanji in Context (Nishiguchi and Kono)",
+                "620": "Kodansha Compact Kanji Guide",
+                "288": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "181": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "217": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "893": "Les Kanjis dans la tete (Yves Maniette)",
+                "10057": "Morohashi",
+                "244": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1726": "New Nelson (John Haig)",
+                "884": "Remembering The Kanji (James Heisig)",
+                "949": "Remembering The Kanji, 6th edition (James Heisig)",
+                "266": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "290": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2068": "2001 Kanji",
+                "3i4.2": "The Kanji Dictionary",
+                "1-3-4": "SKIP code",
+                "2724.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-82": "JIS X 0208-1997 kuten code",
+                "5f79": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ちゃく"
+                ],
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "yeog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "几",
+                "又",
+                "彳",
+                "殳"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "役",
+                    "reading": "ヤク",
+                    "meanings": [
+                        "role",
+                        "assignment",
+                        "responsibility",
+                        "duty",
+                        "function",
+                        "job",
+                        "service",
+                        "position (of responsibility)",
+                        "post",
+                        "office",
+                        "part (in a play",
+                        "film",
+                        "etc.)",
+                        "role",
+                        "character",
+                        "scoring combination",
+                        "hand",
+                        "yaku",
+                        "meld"
+                    ]
+                },
+                {
+                    "kanji": "役員",
+                    "reading": "ヤクイン",
+                    "meanings": [
+                        "director",
+                        "executive",
+                        "officer",
+                        "official",
+                        "person in charge"
+                    ]
+                },
+                {
+                    "kanji": "悪役",
+                    "reading": "アクヤク",
+                    "meanings": [
+                        "villain",
+                        "baddie",
+                        "the villain's part"
+                    ]
+                },
+                {
+                    "kanji": "大役",
+                    "reading": "タイヤク",
+                    "meanings": [
+                        "important task",
+                        "important role",
+                        "great duty",
+                        "important mission",
+                        "major part (in a film",
+                        "play",
+                        "etc.)",
+                        "leading role",
+                        "high-scoring combination"
+                    ]
+                },
+                {
+                    "kanji": "役",
+                    "reading": "エキ",
+                    "meanings": [
+                        "war",
+                        "campaign",
+                        "battle",
+                        "unpaid work (ritsuryō system)",
+                        "forced labor"
+                    ]
+                },
+                {
+                    "kanji": "役務",
+                    "reading": "エキム",
+                    "meanings": [
+                        "labor",
+                        "labour",
+                        "service"
+                    ]
+                },
+                {
+                    "kanji": "荷役",
+                    "reading": "ニエキ",
+                    "meanings": [
+                        "handling cargo",
+                        "loading and unloading"
+                    ]
+                },
+                {
+                    "kanji": "就役",
+                    "reading": "シュウエキ",
+                    "meanings": [
+                        "being placed on duty",
+                        "going into commission (of a warship",
+                        "freighter",
+                        "etc.)",
+                        "being placed in commission"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"灯\"",
+        "strokes": 6,
+        "main_meanings": [
+            "lamp",
+            "a light",
+            "light",
+            "counter for lights"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひ",
+                "ほ-",
+                "ともしび",
+                "とも.す",
+                "あかり"
+            ],
+            "on": [
+                "トウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "583": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "556": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1290": "A New Dictionary of Kanji Usage",
+                "2745": "Classic Nelson (Andrew Nelson)",
+                "537": "Essential Kanji (P.G. O’Neill)",
+                "711": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1333": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1416": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "871": "Kanji in Context (Nishiguchi and Kono)",
+                "1262": "Kodansha Compact Kanji Guide",
+                "1019": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "552": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "730": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "167": "Les Kanjis dans la tete (Yves Maniette)",
+                "18855": "Morohashi",
+                "825": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3395": "New Nelson (John Haig)",
+                "165": "Remembering The Kanji (James Heisig)",
+                "177": "Remembering The Kanji, 6th edition (James Heisig)",
+                "471": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1153": "2001 Kanji",
+                "4d2.1": "The Kanji Dictionary",
+                "1-4-2": "SKIP code",
+                "1-1-5": "SKIP code",
+                "9182.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-84": "JIS X 0208-1997 kuten code",
+                "706f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "deng1"
+                ],
+                "korean": [
+                    "deung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "一",
+                "亅",
+                "火"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": [
+                "燈"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "灯",
+                    "reading": "ひ",
+                    "meanings": [
+                        "light",
+                        "lamp"
+                    ]
+                },
+                {
+                    "kanji": "灯明かり",
+                    "reading": "ひあかり",
+                    "meanings": [
+                        "lamplight",
+                        "torchlight"
+                    ]
+                },
+                {
+                    "kanji": "灯火",
+                    "reading": "ともしび",
+                    "meanings": [
+                        "light",
+                        "lamp",
+                        "torch"
+                    ]
+                },
+                {
+                    "kanji": "灯す",
+                    "reading": "ともす",
+                    "meanings": [
+                        "to light (a candle",
+                        "lamp",
+                        "etc.)",
+                        "to turn on (a light)"
+                    ]
+                },
+                {
+                    "kanji": "明かり",
+                    "reading": "あかり",
+                    "meanings": [
+                        "light",
+                        "illumination",
+                        "glow",
+                        "gleam",
+                        "lamp",
+                        "light"
+                    ]
+                },
+                {
+                    "kanji": "明かりを消す",
+                    "reading": "あかりをけす",
+                    "meanings": [
+                        "to turn the lights off"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "灯",
+                    "reading": "トウ",
+                    "meanings": [
+                        "light",
+                        "lamp",
+                        "counter for electric lights"
+                    ]
+                },
+                {
+                    "kanji": "灯台",
+                    "reading": "トウダイ",
+                    "meanings": [
+                        "lighthouse",
+                        "old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it"
+                    ]
+                },
+                {
+                    "kanji": "消灯",
+                    "reading": "ショウトウ",
+                    "meanings": [
+                        "putting out the lights",
+                        "turning off the lights"
+                    ]
+                },
+                {
+                    "kanji": "探海灯",
+                    "reading": "タンカイトウ",
+                    "meanings": [
+                        "searchlight"
+                    ]
+                }
+            ]
+        }
+    }
+}

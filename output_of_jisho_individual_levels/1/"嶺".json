@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"嶺\"",
+        "strokes": 17,
+        "main_meanings": [
+            "peak",
+            "summit"
+        ],
+        "main_readings": {
+            "kun": [
+                "みね"
+            ],
+            "on": [
+                "レイ",
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1440": "Classic Nelson (Andrew Nelson)",
+                "2776": "Japanese Names (P.G. O’Neill)",
+                "2058": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3013": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1540": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2102": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "8553": "Morohashi",
+                "2376": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1517": "New Nelson (John Haig)",
+                "2228": "Remembering The Kanji (James Heisig)",
+                "2336": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3o14.2": "The Kanji Dictionary",
+                "2-3-14": "SKIP code",
+                "2238.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-70": "JIS X 0208-1997 kuten code",
+                "5dba": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ね"
+                ],
+                "chinese": [
+                    "ling3"
+                ],
+                "korean": [
+                    "ryeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "一",
+                "个",
+                "ハ",
+                "卩",
+                "山",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "山",
+            "kangxi_order": 46,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "峰",
+                    "reading": "みね",
+                    "meanings": [
+                        "peak",
+                        "summit",
+                        "ridge",
+                        "top",
+                        "back of a blade"
+                    ]
+                },
+                {
+                    "kanji": "峰桜",
+                    "reading": "みねざくら",
+                    "meanings": [
+                        "Japanese alpine cherry (Prunus nipponica)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "高嶺",
+                    "reading": "タカネ",
+                    "meanings": [
+                        "high peak"
+                    ]
+                },
+                {
+                    "kanji": "分水嶺",
+                    "reading": "ブンスイレイ",
+                    "meanings": [
+                        "watershed",
+                        "divide"
+                    ]
+                }
+            ]
+        }
+    }
+}

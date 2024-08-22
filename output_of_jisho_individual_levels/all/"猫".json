@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"猫\"",
+        "strokes": 11,
+        "main_meanings": [
+            "cat"
+        ],
+        "main_readings": {
+            "kun": [
+                "ねこ"
+            ],
+            "on": [
+                "ビョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1742": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1763": "A New Dictionary of Kanji Usage",
+                "2893": "Classic Nelson (Andrew Nelson)",
+                "730": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1304": "Kodansha Compact Kanji Guide",
+                "1470": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1567": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1410": "Kanji in Context (Nishiguchi and Kono)",
+                "651": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "391": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "488": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "250": "Les Kanjis dans la tete (Yves Maniette)",
+                "20535X": "Morohashi",
+                "535": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3586": "New Nelson (John Haig)",
+                "244": "Remembering The Kanji (James Heisig)",
+                "259": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1461": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2976": "2001 Kanji",
+                "3g8.5": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "4426.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-13": "JIS X 0208-1997 kuten code",
+                "732b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mao1",
+                    "mao2"
+                ],
+                "korean": [
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "犯",
+                "艾",
+                "田"
+            ],
+            "basis": "犬",
+            "kangxi_order": 94,
+            "variants": [
+                "貓"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "猫",
+                    "reading": "ねこ",
+                    "meanings": [
+                        "cat (esp. the domestic cat",
+                        "Felis catus)",
+                        "shamisen",
+                        "geisha",
+                        "wheelbarrow",
+                        "clay bed-warmer",
+                        "bottom (submissive partner of a homosexual relationship)"
+                    ]
+                },
+                {
+                    "kanji": "猫",
+                    "reading": "ねこま",
+                    "meanings": [
+                        "cat"
+                    ]
+                },
+                {
+                    "kanji": "野良猫",
+                    "reading": "のらねこ",
+                    "meanings": [
+                        "stray cat",
+                        "alley cat"
+                    ]
+                },
+                {
+                    "kanji": "山猫",
+                    "reading": "やまねこ",
+                    "meanings": [
+                        "wildcat (European wildcat",
+                        "Iriomote cat",
+                        "Tsushima cat",
+                        "etc.)",
+                        "wild cat",
+                        "stray cat"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "猫額",
+                    "reading": "ビョウガク",
+                    "meanings": [
+                        "(as small as a) cat's forehead"
+                    ]
+                },
+                {
+                    "kanji": "猫額大",
+                    "reading": "ビョウガクダイ",
+                    "meanings": [
+                        "tiny"
+                    ]
+                },
+                {
+                    "kanji": "怪猫",
+                    "reading": "カイビョウ",
+                    "meanings": [
+                        "monster cat",
+                        "cat with magical powers"
+                    ]
+                },
+                {
+                    "kanji": "成猫",
+                    "reading": "セイビョウ",
+                    "meanings": [
+                        "adult cat",
+                        "fully-grown cat"
+                    ]
+                }
+            ]
+        }
+    }
+}

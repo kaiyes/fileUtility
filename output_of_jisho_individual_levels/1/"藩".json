@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"藩\"",
+        "strokes": 18,
+        "main_meanings": [
+            "clan",
+            "enclosure"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ハン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1721": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1566": "A New Dictionary of Kanji Usage",
+                "4089": "Classic Nelson (Andrew Nelson)",
+                "1549": "Essential Kanji (P.G. O’Neill)",
+                "1709": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2771": "Japanese Names (P.G. O’Neill)",
+                "1382": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1470": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1890": "Kanji in Context (Nishiguchi and Kono)",
+                "673": "Kodansha Compact Kanji Guide",
+                "3022": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1541": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2106": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1931": "Les Kanjis dans la tete (Yves Maniette)",
+                "32346P": "Morohashi",
+                "2379": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5242": "New Nelson (John Haig)",
+                "1912": "Remembering The Kanji (James Heisig)",
+                "2061": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1904": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1976": "2001 Kanji",
+                "3k15.4": "The Kanji Dictionary",
+                "2-3-15": "SKIP code",
+                "4416.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-45": "JIS X 0208-1997 kuten code",
+                "85e9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fan2",
+                    "fan1"
+                ],
+                "korean": [
+                    "beon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "汁",
+                "艾",
+                "田",
+                "米",
+                "釆"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "藩",
+                    "reading": "ハン",
+                    "meanings": [
+                        "han (estate of a daimyo in the Edo and early Meiji periods)",
+                        "feudal domain",
+                        "fief",
+                        "province"
+                    ]
+                },
+                {
+                    "kanji": "藩主",
+                    "reading": "ハンシュ",
+                    "meanings": [
+                        "feudal lord",
+                        "daimyo"
+                    ]
+                },
+                {
+                    "kanji": "大藩",
+                    "reading": "タイハン",
+                    "meanings": [
+                        "large feudal domain",
+                        "large fiefdom"
+                    ]
+                },
+                {
+                    "kanji": "廃藩",
+                    "reading": "ハイハン",
+                    "meanings": [
+                        "abolition of the han system (1871)"
+                    ]
+                }
+            ]
+        }
+    }
+}

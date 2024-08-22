@@ -1,0 +1,191 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"偽\"",
+        "strokes": 11,
+        "main_meanings": [
+            "falsehood",
+            "lie",
+            "deceive",
+            "pretend",
+            "counterfeit",
+            "forgery"
+        ],
+        "main_readings": {
+            "kun": [
+                "いつわ.る",
+                "にせ",
+                "いつわ.り"
+            ],
+            "on": [
+                "ギ",
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1135": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1639": "A New Dictionary of Kanji Usage",
+                "510": "Classic Nelson (Andrew Nelson)",
+                "1157": "Essential Kanji (P.G. O’Neill)",
+                "1061": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1485": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1582": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1428": "Kanji in Context (Nishiguchi and Kono)",
+                "116": "Kodansha Compact Kanji Guide",
+                "149": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "99": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "114": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1938": "Les Kanjis dans la tete (Yves Maniette)",
+                "927P": "Morohashi",
+                "131": "New Japanese English Character Dictionary (Jack Halpern)",
+                "276": "New Nelson (John Haig)",
+                "1919": "Remembering The Kanji (James Heisig)",
+                "2068": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1408": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2150": "2001 Kanji",
+                "2a9.2": "The Kanji Dictionary",
+                "1-2-9": "SKIP code",
+                "2422.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-22": "JIS X 0208-1997 kuten code",
+                "507d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wei4"
+                ],
+                "korean": [
+                    "wi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "ユ",
+                "丶",
+                "ノ",
+                "化",
+                "并",
+                "勹",
+                "杰"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "僞"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "偽る",
+                    "reading": "いつわる",
+                    "meanings": [
+                        "to lie",
+                        "to pretend",
+                        "to feign",
+                        "to falsify",
+                        "to deceive",
+                        "to trick"
+                    ]
+                },
+                {
+                    "kanji": "偽",
+                    "reading": "にせ",
+                    "meanings": [
+                        "imitation",
+                        "fake",
+                        "phony",
+                        "counterfeit",
+                        "forged",
+                        "bogus",
+                        "sham",
+                        "pseudo-"
+                    ]
+                },
+                {
+                    "kanji": "偽物",
+                    "reading": "にせもの",
+                    "meanings": [
+                        "spurious article",
+                        "forgery",
+                        "counterfeit",
+                        "imitation",
+                        "sham"
+                    ]
+                },
+                {
+                    "kanji": "偽り",
+                    "reading": "いつわり",
+                    "meanings": [
+                        "lie",
+                        "falsehood",
+                        "fiction",
+                        "fabrication"
+                    ]
+                },
+                {
+                    "kanji": "偽り語る",
+                    "reading": "いつわりかたる",
+                    "meanings": [
+                        "to speak falsely"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "偽",
+                    "reading": "ギ",
+                    "meanings": [
+                        "falseness",
+                        "falsehood"
+                    ]
+                },
+                {
+                    "kanji": "偽証",
+                    "reading": "ギショウ",
+                    "meanings": [
+                        "false evidence",
+                        "perjury",
+                        "false testimony"
+                    ]
+                },
+                {
+                    "kanji": "真偽",
+                    "reading": "シンギ",
+                    "meanings": [
+                        "truth or falsehood",
+                        "genuineness",
+                        "authenticity",
+                        "veracity"
+                    ]
+                },
+                {
+                    "kanji": "詐偽",
+                    "reading": "サギ",
+                    "meanings": [
+                        "lie",
+                        "untruth",
+                        "prevarication"
+                    ]
+                }
+            ]
+        }
+    }
+}

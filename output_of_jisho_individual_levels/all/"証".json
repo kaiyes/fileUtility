@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"証\"",
+        "strokes": 12,
+        "main_meanings": [
+            "evidence",
+            "proof",
+            "certificate"
+        ],
+        "main_readings": {
+            "kun": [
+                "あかし"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "816": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "737": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "715": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "430": "A New Dictionary of Kanji Usage",
+                "4341": "Classic Nelson (Andrew Nelson)",
+                "697": "Essential Kanji (P.G. O’Neill)",
+                "1746": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1660": "Japanese Names (P.G. O’Neill)",
+                "484": "Kanji and Kana (Spahn and Hadamitzky)",
+                "493": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "666": "Kanji in Context (Nishiguchi and Kono)",
+                "1672": "Kodansha Compact Kanji Guide",
+                "1899": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1010": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1365": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "386": "Les Kanjis dans la tete (Yves Maniette)",
+                "35341": "Morohashi",
+                "1506": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5589": "New Nelson (John Haig)",
+                "380": "Remembering The Kanji (James Heisig)",
+                "406": "Remembering The Kanji, 6th edition (James Heisig)",
+                "448": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "754": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3073": "2001 Kanji",
+                "7a5.5": "The Kanji Dictionary",
+                "1-7-5": "SKIP code",
+                "0161.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-58": "JIS X 0208-1997 kuten code",
+                "8a3c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zheng4"
+                ],
+                "korean": [
+                    "jeung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "一",
+                "止",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": [
+                "證"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "証",
+                    "reading": "あかし",
+                    "meanings": [
+                        "proof",
+                        "evidence",
+                        "sign",
+                        "testimony",
+                        "testament (to something)",
+                        "vindication",
+                        "witnessing",
+                        "testifying",
+                        "testimony"
+                    ]
+                },
+                {
+                    "kanji": "証として",
+                    "reading": "あかしとして",
+                    "meanings": [
+                        "in sign of",
+                        "in proof of"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "証",
+                    "reading": "ショウ",
+                    "meanings": [
+                        "proof",
+                        "evidence",
+                        "certificate",
+                        "license",
+                        "permit",
+                        "membership card",
+                        "ID card",
+                        "enlightenment",
+                        "symptoms (in Chinese medicine)",
+                        "patient's condition"
+                    ]
+                },
+                {
+                    "kanji": "証券",
+                    "reading": "ショウケン",
+                    "meanings": [
+                        "bond",
+                        "bill",
+                        "certificate",
+                        "security"
+                    ]
+                },
+                {
+                    "kanji": "査証",
+                    "reading": "サショウ",
+                    "meanings": [
+                        "visa",
+                        "endorsing (e.g. a passport)",
+                        "stamping"
+                    ]
+                },
+                {
+                    "kanji": "偽証",
+                    "reading": "ギショウ",
+                    "meanings": [
+                        "false evidence",
+                        "perjury",
+                        "false testimony"
+                    ]
+                }
+            ]
+        }
+    }
+}

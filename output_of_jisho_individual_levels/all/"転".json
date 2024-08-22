@@ -1,0 +1,253 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"転\"",
+        "strokes": 11,
+        "main_meanings": [
+            "revolve",
+            "turn around",
+            "change"
+        ],
+        "main_readings": {
+            "kun": [
+                "ころ.がる",
+                "ころ.げる",
+                "ころ.がす",
+                "ころ.ぶ",
+                "まろ.ぶ",
+                "うたた",
+                "うつ.る",
+                "くる.めく"
+            ],
+            "on": [
+                "テン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "479": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "375": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "354": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "339": "A New Dictionary of Kanji Usage",
+                "4615": "Classic Nelson (Andrew Nelson)",
+                "515": "Essential Kanji (P.G. O’Neill)",
+                "257": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1656": "Japanese Names (P.G. O’Neill)",
+                "3.16": "Japanese for Busy People",
+                "433": "Kanji and Kana (Spahn and Hadamitzky)",
+                "439": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "65": "Kanji in Context (Nishiguchi and Kono)",
+                "1773": "Kodansha Compact Kanji Guide",
+                "1872": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "995": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1346": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "427": "Les Kanjis dans la tete (Yves Maniette)",
+                "38234P": "Morohashi",
+                "1480": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5948": "New Nelson (John Haig)",
+                "420": "Remembering The Kanji (James Heisig)",
+                "449": "Remembering The Kanji, 6th edition (James Heisig)",
+                "383": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1571": "2001 Kanji",
+                "7c4.3": "The Kanji Dictionary",
+                "1-7-4": "SKIP code",
+                "5103.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-30": "JIS X 0208-1997 kuten code",
+                "8ee2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhuan3",
+                    "zhuai3",
+                    "zhuan4"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "二",
+                "厶",
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": [
+                "轉"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "転がる",
+                    "reading": "ころがる",
+                    "meanings": [
+                        "to roll",
+                        "to tumble",
+                        "to fall over",
+                        "to roll over",
+                        "to lie down",
+                        "to be scattered about",
+                        "to be lying around",
+                        "(of a situation or outcome) to change",
+                        "to turn out",
+                        "to come easily",
+                        "to be common",
+                        "to fall into one's hands",
+                        "to grow on trees"
+                    ]
+                },
+                {
+                    "kanji": "転がる石には苔は付かない",
+                    "reading": "ころがるいしにはこけはつかない",
+                    "meanings": [
+                        "a rolling stone gathers no moss"
+                    ]
+                },
+                {
+                    "kanji": "転げる",
+                    "reading": "ころげる",
+                    "meanings": [
+                        "to roll over",
+                        "to tumble",
+                        "to roll about (with laughter)"
+                    ]
+                },
+                {
+                    "kanji": "転がす",
+                    "reading": "ころがす",
+                    "meanings": [
+                        "to roll",
+                        "to wheel",
+                        "to trundle",
+                        "to drive (a car)",
+                        "to turn over",
+                        "to tip over",
+                        "to throw down",
+                        "to leave",
+                        "to buy and sell (quickly for a profit)"
+                    ]
+                },
+                {
+                    "kanji": "転ぶ",
+                    "reading": "ころぶ",
+                    "meanings": [
+                        "to fall down",
+                        "to fall over",
+                        "to turn out",
+                        "to play out",
+                        "to abandon Christianity (and convert to Buddhism)",
+                        "to apostatize",
+                        "to roll",
+                        "to tumble",
+                        "(for a geisha) to prostitute (herself) in secret"
+                    ]
+                },
+                {
+                    "kanji": "転ぶ",
+                    "reading": "ころぶ",
+                    "meanings": [
+                        "to fall down",
+                        "to fall over",
+                        "to turn out",
+                        "to play out",
+                        "to abandon Christianity (and convert to Buddhism)",
+                        "to apostatize",
+                        "to roll",
+                        "to tumble",
+                        "(for a geisha) to prostitute (herself) in secret"
+                    ]
+                },
+                {
+                    "kanji": "転",
+                    "reading": "うたた",
+                    "meanings": [
+                        "more and more",
+                        "increasingly",
+                        "all the more"
+                    ]
+                },
+                {
+                    "kanji": "うたた寝",
+                    "reading": "うたたね",
+                    "meanings": [
+                        "doze",
+                        "nap",
+                        "snooze"
+                    ]
+                },
+                {
+                    "kanji": "眩く",
+                    "reading": "くるめく",
+                    "meanings": [
+                        "to feel dizzy",
+                        "to feel faint",
+                        "to spin",
+                        "to revolve",
+                        "to twirl"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "転",
+                    "reading": "テン",
+                    "meanings": [
+                        "change in pronunciation or meaning of a word",
+                        "sound change",
+                        "word with an altered pronunciation or meaning",
+                        "turning or twisting part of a text (in Chinese poetry)"
+                    ]
+                },
+                {
+                    "kanji": "転移",
+                    "reading": "テンイ",
+                    "meanings": [
+                        "moving (location",
+                        "with the times",
+                        "etc.)",
+                        "change",
+                        "transition",
+                        "metastasis",
+                        "spread",
+                        "transition (e.g. phase transition)",
+                        "transfer (of learning)",
+                        "transference (in psychoanalysis)"
+                    ]
+                },
+                {
+                    "kanji": "不退転",
+                    "reading": "フタイテン",
+                    "meanings": [
+                        "determination",
+                        "conviction"
+                    ]
+                },
+                {
+                    "kanji": "大回転",
+                    "reading": "ダイカイテン",
+                    "meanings": [
+                        "giant slalom",
+                        "big rotation"
+                    ]
+                }
+            ]
+        }
+    }
+}

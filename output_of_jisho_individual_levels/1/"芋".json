@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"芋\"",
+        "strokes": 6,
+        "main_meanings": [
+            "potato"
+        ],
+        "main_readings": {
+            "kun": [
+                "いも"
+            ],
+            "on": [
+                "ウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1011": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "2001": "A New Dictionary of Kanji Usage",
+                "3896": "Classic Nelson (Andrew Nelson)",
+                "1682": "Essential Kanji (P.G. O’Neill)",
+                "1694": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "288": "Japanese Names (P.G. O’Neill)",
+                "1909": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2081": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1834": "Kanji in Context (Nishiguchi and Kono)",
+                "639": "Kodansha Compact Kanji Guide",
+                "2706": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1381": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1868": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1670": "Les Kanjis dans la tete (Yves Maniette)",
+                "30670P": "Morohashi",
+                "2181": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4964": "New Nelson (John Haig)",
+                "1655": "Remembering The Kanji (James Heisig)",
+                "1784": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1088": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1947": "2001 Kanji",
+                "3k3.1": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "4440.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-82": "JIS X 0208-1997 kuten code",
+                "828b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yu4"
+                ],
+                "korean": [
+                    "u",
+                    "hu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "一",
+                "干",
+                "艾"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "芋",
+                    "reading": "いも",
+                    "meanings": [
+                        "tuber",
+                        "taro",
+                        "potato",
+                        "yam",
+                        "yokel",
+                        "bumpkin",
+                        "dud",
+                        "worthless thing"
+                    ]
+                },
+                {
+                    "kanji": "芋洗い",
+                    "reading": "いもあらい",
+                    "meanings": [
+                        "washing potatoes (in a bucket)",
+                        "being very crowded",
+                        "being packed with people"
+                    ]
+                },
+                {
+                    "kanji": "焼き芋",
+                    "reading": "やきいも",
+                    "meanings": [
+                        "roasted sweet potato",
+                        "baked sweet potato"
+                    ]
+                },
+                {
+                    "kanji": "唐芋",
+                    "reading": "とういも",
+                    "meanings": [
+                        "sweet potato (Ipomoea batatas)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "海芋",
+                    "reading": "カイウ",
+                    "meanings": [
+                        "calla (Zantedeschia aethiopica)"
+                    ]
+                },
+                {
+                    "kanji": "阿蘭陀海芋",
+                    "reading": "オランダカイウ",
+                    "meanings": [
+                        "calla lily (Zantedeschia aethiopica)"
+                    ]
+                }
+            ]
+        }
+    }
+}

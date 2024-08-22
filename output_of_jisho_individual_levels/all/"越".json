@@ -1,0 +1,197 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"越\"",
+        "strokes": 12,
+        "main_meanings": [
+            "surpass",
+            "cross over",
+            "move to",
+            "exceed",
+            "Vietnam"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ.す",
+                "-こ.す",
+                "-ご.し",
+                "こ.える",
+                "-ご.え"
+            ],
+            "on": [
+                "エツ",
+                "オツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1021": "Essential Kanji (P.G. O’Neill)",
+                "529": "A New Dictionary of Kanji Usage",
+                "4542": "Classic Nelson (Andrew Nelson)",
+                "934": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2052": "Japanese Names (P.G. O’Neill)",
+                "1001": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1038": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1073": "Kanji in Context (Nishiguchi and Kono)",
+                "1756": "Kodansha Compact Kanji Guide",
+                "4108": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2085": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2825": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "393": "Les Kanjis dans la tete (Yves Maniette)",
+                "37110": "Morohashi",
+                "3314": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5851": "New Nelson (John Haig)",
+                "387": "Remembering The Kanji (James Heisig)",
+                "413": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1588": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1470": "2001 Kanji",
+                "4n8.2": "The Kanji Dictionary",
+                "3-7-5": "SKIP code",
+                "4380.5": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-59": "JIS X 0208-1997 kuten code",
+                "8d8a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "えち、 えっ、 お、 こえ、 こし、 ごえ、 ごし、 ごや"
+                ],
+                "chinese": [
+                    "yue4"
+                ],
+                "korean": [
+                    "weol",
+                    "hwal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "赱"
+            ],
+            "meaning": "run",
+            "parts": [
+                "土",
+                "戈",
+                "走"
+            ],
+            "basis": "走",
+            "kangxi_order": 156,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "越す",
+                    "reading": "こす",
+                    "meanings": [
+                        "to cross over (e.g. mountain)",
+                        "to go across",
+                        "to get over (e.g. hardship)",
+                        "to pass time (e.g. a winter)",
+                        "to surpass",
+                        "to be better than",
+                        "to exceed",
+                        "to move house",
+                        "to go",
+                        "to come"
+                    ]
+                },
+                {
+                    "kanji": "越える",
+                    "reading": "こえる",
+                    "meanings": [
+                        "to cross over",
+                        "to cross",
+                        "to pass through",
+                        "to pass over (out of)",
+                        "to go beyond",
+                        "to go past",
+                        "to exceed",
+                        "to surpass",
+                        "to be more (than)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "越",
+                    "reading": "エツ",
+                    "meanings": [
+                        "Yue (kingdom in ancient China; 6th C-334 BCE)",
+                        "Guangdong Province (China)",
+                        "Canton",
+                        "Kwangtung",
+                        "Vietnam"
+                    ]
+                },
+                {
+                    "kanji": "越年",
+                    "reading": "エツネン",
+                    "meanings": [
+                        "seeing the old year out",
+                        "greeting the New Year",
+                        "passing the winter",
+                        "hibernation",
+                        "playing more than the usual 12 rounds in one game"
+                    ]
+                },
+                {
+                    "kanji": "中越",
+                    "reading": "チュウエツ",
+                    "meanings": [
+                        "Chūetsu (region in Niigata)",
+                        "China and Vietnam",
+                        "Sino-Vietnamese"
+                    ]
+                },
+                {
+                    "kanji": "上越",
+                    "reading": "ジョウエツ",
+                    "meanings": [
+                        "area on Japan Sea side of Japan",
+                        "including Niigata"
+                    ]
+                },
+                {
+                    "kanji": "越年",
+                    "reading": "エツネン",
+                    "meanings": [
+                        "seeing the old year out",
+                        "greeting the New Year",
+                        "passing the winter",
+                        "hibernation",
+                        "playing more than the usual 12 rounds in one game"
+                    ]
+                },
+                {
+                    "kanji": "越年蝶",
+                    "reading": "オツネンチョウ",
+                    "meanings": [
+                        "eastern pale clouded yellow (butterfly",
+                        "Colias erate)"
+                    ]
+                },
+                {
+                    "kanji": "檀越",
+                    "reading": "ダンオツ",
+                    "meanings": [
+                        "alms-giver",
+                        "person who donates to a monk or a temple",
+                        "dana-pati"
+                    ]
+                }
+            ]
+        }
+    }
+}

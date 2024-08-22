@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"潜\"",
+        "strokes": 15,
+        "main_meanings": [
+            "submerge",
+            "conceal",
+            "hide",
+            "lower (voice)",
+            "hush"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひそ.む",
+                "もぐ.る",
+                "かく.れる",
+                "くぐ.る",
+                "ひそ.める"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1497": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1302": "A New Dictionary of Kanji Usage",
+                "2703": "Classic Nelson (Andrew Nelson)",
+                "1458": "Essential Kanji (P.G. O’Neill)",
+                "1501": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2272": "Japanese Names (P.G. O’Neill)",
+                "937": "Kanji and Kana (Spahn and Hadamitzky)",
+                "967": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1393": "Kanji in Context (Nishiguchi and Kono)",
+                "1251": "Kodansha Compact Kanji Guide",
+                "922": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "521": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "680": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "852": "Les Kanjis dans la tete (Yves Maniette)",
+                "18241": "Morohashi",
+                "746": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3337": "New Nelson (John Haig)",
+                "844": "Remembering The Kanji (James Heisig)",
+                "907": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1779": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "378": "2001 Kanji",
+                "3a12.6": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "3516.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-88": "JIS X 0208-1997 kuten code",
+                "6f5c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qian2"
+                ],
+                "korean": [
+                    "jam"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "二",
+                "亠",
+                "人",
+                "大",
+                "汁",
+                "日"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "潛"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "潜む",
+                    "reading": "ひそむ",
+                    "meanings": [
+                        "to lurk",
+                        "to be hidden",
+                        "to be concealed",
+                        "to lie dormant",
+                        "to be latent"
+                    ]
+                },
+                {
+                    "kanji": "潜る",
+                    "reading": "もぐる",
+                    "meanings": [
+                        "to dive (into or under water)",
+                        "to get under",
+                        "to get into",
+                        "to get in",
+                        "to creep into",
+                        "to crawl under",
+                        "to bury oneself",
+                        "to burrow into",
+                        "to dig oneself into",
+                        "to snuggle under",
+                        "to hide oneself (esp. from the government)",
+                        "to conceal oneself",
+                        "to go underground"
+                    ]
+                },
+                {
+                    "kanji": "潜る",
+                    "reading": "くぐる",
+                    "meanings": [
+                        "to go under",
+                        "to pass under",
+                        "to go through",
+                        "to pass through",
+                        "to dive (into or under the water)",
+                        "to evade",
+                        "to get around",
+                        "to slip past",
+                        "to survive",
+                        "to surmount"
+                    ]
+                },
+                {
+                    "kanji": "潜める",
+                    "reading": "ひそめる",
+                    "meanings": [
+                        "to hide",
+                        "to conceal",
+                        "to lower volume (of a sound or one's voice) so as not to be heard",
+                        "to become quiet and inconspicuous"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "潜水",
+                    "reading": "センスイ",
+                    "meanings": [
+                        "diving",
+                        "submerging",
+                        "going underwater"
+                    ]
+                },
+                {
+                    "kanji": "潜在",
+                    "reading": "センザイ",
+                    "meanings": [
+                        "potentiality",
+                        "dormancy",
+                        "latency"
+                    ]
+                },
+                {
+                    "kanji": "原潜",
+                    "reading": "ゲンセン",
+                    "meanings": [
+                        "nuclear submarine"
+                    ]
+                },
+                {
+                    "kanji": "対潜",
+                    "reading": "タイセン",
+                    "meanings": [
+                        "antisubmarine"
+                    ]
+                }
+            ]
+        }
+    }
+}

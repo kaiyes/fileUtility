@@ -1,0 +1,96 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"詢\"",
+        "strokes": 13,
+        "main_meanings": [
+            "consult with"
+        ],
+        "main_readings": {
+            "kun": [
+                "はか.る",
+                "まこと"
+            ],
+            "on": [
+                "ジュン",
+                "シュン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4344": "Classic Nelson (Andrew Nelson)",
+                "1928": "Japanese Names (P.G. O’Neill)",
+                "2240": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1917": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1020": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1378": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "35411": "Morohashi",
+                "5593": "New Nelson (John Haig)",
+                "2705": "Remembering The Kanji (James Heisig)",
+                "2742": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "7a6.17": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "0762.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-75-46": "JIS X 0208-1997 kuten code",
+                "8a62": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xun2"
+                ],
+                "korean": [
+                    "sun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "勹",
+                "日",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "交詢",
+                    "reading": "コウジュン",
+                    "meanings": [
+                        "promotion of social intercourse"
+                    ]
+                },
+                {
+                    "kanji": "諮詢",
+                    "reading": "シジュン",
+                    "meanings": [
+                        "question",
+                        "enquiry",
+                        "inquiry",
+                        "consultation",
+                        "advice-seeking"
+                    ]
+                }
+            ]
+        }
+    }
+}

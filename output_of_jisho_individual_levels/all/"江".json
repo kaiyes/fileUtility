@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"江\"",
+        "strokes": 6,
+        "main_meanings": [
+            "creek",
+            "inlet",
+            "bay"
+        ],
+        "main_readings": {
+            "kun": [
+                "え"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1244": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "517": "A New Dictionary of Kanji Usage",
+                "2491": "Classic Nelson (Andrew Nelson)",
+                "994": "Essential Kanji (P.G. O’Neill)",
+                "1458": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "252": "Japanese Names (P.G. O’Neill)",
+                "821": "Kanji and Kana (Spahn and Hadamitzky)",
+                "840": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "905": "Kanji in Context (Nishiguchi and Kono)",
+                "1160": "Kodansha Compact Kanji Guide",
+                "257": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "162": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "195": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "141": "Les Kanjis dans la tete (Yves Maniette)",
+                "17140": "Morohashi",
+                "221": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3045": "New Nelson (John Haig)",
+                "139": "Remembering The Kanji (James Heisig)",
+                "148": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1085": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "372": "2001 Kanji",
+                "3a3.8": "The Kanji Dictionary",
+                "1-3-3": "SKIP code",
+                "3111.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-30": "JIS X 0208-1997 kuten code",
+                "6c5f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くん、 とうみ、 み、 りえ"
+                ],
+                "chinese": [
+                    "jiang1"
+                ],
+                "korean": [
+                    "gang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "工",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "江",
+                    "reading": "え",
+                    "meanings": [
+                        "inlet",
+                        "bay"
+                    ]
+                },
+                {
+                    "kanji": "縁",
+                    "reading": "えん",
+                    "meanings": [
+                        "fate",
+                        "destiny (esp. as a mysterious force that binds two people together)",
+                        "relationship (e.g. between two people)",
+                        "bond",
+                        "link",
+                        "connection",
+                        "family ties",
+                        "affinity",
+                        "opportunity",
+                        "chance (to meet someone and start a relationship)",
+                        "pratyaya (indirect conditions",
+                        "as opposed to direct causes)",
+                        "narrow open-air veranda"
+                    ]
+                },
+                {
+                    "kanji": "堀江",
+                    "reading": "ほりえ",
+                    "meanings": [
+                        "canal"
+                    ]
+                },
+                {
+                    "kanji": "松江",
+                    "reading": "まつえ",
+                    "meanings": [
+                        "Matsue (city in Shimane)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "江",
+                    "reading": "コウ",
+                    "meanings": [
+                        "large river (esp. the Yangtze)",
+                        "Lake Biwa"
+                    ]
+                },
+                {
+                    "kanji": "江上",
+                    "reading": "コウジョウ",
+                    "meanings": [
+                        "(on the) bank of a large river"
+                    ]
+                },
+                {
+                    "kanji": "長江",
+                    "reading": "チョウコウ",
+                    "meanings": [
+                        "Yangtze River (China)",
+                        "Changjiang River"
+                    ]
+                },
+                {
+                    "kanji": "揚子江",
+                    "reading": "ヨウスコウ",
+                    "meanings": [
+                        "Yangtze River (China)"
+                    ]
+                }
+            ]
+        }
+    }
+}

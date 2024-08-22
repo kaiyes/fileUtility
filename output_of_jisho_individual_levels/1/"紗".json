@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"紗\"",
+        "strokes": 10,
+        "main_meanings": [
+            "gauze",
+            "gossamer"
+        ],
+        "main_readings": {
+            "kun": [
+                "うすぎぬ"
+            ],
+            "on": [
+                "サ",
+                "シャ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3503": "Classic Nelson (Andrew Nelson)",
+                "1683": "Japanese Names (P.G. O’Neill)",
+                "2191": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1653": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "878": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1196": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27287": "Morohashi",
+                "1301": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4446": "New Nelson (John Haig)",
+                "2673": "Remembering The Kanji (James Heisig)",
+                "2714": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6a4.6": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "2992.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-51": "JIS X 0208-1997 kuten code",
+                "7d17": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たえ、 すず"
+                ],
+                "chinese": [
+                    "sha1"
+                ],
+                "korean": [
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "ノ",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "紗綾形",
+                    "reading": "サヤガタ",
+                    "meanings": [
+                        "sayagata (pattern of interlocking swastikas)"
+                    ]
+                },
+                {
+                    "kanji": "薄紗",
+                    "reading": "ハクサ",
+                    "meanings": [
+                        "delicate gauze",
+                        "gossamer"
+                    ]
+                },
+                {
+                    "kanji": "掛け袱紗",
+                    "reading": "カケブクサ",
+                    "meanings": [
+                        "crape wrapper"
+                    ]
+                },
+                {
+                    "kanji": "紗",
+                    "reading": "シャ",
+                    "meanings": [
+                        "(silk) gauze"
+                    ]
+                },
+                {
+                    "kanji": "紗のよう",
+                    "reading": "シャノヨウ",
+                    "meanings": [
+                        "gauzy"
+                    ]
+                },
+                {
+                    "kanji": "寒冷紗",
+                    "reading": "カンレイシャ",
+                    "meanings": [
+                        "cheesecloth"
+                    ]
+                },
+                {
+                    "kanji": "羅紗",
+                    "reading": "ラシャ",
+                    "meanings": [
+                        "felt",
+                        "woollen cloth"
+                    ]
+                }
+            ]
+        }
+    }
+}

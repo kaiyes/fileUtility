@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"撲\"",
+        "strokes": 15,
+        "main_meanings": [
+            "slap",
+            "strike",
+            "hit",
+            "beat",
+            "tell",
+            "speak"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ボク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1822": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1497": "A New Dictionary of Kanji Usage",
+                "1993": "Classic Nelson (Andrew Nelson)",
+                "1464": "Essential Kanji (P.G. O’Neill)",
+                "1384": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1889": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2062": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1489": "Kanji in Context (Nishiguchi and Kono)",
+                "927": "Kodansha Compact Kanji Guide",
+                "903": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "513": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "666": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1810": "Les Kanjis dans la tete (Yves Maniette)",
+                "12755": "Morohashi",
+                "733": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2274": "New Nelson (John Haig)",
+                "1793": "Remembering The Kanji (James Heisig)",
+                "1932": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1771": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1363": "2001 Kanji",
+                "3c12.1": "The Kanji Dictionary",
+                "1-3-12": "SKIP code",
+                "5203.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-48": "JIS X 0208-1997 kuten code",
+                "64b2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pu1"
+                ],
+                "korean": [
+                    "bag",
+                    "bog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "二",
+                "人",
+                "并",
+                "大",
+                "扎",
+                "王",
+                "羊"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "撲滅",
+                    "reading": "ボクメツ",
+                    "meanings": [
+                        "eradication",
+                        "extermination",
+                        "destruction",
+                        "suppression"
+                    ]
+                },
+                {
+                    "kanji": "撲殺",
+                    "reading": "ボクサツ",
+                    "meanings": [
+                        "beat to death"
+                    ]
+                },
+                {
+                    "kanji": "打撲",
+                    "reading": "ダボク",
+                    "meanings": [
+                        "blow",
+                        "hit (on the body)",
+                        "beating"
+                    ]
+                }
+            ]
+        }
+    }
+}

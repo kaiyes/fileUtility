@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"夕\"",
+        "strokes": 3,
+        "main_meanings": [
+            "evening"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆう"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "98": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "54": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "44": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "627": "A New Dictionary of Kanji Usage",
+                "1167": "Classic Nelson (Andrew Nelson)",
+                "734": "Essential Kanji (P.G. O’Neill)",
+                "149": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "33": "Japanese Names (P.G. O’Neill)",
+                "2.10": "Japanese for Busy People",
+                "81": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "95": "Kanji in Context (Nishiguchi and Kono)",
+                "403": "Kodansha Compact Kanji Guide",
+                "4195": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2123": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2871": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "109": "Remembering The Kanji (James Heisig)",
+                "5749": "Morohashi",
+                "3387": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1123": "New Nelson (John Haig)",
+                "114": "Remembering The Kanji, 6th edition (James Heisig)",
+                "20": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2560": "2001 Kanji",
+                "0a3.14": "The Kanji Dictionary",
+                "4-3-1": "SKIP code",
+                "4-3-4": "SKIP code",
+                "2720.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-28": "JIS X 0208-1997 kuten code",
+                "5915": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ゆ"
+                ],
+                "chinese": [
+                    "xi1",
+                    "xi4"
+                ],
+                "korean": [
+                    "seog",
+                    "sa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "evening,",
+            "parts": [
+                "夕"
+            ],
+            "basis": "夕",
+            "kangxi_order": 36,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "夕",
+                    "reading": "ゆう",
+                    "meanings": [
+                        "evening"
+                    ]
+                },
+                {
+                    "kanji": "夕刊",
+                    "reading": "ゆうかん",
+                    "meanings": [
+                        "evening paper"
+                    ]
+                },
+                {
+                    "kanji": "昨夕",
+                    "reading": "さくゆう",
+                    "meanings": [
+                        "yesterday evening",
+                        "last night"
+                    ]
+                },
+                {
+                    "kanji": "春の夕",
+                    "reading": "はるのゆう",
+                    "meanings": [
+                        "spring evening"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "勺",
+                    "reading": "シャク",
+                    "meanings": [
+                        "shaku",
+                        "traditional unit of volume",
+                        "approx. 18 ml",
+                        "shaku",
+                        "traditional unit of area",
+                        "approx. 0.033 meters square"
+                    ]
+                },
+                {
+                    "kanji": "夕日",
+                    "reading": "ユウヒ",
+                    "meanings": [
+                        "evening sun",
+                        "setting sun"
+                    ]
+                },
+                {
+                    "kanji": "秋夕",
+                    "reading": "シュウセキ",
+                    "meanings": [
+                        "autumn evening"
+                    ]
+                },
+                {
+                    "kanji": "一夕",
+                    "reading": "イッセキ",
+                    "meanings": [
+                        "one evening",
+                        "some evenings"
+                    ]
+                }
+            ]
+        }
+    }
+}

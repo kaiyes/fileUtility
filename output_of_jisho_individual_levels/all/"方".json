@@ -1,0 +1,196 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"方\"",
+        "strokes": 4,
+        "main_meanings": [
+            "direction",
+            "person",
+            "alternative"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた",
+                "-かた",
+                "-がた"
+            ],
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "138": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "223": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "204": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "28": "A New Dictionary of Kanji Usage",
+                "2082": "Classic Nelson (Andrew Nelson)",
+                "26": "Essential Kanji (P.G. O’Neill)",
+                "182": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "85": "Japanese Names (P.G. O’Neill)",
+                "2.5": "Japanese for Busy People",
+                "70": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "43": "Kanji in Context (Nishiguchi and Kono)",
+                "957": "Kodansha Compact Kanji Guide",
+                "2459": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1243": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1709": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "501": "Les Kanjis dans la tete (Yves Maniette)",
+                "13620": "Morohashi",
+                "1963": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2389": "New Nelson (John Haig)",
+                "490": "Remembering The Kanji (James Heisig)",
+                "529": "Remembering The Kanji, 6th edition (James Heisig)",
+                "25": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "102": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "445": "2001 Kanji",
+                "4h0.1": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "3-3-1": "SKIP code",
+                "0022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-93": "JIS X 0208-1997 kuten code",
+                "65b9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "から、 な、 なた、 ふさ、 まさ、 みち、 も、 わ"
+                ],
+                "chinese": [
+                    "fang1"
+                ],
+                "korean": [
+                    "bang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "square",
+            "parts": [
+                "方"
+            ],
+            "basis": "方",
+            "kangxi_order": 70,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "方",
+                    "reading": "かた",
+                    "meanings": [
+                        "direction",
+                        "way",
+                        "person",
+                        "lady",
+                        "gentleman",
+                        "method of",
+                        "manner of",
+                        "way of",
+                        "care of ...",
+                        "person in charge of ...",
+                        "side (e.g. \"on my mother's side\")"
+                    ]
+                },
+                {
+                    "kanji": "方々",
+                    "reading": "かたがた",
+                    "meanings": [
+                        "people",
+                        "(all) persons",
+                        "everyone",
+                        "ladies and gentlemen",
+                        "you (usu. plural)"
+                    ]
+                },
+                {
+                    "kanji": "親方",
+                    "reading": "おやかた",
+                    "meanings": [
+                        "master",
+                        "boss",
+                        "chief",
+                        "foreman",
+                        "supervisor",
+                        "stable master",
+                        "craftsman",
+                        "artisan",
+                        "foster parent"
+                    ]
+                },
+                {
+                    "kanji": "出方",
+                    "reading": "でかた",
+                    "meanings": [
+                        "attitude",
+                        "approach",
+                        "move",
+                        "theater usher",
+                        "theatre usher"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "方",
+                    "reading": "ホウ",
+                    "meanings": [
+                        "direction",
+                        "way",
+                        "side",
+                        "area (in a particular direction)",
+                        "side (of an argument",
+                        "etc.)",
+                        "one's part",
+                        "type",
+                        "category",
+                        "field (of study",
+                        "etc.)",
+                        "indicates one side of a comparison",
+                        "way",
+                        "method",
+                        "manner",
+                        "means",
+                        "length (of each side of a square)"
+                    ]
+                },
+                {
+                    "kanji": "方言",
+                    "reading": "ホウゲン",
+                    "meanings": [
+                        "dialect",
+                        "provincialism"
+                    ]
+                },
+                {
+                    "kanji": "途方",
+                    "reading": "トホウ",
+                    "meanings": [
+                        "way",
+                        "destination",
+                        "reason"
+                    ]
+                },
+                {
+                    "kanji": "右方",
+                    "reading": "ウホウ",
+                    "meanings": [
+                        "right side",
+                        "style of Japanese court music"
+                    ]
+                }
+            ]
+        }
+    }
+}

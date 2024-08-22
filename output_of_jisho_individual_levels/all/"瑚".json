@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"瑚\"",
+        "strokes": 13,
+        "main_meanings": [
+            "ancestral offering receptacle",
+            "coral"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コ",
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2956": "Classic Nelson (Andrew Nelson)",
+                "2161": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1300": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "702": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "941": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "21126": "Morohashi",
+                "3662": "New Nelson (John Haig)",
+                "2562": "Remembering The Kanji (James Heisig)",
+                "2615": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4f9.3": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "1712.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-74": "JIS X 0208-1997 kuten code",
+                "745a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hu2"
+                ],
+                "korean": [
+                    "ho"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "king) 玉 (王"
+            ],
+            "meaning": "jade",
+            "parts": [
+                "十",
+                "口",
+                "月",
+                "王"
+            ],
+            "basis": "jade",
+            "kangxi_order": 96,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "珊瑚",
+                    "reading": "サンゴ",
+                    "meanings": [
+                        "coral"
+                    ]
+                },
+                {
+                    "kanji": "脳珊瑚",
+                    "reading": "ノウサンゴ",
+                    "meanings": [
+                        "brain coral"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"孫\"",
+        "strokes": 10,
+        "main_meanings": [
+            "grandchild",
+            "descendants"
+        ],
+        "main_readings": {
+            "kun": [
+                "まご"
+            ],
+            "on": [
+                "ソン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "458": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "565": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "538": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1356": "A New Dictionary of Kanji Usage",
+                "1273": "Classic Nelson (Andrew Nelson)",
+                "644": "Essential Kanji (P.G. O’Neill)",
+                "457": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1540": "Japanese Names (P.G. O’Neill)",
+                "910": "Kanji and Kana (Spahn and Hadamitzky)",
+                "932": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "448": "Kanji in Context (Nishiguchi and Kono)",
+                "463": "Kodansha Compact Kanji Guide",
+                "492": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "305": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "370": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1405": "Les Kanjis dans la tete (Yves Maniette)",
+                "6987": "Morohashi",
+                "410": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1296": "New Nelson (John Haig)",
+                "1393": "Remembering The Kanji (James Heisig)",
+                "1494": "Remembering The Kanji, 6th edition (James Heisig)",
+                "551": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3541": "2001 Kanji",
+                "2c7.1": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "1-2-7": "SKIP code",
+                "1249.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-25": "JIS X 0208-1997 kuten code",
+                "5b6b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひ"
+                ],
+                "chinese": [
+                    "sun1"
+                ],
+                "korean": [
+                    "son"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "child,",
+            "parts": [
+                "ノ",
+                "子",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "子",
+            "kangxi_order": 39,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "孫",
+                    "reading": "まご",
+                    "meanings": [
+                        "grandchild"
+                    ]
+                },
+                {
+                    "kanji": "孫子",
+                    "reading": "まごこ",
+                    "meanings": [
+                        "children and grandchildren",
+                        "posterity",
+                        "descendants"
+                    ]
+                },
+                {
+                    "kanji": "初孫",
+                    "reading": "ういまご",
+                    "meanings": [
+                        "first grandchild"
+                    ]
+                },
+                {
+                    "kanji": "内孫",
+                    "reading": "ないそん",
+                    "meanings": [
+                        "child of one's heir"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "孫",
+                    "reading": "ソン",
+                    "meanings": [
+                        "descendant (usu. of a certain generation)",
+                        "lineage",
+                        "pedigree",
+                        "grandchild"
+                    ]
+                },
+                {
+                    "kanji": "孫悟空",
+                    "reading": "ソンゴクウ",
+                    "meanings": [
+                        "Sun Wukong (character in the classic Chinese novel Journey to the West)",
+                        "Monkey King",
+                        "Son Goku (Dragon Ball)"
+                    ]
+                },
+                {
+                    "kanji": "愛孫",
+                    "reading": "アイソン",
+                    "meanings": [
+                        "one's beloved grandchild"
+                    ]
+                },
+                {
+                    "kanji": "外孫",
+                    "reading": "ガイソン",
+                    "meanings": [
+                        "grandchild from a daughter married into another family"
+                    ]
+                }
+            ]
+        }
+    }
+}

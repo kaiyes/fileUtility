@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伍\"",
+        "strokes": 6,
+        "main_meanings": [
+            "five",
+            "five-man squad",
+            "file",
+            "line"
+        ],
+        "main_readings": {
+            "kun": [
+                "いつつ"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "369": "Classic Nelson (Andrew Nelson)",
+                "229": "Japanese Names (P.G. O’Neill)",
+                "2013": "Kanji and Kana (Spahn and Hadamitzky)",
+                "50": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "31": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "435": "Morohashi",
+                "47": "New Japanese English Character Dictionary (Jack Halpern)",
+                "131": "New Nelson (John Haig)",
+                "2967": "Remembering The Kanji (James Heisig)",
+                "2972": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2a4.8": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2121.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-64": "JIS X 0208-1997 kuten code",
+                "4f0d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くみ、 あつむ"
+                ],
+                "chinese": [
+                    "wu3"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "五"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "五つ",
+                    "reading": "いつつ",
+                    "meanings": [
+                        "five",
+                        "five years of age",
+                        "eight o'clock (old time system)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "伍",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "company",
+                        "group",
+                        "class",
+                        "troop",
+                        "rank",
+                        "file"
+                    ]
+                },
+                {
+                    "kanji": "五",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "five",
+                        "5"
+                    ]
+                },
+                {
+                    "kanji": "隊伍",
+                    "reading": "タイゴ",
+                    "meanings": [
+                        "rank (of troops)",
+                        "line",
+                        "formation",
+                        "array",
+                        "procession"
+                    ]
+                },
+                {
+                    "kanji": "落伍",
+                    "reading": "ラクゴ",
+                    "meanings": [
+                        "straggling",
+                        "falling behind",
+                        "being left behind",
+                        "dropping out",
+                        "falling behind the ranks",
+                        "falling out of line"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"酢\"",
+        "strokes": 12,
+        "main_meanings": [
+            "vinegar",
+            "sour",
+            "acid",
+            "tart"
+        ],
+        "main_readings": {
+            "kun": [
+                "す"
+            ],
+            "on": [
+                "サク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1300": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1633": "A New Dictionary of Kanji Usage",
+                "4783": "Classic Nelson (Andrew Nelson)",
+                "1605": "Essential Kanji (P.G. O’Neill)",
+                "1833": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1654": "Japanese Names (P.G. O’Neill)",
+                "1867": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2027": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1592": "Kanji in Context (Nishiguchi and Kono)",
+                "1792": "Kodansha Compact Kanji Guide",
+                "1910": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1016": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1373": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1446": "Les Kanjis dans la tete (Yves Maniette)",
+                "39824": "Morohashi",
+                "1516": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6169": "New Nelson (John Haig)",
+                "1434": "Remembering The Kanji (James Heisig)",
+                "1542": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1596": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3254": "2001 Kanji",
+                "7e5.3": "The Kanji Dictionary",
+                "1-7-5": "SKIP code",
+                "1861.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-61": "JIS X 0208-1997 kuten code",
+                "9162": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zuo4"
+                ],
+                "korean": [
+                    "cho",
+                    "jag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "wine,",
+            "parts": [
+                "｜",
+                "ノ",
+                "酉"
+            ],
+            "basis": "酉",
+            "kangxi_order": 164,
+            "variants": [
+                "醋"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "酢",
+                    "reading": "す",
+                    "meanings": [
+                        "vinegar"
+                    ]
+                },
+                {
+                    "kanji": "酢の物",
+                    "reading": "すのもの",
+                    "meanings": [
+                        "vinegared dish",
+                        "pickled dish"
+                    ]
+                },
+                {
+                    "kanji": "お酢",
+                    "reading": "おす",
+                    "meanings": [
+                        "vinegar"
+                    ]
+                },
+                {
+                    "kanji": "合成酢",
+                    "reading": "ごうせいす",
+                    "meanings": [
+                        "synthetic vinegar"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "酢酸",
+                    "reading": "サクサン",
+                    "meanings": [
+                        "acetic acid"
+                    ]
+                },
+                {
+                    "kanji": "酢酸エチル",
+                    "reading": "サクサンエチル",
+                    "meanings": [
+                        "ethyl acetate"
+                    ]
+                },
+                {
+                    "kanji": "木酢",
+                    "reading": "モクサク",
+                    "meanings": [
+                        "wood vinegar",
+                        "pyroligneous acid"
+                    ]
+                },
+                {
+                    "kanji": "鉛酢",
+                    "reading": "エンサク",
+                    "meanings": [
+                        "Goulard's extract",
+                        "subacetate of lead",
+                        "vinegar of lead"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"問\"",
+        "strokes": 11,
+        "main_meanings": [
+            "question",
+            "ask",
+            "problem"
+        ],
+        "main_readings": {
+            "kun": [
+                "と.う",
+                "と.い",
+                "とん"
+            ],
+            "on": [
+                "モン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "520": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "418": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "396": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "75": "A New Dictionary of Kanji Usage",
+                "4944": "Classic Nelson (Andrew Nelson)",
+                "175": "Essential Kanji (P.G. O’Neill)",
+                "140": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1524": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "162": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "239": "Kanji in Context (Nishiguchi and Kono)",
+                "331": "Kodansha Compact Kanji Guide",
+                "4117": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2091": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2833": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1631": "Les Kanjis dans la tete (Yves Maniette)",
+                "3814": "Morohashi",
+                "3320": "New Japanese English Character Dictionary (Jack Halpern)",
+                "830": "New Nelson (John Haig)",
+                "1617": "Remembering The Kanji (James Heisig)",
+                "1744": "Remembering The Kanji, 6th edition (James Heisig)",
+                "41": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "387": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3877": "2001 Kanji",
+                "8e3.1": "The Kanji Dictionary",
+                "3-8-3": "SKIP code",
+                "7760.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-68": "JIS X 0208-1997 kuten code",
+                "554f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はる"
+                ],
+                "chinese": [
+                    "wen4"
+                ],
+                "korean": [
+                    "mun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "門"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "問う",
+                    "reading": "とう",
+                    "meanings": [
+                        "to ask",
+                        "to inquire",
+                        "to blame (someone) for",
+                        "to accuse of",
+                        "to pursue (question of responsibility)",
+                        "to charge with",
+                        "to care about",
+                        "to regard as important",
+                        "to call into question",
+                        "to doubt",
+                        "to question"
+                    ]
+                },
+                {
+                    "kanji": "問うに落ちず語るに落ちる",
+                    "reading": "とうにおちずかたるにおちる",
+                    "meanings": [
+                        "to keep a secret when asked about it",
+                        "but let it slip inadvertently when chatting on another occasion"
+                    ]
+                },
+                {
+                    "kanji": "問い",
+                    "reading": "とい",
+                    "meanings": [
+                        "question",
+                        "query"
+                    ]
+                },
+                {
+                    "kanji": "問い合わせ",
+                    "reading": "といあわせ",
+                    "meanings": [
+                        "inquiry",
+                        "query",
+                        "enquiry"
+                    ]
+                },
+                {
+                    "kanji": "更問",
+                    "reading": "さらとい",
+                    "meanings": [
+                        "follow-up question",
+                        "additional question"
+                    ]
+                },
+                {
+                    "kanji": "問屋",
+                    "reading": "とんや",
+                    "meanings": [
+                        "wholesale store",
+                        "wholesale dealer",
+                        "wholesaler"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "問",
+                    "reading": "モン",
+                    "meanings": [
+                        "counter for questions"
+                    ]
+                },
+                {
+                    "kanji": "問責",
+                    "reading": "モンセキ",
+                    "meanings": [
+                        "blame",
+                        "censure",
+                        "reproof",
+                        "reprimand",
+                        "rebuke"
+                    ]
+                },
+                {
+                    "kanji": "設問",
+                    "reading": "セツモン",
+                    "meanings": [
+                        "posing a question",
+                        "question"
+                    ]
+                },
+                {
+                    "kanji": "弔問",
+                    "reading": "チョウモン",
+                    "meanings": [
+                        "condolence call",
+                        "visiting a bereaved family to offer condolences"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"衿\"",
+        "strokes": 9,
+        "main_meanings": [
+            "neck",
+            "collar",
+            "lapel"
+        ],
+        "main_readings": {
+            "kun": [
+                "えり"
+            ],
+            "on": [
+                "キン",
+                "コン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4217": "Classic Nelson (Andrew Nelson)",
+                "873": "Japanese Names (P.G. O’Neill)",
+                "2237": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1465": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "777": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1055": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "34149": "Morohashi",
+                "1140": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5431": "New Nelson (John Haig)",
+                "2623": "Remembering The Kanji (James Heisig)",
+                "2668": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5e4.5": "The Kanji Dictionary",
+                "1-5-4": "SKIP code",
+                "3822.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-62": "JIS X 0208-1997 kuten code",
+                "887f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jin1"
+                ],
+                "korean": [
+                    "geum"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "衤"
+            ],
+            "meaning": "clothes",
+            "parts": [
+                "一",
+                "个",
+                "初"
+            ],
+            "basis": "衣",
+            "kangxi_order": 145,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "襟",
+                    "reading": "えり",
+                    "meanings": [
+                        "collar",
+                        "lapel",
+                        "neckband",
+                        "neck",
+                        "nape of the neck",
+                        "scruff of the neck"
+                    ]
+                },
+                {
+                    "kanji": "襟元",
+                    "reading": "えりもと",
+                    "meanings": [
+                        "(around the) neck",
+                        "nape",
+                        "collar (at the front)"
+                    ]
+                },
+                {
+                    "kanji": "裏衿",
+                    "reading": "うらえり",
+                    "meanings": [
+                        "neckband lining"
+                    ]
+                },
+                {
+                    "kanji": "半衿",
+                    "reading": "はんえり",
+                    "meanings": [
+                        "neckpiece (on a kimono)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "開襟",
+                    "reading": "カイキン",
+                    "meanings": [
+                        "unbuttoning a collar",
+                        "opening up (one's heart)",
+                        "open-necked shirt"
+                    ]
+                }
+            ]
+        }
+    }
+}

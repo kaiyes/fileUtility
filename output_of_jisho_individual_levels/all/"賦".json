@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"賦\"",
+        "strokes": 15,
+        "main_meanings": [
+            "levy",
+            "ode",
+            "prose",
+            "poem",
+            "tribute",
+            "installment"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "フ",
+                "ブ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1758": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1253": "A New Dictionary of Kanji Usage",
+                "4513": "Classic Nelson (Andrew Nelson)",
+                "1635": "Essential Kanji (P.G. O’Neill)",
+                "1786": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1808": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1947": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1585": "Kanji in Context (Nishiguchi and Kono)",
+                "1748": "Kodansha Compact Kanji Guide",
+                "1992": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1064": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1432": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "384": "Les Kanjis dans la tete (Yves Maniette)",
+                "36800X": "Morohashi",
+                "1583": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5811": "New Nelson (John Haig)",
+                "378": "Remembering The Kanji (James Heisig)",
+                "404": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1804": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3956": "2001 Kanji",
+                "7b8.4": "The Kanji Dictionary",
+                "1-7-8": "SKIP code",
+                "1-7-7": "SKIP code",
+                "6384.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-74": "JIS X 0208-1997 kuten code",
+                "8ce6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うた"
+                ],
+                "chinese": [
+                    "fu4"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "shell",
+            "parts": [
+                "ハ",
+                "弋",
+                "止",
+                "目",
+                "貝"
+            ],
+            "basis": "貝",
+            "kangxi_order": 154,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "賦",
+                    "reading": "フ",
+                    "meanings": [
+                        "poem",
+                        "narrative (style of the Shi Jing)",
+                        "classical Chinese rhymed prose"
+                    ]
+                },
+                {
+                    "kanji": "賦課",
+                    "reading": "フカ",
+                    "meanings": [
+                        "levy",
+                        "imposition"
+                    ]
+                },
+                {
+                    "kanji": "配賦",
+                    "reading": "ハイフ",
+                    "meanings": [
+                        "allocation",
+                        "apportionment",
+                        "distribution"
+                    ]
+                },
+                {
+                    "kanji": "貢賦",
+                    "reading": "コウフ",
+                    "meanings": [
+                        "tribute and taxation"
+                    ]
+                },
+                {
+                    "kanji": "賦役",
+                    "reading": "フエキ",
+                    "meanings": [
+                        "slave labour",
+                        "slave labor",
+                        "compulsory service",
+                        "forced labour",
+                        "forced labor",
+                        "exacted service"
+                    ]
+                },
+                {
+                    "kanji": "賦払い",
+                    "reading": "ブバライ",
+                    "meanings": [
+                        "payment on an installment system",
+                        "payment on an instalment system",
+                        "easy payment plan"
+                    ]
+                }
+            ]
+        }
+    }
+}

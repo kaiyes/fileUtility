@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"衆\"",
+        "strokes": 12,
+        "main_meanings": [
+            "masses",
+            "great numbers",
+            "multitude",
+            "populace"
+        ],
+        "main_readings": {
+            "kun": [
+                "おお.い"
+            ],
+            "on": [
+                "シュウ",
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "806": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "901": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "705": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "570": "A New Dictionary of Kanji Usage",
+                "4210": "Classic Nelson (Andrew Nelson)",
+                "651": "Essential Kanji (P.G. O’Neill)",
+                "1720": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1762": "Japanese Names (P.G. O’Neill)",
+                "792": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1194": "Kanji in Context (Nishiguchi and Kono)",
+                "1612": "Kodansha Compact Kanji Guide",
+                "3325": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1724": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2342": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1874": "Les Kanjis dans la tete (Yves Maniette)",
+                "33981": "Morohashi",
+                "2683": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5417": "New Nelson (John Haig)",
+                "1857": "Remembering The Kanji (James Heisig)",
+                "2001": "Remembering The Kanji, 6th edition (James Heisig)",
+                "232": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "948": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "865": "2001 Kanji",
+                "5h7.1": "The Kanji Dictionary",
+                "2-6-6": "SKIP code",
+                "2723.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-16": "JIS X 0208-1997 kuten code",
+                "8846": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhong4"
+                ],
+                "korean": [
+                    "jung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "blood",
+            "parts": [
+                "皿",
+                "糸",
+                "血"
+            ],
+            "basis": "血",
+            "kangxi_order": 143,
+            "variants": [
+                "眾"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "衆",
+                    "reading": "シュウ",
+                    "meanings": [
+                        "great numbers (of people)",
+                        "numerical superiority",
+                        "masses",
+                        "people",
+                        "folk",
+                        "clique",
+                        "bunch"
+                    ]
+                },
+                {
+                    "kanji": "衆院",
+                    "reading": "シュウイン",
+                    "meanings": [
+                        "House of Representatives (lower house of the National Diet of Japan)"
+                    ]
+                },
+                {
+                    "kanji": "若い衆",
+                    "reading": "ワカイシュ",
+                    "meanings": [
+                        "young man",
+                        "youth",
+                        "lad",
+                        "servant boy",
+                        "young shopboy"
+                    ]
+                },
+                {
+                    "kanji": "全会衆",
+                    "reading": "ゼンカイシュウ",
+                    "meanings": [
+                        "the whole assembly",
+                        "the whole congregation"
+                    ]
+                },
+                {
+                    "kanji": "衆",
+                    "reading": "シュウ",
+                    "meanings": [
+                        "great numbers (of people)",
+                        "numerical superiority",
+                        "masses",
+                        "people",
+                        "folk",
+                        "clique",
+                        "bunch"
+                    ]
+                },
+                {
+                    "kanji": "衆院",
+                    "reading": "シュウイン",
+                    "meanings": [
+                        "House of Representatives (lower house of the National Diet of Japan)"
+                    ]
+                },
+                {
+                    "kanji": "若い衆",
+                    "reading": "ワカイシュ",
+                    "meanings": [
+                        "young man",
+                        "youth",
+                        "lad",
+                        "servant boy",
+                        "young shopboy"
+                    ]
+                },
+                {
+                    "kanji": "僧衆",
+                    "reading": "ソウシュウ",
+                    "meanings": [
+                        "large number of priests"
+                    ]
+                }
+            ]
+        }
+    }
+}

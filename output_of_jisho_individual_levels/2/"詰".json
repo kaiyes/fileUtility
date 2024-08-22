@@ -1,0 +1,278 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"詰\"",
+        "strokes": 13,
+        "main_meanings": [
+            "packed",
+            "close",
+            "pressed",
+            "reprove",
+            "rebuke",
+            "blame"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.める",
+                "つ.め",
+                "-づ.め",
+                "つ.まる",
+                "つ.む"
+            ],
+            "on": [
+                "キツ",
+                "キチ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1144": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1035": "A New Dictionary of Kanji Usage",
+                "4359": "Classic Nelson (Andrew Nelson)",
+                "1507": "Essential Kanji (P.G. O’Neill)",
+                "901": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1142": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1195": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1576": "Kanji in Context (Nishiguchi and Kono)",
+                "1678": "Kodansha Compact Kanji Guide",
+                "1920": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1021": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1380": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "349": "Les Kanjis dans la tete (Yves Maniette)",
+                "35440": "Morohashi",
+                "1521": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5609": "New Nelson (John Haig)",
+                "343": "Remembering The Kanji (James Heisig)",
+                "367": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1665": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3077": "2001 Kanji",
+                "7a6.7": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "0466.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-45": "JIS X 0208-1997 kuten code",
+                "8a70": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ずめ、 づめ"
+                ],
+                "chinese": [
+                    "jie2"
+                ],
+                "korean": [
+                    "hil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "口",
+                "士",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "詰める",
+                    "reading": "つめる",
+                    "meanings": [
+                        "to stuff into",
+                        "to jam",
+                        "to cram",
+                        "to pack",
+                        "to fill",
+                        "to plug",
+                        "to stop up",
+                        "to shorten",
+                        "to move closer together",
+                        "to reduce (spending)",
+                        "to conserve",
+                        "to focus intently on",
+                        "to strain oneself to do",
+                        "to go through thoroughly",
+                        "to work out (details)",
+                        "to bring to a conclusion",
+                        "to wind up",
+                        "to be on duty",
+                        "to be stationed",
+                        "to corner (esp. an opponent's king in shogi)",
+                        "to trap",
+                        "to checkmate",
+                        "to cut off (one's finger as an act of apology)",
+                        "to catch (one's finger in a door",
+                        "etc.)",
+                        "to do non-stop",
+                        "to do continuously",
+                        "to keep doing (without a break)",
+                        "to do completely",
+                        "to do thoroughly",
+                        "to force someone into a difficult situation by ..."
+                    ]
+                },
+                {
+                    "kanji": "詰め",
+                    "reading": "つめ",
+                    "meanings": [
+                        "stuffing",
+                        "packing",
+                        "end (esp. the foot of a bridge)",
+                        "lowest-ranking guest at tea ceremony",
+                        "tea master",
+                        "endgame (esp. in shogi or used figuratively)",
+                        "sweet eel sauce",
+                        "middle-aged woman",
+                        "appointment to a particular workplace",
+                        "using as the sole ground of judgement (judgment)",
+                        "continuing",
+                        "keep doing for period of time"
+                    ]
+                },
+                {
+                    "kanji": "詰める",
+                    "reading": "つめる",
+                    "meanings": [
+                        "to stuff into",
+                        "to jam",
+                        "to cram",
+                        "to pack",
+                        "to fill",
+                        "to plug",
+                        "to stop up",
+                        "to shorten",
+                        "to move closer together",
+                        "to reduce (spending)",
+                        "to conserve",
+                        "to focus intently on",
+                        "to strain oneself to do",
+                        "to go through thoroughly",
+                        "to work out (details)",
+                        "to bring to a conclusion",
+                        "to wind up",
+                        "to be on duty",
+                        "to be stationed",
+                        "to corner (esp. an opponent's king in shogi)",
+                        "to trap",
+                        "to checkmate",
+                        "to cut off (one's finger as an act of apology)",
+                        "to catch (one's finger in a door",
+                        "etc.)",
+                        "to do non-stop",
+                        "to do continuously",
+                        "to keep doing (without a break)",
+                        "to do completely",
+                        "to do thoroughly",
+                        "to force someone into a difficult situation by ..."
+                    ]
+                },
+                {
+                    "kanji": "お詰め",
+                    "reading": "おつめ",
+                    "meanings": [
+                        "lowest-ranking guest at tea ceremony",
+                        "tea master"
+                    ]
+                },
+                {
+                    "kanji": "詰まる",
+                    "reading": "つまる",
+                    "meanings": [
+                        "to be packed (with)",
+                        "to be full (space",
+                        "schedule",
+                        "etc.)",
+                        "to be blocked (road",
+                        "pipe",
+                        "nose",
+                        "etc.)",
+                        "to be clogged",
+                        "to be plugged up",
+                        "to shorten (width",
+                        "interval",
+                        "etc.)",
+                        "to shrink (shirt",
+                        "word form",
+                        "etc.)",
+                        "to narrow",
+                        "to be at a loss",
+                        "to be hard pressed",
+                        "to end up",
+                        "to be settled",
+                        "to become a geminate consonant",
+                        "to hit the ball near the handle of the bat"
+                    ]
+                },
+                {
+                    "kanji": "詰まるところ",
+                    "reading": "つまるところ",
+                    "meanings": [
+                        "in short",
+                        "in brief",
+                        "to sum up",
+                        "ultimately",
+                        "in the end",
+                        "in the long run",
+                        "when all is said and done",
+                        "what it all comes down to",
+                        "when you get right down to it"
+                    ]
+                },
+                {
+                    "kanji": "詰む",
+                    "reading": "つむ",
+                    "meanings": [
+                        "to become fine (of fabric)",
+                        "to be checkmated",
+                        "to be hard pressed",
+                        "to be at a loss",
+                        "to reach the limits"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "詰問",
+                    "reading": "キツモン",
+                    "meanings": [
+                        "cross-examination",
+                        "close questioning",
+                        "demanding an explanation"
+                    ]
+                },
+                {
+                    "kanji": "難詰",
+                    "reading": "ナンキツ",
+                    "meanings": [
+                        "reprimand"
+                    ]
+                },
+                {
+                    "kanji": "面詰",
+                    "reading": "メンキツ",
+                    "meanings": [
+                        "reprimanding (a person) personally",
+                        "personal reproof"
+                    ]
+                }
+            ]
+        }
+    }
+}

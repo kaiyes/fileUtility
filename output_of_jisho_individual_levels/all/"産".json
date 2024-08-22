@@ -1,0 +1,178 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"産\"",
+        "strokes": 11,
+        "main_meanings": [
+            "products",
+            "bear",
+            "give birth",
+            "yield",
+            "childbirth",
+            "native",
+            "property"
+        ],
+        "main_readings": {
+            "kun": [
+                "う.む",
+                "う.まれる",
+                "うぶ-",
+                "む.す"
+            ],
+            "on": [
+                "サン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "408": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "518": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "491": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "142": "A New Dictionary of Kanji Usage",
+                "3354": "Classic Nelson (Andrew Nelson)",
+                "317": "Essential Kanji (P.G. O’Neill)",
+                "218": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1520": "Japanese Names (P.G. O’Neill)",
+                "278": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "574": "Kanji in Context (Nishiguchi and Kono)",
+                "1328": "Kodansha Compact Kanji Guide",
+                "4089": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2075": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2812": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1574": "Les Kanjis dans la tete (Yves Maniette)",
+                "21684P": "Morohashi",
+                "3298": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3716": "New Nelson (John Haig)",
+                "1560": "Remembering The Kanji (James Heisig)",
+                "1681": "Remembering The Kanji, 6th edition (James Heisig)",
+                "92": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "567": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "472": "2001 Kanji",
+                "5b6.4": "The Kanji Dictionary",
+                "3-6-5": "SKIP code",
+                "2-4-7": "SKIP code",
+                "2-2-9": "SKIP code",
+                "0021.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-26": "JIS X 0208-1997 kuten code",
+                "7523": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "もと"
+                ],
+                "chinese": [
+                    "chan3"
+                ],
+                "korean": [
+                    "san"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "life",
+            "parts": [
+                "ノ",
+                "亠",
+                "并",
+                "厂",
+                "生",
+                "立"
+            ],
+            "basis": "生",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "生む",
+                    "reading": "うむ",
+                    "meanings": [
+                        "to give birth",
+                        "to bear (child)",
+                        "to lay (eggs)",
+                        "to produce",
+                        "to yield",
+                        "to give rise to",
+                        "to deliver"
+                    ]
+                },
+                {
+                    "kanji": "生まれる",
+                    "reading": "うまれる",
+                    "meanings": [
+                        "to be born"
+                    ]
+                },
+                {
+                    "kanji": "生す",
+                    "reading": "むす",
+                    "meanings": [
+                        "to grow (of moss",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "産霊",
+                    "reading": "むすひ",
+                    "meanings": [
+                        "divine spirit of creation"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "産",
+                    "reading": "サン",
+                    "meanings": [
+                        "(giving) birth",
+                        "childbirth",
+                        "delivery",
+                        "native (of)",
+                        "product of",
+                        "produced in",
+                        "-grown",
+                        "-bred",
+                        "assets",
+                        "property",
+                        "fortune"
+                    ]
+                },
+                {
+                    "kanji": "産科",
+                    "reading": "サンカ",
+                    "meanings": [
+                        "obstetrics"
+                    ]
+                },
+                {
+                    "kanji": "増産",
+                    "reading": "ゾウサン",
+                    "meanings": [
+                        "production increase"
+                    ]
+                },
+                {
+                    "kanji": "水産",
+                    "reading": "スイサン",
+                    "meanings": [
+                        "aquatic products",
+                        "fisheries"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"築\"",
+        "strokes": 16,
+        "main_meanings": [
+            "fabricate",
+            "build",
+            "construct"
+        ],
+        "main_readings": {
+            "kun": [
+                "きず.く"
+            ],
+            "on": [
+                "チク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "673": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "774": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "751": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "820": "A New Dictionary of Kanji Usage",
+                "3435": "Classic Nelson (Andrew Nelson)",
+                "711": "Essential Kanji (P.G. O’Neill)",
+                "801": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2575": "Japanese Names (P.G. O’Neill)",
+                "1603": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1710": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1056": "Kanji in Context (Nishiguchi and Kono)",
+                "1488": "Kodansha Compact Kanji Guide",
+                "3370": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1743": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2369": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "959": "Les Kanjis dans la tete (Yves Maniette)",
+                "26298X": "Morohashi",
+                "2715": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4343": "New Nelson (John Haig)",
+                "950": "Remembering The Kanji (James Heisig)",
+                "1021": "Remembering The Kanji, 6th edition (James Heisig)",
+                "815": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2364": "2001 Kanji",
+                "6f10.5": "The Kanji Dictionary",
+                "2-6-10": "SKIP code",
+                "8890.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-59": "JIS X 0208-1997 kuten code",
+                "7bc9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つい、 つき、 つく、 づき"
+                ],
+                "chinese": [
+                    "zhu2",
+                    "zhu4"
+                ],
+                "korean": [
+                    "chug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "丶",
+                "几",
+                "工",
+                "木",
+                "竹"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "築く",
+                    "reading": "きずく",
+                    "meanings": [
+                        "to build",
+                        "to construct",
+                        "to erect",
+                        "to build up (a reputation",
+                        "position",
+                        "fortune",
+                        "etc.)",
+                        "to establish (a relationship",
+                        "household",
+                        "tradition",
+                        "etc.)",
+                        "to lay (a foundation)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "築",
+                    "reading": "チク",
+                    "meanings": [
+                        "... years since construction",
+                        "... years old (of a building)",
+                        "built in ..."
+                    ]
+                },
+                {
+                    "kanji": "築城",
+                    "reading": "チクジョウ",
+                    "meanings": [
+                        "castle construction",
+                        "building a castle",
+                        "fortification"
+                    ]
+                },
+                {
+                    "kanji": "本建築",
+                    "reading": "ホンケンチク",
+                    "meanings": [
+                        "permanent construction"
+                    ]
+                },
+                {
+                    "kanji": "移築",
+                    "reading": "イチク",
+                    "meanings": [
+                        "dismantling a (historic) building and reconstructing it elsewhere"
+                    ]
+                }
+            ]
+        }
+    }
+}

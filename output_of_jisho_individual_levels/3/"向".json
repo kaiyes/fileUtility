@@ -1,0 +1,303 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"向\"",
+        "strokes": 6,
+        "main_meanings": [
+            "yonder",
+            "facing",
+            "beyond",
+            "confront",
+            "defy",
+            "tend toward",
+            "approach"
+        ],
+        "main_readings": {
+            "kun": [
+                "む.く",
+                "む.い",
+                "-む.き",
+                "む.ける",
+                "-む.け",
+                "む.かう",
+                "む.かい",
+                "む.こう",
+                "む.こう-",
+                "むこ",
+                "むか.い"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "213": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "294": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "278": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "217": "A New Dictionary of Kanji Usage",
+                "101": "Classic Nelson (Andrew Nelson)",
+                "215": "Essential Kanji (P.G. O’Neill)",
+                "402": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "312": "Japanese Names (P.G. O’Neill)",
+                "199": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "557": "Kanji in Context (Nishiguchi and Kono)",
+                "319": "Kodansha Compact Kanji Guide",
+                "3790": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1934": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2627": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "186": "Les Kanjis dans la tete (Yves Maniette)",
+                "3301": "Morohashi",
+                "3052": "New Japanese English Character Dictionary (Jack Halpern)",
+                "712": "New Nelson (John Haig)",
+                "183": "Remembering The Kanji (James Heisig)",
+                "195": "Remembering The Kanji, 6th edition (James Heisig)",
+                "192": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "266": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "849": "2001 Kanji",
+                "3d3.10": "The Kanji Dictionary",
+                "3-3-3": "SKIP code",
+                "2722.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-94": "JIS X 0208-1997 kuten code",
+                "5411": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "こお、 た、 な、 むか、 むかい、 むこう"
+                ],
+                "chinese": [
+                    "xiang4"
+                ],
+                "korean": [
+                    "hyang",
+                    "sang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "冂",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "向く",
+                    "reading": "むく",
+                    "meanings": [
+                        "to turn toward",
+                        "to look (up",
+                        "down",
+                        "etc.)",
+                        "to face (e.g. east) (of a building",
+                        "window",
+                        "etc.)",
+                        "to look out on",
+                        "to front (on)",
+                        "to point (of an arrow",
+                        "compass needle",
+                        "etc.)",
+                        "to be suited to",
+                        "to be fit for",
+                        "to go towards",
+                        "to turn to (of one's interests",
+                        "feelings",
+                        "etc.)",
+                        "to be inclined (to do)"
+                    ]
+                },
+                {
+                    "kanji": "向いている",
+                    "reading": "むいている",
+                    "meanings": [
+                        "to be cut out for (e.g. a job)",
+                        "to be suited (to)"
+                    ]
+                },
+                {
+                    "kanji": "向ける",
+                    "reading": "むける",
+                    "meanings": [
+                        "to turn (towards)",
+                        "to face",
+                        "to point",
+                        "to aim",
+                        "to direct to",
+                        "to head to",
+                        "to go towards",
+                        "to allot",
+                        "to allocate",
+                        "to send",
+                        "to dispatch (e.g. a person)",
+                        "to aim for",
+                        "to pursue"
+                    ]
+                },
+                {
+                    "kanji": "向かう",
+                    "reading": "むかう",
+                    "meanings": [
+                        "to face",
+                        "to go towards",
+                        "to head towards"
+                    ]
+                },
+                {
+                    "kanji": "向かうところ敵無し",
+                    "reading": "むかうところてきなし",
+                    "meanings": [
+                        "unbeatable",
+                        "invincible",
+                        "irresistible"
+                    ]
+                },
+                {
+                    "kanji": "向い",
+                    "reading": "むかい",
+                    "meanings": [
+                        "facing",
+                        "opposite",
+                        "across the street",
+                        "other side"
+                    ]
+                },
+                {
+                    "kanji": "向かい合う",
+                    "reading": "むかいあう",
+                    "meanings": [
+                        "to be opposite",
+                        "to face each other"
+                    ]
+                },
+                {
+                    "kanji": "向こう",
+                    "reading": "むこう",
+                    "meanings": [
+                        "opposite side",
+                        "other side",
+                        "opposite direction",
+                        "over there",
+                        "that way",
+                        "far away",
+                        "beyond",
+                        "the other party",
+                        "the other person",
+                        "future (starting now)"
+                    ]
+                },
+                {
+                    "kanji": "向こう側",
+                    "reading": "むこうがわ",
+                    "meanings": [
+                        "other side",
+                        "opposite side",
+                        "other party"
+                    ]
+                },
+                {
+                    "kanji": "向こう",
+                    "reading": "むこう",
+                    "meanings": [
+                        "opposite side",
+                        "other side",
+                        "opposite direction",
+                        "over there",
+                        "that way",
+                        "far away",
+                        "beyond",
+                        "the other party",
+                        "the other person",
+                        "future (starting now)"
+                    ]
+                },
+                {
+                    "kanji": "向こう側",
+                    "reading": "むこうがわ",
+                    "meanings": [
+                        "other side",
+                        "opposite side",
+                        "other party"
+                    ]
+                },
+                {
+                    "kanji": "向い",
+                    "reading": "むかい",
+                    "meanings": [
+                        "facing",
+                        "opposite",
+                        "across the street",
+                        "other side"
+                    ]
+                },
+                {
+                    "kanji": "向かい合う",
+                    "reading": "むかいあう",
+                    "meanings": [
+                        "to be opposite",
+                        "to face each other"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "向上",
+                    "reading": "コウジョウ",
+                    "meanings": [
+                        "elevation",
+                        "rise",
+                        "improvement",
+                        "advancement",
+                        "progress"
+                    ]
+                },
+                {
+                    "kanji": "向後",
+                    "reading": "コウゴ",
+                    "meanings": [
+                        "hereafter"
+                    ]
+                },
+                {
+                    "kanji": "趣向",
+                    "reading": "シュコウ",
+                    "meanings": [
+                        "plan",
+                        "idea",
+                        "design",
+                        "plot",
+                        "taste",
+                        "liking",
+                        "preference"
+                    ]
+                },
+                {
+                    "kanji": "性向",
+                    "reading": "セイコウ",
+                    "meanings": [
+                        "inclination",
+                        "tendency",
+                        "nature",
+                        "character"
+                    ]
+                }
+            ]
+        }
+    }
+}

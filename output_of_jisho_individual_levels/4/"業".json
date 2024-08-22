@@ -1,0 +1,204 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"業\"",
+        "strokes": 13,
+        "main_meanings": [
+            "business",
+            "vocation",
+            "arts",
+            "performance"
+        ],
+        "main_readings": {
+            "kun": [
+                "わざ"
+            ],
+            "on": [
+                "ギョウ",
+                "ゴウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "380": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "278": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "260": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "54": "A New Dictionary of Kanji Usage",
+                "143": "Classic Nelson (Andrew Nelson)",
+                "292": "Essential Kanji (P.G. O’Neill)",
+                "199": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2024": "Japanese Names (P.G. O’Neill)",
+                "3.1": "Japanese for Busy People",
+                "279": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "307": "Kanji in Context (Nishiguchi and Kono)",
+                "1066": "Kodansha Compact Kanji Guide",
+                "3227": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1674": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2265": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1809": "Les Kanjis dans la tete (Yves Maniette)",
+                "15170": "Morohashi",
+                "2612": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2789": "New Nelson (John Haig)",
+                "1792": "Remembering The Kanji (James Heisig)",
+                "1931": "Remembering The Kanji, 6th edition (James Heisig)",
+                "74": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "419": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1064": "2001 Kanji",
+                "0a13.3": "The Kanji Dictionary",
+                "2-5-8": "SKIP code",
+                "3290.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-40": "JIS X 0208-1997 kuten code",
+                "696d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "なり、 のぶ"
+                ],
+                "chinese": [
+                    "ye4"
+                ],
+                "korean": [
+                    "eob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "一",
+                "｜",
+                "并",
+                "木",
+                "王",
+                "羊",
+                "耒"
+            ],
+            "basis": "木",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "業",
+                    "reading": "わざ",
+                    "meanings": [
+                        "deed",
+                        "act",
+                        "work",
+                        "performance"
+                    ]
+                },
+                {
+                    "kanji": "業師",
+                    "reading": "わざし",
+                    "meanings": [
+                        "tricky wrestler",
+                        "shrewd fellow"
+                    ]
+                },
+                {
+                    "kanji": "寝技",
+                    "reading": "ねわざ",
+                    "meanings": [
+                        "pinning technique (in wrestling or judo)",
+                        "underhanded dealings"
+                    ]
+                },
+                {
+                    "kanji": "投げ技",
+                    "reading": "なげわざ",
+                    "meanings": [
+                        "throw or throwing technique (sumo",
+                        "judo)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "業",
+                    "reading": "ギョウ",
+                    "meanings": [
+                        "work",
+                        "business",
+                        "company",
+                        "agency",
+                        "study"
+                    ]
+                },
+                {
+                    "kanji": "業界",
+                    "reading": "ギョウカイ",
+                    "meanings": [
+                        "business world",
+                        "business circles",
+                        "(the) industry"
+                    ]
+                },
+                {
+                    "kanji": "興業",
+                    "reading": "コウギョウ",
+                    "meanings": [
+                        "promotion of industry",
+                        "inauguration of a new industrial enterprise"
+                    ]
+                },
+                {
+                    "kanji": "鉱業",
+                    "reading": "コウギョウ",
+                    "meanings": [
+                        "mining industry"
+                    ]
+                },
+                {
+                    "kanji": "業",
+                    "reading": "ゴウ",
+                    "meanings": [
+                        "karma",
+                        "result of one's karma",
+                        "fate",
+                        "destiny",
+                        "uncontrollable temper"
+                    ]
+                },
+                {
+                    "kanji": "業因",
+                    "reading": "ゴウイン",
+                    "meanings": [
+                        "karma"
+                    ]
+                },
+                {
+                    "kanji": "罪業",
+                    "reading": "ザイゴウ",
+                    "meanings": [
+                        "sin",
+                        "iniquity",
+                        "crime"
+                    ]
+                },
+                {
+                    "kanji": "正業",
+                    "reading": "ショウゴウ",
+                    "meanings": [
+                        "right action",
+                        "correct meditative activity (in Jodo",
+                        "saying the name of Amitabha)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"旨\"",
+        "strokes": 6,
+        "main_meanings": [
+            "delicious",
+            "relish",
+            "show a liking for",
+            "purport",
+            "will",
+            "clever",
+            "expert"
+        ],
+        "main_readings": {
+            "kun": [
+                "むね",
+                "うま.い"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1312": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1151": "A New Dictionary of Kanji Usage",
+                "752": "Classic Nelson (Andrew Nelson)",
+                "1069": "Essential Kanji (P.G. O’Neill)",
+                "1403": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "263": "Japanese Names (P.G. O’Neill)",
+                "1040": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1081": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1349": "Kanji in Context (Nishiguchi and Kono)",
+                "232": "Kodansha Compact Kanji Guide",
+                "2516": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1278": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1744": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "465": "Les Kanjis dans la tete (Yves Maniette)",
+                "13738": "Morohashi",
+                "2024": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2414": "New Nelson (John Haig)",
+                "455": "Remembering The Kanji (James Heisig)",
+                "493": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1077": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1278": "2001 Kanji",
+                "4c2.2": "The Kanji Dictionary",
+                "2-2-4": "SKIP code",
+                "2160.1": "Four corner code",
+                "2260.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-61": "JIS X 0208-1997 kuten code",
+                "65e8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi3"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "匕",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "旨",
+                    "reading": "むね",
+                    "meanings": [
+                        "principle",
+                        "aim",
+                        "main purpose",
+                        "central part",
+                        "pillar",
+                        "purport",
+                        "gist",
+                        "drift",
+                        "meaning",
+                        "instructions",
+                        "orders",
+                        "intention",
+                        "wishes"
+                    ]
+                },
+                {
+                    "kanji": "旨とする",
+                    "reading": "むねとする",
+                    "meanings": [
+                        "to make it a principle to ...",
+                        "to aim at doing"
+                    ]
+                },
+                {
+                    "kanji": "その旨",
+                    "reading": "そのむね",
+                    "meanings": [
+                        "(words to) that effect"
+                    ]
+                },
+                {
+                    "kanji": "御旨",
+                    "reading": "みむね",
+                    "meanings": [
+                        "God's will"
+                    ]
+                },
+                {
+                    "kanji": "上手い",
+                    "reading": "うまい",
+                    "meanings": [
+                        "skillful",
+                        "skilful",
+                        "skilled",
+                        "good",
+                        "expert",
+                        "clever (expression",
+                        "trick",
+                        "etc.)",
+                        "apt",
+                        "appropriate",
+                        "delicious",
+                        "tasty",
+                        "good",
+                        "nice",
+                        "good (deal",
+                        "idea",
+                        "etc.)",
+                        "profitable",
+                        "promising",
+                        "lucky",
+                        "fortunate",
+                        "successful",
+                        "satisfactory",
+                        "splendid"
+                    ]
+                },
+                {
+                    "kanji": "うまい汁",
+                    "reading": "うまいしる",
+                    "meanings": [
+                        "the lion's share",
+                        "the cream"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "旨意",
+                    "reading": "シイ",
+                    "meanings": [
+                        "intent",
+                        "purpose",
+                        "aim"
+                    ]
+                },
+                {
+                    "kanji": "旨趣",
+                    "reading": "シシュ",
+                    "meanings": [
+                        "objective",
+                        "purport",
+                        "intent"
+                    ]
+                },
+                {
+                    "kanji": "本旨",
+                    "reading": "ホンシ",
+                    "meanings": [
+                        "main object",
+                        "principal object",
+                        "true aim"
+                    ]
+                },
+                {
+                    "kanji": "宗旨",
+                    "reading": "シュウシ",
+                    "meanings": [
+                        "tenets (of a religious sect)",
+                        "doctrines",
+                        "(religious) sect",
+                        "denomination",
+                        "religion",
+                        "faith",
+                        "one's principles",
+                        "one's tastes",
+                        "one's preferences"
+                    ]
+                }
+            ]
+        }
+    }
+}

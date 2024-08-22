@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"領\"",
+        "strokes": 14,
+        "main_meanings": [
+            "jurisdiction",
+            "dominion",
+            "territory",
+            "fief",
+            "reign"
+        ],
+        "main_readings": {
+            "kun": [
+                "えり"
+            ],
+            "on": [
+                "リョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "735": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "825": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "806": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "338": "A New Dictionary of Kanji Usage",
+                "5124": "Classic Nelson (Andrew Nelson)",
+                "849": "Essential Kanji (P.G. O’Neill)",
+                "1008": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "834": "Kanji and Kana (Spahn and Hadamitzky)",
+                "853": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "999": "Kanji in Context (Nishiguchi and Kono)",
+                "1888": "Kodansha Compact Kanji Guide",
+                "1567": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "828": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1133": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1417": "Les Kanjis dans la tete (Yves Maniette)",
+                "43423": "Morohashi",
+                "1224": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6628": "New Nelson (John Haig)",
+                "1405": "Remembering The Kanji (James Heisig)",
+                "1507": "Remembering The Kanji, 6th edition (James Heisig)",
+                "452": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "804": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2861": "2001 Kanji",
+                "9a5.2": "The Kanji Dictionary",
+                "1-5-9": "SKIP code",
+                "8128.6": "Four corner code",
+                "8138.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-46-46": "JIS X 0208-1997 kuten code",
+                "9818": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "よう、 よし"
+                ],
+                "chinese": [
+                    "ling3"
+                ],
+                "korean": [
+                    "ryeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leaf",
+            "parts": [
+                "一",
+                "个",
+                "ハ",
+                "卩",
+                "目",
+                "貝",
+                "頁"
+            ],
+            "basis": "頁",
+            "kangxi_order": 181,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "襟",
+                    "reading": "えり",
+                    "meanings": [
+                        "collar",
+                        "lapel",
+                        "neckband",
+                        "neck",
+                        "nape of the neck",
+                        "scruff of the neck"
+                    ]
+                },
+                {
+                    "kanji": "襟足",
+                    "reading": "えりあし",
+                    "meanings": [
+                        "hairline at the nape of the neck",
+                        "nape"
+                    ]
+                },
+                {
+                    "kanji": "盤領",
+                    "reading": "まるえり",
+                    "meanings": [
+                        "round collar (of traditional Japanese clothing)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "領",
+                    "reading": "リョウ",
+                    "meanings": [
+                        "territory (of country",
+                        "feudal domain",
+                        "etc.)",
+                        "counter for suits of clothing",
+                        "sets of armor",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "領域",
+                    "reading": "リョウイキ",
+                    "meanings": [
+                        "area",
+                        "domain",
+                        "territory",
+                        "field",
+                        "range",
+                        "region",
+                        "regime"
+                    ]
+                },
+                {
+                    "kanji": "学習指導要領",
+                    "reading": "ガクシュウシドウヨウリョウ",
+                    "meanings": [
+                        "government course (curriculum) guidelines"
+                    ]
+                },
+                {
+                    "kanji": "綱領",
+                    "reading": "コウリョウ",
+                    "meanings": [
+                        "general plan",
+                        "main points",
+                        "summary",
+                        "platform (e.g. for a campaign)",
+                        "mission statement"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"得\"",
+        "strokes": 11,
+        "main_meanings": [
+            "gain",
+            "get",
+            "find",
+            "earn",
+            "acquire",
+            "can",
+            "may",
+            "able to",
+            "profit",
+            "advantage",
+            "benefit"
+        ],
+        "main_readings": {
+            "kun": [
+                "え.る",
+                "う.る"
+            ],
+            "on": [
+                "トク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "850": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "587": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "761": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "358": "A New Dictionary of Kanji Usage",
+                "1622": "Classic Nelson (Andrew Nelson)",
+                "340": "Essential Kanji (P.G. O’Neill)",
+                "523": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1299": "Japanese Names (P.G. O’Neill)",
+                "374": "Kanji and Kana (Spahn and Hadamitzky)",
+                "375": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "643": "Kanji in Context (Nishiguchi and Kono)",
+                "631": "Kodansha Compact Kanji Guide",
+                "577": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "351": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "435": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "885": "Les Kanjis dans la tete (Yves Maniette)",
+                "10137": "Morohashi",
+                "477": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1755": "New Nelson (John Haig)",
+                "876": "Remembering The Kanji (James Heisig)",
+                "941": "Remembering The Kanji, 6th edition (James Heisig)",
+                "167": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "574": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2048": "2001 Kanji",
+                "3i8.4": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "2624.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-32": "JIS X 0208-1997 kuten code",
+                "5f97": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつ、 てろ"
+                ],
+                "chinese": [
+                    "de2",
+                    "de5",
+                    "dei3"
+                ],
+                "korean": [
+                    "deug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "step",
+            "parts": [
+                "一",
+                "寸",
+                "彳",
+                "日"
+            ],
+            "basis": "彳",
+            "kangxi_order": 60,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "得る",
+                    "reading": "える",
+                    "meanings": [
+                        "to get",
+                        "to earn",
+                        "to acquire",
+                        "to procure",
+                        "to gain",
+                        "to secure",
+                        "to attain",
+                        "to obtain",
+                        "to win",
+                        "to understand",
+                        "to comprehend",
+                        "to receive something undesirable (e.g. a punishment)",
+                        "to get (ill)",
+                        "to be able to ...",
+                        "can ..."
+                    ]
+                },
+                {
+                    "kanji": "得る",
+                    "reading": "うる",
+                    "meanings": [
+                        "to be able to ...",
+                        "can ...",
+                        "to get",
+                        "to acquire",
+                        "to obtain",
+                        "to procure",
+                        "to earn",
+                        "to win",
+                        "to gain",
+                        "to secure",
+                        "to attain"
+                    ]
+                },
+                {
+                    "kanji": "得撫草",
+                    "reading": "うるっぷそう",
+                    "meanings": [
+                        "weaselsnout (Lagotis glauca)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "得",
+                    "reading": "トク",
+                    "meanings": [
+                        "profit",
+                        "advantage",
+                        "benefit",
+                        "gain",
+                        "rebirth in paradise",
+                        "entering nirvana"
+                    ]
+                },
+                {
+                    "kanji": "得意",
+                    "reading": "トクイ",
+                    "meanings": [
+                        "satisfaction",
+                        "pride",
+                        "triumph",
+                        "elation",
+                        "one's strong point",
+                        "one's forte",
+                        "one's specialty",
+                        "regular customer",
+                        "regular client",
+                        "patron"
+                    ]
+                },
+                {
+                    "kanji": "拾得",
+                    "reading": "シュウトク",
+                    "meanings": [
+                        "finding (lost property)",
+                        "picking up"
+                    ]
+                },
+                {
+                    "kanji": "体得",
+                    "reading": "タイトク",
+                    "meanings": [
+                        "mastery",
+                        "learning through experience",
+                        "realization",
+                        "realisation",
+                        "comprehension"
+                    ]
+                }
+            ]
+        }
+    }
+}

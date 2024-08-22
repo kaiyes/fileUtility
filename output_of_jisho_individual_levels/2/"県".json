@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"県\"",
+        "strokes": 9,
+        "main_meanings": [
+            "prefecture"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.ける"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "203": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "291": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "273": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "195": "A New Dictionary of Kanji Usage",
+                "1362": "Classic Nelson (Andrew Nelson)",
+                "381": "Essential Kanji (P.G. O’Neill)",
+                "226": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1252": "Japanese Names (P.G. O’Neill)",
+                "194": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "336": "Kanji in Context (Nishiguchi and Kono)",
+                "1380": "Kodansha Compact Kanji Guide",
+                "3269": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1687": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2294": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "126": "Les Kanjis dans la tete (Yves Maniette)",
+                "23210P": "Morohashi",
+                "2641": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3918": "New Nelson (John Haig)",
+                "513": "Remembering The Kanji (James Heisig)",
+                "552": "Remembering The Kanji, 6th edition (James Heisig)",
+                "326": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1241": "2001 Kanji",
+                "3n6.3": "The Kanji Dictionary",
+                "2-6-3": "SKIP code",
+                "3-4-5": "SKIP code",
+                "2-5-4": "SKIP code",
+                "2690.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-09": "JIS X 0208-1997 kuten code",
+                "770c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あがた、 がた"
+                ],
+                "chinese": [
+                    "xian4"
+                ],
+                "korean": [
+                    "hyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eye",
+            "parts": [
+                "小",
+                "目"
+            ],
+            "basis": "目",
+            "kangxi_order": null,
+            "variants": [
+                "縣"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "県",
+                    "reading": "ケン",
+                    "meanings": [
+                        "prefecture (Japan)",
+                        "county (China",
+                        "Taiwan",
+                        "Norway",
+                        "etc.)",
+                        "department (France)",
+                        "province (Italy",
+                        "Spain",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "県営",
+                    "reading": "ケンエイ",
+                    "meanings": [
+                        "(under) prefectural management"
+                    ]
+                },
+                {
+                    "kanji": "都道府県",
+                    "reading": "トドウフケン",
+                    "meanings": [
+                        "prefectures (of Japan)",
+                        "largest administrative divisions of Japan: Tokyo-to",
+                        "Osaka-fu",
+                        "Kyoto-fu",
+                        "Hokkaido and the remaining prefectures"
+                    ]
+                },
+                {
+                    "kanji": "同県",
+                    "reading": "ドウケン",
+                    "meanings": [
+                        "the same prefecture",
+                        "the said prefecture"
+                    ]
+                }
+            ]
+        }
+    }
+}

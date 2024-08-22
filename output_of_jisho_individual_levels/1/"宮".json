@@ -1,0 +1,246 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"宮\"",
+        "strokes": 10,
+        "main_meanings": [
+            "Shinto shrine",
+            "constellations",
+            "palace",
+            "princess"
+        ],
+        "main_readings": {
+            "kun": [
+                "みや"
+            ],
+            "on": [
+                "キュウ",
+                "グウ",
+                "ク",
+                "クウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "374": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "274": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "256": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "419": "A New Dictionary of Kanji Usage",
+                "1310": "Classic Nelson (Andrew Nelson)",
+                "546": "Essential Kanji (P.G. O’Neill)",
+                "1209": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1184": "Japanese Names (P.G. O’Neill)",
+                "721": "Kanji and Kana (Spahn and Hadamitzky)",
+                "734": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "929": "Kanji in Context (Nishiguchi and Kono)",
+                "482": "Kodansha Compact Kanji Guide",
+                "2828": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1459": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1964": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1042": "Les Kanjis dans la tete (Yves Maniette)",
+                "7156": "Morohashi",
+                "2274": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1336": "New Nelson (John Haig)",
+                "1033": "Remembering The Kanji (James Heisig)",
+                "1110": "Remembering The Kanji, 6th edition (James Heisig)",
+                "353": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "777": "2001 Kanji",
+                "3m7.5": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "3060.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-60": "JIS X 0208-1997 kuten code",
+                "5bae": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ぐ、 み"
+                ],
+                "chinese": [
+                    "gong1"
+                ],
+                "korean": [
+                    "gung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "ノ",
+                "口",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "宮",
+                    "reading": "みや",
+                    "meanings": [
+                        "shrine",
+                        "palace",
+                        "imperial residence",
+                        "Imperial prince",
+                        "Imperial princess",
+                        "headboard with built-in shelves",
+                        "drawers",
+                        "etc.",
+                        "temple"
+                    ]
+                },
+                {
+                    "kanji": "宮家",
+                    "reading": "みやけ",
+                    "meanings": [
+                        "house of an imperial prince"
+                    ]
+                },
+                {
+                    "kanji": "若宮",
+                    "reading": "わかみや",
+                    "meanings": [
+                        "young imperial prince",
+                        "child of the imperial family",
+                        "shrine dedicated to a child of the god of the main shrine",
+                        "newly built shrine (to which a divided tutelary deity has just been transferred)"
+                    ]
+                },
+                {
+                    "kanji": "大宮",
+                    "reading": "おおみや",
+                    "meanings": [
+                        "imperial palace",
+                        "shrine",
+                        "Grand Empress Dowager",
+                        "Empress Dowager",
+                        "woman of imperial lineage who has borne a child",
+                        "elderly woman of imperial lineage"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "宮",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "palace",
+                        "tonic (of the Japanese and Chinese pentatonic scale)",
+                        "ancient Chinese punishment (castration for men",
+                        "or confinement for women)",
+                        "zodiacal sign"
+                    ]
+                },
+                {
+                    "kanji": "宮中",
+                    "reading": "キュウチュウ",
+                    "meanings": [
+                        "imperial court"
+                    ]
+                },
+                {
+                    "kanji": "離宮",
+                    "reading": "リキュウ",
+                    "meanings": [
+                        "imperial villa",
+                        "royal villa",
+                        "detached palace"
+                    ]
+                },
+                {
+                    "kanji": "巨蟹宮",
+                    "reading": "キョカイキュウ",
+                    "meanings": [
+                        "Cancer (4th zodiacal sign)",
+                        "the Crab"
+                    ]
+                },
+                {
+                    "kanji": "宮司",
+                    "reading": "グウジ",
+                    "meanings": [
+                        "chief priest"
+                    ]
+                },
+                {
+                    "kanji": "宮寺",
+                    "reading": "グウジ",
+                    "meanings": [
+                        "Buddhist temple within a Shinto shrine"
+                    ]
+                },
+                {
+                    "kanji": "二宮",
+                    "reading": "ニグウ",
+                    "meanings": [
+                        "the Two Ise Shrines"
+                    ]
+                },
+                {
+                    "kanji": "東宮",
+                    "reading": "トウグウ",
+                    "meanings": [
+                        "crown prince"
+                    ]
+                },
+                {
+                    "kanji": "宮内庁",
+                    "reading": "クナイチョウ",
+                    "meanings": [
+                        "Imperial Household Agency"
+                    ]
+                },
+                {
+                    "kanji": "宮内",
+                    "reading": "クナイ",
+                    "meanings": [
+                        "inside the Imperial Palace",
+                        "Department of the Imperial Household"
+                    ]
+                },
+                {
+                    "kanji": "月宮",
+                    "reading": "ゲッキュウ",
+                    "meanings": [
+                        "moon palace of the Hindu god Chandra"
+                    ]
+                },
+                {
+                    "kanji": "夙",
+                    "reading": "シュク",
+                    "meanings": [
+                        "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+                    ]
+                },
+                {
+                    "kanji": "内宮",
+                    "reading": "ナイクウ",
+                    "meanings": [
+                        "Inner Ise Shrine"
+                    ]
+                },
+                {
+                    "kanji": "外宮",
+                    "reading": "ゲクウ",
+                    "meanings": [
+                        "outer shrine of the Ise Grand Shrine"
+                    ]
+                }
+            ]
+        }
+    }
+}

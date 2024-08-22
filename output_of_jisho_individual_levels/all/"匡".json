@@ -1,0 +1,106 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"匡\"",
+        "strokes": 6,
+        "main_meanings": [
+            "correct",
+            "save",
+            "assist"
+        ],
+        "main_readings": {
+            "kun": [
+                "すく.う",
+                "ただ.す"
+            ],
+            "on": [
+                "キョウ",
+                "オウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "760": "Classic Nelson (Andrew Nelson)",
+                "1923": "Essential Kanji (P.G. O’Neill)",
+                "504": "Japanese Names (P.G. O’Neill)",
+                "2030": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3710": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1899": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2580": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2606": "Morohashi",
+                "2989": "New Japanese English Character Dictionary (Jack Halpern)",
+                "587": "New Nelson (John Haig)",
+                "2892": "Remembering The Kanji (James Heisig)",
+                "2901": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2t4.1": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "7171.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-09": "JIS X 0208-1997 kuten code",
+                "5321": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ただ、 ただし、 まさ、 まさし、 きよ、 ひと、 やす"
+                ],
+                "chinese": [
+                    "kuang1"
+                ],
+                "korean": [
+                    "gwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "box",
+            "parts": [
+                "匚",
+                "王"
+            ],
+            "basis": "匚",
+            "kangxi_order": 22,
+            "variants": [
+                "匩"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "匡救",
+                    "reading": "キョウキュウ",
+                    "meanings": [
+                        "delivering from sin",
+                        "succor",
+                        "succour"
+                    ]
+                },
+                {
+                    "kanji": "匡正",
+                    "reading": "キョウセイ",
+                    "meanings": [
+                        "correction (of a fault",
+                        "mistake",
+                        "flaw",
+                        "etc.)",
+                        "remedy",
+                        "rectification",
+                        "redress",
+                        "reform"
+                    ]
+                }
+            ]
+        }
+    }
+}

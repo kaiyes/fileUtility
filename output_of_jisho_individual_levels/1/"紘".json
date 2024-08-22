@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"紘\"",
+        "strokes": 10,
+        "main_meanings": [
+            "large"
+        ],
+        "main_readings": {
+            "kun": [
+                "おおづな",
+                "つな",
+                "つなぐ"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3502": "Classic Nelson (Andrew Nelson)",
+                "1949": "Japanese Names (P.G. O’Neill)",
+                "2190": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1650": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "875": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1193": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "27289": "Morohashi",
+                "1298": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4445": "New Nelson (John Haig)",
+                "2662": "Remembering The Kanji (James Heisig)",
+                "2704": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "6a4.11": "The Kanji Dictionary",
+                "1-6-4": "SKIP code",
+                "2493.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-41": "JIS X 0208-1997 kuten code",
+                "7d18": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ひろ、 ひろし"
+                ],
+                "chinese": [
+                    "hong2"
+                ],
+                "korean": [
+                    "goeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "一",
+                "ノ",
+                "厶",
+                "小",
+                "幺",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": [
+                "綋"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "八紘",
+                    "reading": "ハッコウ",
+                    "meanings": [
+                        "the eight directions",
+                        "the whole land",
+                        "the whole world"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"度\"",
+        "strokes": 9,
+        "main_meanings": [
+            "degrees",
+            "occurrence",
+            "time",
+            "counter for occurrences",
+            "consider",
+            "attitude"
+        ],
+        "main_readings": {
+            "kun": [
+                "たび",
+                "-た.い"
+            ],
+            "on": [
+                "ド",
+                "ト",
+                "タク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "288": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "377": "Kanji and Kana (Spahn and Hadamitzky)",
+                "356": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "83": "A New Dictionary of Kanji Usage",
+                "1511": "Classic Nelson (Andrew Nelson)",
+                "252": "Essential Kanji (P.G. O’Neill)",
+                "165": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1009": "Japanese Names (P.G. O’Neill)",
+                "2.6": "Japanese for Busy People",
+                "378": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "333": "Kanji in Context (Nishiguchi and Kono)",
+                "588": "Kodansha Compact Kanji Guide",
+                "3844": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1974": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2670": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1202": "Les Kanjis dans la tete (Yves Maniette)",
+                "9313": "Morohashi",
+                "3100": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1616": "New Nelson (John Haig)",
+                "1194": "Remembering The Kanji (James Heisig)",
+                "1278": "Remembering The Kanji, 6th edition (James Heisig)",
+                "72": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "340": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "567": "2001 Kanji",
+                "3q6.1": "The Kanji Dictionary",
+                "3-3-6": "SKIP code",
+                "3-3-5": "SKIP code",
+                "0024.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-57": "JIS X 0208-1997 kuten code",
+                "5ea6": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のり"
+                ],
+                "chinese": [
+                    "du4",
+                    "duo2",
+                    "duo4"
+                ],
+                "korean": [
+                    "do",
+                    "tag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "house",
+            "parts": [
+                "一",
+                "又",
+                "广",
+                "凵"
+            ],
+            "basis": "广",
+            "kangxi_order": 53,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "度",
+                    "reading": "たび",
+                    "meanings": [
+                        "time (three times",
+                        "each time",
+                        "etc.)",
+                        "times"
+                    ]
+                },
+                {
+                    "kanji": "度数",
+                    "reading": "どすう",
+                    "meanings": [
+                        "frequency",
+                        "number of times",
+                        "incidence",
+                        "degree (e.g. temperature)",
+                        "strength (e.g. alcohol",
+                        "lens",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "中度",
+                    "reading": "なかたび",
+                    "meanings": [
+                        "midway (through)",
+                        "halfway"
+                    ]
+                },
+                {
+                    "kanji": "千度",
+                    "reading": "せんど",
+                    "meanings": [
+                        "thousand times"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "度",
+                    "reading": "ド",
+                    "meanings": [
+                        "degree (angle",
+                        "temperature",
+                        "scale",
+                        "etc.)",
+                        "counter for occurrences",
+                        "strength (of glasses)",
+                        "glasses prescription",
+                        "alcohol content (percentage)",
+                        "alcohol by volume",
+                        "extent",
+                        "degree",
+                        "limit",
+                        "presence of mind",
+                        "composure"
+                    ]
+                },
+                {
+                    "kanji": "度",
+                    "reading": "ド",
+                    "meanings": [
+                        "precisely",
+                        "exactly",
+                        "plumb",
+                        "totally",
+                        "very much",
+                        "damn",
+                        "stupid",
+                        "cursed"
+                    ]
+                },
+                {
+                    "kanji": "重度",
+                    "reading": "ジュウド",
+                    "meanings": [
+                        "severe (illness",
+                        "disability",
+                        "etc.)",
+                        "serious"
+                    ]
+                },
+                {
+                    "kanji": "濃度",
+                    "reading": "ノウド",
+                    "meanings": [
+                        "concentration",
+                        "density",
+                        "cardinality"
+                    ]
+                },
+                {
+                    "kanji": "法度",
+                    "reading": "ハット",
+                    "meanings": [
+                        "ban",
+                        "prohibition",
+                        "taboo",
+                        "something forbidden",
+                        "law",
+                        "ordinance (esp. in the middle ages)"
+                    ]
+                },
+                {
+                    "kanji": "ご法度",
+                    "reading": "ゴハット",
+                    "meanings": [
+                        "forbidden",
+                        "prohibited",
+                        "banned",
+                        "taboo"
+                    ]
+                },
+                {
+                    "kanji": "忖度",
+                    "reading": "ソンタク",
+                    "meanings": [
+                        "surmise (about someone's feelings)",
+                        "guess",
+                        "conjecture",
+                        "(showing) deference (to)",
+                        "consideration (of someone's wishes)",
+                        "servility"
+                    ]
+                },
+                {
+                    "kanji": "臆度",
+                    "reading": "オクタク",
+                    "meanings": [
+                        "guessing",
+                        "speculation",
+                        "supposition",
+                        "hypothesis"
+                    ]
+                }
+            ]
+        }
+    }
+}

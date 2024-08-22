@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"碩\"",
+        "strokes": 14,
+        "main_meanings": [
+            "large",
+            "great",
+            "eminent"
+        ],
+        "main_readings": {
+            "kun": [
+                "おお.きい"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "3207": "Classic Nelson (Andrew Nelson)",
+                "2116": "Japanese Names (P.G. O’Neill)",
+                "2265": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1555": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "822": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1124": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "24338": "Morohashi",
+                "4026": "New Nelson (John Haig)",
+                "2593": "Remembering The Kanji (James Heisig)",
+                "2639": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "5a9.1": "The Kanji Dictionary",
+                "1-5-9": "SKIP code",
+                "1168.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-57": "JIS X 0208-1997 kuten code",
+                "78a9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shuo4",
+                    "shi2"
+                ],
+                "korean": [
+                    "seog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "stone",
+            "parts": [
+                "ハ",
+                "口",
+                "目",
+                "石",
+                "貝",
+                "頁"
+            ],
+            "basis": "石",
+            "kangxi_order": 112,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "碩学",
+                    "reading": "セキガク",
+                    "meanings": [
+                        "great scholar",
+                        "profound scholar"
+                    ]
+                },
+                {
+                    "kanji": "碩儒",
+                    "reading": "セキジュ",
+                    "meanings": [
+                        "(Confucian) scholar"
+                    ]
+                }
+            ]
+        }
+    }
+}

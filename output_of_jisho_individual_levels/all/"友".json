@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"友\"",
+        "strokes": 4,
+        "main_meanings": [
+            "friend"
+        ],
+        "main_readings": {
+            "kun": [
+                "とも"
+            ],
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "145": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "234": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "214": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "543": "A New Dictionary of Kanji Usage",
+                "858": "Classic Nelson (Andrew Nelson)",
+                "158": "Essential Kanji (P.G. O’Neill)",
+                "30": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "70": "Japanese Names (P.G. O’Neill)",
+                "2.18": "Japanese for Busy People",
+                "264": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "79": "Kanji in Context (Nishiguchi and Kono)",
+                "268": "Kodansha Compact Kanji Guide",
+                "3670": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1873": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2553": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "711": "Les Kanjis dans la tete (Yves Maniette)",
+                "3119": "Morohashi",
+                "2952": "New Japanese English Character Dictionary (Jack Halpern)",
+                "672": "New Nelson (John Haig)",
+                "704": "Remembering The Kanji (James Heisig)",
+                "760": "Remembering The Kanji, 6th edition (James Heisig)",
+                "451": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "104": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1467": "2001 Kanji",
+                "2h2.3": "The Kanji Dictionary",
+                "3-2-2": "SKIP code",
+                "4-4-4": "SKIP code",
+                "4004.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-07": "JIS X 0208-1997 kuten code",
+                "53cb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "う、 ど、 ゆ"
+                ],
+                "chinese": [
+                    "you3"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "right",
+            "parts": [
+                "一",
+                "ノ",
+                "又"
+            ],
+            "basis": "又",
+            "kangxi_order": 29,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "友",
+                    "reading": "とも",
+                    "meanings": [
+                        "friend",
+                        "companion",
+                        "comrade",
+                        "pal",
+                        "accompaniment",
+                        "companion (e.g. book)",
+                        "complement",
+                        "accessory"
+                    ]
+                },
+                {
+                    "kanji": "友達",
+                    "reading": "ともだち",
+                    "meanings": [
+                        "friend",
+                        "companion"
+                    ]
+                },
+                {
+                    "kanji": "リア友",
+                    "reading": "リアとも",
+                    "meanings": [
+                        "real-life friend (as opposed to online friend)"
+                    ]
+                },
+                {
+                    "kanji": "酒のお供",
+                    "reading": "さけのおとも",
+                    "meanings": [
+                        "appetizer or snack served with drinks",
+                        "accompaniment to an (alcoholic) drink"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "友",
+                    "reading": "ユウ",
+                    "meanings": [
+                        "friend",
+                        "affection (for siblings)"
+                    ]
+                },
+                {
+                    "kanji": "友愛",
+                    "reading": "ユウアイ",
+                    "meanings": [
+                        "fraternity",
+                        "friendship"
+                    ]
+                },
+                {
+                    "kanji": "戦友",
+                    "reading": "センユウ",
+                    "meanings": [
+                        "comrade in arms",
+                        "war buddy",
+                        "fellow soldier"
+                    ]
+                },
+                {
+                    "kanji": "盟友",
+                    "reading": "メイユウ",
+                    "meanings": [
+                        "sworn friend"
+                    ]
+                }
+            ]
+        }
+    }
+}

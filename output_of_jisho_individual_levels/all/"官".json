@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"官\"",
+        "strokes": 8,
+        "main_meanings": [
+            "bureaucrat",
+            "the government",
+            "organ"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "364": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "465": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "441": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "225": "A New Dictionary of Kanji Usage",
+                "1295": "Classic Nelson (Andrew Nelson)",
+                "318": "Essential Kanji (P.G. O’Neill)",
+                "462": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "672": "Japanese Names (P.G. O’Neill)",
+                "326": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "540": "Kanji in Context (Nishiguchi and Kono)",
+                "469": "Kodansha Compact Kanji Guide",
+                "2766": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1417": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1912": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1279": "Les Kanjis dans la tete (Yves Maniette)",
+                "7107": "Morohashi",
+                "2226": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1322": "New Nelson (John Haig)",
+                "1271": "Remembering The Kanji (James Heisig)",
+                "1363": "Remembering The Kanji, 6th edition (James Heisig)",
+                "202": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "498": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "777": "2001 Kanji",
+                "3m5.6": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "3077.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-17": "JIS X 0208-1997 kuten code",
+                "5b98": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "guan1"
+                ],
+                "korean": [
+                    "gwan"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "｜",
+                "口",
+                "宀"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "官",
+                    "reading": "カン",
+                    "meanings": [
+                        "government service",
+                        "the bureaucracy"
+                    ]
+                },
+                {
+                    "kanji": "官界",
+                    "reading": "カンカイ",
+                    "meanings": [
+                        "bureaucracy"
+                    ]
+                },
+                {
+                    "kanji": "代官",
+                    "reading": "ダイカン",
+                    "meanings": [
+                        "local governor (Edo period)",
+                        "local magistrate",
+                        "bailiff",
+                        "deputy official (Middle Ages)",
+                        "acting administrator"
+                    ]
+                },
+                {
+                    "kanji": "自衛官",
+                    "reading": "ジエイカン",
+                    "meanings": [
+                        "Japanese Self-Defense Force official",
+                        "Self-Defense Force official"
+                    ]
+                }
+            ]
+        }
+    }
+}

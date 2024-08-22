@@ -1,0 +1,164 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"室\"",
+        "strokes": 9,
+        "main_meanings": [
+            "room",
+            "apartment",
+            "chamber",
+            "greenhouse",
+            "cellar"
+        ],
+        "main_readings": {
+            "kun": [
+                "むろ"
+            ],
+            "on": [
+                "シツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "232": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "152": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "136": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "421": "A New Dictionary of Kanji Usage",
+                "1300": "Classic Nelson (Andrew Nelson)",
+                "278": "Essential Kanji (P.G. O’Neill)",
+                "157": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1183": "Japanese Names (P.G. O’Neill)",
+                "3.5": "Japanese for Busy People",
+                "166": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "331": "Kanji in Context (Nishiguchi and Kono)",
+                "477": "Kodansha Compact Kanji Guide",
+                "2802": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1442": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1943": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "761": "Les Kanjis dans la tete (Yves Maniette)",
+                "7136": "Morohashi",
+                "2254": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1327": "New Nelson (John Haig)",
+                "754": "Remembering The Kanji (James Heisig)",
+                "816": "Remembering The Kanji, 6th edition (James Heisig)",
+                "176": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "772": "2001 Kanji",
+                "3m6.4": "The Kanji Dictionary",
+                "2-3-6": "SKIP code",
+                "3010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-28": "JIS X 0208-1997 kuten code",
+                "5ba4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shi4"
+                ],
+                "korean": [
+                    "sil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "厶",
+                "土",
+                "宀",
+                "至"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "室",
+                    "reading": "むろ",
+                    "meanings": [
+                        "greenhouse",
+                        "icehouse",
+                        "cellar"
+                    ]
+                },
+                {
+                    "kanji": "室町",
+                    "reading": "むろまち",
+                    "meanings": [
+                        "Muromachi period (1336-1573)"
+                    ]
+                },
+                {
+                    "kanji": "石室",
+                    "reading": "せきしつ",
+                    "meanings": [
+                        "stone hut",
+                        "rock chamber",
+                        "tomb",
+                        "stone burial chamber"
+                    ]
+                },
+                {
+                    "kanji": "氷室",
+                    "reading": "こおりむろ",
+                    "meanings": [
+                        "ice house",
+                        "ice room",
+                        "cold room"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "室",
+                    "reading": "シツ",
+                    "meanings": [
+                        "room",
+                        "wife (of someone of high rank)",
+                        "scabbard",
+                        "Chinese \"Encampment\" constellation (one of the 28 mansions)"
+                    ]
+                },
+                {
+                    "kanji": "室長",
+                    "reading": "シツチョウ",
+                    "meanings": [
+                        "section chief",
+                        "laboratory manager",
+                        "office head",
+                        "room monitor"
+                    ]
+                },
+                {
+                    "kanji": "同室",
+                    "reading": "ドウシツ",
+                    "meanings": [
+                        "same room",
+                        "sharing a room",
+                        "occupying the same room"
+                    ]
+                },
+                {
+                    "kanji": "皇室",
+                    "reading": "コウシツ",
+                    "meanings": [
+                        "Imperial household"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"岳\"",
+        "strokes": 8,
+        "main_meanings": [
+            "point",
+            "peak",
+            "mountain"
+        ],
+        "main_readings": {
+            "kun": [
+                "たけ"
+            ],
+            "on": [
+                "ガク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1082": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1091": "A New Dictionary of Kanji Usage",
+                "208": "Classic Nelson (Andrew Nelson)",
+                "1772": "Essential Kanji (P.G. O’Neill)",
+                "1238": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "956": "Japanese Names (P.G. O’Neill)",
+                "1358": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1442": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1851": "Kanji in Context (Nishiguchi and Kono)",
+                "537": "Kodansha Compact Kanji Guide",
+                "3164": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1627": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2213": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1342": "Les Kanjis dans la tete (Yves Maniette)",
+                "8001": "Morohashi",
+                "2557": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1457": "New Nelson (John Haig)",
+                "1330": "Remembering The Kanji (James Heisig)",
+                "1428": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1167": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2676": "2001 Kanji",
+                "3o5.12": "The Kanji Dictionary",
+                "2-5-3": "SKIP code",
+                "7277.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-57": "JIS X 0208-1997 kuten code",
+                "5cb3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おか、 たか、 たけん"
+                ],
+                "chinese": [
+                    "yue4"
+                ],
+                "korean": [
+                    "ag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mountain",
+            "parts": [
+                "一",
+                "山",
+                "斤"
+            ],
+            "basis": "山",
+            "kangxi_order": null,
+            "variants": [
+                "嶽"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "岳",
+                    "reading": "たけ",
+                    "meanings": [
+                        "peak",
+                        "mountain"
+                    ]
+                },
+                {
+                    "kanji": "岳烏",
+                    "reading": "だけがらす",
+                    "meanings": [
+                        "spotted nutcracker (Nucifraga caryocatactes)"
+                    ]
+                },
+                {
+                    "kanji": "御嶽",
+                    "reading": "みたけ",
+                    "meanings": [
+                        "large",
+                        "high mountain"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "岳人",
+                    "reading": "ガクジン",
+                    "meanings": [
+                        "alpinist",
+                        "mountaineer"
+                    ]
+                },
+                {
+                    "kanji": "岳神",
+                    "reading": "ガクジン",
+                    "meanings": [
+                        "mountain god"
+                    ]
+                },
+                {
+                    "kanji": "富岳",
+                    "reading": "フガク",
+                    "meanings": [
+                        "Mount Fuji"
+                    ]
+                }
+            ]
+        }
+    }
+}

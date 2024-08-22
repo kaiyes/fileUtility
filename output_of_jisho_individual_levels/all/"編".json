@@ -1,0 +1,153 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"編\"",
+        "strokes": 15,
+        "main_meanings": [
+            "compilation",
+            "knit",
+            "plait",
+            "braid",
+            "twist",
+            "editing",
+            "completed poem",
+            "part of a book"
+        ],
+        "main_readings": {
+            "kun": [
+                "あ.む",
+                "-あ.み"
+            ],
+            "on": [
+                "ヘン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "714": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "806": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "785": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "495": "A New Dictionary of Kanji Usage",
+                "3583": "Classic Nelson (Andrew Nelson)",
+                "473": "Essential Kanji (P.G. O’Neill)",
+                "827": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "682": "Kanji and Kana (Spahn and Hadamitzky)",
+                "695": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "883": "Kanji in Context (Nishiguchi and Kono)",
+                "1553": "Kodansha Compact Kanji Guide",
+                "1755": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "941": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1270": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1842": "Les Kanjis dans la tete (Yves Maniette)",
+                "27665X": "Morohashi",
+                "1387": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4552": "New Nelson (John Haig)",
+                "1825": "Remembering The Kanji (James Heisig)",
+                "1966": "Remembering The Kanji, 6th edition (James Heisig)",
+                "811": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2753": "2001 Kanji",
+                "6a9.13": "The Kanji Dictionary",
+                "1-6-9": "SKIP code",
+                "2392.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-52": "JIS X 0208-1997 kuten code",
+                "7de8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "bian1"
+                ],
+                "korean": [
+                    "pyeon",
+                    "byeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "一",
+                "｜",
+                "冂",
+                "小",
+                "尸",
+                "幺",
+                "廾",
+                "戸",
+                "冊",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "編む",
+                    "reading": "あむ",
+                    "meanings": [
+                        "to knit",
+                        "to plait",
+                        "to braid",
+                        "to compile (anthology",
+                        "dictionary",
+                        "etc.)",
+                        "to edit"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "編",
+                    "reading": "ヘン",
+                    "meanings": [
+                        "compilation (of a text)",
+                        "editing",
+                        "volume (of a text)",
+                        "completed literary work"
+                    ]
+                },
+                {
+                    "kanji": "編者",
+                    "reading": "ヘンシャ",
+                    "meanings": [
+                        "editor",
+                        "compiler"
+                    ]
+                },
+                {
+                    "kanji": "再編",
+                    "reading": "サイヘン",
+                    "meanings": [
+                        "reorganization",
+                        "reorganisation",
+                        "reshuffle"
+                    ]
+                },
+                {
+                    "kanji": "改編",
+                    "reading": "カイヘン",
+                    "meanings": [
+                        "reorganization",
+                        "reorganisation"
+                    ]
+                }
+            ]
+        }
+    }
+}

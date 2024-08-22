@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"認\"",
+        "strokes": 14,
+        "main_meanings": [
+            "acknowledge",
+            "witness",
+            "discern",
+            "recognize",
+            "appreciate",
+            "believe"
+        ],
+        "main_readings": {
+            "kun": [
+                "みと.める",
+                "したた.める"
+            ],
+            "on": [
+                "ニン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "855": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "962": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "952": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "363": "A New Dictionary of Kanji Usage",
+                "4370": "Classic Nelson (Andrew Nelson)",
+                "649": "Essential Kanji (P.G. O’Neill)",
+                "903": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2137": "Japanese Names (P.G. O’Neill)",
+                "738": "Kanji and Kana (Spahn and Hadamitzky)",
+                "751": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "668": "Kanji in Context (Nishiguchi and Kono)",
+                "1690": "Kodansha Compact Kanji Guide",
+                "1948": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1041": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1404": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "605": "Les Kanjis dans la tete (Yves Maniette)",
+                "35502P": "Morohashi",
+                "1546": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5623": "New Nelson (John Haig)",
+                "598": "Remembering The Kanji (James Heisig)",
+                "643": "Remembering The Kanji, 6th edition (James Heisig)",
+                "357": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "978": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3058": "2001 Kanji",
+                "7a7.10": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "0763.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-07": "JIS X 0208-1997 kuten code",
+                "8a8d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ren4"
+                ],
+                "korean": [
+                    "in"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "丶",
+                "刀",
+                "心",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "認める",
+                    "reading": "みとめる",
+                    "meanings": [
+                        "to recognize",
+                        "to recognise",
+                        "to observe",
+                        "to notice",
+                        "to deem",
+                        "to judge",
+                        "to assess",
+                        "to approve",
+                        "to deem acceptable",
+                        "to allow",
+                        "to admit",
+                        "to accept",
+                        "to confess (to a charge)",
+                        "to watch steadily",
+                        "to observe carefully",
+                        "to renown",
+                        "to give renown to",
+                        "to appreciate",
+                        "to acknowledge"
+                    ]
+                },
+                {
+                    "kanji": "認める",
+                    "reading": "したためる",
+                    "meanings": [
+                        "to write (e.g. a letter)",
+                        "to draw up (a document)",
+                        "to take down (e.g. notes)",
+                        "to have (lunch",
+                        "dinner",
+                        "etc.)",
+                        "to eat"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "認識",
+                    "reading": "ニンシキ",
+                    "meanings": [
+                        "recognition",
+                        "awareness",
+                        "perception",
+                        "understanding",
+                        "knowledge",
+                        "cognition",
+                        "cognizance",
+                        "cognisance"
+                    ]
+                },
+                {
+                    "kanji": "認可",
+                    "reading": "ニンカ",
+                    "meanings": [
+                        "approval",
+                        "license",
+                        "licence",
+                        "permission"
+                    ]
+                },
+                {
+                    "kanji": "公認",
+                    "reading": "コウニン",
+                    "meanings": [
+                        "official recognition",
+                        "official approval",
+                        "certification",
+                        "authorization",
+                        "authorisation"
+                    ]
+                },
+                {
+                    "kanji": "追認",
+                    "reading": "ツイニン",
+                    "meanings": [
+                        "ratification",
+                        "confirmation"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"靴\"",
+        "strokes": 13,
+        "main_meanings": [
+            "shoes"
+        ],
+        "main_readings": {
+            "kun": [
+                "くつ"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1052": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1446": "A New Dictionary of Kanji Usage",
+                "5092": "Classic Nelson (Andrew Nelson)",
+                "1907": "Essential Kanji (P.G. O’Neill)",
+                "1004": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1076": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1124": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "995": "Kanji in Context (Nishiguchi and Kono)",
+                "1878": "Kodansha Compact Kanji Guide",
+                "2235": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1165": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1586": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1912": "Les Kanjis dans la tete (Yves Maniette)",
+                "42729": "Morohashi",
+                "1781": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6576": "New Nelson (John Haig)",
+                "1894": "Remembering The Kanji (James Heisig)",
+                "2042": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1687": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1956": "2001 Kanji",
+                "3k10.34": "The Kanji Dictionary",
+                "1-9-4": "SKIP code",
+                "1-8-4": "SKIP code",
+                "4451.0": "Four corner code",
+                "4151.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-04": "JIS X 0208-1997 kuten code",
+                "9774": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xue1"
+                ],
+                "korean": [
+                    "hwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "leather,",
+            "parts": [
+                "化",
+                "匕",
+                "革"
+            ],
+            "basis": "革",
+            "kangxi_order": 177,
+            "variants": [
+                "鞾"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "靴",
+                    "reading": "くつ",
+                    "meanings": [
+                        "shoe",
+                        "shoes",
+                        "boots",
+                        "footwear",
+                        "footgear"
+                    ]
+                },
+                {
+                    "kanji": "靴下",
+                    "reading": "くつした",
+                    "meanings": [
+                        "socks",
+                        "sock",
+                        "stockings",
+                        "stocking"
+                    ]
+                },
+                {
+                    "kanji": "胴付長靴",
+                    "reading": "どうつきながくつ",
+                    "meanings": [
+                        "waders (waterproof pants often fitted with boots",
+                        "used mostly by fishermen)"
+                    ]
+                },
+                {
+                    "kanji": "厚底靴",
+                    "reading": "あつぞこぐつ",
+                    "meanings": [
+                        "platform shoes",
+                        "thick-soled shoes"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "靴帯",
+                    "reading": "カタイ",
+                    "meanings": [
+                        "ankle strap (for fastening a shoe)"
+                    ]
+                },
+                {
+                    "kanji": "靴の沓",
+                    "reading": "カノクツ",
+                    "meanings": [
+                        "black-lacquered cowhide boots with curved toes",
+                        "metal buckles",
+                        "and brocade tops (worn with ceremonial dress)"
+                    ]
+                },
+                {
+                    "kanji": "軍靴",
+                    "reading": "グンカ",
+                    "meanings": [
+                        "military shoes",
+                        "combat boots"
+                    ]
+                },
+                {
+                    "kanji": "製靴",
+                    "reading": "セイカ",
+                    "meanings": [
+                        "shoe-making"
+                    ]
+                }
+            ]
+        }
+    }
+}

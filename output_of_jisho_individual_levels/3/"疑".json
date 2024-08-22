@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"疑\"",
+        "strokes": 14,
+        "main_meanings": [
+            "doubt",
+            "distrust",
+            "be suspicious",
+            "question"
+        ],
+        "main_readings": {
+            "kun": [
+                "うたが.う"
+            ],
+            "on": [
+                "ギ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "757": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "848": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "835": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "608": "A New Dictionary of Kanji Usage",
+                "755": "Classic Nelson (Andrew Nelson)",
+                "752": "Essential Kanji (P.G. O’Neill)",
+                "748": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1516": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1617": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "693": "Kanji in Context (Nishiguchi and Kono)",
+                "1347": "Kodansha Compact Kanji Guide",
+                "1970": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1050": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1416": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1422": "Les Kanjis dans la tete (Yves Maniette)",
+                "22007": "Morohashi",
+                "1565": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3777": "New Nelson (John Haig)",
+                "1410": "Remembering The Kanji (James Heisig)",
+                "1513": "Remembering The Kanji, 6th edition (James Heisig)",
+                "488": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "971": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1270": "2001 Kanji",
+                "2m12.1": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "2748.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-31": "JIS X 0208-1997 kuten code",
+                "7591": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi2"
+                ],
+                "korean": [
+                    "eui",
+                    "ung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺪"
+            ],
+            "meaning": "bolt",
+            "parts": [
+                "匕",
+                "マ",
+                "疋",
+                "矢",
+                "乞"
+            ],
+            "basis": "疋",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "疑う",
+                    "reading": "うたがう",
+                    "meanings": [
+                        "to doubt",
+                        "to distrust",
+                        "to be suspicious of",
+                        "to suspect"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "疑",
+                    "reading": "ギ",
+                    "meanings": [
+                        "doubt",
+                        "distrust",
+                        "suspicion (of)"
+                    ]
+                },
+                {
+                    "kanji": "疑義",
+                    "reading": "ギギ",
+                    "meanings": [
+                        "doubt"
+                    ]
+                },
+                {
+                    "kanji": "質疑",
+                    "reading": "シツギ",
+                    "meanings": [
+                        "question",
+                        "interpellation"
+                    ]
+                },
+                {
+                    "kanji": "懐疑",
+                    "reading": "カイギ",
+                    "meanings": [
+                        "doubt",
+                        "skepticism",
+                        "scepticism",
+                        "disbelief"
+                    ]
+                }
+            ]
+        }
+    }
+}

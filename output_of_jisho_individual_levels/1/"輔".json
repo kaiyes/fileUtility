@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"輔\"",
+        "strokes": 14,
+        "main_meanings": [
+            "help"
+        ],
+        "main_readings": {
+            "kun": [
+                "たす.ける"
+            ],
+            "on": [
+                "ホ",
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4626": "Classic Nelson (Andrew Nelson)",
+                "1981": "Essential Kanji (P.G. O’Neill)",
+                "2133": "Japanese Names (P.G. O’Neill)",
+                "2245": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1963": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1046": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1411": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "38342": "Morohashi",
+                "1559": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5964": "New Nelson (John Haig)",
+                "2730": "Remembering The Kanji (James Heisig)",
+                "2761": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "7c7.1": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "5302.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-69": "JIS X 0208-1997 kuten code",
+                "8f14": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "すけ、 たすく、 ゆう"
+                ],
+                "chinese": [
+                    "fu3"
+                ],
+                "korean": [
+                    "bo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "丶",
+                "十",
+                "用",
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": [
+                "俌"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "助ける",
+                    "reading": "たすける",
+                    "meanings": [
+                        "to save",
+                        "to rescue",
+                        "to spare",
+                        "to help",
+                        "to assist",
+                        "to support (financially)",
+                        "to contribute (to)",
+                        "to provide aid",
+                        "to facilitate",
+                        "to stimulate",
+                        "to promote",
+                        "to contribute to"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "補助",
+                    "reading": "ホジョ",
+                    "meanings": [
+                        "assistance",
+                        "support",
+                        "help",
+                        "aid",
+                        "subsidy",
+                        "supplement",
+                        "subvention",
+                        "grant-in-aid",
+                        "spotting (in weight training)"
+                    ]
+                },
+                {
+                    "kanji": "補佐",
+                    "reading": "ホサ",
+                    "meanings": [
+                        "aid",
+                        "help",
+                        "assistance",
+                        "assistant",
+                        "counselor",
+                        "counsellor",
+                        "adviser",
+                        "advisor"
+                    ]
+                },
+                {
+                    "kanji": "補す",
+                    "reading": "フス",
+                    "meanings": [
+                        "to appoint",
+                        "to designate"
+                    ]
+                },
+                {
+                    "kanji": "大輔",
+                    "reading": "タイフ",
+                    "meanings": [
+                        "vice-minister (ritsuryō system)",
+                        "deputy minister"
+                    ]
+                }
+            ]
+        }
+    }
+}

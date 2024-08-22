@@ -1,0 +1,161 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"霞\"",
+        "strokes": 17,
+        "main_meanings": [
+            "be hazy",
+            "grow dim",
+            "blurred"
+        ],
+        "main_readings": {
+            "kun": [
+                "かすみ",
+                "かす.む"
+            ],
+            "on": [
+                "カ",
+                "ゲ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1530": "A New Dictionary of Kanji Usage",
+                "5063": "Classic Nelson (Andrew Nelson)",
+                "2693": "Japanese Names (P.G. O’Neill)",
+                "2261": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3490": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1800": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2450": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "42365": "Morohashi",
+                "2814": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6541": "New Nelson (John Haig)",
+                "2779": "Remembering The Kanji (James Heisig)",
+                "2800": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3167": "2001 Kanji",
+                "8d9.1": "The Kanji Dictionary",
+                "2-8-9": "SKIP code",
+                "1074.7": "Four corner code",
+                "1024.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-66": "JIS X 0208-1997 kuten code",
+                "971e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xia2"
+                ],
+                "korean": [
+                    "ha"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "又",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "霞",
+                    "reading": "かすみ",
+                    "meanings": [
+                        "haze (esp. in spring)",
+                        "mist",
+                        "dimness (of sight)"
+                    ]
+                },
+                {
+                    "kanji": "かすみ網",
+                    "reading": "かすみあみ",
+                    "meanings": [
+                        "mist net (fine mesh for capturing small birds)"
+                    ]
+                },
+                {
+                    "kanji": "雲霞",
+                    "reading": "うんか",
+                    "meanings": [
+                        "clouds and haze",
+                        "swarm (of people)",
+                        "throng",
+                        "drove",
+                        "(flee) like the wind",
+                        "(run) out of sight"
+                    ]
+                },
+                {
+                    "kanji": "霞む",
+                    "reading": "かすむ",
+                    "meanings": [
+                        "to become misty",
+                        "to become hazy",
+                        "to get blurry",
+                        "to grow dim",
+                        "to be overshadowed",
+                        "to be upstaged",
+                        "to be outshone"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "霞",
+                    "reading": "カスミ",
+                    "meanings": [
+                        "haze (esp. in spring)",
+                        "mist",
+                        "dimness (of sight)"
+                    ]
+                },
+                {
+                    "kanji": "霞む",
+                    "reading": "カスム",
+                    "meanings": [
+                        "to become misty",
+                        "to become hazy",
+                        "to get blurry",
+                        "to grow dim",
+                        "to be overshadowed",
+                        "to be upstaged",
+                        "to be outshone"
+                    ]
+                },
+                {
+                    "kanji": "紅霞",
+                    "reading": "コウカ",
+                    "meanings": [
+                        "crimson mist",
+                        "crimson-tinted clouds (e.g. at sunset)"
+                    ]
+                },
+                {
+                    "kanji": "朝霞",
+                    "reading": "アサガスミ",
+                    "meanings": [
+                        "morning glow",
+                        "morning mist (haze)"
+                    ]
+                }
+            ]
+        }
+    }
+}

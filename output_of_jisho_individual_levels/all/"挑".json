@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"挑\"",
+        "strokes": 9,
+        "main_meanings": [
+            "challenge",
+            "contend for",
+            "make love to"
+        ],
+        "main_readings": {
+            "kun": [
+                "いど.む"
+            ],
+            "on": [
+                "チョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1589": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1241": "A New Dictionary of Kanji Usage",
+                "1898": "Classic Nelson (Andrew Nelson)",
+                "1825": "Essential Kanji (P.G. O’Neill)",
+                "1355": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1564": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1667": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1268": "Kanji in Context (Nishiguchi and Kono)",
+                "891": "Kodansha Compact Kanji Guide",
+                "445": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "273": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "331": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "665": "Les Kanjis dans la tete (Yves Maniette)",
+                "12055": "Morohashi",
+                "372": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2145": "New Nelson (John Haig)",
+                "658": "Remembering The Kanji (James Heisig)",
+                "710": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1260": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1357": "2001 Kanji",
+                "3c6.5": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "5201.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-09": "JIS X 0208-1997 kuten code",
+                "6311": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "tiao1",
+                    "tiao3"
+                ],
+                "korean": [
+                    "do",
+                    "jo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "儿",
+                "冫",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "挑む",
+                    "reading": "いどむ",
+                    "meanings": [
+                        "to challenge to (a fight",
+                        "game",
+                        "etc.)",
+                        "to throw down the gauntlet",
+                        "to contend for",
+                        "to tackle (e.g. a problem)",
+                        "to attempt",
+                        "to go after (a prize",
+                        "record",
+                        "etc.)",
+                        "to pressure (someone) for sex",
+                        "to make advances to"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "挑発",
+                    "reading": "チョウハツ",
+                    "meanings": [
+                        "provocation",
+                        "stirring up",
+                        "arousal",
+                        "excitement",
+                        "stimulation"
+                    ]
+                },
+                {
+                    "kanji": "挑戦",
+                    "reading": "チョウセン",
+                    "meanings": [
+                        "challenge",
+                        "defiance",
+                        "dare",
+                        "attempt",
+                        "try"
+                    ]
+                }
+            ]
+        }
+    }
+}

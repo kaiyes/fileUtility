@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"凪\"",
+        "strokes": 6,
+        "main_meanings": [
+            "lull",
+            "calm",
+            "(kokuji)"
+        ],
+        "main_readings": {
+            "kun": [
+                "なぎ",
+                "な.ぐ"
+            ],
+            "on": null
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "657": "Classic Nelson (Andrew Nelson)",
+                "2027": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3709": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1898": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2579": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1758": "Morohashi",
+                "437": "New Nelson (John Haig)",
+                "2140": "Remembering The Kanji (James Heisig)",
+                "2266": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "2s4.3": "The Kanji Dictionary",
+                "3-2-4": "SKIP code",
+                "7721.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-68": "JIS X 0208-1997 kuten code",
+                "51ea": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": null,
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "table",
+            "parts": [
+                "几",
+                "止"
+            ],
+            "basis": "几",
+            "kangxi_order": 16,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "凪",
+                    "reading": "なぎ",
+                    "meanings": [
+                        "calm (at sea)",
+                        "lull"
+                    ]
+                },
+                {
+                    "kanji": "夕凪",
+                    "reading": "ゆうなぎ",
+                    "meanings": [
+                        "evening calm"
+                    ]
+                },
+                {
+                    "kanji": "逆凪",
+                    "reading": "さかなぎ",
+                    "meanings": [
+                        "backfire (of a spell",
+                        "curse",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "凪ぐ",
+                    "reading": "なぐ",
+                    "meanings": [
+                        "to become calm (of the wind",
+                        "sea",
+                        "etc.)",
+                        "to die down"
+                    ]
+                }
+            ]
+        }
+    }
+}

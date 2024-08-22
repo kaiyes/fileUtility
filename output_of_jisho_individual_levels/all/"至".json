@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"至\"",
+        "strokes": 6,
+        "main_meanings": [
+            "climax",
+            "arrive",
+            "proceed",
+            "reach",
+            "attain",
+            "result in"
+        ],
+        "main_readings": {
+            "kun": [
+                "いた.る"
+            ],
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "796": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "886": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "875": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1093": "A New Dictionary of Kanji Usage",
+                "3845": "Classic Nelson (Andrew Nelson)",
+                "725": "Essential Kanji (P.G. O’Neill)",
+                "1685": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "485": "Japanese Names (P.G. O’Neill)",
+                "902": "Kanji and Kana (Spahn and Hadamitzky)",
+                "924": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1198": "Kanji in Context (Nishiguchi and Kono)",
+                "1589": "Kodansha Compact Kanji Guide",
+                "2707": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1382": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1869": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "760": "Les Kanjis dans la tete (Yves Maniette)",
+                "30142": "Morohashi",
+                "2182": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4903": "New Nelson (John Haig)",
+                "753": "Remembering The Kanji (James Heisig)",
+                "815": "Remembering The Kanji, 6th edition (James Heisig)",
+                "475": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "845": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3172": "2001 Kanji",
+                "3b3.6": "The Kanji Dictionary",
+                "2-3-3": "SKIP code",
+                "1010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-74": "JIS X 0208-1997 kuten code",
+                "81f3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "のぶ、 のり、 みち、 よし"
+                ],
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "arrive",
+            "parts": [
+                "一",
+                "厶",
+                "土",
+                "至"
+            ],
+            "basis": "至",
+            "kangxi_order": 133,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "至る",
+                    "reading": "いたる",
+                    "meanings": [
+                        "to arrive at (e.g. a decision)",
+                        "to reach (a stage)",
+                        "to attain",
+                        "to lead to (a place)",
+                        "to get to",
+                        "in the extreme case of",
+                        "to come",
+                        "to arrive",
+                        "to result in"
+                    ]
+                },
+                {
+                    "kanji": "至る所",
+                    "reading": "いたるところ",
+                    "meanings": [
+                        "everywhere",
+                        "all over",
+                        "throughout"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "至",
+                    "reading": "シ",
+                    "meanings": [
+                        "to ..."
+                    ]
+                },
+                {
+                    "kanji": "至上",
+                    "reading": "シジョウ",
+                    "meanings": [
+                        "supremacy"
+                    ]
+                },
+                {
+                    "kanji": "必至",
+                    "reading": "ヒッシ",
+                    "meanings": [
+                        "inevitable",
+                        "necessary",
+                        "foregone",
+                        "brinkmate (inevitable checkmate)"
+                    ]
+                },
+                {
+                    "kanji": "夏至",
+                    "reading": "ゲシ",
+                    "meanings": [
+                        "summer solstice"
+                    ]
+                }
+            ]
+        }
+    }
+}

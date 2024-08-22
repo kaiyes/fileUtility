@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"昌\"",
+        "strokes": 8,
+        "main_meanings": [
+            "prosperous",
+            "bright",
+            "clear"
+        ],
+        "main_readings": {
+            "kun": [
+                "さかん"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1552": "A New Dictionary of Kanji Usage",
+                "2105": "Classic Nelson (Andrew Nelson)",
+                "1950": "Essential Kanji (P.G. O’Neill)",
+                "715": "Japanese Names (P.G. O’Neill)",
+                "2089": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3069": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1564": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2140": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "25": "Remembering The Kanji, 6th edition (James Heisig)",
+                "13803": "Morohashi",
+                "2414": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2428": "New Nelson (John Haig)"
+            },
+            "classifications": {
+                "4c4.4": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "6060.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-27": "JIS X 0208-1997 kuten code",
+                "660c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まさ、 まさし、 よし、 あき、 あきら、 さかえ、 あつ、 すけ"
+                ],
+                "chinese": [
+                    "chang1"
+                ],
+                "korean": [
+                    "chang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "昌運",
+                    "reading": "ショウウン",
+                    "meanings": [
+                        "prosperity",
+                        "fortune"
+                    ]
+                },
+                {
+                    "kanji": "昌泰",
+                    "reading": "ショウタイ",
+                    "meanings": [
+                        "Shōtai era (898.4.26-901.7.15)"
+                    ]
+                },
+                {
+                    "kanji": "隆昌",
+                    "reading": "リュウショウ",
+                    "meanings": [
+                        "prosperity"
+                    ]
+                },
+                {
+                    "kanji": "南昌",
+                    "reading": "ナンショウ",
+                    "meanings": [
+                        "Nanchang (China)"
+                    ]
+                }
+            ]
+        }
+    }
+}

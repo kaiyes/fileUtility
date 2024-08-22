@@ -1,0 +1,175 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鹿\"",
+        "strokes": 11,
+        "main_meanings": [
+            "deer"
+        ],
+        "main_readings": {
+            "kun": [
+                "しか",
+                "か"
+            ],
+            "on": [
+                "ロク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1141": "A New Dictionary of Kanji Usage",
+                "5375": "Classic Nelson (Andrew Nelson)",
+                "1999": "Remembering The Kanji (James Heisig)",
+                "1823": "Japanese Names (P.G. O’Neill)",
+                "2279": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2038": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "3879": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1996": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2695": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2018": "Les Kanjis dans la tete (Yves Maniette)",
+                "47586": "Morohashi",
+                "3126": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7017": "New Nelson (John Haig)",
+                "2154": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "556": "2001 Kanji",
+                "3q8.5": "The Kanji Dictionary",
+                "3-3-8": "SKIP code",
+                "0021.2": "Four corner code",
+                "0021.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-15": "JIS X 0208-1997 kuten code",
+                "9e7f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しし"
+                ],
+                "chinese": [
+                    "lu4"
+                ],
+                "korean": [
+                    "rog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "deer",
+            "parts": [
+                "广",
+                "比",
+                "鹿"
+            ],
+            "basis": "鹿",
+            "kangxi_order": 198,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鹿",
+                    "reading": "しか",
+                    "meanings": [
+                        "deer (esp. the sika deer",
+                        "Cervus nippon)",
+                        "cervid"
+                    ]
+                },
+                {
+                    "kanji": "鹿猪",
+                    "reading": "しかいのしし",
+                    "meanings": [
+                        "babirusa (Babyrousa babyrussa)"
+                    ]
+                },
+                {
+                    "kanji": "牡鹿",
+                    "reading": "おじか",
+                    "meanings": [
+                        "buck (male deer)"
+                    ]
+                },
+                {
+                    "kanji": "赤鹿",
+                    "reading": "あかしか",
+                    "meanings": [
+                        "red deer (Cervus elaphus)"
+                    ]
+                },
+                {
+                    "kanji": "鹿",
+                    "reading": "しか",
+                    "meanings": [
+                        "deer (esp. the sika deer",
+                        "Cervus nippon)",
+                        "cervid"
+                    ]
+                },
+                {
+                    "kanji": "鹿",
+                    "reading": "かのしし",
+                    "meanings": [
+                        "venison",
+                        "deer"
+                    ]
+                },
+                {
+                    "kanji": "牡鹿",
+                    "reading": "おじか",
+                    "meanings": [
+                        "buck (male deer)"
+                    ]
+                },
+                {
+                    "kanji": "赤鹿",
+                    "reading": "あかしか",
+                    "meanings": [
+                        "red deer (Cervus elaphus)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鹿",
+                    "reading": "シカ",
+                    "meanings": [
+                        "deer (esp. the sika deer",
+                        "Cervus nippon)",
+                        "cervid"
+                    ]
+                },
+                {
+                    "kanji": "鹿砦",
+                    "reading": "ロクサイ",
+                    "meanings": [
+                        "abatis"
+                    ]
+                },
+                {
+                    "kanji": "白鹿",
+                    "reading": "ハクロク",
+                    "meanings": [
+                        "white deer"
+                    ]
+                },
+                {
+                    "kanji": "神鹿",
+                    "reading": "シンロク",
+                    "meanings": [
+                        "deer raised upon the grounds of a shrine (who serve as messengers of the gods)"
+                    ]
+                }
+            ]
+        }
+    }
+}

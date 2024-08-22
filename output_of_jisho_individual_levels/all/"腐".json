@@ -1,0 +1,227 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"腐\"",
+        "strokes": 14,
+        "main_meanings": [
+            "rot",
+            "decay",
+            "sour"
+        ],
+        "main_readings": {
+            "kun": [
+                "くさ.る",
+                "-くさ.る",
+                "くさ.れる",
+                "くさ.れ",
+                "くさ.らす",
+                "くさ.す"
+            ],
+            "on": [
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1755": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1400": "A New Dictionary of Kanji Usage",
+                "1532": "Classic Nelson (Andrew Nelson)",
+                "1378": "Essential Kanji (P.G. O’Neill)",
+                "1679": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1245": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1312": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1730": "Kanji in Context (Nishiguchi and Kono)",
+                "1011": "Kodansha Compact Kanji Guide",
+                "3921": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2022": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2729": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1032": "Les Kanjis dans la tete (Yves Maniette)",
+                "29625": "Morohashi",
+                "3162": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4835": "New Nelson (John Haig)",
+                "1023": "Remembering The Kanji (James Heisig)",
+                "1099": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1727": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "553": "2001 Kanji",
+                "3q11.3": "The Kanji Dictionary",
+                "3-3-11": "SKIP code",
+                "0022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-69": "JIS X 0208-1997 kuten code",
+                "8150": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu3"
+                ],
+                "korean": [
+                    "bu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "化",
+                "寸",
+                "广",
+                "肉"
+            ],
+            "basis": "肉",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "腐る",
+                    "reading": "くさる",
+                    "meanings": [
+                        "to rot",
+                        "to go bad",
+                        "to decay",
+                        "to spoil",
+                        "to fester",
+                        "to decompose",
+                        "to turn sour (e.g. milk)",
+                        "to corrode",
+                        "to weather",
+                        "to crumble",
+                        "to become useless",
+                        "to blunt",
+                        "to weaken (from lack of practice)",
+                        "to become depraved",
+                        "to be degenerate",
+                        "to be morally bankrupt",
+                        "to be corrupt",
+                        "to be depressed",
+                        "to be dispirited",
+                        "to feel discouraged",
+                        "to feel down",
+                        "to have the audacity to",
+                        "to be bastard enough to",
+                        "to lose a bet",
+                        "to be drenched",
+                        "to become sopping wet"
+                    ]
+                },
+                {
+                    "kanji": "腐るほど",
+                    "reading": "くさるほど",
+                    "meanings": [
+                        "more than one can possibly use",
+                        "countless (e.g. examples)",
+                        "(money) to burn",
+                        "rolling in (cash)"
+                    ]
+                },
+                {
+                    "kanji": "腐れる",
+                    "reading": "くされる",
+                    "meanings": [
+                        "to spoil",
+                        "to rot",
+                        "to corrode"
+                    ]
+                },
+                {
+                    "kanji": "腐れ",
+                    "reading": "くされ",
+                    "meanings": [
+                        "rotting",
+                        "spoiling",
+                        "decaying",
+                        "corroding",
+                        "rotten",
+                        "worthless",
+                        "paltry",
+                        "contemptible"
+                    ]
+                },
+                {
+                    "kanji": "腐れ縁",
+                    "reading": "くされえん",
+                    "meanings": [
+                        "(undesirable but) inseparable relationship"
+                    ]
+                },
+                {
+                    "kanji": "腐らす",
+                    "reading": "くさらす",
+                    "meanings": [
+                        "to let spoil",
+                        "to leave to rot",
+                        "to cause to rot",
+                        "to corrode",
+                        "to discourage",
+                        "to dishearten"
+                    ]
+                },
+                {
+                    "kanji": "腐す",
+                    "reading": "くさす",
+                    "meanings": [
+                        "to speak ill of"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "腐敗",
+                    "reading": "フハイ",
+                    "meanings": [
+                        "decomposition",
+                        "putrefaction",
+                        "putrescence",
+                        "spoilage",
+                        "corruption",
+                        "degeneracy",
+                        "decay",
+                        "depravity"
+                    ]
+                },
+                {
+                    "kanji": "腐心",
+                    "reading": "フシン",
+                    "meanings": [
+                        "taking great pains (to do)",
+                        "making every effort",
+                        "having a lot of trouble (doing)",
+                        "racking one's brains"
+                    ]
+                },
+                {
+                    "kanji": "防腐",
+                    "reading": "ボウフ",
+                    "meanings": [
+                        "preservation from decay",
+                        "prevention of putrefaction",
+                        "embalmment",
+                        "antisepsis"
+                    ]
+                },
+                {
+                    "kanji": "高野豆腐",
+                    "reading": "コウヤドウフ",
+                    "meanings": [
+                        "freeze-dried tofu"
+                    ]
+                }
+            ]
+        }
+    }
+}

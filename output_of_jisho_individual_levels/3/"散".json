@@ -1,0 +1,233 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"散\"",
+        "strokes": 12,
+        "main_meanings": [
+            "scatter",
+            "disperse",
+            "spend",
+            "squander"
+        ],
+        "main_readings": {
+            "kun": [
+                "ち.る",
+                "ち.らす",
+                "-ち.らす",
+                "ち.らかす",
+                "ち.らかる",
+                "ち.らばる",
+                "ばら",
+                "ばら.ける"
+            ],
+            "on": [
+                "サン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "407": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "519": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "492": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "611": "A New Dictionary of Kanji Usage",
+                "2056": "Classic Nelson (Andrew Nelson)",
+                "465": "Essential Kanji (P.G. O’Neill)",
+                "590": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1689": "Japanese Names (P.G. O’Neill)",
+                "767": "Kanji and Kana (Spahn and Hadamitzky)",
+                "781": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "721": "Kanji in Context (Nishiguchi and Kono)",
+                "944": "Kodansha Compact Kanji Guide",
+                "2137": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1118": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1518": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1197": "Les Kanjis dans la tete (Yves Maniette)",
+                "13265": "Morohashi",
+                "1702": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2352": "New Nelson (John Haig)",
+                "1189": "Remembering The Kanji (James Heisig)",
+                "1273": "Remembering The Kanji, 6th edition (James Heisig)",
+                "588": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1966": "2001 Kanji",
+                "4i8.1": "The Kanji Dictionary",
+                "1-8-4": "SKIP code",
+                "4824.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-22": "JIS X 0208-1997 kuten code",
+                "6563": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ちる"
+                ],
+                "chinese": [
+                    "san4",
+                    "san3"
+                ],
+                "korean": [
+                    "san"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "攵"
+            ],
+            "meaning": "rap",
+            "parts": [
+                "二",
+                "廾",
+                "月",
+                "乞",
+                "攵"
+            ],
+            "basis": "攴",
+            "kangxi_order": 66,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "散る",
+                    "reading": "ちる",
+                    "meanings": [
+                        "to fall (e.g. blossoms",
+                        "leaves)",
+                        "to scatter",
+                        "to be dispersed",
+                        "to disappear",
+                        "to dissolve",
+                        "to break up",
+                        "to spread",
+                        "to run",
+                        "to blur",
+                        "to die a noble death"
+                    ]
+                },
+                {
+                    "kanji": "散らす",
+                    "reading": "ちらす",
+                    "meanings": [
+                        "to scatter",
+                        "to cause a shower of",
+                        "to disperse",
+                        "to distribute",
+                        "to spread",
+                        "to resolve (a symptom",
+                        "condition",
+                        "etc.)",
+                        "to relieve",
+                        "to get rid of",
+                        "to cure",
+                        "to distract",
+                        "to divert",
+                        "to do ... wildly (i.e. disorderly or frequently)",
+                        "to do ... all over the place"
+                    ]
+                },
+                {
+                    "kanji": "散らかす",
+                    "reading": "ちらかす",
+                    "meanings": [
+                        "to scatter around",
+                        "to leave untidy",
+                        "to make a mess"
+                    ]
+                },
+                {
+                    "kanji": "散らかる",
+                    "reading": "ちらかる",
+                    "meanings": [
+                        "to be in disorder",
+                        "to lie scattered around"
+                    ]
+                },
+                {
+                    "kanji": "散らばる",
+                    "reading": "ちらばる",
+                    "meanings": [
+                        "to be scattered about",
+                        "to disperse",
+                        "to be littered (with)"
+                    ]
+                },
+                {
+                    "kanji": "散",
+                    "reading": "ばら",
+                    "meanings": [
+                        "loose articles (not packaged with other things)",
+                        "bulk items",
+                        "individual items",
+                        "coins",
+                        "small change"
+                    ]
+                },
+                {
+                    "kanji": "ばら撒く",
+                    "reading": "ばらまく",
+                    "meanings": [
+                        "to scatter",
+                        "to disseminate (e.g. a rumor)",
+                        "to spread (e.g. germs)",
+                        "to broadcast",
+                        "to distribute widely (e.g. leaflets)",
+                        "to hand out freely",
+                        "to spend recklessly"
+                    ]
+                },
+                {
+                    "kanji": "散ける",
+                    "reading": "ばらける",
+                    "meanings": [
+                        "to come apart",
+                        "to unravel",
+                        "to come loose",
+                        "to become disarrayed (e.g. of hair)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "散骨",
+                    "reading": "サンコツ",
+                    "meanings": [
+                        "scattering of ashes (cremated remains)"
+                    ]
+                },
+                {
+                    "kanji": "散会",
+                    "reading": "サンカイ",
+                    "meanings": [
+                        "adjournment"
+                    ]
+                },
+                {
+                    "kanji": "離散",
+                    "reading": "リサン",
+                    "meanings": [
+                        "dispersal",
+                        "scattering",
+                        "discrete"
+                    ]
+                },
+                {
+                    "kanji": "集散",
+                    "reading": "シュウサン",
+                    "meanings": [
+                        "collection (gathering) and distribution"
+                    ]
+                }
+            ]
+        }
+    }
+}

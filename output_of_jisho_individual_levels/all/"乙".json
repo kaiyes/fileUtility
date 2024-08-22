@@ -1,0 +1,189 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"乙\"",
+        "strokes": 1,
+        "main_meanings": [
+            "the latter",
+            "duplicate",
+            "strange",
+            "witty",
+            "fishhook radical (no. 5)"
+        ],
+        "main_readings": {
+            "kun": [
+                "おと-",
+                "きのと"
+            ],
+            "on": [
+                "オツ",
+                "イツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1041": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1713": "A New Dictionary of Kanji Usage",
+                "260": "Classic Nelson (Andrew Nelson)",
+                "1339": "Essential Kanji (P.G. O’Neill)",
+                "1030": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2": "Japanese Names (P.G. O’Neill)",
+                "983": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1017": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1908": "Kanji in Context (Nishiguchi and Kono)",
+                "25": "Kodansha Compact Kanji Guide",
+                "4145": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2104": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2849": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "71": "Remembering The Kanji (James Heisig)",
+                "161": "Morohashi",
+                "3339": "New Japanese English Character Dictionary (Jack Halpern)",
+                "56": "New Nelson (John Haig)",
+                "75": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1007": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3556": "2001 Kanji",
+                "0a1.5": "The Kanji Dictionary",
+                "4-1-1": "SKIP code",
+                "4-2-1": "SKIP code",
+                "1771.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-21": "JIS X 0208-1997 kuten code",
+                "4e59": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yi3"
+                ],
+                "korean": [
+                    "eul"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "乙",
+                "⺄",
+                "乚"
+            ],
+            "meaning": "second",
+            "parts": [
+                "乙"
+            ],
+            "basis": "乛",
+            "kangxi_order": 5,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "乙",
+                    "reading": "きのと",
+                    "meanings": [
+                        "second in rank",
+                        "second sign of the Chinese calendar"
+                    ]
+                },
+                {
+                    "kanji": "乙亥",
+                    "reading": "きのとい",
+                    "meanings": [
+                        "Wood Boar (12th term of the sexagenary cycle",
+                        "e.g. 1935",
+                        "1995",
+                        "2055)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "乙",
+                    "reading": "オツ",
+                    "meanings": [
+                        "(the) second (party",
+                        "rank",
+                        "etc.)",
+                        "B (grade)",
+                        "the latter",
+                        "stylish",
+                        "chic",
+                        "smart",
+                        "witty",
+                        "tasty",
+                        "strange",
+                        "quaint",
+                        "queer",
+                        "thank you",
+                        "good job",
+                        "see you",
+                        "goodbye",
+                        "goodnight"
+                    ]
+                },
+                {
+                    "kanji": "乙亥",
+                    "reading": "キノトイ",
+                    "meanings": [
+                        "Wood Boar (12th term of the sexagenary cycle",
+                        "e.g. 1935",
+                        "1995",
+                        "2055)"
+                    ]
+                },
+                {
+                    "kanji": "うｐ乙",
+                    "reading": "ウプオツ",
+                    "meanings": [
+                        "thanks for uploading"
+                    ]
+                },
+                {
+                    "kanji": "甲と乙",
+                    "reading": "コウトオツ",
+                    "meanings": [
+                        "the former and the latter",
+                        "A and B"
+                    ]
+                },
+                {
+                    "kanji": "乙亥",
+                    "reading": "キノトイ",
+                    "meanings": [
+                        "Wood Boar (12th term of the sexagenary cycle",
+                        "e.g. 1935",
+                        "1995",
+                        "2055)"
+                    ]
+                },
+                {
+                    "kanji": "乙未",
+                    "reading": "キノトヒツジ",
+                    "meanings": [
+                        "Wood Sheep (32nd term of the sexagenary cycle",
+                        "e.g. 1955",
+                        "2015",
+                        "2075)"
+                    ]
+                },
+                {
+                    "kanji": "不一",
+                    "reading": "フイツ",
+                    "meanings": [
+                        "Very sincerely yours",
+                        "different"
+                    ]
+                }
+            ]
+        }
+    }
+}

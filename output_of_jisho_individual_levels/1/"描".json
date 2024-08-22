@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"描\"",
+        "strokes": 11,
+        "main_meanings": [
+            "sketch",
+            "compose",
+            "write",
+            "draw",
+            "paint"
+        ],
+        "main_readings": {
+            "kun": [
+                "えが.く",
+                "か.く"
+            ],
+            "on": [
+                "ビョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1741": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "920": "A New Dictionary of Kanji Usage",
+                "1936": "Classic Nelson (Andrew Nelson)",
+                "1489": "Essential Kanji (P.G. O’Neill)",
+                "1367": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1469": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1566": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "765": "Kanji in Context (Nishiguchi and Kono)",
+                "910": "Kodansha Compact Kanji Guide",
+                "591": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "358": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "445": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "677": "Les Kanjis dans la tete (Yves Maniette)",
+                "12339X": "Morohashi",
+                "488": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2196": "New Nelson (John Haig)",
+                "670": "Remembering The Kanji (James Heisig)",
+                "723": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1444": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1376": "2001 Kanji",
+                "3c8.21": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "5406.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-33": "JIS X 0208-1997 kuten code",
+                "63cf": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "miao2"
+                ],
+                "korean": [
+                    "myo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "扎",
+                "艾",
+                "田"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "描く",
+                    "reading": "えがく",
+                    "meanings": [
+                        "to draw",
+                        "to paint",
+                        "to sketch",
+                        "to depict",
+                        "to describe",
+                        "to picture in one's mind",
+                        "to imagine",
+                        "to form a certain shape (e.g. path of an action",
+                        "appearance of an object",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "描く",
+                    "reading": "えがく",
+                    "meanings": [
+                        "to draw",
+                        "to paint",
+                        "to sketch",
+                        "to depict",
+                        "to describe",
+                        "to picture in one's mind",
+                        "to imagine",
+                        "to form a certain shape (e.g. path of an action",
+                        "appearance of an object",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "描写",
+                    "reading": "ビョウシャ",
+                    "meanings": [
+                        "depiction",
+                        "description",
+                        "portrayal"
+                    ]
+                },
+                {
+                    "kanji": "描画",
+                    "reading": "ビョウガ",
+                    "meanings": [
+                        "drawing",
+                        "painting"
+                    ]
+                },
+                {
+                    "kanji": "線描",
+                    "reading": "センビョウ",
+                    "meanings": [
+                        "line drawing"
+                    ]
+                },
+                {
+                    "kanji": "素描",
+                    "reading": "ソビョウ",
+                    "meanings": [
+                        "drawing",
+                        "sketch",
+                        "outline",
+                        "summary",
+                        "synopsis"
+                    ]
+                }
+            ]
+        }
+    }
+}

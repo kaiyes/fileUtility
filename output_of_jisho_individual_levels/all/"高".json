@@ -1,0 +1,221 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"高\"",
+        "strokes": 10,
+        "main_meanings": [
+            "tall",
+            "high",
+            "expensive"
+        ],
+        "main_readings": {
+            "kun": [
+                "たか.い",
+                "たか",
+                "-だか",
+                "たか.まる",
+                "たか.める"
+            ],
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "76": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "132": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "119": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "49": "A New Dictionary of Kanji Usage",
+                "5248": "Classic Nelson (Andrew Nelson)",
+                "160": "Essential Kanji (P.G. O’Neill)",
+                "102": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1163": "Japanese Names (P.G. O’Neill)",
+                "2.11": "Japanese for Busy People",
+                "190": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "83": "Kanji in Context (Nishiguchi and Kono)",
+                "1924": "Kodansha Compact Kanji Guide",
+                "2601": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1330": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1803": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "313": "Les Kanjis dans la tete (Yves Maniette)",
+                "45313": "Morohashi",
+                "2097": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6796": "New Nelson (John Haig)",
+                "307": "Remembering The Kanji (James Heisig)",
+                "329": "Remembering The Kanji, 6th edition (James Heisig)",
+                "135": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "193": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "449": "2001 Kanji",
+                "2j8.6": "The Kanji Dictionary",
+                "2-2-8": "SKIP code",
+                "0022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-66": "JIS X 0208-1997 kuten code",
+                "9ad8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 こ、 じょい、 た、 はか"
+                ],
+                "chinese": [
+                    "gao1"
+                ],
+                "korean": [
+                    "go"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "髙"
+            ],
+            "meaning": "tall",
+            "parts": [
+                "亠",
+                "冂",
+                "口",
+                "高"
+            ],
+            "basis": "高",
+            "kangxi_order": 189,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "高い",
+                    "reading": "たかい",
+                    "meanings": [
+                        "high",
+                        "tall",
+                        "expensive",
+                        "high-priced",
+                        "high (level)",
+                        "above average (in degree",
+                        "quality",
+                        "etc.)",
+                        "loud",
+                        "high-pitched",
+                        "shrill"
+                    ]
+                },
+                {
+                    "kanji": "高い高い",
+                    "reading": "たかいたかい",
+                    "meanings": [
+                        "lifting (a child) high up in the air"
+                    ]
+                },
+                {
+                    "kanji": "高",
+                    "reading": "たか",
+                    "meanings": [
+                        "quantity",
+                        "amount",
+                        "volume",
+                        "number",
+                        "amount of money"
+                    ]
+                },
+                {
+                    "kanji": "高い",
+                    "reading": "たかい",
+                    "meanings": [
+                        "high",
+                        "tall",
+                        "expensive",
+                        "high-priced",
+                        "high (level)",
+                        "above average (in degree",
+                        "quality",
+                        "etc.)",
+                        "loud",
+                        "high-pitched",
+                        "shrill"
+                    ]
+                },
+                {
+                    "kanji": "威高",
+                    "reading": "いたか",
+                    "meanings": [
+                        "arrogant"
+                    ]
+                },
+                {
+                    "kanji": "背高",
+                    "reading": "せいたか",
+                    "meanings": [
+                        "tallness",
+                        "tall person"
+                    ]
+                },
+                {
+                    "kanji": "高まる",
+                    "reading": "たかまる",
+                    "meanings": [
+                        "to rise",
+                        "to swell",
+                        "to be promoted"
+                    ]
+                },
+                {
+                    "kanji": "高める",
+                    "reading": "たかめる",
+                    "meanings": [
+                        "to raise",
+                        "to lift",
+                        "to boost",
+                        "to enhance"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "高",
+                    "reading": "コウ",
+                    "meanings": [
+                        "high",
+                        "high school"
+                    ]
+                },
+                {
+                    "kanji": "高圧",
+                    "reading": "コウアツ",
+                    "meanings": [
+                        "high voltage",
+                        "high pressure"
+                    ]
+                },
+                {
+                    "kanji": "中高",
+                    "reading": "チュウコウ",
+                    "meanings": [
+                        "middle and high school",
+                        "medium and high (level)"
+                    ]
+                },
+                {
+                    "kanji": "激昂",
+                    "reading": "ゲッコウ",
+                    "meanings": [
+                        "excitement",
+                        "exasperation",
+                        "indignation",
+                        "rage",
+                        "fury"
+                    ]
+                }
+            ]
+        }
+    }
+}

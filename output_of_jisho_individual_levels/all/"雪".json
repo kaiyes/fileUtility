@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"雪\"",
+        "strokes": 11,
+        "main_meanings": [
+            "snow"
+        ],
+        "main_readings": {
+            "kun": [
+                "ゆき"
+            ],
+            "on": [
+                "セツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "100": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "174": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "157": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "907": "A New Dictionary of Kanji Usage",
+                "5044": "Classic Nelson (Andrew Nelson)",
+                "518": "Essential Kanji (P.G. O’Neill)",
+                "996": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1495": "Japanese Names (P.G. O’Neill)",
+                "3.8": "Japanese for Busy People",
+                "949": "Kanji and Kana (Spahn and Hadamitzky)",
+                "979": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "842": "Kanji in Context (Nishiguchi and Kono)",
+                "1859": "Kodansha Compact Kanji Guide",
+                "3431": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1767": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2406": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1152": "Les Kanjis dans la tete (Yves Maniette)",
+                "42216P": "Morohashi",
+                "2759": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6520": "New Nelson (John Haig)",
+                "1143": "Remembering The Kanji (James Heisig)",
+                "1225": "Remembering The Kanji, 6th edition (James Heisig)",
+                "207": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3175": "2001 Kanji",
+                "8d3.2": "The Kanji Dictionary",
+                "2-8-3": "SKIP code",
+                "1017.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-67": "JIS X 0208-1997 kuten code",
+                "96ea": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "せっ、 ぶき"
+                ],
+                "chinese": [
+                    "xue3",
+                    "xue4"
+                ],
+                "korean": [
+                    "seol"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rain",
+            "parts": [
+                "ヨ",
+                "雨"
+            ],
+            "basis": "雨",
+            "kangxi_order": 173,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "雪",
+                    "reading": "ゆき",
+                    "meanings": [
+                        "snow",
+                        "snowfall"
+                    ]
+                },
+                {
+                    "kanji": "雪国",
+                    "reading": "ゆきぐに",
+                    "meanings": [
+                        "snow country",
+                        "snowy region"
+                    ]
+                },
+                {
+                    "kanji": "細雪",
+                    "reading": "ささめゆき",
+                    "meanings": [
+                        "light snow fall",
+                        "small snow flakes"
+                    ]
+                },
+                {
+                    "kanji": "粉雪",
+                    "reading": "こなゆき",
+                    "meanings": [
+                        "powder snow",
+                        "powdery snow"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "雪辱",
+                    "reading": "セツジョク",
+                    "meanings": [
+                        "vindication of honour",
+                        "vindication of honor",
+                        "making up for loss",
+                        "revenge"
+                    ]
+                },
+                {
+                    "kanji": "雪上",
+                    "reading": "セツジョウ",
+                    "meanings": [
+                        "on the snow"
+                    ]
+                },
+                {
+                    "kanji": "積雪",
+                    "reading": "セキセツ",
+                    "meanings": [
+                        "fallen snow",
+                        "snow cover"
+                    ]
+                },
+                {
+                    "kanji": "融雪",
+                    "reading": "ユウセツ",
+                    "meanings": [
+                        "melted snow",
+                        "melting of snow"
+                    ]
+                }
+            ]
+        }
+    }
+}

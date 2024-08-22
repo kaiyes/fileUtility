@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"脈\"",
+        "strokes": 10,
+        "main_meanings": [
+            "vein",
+            "pulse",
+            "hope"
+        ],
+        "main_readings": {
+            "kun": [
+                "すじ"
+            ],
+            "on": [
+                "ミャク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "517": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "618": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "589": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1454": "A New Dictionary of Kanji Usage",
+                "3764": "Classic Nelson (Andrew Nelson)",
+                "813": "Essential Kanji (P.G. O’Neill)",
+                "1676": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "913": "Kanji and Kana (Spahn and Hadamitzky)",
+                "935": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1353": "Kanji in Context (Nishiguchi and Kono)",
+                "1033": "Kodansha Compact Kanji Guide",
+                "1189": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "648": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "860": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1873": "Les Kanjis dans la tete (Yves Maniette)",
+                "29470": "Morohashi",
+                "953": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4805": "New Nelson (John Haig)",
+                "1856": "Remembering The Kanji (James Heisig)",
+                "2000": "Remembering The Kanji, 6th edition (James Heisig)",
+                "557": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3965": "2001 Kanji",
+                "4b6.8": "The Kanji Dictionary",
+                "1-4-6": "SKIP code",
+                "7223.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-14": "JIS X 0208-1997 kuten code",
+                "8108": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "mo4",
+                    "mai4"
+                ],
+                "korean": [
+                    "maeg"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺼"
+            ],
+            "meaning": "meat",
+            "parts": [
+                "厂",
+                "斤",
+                "月"
+            ],
+            "basis": "肉",
+            "kangxi_order": 130,
+            "variants": [
+                "脉"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "脈",
+                    "reading": "ミャク",
+                    "meanings": [
+                        "pulse",
+                        "vein",
+                        "chain (of mountains",
+                        "etc.)",
+                        "hope",
+                        "thread (of an argument)"
+                    ]
+                },
+                {
+                    "kanji": "脈拍",
+                    "reading": "ミャクハク",
+                    "meanings": [
+                        "pulse",
+                        "pulse rate",
+                        "pulsation",
+                        "stroke of pulse"
+                    ]
+                },
+                {
+                    "kanji": "大動脈",
+                    "reading": "ダイドウミャク",
+                    "meanings": [
+                        "aorta",
+                        "important traffic route"
+                    ]
+                },
+                {
+                    "kanji": "動脈",
+                    "reading": "ドウミャク",
+                    "meanings": [
+                        "artery",
+                        "arterial road",
+                        "major route"
+                    ]
+                }
+            ]
+        }
+    }
+}

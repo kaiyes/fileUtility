@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"演\"",
+        "strokes": 14,
+        "main_meanings": [
+            "performance",
+            "act",
+            "play",
+            "render",
+            "stage"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "エン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "553": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "650": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "621": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "222": "A New Dictionary of Kanji Usage",
+                "2685": "Classic Nelson (Andrew Nelson)",
+                "806": "Essential Kanji (P.G. O’Neill)",
+                "708": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2079": "Japanese Names (P.G. O’Neill)",
+                "344": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "616": "Kanji in Context (Nishiguchi and Kono)",
+                "1239": "Kodansha Compact Kanji Guide",
+                "855": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "491": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "630": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2026": "Les Kanjis dans la tete (Yves Maniette)",
+                "18130": "Morohashi",
+                "697": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3310": "New Nelson (John Haig)",
+                "2007": "Remembering The Kanji (James Heisig)",
+                "2163": "Remembering The Kanji, 6th edition (James Heisig)",
+                "413": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "785": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "361": "2001 Kanji",
+                "3a11.13": "The Kanji Dictionary",
+                "1-3-11": "SKIP code",
+                "3318.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-73": "JIS X 0208-1997 kuten code",
+                "6f14": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yan3"
+                ],
+                "korean": [
+                    "yeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "ハ",
+                "宀",
+                "汁",
+                "田"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "演技",
+                    "reading": "エンギ",
+                    "meanings": [
+                        "acting",
+                        "performance"
+                    ]
+                },
+                {
+                    "kanji": "演歌",
+                    "reading": "エンカ",
+                    "meanings": [
+                        "enka",
+                        "traditional-style Japanese popular ballad",
+                        "troubadour"
+                    ]
+                },
+                {
+                    "kanji": "共演",
+                    "reading": "キョウエン",
+                    "meanings": [
+                        "appearing together (in a film",
+                        "play",
+                        "etc.)",
+                        "performing together (at a concert",
+                        "etc.)",
+                        "acting together",
+                        "co-starring",
+                        "playing together (in a sports match)"
+                    ]
+                },
+                {
+                    "kanji": "再演",
+                    "reading": "サイエン",
+                    "meanings": [
+                        "another showing (of a play)",
+                        "playing the same role again (i.e. of an actor)",
+                        "recapitulation"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"大\"",
+        "strokes": 3,
+        "main_meanings": [
+            "large",
+            "big"
+        ],
+        "main_readings": {
+            "kun": [
+                "おお-",
+                "おお.きい",
+                "-おお.いに"
+            ],
+            "on": [
+                "ダイ",
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "22": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "25": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "53": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "7": "A New Dictionary of Kanji Usage",
+                "1171": "Classic Nelson (Andrew Nelson)",
+                "32": "Essential Kanji (P.G. O’Neill)",
+                "40": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "48": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "26": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "87": "Kanji in Context (Nishiguchi and Kono)",
+                "408": "Kodansha Compact Kanji Guide",
+                "4224": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2133": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2882": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "108": "Les Kanjis dans la tete (Yves Maniette)",
+                "5831": "Morohashi",
+                "3416": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1133": "New Nelson (John Haig)",
+                "107": "Remembering The Kanji (James Heisig)",
+                "112": "Remembering The Kanji, 6th edition (James Heisig)",
+                "5": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "14": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1463": "2001 Kanji",
+                "0a3.18": "The Kanji Dictionary",
+                "4-3-4": "SKIP code",
+                "4003.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-71": "JIS X 0208-1997 kuten code",
+                "5927": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うふ、 お、 おう、 た、 たかし、 とも、 はじめ、 ひろ、 ひろし、 まさ、 まさる、 もと、 わ"
+                ],
+                "chinese": [
+                    "da4",
+                    "dai4"
+                ],
+                "korean": [
+                    "dae",
+                    "da",
+                    "tae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "big,",
+            "parts": [
+                "大"
+            ],
+            "basis": "大",
+            "kangxi_order": 37,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "大きい",
+                    "reading": "おおきい",
+                    "meanings": [
+                        "big",
+                        "large",
+                        "great",
+                        "loud",
+                        "extensive",
+                        "spacious",
+                        "important",
+                        "decisive",
+                        "valuable",
+                        "older",
+                        "grown up"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "大",
+                    "reading": "ダイ",
+                    "meanings": [
+                        "large",
+                        "big",
+                        "great",
+                        "huge",
+                        "vast",
+                        "major",
+                        "important",
+                        "serious",
+                        "severe",
+                        "great",
+                        "prominent",
+                        "eminent",
+                        "distinguished",
+                        "-sized",
+                        "as big as",
+                        "the size of",
+                        "university",
+                        "large (e.g. serving size)",
+                        "large option",
+                        "long month (i.e. having 31 days)"
+                    ]
+                },
+                {
+                    "kanji": "大尉",
+                    "reading": "タイイ",
+                    "meanings": [
+                        "captain (Army",
+                        "US Marine Corps",
+                        "USAF)",
+                        "lieutenant (Navy)",
+                        "flight lieutenant (RAF",
+                        "RAAF",
+                        "RNZAF",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "国大",
+                    "reading": "コクダイ",
+                    "meanings": [
+                        "national university"
+                    ]
+                },
+                {
+                    "kanji": "電通大",
+                    "reading": "デンツウダイ",
+                    "meanings": [
+                        "University of Electro-Communications"
+                    ]
+                },
+                {
+                    "kanji": "大",
+                    "reading": "タイ",
+                    "meanings": [
+                        "nth year in the Taishō era (1912.7.30-1926.12.25)"
+                    ]
+                },
+                {
+                    "kanji": "大尉",
+                    "reading": "タイイ",
+                    "meanings": [
+                        "captain (Army",
+                        "US Marine Corps",
+                        "USAF)",
+                        "lieutenant (Navy)",
+                        "flight lieutenant (RAF",
+                        "RAAF",
+                        "RNZAF",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "負荷増大",
+                    "reading": "フカゾウタイ",
+                    "meanings": [
+                        "load increase"
+                    ]
+                },
+                {
+                    "kanji": "御大",
+                    "reading": "オンタイ",
+                    "meanings": [
+                        "boss",
+                        "governor",
+                        "headman"
+                    ]
+                }
+            ]
+        }
+    }
+}

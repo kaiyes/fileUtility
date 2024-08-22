@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"連\"",
+        "strokes": 10,
+        "main_meanings": [
+            "take along",
+            "lead",
+            "join",
+            "connect",
+            "party",
+            "gang",
+            "clique"
+        ],
+        "main_readings": {
+            "kun": [
+                "つら.なる",
+                "つら.ねる",
+                "つ.れる",
+                "-づ.れ"
+            ],
+            "on": [
+                "レン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "538": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "637": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "607": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "87": "A New Dictionary of Kanji Usage",
+                "4702": "Classic Nelson (Andrew Nelson)",
+                "383": "Essential Kanji (P.G. O’Neill)",
+                "960": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1238": "Japanese Names (P.G. O’Neill)",
+                "440": "Kanji and Kana (Spahn and Hadamitzky)",
+                "446": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "299": "Kanji in Context (Nishiguchi and Kono)",
+                "699": "Kodansha Compact Kanji Guide",
+                "3849": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1976": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2672": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "293": "Les Kanjis dans la tete (Yves Maniette)",
+                "38902P": "Morohashi",
+                "3103": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6062": "New Nelson (John Haig)",
+                "287": "Remembering The Kanji (James Heisig)",
+                "305": "Remembering The Kanji, 6th edition (James Heisig)",
+                "101": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "560": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1555": "2001 Kanji",
+                "2q7.2": "The Kanji Dictionary",
+                "3-3-7": "SKIP code",
+                "3530.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-02": "JIS X 0208-1997 kuten code",
+                "9023": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ずれ、 つれ、 むらじ、 れ"
+                ],
+                "chinese": [
+                    "lian2"
+                ],
+                "korean": [
+                    "ryeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "込",
+                "車"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "連なる",
+                    "reading": "つらなる",
+                    "meanings": [
+                        "to extend",
+                        "to stretch out",
+                        "to stand in a row",
+                        "to attend",
+                        "to participate in",
+                        "to enrol",
+                        "to enroll",
+                        "to join",
+                        "to have a connection",
+                        "to be related",
+                        "to be linked"
+                    ]
+                },
+                {
+                    "kanji": "連ねる",
+                    "reading": "つらねる",
+                    "meanings": [
+                        "to line up",
+                        "to put in a row",
+                        "to add (to a group)",
+                        "to accept (as a member of an organization",
+                        "etc.)",
+                        "to join (e.g. a list)",
+                        "to link",
+                        "to put together",
+                        "to string together (e.g. compliments)",
+                        "to enumerate",
+                        "to take along with",
+                        "to bring with"
+                    ]
+                },
+                {
+                    "kanji": "連れる",
+                    "reading": "つれる",
+                    "meanings": [
+                        "to take (someone) with one",
+                        "to bring along",
+                        "to go with",
+                        "to be accompanied by"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "連",
+                    "reading": "レン",
+                    "meanings": [
+                        "two reams (of paper)",
+                        "1000 sheets (of paper)",
+                        "stanza",
+                        "verse",
+                        "tribe (in taxonomy)",
+                        "forecast (bet)",
+                        "bet which predicts the top 2 finishers (i.e. quinella or perfecta bet)",
+                        "party",
+                        "company",
+                        "group",
+                        "set",
+                        "things strung in a line",
+                        "e.g. pearls",
+                        "dried fish",
+                        "spans of a bridge",
+                        "etc.",
+                        "falcon"
+                    ]
+                },
+                {
+                    "kanji": "連関",
+                    "reading": "レンカン",
+                    "meanings": [
+                        "connection",
+                        "relation",
+                        "linkage"
+                    ]
+                },
+                {
+                    "kanji": "労連",
+                    "reading": "ロウレン",
+                    "meanings": [
+                        "labour union",
+                        "labor union"
+                    ]
+                },
+                {
+                    "kanji": "常連",
+                    "reading": "ジョウレン",
+                    "meanings": [
+                        "regular customer",
+                        "regular patron",
+                        "regular visitor",
+                        "frequenter",
+                        "constant companion"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"種\"",
+        "strokes": 14,
+        "main_meanings": [
+            "species",
+            "kind",
+            "class",
+            "variety",
+            "seed"
+        ],
+        "main_readings": {
+            "kun": [
+                "たね",
+                "-ぐさ"
+            ],
+            "on": [
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "423": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "531": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "503": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "435": "A New Dictionary of Kanji Usage",
+                "3295": "Classic Nelson (Andrew Nelson)",
+                "232": "Essential Kanji (P.G. O’Neill)",
+                "783": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2124": "Japanese Names (P.G. O’Neill)",
+                "228": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "564": "Kanji in Context (Nishiguchi and Kono)",
+                "1442": "Kodansha Compact Kanji Guide",
+                "1560": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "823": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1128": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1695": "Les Kanjis dans la tete (Yves Maniette)",
+                "25174": "Morohashi",
+                "1218": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4159": "New Nelson (John Haig)",
+                "1679": "Remembering The Kanji (James Heisig)",
+                "1810": "Remembering The Kanji, 6th edition (James Heisig)",
+                "417": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "618": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2272": "2001 Kanji",
+                "5d9.1": "The Kanji Dictionary",
+                "1-5-9": "SKIP code",
+                "2291.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-79": "JIS X 0208-1997 kuten code",
+                "7a2e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おい、 くさ、 た、 ほ"
+                ],
+                "chinese": [
+                    "zhong3",
+                    "chong2",
+                    "zhong4"
+                ],
+                "korean": [
+                    "jong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "｜",
+                "ノ",
+                "日",
+                "禾",
+                "里"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "種",
+                    "reading": "たね",
+                    "meanings": [
+                        "seed (e.g. of a plant)",
+                        "pip",
+                        "kernel",
+                        "stone (e.g. of a peach)",
+                        "progeny",
+                        "offspring",
+                        "issue",
+                        "breed",
+                        "paternal blood",
+                        "lineage",
+                        "sperm",
+                        "semen",
+                        "seed",
+                        "cause",
+                        "source",
+                        "seed",
+                        "origin",
+                        "material (e.g. for an article)",
+                        "matter (e.g. of a story)",
+                        "subject (of discussion)",
+                        "theme",
+                        "(news) copy",
+                        "source (of a story)",
+                        "ingredient",
+                        "main ingredient (of a piece of sushi)",
+                        "leaven",
+                        "mechanism (of a magic trick",
+                        "etc.)",
+                        "secret",
+                        "trickery",
+                        "10-point card",
+                        "tane",
+                        "animal card"
+                    ]
+                },
+                {
+                    "kanji": "種馬",
+                    "reading": "たねうま",
+                    "meanings": [
+                        "studhorse",
+                        "stallion",
+                        "breeding horse"
+                    ]
+                },
+                {
+                    "kanji": "菜種",
+                    "reading": "なたね",
+                    "meanings": [
+                        "rapeseed",
+                        "coleseed"
+                    ]
+                },
+                {
+                    "kanji": "麻種",
+                    "reading": "あさたね",
+                    "meanings": [
+                        "hemp seed"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "種",
+                    "reading": "シュ",
+                    "meanings": [
+                        "kind",
+                        "variety",
+                        "(biological) species",
+                        "(logical) species"
+                    ]
+                },
+                {
+                    "kanji": "種子",
+                    "reading": "シュシ",
+                    "meanings": [
+                        "seed",
+                        "pit"
+                    ]
+                },
+                {
+                    "kanji": "職種",
+                    "reading": "ショクシュ",
+                    "meanings": [
+                        "type of occupation",
+                        "occupational category"
+                    ]
+                },
+                {
+                    "kanji": "業種",
+                    "reading": "ギョウシュ",
+                    "meanings": [
+                        "type of industry"
+                    ]
+                }
+            ]
+        }
+    }
+}

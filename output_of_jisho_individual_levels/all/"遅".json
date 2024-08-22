@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"遅\"",
+        "strokes": 12,
+        "main_meanings": [
+            "slow",
+            "late",
+            "back",
+            "later"
+        ],
+        "main_readings": {
+            "kun": [
+                "おく.れる",
+                "おく.らす",
+                "おそ.い"
+            ],
+            "on": [
+                "チ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1574": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "884": "A New Dictionary of Kanji Usage",
+                "4722": "Classic Nelson (Andrew Nelson)",
+                "1090": "Essential Kanji (P.G. O’Neill)",
+                "961": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1807": "Japanese Names (P.G. O’Neill)",
+                "3.17": "Japanese for Busy People",
+                "702": "Kanji and Kana (Spahn and Hadamitzky)",
+                "715": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "118": "Kanji in Context (Nishiguchi and Kono)",
+                "709": "Kodansha Compact Kanji Guide",
+                "3887": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1999": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2700": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1076": "Les Kanjis dans la tete (Yves Maniette)",
+                "38989P": "Morohashi",
+                "3133": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6089": "New Nelson (John Haig)",
+                "1067": "Remembering The Kanji (James Heisig)",
+                "1148": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1594": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3755": "2001 Kanji",
+                "2q9.17": "The Kanji Dictionary",
+                "3-3-9": "SKIP code",
+                "3730.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-57": "JIS X 0208-1997 kuten code",
+                "9045": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "じ"
+                ],
+                "chinese": [
+                    "chi2"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "辶",
+                "⻌",
+                "⻍"
+            ],
+            "meaning": "walk",
+            "parts": [
+                "并",
+                "込",
+                "尸",
+                "王",
+                "羊"
+            ],
+            "basis": "辵",
+            "kangxi_order": 162,
+            "variants": [
+                "遲"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "遅れる",
+                    "reading": "おくれる",
+                    "meanings": [
+                        "to be late",
+                        "to be delayed",
+                        "to fall behind schedule",
+                        "to be overdue",
+                        "to fall behind (in a race",
+                        "one's studies",
+                        "etc.)",
+                        "to lag behind",
+                        "to be behind (the times)",
+                        "to be bereaved of",
+                        "to be preceded by (someone) in death",
+                        "to be slow (of a clock or watch)"
+                    ]
+                },
+                {
+                    "kanji": "遅らす",
+                    "reading": "おくらす",
+                    "meanings": [
+                        "to delay",
+                        "to postpone",
+                        "to slow down",
+                        "to retard"
+                    ]
+                },
+                {
+                    "kanji": "遅い",
+                    "reading": "おそい",
+                    "meanings": [
+                        "slow",
+                        "time-consuming",
+                        "sluggish",
+                        "late (in the day)",
+                        "towards the end (of the day or night)",
+                        "until a time far into the day or night",
+                        "later (than expected or usual)",
+                        "late",
+                        "behind schedule",
+                        "behind time",
+                        "tardy",
+                        "overdue",
+                        "unpunctual",
+                        "too late",
+                        "having missed the boat",
+                        "dull",
+                        "stupid"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "遅々",
+                    "reading": "チチ",
+                    "meanings": [
+                        "slow",
+                        "lagging",
+                        "tardy"
+                    ]
+                },
+                {
+                    "kanji": "遅延",
+                    "reading": "チエン",
+                    "meanings": [
+                        "delay",
+                        "latency"
+                    ]
+                },
+                {
+                    "kanji": "棲遅",
+                    "reading": "セイチ",
+                    "meanings": [
+                        "living in tranquility",
+                        "retiring to the countryside",
+                        "retirement house"
+                    ]
+                },
+                {
+                    "kanji": "巧遅",
+                    "reading": "コウチ",
+                    "meanings": [
+                        "elaborate but slow execution",
+                        "polished but slow work"
+                    ]
+                }
+            ]
+        }
+    }
+}

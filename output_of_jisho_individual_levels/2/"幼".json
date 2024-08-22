@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"幼\"",
+        "strokes": 5,
+        "main_meanings": [
+            "infancy",
+            "childhood"
+        ],
+        "main_readings": {
+            "kun": [
+                "おさな.い"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "996": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "985": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1099": "Kanji in Context (Nishiguchi and Kono)",
+                "1495": "Classic Nelson (Andrew Nelson)",
+                "1334": "Essential Kanji (P.G. O’Neill)",
+                "505": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "428": "Japanese Names (P.G. O’Neill)",
+                "1229": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1293": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "578": "Kodansha Compact Kanji Guide",
+                "222": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "140": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "168": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1390": "Les Kanjis dans la tete (Yves Maniette)",
+                "9193": "Morohashi",
+                "191": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1599": "New Nelson (John Haig)",
+                "1378": "Remembering The Kanji (James Heisig)",
+                "1478": "Remembering The Kanji, 6th edition (James Heisig)",
+                "838": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2745": "2001 Kanji",
+                "2g3.3": "The Kanji Dictionary",
+                "1-3-2": "SKIP code",
+                "2472.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-36": "JIS X 0208-1997 kuten code",
+                "5e7c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うぶ、 わか"
+                ],
+                "chinese": [
+                    "you4"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "short,",
+            "parts": [
+                "力",
+                "幺"
+            ],
+            "basis": "幺",
+            "kangxi_order": 52,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "幼い",
+                    "reading": "おさない",
+                    "meanings": [
+                        "very young",
+                        "little",
+                        "childish",
+                        "immature"
+                    ]
+                },
+                {
+                    "kanji": "幼い頃",
+                    "reading": "おさないころ",
+                    "meanings": [
+                        "when one was a very young child",
+                        "very early in one's life"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幼",
+                    "reading": "ヨウ",
+                    "meanings": [
+                        "infancy",
+                        "childhood",
+                        "infant",
+                        "child"
+                    ]
+                },
+                {
+                    "kanji": "幼少",
+                    "reading": "ヨウショウ",
+                    "meanings": [
+                        "infancy",
+                        "childhood",
+                        "tender age"
+                    ]
+                },
+                {
+                    "kanji": "長幼",
+                    "reading": "チョウヨウ",
+                    "meanings": [
+                        "young and old"
+                    ]
+                },
+                {
+                    "kanji": "老幼",
+                    "reading": "ロウヨウ",
+                    "meanings": [
+                        "old and young"
+                    ]
+                }
+            ]
+        }
+    }
+}

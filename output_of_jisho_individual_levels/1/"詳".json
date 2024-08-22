@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"詳\"",
+        "strokes": 13,
+        "main_meanings": [
+            "detailed",
+            "full",
+            "minute",
+            "accurate",
+            "well-informed"
+        ],
+        "main_readings": {
+            "kun": [
+                "くわ.しい",
+                "つまび.らか"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1409": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1172": "A New Dictionary of Kanji Usage",
+                "4357": "Classic Nelson (Andrew Nelson)",
+                "896": "Essential Kanji (P.G. O’Neill)",
+                "1752": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1927": "Japanese Names (P.G. O’Neill)",
+                "1577": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1683": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "944": "Kanji in Context (Nishiguchi and Kono)",
+                "1682": "Kodansha Compact Kanji Guide",
+                "1926": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1026": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1386": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "556": "Les Kanjis dans la tete (Yves Maniette)",
+                "35446": "Morohashi",
+                "1526": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5607": "New Nelson (John Haig)",
+                "550": "Remembering The Kanji (James Heisig)",
+                "589": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1667": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3055": "2001 Kanji",
+                "7a6.12": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "0865.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-60": "JIS X 0208-1997 kuten code",
+                "8a73": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "よし"
+                ],
+                "chinese": [
+                    "xiang2"
+                ],
+                "korean": [
+                    "sang",
+                    "yang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "并",
+                "王",
+                "羊",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "詳しい",
+                    "reading": "くわしい",
+                    "meanings": [
+                        "detailed",
+                        "full",
+                        "minute",
+                        "knowing very well",
+                        "knowledgeable (about)",
+                        "well-acquainted (with)",
+                        "well-informed (about)",
+                        "familiar (with)"
+                    ]
+                },
+                {
+                    "kanji": "詳らか",
+                    "reading": "つまびらか",
+                    "meanings": [
+                        "detailed",
+                        "clear"
+                    ]
+                },
+                {
+                    "kanji": "詳らかでない",
+                    "reading": "つまびらかでない",
+                    "meanings": [
+                        "unknown"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "詳報",
+                    "reading": "ショウホウ",
+                    "meanings": [
+                        "detailed report",
+                        "full report",
+                        "details",
+                        "particulars"
+                    ]
+                },
+                {
+                    "kanji": "詳細",
+                    "reading": "ショウサイ",
+                    "meanings": [
+                        "details",
+                        "particulars",
+                        "specifics",
+                        "detailed",
+                        "specific",
+                        "minute",
+                        "close-up view (of a digitally displayed map)",
+                        "zoomed-in view"
+                    ]
+                },
+                {
+                    "kanji": "不詳",
+                    "reading": "フショウ",
+                    "meanings": [
+                        "unknown",
+                        "unidentified",
+                        "unspecified"
+                    ]
+                },
+                {
+                    "kanji": "姓名不詳",
+                    "reading": "セイメイフショウ",
+                    "meanings": [
+                        "unidentified",
+                        "name unknown"
+                    ]
+                }
+            ]
+        }
+    }
+}

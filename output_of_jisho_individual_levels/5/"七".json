@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"七\"",
+        "strokes": 2,
+        "main_meanings": [
+            "seven"
+        ],
+        "main_readings": {
+            "kun": [
+                "なな",
+                "なな.つ",
+                "なの"
+            ],
+            "on": [
+                "シチ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "7": "Remembering The Kanji, 6th edition (James Heisig)",
+                "30": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "44": "A New Dictionary of Kanji Usage",
+                "261": "Classic Nelson (Andrew Nelson)",
+                "9": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "2": "Kodansha Compact Kanji Guide",
+                "17": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "4169": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2109": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2854": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "6": "Morohashi",
+                "3362": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3": "Tuttle Kanji Cards (Alexander Kask)",
+                "147": "The Kanji Way to Japanese Language Power (Dale Crowley)"
+            },
+            "classifications": {
+                "1456": "2001 Kanji",
+                "0a2.13": "The Kanji Dictionary",
+                "4-2-2": "SKIP code",
+                "4-2-4": "SKIP code",
+                "4071.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-23": "JIS X 0208-1997 kuten code",
+                "4e03": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "し、 しっ、 な、 ひち"
+                ],
+                "chinese": [
+                    "qi1"
+                ],
+                "korean": [
+                    "chil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "one",
+            "parts": [
+                "乙",
+                "ノ",
+                "匕"
+            ],
+            "basis": "一",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "七",
+                    "reading": "しち",
+                    "meanings": [
+                        "seven"
+                    ]
+                },
+                {
+                    "kanji": "７月",
+                    "reading": "しちがつ",
+                    "meanings": [
+                        "July",
+                        "seventh month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "第七",
+                    "reading": "だいなな",
+                    "meanings": [
+                        "seventh"
+                    ]
+                },
+                {
+                    "kanji": "２７",
+                    "reading": "にじゅうしち",
+                    "meanings": [
+                        "27",
+                        "twenty seven",
+                        "3am"
+                    ]
+                },
+                {
+                    "kanji": "七つ",
+                    "reading": "ななつ",
+                    "meanings": [
+                        "seven",
+                        "seven years of age",
+                        "four o'clock (old time system)"
+                    ]
+                },
+                {
+                    "kanji": "七帯アルマジロ",
+                    "reading": "ななつおびアルマジロ",
+                    "meanings": [
+                        "seven-banded armadillo (Dasypus septemcinctus)"
+                    ]
+                },
+                {
+                    "kanji": "７日",
+                    "reading": "なのか",
+                    "meanings": [
+                        "7th day of the month",
+                        "seven days"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "七",
+                    "reading": "シチ",
+                    "meanings": [
+                        "seven"
+                    ]
+                },
+                {
+                    "kanji": "７月",
+                    "reading": "シチガツ",
+                    "meanings": [
+                        "July",
+                        "seventh month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "２７",
+                    "reading": "ニジュウシチ",
+                    "meanings": [
+                        "27",
+                        "twenty seven",
+                        "3am"
+                    ]
+                },
+                {
+                    "kanji": "セシウム１３７",
+                    "reading": "セシウムヒャクサンジュウシチ",
+                    "meanings": [
+                        "cesium-137",
+                        "caesium-137"
+                    ]
+                }
+            ]
+        }
+    }
+}

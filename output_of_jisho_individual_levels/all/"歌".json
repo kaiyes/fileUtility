@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"歌\"",
+        "strokes": 14,
+        "main_meanings": [
+            "song",
+            "sing"
+        ],
+        "main_readings": {
+            "kun": [
+                "うた",
+                "うた.う"
+            ],
+            "on": [
+                "カ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "166": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "90": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "84": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "478": "A New Dictionary of Kanji Usage",
+                "2422": "Classic Nelson (Andrew Nelson)",
+                "256": "Essential Kanji (P.G. O’Neill)",
+                "201": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2170": "Japanese Names (P.G. O’Neill)",
+                "3.18": "Japanese for Busy People",
+                "392": "Kanji and Kana (Spahn and Hadamitzky)",
+                "395": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "200": "Kanji in Context (Nishiguchi and Kono)",
+                "1125": "Kodansha Compact Kanji Guide",
+                "2296": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1187": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1621": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "480": "Les Kanjis dans la tete (Yves Maniette)",
+                "16167": "Morohashi",
+                "1825": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2945": "New Nelson (John Haig)",
+                "469": "Remembering The Kanji (James Heisig)",
+                "508": "Remembering The Kanji, 6th edition (James Heisig)",
+                "486": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "230": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3162": "2001 Kanji",
+                "4j10.2": "The Kanji Dictionary",
+                "1-10-4": "SKIP code",
+                "1768.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-46": "JIS X 0208-1997 kuten code",
+                "6b4c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ge1"
+                ],
+                "korean": [
+                    "ga"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "lack,",
+            "parts": [
+                "一",
+                "亅",
+                "口",
+                "欠"
+            ],
+            "basis": "欠",
+            "kangxi_order": 76,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "歌",
+                    "reading": "うた",
+                    "meanings": [
+                        "song",
+                        "singing",
+                        "classical Japanese poem (esp. tanka)",
+                        "modern poetry"
+                    ]
+                },
+                {
+                    "kanji": "歌合",
+                    "reading": "うたあわせ",
+                    "meanings": [
+                        "poetry contest"
+                    ]
+                },
+                {
+                    "kanji": "短歌",
+                    "reading": "たんか",
+                    "meanings": [
+                        "tanka",
+                        "31-mora Japanese poem"
+                    ]
+                },
+                {
+                    "kanji": "替え歌",
+                    "reading": "かえうた",
+                    "meanings": [
+                        "parody (of a song)",
+                        "new lyrics to an old melody",
+                        "song parody"
+                    ]
+                },
+                {
+                    "kanji": "歌う",
+                    "reading": "うたう",
+                    "meanings": [
+                        "to sing",
+                        "to sing of (love",
+                        "beauty",
+                        "etc.) in a poem",
+                        "to express in the form of a poem",
+                        "to recite (a poem)"
+                    ]
+                },
+                {
+                    "kanji": "歌うたい",
+                    "reading": "うたうたい",
+                    "meanings": [
+                        "singer",
+                        "vocalist",
+                        "nagauta singer (in kabuki)",
+                        "singer of noh chants"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "歌劇",
+                    "reading": "カゲキ",
+                    "meanings": [
+                        "opera"
+                    ]
+                },
+                {
+                    "kanji": "歌曲",
+                    "reading": "カキョク",
+                    "meanings": [
+                        "melody",
+                        "tune",
+                        "song"
+                    ]
+                },
+                {
+                    "kanji": "演歌",
+                    "reading": "エンカ",
+                    "meanings": [
+                        "enka",
+                        "traditional-style Japanese popular ballad",
+                        "troubadour"
+                    ]
+                },
+                {
+                    "kanji": "和歌",
+                    "reading": "ワカ",
+                    "meanings": [
+                        "waka",
+                        "classic Japanese poem",
+                        "esp. a tanka",
+                        "often 31 morae"
+                    ]
+                }
+            ]
+        }
+    }
+}

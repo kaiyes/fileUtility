@@ -1,0 +1,426 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"代\"",
+        "strokes": 5,
+        "main_meanings": [
+            "substitute",
+            "change",
+            "convert",
+            "replace",
+            "period",
+            "age",
+            "counter for decades of ages",
+            "eras",
+            "etc.",
+            "generation",
+            "charge",
+            "rate",
+            "fee"
+        ],
+        "main_readings": {
+            "kun": [
+                "か.わる",
+                "かわ.る",
+                "かわ.り",
+                "か.わり",
+                "-がわ.り",
+                "-が.わり",
+                "か.える",
+                "よ",
+                "しろ"
+            ],
+            "on": [
+                "ダイ",
+                "タイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "463": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "358": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "338": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "68": "A New Dictionary of Kanji Usage",
+                "364": "Classic Nelson (Andrew Nelson)",
+                "85": "Essential Kanji (P.G. O’Neill)",
+                "111": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "125": "New Nelson (John Haig)",
+                "2.10": "Japanese for Busy People",
+                "256": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "413": "Kanji in Context (Nishiguchi and Kono)",
+                "61": "Kodansha Compact Kanji Guide",
+                "34": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "18": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1014": "Les Kanjis dans la tete (Yves Maniette)",
+                "386": "Morohashi",
+                "30": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1005": "Remembering The Kanji (James Heisig)",
+                "1080": "Remembering The Kanji, 6th edition (James Heisig)",
+                "87": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "257": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2156": "2001 Kanji",
+                "2a3.3": "The Kanji Dictionary",
+                "1-2-3": "SKIP code",
+                "2324.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-69": "JIS X 0208-1997 kuten code",
+                "4ee3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "す"
+                ],
+                "chinese": [
+                    "dai4"
+                ],
+                "korean": [
+                    "dae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "化",
+                "弋"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "替わる",
+                    "reading": "かわる",
+                    "meanings": [
+                        "to succeed",
+                        "to relieve",
+                        "to replace",
+                        "to take the place of",
+                        "to substitute for",
+                        "to take over for",
+                        "to represent",
+                        "to hand over (telephone)",
+                        "to be exchanged",
+                        "to change (places with)",
+                        "to switch"
+                    ]
+                },
+                {
+                    "kanji": "代わる代わる",
+                    "reading": "かわるがわる",
+                    "meanings": [
+                        "alternately",
+                        "by turns"
+                    ]
+                },
+                {
+                    "kanji": "替わる",
+                    "reading": "かわる",
+                    "meanings": [
+                        "to succeed",
+                        "to relieve",
+                        "to replace",
+                        "to take the place of",
+                        "to substitute for",
+                        "to take over for",
+                        "to represent",
+                        "to hand over (telephone)",
+                        "to be exchanged",
+                        "to change (places with)",
+                        "to switch"
+                    ]
+                },
+                {
+                    "kanji": "代わる代わる",
+                    "reading": "かわるがわる",
+                    "meanings": [
+                        "alternately",
+                        "by turns"
+                    ]
+                },
+                {
+                    "kanji": "代わり",
+                    "reading": "かわり",
+                    "meanings": [
+                        "substitute",
+                        "replacement",
+                        "substituting",
+                        "replacing",
+                        "stand-in",
+                        "proxy",
+                        "alternate",
+                        "deputy",
+                        "relief",
+                        "successor",
+                        "compensation",
+                        "exchange",
+                        "return",
+                        "another helping",
+                        "second helping",
+                        "seconds",
+                        "refill",
+                        "upcoming program",
+                        "upcoming programme"
+                    ]
+                },
+                {
+                    "kanji": "変わり目",
+                    "reading": "かわりめ",
+                    "meanings": [
+                        "turning point",
+                        "change",
+                        "transition",
+                        "turn (of the tide",
+                        "century",
+                        "etc.)",
+                        "point of difference"
+                    ]
+                },
+                {
+                    "kanji": "代わり",
+                    "reading": "かわり",
+                    "meanings": [
+                        "substitute",
+                        "replacement",
+                        "substituting",
+                        "replacing",
+                        "stand-in",
+                        "proxy",
+                        "alternate",
+                        "deputy",
+                        "relief",
+                        "successor",
+                        "compensation",
+                        "exchange",
+                        "return",
+                        "another helping",
+                        "second helping",
+                        "seconds",
+                        "refill",
+                        "upcoming program",
+                        "upcoming programme"
+                    ]
+                },
+                {
+                    "kanji": "変わり目",
+                    "reading": "かわりめ",
+                    "meanings": [
+                        "turning point",
+                        "change",
+                        "transition",
+                        "turn (of the tide",
+                        "century",
+                        "etc.)",
+                        "point of difference"
+                    ]
+                },
+                {
+                    "kanji": "換える",
+                    "reading": "かえる",
+                    "meanings": [
+                        "to replace",
+                        "to exchange",
+                        "to interchange",
+                        "to substitute"
+                    ]
+                },
+                {
+                    "kanji": "世",
+                    "reading": "よ",
+                    "meanings": [
+                        "world",
+                        "society",
+                        "public",
+                        "life",
+                        "lifetime",
+                        "age",
+                        "era",
+                        "period",
+                        "epoch",
+                        "generation",
+                        "reign",
+                        "rule",
+                        "the times",
+                        "world (of existence)"
+                    ]
+                },
+                {
+                    "kanji": "代々",
+                    "reading": "よよ",
+                    "meanings": [
+                        "for generations",
+                        "from generation to generation",
+                        "generation after generation",
+                        "through the ages"
+                    ]
+                },
+                {
+                    "kanji": "千代",
+                    "reading": "ちよ",
+                    "meanings": [
+                        "thousand years",
+                        "very long period",
+                        "forever"
+                    ]
+                },
+                {
+                    "kanji": "君が代",
+                    "reading": "きみがよ",
+                    "meanings": [
+                        "Imperial reign",
+                        "Kimigayo (Japanese national anthem)"
+                    ]
+                },
+                {
+                    "kanji": "代",
+                    "reading": "しろ",
+                    "meanings": [
+                        "substitution",
+                        "material",
+                        "price",
+                        "margin (e.g. for stapling",
+                        "etc.)",
+                        "area required for something",
+                        "shiro (unit of land area equal to one-fiftieth of a tan; approx. 19.83 m.sq.)"
+                    ]
+                },
+                {
+                    "kanji": "代物",
+                    "reading": "しろもの",
+                    "meanings": [
+                        "article",
+                        "goods",
+                        "product",
+                        "fine thing",
+                        "fellow",
+                        "affair",
+                        "stuff",
+                        "prostitute",
+                        "price",
+                        "cost",
+                        "money"
+                    ]
+                },
+                {
+                    "kanji": "地代",
+                    "reading": "ちだい",
+                    "meanings": [
+                        "land rent"
+                    ]
+                },
+                {
+                    "kanji": "阿代",
+                    "reading": "あしろ",
+                    "meanings": [
+                        "Ophidion asiro (species of cusk eel)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "代",
+                    "reading": "ダイ",
+                    "meanings": [
+                        "charge",
+                        "cost",
+                        "price",
+                        "generation",
+                        "age",
+                        "(school) year",
+                        "cohort",
+                        "reign",
+                        "era",
+                        "a representative of",
+                        "on behalf of",
+                        "for (someone)",
+                        "switchboard number",
+                        "counter for decades of ages",
+                        "eras",
+                        "etc.",
+                        "counter for generations (of inheritors to a throne",
+                        "etc.)",
+                        "proxy application company",
+                        "pronoun"
+                    ]
+                },
+                {
+                    "kanji": "代官",
+                    "reading": "ダイカン",
+                    "meanings": [
+                        "local governor (Edo period)",
+                        "local magistrate",
+                        "bailiff",
+                        "deputy official (Middle Ages)",
+                        "acting administrator"
+                    ]
+                },
+                {
+                    "kanji": "大時代",
+                    "reading": "オオジダイ",
+                    "meanings": [
+                        "old-fashioned",
+                        "antiquated",
+                        "anachronistic"
+                    ]
+                },
+                {
+                    "kanji": "次代",
+                    "reading": "ジダイ",
+                    "meanings": [
+                        "the next era"
+                    ]
+                },
+                {
+                    "kanji": "代謝",
+                    "reading": "タイシャ",
+                    "meanings": [
+                        "metabolism",
+                        "renewal",
+                        "regeneration",
+                        "replacing the old with the new"
+                    ]
+                },
+                {
+                    "kanji": "代赭",
+                    "reading": "タイシャ",
+                    "meanings": [
+                        "red ocher (ochre)"
+                    ]
+                },
+                {
+                    "kanji": "永代",
+                    "reading": "エイタイ",
+                    "meanings": [
+                        "permanence",
+                        "eternity"
+                    ]
+                },
+                {
+                    "kanji": "希代",
+                    "reading": "キタイ",
+                    "meanings": [
+                        "uncommon",
+                        "rare",
+                        "extraordinary",
+                        "matchless"
+                    ]
+                }
+            ]
+        }
+    }
+}

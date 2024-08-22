@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"父\"",
+        "strokes": 4,
+        "main_meanings": [
+            "father"
+        ],
+        "main_readings": {
+            "kun": [
+                "ちち"
+            ],
+            "on": [
+                "フ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "131": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "216": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "197": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "742": "A New Dictionary of Kanji Usage",
+                "2832": "Classic Nelson (Andrew Nelson)",
+                "90": "Essential Kanji (P.G. O’Neill)",
+                "70": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "65": "Japanese Names (P.G. O’Neill)",
+                "2.7": "Japanese for Busy People",
+                "113": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "73": "Kanji in Context (Nishiguchi and Kono)",
+                "1286": "Kodansha Compact Kanji Guide",
+                "2467": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1248": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1714": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1282": "Les Kanjis dans la tete (Yves Maniette)",
+                "19721": "Morohashi",
+                "1973": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3516": "New Nelson (John Haig)",
+                "1274": "Remembering The Kanji (James Heisig)",
+                "1366": "Remembering The Kanji, 6th edition (James Heisig)",
+                "226": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "100": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2066": "2001 Kanji",
+                "2o2.3": "The Kanji Dictionary",
+                "2-2-2": "SKIP code",
+                "8040.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-67": "JIS X 0208-1997 kuten code",
+                "7236": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "fu4",
+                    "fu3"
+                ],
+                "korean": [
+                    "bu",
+                    "bo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "father",
+            "parts": [
+                "父"
+            ],
+            "basis": "父",
+            "kangxi_order": 88,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "父",
+                    "reading": "ちち",
+                    "meanings": [
+                        "father"
+                    ]
+                },
+                {
+                    "kanji": "父親",
+                    "reading": "ちちおや",
+                    "meanings": [
+                        "father"
+                    ]
+                },
+                {
+                    "kanji": "亡き父",
+                    "reading": "なきちち",
+                    "meanings": [
+                        "(one's) late father"
+                    ]
+                },
+                {
+                    "kanji": "建国の父",
+                    "reading": "けんこくのちち",
+                    "meanings": [
+                        "founding father (of a country)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "父母",
+                    "reading": "フボ",
+                    "meanings": [
+                        "father and mother",
+                        "parents"
+                    ]
+                },
+                {
+                    "kanji": "父子",
+                    "reading": "フシ",
+                    "meanings": [
+                        "father and child",
+                        "father and son",
+                        "father and daughter"
+                    ]
+                },
+                {
+                    "kanji": "義父",
+                    "reading": "ギフ",
+                    "meanings": [
+                        "father-in-law",
+                        "foster father",
+                        "stepfather"
+                    ]
+                },
+                {
+                    "kanji": "養父",
+                    "reading": "ヨウフ",
+                    "meanings": [
+                        "foster father",
+                        "adoptive father"
+                    ]
+                }
+            ]
+        }
+    }
+}

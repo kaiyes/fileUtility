@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"幽\"",
+        "strokes": 9,
+        "main_meanings": [
+            "seclude",
+            "confine to a room",
+            "deep",
+            "profound",
+            "secluded",
+            "faint",
+            "dark",
+            "tranquil",
+            "calm"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふか.い",
+                "かす.か",
+                "くら.い",
+                "しろ.い"
+            ],
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1865": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1876": "A New Dictionary of Kanji Usage",
+                "112": "Classic Nelson (Andrew Nelson)",
+                "1735": "Essential Kanji (P.G. O’Neill)",
+                "1256": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2251": "Japanese Names (P.G. O’Neill)",
+                "1228": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1292": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1820": "Kanji in Context (Nishiguchi and Kono)",
+                "579": "Kodansha Compact Kanji Guide",
+                "3731": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1909": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2592": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1392": "Les Kanjis dans la tete (Yves Maniette)",
+                "9205": "Morohashi",
+                "3008": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1600": "New Nelson (John Haig)",
+                "1380": "Remembering The Kanji (James Heisig)",
+                "1480": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1251": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1276": "2001 Kanji",
+                "3o6.6": "The Kanji Dictionary",
+                "3-2-7": "SKIP code",
+                "2277.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-09": "JIS X 0208-1997 kuten code",
+                "5e7d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "you1"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "short,",
+            "parts": [
+                "｜",
+                "幺",
+                "凵"
+            ],
+            "basis": "幺",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "微か",
+                    "reading": "かすか",
+                    "meanings": [
+                        "faint",
+                        "dim",
+                        "weak",
+                        "slight",
+                        "vague",
+                        "indistinct",
+                        "hazy",
+                        "poor",
+                        "wretched",
+                        "meagre",
+                        "meager",
+                        "scanty"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "幽霊",
+                    "reading": "ユウレイ",
+                    "meanings": [
+                        "ghost",
+                        "specter",
+                        "spectre",
+                        "apparition",
+                        "phantom"
+                    ]
+                },
+                {
+                    "kanji": "憂鬱",
+                    "reading": "ユウウツ",
+                    "meanings": [
+                        "depression",
+                        "melancholy",
+                        "dejection",
+                        "gloom",
+                        "despondency"
+                    ]
+                },
+                {
+                    "kanji": "幽々",
+                    "reading": "ユウユウ",
+                    "meanings": [
+                        "deep",
+                        "dark"
+                    ]
+                },
+                {
+                    "kanji": "帰幽",
+                    "reading": "キユウ",
+                    "meanings": [
+                        "death"
+                    ]
+                }
+            ]
+        }
+    }
+}

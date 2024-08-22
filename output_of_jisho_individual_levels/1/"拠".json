@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"拠\"",
+        "strokes": 8,
+        "main_meanings": [
+            "foothold",
+            "based on",
+            "follow",
+            "therefore"
+        ],
+        "main_readings": {
+            "kun": [
+                "よ.る"
+            ],
+            "on": [
+                "キョ",
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1155": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "970": "A New Dictionary of Kanji Usage",
+                "1871": "Classic Nelson (Andrew Nelson)",
+                "1725": "Essential Kanji (P.G. O’Neill)",
+                "1352": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1138": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1190": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1213": "Kanji in Context (Nishiguchi and Kono)",
+                "872": "Kodansha Compact Kanji Guide",
+                "369": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "232": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "276": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "676": "Les Kanjis dans la tete (Yves Maniette)",
+                "11985": "Morohashi",
+                "312": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2113": "New Nelson (John Haig)",
+                "669": "Remembering The Kanji (James Heisig)",
+                "722": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "1367": "2001 Kanji",
+                "3c5.26": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5704.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-82": "JIS X 0208-1997 kuten code",
+                "62e0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ju4",
+                    "ju1"
+                ],
+                "korean": [
+                    "geo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "几",
+                "夂",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "據"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "依る",
+                    "reading": "よる",
+                    "meanings": [
+                        "to be due to",
+                        "to be caused by",
+                        "to depend on",
+                        "to turn on",
+                        "to be based on",
+                        "to come from",
+                        "to be based at (a location",
+                        "an organization)",
+                        "to be headquartered at"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "拠点",
+                    "reading": "キョテン",
+                    "meanings": [
+                        "position",
+                        "location",
+                        "base",
+                        "point",
+                        "site"
+                    ]
+                },
+                {
+                    "kanji": "拠出",
+                    "reading": "キョシュツ",
+                    "meanings": [
+                        "donation",
+                        "contribution"
+                    ]
+                },
+                {
+                    "kanji": "急遽",
+                    "reading": "キュウキョ",
+                    "meanings": [
+                        "hurriedly",
+                        "in a hurry",
+                        "hastily",
+                        "in haste",
+                        "sudden",
+                        "abrupt"
+                    ]
+                },
+                {
+                    "kanji": "群雄割拠",
+                    "reading": "グンユウカッキョ",
+                    "meanings": [
+                        "rivalry of local warlords",
+                        "a number of powerful (talented",
+                        "influential) persons standing by themselves in a given field"
+                    ]
+                },
+                {
+                    "kanji": "有罪証拠",
+                    "reading": "ユウザイショウコ",
+                    "meanings": [
+                        "corpus delicti"
+                    ]
+                },
+                {
+                    "kanji": "事例証拠",
+                    "reading": "ジレイショウコ",
+                    "meanings": [
+                        "anecdotal evidence"
+                    ]
+                }
+            ]
+        }
+    }
+}

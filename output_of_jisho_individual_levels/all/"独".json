@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"独\"",
+        "strokes": 9,
+        "main_meanings": [
+            "single",
+            "alone",
+            "spontaneously",
+            "Germany"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひと.り"
+            ],
+            "on": [
+                "ドク",
+                "トク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "687": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "784": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "763": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "479": "A New Dictionary of Kanji Usage",
+                "2884": "Classic Nelson (Andrew Nelson)",
+                "618": "Essential Kanji (P.G. O’Neill)",
+                "728": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "788": "Japanese Names (P.G. O’Neill)",
+                "219": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "559": "Kanji in Context (Nishiguchi and Kono)",
+                "1303": "Kodansha Compact Kanji Guide",
+                "471": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "293": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "354": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "528": "Les Kanjis dans la tete (Yves Maniette)",
+                "20406": "Morohashi",
+                "395": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3574": "New Nelson (John Haig)",
+                "522": "Remembering The Kanji (James Heisig)",
+                "561": "Remembering The Kanji, 6th edition (James Heisig)",
+                "205": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "704": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2971": "2001 Kanji",
+                "3g6.1": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "4523.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-40": "JIS X 0208-1997 kuten code",
+                "72ec": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "どいつ、 どっ"
+                ],
+                "chinese": [
+                    "du2"
+                ],
+                "korean": [
+                    "dog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "犯",
+                "虫"
+            ],
+            "basis": "犬",
+            "kangxi_order": 94,
+            "variants": [
+                "獨"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "一人",
+                    "reading": "ひとり",
+                    "meanings": [
+                        "one person",
+                        "being alone",
+                        "being by oneself",
+                        "being single",
+                        "being unmarried",
+                        "by oneself",
+                        "alone",
+                        "just",
+                        "only",
+                        "simply"
+                    ]
+                },
+                {
+                    "kanji": "一人歩き",
+                    "reading": "ひとりあるき",
+                    "meanings": [
+                        "taking on a life of its own (of a rumour",
+                        "etc.)",
+                        "walking by oneself",
+                        "taking a walk by oneself",
+                        "walking unaided",
+                        "being able to walk without help",
+                        "standing on one's own feet",
+                        "being independent",
+                        "taking care of oneself"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "独",
+                    "reading": "ドク",
+                    "meanings": [
+                        "Germany"
+                    ]
+                },
+                {
+                    "kanji": "独裁",
+                    "reading": "ドクサイ",
+                    "meanings": [
+                        "dictatorship",
+                        "despotism",
+                        "autocracy",
+                        "running (a company",
+                        "etc.) despotically"
+                    ]
+                },
+                {
+                    "kanji": "西独",
+                    "reading": "セイドク",
+                    "meanings": [
+                        "West Germany (1949-1990)"
+                    ]
+                },
+                {
+                    "kanji": "英独",
+                    "reading": "エイドク",
+                    "meanings": [
+                        "United Kingdom and Germany",
+                        "British-German",
+                        "Anglo-German",
+                        "English-German"
+                    ]
+                }
+            ]
+        }
+    }
+}

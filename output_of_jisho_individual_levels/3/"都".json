@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"都\"",
+        "strokes": 11,
+        "main_meanings": [
+            "metropolis",
+            "capital",
+            "all",
+            "everything"
+        ],
+        "main_readings": {
+            "kun": [
+                "みやこ"
+            ],
+            "on": [
+                "ト",
+                "ツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "287": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "376": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "355": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "92": "A New Dictionary of Kanji Usage",
+                "4769": "Classic Nelson (Andrew Nelson)",
+                "173": "Essential Kanji (P.G. O’Neill)",
+                "265": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1419": "Japanese Names (P.G. O’Neill)",
+                "2.12": "Japanese for Busy People",
+                "188": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "338": "Kanji in Context (Nishiguchi and Kono)",
+                "761": "Kodansha Compact Kanji Guide",
+                "2120": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1106": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1505": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1863": "Les Kanjis dans la tete (Yves Maniette)",
+                "39497P": "Morohashi",
+                "1686": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6148": "New Nelson (John Haig)",
+                "1846": "Remembering The Kanji (James Heisig)",
+                "1989": "Remembering The Kanji, 6th edition (James Heisig)",
+                "384": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1444": "2001 Kanji",
+                "2d8.13": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "1-8-2": "SKIP code",
+                "4762.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-52": "JIS X 0208-1997 kuten code",
+                "90fd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くに、 ず、 ち、 づめ、 みや"
+                ],
+                "chinese": [
+                    "du1",
+                    "dou1"
+                ],
+                "korean": [
+                    "do"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "邦",
+                "老",
+                "日"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": [
+                "都"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "都",
+                    "reading": "みやこ",
+                    "meanings": [
+                        "capital (esp. Kyoto",
+                        "Japan's former capital)",
+                        "seat of government",
+                        "capital (of music",
+                        "fashion",
+                        "etc.)",
+                        "city (e.g. of light)",
+                        "location of the Imperial Palace"
+                    ]
+                },
+                {
+                    "kanji": "都入り",
+                    "reading": "みやこいり",
+                    "meanings": [
+                        "arriving in the capital"
+                    ]
+                },
+                {
+                    "kanji": "京の都",
+                    "reading": "きょうのみやこ",
+                    "meanings": [
+                        "Kyoto"
+                    ]
+                },
+                {
+                    "kanji": "花の都",
+                    "reading": "はなのみやこ",
+                    "meanings": [
+                        "City of Flowers (nickname for various cities",
+                        "esp. Paris and Florence)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "都",
+                    "reading": "ト",
+                    "meanings": [
+                        "Metropolis (of Tokyo)",
+                        "(Tokyo) Metropolitan District",
+                        "metropolitan prefecture",
+                        "counter for cities and towns",
+                        "capital"
+                    ]
+                },
+                {
+                    "kanji": "都営",
+                    "reading": "トエイ",
+                    "meanings": [
+                        "(under) metropolitan government management"
+                    ]
+                },
+                {
+                    "kanji": "遷都",
+                    "reading": "セント",
+                    "meanings": [
+                        "relocation of the capital",
+                        "transfer of the capital"
+                    ]
+                },
+                {
+                    "kanji": "東都",
+                    "reading": "トウト",
+                    "meanings": [
+                        "the Eastern Capital (now Tokyo)",
+                        "Yedo",
+                        "Edo"
+                    ]
+                },
+                {
+                    "kanji": "都度",
+                    "reading": "ツド",
+                    "meanings": [
+                        "each (every) time",
+                        "whenever"
+                    ]
+                },
+                {
+                    "kanji": "都合",
+                    "reading": "ツゴウ",
+                    "meanings": [
+                        "circumstances",
+                        "condition",
+                        "convenience",
+                        "arranging",
+                        "managing",
+                        "lending money",
+                        "raising money",
+                        "in all",
+                        "in total",
+                        "all told"
+                    ]
+                }
+            ]
+        }
+    }
+}

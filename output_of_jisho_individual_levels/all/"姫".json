@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"姫\"",
+        "strokes": 10,
+        "main_meanings": [
+            "princess"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひめ",
+                "ひめ-"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1738": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1534": "A New Dictionary of Kanji Usage",
+                "1216": "Classic Nelson (Andrew Nelson)",
+                "1220": "Essential Kanji (P.G. O’Neill)",
+                "1191": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1358": "Japanese Names (P.G. O’Neill)",
+                "1757": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1882": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1868": "Kanji in Context (Nishiguchi and Kono)",
+                "445": "Kodansha Compact Kanji Guide",
+                "489": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "303": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "368": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "857": "Les Kanjis dans la tete (Yves Maniette)",
+                "6229": "Morohashi",
+                "407": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1217": "New Nelson (John Haig)",
+                "849": "Remembering The Kanji (James Heisig)",
+                "912": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1320": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1775": "2001 Kanji",
+                "3e7.11": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "4141.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-17": "JIS X 0208-1997 kuten code",
+                "59eb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "heui"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "女",
+                "臣"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "姫",
+                    "reading": "ひめ",
+                    "meanings": [
+                        "young lady of noble birth",
+                        "princess (esp. in Western contexts",
+                        "tales",
+                        "etc.)",
+                        "girl",
+                        "small",
+                        "cute",
+                        "lesser (in names of species)",
+                        "prostitute"
+                    ]
+                },
+                {
+                    "kanji": "姫君",
+                    "reading": "ひめぎみ",
+                    "meanings": [
+                        "daughter of a person of high rank (esp. eldest daughter)"
+                    ]
+                },
+                {
+                    "kanji": "歌姫",
+                    "reading": "うたひめ",
+                    "meanings": [
+                        "songstress",
+                        "diva"
+                    ]
+                },
+                {
+                    "kanji": "舞姫",
+                    "reading": "まいひめ",
+                    "meanings": [
+                        "female dancer",
+                        "dancing girl",
+                        "danseuse"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "舞姫",
+                    "reading": "マイヒメ",
+                    "meanings": [
+                        "female dancer",
+                        "dancing girl",
+                        "danseuse"
+                    ]
+                },
+                {
+                    "kanji": "寵姫",
+                    "reading": "チョウキ",
+                    "meanings": [
+                        "one's favorite mistress",
+                        "one's favourite mistress"
+                    ]
+                }
+            ]
+        }
+    }
+}

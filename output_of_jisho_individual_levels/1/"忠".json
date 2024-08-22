@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"忠\"",
+        "strokes": 8,
+        "main_meanings": [
+            "loyalty",
+            "fidelity",
+            "faithfulness"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "842": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "948": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "936": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1040": "A New Dictionary of Kanji Usage",
+                "1653": "Classic Nelson (Andrew Nelson)",
+                "632": "Essential Kanji (P.G. O’Neill)",
+                "1289": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "705": "Japanese Names (P.G. O’Neill)",
+                "1348": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1431": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "758": "Kanji in Context (Nishiguchi and Kono)",
+                "773": "Kodansha Compact Kanji Guide",
+                "3087": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1575": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2154": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "609": "Les Kanjis dans la tete (Yves Maniette)",
+                "10353": "Morohashi",
+                "2433": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1801": "New Nelson (John Haig)",
+                "602": "Remembering The Kanji (James Heisig)",
+                "648": "Remembering The Kanji, 6th edition (James Heisig)",
+                "869": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1658": "2001 Kanji",
+                "4k4.6": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "5033.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-73": "JIS X 0208-1997 kuten code",
+                "5fe0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "きよし、 たた、 ただ、 ただし、 なお"
+                ],
+                "chinese": [
+                    "zhong1"
+                ],
+                "korean": [
+                    "chung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "｜",
+                "口",
+                "心"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "忠",
+                    "reading": "チュウ",
+                    "meanings": [
+                        "loyalty",
+                        "devotion",
+                        "fidelity",
+                        "faithfulness",
+                        "inspector of the Imperial Prosecuting and Investigating Office (ritsuryō system)"
+                    ]
+                },
+                {
+                    "kanji": "忠臣",
+                    "reading": "チュウシン",
+                    "meanings": [
+                        "loyal retainer",
+                        "loyal subject"
+                    ]
+                },
+                {
+                    "kanji": "誠忠",
+                    "reading": "セイチュウ",
+                    "meanings": [
+                        "loyalty"
+                    ]
+                },
+                {
+                    "kanji": "不忠",
+                    "reading": "フチュウ",
+                    "meanings": [
+                        "disloyalty",
+                        "infidelity"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"入\"",
+        "strokes": 2,
+        "main_meanings": [
+            "enter",
+            "insert"
+        ],
+        "main_readings": {
+            "kun": [
+                "い.る",
+                "-い.る",
+                "-い.り",
+                "い.れる",
+                "-い.れ",
+                "はい.る"
+            ],
+            "on": [
+                "ニュウ",
+                "ジュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "125": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "28": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "63": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "74": "A New Dictionary of Kanji Usage",
+                "574": "Classic Nelson (Andrew Nelson)",
+                "39": "Essential Kanji (P.G. O’Neill)",
+                "17": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "15": "Japanese Names (P.G. O’Neill)",
+                "2.9": "Japanese for Busy People",
+                "52": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "186": "Kanji in Context (Nishiguchi and Kono)",
+                "150": "Kodansha Compact Kanji Guide",
+                "4177": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2113": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2859": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "786": "Les Kanjis dans la tete (Yves Maniette)",
+                "1415": "Morohashi",
+                "3370": "New Japanese English Character Dictionary (Jack Halpern)",
+                "366": "New Nelson (John Haig)",
+                "779": "Remembering The Kanji (James Heisig)",
+                "842": "Remembering The Kanji, 6th edition (James Heisig)",
+                "65": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "8": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3562": "2001 Kanji",
+                "0a2.3": "The Kanji Dictionary",
+                "4-2-4": "SKIP code",
+                "3-1-1": "SKIP code",
+                "8000.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-94": "JIS X 0208-1997 kuten code",
+                "5165": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "いり、 いる、 に、 の、 りり"
+                ],
+                "chinese": [
+                    "ru4"
+                ],
+                "korean": [
+                    "ib"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "enter",
+            "parts": [
+                "入"
+            ],
+            "basis": "入",
+            "kangxi_order": 11,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "入る",
+                    "reading": "いる",
+                    "meanings": [
+                        "to enter",
+                        "to go in",
+                        "to get in",
+                        "to come in",
+                        "to set (of the sun or moon)",
+                        "to sink",
+                        "to go down",
+                        "to attain (nirvana",
+                        "enlightenment",
+                        "etc.)",
+                        "to achieve",
+                        "to reach (e.g. a climax)",
+                        "to do fully",
+                        "to do intently",
+                        "to do sincerely",
+                        "to do deeply",
+                        "to feel keenly",
+                        "to (reach a state) completely"
+                    ]
+                },
+                {
+                    "kanji": "入満",
+                    "reading": "イルマン",
+                    "meanings": [
+                        "brother",
+                        "lay brother",
+                        "non-ordained member of a Christian religious order"
+                    ]
+                },
+                {
+                    "kanji": "入れる",
+                    "reading": "いれる",
+                    "meanings": [
+                        "to put in",
+                        "to let in",
+                        "to take in",
+                        "to bring in",
+                        "to insert",
+                        "to install (e.g. software)",
+                        "to set (a jewel",
+                        "etc.)",
+                        "to ink in (e.g. tattoo)",
+                        "to admit",
+                        "to accept",
+                        "to employ",
+                        "to hire",
+                        "to accept",
+                        "to comply",
+                        "to grant",
+                        "to adopt (a policy",
+                        "etc.)",
+                        "to take (advice",
+                        "etc.)",
+                        "to listen to",
+                        "to pay attention to",
+                        "to include",
+                        "to pay (one's rent",
+                        "etc.)",
+                        "to cast (a vote)",
+                        "to make (tea",
+                        "coffee",
+                        "etc.)",
+                        "to turn on (a switch",
+                        "etc.)",
+                        "to send (a fax)",
+                        "to call"
+                    ]
+                },
+                {
+                    "kanji": "入る",
+                    "reading": "はいる",
+                    "meanings": [
+                        "to enter",
+                        "to come in",
+                        "to go in",
+                        "to get in",
+                        "to arrive",
+                        "to join (a club",
+                        "company",
+                        "etc.)",
+                        "to enter (a university",
+                        "the army",
+                        "etc.)",
+                        "to enroll (in)",
+                        "to go into (e.g. politics)",
+                        "to get into",
+                        "to be contained (in)",
+                        "to be included (in)",
+                        "to be inside (e.g. a box)",
+                        "to come under (a heading)",
+                        "to belong (in a category)",
+                        "to (be able to) fit (in a container",
+                        "building",
+                        "etc.)",
+                        "to be (able to be) held",
+                        "to be (able to be) accommodated",
+                        "to be introduced",
+                        "to be brought in",
+                        "to be installed",
+                        "to be received",
+                        "to be obtained",
+                        "to be scored (of points)",
+                        "to be won (of votes)",
+                        "to turn on",
+                        "to start functioning",
+                        "to start working",
+                        "to enter (a month",
+                        "season",
+                        "etc.)",
+                        "to reach (e.g. a climax)",
+                        "to get to (e.g. the main topic)",
+                        "to enter into (e.g. negotiations)",
+                        "to start (doing)",
+                        "to begin",
+                        "to form (of a crack",
+                        "fissure",
+                        "etc.)",
+                        "to develop",
+                        "to be put in (of effort",
+                        "spirit",
+                        "feeling",
+                        "etc.)",
+                        "to be applied (e.g. of strength)",
+                        "to be ready (of tea",
+                        "coffee",
+                        "etc.)",
+                        "to be made",
+                        "to enter the body (of alcohol)",
+                        "to become drunk"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "入園",
+                    "reading": "ニュウエン",
+                    "meanings": [
+                        "enrollment in kindergarten",
+                        "enrolment in nursery school",
+                        "entering a park",
+                        "garden",
+                        "zoo",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "入院",
+                    "reading": "ニュウイン",
+                    "meanings": [
+                        "hospitalization",
+                        "hospitalisation"
+                    ]
+                },
+                {
+                    "kanji": "輸出入",
+                    "reading": "ユシュツニュウ",
+                    "meanings": [
+                        "export and import"
+                    ]
+                },
+                {
+                    "kanji": "納入",
+                    "reading": "ノウニュウ",
+                    "meanings": [
+                        "payment (of taxes",
+                        "fees",
+                        "etc.)",
+                        "supply (of goods)",
+                        "delivery"
+                    ]
+                },
+                {
+                    "kanji": "入水",
+                    "reading": "ジュスイ",
+                    "meanings": [
+                        "suicide by drowning",
+                        "drowning oneself",
+                        "entering the water",
+                        "hitting the water"
+                    ]
+                },
+                {
+                    "kanji": "入御",
+                    "reading": "ニュウギョ",
+                    "meanings": [
+                        "emperor's return to the imperial palace"
+                    ]
+                }
+            ]
+        }
+    }
+}

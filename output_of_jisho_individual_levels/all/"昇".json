@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"昇\"",
+        "strokes": 8,
+        "main_meanings": [
+            "rise up"
+        ],
+        "main_readings": {
+            "kun": [
+                "のぼ.る"
+            ],
+            "on": [
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1393": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "841": "A New Dictionary of Kanji Usage",
+                "2109": "Classic Nelson (Andrew Nelson)",
+                "1441": "Essential Kanji (P.G. O’Neill)",
+                "596": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "713": "Japanese Names (P.G. O’Neill)",
+                "1777": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1909": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1280": "Kanji in Context (Nishiguchi and Kono)",
+                "969": "Kodansha Compact Kanji Guide",
+                "3068": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1565": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2139": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "42": "Les Kanjis dans la tete (Yves Maniette)",
+                "13794": "Morohashi",
+                "2415": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2434": "New Nelson (John Haig)",
+                "43": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1189": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3855": "2001 Kanji",
+                "4c4.5": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "6044.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-26": "JIS X 0208-1997 kuten code",
+                "6607": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しゅう、 のり"
+                ],
+                "chinese": [
+                    "sheng1"
+                ],
+                "korean": [
+                    "seung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "ノ",
+                "十",
+                "廾",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": 72,
+            "variants": [
+                "曻"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "上る",
+                    "reading": "のぼる",
+                    "meanings": [
+                        "to ascend",
+                        "to go up",
+                        "to climb",
+                        "to ascend (as a natural process",
+                        "e.g. the Sun)",
+                        "to rise",
+                        "to go to (the capital)",
+                        "to be promoted",
+                        "to add up to",
+                        "to advance (in price)",
+                        "to swim up (a river)",
+                        "to sail up",
+                        "to come up (on the agenda)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "昇給",
+                    "reading": "ショウキュウ",
+                    "meanings": [
+                        "salary raise"
+                    ]
+                },
+                {
+                    "kanji": "昇格",
+                    "reading": "ショウカク",
+                    "meanings": [
+                        "promotion",
+                        "raising of status"
+                    ]
+                },
+                {
+                    "kanji": "定昇",
+                    "reading": "テイショウ",
+                    "meanings": [
+                        "regular (annual) pay raise"
+                    ]
+                },
+                {
+                    "kanji": "温度上昇",
+                    "reading": "オンドジョウショウ",
+                    "meanings": [
+                        "temperature increase",
+                        "rise in temperature"
+                    ]
+                }
+            ]
+        }
+    }
+}

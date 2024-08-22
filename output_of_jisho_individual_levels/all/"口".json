@@ -1,0 +1,268 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"口\"",
+        "strokes": 3,
+        "main_meanings": [
+            "mouth"
+        ],
+        "main_readings": {
+            "kun": [
+                "くち"
+            ],
+            "on": [
+                "コウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "27": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "34": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "20": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "213": "A New Dictionary of Kanji Usage",
+                "868": "Classic Nelson (Andrew Nelson)",
+                "38": "Essential Kanji (P.G. O’Neill)",
+                "31": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "29": "Japanese Names (P.G. O’Neill)",
+                "2.16": "Japanese for Busy People",
+                "54": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "167": "Kanji in Context (Nishiguchi and Kono)",
+                "276": "Kodansha Compact Kanji Guide",
+                "4189": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2119": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2865": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "11": "Remembering The Kanji, 6th edition (James Heisig)",
+                "3227": "Morohashi",
+                "3382": "New Japanese English Character Dictionary (Jack Halpern)",
+                "685": "New Nelson (John Haig)",
+                "200": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "16": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3777": "2001 Kanji",
+                "3d0.1": "The Kanji Dictionary",
+                "4-3-1": "SKIP code",
+                "3-3-0": "SKIP code",
+                "6000.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-93": "JIS X 0208-1997 kuten code",
+                "53e3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kou3"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "囗"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "口",
+                    "reading": "くち",
+                    "meanings": [
+                        "mouth",
+                        "opening",
+                        "hole",
+                        "gap",
+                        "orifice",
+                        "mouth (of a bottle)",
+                        "spout",
+                        "nozzle",
+                        "mouthpiece",
+                        "gate",
+                        "door",
+                        "entrance",
+                        "exit",
+                        "speaking",
+                        "speech",
+                        "talk (i.e. gossip)",
+                        "taste",
+                        "palate",
+                        "mouth (to feed)",
+                        "opening (i.e. vacancy)",
+                        "available position",
+                        "invitation",
+                        "summons",
+                        "kind",
+                        "sort",
+                        "type",
+                        "opening (i.e. beginning)",
+                        "counter for mouthfuls",
+                        "shares (of money)",
+                        "stove burners",
+                        "and swords"
+                    ]
+                },
+                {
+                    "kanji": "口利き",
+                    "reading": "くちきき",
+                    "meanings": [
+                        "mediation",
+                        "good offices",
+                        "intervention",
+                        "mediator",
+                        "middleman",
+                        "influential person",
+                        "person of influence",
+                        "eloquence",
+                        "eloquent person",
+                        "way of speaking"
+                    ]
+                },
+                {
+                    "kanji": "切り口",
+                    "reading": "きりくち",
+                    "meanings": [
+                        "cut end",
+                        "section",
+                        "opening",
+                        "slit",
+                        "point of view",
+                        "(different) perspective",
+                        "new approach"
+                    ]
+                },
+                {
+                    "kanji": "大口",
+                    "reading": "おおぐち",
+                    "meanings": [
+                        "big mouth",
+                        "mouth opened wide",
+                        "boastful speech",
+                        "tall talk",
+                        "bragging",
+                        "boasting",
+                        "large amount",
+                        "large quantity"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "口",
+                    "reading": "ク",
+                    "meanings": [
+                        "mouth",
+                        "speech",
+                        "counter for people or implements"
+                    ]
+                },
+                {
+                    "kanji": "口径",
+                    "reading": "コウケイ",
+                    "meanings": [
+                        "aperture",
+                        "bore",
+                        "calibre",
+                        "caliber"
+                    ]
+                },
+                {
+                    "kanji": "開口",
+                    "reading": "カイコウ",
+                    "meanings": [
+                        "opening",
+                        "aperture (e.g. camera)",
+                        "opening one's mouth",
+                        "beginning to speak",
+                        "open",
+                        "broad"
+                    ]
+                },
+                {
+                    "kanji": "経口",
+                    "reading": "ケイコウ",
+                    "meanings": [
+                        "taken by mouth",
+                        "oral"
+                    ]
+                },
+                {
+                    "kanji": "口",
+                    "reading": "ク",
+                    "meanings": [
+                        "mouth",
+                        "speech",
+                        "counter for people or implements"
+                    ]
+                },
+                {
+                    "kanji": "口",
+                    "reading": "クチ",
+                    "meanings": [
+                        "mouth",
+                        "opening",
+                        "hole",
+                        "gap",
+                        "orifice",
+                        "mouth (of a bottle)",
+                        "spout",
+                        "nozzle",
+                        "mouthpiece",
+                        "gate",
+                        "door",
+                        "entrance",
+                        "exit",
+                        "speaking",
+                        "speech",
+                        "talk (i.e. gossip)",
+                        "taste",
+                        "palate",
+                        "mouth (to feed)",
+                        "opening (i.e. vacancy)",
+                        "available position",
+                        "invitation",
+                        "summons",
+                        "kind",
+                        "sort",
+                        "type",
+                        "opening (i.e. beginning)",
+                        "counter for mouthfuls",
+                        "shares (of money)",
+                        "stove burners",
+                        "and swords"
+                    ]
+                },
+                {
+                    "kanji": "猪口",
+                    "reading": "チョコ",
+                    "meanings": [
+                        "sake cup",
+                        "small deep porcelain bowl for serving food"
+                    ]
+                },
+                {
+                    "kanji": "赤口",
+                    "reading": "シャッコウ",
+                    "meanings": [
+                        "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+                    ]
+                }
+            ]
+        }
+    }
+}

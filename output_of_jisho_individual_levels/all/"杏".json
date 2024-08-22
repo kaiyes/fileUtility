@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"杏\"",
+        "strokes": 7,
+        "main_meanings": [
+            "apricot"
+        ],
+        "main_readings": {
+            "kun": [
+                "あんず"
+            ],
+            "on": [
+                "キョウ",
+                "アン",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2185": "Classic Nelson (Andrew Nelson)",
+                "487": "Japanese Names (P.G. O’Neill)",
+                "2102": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3049": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1554": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2125": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "207": "Les Kanjis dans la tete (Yves Maniette)",
+                "14461": "Morohashi",
+                "2397": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2554": "New Nelson (John Haig)",
+                "203": "Remembering The Kanji (James Heisig)",
+                "215": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a3.13": "The Kanji Dictionary",
+                "2-4-3": "SKIP code",
+                "4060.9": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-41": "JIS X 0208-1997 kuten code",
+                "674f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "りょう"
+                ],
+                "chinese": [
+                    "xing4"
+                ],
+                "korean": [
+                    "haeng"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "口",
+                "木"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "杏",
+                    "reading": "あんず",
+                    "meanings": [
+                        "apricot (Prunus armeniaca)"
+                    ]
+                },
+                {
+                    "kanji": "杏酒",
+                    "reading": "あんずしゅ",
+                    "meanings": [
+                        "sake made from apricot"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "杏林",
+                    "reading": "キョウリン",
+                    "meanings": [
+                        "apricot grove"
+                    ]
+                },
+                {
+                    "kanji": "杏花",
+                    "reading": "キョウカ",
+                    "meanings": [
+                        "apricot flower"
+                    ]
+                },
+                {
+                    "kanji": "巴旦杏",
+                    "reading": "ハタンキョウ",
+                    "meanings": [
+                        "plum",
+                        "almond"
+                    ]
+                },
+                {
+                    "kanji": "牡丹杏",
+                    "reading": "ボタンキョウ",
+                    "meanings": [
+                        "variety of Japanese plum"
+                    ]
+                },
+                {
+                    "kanji": "杏",
+                    "reading": "アンズ",
+                    "meanings": [
+                        "apricot (Prunus armeniaca)"
+                    ]
+                },
+                {
+                    "kanji": "杏酒",
+                    "reading": "アンズシュ",
+                    "meanings": [
+                        "sake made from apricot"
+                    ]
+                }
+            ]
+        }
+    }
+}

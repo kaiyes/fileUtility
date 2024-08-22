@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"尋\"",
+        "strokes": 12,
+        "main_meanings": [
+            "inquire",
+            "fathom",
+            "look for"
+        ],
+        "main_readings": {
+            "kun": [
+                "たず.ねる",
+                "ひろ"
+            ],
+            "on": [
+                "ジン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1451": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1831": "A New Dictionary of Kanji Usage",
+                "1585": "Classic Nelson (Andrew Nelson)",
+                "1569": "Essential Kanji (P.G. O’Neill)",
+                "1224": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1705": "Japanese Names (P.G. O’Neill)",
+                "1082": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1132": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1326": "Kanji in Context (Nishiguchi and Kono)",
+                "508": "Kodansha Compact Kanji Guide",
+                "2918": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1498": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2027": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1154": "Les Kanjis dans la tete (Yves Maniette)",
+                "7447X": "Morohashi",
+                "2322": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1385": "New Nelson (John Haig)",
+                "1145": "Remembering The Kanji (James Heisig)",
+                "1228": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1523": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3548": "2001 Kanji",
+                "3d9.29": "The Kanji Dictionary",
+                "2-3-9": "SKIP code",
+                "1734.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-50": "JIS X 0208-1997 kuten code",
+                "5c0b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ず、 つぐ"
+                ],
+                "chinese": [
+                    "xun2",
+                    "xin2"
+                ],
+                "korean": [
+                    "sim"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "thumb,",
+            "parts": [
+                "口",
+                "寸",
+                "工",
+                "ヨ"
+            ],
+            "basis": "寸",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "尋ねる",
+                    "reading": "たずねる",
+                    "meanings": [
+                        "to ask",
+                        "to enquire",
+                        "to inquire",
+                        "to search",
+                        "to look for",
+                        "to look into",
+                        "to investigate"
+                    ]
+                },
+                {
+                    "kanji": "尋",
+                    "reading": "ひろ",
+                    "meanings": [
+                        "fathom"
+                    ]
+                },
+                {
+                    "kanji": "八尋",
+                    "reading": "やひろ",
+                    "meanings": [
+                        "great length",
+                        "great size"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "尋",
+                    "reading": "ヒロ",
+                    "meanings": [
+                        "fathom"
+                    ]
+                },
+                {
+                    "kanji": "尋問",
+                    "reading": "ジンモン",
+                    "meanings": [
+                        "questioning",
+                        "interrogation",
+                        "examination (of a witness)"
+                    ]
+                },
+                {
+                    "kanji": "討尋",
+                    "reading": "トウジン",
+                    "meanings": [
+                        "minute investigation",
+                        "thorough inquiry",
+                        "thorough enquiry"
+                    ]
+                },
+                {
+                    "kanji": "審尋",
+                    "reading": "シンジン",
+                    "meanings": [
+                        "hearing",
+                        "interrogation"
+                    ]
+                }
+            ]
+        }
+    }
+}

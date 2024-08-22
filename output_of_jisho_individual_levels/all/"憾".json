@@ -1,0 +1,108 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"憾\"",
+        "strokes": 16,
+        "main_meanings": [
+            "remorse",
+            "regret",
+            "be sorry"
+        ],
+        "main_readings": {
+            "kun": [
+                "うら.む"
+            ],
+            "on": [
+                "カン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1113": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1800": "A New Dictionary of Kanji Usage",
+                "1778": "Classic Nelson (Andrew Nelson)",
+                "1694": "Essential Kanji (P.G. O’Neill)",
+                "1324": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1815": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1961": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1464": "Kanji in Context (Nishiguchi and Kono)",
+                "833": "Kodansha Compact Kanji Guide",
+                "943": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "529": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "690": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "638": "Les Kanjis dans la tete (Yves Maniette)",
+                "11312": "Morohashi",
+                "764": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1999": "New Nelson (John Haig)",
+                "631": "Remembering The Kanji (James Heisig)",
+                "678": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1832": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1158": "2001 Kanji",
+                "4k13.3": "The Kanji Dictionary",
+                "1-3-13": "SKIP code",
+                "1-1-15": "SKIP code",
+                "9303.5": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-24": "JIS X 0208-1997 kuten code",
+                "61be": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "han4"
+                ],
+                "korean": [
+                    "gam"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "ノ",
+                "口",
+                "忙",
+                "心",
+                "戈"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "憾む",
+                    "reading": "うらむ",
+                    "meanings": [
+                        "to regret"
+                    ]
+                },
+                {
+                    "kanji": "恨むらくは",
+                    "reading": "うらむらくは",
+                    "meanings": [
+                        "I regret that",
+                        "I feel terrible but",
+                        "I'm sorry but"
+                    ]
+                }
+            ]
+        }
+    }
+}

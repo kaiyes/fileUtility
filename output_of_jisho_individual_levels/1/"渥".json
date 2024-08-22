@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"渥\"",
+        "strokes": 12,
+        "main_meanings": [
+            "kindness",
+            "moisten"
+        ],
+        "main_readings": {
+            "kun": [
+                "あつ.い",
+                "うるお.う"
+            ],
+            "on": [
+                "アク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2613": "Classic Nelson (Andrew Nelson)",
+                "1856": "Japanese Names (P.G. O’Neill)",
+                "2143": "Kanji and Kana (Spahn and Hadamitzky)",
+                "731": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "435": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "546": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "17770": "Morohashi",
+                "600": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3224": "New Nelson (John Haig)",
+                "2320": "Remembering The Kanji (James Heisig)",
+                "2411": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3a9.33": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "3711.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-16-15": "JIS X 0208-1997 kuten code",
+                "6e25": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あつし"
+                ],
+                "chinese": [
+                    "wo4"
+                ],
+                "korean": [
+                    "ag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "厶",
+                "土",
+                "尸",
+                "汁",
+                "至"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "渥然",
+                    "reading": "アクゼン",
+                    "meanings": [
+                        "glossy"
+                    ]
+                },
+                {
+                    "kanji": "渥地",
+                    "reading": "アクチ",
+                    "meanings": [
+                        "marshland"
+                    ]
+                },
+                {
+                    "kanji": "優渥",
+                    "reading": "ユウアク",
+                    "meanings": [
+                        "gracious"
+                    ]
+                }
+            ]
+        }
+    }
+}

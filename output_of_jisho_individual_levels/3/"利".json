@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"利\"",
+        "strokes": 7,
+        "main_meanings": [
+            "profit",
+            "advantage",
+            "benefit"
+        ],
+        "main_readings": {
+            "kun": [
+                "き.く"
+            ],
+            "on": [
+                "リ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "528": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "626": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "596": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "219": "A New Dictionary of Kanji Usage",
+                "3264": "Classic Nelson (Andrew Nelson)",
+                "200": "Essential Kanji (P.G. O’Neill)",
+                "355": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "436": "Japanese Names (P.G. O’Neill)",
+                "2.19": "Japanese for Busy People",
+                "329": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "248": "Kanji in Context (Nishiguchi and Kono)",
+                "189": "Kodansha Compact Kanji Guide",
+                "1431": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "757": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1029": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "915": "Les Kanjis dans la tete (Yves Maniette)",
+                "1932": "Morohashi",
+                "1114": "New Japanese English Character Dictionary (Jack Halpern)",
+                "466": "New Nelson (John Haig)",
+                "906": "Remembering The Kanji (James Heisig)",
+                "972": "Remembering The Kanji, 6th edition (James Heisig)",
+                "180": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "491": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2243": "2001 Kanji",
+                "5d2.1": "The Kanji Dictionary",
+                "1-5-2": "SKIP code",
+                "2290.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-88": "JIS X 0208-1997 kuten code",
+                "5229": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "かが、 と、 とし、 のり、 み、 りい"
+                ],
+                "chinese": [
+                    "li4"
+                ],
+                "korean": [
+                    "ri"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "刂"
+            ],
+            "meaning": "knife,",
+            "parts": [
+                "刈",
+                "禾"
+            ],
+            "basis": "刀",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "効く",
+                    "reading": "きく",
+                    "meanings": [
+                        "to be effective",
+                        "to take effect",
+                        "to be good (for)",
+                        "to work",
+                        "to function well",
+                        "to be possible (to do",
+                        "use",
+                        "etc.)",
+                        "to be able to",
+                        "to taste (alcohol)",
+                        "to try"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "利",
+                    "reading": "リ",
+                    "meanings": [
+                        "advantage",
+                        "benefit",
+                        "profit",
+                        "interest"
+                    ]
+                },
+                {
+                    "kanji": "利上げ",
+                    "reading": "リアゲ",
+                    "meanings": [
+                        "increase in interest rates"
+                    ]
+                },
+                {
+                    "kanji": "低利",
+                    "reading": "テイリ",
+                    "meanings": [
+                        "low interest rate"
+                    ]
+                },
+                {
+                    "kanji": "水利",
+                    "reading": "スイリ",
+                    "meanings": [
+                        "utilization of water",
+                        "water supply",
+                        "irrigation",
+                        "water transportation",
+                        "navigability (e.g. of a river)"
+                    ]
+                }
+            ]
+        }
+    }
+}

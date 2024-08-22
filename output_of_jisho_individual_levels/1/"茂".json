@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"茂\"",
+        "strokes": 8,
+        "main_meanings": [
+            "overgrown",
+            "grow thick",
+            "be luxuriant"
+        ],
+        "main_readings": {
+            "kun": [
+                "しげ.る"
+            ],
+            "on": [
+                "モ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1850": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1166": "A New Dictionary of Kanji Usage",
+                "3915": "Classic Nelson (Andrew Nelson)",
+                "1799": "Essential Kanji (P.G. O’Neill)",
+                "1699": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "691": "Japanese Names (P.G. O’Neill)",
+                "1467": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1563": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1840": "Kanji in Context (Nishiguchi and Kono)",
+                "650": "Kodansha Compact Kanji Guide",
+                "2791": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1435": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1934": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "366": "Les Kanjis dans la tete (Yves Maniette)",
+                "30833P": "Morohashi",
+                "2245": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4998": "New Nelson (John Haig)",
+                "360": "Remembering The Kanji (James Heisig)",
+                "384": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1216": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1959": "2001 Kanji",
+                "3k5.7": "The Kanji Dictionary",
+                "2-3-5": "SKIP code",
+                "4425.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-44-48": "JIS X 0208-1997 kuten code",
+                "8302": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "うむさ、 き、 し、 つとむ、 む、 もて"
+                ],
+                "chinese": [
+                    "mao4"
+                ],
+                "korean": [
+                    "mu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "ノ",
+                "艾",
+                "戈"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "茂る",
+                    "reading": "しげる",
+                    "meanings": [
+                        "to grow thickly",
+                        "to be in full leaf",
+                        "to be rampant",
+                        "to luxuriate",
+                        "to be luxurious"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "茂林",
+                    "reading": "モリン",
+                    "meanings": [
+                        "luxuriant (dense) forest"
+                    ]
+                },
+                {
+                    "kanji": "繁茂",
+                    "reading": "ハンモ",
+                    "meanings": [
+                        "flourishing (of plants)",
+                        "thriving",
+                        "luxuriant growth",
+                        "growing lushly",
+                        "rankness (of weeds)"
+                    ]
+                }
+            ]
+        }
+    }
+}

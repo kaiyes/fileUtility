@@ -1,0 +1,226 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"青\"",
+        "strokes": 8,
+        "main_meanings": [
+            "blue",
+            "green"
+        ],
+        "main_readings": {
+            "kun": [
+                "あお",
+                "あお-",
+                "あお.い"
+            ],
+            "on": [
+                "セイ",
+                "ショウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "36": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "52": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "43": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "390": "A New Dictionary of Kanji Usage",
+                "5076": "Classic Nelson (Andrew Nelson)",
+                "331": "Essential Kanji (P.G. O’Neill)",
+                "273": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "700": "Japanese Names (P.G. O’Neill)",
+                "2.2": "Japanese for Busy People",
+                "208": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "47": "Kanji in Context (Nishiguchi and Kono)",
+                "1871": "Kodansha Compact Kanji Guide",
+                "3084": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1573": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2152": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1548": "Les Kanjis dans la tete (Yves Maniette)",
+                "42564P": "Morohashi",
+                "2430": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6557": "New Nelson (John Haig)",
+                "1534": "Remembering The Kanji (James Heisig)",
+                "1654": "Remembering The Kanji, 6th edition (James Heisig)",
+                "393": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "74": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1446": "2001 Kanji",
+                "4b4.10": "The Kanji Dictionary",
+                "2-4-4": "SKIP code",
+                "5022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-36": "JIS X 0208-1997 kuten code",
+                "9752": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "お"
+                ],
+                "chinese": [
+                    "qing1"
+                ],
+                "korean": [
+                    "cheong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "靑"
+            ],
+            "meaning": "blue",
+            "parts": [
+                "二",
+                "亠",
+                "土",
+                "月",
+                "青"
+            ],
+            "basis": "青",
+            "kangxi_order": 174,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "青",
+                    "reading": "あお",
+                    "meanings": [
+                        "blue",
+                        "azure",
+                        "green",
+                        "green light (traffic)",
+                        "black (horse coat color)",
+                        "blue 5-point card",
+                        "immature",
+                        "unripe",
+                        "young"
+                    ]
+                },
+                {
+                    "kanji": "青梅",
+                    "reading": "あおうめ",
+                    "meanings": [
+                        "unripe plum"
+                    ]
+                },
+                {
+                    "kanji": "プロシア青",
+                    "reading": "プロシアあお",
+                    "meanings": [
+                        "Prussian blue"
+                    ]
+                },
+                {
+                    "kanji": "深青",
+                    "reading": "ふかあお",
+                    "meanings": [
+                        "dark blue",
+                        "deep blue",
+                        "navy blue"
+                    ]
+                },
+                {
+                    "kanji": "青い",
+                    "reading": "あおい",
+                    "meanings": [
+                        "blue",
+                        "azure",
+                        "green",
+                        "pale (facial color)",
+                        "gray",
+                        "grey",
+                        "unripe",
+                        "inexperienced"
+                    ]
+                },
+                {
+                    "kanji": "青色",
+                    "reading": "あおいろ",
+                    "meanings": [
+                        "blue"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "青果",
+                    "reading": "セイカ",
+                    "meanings": [
+                        "fruits and vegetables",
+                        "produce"
+                    ]
+                },
+                {
+                    "kanji": "青雲",
+                    "reading": "セイウン",
+                    "meanings": [
+                        "blue sky",
+                        "erudition",
+                        "detachment from the world",
+                        "high rank"
+                    ]
+                },
+                {
+                    "kanji": "回青",
+                    "reading": "カイセイ",
+                    "meanings": [
+                        "Mohammedan blue (pigment used in porcelain painting)"
+                    ]
+                },
+                {
+                    "kanji": "黛青",
+                    "reading": "タイセイ",
+                    "meanings": [
+                        "blackish blue"
+                    ]
+                },
+                {
+                    "kanji": "青面金剛",
+                    "reading": "ショウメンコンゴウ",
+                    "meanings": [
+                        "Shōmen Kongō",
+                        "Blue-Faced Vajra",
+                        "blue-skinned deity depicted with two",
+                        "four or six arms; originally associated with esoteric Buddhism",
+                        "thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"
+                    ]
+                },
+                {
+                    "kanji": "青龍",
+                    "reading": "セイリョウ",
+                    "meanings": [
+                        "blue dragon (an auspicious creature in Chinese mythology)",
+                        "Azure Dragon (god said to rule over the eastern heavens)"
+                    ]
+                },
+                {
+                    "kanji": "緑青",
+                    "reading": "ロクショウ",
+                    "meanings": [
+                        "verdigris",
+                        "green rust",
+                        "copper rust"
+                    ]
+                },
+                {
+                    "kanji": "花緑青",
+                    "reading": "ハナロクショウ",
+                    "meanings": [
+                        "Paris green",
+                        "emerald green"
+                    ]
+                }
+            ]
+        }
+    }
+}

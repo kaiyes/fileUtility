@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"粘\"",
+        "strokes": 11,
+        "main_meanings": [
+            "sticky",
+            "glutinous",
+            "greasy",
+            "persevere"
+        ],
+        "main_readings": {
+            "kun": [
+                "ねば.る"
+            ],
+            "on": [
+                "ネン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1679": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1859": "A New Dictionary of Kanji Usage",
+                "3472": "Classic Nelson (Andrew Nelson)",
+                "1644": "Essential Kanji (P.G. O’Neill)",
+                "1612": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1707": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1824": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1559": "Kanji in Context (Nishiguchi and Kono)",
+                "1497": "Kodansha Compact Kanji Guide",
+                "1681": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "893": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1212": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "930": "Les Kanjis dans la tete (Yves Maniette)",
+                "26901": "Morohashi",
+                "1327": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4393": "New Nelson (John Haig)",
+                "921": "Remembering The Kanji (James Heisig)",
+                "989": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1470": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1077": "2001 Kanji",
+                "6b5.4": "The Kanji Dictionary",
+                "1-6-5": "SKIP code",
+                "9196.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-39-20": "JIS X 0208-1997 kuten code",
+                "7c98": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "nian2",
+                    "zhan1"
+                ],
+                "korean": [
+                    "jeom"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "rice",
+            "parts": [
+                "卜",
+                "口",
+                "米"
+            ],
+            "basis": "米",
+            "kangxi_order": 119,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "粘る",
+                    "reading": "ねばる",
+                    "meanings": [
+                        "to be sticky",
+                        "to be adhesive",
+                        "to persevere",
+                        "to persist",
+                        "to stick to",
+                        "to hold out",
+                        "to linger"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "粘膜",
+                    "reading": "ネンマク",
+                    "meanings": [
+                        "mucous membrane"
+                    ]
+                },
+                {
+                    "kanji": "粘土",
+                    "reading": "ネンド",
+                    "meanings": [
+                        "clay"
+                    ]
+                }
+            ]
+        }
+    }
+}

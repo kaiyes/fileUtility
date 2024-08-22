@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"兵\"",
+        "strokes": 7,
+        "main_meanings": [
+            "soldier",
+            "private",
+            "troops",
+            "army",
+            "warfare",
+            "strategy",
+            "tactics"
+        ],
+        "main_readings": {
+            "kun": [
+                "つわもの"
+            ],
+            "on": [
+                "ヘイ",
+                "ヒョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "712": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "606": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "578": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "447": "A New Dictionary of Kanji Usage",
+                "201": "Classic Nelson (Andrew Nelson)",
+                "396": "Essential Kanji (P.G. O’Neill)",
+                "343": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "499": "Japanese Names (P.G. O’Neill)",
+                "784": "Kanji and Kana (Spahn and Hadamitzky)",
+                "798": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "994": "Kanji in Context (Nishiguchi and Kono)",
+                "155": "Kodansha Compact Kanji Guide",
+                "3158": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1621": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2207": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1343": "Les Kanjis dans la tete (Yves Maniette)",
+                "1462": "Morohashi",
+                "2551": "New Japanese English Character Dictionary (Jack Halpern)",
+                "374": "New Nelson (John Haig)",
+                "1331": "Remembering The Kanji (James Heisig)",
+                "1429": "Remembering The Kanji, 6th edition (James Heisig)",
+                "243": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "489": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2661": "2001 Kanji",
+                "2o5.6": "The Kanji Dictionary",
+                "2-5-2": "SKIP code",
+                "7280.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-28": "JIS X 0208-1997 kuten code",
+                "5175": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "へ"
+                ],
+                "chinese": [
+                    "bing1"
+                ],
+                "korean": [
+                    "byeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eight",
+            "parts": [
+                "一",
+                "ハ",
+                "斤"
+            ],
+            "basis": "八",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "兵",
+                    "reading": "つわもの",
+                    "meanings": [
+                        "soldier",
+                        "warrior",
+                        "person of courage",
+                        "strong person",
+                        "very capable person",
+                        "master (in a field)"
+                    ]
+                },
+                {
+                    "kanji": "古強者",
+                    "reading": "ふるつわもの",
+                    "meanings": [
+                        "feudal warrior",
+                        "samurai",
+                        "old soldier",
+                        "veteran",
+                        "old hand"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "兵",
+                    "reading": "ヘイ",
+                    "meanings": [
+                        "(common) soldier",
+                        "rank and file",
+                        "army",
+                        "troops",
+                        "warfare",
+                        "strategy"
+                    ]
+                },
+                {
+                    "kanji": "兵員",
+                    "reading": "ヘイイン",
+                    "meanings": [
+                        "military strength",
+                        "military personnel"
+                    ]
+                },
+                {
+                    "kanji": "伏兵",
+                    "reading": "フクヘイ",
+                    "meanings": [
+                        "ambush",
+                        "troops in ambush",
+                        "unexpected opposition",
+                        "unexpected obstacle"
+                    ]
+                },
+                {
+                    "kanji": "工兵",
+                    "reading": "コウヘイ",
+                    "meanings": [
+                        "combat engineer",
+                        "military engineer",
+                        "combat engineering",
+                        "military engineering"
+                    ]
+                },
+                {
+                    "kanji": "兵",
+                    "reading": "ヒョウ",
+                    "meanings": [
+                        "pawn"
+                    ]
+                },
+                {
+                    "kanji": "兵法",
+                    "reading": "ヘイホウ",
+                    "meanings": [
+                        "art of war",
+                        "strategy",
+                        "tactics"
+                    ]
+                },
+                {
+                    "kanji": "小兵",
+                    "reading": "コヒョウ",
+                    "meanings": [
+                        "small build",
+                        "small stature"
+                    ]
+                },
+                {
+                    "kanji": "大兵",
+                    "reading": "ダイヒョウ",
+                    "meanings": [
+                        "great stature",
+                        "large build"
+                    ]
+                }
+            ]
+        }
+    }
+}

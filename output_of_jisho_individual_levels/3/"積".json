@@ -1,0 +1,202 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"積\"",
+        "strokes": 16,
+        "main_meanings": [
+            "volume",
+            "product (x*y)",
+            "acreage",
+            "contents",
+            "pile up",
+            "stack",
+            "load",
+            "amass"
+        ],
+        "main_readings": {
+            "kun": [
+                "つ.む",
+                "-づ.み",
+                "つ.もる",
+                "つ.もり"
+            ],
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "445": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "550": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "521": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "506": "A New Dictionary of Kanji Usage",
+                "3306": "Classic Nelson (Andrew Nelson)",
+                "766": "Essential Kanji (P.G. O’Neill)",
+                "784": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2493": "Japanese Names (P.G. O’Neill)",
+                "656": "Kanji and Kana (Spahn and Hadamitzky)",
+                "667": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "886": "Kanji in Context (Nishiguchi and Kono)",
+                "1448": "Kodansha Compact Kanji Guide",
+                "1579": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "835": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1142": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1557": "Les Kanjis dans la tete (Yves Maniette)",
+                "25266": "Morohashi",
+                "1236": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4176": "New Nelson (John Haig)",
+                "1543": "Remembering The Kanji (James Heisig)",
+                "1663": "Remembering The Kanji, 6th edition (James Heisig)",
+                "632": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2261": "2001 Kanji",
+                "5d11.5": "The Kanji Dictionary",
+                "1-5-11": "SKIP code",
+                "2598.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-49": "JIS X 0208-1997 kuten code",
+                "7a4d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 さか、 しゃこ、 ずみ、 つみ"
+                ],
+                "chinese": [
+                    "ji1"
+                ],
+                "korean": [
+                    "jeog",
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "grain",
+            "parts": [
+                "二",
+                "亠",
+                "ハ",
+                "土",
+                "目",
+                "禾",
+                "貝"
+            ],
+            "basis": "禾",
+            "kangxi_order": 115,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "積む",
+                    "reading": "つむ",
+                    "meanings": [
+                        "to pile up",
+                        "to stack",
+                        "to load (car",
+                        "ship",
+                        "etc.)",
+                        "to pack",
+                        "to acquire",
+                        "to accumulate"
+                    ]
+                },
+                {
+                    "kanji": "積もる",
+                    "reading": "つもる",
+                    "meanings": [
+                        "to pile up",
+                        "to accumulate",
+                        "to estimate"
+                    ]
+                },
+                {
+                    "kanji": "積もり",
+                    "reading": "つもり",
+                    "meanings": [
+                        "intention",
+                        "plan",
+                        "purpose",
+                        "expectation",
+                        "belief",
+                        "assumption",
+                        "thought",
+                        "conviction",
+                        "estimate",
+                        "estimation",
+                        "calculation"
+                    ]
+                },
+                {
+                    "kanji": "積り書",
+                    "reading": "つもりがき",
+                    "meanings": [
+                        "written estimate"
+                    ]
+                },
+                {
+                    "kanji": "お見積もり",
+                    "reading": "おみつもり",
+                    "meanings": [
+                        "(price) quotation",
+                        "quote"
+                    ]
+                },
+                {
+                    "kanji": "相見積もり",
+                    "reading": "あいみつもり",
+                    "meanings": [
+                        "(obtaining) quotes from several companies",
+                        "(fielding) competitive bids",
+                        "competitive bidding"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "積",
+                    "reading": "セキ",
+                    "meanings": [
+                        "product",
+                        "volume",
+                        "area"
+                    ]
+                },
+                {
+                    "kanji": "積載",
+                    "reading": "セキサイ",
+                    "meanings": [
+                        "loading",
+                        "carrying"
+                    ]
+                },
+                {
+                    "kanji": "作付面積",
+                    "reading": "サクヅケメンセキ",
+                    "meanings": [
+                        "planted area"
+                    ]
+                },
+                {
+                    "kanji": "蓄積",
+                    "reading": "チクセキ",
+                    "meanings": [
+                        "accumulation",
+                        "accumulate",
+                        "store"
+                    ]
+                }
+            ]
+        }
+    }
+}

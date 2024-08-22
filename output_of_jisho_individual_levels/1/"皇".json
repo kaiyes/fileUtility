@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"皇\"",
+        "strokes": 9,
+        "main_meanings": [
+            "emperor"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コウ",
+                "オウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "783": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "871": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "861": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "964": "Japanese Names (P.G. O’Neill)",
+                "3100": "Classic Nelson (Andrew Nelson)",
+                "460": "Essential Kanji (P.G. O’Neill)",
+                "1551": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "297": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "579": "Kanji in Context (Nishiguchi and Kono)",
+                "1366": "Kodansha Compact Kanji Guide",
+                "3175": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1635": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2223": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "267": "Les Kanjis dans la tete (Yves Maniette)",
+                "22701": "Morohashi",
+                "2566": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3870": "New Nelson (John Haig)",
+                "261": "Remembering The Kanji (James Heisig)",
+                "279": "Remembering The Kanji, 6th edition (James Heisig)",
+                "880": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "872": "2001 Kanji",
+                "4f5.9": "The Kanji Dictionary",
+                "2-5-4": "SKIP code",
+                "2610.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-36": "JIS X 0208-1997 kuten code",
+                "7687": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おうじ、 おお、 み"
+                ],
+                "chinese": [
+                    "huang2"
+                ],
+                "korean": [
+                    "hwang",
+                    "wang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "white",
+            "parts": [
+                "王",
+                "白"
+            ],
+            "basis": "白",
+            "kangxi_order": 106,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "皇后",
+                    "reading": "コウゴウ",
+                    "meanings": [
+                        "(Japanese) empress",
+                        "queen"
+                    ]
+                },
+                {
+                    "kanji": "皇居",
+                    "reading": "コウキョ",
+                    "meanings": [
+                        "Imperial Palace (of Japan)",
+                        "imperial residence"
+                    ]
+                },
+                {
+                    "kanji": "倉皇",
+                    "reading": "ソウコウ",
+                    "meanings": [
+                        "hurriedly",
+                        "in a hurry",
+                        "in great haste"
+                    ]
+                },
+                {
+                    "kanji": "教皇",
+                    "reading": "キョウコウ",
+                    "meanings": [
+                        "Pope"
+                    ]
+                },
+                {
+                    "kanji": "皇帝",
+                    "reading": "コウテイ",
+                    "meanings": [
+                        "emperor"
+                    ]
+                },
+                {
+                    "kanji": "皇子",
+                    "reading": "オウジ",
+                    "meanings": [
+                        "imperial prince"
+                    ]
+                },
+                {
+                    "kanji": "法皇",
+                    "reading": "ホウオウ",
+                    "meanings": [
+                        "cloistered emperor",
+                        "ex-emperor who has become a monk"
+                    ]
+                },
+                {
+                    "kanji": "太上法皇",
+                    "reading": "ダイジョウホウオウ",
+                    "meanings": [
+                        "cloistered emperor",
+                        "ex-emperor who has become a monk"
+                    ]
+                }
+            ]
+        }
+    }
+}

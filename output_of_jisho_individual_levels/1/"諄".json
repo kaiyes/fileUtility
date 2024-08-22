@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"諄\"",
+        "strokes": 15,
+        "main_meanings": [
+            "tedious"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひちくど.い",
+                "くど.い",
+                "くどくど",
+                "ねんご.ろ"
+            ],
+            "on": [
+                "シュン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4380": "Classic Nelson (Andrew Nelson)",
+                "2324": "Japanese Names (P.G. O’Neill)",
+                "2242": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1979": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1056": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1422": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "35622": "Morohashi",
+                "5635": "New Nelson (John Haig)",
+                "2706": "Remembering The Kanji (James Heisig)",
+                "2743": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "7a7.11": "The Kanji Dictionary",
+                "1-7-8": "SKIP code",
+                "0064.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-75-57": "JIS X 0208-1997 kuten code",
+                "8ac4": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhun1"
+                ],
+                "korean": [
+                    "sun"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "亠",
+                "口",
+                "子",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "諄い",
+                    "reading": "くどい",
+                    "meanings": [
+                        "repetitious",
+                        "long-winded",
+                        "tedious",
+                        "wordy",
+                        "verbose",
+                        "insistent",
+                        "importunate",
+                        "heavy (taste)",
+                        "(overly) rich",
+                        "strong",
+                        "cloying",
+                        "gaudy (colour",
+                        "design",
+                        "etc.)",
+                        "loud"
+                    ]
+                },
+                {
+                    "kanji": "諄諄しい",
+                    "reading": "くどくどしい",
+                    "meanings": [
+                        "wordy",
+                        "verbose",
+                        "prolix"
+                    ]
+                }
+            ]
+        }
+    }
+}

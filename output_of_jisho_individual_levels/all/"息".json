@@ -1,0 +1,181 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"息\"",
+        "strokes": 10,
+        "main_meanings": [
+            "breath",
+            "respiration",
+            "son",
+            "interest (on money)",
+            "nuture",
+            "rest",
+            "coming to an end"
+        ],
+        "main_readings": {
+            "kun": [
+                "いき"
+            ],
+            "on": [
+                "ソク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "454": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "351": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "332": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "872": "A New Dictionary of Kanji Usage",
+                "3844": "Classic Nelson (Andrew Nelson)",
+                "628": "Essential Kanji (P.G. O’Neill)",
+                "539": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1224": "Japanese Names (P.G. O’Neill)",
+                "1242": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1308": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1118": "Kanji in Context (Nishiguchi and Kono)",
+                "782": "Kodansha Compact Kanji Guide",
+                "3278": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1693": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2301": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "617": "Les Kanjis dans la tete (Yves Maniette)",
+                "10601": "Morohashi",
+                "2647": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1850": "New Nelson (John Haig)",
+                "610": "Remembering The Kanji (James Heisig)",
+                "657": "Remembering The Kanji, 6th edition (James Heisig)",
+                "359": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "858": "2001 Kanji",
+                "4k6.17": "The Kanji Dictionary",
+                "2-6-4": "SKIP code",
+                "2633.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-09": "JIS X 0208-1997 kuten code",
+                "606f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xi1",
+                    "xi2"
+                ],
+                "korean": [
+                    "sig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "心",
+                "目",
+                "自"
+            ],
+            "basis": "心",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "息",
+                    "reading": "いき",
+                    "meanings": [
+                        "breath",
+                        "breathing",
+                        "concord",
+                        "harmony",
+                        "rapport",
+                        "steam (coming off hot food",
+                        "tea",
+                        "etc.)",
+                        "(water) vapor",
+                        "vapour"
+                    ]
+                },
+                {
+                    "kanji": "息切れ",
+                    "reading": "いきぎれ",
+                    "meanings": [
+                        "shortness of breath",
+                        "panting",
+                        "puffing",
+                        "running out of steam (of the economy",
+                        "a project",
+                        "etc.)",
+                        "losing momentum",
+                        "loss of efficiency"
+                    ]
+                },
+                {
+                    "kanji": "鼻息",
+                    "reading": "はないき",
+                    "meanings": [
+                        "nasal breathing",
+                        "breathing through one's nose",
+                        "person's pleasure",
+                        "excitement"
+                    ]
+                },
+                {
+                    "kanji": "寝息",
+                    "reading": "ねいき",
+                    "meanings": [
+                        "breathing of a sleeping person"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "息",
+                    "reading": "ソク",
+                    "meanings": [
+                        "son",
+                        "interest (on a loan",
+                        "deposit",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "息子",
+                    "reading": "ムスコ",
+                    "meanings": [
+                        "son",
+                        "penis"
+                    ]
+                },
+                {
+                    "kanji": "鼻息",
+                    "reading": "ハナイキ",
+                    "meanings": [
+                        "nasal breathing",
+                        "breathing through one's nose",
+                        "person's pleasure",
+                        "excitement"
+                    ]
+                },
+                {
+                    "kanji": "終息",
+                    "reading": "シュウソク",
+                    "meanings": [
+                        "cessation",
+                        "(coming to an) end"
+                    ]
+                }
+            ]
+        }
+    }
+}

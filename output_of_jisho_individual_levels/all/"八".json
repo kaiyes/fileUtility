@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"八\"",
+        "strokes": 2,
+        "main_meanings": [
+            "eight",
+            "eight radical (no. 12)"
+        ],
+        "main_readings": {
+            "kun": [
+                "や",
+                "や.つ",
+                "やっ.つ",
+                "よう"
+            ],
+            "on": [
+                "ハチ",
+                "ハツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "8": "Remembering The Kanji, 6th edition (James Heisig)",
+                "66": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "41": "A New Dictionary of Kanji Usage",
+                "577": "Classic Nelson (Andrew Nelson)",
+                "10": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "18": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "19": "Japanese Names (P.G. O’Neill)",
+                "1.A": "Japanese for Busy People",
+                "151": "Kodansha Compact Kanji Guide",
+                "3644": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1859": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2536": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1450": "Morohashi",
+                "3": "New Japanese English Character Dictionary (Jack Halpern)",
+                "369": "New Nelson (John Haig)",
+                "116": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "4": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2062": "2001 Kanji",
+                "2o0.1": "The Kanji Dictionary",
+                "1-1-1": "SKIP code",
+                "8000.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-12": "JIS X 0208-1997 kuten code",
+                "516b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "な、 は、 はっ、 やち、 やつ"
+                ],
+                "chinese": [
+                    "ba1",
+                    "ba2"
+                ],
+                "korean": [
+                    "pal"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eight",
+            "parts": [
+                "ハ"
+            ],
+            "basis": "八",
+            "kangxi_order": 12,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "八",
+                    "reading": "はち",
+                    "meanings": [
+                        "eight",
+                        "8"
+                    ]
+                },
+                {
+                    "kanji": "八重",
+                    "reading": "やえ",
+                    "meanings": [
+                        "multilayered",
+                        "doubled"
+                    ]
+                },
+                {
+                    "kanji": "八つ",
+                    "reading": "やっつ",
+                    "meanings": [
+                        "eight",
+                        "eight years of age",
+                        "two o'clock (old time system)"
+                    ]
+                },
+                {
+                    "kanji": "八つ当たり",
+                    "reading": "やつあたり",
+                    "meanings": [
+                        "venting one's anger (on someone or something)",
+                        "taking out one's anger on"
+                    ]
+                },
+                {
+                    "kanji": "八つ",
+                    "reading": "やっつ",
+                    "meanings": [
+                        "eight",
+                        "eight years of age",
+                        "two o'clock (old time system)"
+                    ]
+                },
+                {
+                    "kanji": "８日",
+                    "reading": "ようか",
+                    "meanings": [
+                        "8th day of the month",
+                        "eight days"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "八",
+                    "reading": "ハチ",
+                    "meanings": [
+                        "eight",
+                        "8"
+                    ]
+                },
+                {
+                    "kanji": "８月",
+                    "reading": "ハチガツ",
+                    "meanings": [
+                        "August",
+                        "eighth month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "十八",
+                    "reading": "ジュウハチ",
+                    "meanings": [
+                        "eighteen",
+                        "18"
+                    ]
+                },
+                {
+                    "kanji": "尺八",
+                    "reading": "シャクハチ",
+                    "meanings": [
+                        "shakuhachi",
+                        "end-blown fippleless bamboo flute",
+                        "blow job",
+                        "fellatio"
+                    ]
+                },
+                {
+                    "kanji": "鳶尾",
+                    "reading": "イチハツ",
+                    "meanings": [
+                        "wall iris",
+                        "roof iris",
+                        "Iris tectorum",
+                        "fleur-de-lis"
+                    ]
+                }
+            ]
+        }
+    }
+}

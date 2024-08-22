@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"器\"",
+        "strokes": 15,
+        "main_meanings": [
+            "utensil",
+            "vessel",
+            "receptacle",
+            "implement",
+            "instrument",
+            "ability",
+            "container",
+            "tool",
+            "set"
+        ],
+        "main_readings": {
+            "kun": [
+                "うつわ"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "372": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "475": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "452": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "483": "A New Dictionary of Kanji Usage",
+                "994": "Classic Nelson (Andrew Nelson)",
+                "398": "Essential Kanji (P.G. O’Neill)",
+                "419": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2378": "Japanese Names (P.G. O’Neill)",
+                "527": "Kanji and Kana (Spahn and Hadamitzky)",
+                "536": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "682": "Kanji in Context (Nishiguchi and Kono)",
+                "334": "Kodansha Compact Kanji Guide",
+                "3367": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1742": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2368": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "122": "Les Kanjis dans la tete (Yves Maniette)",
+                "4349P": "Morohashi",
+                "2713": "New Japanese English Character Dictionary (Jack Halpern)",
+                "898": "New Nelson (John Haig)",
+                "121": "Remembering The Kanji (James Heisig)",
+                "127": "Remembering The Kanji, 6th edition (James Heisig)",
+                "624": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3777": "2001 Kanji",
+                "3d12.13": "The Kanji Dictionary",
+                "2-6-9": "SKIP code",
+                "4-15-1": "SKIP code",
+                "6666.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-79": "JIS X 0208-1997 kuten code",
+                "5668": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qi4"
+                ],
+                "korean": [
+                    "gi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "口",
+                "大"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": [
+                "噐"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "器",
+                    "reading": "うつわ",
+                    "meanings": [
+                        "bowl",
+                        "vessel",
+                        "container",
+                        "ability",
+                        "capacity",
+                        "calibre",
+                        "caliber"
+                    ]
+                },
+                {
+                    "kanji": "器物",
+                    "reading": "きぶつ",
+                    "meanings": [
+                        "receptacle",
+                        "container",
+                        "vessel",
+                        "utensil",
+                        "implement",
+                        "furniture",
+                        "personal property",
+                        "calibre",
+                        "talent",
+                        "ability"
+                    ]
+                },
+                {
+                    "kanji": "横綱の器",
+                    "reading": "よこづなのうつわ",
+                    "meanings": [
+                        "mental characteristics expected of a grand champion"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "器",
+                    "reading": "キ",
+                    "meanings": [
+                        "device",
+                        "instrument",
+                        "vessel",
+                        "container",
+                        "ability",
+                        "capacity",
+                        "calibre",
+                        "caliber"
+                    ]
+                },
+                {
+                    "kanji": "機械",
+                    "reading": "キカイ",
+                    "meanings": [
+                        "machine",
+                        "mechanism",
+                        "instrument",
+                        "appliance",
+                        "apparatus"
+                    ]
+                },
+                {
+                    "kanji": "呼吸器",
+                    "reading": "コキュウキ",
+                    "meanings": [
+                        "respiratory organs"
+                    ]
+                },
+                {
+                    "kanji": "化学兵器",
+                    "reading": "カガクヘイキ",
+                    "meanings": [
+                        "chemical weapon"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"悟\"",
+        "strokes": 10,
+        "main_meanings": [
+            "enlightenment",
+            "perceive",
+            "discern",
+            "realize",
+            "understand"
+        ],
+        "main_readings": {
+            "kun": [
+                "さと.る"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1239": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1479": "A New Dictionary of Kanji Usage",
+                "1700": "Classic Nelson (Andrew Nelson)",
+                "1104": "Essential Kanji (P.G. O’Neill)",
+                "1297": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1053": "Japanese Names (P.G. O’Neill)",
+                "1438": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1528": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1454": "Kanji in Context (Nishiguchi and Kono)",
+                "816": "Kodansha Compact Kanji Guide",
+                "502": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "312": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "379": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "629": "Les Kanjis dans la tete (Yves Maniette)",
+                "10680": "Morohashi",
+                "419": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1870": "New Nelson (John Haig)",
+                "622": "Remembering The Kanji (James Heisig)",
+                "669": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1335": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1177": "2001 Kanji",
+                "4k7.5": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "9106.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-71": "JIS X 0208-1997 kuten code",
+                "609f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wu4"
+                ],
+                "korean": [
+                    "o"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "口",
+                "忙",
+                "五"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": [
+                "忢"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "悟る",
+                    "reading": "さとる",
+                    "meanings": [
+                        "to perceive",
+                        "to sense",
+                        "to become aware",
+                        "to notice",
+                        "to detect",
+                        "to discern",
+                        "to understand",
+                        "to comprehend",
+                        "to realize",
+                        "to attain enlightenment"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "悟性",
+                    "reading": "ゴセイ",
+                    "meanings": [
+                        "wisdom",
+                        "understanding"
+                    ]
+                },
+                {
+                    "kanji": "悟達",
+                    "reading": "ゴタツ",
+                    "meanings": [
+                        "attaining enlightenment"
+                    ]
+                },
+                {
+                    "kanji": "大悟",
+                    "reading": "タイゴ",
+                    "meanings": [
+                        "enlightenment",
+                        "great wisdom"
+                    ]
+                },
+                {
+                    "kanji": "穎悟",
+                    "reading": "エイゴ",
+                    "meanings": [
+                        "intelligent",
+                        "shrewd"
+                    ]
+                }
+            ]
+        }
+    }
+}

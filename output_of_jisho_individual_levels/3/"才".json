@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"才\"",
+        "strokes": 3,
+        "main_meanings": [
+            "genius",
+            "years old",
+            "cubic shaku"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "217": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "139": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "126": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "639": "A New Dictionary of Kanji Usage",
+                "270": "Classic Nelson (Andrew Nelson)",
+                "574": "Essential Kanji (P.G. O’Neill)",
+                "553": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "35": "Japanese Names (P.G. O’Neill)",
+                "551": "Kanji and Kana (Spahn and Hadamitzky)",
+                "560": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "739": "Kanji in Context (Nishiguchi and Kono)",
+                "853": "Kodansha Compact Kanji Guide",
+                "4218": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2131": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2880": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "688": "Les Kanjis dans la tete (Yves Maniette)",
+                "11769": "Morohashi",
+                "3410": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2059": "New Nelson (John Haig)",
+                "681": "Remembering The Kanji (James Heisig)",
+                "736": "Remembering The Kanji, 6th edition (James Heisig)",
+                "85": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1447": "2001 Kanji",
+                "0a3.27": "The Kanji Dictionary",
+                "4-3-3": "SKIP code",
+                "5000.0": "Four corner code",
+                "4020.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-45": "JIS X 0208-1997 kuten code",
+                "624d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "cai2"
+                ],
+                "korean": [
+                    "jae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "一",
+                "ノ",
+                "亅"
+            ],
+            "basis": "手",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "才",
+                    "reading": "サイ",
+                    "meanings": [
+                        "ability",
+                        "gift",
+                        "talent",
+                        "aptitude",
+                        "genius",
+                        "sai",
+                        "traditional unit of volume",
+                        "approx. 1.8 ml"
+                    ]
+                },
+                {
+                    "kanji": "歳",
+                    "reading": "サイ",
+                    "meanings": [
+                        "... years old",
+                        "age (of) ..."
+                    ]
+                },
+                {
+                    "kanji": "鬼才",
+                    "reading": "キサイ",
+                    "meanings": [
+                        "wizard",
+                        "genius",
+                        "remarkable talent",
+                        "exceptional ability"
+                    ]
+                },
+                {
+                    "kanji": "英才",
+                    "reading": "エイサイ",
+                    "meanings": [
+                        "genius",
+                        "brilliance",
+                        "unusual talent",
+                        "gifted person",
+                        "person of unusual talent"
+                    ]
+                }
+            ]
+        }
+    }
+}

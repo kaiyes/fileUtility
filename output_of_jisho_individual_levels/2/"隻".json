@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"隻\"",
+        "strokes": 10,
+        "main_meanings": [
+            "vessels",
+            "counter for ships",
+            "fish",
+            "birds",
+            "arrows",
+            "one of a pair"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "セキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1483": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1405": "A New Dictionary of Kanji Usage",
+                "5028": "Classic Nelson (Andrew Nelson)",
+                "1153": "Essential Kanji (P.G. O’Neill)",
+                "1883": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1311": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1390": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1919": "Kanji in Context (Nishiguchi and Kono)",
+                "1849": "Kodansha Compact Kanji Guide",
+                "3426": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1765": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2403": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "706": "Les Kanjis dans la tete (Yves Maniette)",
+                "41941": "Morohashi",
+                "2755": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6494": "New Nelson (John Haig)",
+                "699": "Remembering The Kanji (James Heisig)",
+                "755": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1403": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2467": "2001 Kanji",
+                "8c2.1": "The Kanji Dictionary",
+                "2-8-2": "SKIP code",
+                "2040.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-41": "JIS X 0208-1997 kuten code",
+                "96bb": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi1"
+                ],
+                "korean": [
+                    "cheog"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "small",
+            "parts": [
+                "又",
+                "隹"
+            ],
+            "basis": "隹",
+            "kangxi_order": 172,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "隻",
+                    "reading": "セキ",
+                    "meanings": [
+                        "counter for ships",
+                        "counter for half of a pair (e.g. half of a folding screen)",
+                        "counter for items carried in a bundle (e.g. fish",
+                        "birds",
+                        "arrows)"
+                    ]
+                },
+                {
+                    "kanji": "隻影",
+                    "reading": "セキエイ",
+                    "meanings": [
+                        "a glimpse of an object's outlines"
+                    ]
+                },
+                {
+                    "kanji": "数隻",
+                    "reading": "スウセキ",
+                    "meanings": [
+                        "several (boats)"
+                    ]
+                }
+            ]
+        }
+    }
+}

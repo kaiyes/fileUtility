@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"旧\"",
+        "strokes": 5,
+        "main_meanings": [
+            "old times",
+            "old things",
+            "old friend",
+            "former",
+            "ex-"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふる.い",
+                "もと"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "759": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "677": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "648": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "808": "A New Dictionary of Kanji Usage",
+                "94": "Classic Nelson (Andrew Nelson)",
+                "760": "Essential Kanji (P.G. O’Neill)",
+                "595": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "119": "Japanese Names (P.G. O’Neill)",
+                "1216": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1279": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1376": "Kanji in Context (Nishiguchi and Kono)",
+                "964": "Kodansha Compact Kanji Guide",
+                "14": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "35": "Remembering The Kanji, 6th edition (James Heisig)",
+                "13737": "Morohashi",
+                "2412": "New Nelson (John Haig)",
+                "649": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1278": "2001 Kanji",
+                "4c1.1": "The Kanji Dictionary",
+                "1-1-4": "SKIP code",
+                "2600.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-76": "JIS X 0208-1997 kuten code",
+                "65e7": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiu4"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "sun,",
+            "parts": [
+                "｜",
+                "日"
+            ],
+            "basis": "日",
+            "kangxi_order": null,
+            "variants": [
+                "舊"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "古い",
+                    "reading": "ふるい",
+                    "meanings": [
+                        "old",
+                        "aged",
+                        "ancient",
+                        "antiquated",
+                        "antique",
+                        "timeworn",
+                        "long",
+                        "since long ago",
+                        "time-honored",
+                        "of the distant past",
+                        "long-ago",
+                        "stale",
+                        "threadbare",
+                        "hackneyed",
+                        "corny",
+                        "old-fashioned",
+                        "outmoded",
+                        "out-of-date"
+                    ]
+                },
+                {
+                    "kanji": "元",
+                    "reading": "もと",
+                    "meanings": [
+                        "former",
+                        "ex-",
+                        "past",
+                        "one-time",
+                        "earlier times",
+                        "the past",
+                        "previous state",
+                        "formerly",
+                        "previously",
+                        "originally",
+                        "before"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "旧",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "old",
+                        "former",
+                        "ex-",
+                        "the old",
+                        "old things",
+                        "old customs",
+                        "old times",
+                        "bygone days",
+                        "Japan's old (lunisolar) calendar"
+                    ]
+                },
+                {
+                    "kanji": "旧式",
+                    "reading": "キュウシキ",
+                    "meanings": [
+                        "old type",
+                        "old style"
+                    ]
+                },
+                {
+                    "kanji": "新旧",
+                    "reading": "シンキュウ",
+                    "meanings": [
+                        "new and old",
+                        "incoming and outgoing"
+                    ]
+                },
+                {
+                    "kanji": "懐旧",
+                    "reading": "カイキュウ",
+                    "meanings": [
+                        "reminiscence",
+                        "nostalgia",
+                        "thinking fondly of the past",
+                        "recalling the old days"
+                    ]
+                }
+            ]
+        }
+    }
+}

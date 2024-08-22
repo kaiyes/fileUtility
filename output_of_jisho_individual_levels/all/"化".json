@@ -1,0 +1,205 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"化\"",
+        "strokes": 4,
+        "main_meanings": [
+            "change",
+            "take the form of",
+            "influence",
+            "enchant",
+            "delude",
+            "-ization"
+        ],
+        "main_readings": {
+            "kun": [
+                "ば.ける",
+                "ば.かす",
+                "ふ.ける",
+                "け.する"
+            ],
+            "on": [
+                "カ",
+                "ケ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "163": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "258": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "238": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "100": "A New Dictionary of Kanji Usage",
+                "350": "Classic Nelson (Andrew Nelson)",
+                "76": "Essential Kanji (P.G. O’Neill)",
+                "378": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "56": "Japanese Names (P.G. O’Neill)",
+                "3.19": "Japanese for Busy People",
+                "254": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "414": "Kanji in Context (Nishiguchi and Kono)",
+                "55": "Kodansha Compact Kanji Guide",
+                "22": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "12": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1017": "Les Kanjis dans la tete (Yves Maniette)",
+                "2572X": "Morohashi",
+                "21": "New Japanese English Character Dictionary (Jack Halpern)",
+                "580": "New Nelson (John Haig)",
+                "1008": "Remembering The Kanji (James Heisig)",
+                "1083": "Remembering The Kanji, 6th edition (James Heisig)",
+                "104": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "242": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2156": "2001 Kanji",
+                "2a2.6": "The Kanji Dictionary",
+                "1-2-2": "SKIP code",
+                "2121.0": "Four corner code",
+                "2421.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-29": "JIS X 0208-1997 kuten code",
+                "5316": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hua4"
+                ],
+                "korean": [
+                    "hwa"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "spoon",
+            "parts": [
+                "化",
+                "匕"
+            ],
+            "basis": "匕",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "化ける",
+                    "reading": "ばける",
+                    "meanings": [
+                        "to take the form of (esp. in ref. to a spirit",
+                        "fox",
+                        "raccoon dog",
+                        "etc.)",
+                        "to assume the shape of",
+                        "to turn oneself into",
+                        "to transform oneself into",
+                        "to disguise oneself as",
+                        "to change radically",
+                        "to metamorphose",
+                        "to improve unexpectedly and dramatically (esp. of an actor",
+                        "artist",
+                        "rikishi",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "化かす",
+                    "reading": "ばかす",
+                    "meanings": [
+                        "to bewitch",
+                        "to confuse",
+                        "to enchant",
+                        "to delude"
+                    ]
+                },
+                {
+                    "kanji": "老ける",
+                    "reading": "ふける",
+                    "meanings": [
+                        "to age",
+                        "to grow old (esp. in appearance)",
+                        "to show marks of age"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "化",
+                    "reading": "カ",
+                    "meanings": [
+                        "change to ...",
+                        "becoming ...",
+                        "making into ...",
+                        "-ization",
+                        "-ification"
+                    ]
+                },
+                {
+                    "kanji": "化学",
+                    "reading": "カガク",
+                    "meanings": [
+                        "chemistry"
+                    ]
+                },
+                {
+                    "kanji": "機械化",
+                    "reading": "キカイカ",
+                    "meanings": [
+                        "mechanization",
+                        "mechanisation"
+                    ]
+                },
+                {
+                    "kanji": "民営化",
+                    "reading": "ミンエイカ",
+                    "meanings": [
+                        "privatization",
+                        "privatisation"
+                    ]
+                },
+                {
+                    "kanji": "化粧",
+                    "reading": "ケショウ",
+                    "meanings": [
+                        "make-up",
+                        "makeup",
+                        "cosmetics",
+                        "decoration",
+                        "dressing",
+                        "veneer"
+                    ]
+                },
+                {
+                    "kanji": "化粧水",
+                    "reading": "ケショウスイ",
+                    "meanings": [
+                        "skin lotion",
+                        "face lotion"
+                    ]
+                },
+                {
+                    "kanji": "応化",
+                    "reading": "オウゲ",
+                    "meanings": [
+                        "assumption of a suitable form (by a buddha or bodhisattva)"
+                    ]
+                },
+                {
+                    "kanji": "教化",
+                    "reading": "キョウケ",
+                    "meanings": [
+                        "guidance",
+                        "teaching people and leading them to Buddhism"
+                    ]
+                }
+            ]
+        }
+    }
+}

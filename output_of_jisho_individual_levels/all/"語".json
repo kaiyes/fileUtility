@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"語\"",
+        "strokes": 14,
+        "main_meanings": [
+            "word",
+            "speech",
+            "language"
+        ],
+        "main_readings": {
+            "kun": [
+                "かた.る",
+                "かた.らう"
+            ],
+            "on": [
+                "ゴ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "209": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "124": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "112": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "274": "A New Dictionary of Kanji Usage",
+                "4374": "Classic Nelson (Andrew Nelson)",
+                "231": "Tuttle Kanji Cards (Alexander Kask)",
+                "87": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2136": "Japanese Names (P.G. O’Neill)",
+                "2.1": "Japanese for Busy People",
+                "67": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "154": "Kanji in Context (Nishiguchi and Kono)",
+                "1685": "Kodansha Compact Kanji Guide",
+                "1944": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1040": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1402": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "353": "Les Kanjis dans la tete (Yves Maniette)",
+                "35533": "Morohashi",
+                "1543": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5628": "New Nelson (John Haig)",
+                "347": "Remembering The Kanji (James Heisig)",
+                "371": "Remembering The Kanji, 6th edition (James Heisig)",
+                "211": "The Kanji Way to Japanese Language Power (Dale Crowley)"
+            },
+            "classifications": {
+                "3077": "2001 Kanji",
+                "7a7.6": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "0166.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-76": "JIS X 0208-1997 kuten code",
+                "8a9e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "yu3",
+                    "yu4"
+                ],
+                "korean": [
+                    "eo"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "口",
+                "五",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "語る",
+                    "reading": "かたる",
+                    "meanings": [
+                        "to talk about",
+                        "to speak of",
+                        "to tell",
+                        "to narrate",
+                        "to recite",
+                        "to chant",
+                        "to indicate",
+                        "to show"
+                    ]
+                },
+                {
+                    "kanji": "語るに落ちる",
+                    "reading": "かたるにおちる",
+                    "meanings": [
+                        "to let slip a secret",
+                        "to let the cat out of the bag"
+                    ]
+                },
+                {
+                    "kanji": "語らう",
+                    "reading": "かたらう",
+                    "meanings": [
+                        "to talk",
+                        "to tell",
+                        "to recite",
+                        "to pledge",
+                        "to conspire with"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "語",
+                    "reading": "ゴ",
+                    "meanings": [
+                        "word",
+                        "language",
+                        "speech"
+                    ]
+                },
+                {
+                    "kanji": "語学",
+                    "reading": "ゴガク",
+                    "meanings": [
+                        "study of foreign languages",
+                        "linguistics"
+                    ]
+                },
+                {
+                    "kanji": "標語",
+                    "reading": "ヒョウゴ",
+                    "meanings": [
+                        "motto",
+                        "slogan",
+                        "catchword"
+                    ]
+                },
+                {
+                    "kanji": "造語",
+                    "reading": "ゾウゴ",
+                    "meanings": [
+                        "coined word",
+                        "coinage",
+                        "neologism"
+                    ]
+                }
+            ]
+        }
+    }
+}

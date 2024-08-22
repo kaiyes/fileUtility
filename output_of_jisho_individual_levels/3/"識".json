@@ -1,0 +1,202 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"識\"",
+        "strokes": 19,
+        "main_meanings": [
+            "discriminating",
+            "know",
+            "write"
+        ],
+        "main_readings": {
+            "kun": [
+                "し.る",
+                "しる.す"
+            ],
+            "on": [
+                "シキ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "627": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "725": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "698": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "617": "A New Dictionary of Kanji Usage",
+                "4438": "Classic Nelson (Andrew Nelson)",
+                "486": "Essential Kanji (P.G. O’Neill)",
+                "911": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2810": "Japanese Names (P.G. O’Neill)",
+                "681": "Kanji and Kana (Spahn and Hadamitzky)",
+                "694": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "512": "Kanji in Context (Nishiguchi and Kono)",
+                "1709": "Kodansha Compact Kanji Guide",
+                "2070": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1086": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1477": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "493": "Les Kanjis dans la tete (Yves Maniette)",
+                "35974": "Morohashi",
+                "1639": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5704": "New Nelson (John Haig)",
+                "482": "Remembering The Kanji (James Heisig)",
+                "521": "Remembering The Kanji, 6th edition (James Heisig)",
+                "416": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "824": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3059": "2001 Kanji",
+                "7a12.6": "The Kanji Dictionary",
+                "1-7-12": "SKIP code",
+                "0365.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-17": "JIS X 0208-1997 kuten code",
+                "8b58": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "さと、 さとる"
+                ],
+                "chinese": [
+                    "shi4",
+                    "zhi4"
+                ],
+                "korean": [
+                    "sig",
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "戈",
+                "日",
+                "立",
+                "言",
+                "音"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "知る",
+                    "reading": "しる",
+                    "meanings": [
+                        "to know",
+                        "to be aware (of)",
+                        "to be conscious (of)",
+                        "to learn (of)",
+                        "to find out",
+                        "to discover",
+                        "to sense",
+                        "to feel",
+                        "to notice",
+                        "to realize",
+                        "to understand",
+                        "to comprehend",
+                        "to grasp",
+                        "to appreciate",
+                        "to remember",
+                        "to be familiar with",
+                        "to be acquainted with",
+                        "to experience",
+                        "to go through",
+                        "to know (e.g. hardship)",
+                        "to get acquainted with (a person)",
+                        "to get to know",
+                        "to have to do with",
+                        "to be concerned with",
+                        "to be one's concern",
+                        "to be one's responsibility"
+                    ]
+                },
+                {
+                    "kanji": "記す",
+                    "reading": "しるす",
+                    "meanings": [
+                        "to write down",
+                        "to note down",
+                        "to jot down",
+                        "to take a note of",
+                        "to mention",
+                        "to describe",
+                        "to give an account of",
+                        "to inscribe",
+                        "to mark",
+                        "to brand",
+                        "to remember",
+                        "to engrave (in one's mind)"
+                    ]
+                },
+                {
+                    "kanji": "記す",
+                    "reading": "しるす",
+                    "meanings": [
+                        "to write down",
+                        "to note down",
+                        "to jot down",
+                        "to take a note of",
+                        "to mention",
+                        "to describe",
+                        "to give an account of",
+                        "to inscribe",
+                        "to mark",
+                        "to brand",
+                        "to remember",
+                        "to engrave (in one's mind)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "識",
+                    "reading": "シキ",
+                    "meanings": [
+                        "acquaintanceship",
+                        "vijnana",
+                        "consciousness",
+                        "written by..."
+                    ]
+                },
+                {
+                    "kanji": "識者",
+                    "reading": "シキシャ",
+                    "meanings": [
+                        "well-informed person",
+                        "thinking person",
+                        "intelligent person"
+                    ]
+                },
+                {
+                    "kanji": "光学式文字認識",
+                    "reading": "コウガクシキモジニンシキ",
+                    "meanings": [
+                        "optical character recognition",
+                        "OCR"
+                    ]
+                },
+                {
+                    "kanji": "目的意識",
+                    "reading": "モクテキイシキ",
+                    "meanings": [
+                        "sense of purpose"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"右\"",
+        "strokes": 5,
+        "main_meanings": [
+            "right"
+        ],
+        "main_readings": {
+            "kun": [
+                "みぎ"
+            ],
+            "on": [
+                "ウ",
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "19": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "22": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "2": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "503": "A New Dictionary of Kanji Usage",
+                "878": "Classic Nelson (Andrew Nelson)",
+                "88": "Essential Kanji (P.G. O’Neill)",
+                "33": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "171": "Japanese Names (P.G. O’Neill)",
+                "3.12": "Japanese for Busy People",
+                "76": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "35": "Kanji in Context (Nishiguchi and Kono)",
+                "277": "Kodansha Compact Kanji Guide",
+                "3693": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1888": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2568": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "78": "Remembering The Kanji (James Heisig)",
+                "3250": "Morohashi",
+                "2975": "New Japanese English Character Dictionary (Jack Halpern)",
+                "700": "New Nelson (John Haig)",
+                "82": "Remembering The Kanji, 6th edition (James Heisig)",
+                "384": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "38": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1477": "2001 Kanji",
+                "3d2.15": "The Kanji Dictionary",
+                "3-2-3": "SKIP code",
+                "4060.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-06": "JIS X 0208-1997 kuten code",
+                "53f3": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "あき、 すけ"
+                ],
+                "chinese": [
+                    "you4"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "mouth,",
+            "parts": [
+                "一",
+                "ノ",
+                "口"
+            ],
+            "basis": "口",
+            "kangxi_order": 30,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "右",
+                    "reading": "みぎ",
+                    "meanings": [
+                        "right",
+                        "right-hand side",
+                        "right hand",
+                        "the above (in a piece of vertical writing)",
+                        "above-mentioned",
+                        "the right (wing)",
+                        "rightist"
+                    ]
+                },
+                {
+                    "kanji": "右腕",
+                    "reading": "みぎうで",
+                    "meanings": [
+                        "right arm",
+                        "right-hand man",
+                        "right hand",
+                        "right-hand person",
+                        "right-handed pitcher"
+                    ]
+                },
+                {
+                    "kanji": "上右",
+                    "reading": "うえみぎ",
+                    "meanings": [
+                        "upper right (corner)"
+                    ]
+                },
+                {
+                    "kanji": "下右",
+                    "reading": "したみぎ",
+                    "meanings": [
+                        "lower right (corner)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "右中間",
+                    "reading": "ウチュウカン",
+                    "meanings": [
+                        "between right and center fielders (centre)"
+                    ]
+                },
+                {
+                    "kanji": "右側",
+                    "reading": "ミギガワ",
+                    "meanings": [
+                        "right side",
+                        "right-hand side"
+                    ]
+                },
+                {
+                    "kanji": "極右",
+                    "reading": "キョクウ",
+                    "meanings": [
+                        "far right (in politics)",
+                        "extreme right",
+                        "ultraconservative"
+                    ]
+                },
+                {
+                    "kanji": "最右",
+                    "reading": "サイウ",
+                    "meanings": [
+                        "right-most",
+                        "rightmost"
+                    ]
+                },
+                {
+                    "kanji": "右筆",
+                    "reading": "ユウヒツ",
+                    "meanings": [
+                        "private secretary",
+                        "amanuensis"
+                    ]
+                },
+                {
+                    "kanji": "右文",
+                    "reading": "ユウブン",
+                    "meanings": [
+                        "respect for literary culture"
+                    ]
+                },
+                {
+                    "kanji": "上下左右",
+                    "reading": "ジョウゲサユウ",
+                    "meanings": [
+                        "up and down",
+                        "left and right",
+                        "top and bottom",
+                        "left and right"
+                    ]
+                }
+            ]
+        }
+    }
+}

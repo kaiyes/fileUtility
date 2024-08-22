@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"川\"",
+        "strokes": 3,
+        "main_meanings": [
+            "stream",
+            "river",
+            "river or three-stroke river radical (no. 47)"
+        ],
+        "main_readings": {
+            "kun": [
+                "かわ"
+            ],
+            "on": [
+                "セン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "39": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "59": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "48": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "111": "A New Dictionary of Kanji Usage",
+                "1447": "Classic Nelson (Andrew Nelson)",
+                "41": "Essential Kanji (P.G. O’Neill)",
+                "49": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "20": "Japanese Names (P.G. O’Neill)",
+                "2.10": "Japanese for Busy People",
+                "33": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "101": "Kanji in Context (Nishiguchi and Kono)",
+                "548": "Kodansha Compact Kanji Guide",
+                "6": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "129": "Les Kanjis dans la tete (Yves Maniette)",
+                "8673": "Morohashi",
+                "1526": "New Nelson (John Haig)",
+                "127": "Remembering The Kanji (James Heisig)",
+                "134": "Remembering The Kanji, 6th edition (James Heisig)",
+                "196": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "21": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1254": "2001 Kanji",
+                "0a3.2": "The Kanji Dictionary",
+                "1-1-2": "SKIP code",
+                "2200.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-32-78": "JIS X 0208-1997 kuten code",
+                "5ddd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "か、 こ、 さわ"
+                ],
+                "chinese": [
+                    "chuan1"
+                ],
+                "korean": [
+                    "cheon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "川",
+                "巜"
+            ],
+            "meaning": "river",
+            "parts": [
+                "川"
+            ],
+            "basis": "巛",
+            "kangxi_order": 47,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "川",
+                    "reading": "かわ",
+                    "meanings": [
+                        "river",
+                        "stream",
+                        "River",
+                        "the ... river"
+                    ]
+                },
+                {
+                    "kanji": "川上",
+                    "reading": "かわかみ",
+                    "meanings": [
+                        "upper reaches of a river",
+                        "upstream"
+                    ]
+                },
+                {
+                    "kanji": "堀川",
+                    "reading": "ほりかわ",
+                    "meanings": [
+                        "canal"
+                    ]
+                },
+                {
+                    "kanji": "山川",
+                    "reading": "さんせん",
+                    "meanings": [
+                        "mountains and rivers"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "川柳",
+                    "reading": "センリュウ",
+                    "meanings": [
+                        "senryū",
+                        "comic haiku",
+                        "humorous seventeen-mora poem"
+                    ]
+                },
+                {
+                    "kanji": "川きゅう",
+                    "reading": "センキュウ",
+                    "meanings": [
+                        "cnidium rhizome (Cnidium officinale)"
+                    ]
+                },
+                {
+                    "kanji": "山川",
+                    "reading": "サンセン",
+                    "meanings": [
+                        "mountains and rivers"
+                    ]
+                },
+                {
+                    "kanji": "四川",
+                    "reading": "シセン",
+                    "meanings": [
+                        "Sichuan (China)",
+                        "Szechuan",
+                        "Szechwan"
+                    ]
+                }
+            ]
+        }
+    }
+}

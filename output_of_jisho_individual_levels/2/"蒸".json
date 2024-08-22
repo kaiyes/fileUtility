@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"蒸\"",
+        "strokes": 13,
+        "main_meanings": [
+            "steam",
+            "heat",
+            "sultry",
+            "foment",
+            "get musty"
+        ],
+        "main_readings": {
+            "kun": [
+                "む.す",
+                "む.れる",
+                "む.らす"
+            ],
+            "on": [
+                "ジョウ",
+                "セイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "915": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "904": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1721": "A New Dictionary of Kanji Usage",
+                "4002": "Classic Nelson (Andrew Nelson)",
+                "950": "Essential Kanji (P.G. O’Neill)",
+                "872": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1981": "Japanese Names (P.G. O’Neill)",
+                "943": "Kanji and Kana (Spahn and Hadamitzky)",
+                "973": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "802": "Kanji in Context (Nishiguchi and Kono)",
+                "665": "Kodansha Compact Kanji Guide",
+                "2936": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1508": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2043": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1920": "Les Kanjis dans la tete (Yves Maniette)",
+                "31618P": "Morohashi",
+                "2334": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5163": "New Nelson (John Haig)",
+                "1900": "Remembering The Kanji (James Heisig)",
+                "2049": "Remembering The Kanji, 6th edition (James Heisig)",
+                "961": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1940": "2001 Kanji",
+                "3k9.19": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "2-3-9": "SKIP code",
+                "4433.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-30-88": "JIS X 0208-1997 kuten code",
+                "84b8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zheng1"
+                ],
+                "korean": [
+                    "jeung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "一",
+                "ノ",
+                "亅",
+                "艾",
+                "杰"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "蒸す",
+                    "reading": "むす",
+                    "meanings": [
+                        "to steam (food",
+                        "towel",
+                        "etc.)",
+                        "to be hot and humid",
+                        "to be sultry"
+                    ]
+                },
+                {
+                    "kanji": "蒸れる",
+                    "reading": "むれる",
+                    "meanings": [
+                        "to be steamed (properly",
+                        "e.g. rice)",
+                        "to be stuffy",
+                        "to grow musty",
+                        "to get close",
+                        "to become sweaty",
+                        "to feel sticky",
+                        "to moulder"
+                    ]
+                },
+                {
+                    "kanji": "蒸らす",
+                    "reading": "むらす",
+                    "meanings": [
+                        "to cook by steam"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "蒸気",
+                    "reading": "ジョウキ",
+                    "meanings": [
+                        "steam",
+                        "vapour",
+                        "vapor",
+                        "steamboat",
+                        "steam locomotive"
+                    ]
+                },
+                {
+                    "kanji": "蒸発",
+                    "reading": "ジョウハツ",
+                    "meanings": [
+                        "evaporation",
+                        "disappearance (of a person)",
+                        "vanishing without a trace"
+                    ]
+                },
+                {
+                    "kanji": "燻蒸",
+                    "reading": "クンジョウ",
+                    "meanings": [
+                        "fumigation",
+                        "smoking (out)"
+                    ]
+                },
+                {
+                    "kanji": "蒸籠",
+                    "reading": "セイロ",
+                    "meanings": [
+                        "bamboo steamer",
+                        "steaming basket",
+                        "wooden frame holder with reed base used to steam food over a pot",
+                        "soba served on a small wickerwork tray",
+                        "wickerwork tray (for serving soba)"
+                    ]
+                },
+                {
+                    "kanji": "せいろ蒸し",
+                    "reading": "セイロムシ",
+                    "meanings": [
+                        "steaming (of food) using a bamboo steamer"
+                    ]
+                }
+            ]
+        }
+    }
+}

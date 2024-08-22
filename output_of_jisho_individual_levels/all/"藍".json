@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"藍\"",
+        "strokes": 18,
+        "main_meanings": [
+            "indigo"
+        ],
+        "main_readings": {
+            "kun": [
+                "あい"
+            ],
+            "on": [
+                "ラン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "4082": "Classic Nelson (Andrew Nelson)",
+                "2772": "Japanese Names (P.G. O’Neill)",
+                "2232": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2133": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "3024": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1543": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2108": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "32258X": "Morohashi",
+                "2381": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5233": "New Nelson (John Haig)",
+                "2371": "Remembering The Kanji (James Heisig)",
+                "1565": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3k15.5": "The Kanji Dictionary",
+                "2-3-15": "SKIP code",
+                "2-3-14": "SKIP code",
+                "4410.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-85": "JIS X 0208-1997 kuten code",
+                "85cd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "lan2",
+                    "la5"
+                ],
+                "korean": [
+                    "ram"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "艹"
+            ],
+            "meaning": "grass",
+            "parts": [
+                "ノ",
+                "二",
+                "艾",
+                "皿",
+                "臣",
+                "乞"
+            ],
+            "basis": "艸",
+            "kangxi_order": 140,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "藍",
+                    "reading": "あい",
+                    "meanings": [
+                        "dyer's knotweed (Persicaria tinctoria",
+                        "used to produce indigo dye)",
+                        "indigo (dye)",
+                        "indigo (colour)"
+                    ]
+                },
+                {
+                    "kanji": "藍色",
+                    "reading": "あいいろ",
+                    "meanings": [
+                        "indigo blue"
+                    ]
+                },
+                {
+                    "kanji": "人造藍",
+                    "reading": "じんぞうあい",
+                    "meanings": [
+                        "synthetic indigo"
+                    ]
+                },
+                {
+                    "kanji": "琉球藍",
+                    "reading": "りゅうきゅうあい",
+                    "meanings": [
+                        "Assam indigo (Strobilanthes cusia)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "藍綬褒章",
+                    "reading": "ランジュホウショウ",
+                    "meanings": [
+                        "Medal with Blue Ribbon"
+                    ]
+                },
+                {
+                    "kanji": "藍衣社員",
+                    "reading": "ランイシャイン",
+                    "meanings": [
+                        "blue-collar",
+                        "blue-collar worker (employee)"
+                    ]
+                },
+                {
+                    "kanji": "伽藍",
+                    "reading": "ガラン",
+                    "meanings": [
+                        "temple (esp. large one)",
+                        "monastery",
+                        "temple building"
+                    ]
+                },
+                {
+                    "kanji": "芥藍",
+                    "reading": "カイラン",
+                    "meanings": [
+                        "kai-lan",
+                        "gai-lan",
+                        "Chinese broccoli"
+                    ]
+                }
+            ]
+        }
+    }
+}

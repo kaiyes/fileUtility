@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"輸\"",
+        "strokes": 16,
+        "main_meanings": [
+            "transport",
+            "send",
+            "be inferior"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ユ",
+                "シュ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "727": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "819": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "799": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "424": "A New Dictionary of Kanji Usage",
+                "4634": "Classic Nelson (Andrew Nelson)",
+                "409": "Essential Kanji (P.G. O’Neill)",
+                "943": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "546": "Kanji and Kana (Spahn and Hadamitzky)",
+                "555": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "499": "Kanji in Context (Nishiguchi and Kono)",
+                "1782": "Kodansha Compact Kanji Guide",
+                "2026": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1074": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1454": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "295": "Les Kanjis dans la tete (Yves Maniette)",
+                "38438P": "Morohashi",
+                "1607": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5978": "New Nelson (John Haig)",
+                "289": "Remembering The Kanji (James Heisig)",
+                "307": "Remembering The Kanji, 6th edition (James Heisig)",
+                "444": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "817": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1543": "2001 Kanji",
+                "7c9.5": "The Kanji Dictionary",
+                "1-7-9": "SKIP code",
+                "5802.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-02": "JIS X 0208-1997 kuten code",
+                "8f38": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shu1"
+                ],
+                "korean": [
+                    "su"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "一",
+                "个",
+                "刈",
+                "月",
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "輸血",
+                    "reading": "ユケツ",
+                    "meanings": [
+                        "blood transfusion"
+                    ]
+                },
+                {
+                    "kanji": "輸銀",
+                    "reading": "ユギン",
+                    "meanings": [
+                        "import-export bank"
+                    ]
+                },
+                {
+                    "kanji": "禁輸",
+                    "reading": "キンユ",
+                    "meanings": [
+                        "embargo"
+                    ]
+                },
+                {
+                    "kanji": "全日本空輸",
+                    "reading": "ゼンニッポンクウユ",
+                    "meanings": [
+                        "All Nippon Airways"
+                    ]
+                },
+                {
+                    "kanji": "輸入",
+                    "reading": "ユニュウ",
+                    "meanings": [
+                        "import",
+                        "importation",
+                        "introduction",
+                        "afferent"
+                    ]
+                },
+                {
+                    "kanji": "輸出",
+                    "reading": "ユシュツ",
+                    "meanings": [
+                        "export",
+                        "exportation",
+                        "efferent"
+                    ]
+                }
+            ]
+        }
+    }
+}

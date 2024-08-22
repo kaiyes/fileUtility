@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"浦\"",
+        "strokes": 10,
+        "main_meanings": [
+            "bay",
+            "creek",
+            "inlet",
+            "gulf",
+            "beach",
+            "seacoast"
+        ],
+        "main_readings": {
+            "kun": [
+                "うら"
+            ],
+            "on": [
+                "ホ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1785": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "856": "A New Dictionary of Kanji Usage",
+                "2571": "Classic Nelson (Andrew Nelson)",
+                "1015": "Essential Kanji (P.G. O’Neill)",
+                "1474": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1067": "Japanese Names (P.G. O’Neill)",
+                "1442": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1534": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1846": "Kanji in Context (Nishiguchi and Kono)",
+                "1198": "Kodansha Compact Kanji Guide",
+                "524": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "321": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "395": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1854": "Les Kanjis dans la tete (Yves Maniette)",
+                "17475": "Morohashi",
+                "437": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3156": "New Nelson (John Haig)",
+                "1837": "Remembering The Kanji (James Heisig)",
+                "1980": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1360": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "353": "2001 Kanji",
+                "3a7.2": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "3312.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-26": "JIS X 0208-1997 kuten code",
+                "6d66": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pu3"
+                ],
+                "korean": [
+                    "po"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "丶",
+                "十",
+                "汁",
+                "用"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "浦",
+                    "reading": "うら",
+                    "meanings": [
+                        "inlet",
+                        "seashore",
+                        "beach"
+                    ]
+                },
+                {
+                    "kanji": "浦内笛鯛",
+                    "reading": "うらうちふえだい",
+                    "meanings": [
+                        "Papuan black snapper (Lutjanus goldiei)"
+                    ]
+                },
+                {
+                    "kanji": "津々浦々",
+                    "reading": "つつうらうら",
+                    "meanings": [
+                        "all over the country",
+                        "throughout the land",
+                        "every nook and cranny of the land",
+                        "far and wide",
+                        "(in) every port and harbor"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "海浦",
+                    "reading": "カイホ",
+                    "meanings": [
+                        "seaside"
+                    ]
+                },
+                {
+                    "kanji": "曲浦",
+                    "reading": "キョクホ",
+                    "meanings": [
+                        "winding coast (beach)"
+                    ]
+                }
+            ]
+        }
+    }
+}

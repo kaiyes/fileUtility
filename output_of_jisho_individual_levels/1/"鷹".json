@@ -1,0 +1,160 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鷹\"",
+        "strokes": 24,
+        "main_meanings": [
+            "hawk"
+        ],
+        "main_readings": {
+            "kun": [
+                "たか"
+            ],
+            "on": [
+                "ヨウ",
+                "オウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1808": "A New Dictionary of Kanji Usage",
+                "1544": "Classic Nelson (Andrew Nelson)",
+                "2995": "Japanese Names (P.G. O’Neill)",
+                "2278": "Kanji and Kana (Spahn and Hadamitzky)",
+                "3955": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2036": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2748": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "47377": "Morohashi",
+                "3189": "New Japanese English Character Dictionary (Jack Halpern)",
+                "7007": "New Nelson (John Haig)",
+                "2237": "Remembering The Kanji (James Heisig)",
+                "2344": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3q21.1": "The Kanji Dictionary",
+                "3-3-21": "SKIP code",
+                "0022.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-34-75": "JIS X 0208-1997 kuten code",
+                "9df9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ying1"
+                ],
+                "korean": [
+                    "eung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "化",
+                "广",
+                "杰",
+                "隹",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鷹",
+                    "reading": "たか",
+                    "meanings": [
+                        "hawk",
+                        "falcon"
+                    ]
+                },
+                {
+                    "kanji": "鷹匠",
+                    "reading": "たかじょう",
+                    "meanings": [
+                        "falconer",
+                        "hawker"
+                    ]
+                },
+                {
+                    "kanji": "大鷹",
+                    "reading": "おおたか",
+                    "meanings": [
+                        "northern goshawk (Accipiter gentilis)",
+                        "female hawk (or falcon)",
+                        "falconry (using a northern goshawk)"
+                    ]
+                },
+                {
+                    "kanji": "小鷹",
+                    "reading": "こたか",
+                    "meanings": [
+                        "small hawk or falcon (used for hunting)",
+                        "falconry (using small hawks or falcons)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鷹隼",
+                    "reading": "ヨウシュン",
+                    "meanings": [
+                        "hawk and falcon"
+                    ]
+                },
+                {
+                    "kanji": "鷹揚",
+                    "reading": "オウヨウ",
+                    "meanings": [
+                        "large-hearted",
+                        "generous",
+                        "liberal",
+                        "open-handed",
+                        "magnanimous",
+                        "easygoing",
+                        "placid",
+                        "composed",
+                        "cool",
+                        "collected"
+                    ]
+                },
+                {
+                    "kanji": "放鷹",
+                    "reading": "ホウヨウ",
+                    "meanings": [
+                        "falconry",
+                        "hawking"
+                    ]
+                },
+                {
+                    "kanji": "鷹揚",
+                    "reading": "オウヨウ",
+                    "meanings": [
+                        "large-hearted",
+                        "generous",
+                        "liberal",
+                        "open-handed",
+                        "magnanimous",
+                        "easygoing",
+                        "placid",
+                        "composed",
+                        "cool",
+                        "collected"
+                    ]
+                }
+            ]
+        }
+    }
+}

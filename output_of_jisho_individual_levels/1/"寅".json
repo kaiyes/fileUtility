@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寅\"",
+        "strokes": 11,
+        "main_meanings": [
+            "sign of the tiger",
+            "3-5AM",
+            "third sign of Chinese zodiac"
+        ],
+        "main_readings": {
+            "kun": [
+                "とら"
+            ],
+            "on": [
+                "イン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1563": "A New Dictionary of Kanji Usage",
+                "1314": "Classic Nelson (Andrew Nelson)",
+                "1911": "Essential Kanji (P.G. O’Neill)",
+                "1439": "Japanese Names (P.G. O’Neill)",
+                "2052": "Kanji and Kana (Spahn and Hadamitzky)",
+                "2854": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1471": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1981": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2025": "Les Kanjis dans la tete (Yves Maniette)",
+                "7204": "Morohashi",
+                "2289": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1341": "New Nelson (John Haig)",
+                "2006": "Remembering The Kanji (James Heisig)",
+                "2162": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "3m8.4": "The Kanji Dictionary",
+                "2-3-8": "SKIP code",
+                "3080.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-50": "JIS X 0208-1997 kuten code",
+                "5bc5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とも、 のぶ"
+                ],
+                "chinese": [
+                    "yin2"
+                ],
+                "korean": [
+                    "in",
+                    "i"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "一",
+                "ハ",
+                "宀",
+                "田"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "寅",
+                    "reading": "とら",
+                    "meanings": [
+                        "the Tiger (third sign of the Chinese zodiac)",
+                        "hour of the Tiger (around 4am",
+                        "3-5am",
+                        "or 4-6am)",
+                        "east-northeast",
+                        "first month of the lunar calendar"
+                    ]
+                },
+                {
+                    "kanji": "寅年",
+                    "reading": "とらどし",
+                    "meanings": [
+                        "year of the Tiger"
+                    ]
+                },
+                {
+                    "kanji": "庚寅",
+                    "reading": "かのえとら",
+                    "meanings": [
+                        "Metal Tiger (27th term of the sexagenary cycle",
+                        "e.g. 1950",
+                        "2010",
+                        "2070)"
+                    ]
+                },
+                {
+                    "kanji": "甲寅",
+                    "reading": "きのえとら",
+                    "meanings": [
+                        "Wood Tiger (51st term of the sexagenary cycle",
+                        "e.g. 1914",
+                        "1974",
+                        "2034)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "丙寅",
+                    "reading": "ヒノエトラ",
+                    "meanings": [
+                        "Fire Tiger (3rd term of the sexagenary cycle",
+                        "e.g. 1926",
+                        "1986",
+                        "2046)"
+                    ]
+                },
+                {
+                    "kanji": "甲寅",
+                    "reading": "キノエトラ",
+                    "meanings": [
+                        "Wood Tiger (51st term of the sexagenary cycle",
+                        "e.g. 1914",
+                        "1974",
+                        "2034)"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"携\"",
+        "strokes": 13,
+        "main_meanings": [
+            "portable",
+            "carry (in hand)",
+            "armed with",
+            "bring along"
+        ],
+        "main_readings": {
+            "kun": [
+                "たずさ.える",
+                "たずさ.わる"
+            ],
+            "on": [
+                "ケイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1202": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1284": "A New Dictionary of Kanji Usage",
+                "1977": "Classic Nelson (Andrew Nelson)",
+                "1666": "Essential Kanji (P.G. O’Neill)",
+                "1376": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1686": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1801": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1486": "Kanji in Context (Nishiguchi and Kono)",
+                "919": "Kodansha Compact Kanji Guide",
+                "796": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "465": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "593": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "694": "Les Kanjis dans la tete (Yves Maniette)",
+                "12529": "Morohashi",
+                "648": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2253": "New Nelson (John Haig)",
+                "687": "Remembering The Kanji (James Heisig)",
+                "742": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1628": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1345": "2001 Kanji",
+                "3c10.4": "The Kanji Dictionary",
+                "1-3-10": "SKIP code",
+                "1-3-11": "SKIP code",
+                "5002.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-23-40": "JIS X 0208-1997 kuten code",
+                "643a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "xie2"
+                ],
+                "korean": [
+                    "hyu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "ノ",
+                "乃",
+                "扎",
+                "隹"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "攜"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "携える",
+                    "reading": "たずさえる",
+                    "meanings": [
+                        "to carry in one's hand",
+                        "to carry with one",
+                        "to have on one's person",
+                        "to bear",
+                        "to take along (someone)",
+                        "to take (someone) with one",
+                        "to be accompanied by"
+                    ]
+                },
+                {
+                    "kanji": "携わる",
+                    "reading": "たずさわる",
+                    "meanings": [
+                        "to engage in",
+                        "to participate in",
+                        "to take part in",
+                        "to be involved in"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "携帯",
+                    "reading": "ケイタイ",
+                    "meanings": [
+                        "carrying (on one's person or in the hand)",
+                        "mobile phone",
+                        "cell phone"
+                    ]
+                },
+                {
+                    "kanji": "携帯ストラップ",
+                    "reading": "ケイタイストラップ",
+                    "meanings": [
+                        "straps for mobile phone"
+                    ]
+                },
+                {
+                    "kanji": "連携",
+                    "reading": "レンケイ",
+                    "meanings": [
+                        "cooperation",
+                        "coordination",
+                        "link",
+                        "integration"
+                    ]
+                },
+                {
+                    "kanji": "戦略的提携",
+                    "reading": "センリャクテキテイケイ",
+                    "meanings": [
+                        "strategic partnership"
+                    ]
+                }
+            ]
+        }
+    }
+}

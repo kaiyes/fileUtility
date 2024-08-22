@@ -1,0 +1,151 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"鳩\"",
+        "strokes": 13,
+        "main_meanings": [
+            "pigeon",
+            "dove"
+        ],
+        "main_readings": {
+            "kun": [
+                "はと",
+                "あつ.める"
+            ],
+            "on": [
+                "キュウ",
+                "ク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "5342": "Classic Nelson (Andrew Nelson)",
+                "1825": "Japanese Names (P.G. O’Neill)",
+                "2273": "Kanji and Kana (Spahn and Hadamitzky)",
+                "184": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "120": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "141": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1965": "Les Kanjis dans la tete (Yves Maniette)",
+                "46648": "Morohashi",
+                "163": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6936": "New Nelson (John Haig)",
+                "1946": "Remembering The Kanji (James Heisig)",
+                "2096": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "11b2.1": "The Kanji Dictionary",
+                "1-2-11": "SKIP code",
+                "4702.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-40-23": "JIS X 0208-1997 kuten code",
+                "9ce9": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "やす"
+                ],
+                "chinese": [
+                    "jiu1"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "bird",
+            "parts": [
+                "九",
+                "杰",
+                "鳥"
+            ],
+            "basis": "鳥",
+            "kangxi_order": 196,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "鳩",
+                    "reading": "はと",
+                    "meanings": [
+                        "pigeon",
+                        "dove"
+                    ]
+                },
+                {
+                    "kanji": "鳩が豆鉄砲を食ったよう",
+                    "reading": "はとがまめでっぽうをくったよう",
+                    "meanings": [
+                        "like a pigeon who's been shot by a peashooter (i.e. wide-eyed in shock)"
+                    ]
+                },
+                {
+                    "kanji": "レース鳩",
+                    "reading": "レースはと",
+                    "meanings": [
+                        "racing pigeon",
+                        "homing pigeon"
+                    ]
+                },
+                {
+                    "kanji": "白鳩",
+                    "reading": "しろはと",
+                    "meanings": [
+                        "dove"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "鳩首",
+                    "reading": "キュウシュ",
+                    "meanings": [
+                        "going into a huddle"
+                    ]
+                },
+                {
+                    "kanji": "糾合",
+                    "reading": "キュウゴウ",
+                    "meanings": [
+                        "rally",
+                        "muster"
+                    ]
+                },
+                {
+                    "kanji": "鶚",
+                    "reading": "ミサゴ",
+                    "meanings": [
+                        "osprey (Pandion haliaetus)",
+                        "fish hawk"
+                    ]
+                },
+                {
+                    "kanji": "軍鳩",
+                    "reading": "グンキュウ",
+                    "meanings": [
+                        "carrier pigeon",
+                        "war pigeon"
+                    ]
+                },
+                {
+                    "kanji": "鳩槃荼",
+                    "reading": "クハンダ",
+                    "meanings": [
+                        "Kumbhanda",
+                        "demon with large testicles believed to drain people of their vitality"
+                    ]
+                }
+            ]
+        }
+    }
+}

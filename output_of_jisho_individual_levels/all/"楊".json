@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"楊\"",
+        "strokes": 13,
+        "main_meanings": [
+            "willow"
+        ],
+        "main_readings": {
+            "kun": [
+                "やなぎ"
+            ],
+            "on": [
+                "ヨウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "2321": "Classic Nelson (Andrew Nelson)",
+                "1898": "Japanese Names (P.G. O’Neill)",
+                "2122": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1286": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "699": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "933": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "15112": "Morohashi",
+                "2784": "New Nelson (John Haig)",
+                "2473": "Remembering The Kanji (James Heisig)",
+                "2539": "Remembering The Kanji, 6th edition (James Heisig)"
+            },
+            "classifications": {
+                "4a9.17": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "4692.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-44": "JIS X 0208-1997 kuten code",
+                "694a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "やな"
+                ],
+                "chinese": [
+                    "yang2"
+                ],
+                "korean": [
+                    "yang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "tree",
+            "parts": [
+                "一",
+                "日",
+                "木",
+                "勿"
+            ],
+            "basis": "木",
+            "kangxi_order": 75,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "柳",
+                    "reading": "やなぎ",
+                    "meanings": [
+                        "willow (any tree of genus Salix)",
+                        "weeping willow (Salix babylonica)"
+                    ]
+                },
+                {
+                    "kanji": "箱柳",
+                    "reading": "はこやなぎ",
+                    "meanings": [
+                        "Japanese aspen (Populus tremula var. sieboldii)"
+                    ]
+                },
+                {
+                    "kanji": "泥の木",
+                    "reading": "どろのき",
+                    "meanings": [
+                        "Japanese poplar (Populus maximowiczii)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "柳",
+                    "reading": "ヤナギ",
+                    "meanings": [
+                        "willow (any tree of genus Salix)",
+                        "weeping willow (Salix babylonica)"
+                    ]
+                },
+                {
+                    "kanji": "楊弓",
+                    "reading": "ヨウキュウ",
+                    "meanings": [
+                        "small toy bow that can be shot while sitting",
+                        "popular in the Edo period"
+                    ]
+                },
+                {
+                    "kanji": "垂楊",
+                    "reading": "スイヨウ",
+                    "meanings": [
+                        "weeping willow"
+                    ]
+                },
+                {
+                    "kanji": "箱柳",
+                    "reading": "ハコヤナギ",
+                    "meanings": [
+                        "Japanese aspen (Populus tremula var. sieboldii)"
+                    ]
+                }
+            ]
+        }
+    }
+}

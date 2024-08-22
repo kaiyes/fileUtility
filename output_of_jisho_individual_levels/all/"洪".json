@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"洪\"",
+        "strokes": 9,
+        "main_meanings": [
+            "deluge",
+            "flood",
+            "vast"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1252": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1918": "A New Dictionary of Kanji Usage",
+                "2544": "Classic Nelson (Andrew Nelson)",
+                "1833": "Essential Kanji (P.G. O’Neill)",
+                "1470": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "811": "Japanese Names (P.G. O’Neill)",
+                "1435": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1525": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1396": "Kanji in Context (Nishiguchi and Kono)",
+                "1186": "Kodansha Compact Kanji Guide",
+                "461": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "286": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "346": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1817": "Les Kanjis dans la tete (Yves Maniette)",
+                "17402": "Morohashi",
+                "386": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3123": "New Nelson (John Haig)",
+                "1799": "Remembering The Kanji (James Heisig)",
+                "1939": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1273": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "361": "2001 Kanji",
+                "3a6.14": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "3418.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-31": "JIS X 0208-1997 kuten code",
+                "6d2a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ほん"
+                ],
+                "chinese": [
+                    "hong2"
+                ],
+                "korean": [
+                    "hong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "一",
+                "｜",
+                "二",
+                "ハ",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "洪",
+                    "reading": "コウ",
+                    "meanings": [
+                        "Hungary"
+                    ]
+                },
+                {
+                    "kanji": "洪水",
+                    "reading": "コウズイ",
+                    "meanings": [
+                        "flood",
+                        "flooding"
+                    ]
+                }
+            ]
+        }
+    }
+}

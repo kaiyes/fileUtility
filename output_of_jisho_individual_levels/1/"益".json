@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"益\"",
+        "strokes": 10,
+        "main_meanings": [
+            "benefit",
+            "gain",
+            "profit",
+            "advantage"
+        ],
+        "main_readings": {
+            "kun": [
+                "ま.す"
+            ],
+            "on": [
+                "エキ",
+                "ヤク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "742": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "648": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "619": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "825": "A New Dictionary of Kanji Usage",
+                "597": "Classic Nelson (Andrew Nelson)",
+                "631": "Essential Kanji (P.G. O’Neill)",
+                "1553": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1201": "Japanese Names (P.G. O’Neill)",
+                "716": "Kanji and Kana (Spahn and Hadamitzky)",
+                "729": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "921": "Kanji in Context (Nishiguchi and Kono)",
+                "1370": "Kodansha Compact Kanji Guide",
+                "2849": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1468": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1978": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1899": "Les Kanjis dans la tete (Yves Maniette)",
+                "22972P": "Morohashi",
+                "2285": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3891": "New Nelson (John Haig)",
+                "1881": "Remembering The Kanji (James Heisig)",
+                "2026": "Remembering The Kanji, 6th edition (James Heisig)",
+                "707": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "974": "2001 Kanji",
+                "2o8.5": "The Kanji Dictionary",
+                "2-3-7": "SKIP code",
+                "2-5-5": "SKIP code",
+                "2-2-8": "SKIP code",
+                "8010.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-55": "JIS X 0208-1997 kuten code",
+                "76ca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "まし、 ます"
+                ],
+                "chinese": [
+                    "yi4"
+                ],
+                "korean": [
+                    "ig"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "dish",
+            "parts": [
+                "一",
+                "ハ",
+                "并",
+                "皿"
+            ],
+            "basis": "皿",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "益々",
+                    "reading": "ますます",
+                    "meanings": [
+                        "increasingly",
+                        "more and more",
+                        "decreasingly (when declining)",
+                        "less and less"
+                    ]
+                },
+                {
+                    "kanji": "増す",
+                    "reading": "ます",
+                    "meanings": [
+                        "to increase",
+                        "to grow"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "益",
+                    "reading": "エキ",
+                    "meanings": [
+                        "benefit",
+                        "use",
+                        "good",
+                        "advantage",
+                        "gain",
+                        "profit",
+                        "gains"
+                    ]
+                },
+                {
+                    "kanji": "益金",
+                    "reading": "エキキン",
+                    "meanings": [
+                        "profit"
+                    ]
+                },
+                {
+                    "kanji": "増益",
+                    "reading": "ゾウエキ",
+                    "meanings": [
+                        "increased (profit)"
+                    ]
+                },
+                {
+                    "kanji": "公益",
+                    "reading": "コウエキ",
+                    "meanings": [
+                        "public interest",
+                        "public benefit",
+                        "public good"
+                    ]
+                },
+                {
+                    "kanji": "益",
+                    "reading": "エキ",
+                    "meanings": [
+                        "benefit",
+                        "use",
+                        "good",
+                        "advantage",
+                        "gain",
+                        "profit",
+                        "gains"
+                    ]
+                },
+                {
+                    "kanji": "益体もない",
+                    "reading": "ヤクタイモナイ",
+                    "meanings": [
+                        "useless",
+                        "worthless",
+                        "silly",
+                        "trivial"
+                    ]
+                },
+                {
+                    "kanji": "現世利益",
+                    "reading": "ゲンセリヤク",
+                    "meanings": [
+                        "benefits gained in this world through observance of the Buddhist teachings",
+                        "happiness gained in this world through observance of the Buddhist teachings"
+                    ]
+                }
+            ]
+        }
+    }
+}

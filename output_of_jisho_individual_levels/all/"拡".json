@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"拡\"",
+        "strokes": 8,
+        "main_meanings": [
+            "broaden",
+            "extend",
+            "expand",
+            "enlarge"
+        ],
+        "main_readings": {
+            "kun": [
+                "ひろ.がる",
+                "ひろ.げる",
+                "ひろ.める"
+            ],
+            "on": [
+                "カク",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "747": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "835": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "820": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "625": "A New Dictionary of Kanji Usage",
+                "1876": "Classic Nelson (Andrew Nelson)",
+                "776": "Essential Kanji (P.G. O’Neill)",
+                "567": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "799": "Japanese Names (P.G. O’Neill)",
+                "1113": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1165": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "768": "Kanji in Context (Nishiguchi and Kono)",
+                "870": "Kodansha Compact Kanji Guide",
+                "366": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "229": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "273": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "748": "Les Kanjis dans la tete (Yves Maniette)",
+                "11985P": "Morohashi",
+                "309": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2118": "New Nelson (John Haig)",
+                "740": "Remembering The Kanji (James Heisig)",
+                "801": "Remembering The Kanji, 6th edition (James Heisig)",
+                "860": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1371": "2001 Kanji",
+                "3c5.25": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5003.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-40": "JIS X 0208-1997 kuten code",
+                "62e1": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "kuo4"
+                ],
+                "korean": [
+                    "hwag",
+                    "gwang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "厶",
+                "广",
+                "扎"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": [
+                "擴"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "広がる",
+                    "reading": "ひろがる",
+                    "meanings": [
+                        "to spread (out)",
+                        "to extend",
+                        "to stretch",
+                        "to reach to",
+                        "to get around",
+                        "to fill (e.g. a space)"
+                    ]
+                },
+                {
+                    "kanji": "広げる",
+                    "reading": "ひろげる",
+                    "meanings": [
+                        "to spread",
+                        "to extend",
+                        "to expand",
+                        "to enlarge",
+                        "to widen",
+                        "to broaden",
+                        "to unfold",
+                        "to open",
+                        "to unroll",
+                        "to unwrap",
+                        "to scatter about",
+                        "to spread around",
+                        "to make flourish",
+                        "to cause to prosper"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "拡充",
+                    "reading": "カクジュウ",
+                    "meanings": [
+                        "expansion"
+                    ]
+                },
+                {
+                    "kanji": "拡散",
+                    "reading": "カクサン",
+                    "meanings": [
+                        "spreading",
+                        "disseminating",
+                        "scattering",
+                        "diffusion (of light",
+                        "gas)"
+                    ]
+                },
+                {
+                    "kanji": "軍拡",
+                    "reading": "グンカク",
+                    "meanings": [
+                        "military expansion",
+                        "arms buildup"
+                    ]
+                }
+            ]
+        }
+    }
+}

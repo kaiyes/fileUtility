@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"犬\"",
+        "strokes": 4,
+        "main_meanings": [
+            "dog"
+        ],
+        "main_readings": {
+            "kun": [
+                "いぬ",
+                "いぬ-"
+            ],
+            "on": [
+                "ケン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "66": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "73": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "17": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1295": "Kodansha Compact Kanji Guide",
+                "2868": "Classic Nelson (Andrew Nelson)",
+                "578": "Essential Kanji (P.G. O’Neill)",
+                "216": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "107": "Japanese Names (P.G. O’Neill)",
+                "2.17": "Japanese for Busy People",
+                "280": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "319": "Kanji in Context (Nishiguchi and Kono)",
+                "4275": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2160": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2912": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "243": "Les Kanjis dans la tete (Yves Maniette)",
+                "20234": "Morohashi",
+                "3464": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3553": "New Nelson (John Haig)",
+                "238": "Remembering The Kanji (James Heisig)",
+                "253": "Remembering The Kanji, 6th edition (James Heisig)",
+                "29": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1463": "2001 Kanji",
+                "3g0.1": "The Kanji Dictionary",
+                "4-4-4": "SKIP code",
+                "4303.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-24-04": "JIS X 0208-1997 kuten code",
+                "72ac": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "quan3",
+                    "quan2"
+                ],
+                "korean": [
+                    "gyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "丶",
+                "大",
+                "犬"
+            ],
+            "basis": "犬",
+            "kangxi_order": 94,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "犬",
+                    "reading": "いぬ",
+                    "meanings": [
+                        "dog (Canis (lupus) familiaris)",
+                        "squealer",
+                        "rat",
+                        "snitch",
+                        "informer",
+                        "informant",
+                        "spy",
+                        "loser",
+                        "asshole",
+                        "counterfeit",
+                        "inferior",
+                        "useless",
+                        "wasteful"
+                    ]
+                },
+                {
+                    "kanji": "犬合わせ",
+                    "reading": "いぬあわせ",
+                    "meanings": [
+                        "dog fighting",
+                        "dog fight"
+                    ]
+                },
+                {
+                    "kanji": "野良犬",
+                    "reading": "のらいぬ",
+                    "meanings": [
+                        "stray dog"
+                    ]
+                },
+                {
+                    "kanji": "柴犬",
+                    "reading": "しばいぬ",
+                    "meanings": [
+                        "shiba inu (dog breed)",
+                        "shiba",
+                        "brushwood dog"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "犬猿の仲",
+                    "reading": "ケンエンノナカ",
+                    "meanings": [
+                        "like cats and dogs",
+                        "(on) very bad terms",
+                        "relationship of dogs and monkeys"
+                    ]
+                },
+                {
+                    "kanji": "犬猿",
+                    "reading": "ケンエン",
+                    "meanings": [
+                        "cats and dogs (as an example of a bad relationship)",
+                        "dogs and monkeys"
+                    ]
+                },
+                {
+                    "kanji": "柴犬",
+                    "reading": "シバイヌ",
+                    "meanings": [
+                        "shiba inu (dog breed)",
+                        "shiba",
+                        "brushwood dog"
+                    ]
+                },
+                {
+                    "kanji": "ポメラニア犬",
+                    "reading": "ポメラニアケン",
+                    "meanings": [
+                        "Pomeranian (dog)"
+                    ]
+                }
+            ]
+        }
+    }
+}

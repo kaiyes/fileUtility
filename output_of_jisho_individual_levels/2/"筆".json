@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"筆\"",
+        "strokes": 12,
+        "main_meanings": [
+            "writing brush",
+            "writing",
+            "painting brush",
+            "handwriting"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふで"
+            ],
+            "on": [
+                "ヒツ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "701": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "400": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "569": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "940": "A New Dictionary of Kanji Usage",
+                "3397": "Classic Nelson (Andrew Nelson)",
+                "69": "Essential Kanji (P.G. O’Neill)",
+                "794": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1769": "Japanese Names (P.G. O’Neill)",
+                "130": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "355": "Kanji in Context (Nishiguchi and Kono)",
+                "1481": "Kodansha Compact Kanji Guide",
+                "3317": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1718": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2335": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "952": "Les Kanjis dans la tete (Yves Maniette)",
+                "25987": "Morohashi",
+                "2677": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4288": "New Nelson (John Haig)",
+                "943": "Remembering The Kanji (James Heisig)",
+                "1014": "Remembering The Kanji, 6th edition (James Heisig)",
+                "410": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2355": "2001 Kanji",
+                "6f6.1": "The Kanji Dictionary",
+                "2-6-6": "SKIP code",
+                "8850.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-41-14": "JIS X 0208-1997 kuten code",
+                "7b46": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はじめ"
+                ],
+                "chinese": [
+                    "bi3"
+                ],
+                "korean": [
+                    "pil"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "竹",
+                "聿",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": [
+                "笔"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "筆",
+                    "reading": "ふで",
+                    "meanings": [
+                        "writing brush",
+                        "paintbrush",
+                        "pen",
+                        "writing with a brush",
+                        "drawing with a brush",
+                        "penmanship",
+                        "something drawn with a brush",
+                        "writing (composing text)",
+                        "the written word",
+                        "(land) lot",
+                        "plot"
+                    ]
+                },
+                {
+                    "kanji": "筆跡",
+                    "reading": "ひっせき",
+                    "meanings": [
+                        "handwriting",
+                        "calligraphy specimen",
+                        "example of penmanship",
+                        "holograph"
+                    ]
+                },
+                {
+                    "kanji": "面相筆",
+                    "reading": "めんそうふで",
+                    "meanings": [
+                        "fine-point brushes"
+                    ]
+                },
+                {
+                    "kanji": "焼き筆",
+                    "reading": "やきふで",
+                    "meanings": [
+                        "wooden stick with a burned tip (used to create underdrawings)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "筆",
+                    "reading": "フデ",
+                    "meanings": [
+                        "writing brush",
+                        "paintbrush",
+                        "pen",
+                        "writing with a brush",
+                        "drawing with a brush",
+                        "penmanship",
+                        "something drawn with a brush",
+                        "writing (composing text)",
+                        "the written word",
+                        "(land) lot",
+                        "plot"
+                    ]
+                },
+                {
+                    "kanji": "筆順",
+                    "reading": "ヒツジュン",
+                    "meanings": [
+                        "stroke order (esp. of a Chinese character)"
+                    ]
+                },
+                {
+                    "kanji": "自筆",
+                    "reading": "ジヒツ",
+                    "meanings": [
+                        "one's own handwriting",
+                        "autograph",
+                        "holograph"
+                    ]
+                },
+                {
+                    "kanji": "特筆",
+                    "reading": "トクヒツ",
+                    "meanings": [
+                        "special mention"
+                    ]
+                }
+            ]
+        }
+    }
+}

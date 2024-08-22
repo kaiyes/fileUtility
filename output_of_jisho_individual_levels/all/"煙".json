@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"煙\"",
+        "strokes": 13,
+        "main_meanings": [
+            "smoke"
+        ],
+        "main_readings": {
+            "kun": [
+                "けむ.る",
+                "けむり",
+                "けむ.い"
+            ],
+            "on": [
+                "エン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1027": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1147": "A New Dictionary of Kanji Usage",
+                "2784": "Classic Nelson (Andrew Nelson)",
+                "914": "Essential Kanji (P.G. O’Neill)",
+                "718": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "919": "Kanji and Kana (Spahn and Hadamitzky)",
+                "941": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1045": "Kanji in Context (Nishiguchi and Kono)",
+                "1269": "Kodansha Compact Kanji Guide",
+                "1294": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "700": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "936": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1626": "Les Kanjis dans la tete (Yves Maniette)",
+                "19203X": "Morohashi",
+                "1021": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3456": "New Nelson (John Haig)",
+                "1612": "Remembering The Kanji (James Heisig)",
+                "1739": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1645": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1172": "2001 Kanji",
+                "4d9.3": "The Kanji Dictionary",
+                "1-4-9": "SKIP code",
+                "1-1-12": "SKIP code",
+                "9181.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-17-76": "JIS X 0208-1997 kuten code",
+                "7159": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "たば"
+                ],
+                "chinese": [
+                    "yan1"
+                ],
+                "korean": [
+                    "yeon",
+                    "in"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "灬"
+            ],
+            "meaning": "fire",
+            "parts": [
+                "土",
+                "火",
+                "西"
+            ],
+            "basis": "火",
+            "kangxi_order": 86,
+            "variants": [
+                "烟"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "煙る",
+                    "reading": "けむる",
+                    "meanings": [
+                        "to smoke (e.g. fire)",
+                        "to billow smoke",
+                        "to smoulder",
+                        "to smolder",
+                        "to be hazy",
+                        "to look dim"
+                    ]
+                },
+                {
+                    "kanji": "煙",
+                    "reading": "けむり",
+                    "meanings": [
+                        "smoke",
+                        "fumes"
+                    ]
+                },
+                {
+                    "kanji": "煙感知器",
+                    "reading": "けむりかんちき",
+                    "meanings": [
+                        "smoke detector"
+                    ]
+                },
+                {
+                    "kanji": "黒煙",
+                    "reading": "こくえん",
+                    "meanings": [
+                        "black smoke"
+                    ]
+                },
+                {
+                    "kanji": "砂煙",
+                    "reading": "すなけむり",
+                    "meanings": [
+                        "cloud of sand (dust",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "煙い",
+                    "reading": "けむい",
+                    "meanings": [
+                        "smoky"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "煙突",
+                    "reading": "エントツ",
+                    "meanings": [
+                        "chimney",
+                        "smokestack",
+                        "funnel (of a ship)",
+                        "stovepipe",
+                        "carrying a passenger without turning on the taximeter"
+                    ]
+                },
+                {
+                    "kanji": "煙草",
+                    "reading": "タバコ",
+                    "meanings": [
+                        "tobacco",
+                        "cigarette",
+                        "cigar",
+                        "tobacco plant (Nicotiana tabacum)"
+                    ]
+                },
+                {
+                    "kanji": "噴煙",
+                    "reading": "フンエン",
+                    "meanings": [
+                        "(eruption of) smoke"
+                    ]
+                },
+                {
+                    "kanji": "黒煙",
+                    "reading": "コクエン",
+                    "meanings": [
+                        "black smoke"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"寝\"",
+        "strokes": 13,
+        "main_meanings": [
+            "lie down",
+            "sleep",
+            "rest",
+            "bed",
+            "remain unsold"
+        ],
+        "main_readings": {
+            "kun": [
+                "ね.る",
+                "ね.かす",
+                "い.ぬ",
+                "みたまや",
+                "や.める"
+            ],
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1441": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1079": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1326": "Classic Nelson (Andrew Nelson)",
+                "918": "Essential Kanji (P.G. O’Neill)",
+                "473": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1976": "Japanese Names (P.G. O’Neill)",
+                "1127": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "127": "Kanji in Context (Nishiguchi and Kono)",
+                "493": "Kodansha Compact Kanji Guide",
+                "2925": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1503": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2034": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1158": "Les Kanjis dans la tete (Yves Maniette)",
+                "7278P": "Morohashi",
+                "2329": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1353": "New Nelson (John Haig)",
+                "1150": "Remembering The Kanji (James Heisig)",
+                "1233": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1620": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "767": "2001 Kanji",
+                "3m10.1": "The Kanji Dictionary",
+                "2-3-10": "SKIP code",
+                "3014.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-18": "JIS X 0208-1997 kuten code",
+                "5bdd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "qin3"
+                ],
+                "korean": [
+                    "chim"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "roof",
+            "parts": [
+                "冖",
+                "又",
+                "宀",
+                "ヨ",
+                "爿"
+            ],
+            "basis": "宀",
+            "kangxi_order": 40,
+            "variants": [
+                "寢"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "寝る",
+                    "reading": "ねる",
+                    "meanings": [
+                        "to sleep (lying down)",
+                        "to go to bed",
+                        "to lie in bed",
+                        "to lie down",
+                        "to sleep (with someone",
+                        "i.e. have intercourse)",
+                        "to lie flat (e.g. of hair)",
+                        "to lie idle (of funds",
+                        "stock",
+                        "etc.)",
+                        "to ferment (of soy sauce",
+                        "miso",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "寝る子は育つ",
+                    "reading": "ねるこはそだつ",
+                    "meanings": [
+                        "sleep brings up a child well",
+                        "a well-slept child is a well-kept child"
+                    ]
+                },
+                {
+                    "kanji": "寝かす",
+                    "reading": "ねかす",
+                    "meanings": [
+                        "to put to bed",
+                        "to let sleep",
+                        "to lay (something) down",
+                        "to put on its side",
+                        "to let (money",
+                        "goods",
+                        "etc.) lie idle",
+                        "to set aside unused",
+                        "to let (stock) lie unsold",
+                        "to (let) ferment",
+                        "to (let) age",
+                        "to let (dough) rise",
+                        "to lay down (wine)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "寝",
+                    "reading": "ネ",
+                    "meanings": [
+                        "sleep"
+                    ]
+                },
+                {
+                    "kanji": "寝具",
+                    "reading": "シング",
+                    "meanings": [
+                        "bedding",
+                        "bedclothes"
+                    ]
+                }
+            ]
+        }
+    }
+}

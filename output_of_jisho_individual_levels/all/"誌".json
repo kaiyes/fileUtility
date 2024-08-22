@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"誌\"",
+        "strokes": 14,
+        "main_meanings": [
+            "document",
+            "records"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "891": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "880": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "950": "A New Dictionary of Kanji Usage",
+                "4366": "Classic Nelson (Andrew Nelson)",
+                "919": "Essential Kanji (P.G. O’Neill)",
+                "902": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2141": "Japanese Names (P.G. O’Neill)",
+                "574": "Kanji and Kana (Spahn and Hadamitzky)",
+                "583": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "524": "Kanji in Context (Nishiguchi and Kono)",
+                "1687": "Kodansha Compact Kanji Guide",
+                "1950": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1043": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1406": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "608": "Les Kanjis dans la tete (Yves Maniette)",
+                "35501": "Morohashi",
+                "1548": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5620": "New Nelson (John Haig)",
+                "601": "Remembering The Kanji (James Heisig)",
+                "646": "Remembering The Kanji, 6th edition (James Heisig)",
+                "974": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3058": "2001 Kanji",
+                "7a7.8": "The Kanji Dictionary",
+                "1-7-7": "SKIP code",
+                "0463.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-79": "JIS X 0208-1997 kuten code",
+                "8a8c": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "zhi4"
+                ],
+                "korean": [
+                    "ji"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "士",
+                "心",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "誌",
+                    "reading": "シ",
+                    "meanings": [
+                        "magazine"
+                    ]
+                },
+                {
+                    "kanji": "記す",
+                    "reading": "シルス",
+                    "meanings": [
+                        "to write down",
+                        "to note down",
+                        "to jot down",
+                        "to take a note of",
+                        "to mention",
+                        "to describe",
+                        "to give an account of",
+                        "to inscribe",
+                        "to mark",
+                        "to brand",
+                        "to remember",
+                        "to engrave (in one's mind)"
+                    ]
+                },
+                {
+                    "kanji": "風物詩",
+                    "reading": "フウブツシ",
+                    "meanings": [
+                        "feature of the season",
+                        "something characteristic of a particular season",
+                        "poem about natural scenery or a particular season"
+                    ]
+                },
+                {
+                    "kanji": "日誌",
+                    "reading": "ニッシ",
+                    "meanings": [
+                        "journal",
+                        "log"
+                    ]
+                }
+            ]
+        }
+    }
+}

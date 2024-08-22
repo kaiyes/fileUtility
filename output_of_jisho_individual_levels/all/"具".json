@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"具\"",
+        "strokes": 8,
+        "main_meanings": [
+            "tool",
+            "utensil",
+            "means",
+            "possess",
+            "ingredients",
+            "counter for armor",
+            "suits",
+            "sets of furniture"
+        ],
+        "main_readings": {
+            "kun": [
+                "そな.える",
+                "つぶさ.に"
+            ],
+            "on": [
+                "グ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "383": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "284": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "265": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "513": "A New Dictionary of Kanji Usage",
+                "3128": "Classic Nelson (Andrew Nelson)",
+                "400": "Essential Kanji (P.G. O’Neill)",
+                "344": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "718": "Japanese Names (P.G. O’Neill)",
+                "420": "Kanji and Kana (Spahn and Hadamitzky)",
+                "426": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "720": "Kanji in Context (Nishiguchi and Kono)",
+                "156": "Kodansha Compact Kanji Guide",
+                "3159": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1622": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2208": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "74": "Remembering The Kanji (James Heisig)",
+                "1473": "Morohashi",
+                "2552": "New Japanese English Character Dictionary (Jack Halpern)",
+                "376": "New Nelson (John Haig)",
+                "78": "Remembering The Kanji, 6th edition (James Heisig)",
+                "296": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3961": "2001 Kanji",
+                "5c3.1": "The Kanji Dictionary",
+                "2-5-3": "SKIP code",
+                "6080.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-81": "JIS X 0208-1997 kuten code",
+                "5177": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "とも"
+                ],
+                "chinese": [
+                    "ju4"
+                ],
+                "korean": [
+                    "gu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "eight",
+            "parts": [
+                "一",
+                "ハ",
+                "目"
+            ],
+            "basis": "八",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "備える",
+                    "reading": "そなえる",
+                    "meanings": [
+                        "to furnish with",
+                        "to equip with",
+                        "to provide",
+                        "to install",
+                        "to prepare for",
+                        "to make preparations for",
+                        "to make provision for",
+                        "to possess (all that is needed)",
+                        "to be endowed with",
+                        "to be equipped with",
+                        "to be born with",
+                        "to have since birth"
+                    ]
+                },
+                {
+                    "kanji": "具に",
+                    "reading": "つぶさに",
+                    "meanings": [
+                        "in detail",
+                        "with great care",
+                        "completely",
+                        "fully"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "具",
+                    "reading": "グ",
+                    "meanings": [
+                        "tool",
+                        "means",
+                        "ingredients (added to soup",
+                        "rice",
+                        "etc.)",
+                        "counter for sets of armor",
+                        "utensils",
+                        "furniture",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "具合",
+                    "reading": "グアイ",
+                    "meanings": [
+                        "condition",
+                        "state",
+                        "health",
+                        "state (of health)",
+                        "way",
+                        "manner",
+                        "circumstance",
+                        "luck",
+                        "face",
+                        "dignity",
+                        "decency",
+                        "propriety"
+                    ]
+                },
+                {
+                    "kanji": "文具",
+                    "reading": "ブング",
+                    "meanings": [
+                        "stationery"
+                    ]
+                },
+                {
+                    "kanji": "金具",
+                    "reading": "カナグ",
+                    "meanings": [
+                        "metal fittings",
+                        "metal fixtures"
+                    ]
+                }
+            ]
+        }
+    }
+}

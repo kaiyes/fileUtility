@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"較\"",
+        "strokes": 13,
+        "main_meanings": [
+            "contrast",
+            "compare"
+        ],
+        "main_readings": {
+            "kun": [
+                "くら.べる"
+            ],
+            "on": [
+                "カク",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1077": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1236": "A New Dictionary of Kanji Usage",
+                "4623": "Classic Nelson (Andrew Nelson)",
+                "1155": "Essential Kanji (P.G. O’Neill)",
+                "941": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1453": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1546": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "500": "Kanji in Context (Nishiguchi and Kono)",
+                "1777": "Kodansha Compact Kanji Guide",
+                "1939": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1034": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1397": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1285": "Les Kanjis dans la tete (Yves Maniette)",
+                "38297": "Morohashi",
+                "1536": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5959": "New Nelson (John Haig)",
+                "1277": "Remembering The Kanji (James Heisig)",
+                "1370": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1674": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1566": "2001 Kanji",
+                "7c6.3": "The Kanji Dictionary",
+                "1-7-6": "SKIP code",
+                "5004.8": "Four corner code"
+            },
+            "codepoints": {
+                "1-19-51": "JIS X 0208-1997 kuten code",
+                "8f03": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "jiao4",
+                    "jiao3"
+                ],
+                "korean": [
+                    "gyo",
+                    "gag"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "cart,",
+            "parts": [
+                "亠",
+                "父",
+                "車"
+            ],
+            "basis": "車",
+            "kangxi_order": 159,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "比べる",
+                    "reading": "くらべる",
+                    "meanings": [
+                        "to compare",
+                        "to make a comparison",
+                        "to compete",
+                        "to vie"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "較差",
+                    "reading": "カクサ",
+                    "meanings": [
+                        "range"
+                    ]
+                },
+                {
+                    "kanji": "較優位論",
+                    "reading": "カクユウイロン",
+                    "meanings": [
+                        "theory of comparative advantage"
+                    ]
+                },
+                {
+                    "kanji": "国際比較",
+                    "reading": "コクサイヒカク",
+                    "meanings": [
+                        "international comparison",
+                        "country-by-country comparison"
+                    ]
+                },
+                {
+                    "kanji": "直接比較",
+                    "reading": "チョクセツヒカク",
+                    "meanings": [
+                        "direct comparison"
+                    ]
+                },
+                {
+                    "kanji": "校正",
+                    "reading": "コウセイ",
+                    "meanings": [
+                        "proofreading",
+                        "calibration"
+                    ]
+                },
+                {
+                    "kanji": "較量",
+                    "reading": "コウリョウ",
+                    "meanings": [
+                        "comparison"
+                    ]
+                }
+            ]
+        }
+    }
+}

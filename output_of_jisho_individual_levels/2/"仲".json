@@ -1,0 +1,173 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"仲\"",
+        "strokes": 6,
+        "main_meanings": [
+            "go-between",
+            "relationship"
+        ],
+        "main_readings": {
+            "kun": [
+                "なか"
+            ],
+            "on": [
+                "チュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "571": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "934": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "892": "A New Dictionary of Kanji Usage",
+                "378": "Classic Nelson (Andrew Nelson)",
+                "1332": "Essential Kanji (P.G. O’Neill)",
+                "305": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "227": "Japanese Names (P.G. O’Neill)",
+                "1347": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1430": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1169": "Kanji in Context (Nishiguchi and Kono)",
+                "67": "Kodansha Compact Kanji Guide",
+                "47": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "27": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "28": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "965": "Les Kanjis dans la tete (Yves Maniette)",
+                "403": "Morohashi",
+                "43": "New Japanese English Character Dictionary (Jack Halpern)",
+                "140": "New Nelson (John Haig)",
+                "956": "Remembering The Kanji (James Heisig)",
+                "1029": "Remembering The Kanji, 6th edition (James Heisig)",
+                "468": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2155": "2001 Kanji",
+                "2a4.7": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2520.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-35-71": "JIS X 0208-1997 kuten code",
+                "4ef2": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ちゅん、 つづき、 なかつ"
+                ],
+                "chinese": [
+                    "zhong4"
+                ],
+                "korean": [
+                    "jung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "｜",
+                "化",
+                "口"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "仲",
+                    "reading": "なか",
+                    "meanings": [
+                        "relation",
+                        "relationship"
+                    ]
+                },
+                {
+                    "kanji": "仲間",
+                    "reading": "なかま",
+                    "meanings": [
+                        "companion",
+                        "fellow",
+                        "friend",
+                        "mate",
+                        "comrade",
+                        "partner",
+                        "colleague",
+                        "coworker",
+                        "associate",
+                        "group",
+                        "company",
+                        "circle",
+                        "set",
+                        "gang",
+                        "member of the same category (family",
+                        "class)"
+                    ]
+                },
+                {
+                    "kanji": "不仲",
+                    "reading": "ふなか",
+                    "meanings": [
+                        "discord",
+                        "(on) bad terms (with)"
+                    ]
+                },
+                {
+                    "kanji": "犬猿の仲",
+                    "reading": "けんえんのなか",
+                    "meanings": [
+                        "like cats and dogs",
+                        "(on) very bad terms",
+                        "relationship of dogs and monkeys"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "中核",
+                    "reading": "チュウカク",
+                    "meanings": [
+                        "kernel",
+                        "core",
+                        "nucleus",
+                        "center",
+                        "centre"
+                    ]
+                },
+                {
+                    "kanji": "仲介",
+                    "reading": "チュウカイ",
+                    "meanings": [
+                        "agency",
+                        "intermediation"
+                    ]
+                },
+                {
+                    "kanji": "保革伯仲",
+                    "reading": "ホカクハクチュウ",
+                    "meanings": [
+                        "conservatives and reformists being neck and neck",
+                        "balanced conservative and progressive strengths"
+                    ]
+                },
+                {
+                    "kanji": "勢力伯仲",
+                    "reading": "セイリョクハクチュウ",
+                    "meanings": [
+                        "(the two sides) being evenly-matched in influence or power"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"縄\"",
+        "strokes": 15,
+        "main_meanings": [
+            "straw rope",
+            "cord"
+        ],
+        "main_readings": {
+            "kun": [
+                "なわ",
+                "ただ.す"
+            ],
+            "on": [
+                "ジョウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1420": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1005": "A New Dictionary of Kanji Usage",
+                "3568": "Classic Nelson (Andrew Nelson)",
+                "1642": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2653": "Japanese Names (P.G. O’Neill)",
+                "1760": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1890": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1568": "Kanji in Context (Nishiguchi and Kono)",
+                "1550": "Kodansha Compact Kanji Guide",
+                "1756": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "942": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1271": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1389": "Les Kanjis dans la tete (Yves Maniette)",
+                "27729": "Morohashi",
+                "1388": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4547": "New Nelson (John Haig)",
+                "1377": "Remembering The Kanji (James Heisig)",
+                "1477": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1793": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "6a9.1": "The Kanji Dictionary",
+                "1-6-9": "SKIP code",
+                "2691.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-38-76": "JIS X 0208-1997 kuten code",
+                "7e04": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "sheng2"
+                ],
+                "korean": [
+                    "seung"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "乙",
+                "勹",
+                "小",
+                "幺",
+                "田",
+                "糸",
+                "亀"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": [
+                "繩"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "縄",
+                    "reading": "なわ",
+                    "meanings": [
+                        "rope",
+                        "cord",
+                        "policeman's rope"
+                    ]
+                },
+                {
+                    "kanji": "縄張り",
+                    "reading": "なわばり",
+                    "meanings": [
+                        "stretching a rope around",
+                        "roping off",
+                        "cordoning off",
+                        "demarcation",
+                        "one's turf",
+                        "domain",
+                        "territory",
+                        "jurisdiction",
+                        "sphere of influence",
+                        "territory (of an animal)"
+                    ]
+                },
+                {
+                    "kanji": "腰縄",
+                    "reading": "こしなわ",
+                    "meanings": [
+                        "leash",
+                        "rope tied round prisoner's waists"
+                    ]
+                },
+                {
+                    "kanji": "延縄",
+                    "reading": "はえなわ",
+                    "meanings": [
+                        "longline"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "縄文",
+                    "reading": "ジョウモン",
+                    "meanings": [
+                        "straw-rope pattern pressed into earthenware",
+                        "Jōmon period (ca. 14000-1000 BCE)"
+                    ]
+                },
+                {
+                    "kanji": "縄鏢",
+                    "reading": "ジョウヒョウ",
+                    "meanings": [
+                        "rope dart",
+                        "rope javelin"
+                    ]
+                },
+                {
+                    "kanji": "絞縄",
+                    "reading": "コウジョウ",
+                    "meanings": [
+                        "hangman's noose",
+                        "halter",
+                        "rope to hang a criminal"
+                    ]
+                },
+                {
+                    "kanji": "結縄",
+                    "reading": "ケツジョウ",
+                    "meanings": [
+                        "knotted cord or rope",
+                        "quipu",
+                        "quippu"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"偏\"",
+        "strokes": 11,
+        "main_meanings": [
+            "partial",
+            "side",
+            "left-side radical",
+            "inclining",
+            "biased"
+        ],
+        "main_readings": {
+            "kun": [
+                "かたよ.る"
+            ],
+            "on": [
+                "ヘン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1782": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1649": "A New Dictionary of Kanji Usage",
+                "511": "Classic Nelson (Andrew Nelson)",
+                "1260": "Essential Kanji (P.G. O’Neill)",
+                "1059": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1273": "Japanese Names (P.G. O’Neill)",
+                "1159": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1214": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1176": "Kanji in Context (Nishiguchi and Kono)",
+                "122": "Kodansha Compact Kanji Guide",
+                "151": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "101": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "116": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1840": "Les Kanjis dans la tete (Yves Maniette)",
+                "848X": "Morohashi",
+                "133": "New Japanese English Character Dictionary (Jack Halpern)",
+                "277": "New Nelson (John Haig)",
+                "1823": "Remembering The Kanji (James Heisig)",
+                "1964": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1411": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2153": "2001 Kanji",
+                "2a9.16": "The Kanji Dictionary",
+                "1-2-9": "SKIP code",
+                "2322.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-48": "JIS X 0208-1997 kuten code",
+                "504f": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "pian1"
+                ],
+                "korean": [
+                    "pyeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "一",
+                "｜",
+                "化",
+                "冂",
+                "尸",
+                "廾",
+                "戸",
+                "冊"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "偏る",
+                    "reading": "かたよる",
+                    "meanings": [
+                        "to lean (to one side)",
+                        "to incline",
+                        "to be unbalanced (e.g. diet)",
+                        "to be unduly weighted towards",
+                        "to be concentrated on",
+                        "to be partial",
+                        "to be biased",
+                        "to be prejudiced"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "偏",
+                    "reading": "ヘン",
+                    "meanings": [
+                        "left-hand radical of a character"
+                    ]
+                },
+                {
+                    "kanji": "偏見",
+                    "reading": "ヘンケン",
+                    "meanings": [
+                        "prejudice",
+                        "bias",
+                        "distorted view"
+                    ]
+                },
+                {
+                    "kanji": "普遍",
+                    "reading": "フヘン",
+                    "meanings": [
+                        "universal",
+                        "general",
+                        "ubiquitous",
+                        "omnipresent"
+                    ]
+                },
+                {
+                    "kanji": "貝偏",
+                    "reading": "カイヘン",
+                    "meanings": [
+                        "kanji \"shell\" radical at left"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"放\"",
+        "strokes": 8,
+        "main_meanings": [
+            "set free",
+            "release",
+            "fire",
+            "shoot",
+            "emit",
+            "banish",
+            "liberate"
+        ],
+        "main_readings": {
+            "kun": [
+                "はな.す",
+                "-っぱな.し",
+                "はな.つ",
+                "はな.れる",
+                "こ.く",
+                "ほう.る"
+            ],
+            "on": [
+                "ホウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "512": "Kanji and Kana (Spahn and Hadamitzky)",
+                "414": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "391": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "282": "A New Dictionary of Kanji Usage",
+                "2084": "Classic Nelson (Andrew Nelson)",
+                "287": "Essential Kanji (P.G. O’Neill)",
+                "585": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "606": "Japanese Names (P.G. O’Neill)",
+                "521": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "723": "Kanji in Context (Nishiguchi and Kono)",
+                "935": "Kodansha Compact Kanji Guide",
+                "1058": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "570": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "754": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "507": "Les Kanjis dans la tete (Yves Maniette)",
+                "13133": "Morohashi",
+                "853": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2333": "New Nelson (John Haig)",
+                "496": "Remembering The Kanji (James Heisig)",
+                "535": "Remembering The Kanji, 6th edition (James Heisig)",
+                "325": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "314": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "466": "2001 Kanji",
+                "4h4.1": "The Kanji Dictionary",
+                "1-4-4": "SKIP code",
+                "0824.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-42-92": "JIS X 0208-1997 kuten code",
+                "653e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はなれ"
+                ],
+                "chinese": [
+                    "fang4"
+                ],
+                "korean": [
+                    "bang"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "攵"
+            ],
+            "meaning": "rap",
+            "parts": [
+                "方",
+                "乞",
+                "攵"
+            ],
+            "basis": "攴",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "放す",
+                    "reading": "はなす",
+                    "meanings": [
+                        "to release",
+                        "to let go",
+                        "to free",
+                        "to set free",
+                        "to let loose",
+                        "to turn loose",
+                        "to add (pieces of eggplant",
+                        "potato",
+                        "etc.) to water",
+                        "broth",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "放つ",
+                    "reading": "はなつ",
+                    "meanings": [
+                        "to fire (gun",
+                        "arrow",
+                        "questions",
+                        "etc.)",
+                        "to shoot",
+                        "to hit (e.g. baseball)",
+                        "to break wind",
+                        "to set free",
+                        "to release",
+                        "to let loose",
+                        "to emit (e.g. light)",
+                        "to give off (e.g. a scent)",
+                        "to send out (a person to carry out a duty)",
+                        "to set fire to"
+                    ]
+                },
+                {
+                    "kanji": "放れる",
+                    "reading": "はなれる",
+                    "meanings": [
+                        "to get free (from)",
+                        "to be freed",
+                        "to be released"
+                    ]
+                },
+                {
+                    "kanji": "放く",
+                    "reading": "こく",
+                    "meanings": [
+                        "to expel (from the body)",
+                        "to let off (a fart)",
+                        "to let out",
+                        "to utter (a lie",
+                        "nonsense",
+                        "etc.)",
+                        "to say",
+                        "to do"
+                    ]
+                },
+                {
+                    "kanji": "放る",
+                    "reading": "ほうる",
+                    "meanings": [
+                        "to throw",
+                        "to fling",
+                        "to hurl",
+                        "to toss",
+                        "to neglect",
+                        "to abandon",
+                        "to leave alone",
+                        "to give up on",
+                        "to leave undone",
+                        "to leave unfinished"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "放火",
+                    "reading": "ホウカ",
+                    "meanings": [
+                        "arson",
+                        "setting fire"
+                    ]
+                },
+                {
+                    "kanji": "放映",
+                    "reading": "ホウエイ",
+                    "meanings": [
+                        "televising",
+                        "broadcasting",
+                        "airing"
+                    ]
+                },
+                {
+                    "kanji": "豪放",
+                    "reading": "ゴウホウ",
+                    "meanings": [
+                        "largehearted",
+                        "frank",
+                        "unaffected"
+                    ]
+                },
+                {
+                    "kanji": "性解放",
+                    "reading": "セイカイホウ",
+                    "meanings": [
+                        "sexual liberation",
+                        "emancipation from gender restrictions"
+                    ]
+                }
+            ]
+        }
+    }
+}

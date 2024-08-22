@@ -1,0 +1,140 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"箇\"",
+        "strokes": 14,
+        "main_meanings": [
+            "counter for articles"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "カ",
+                "コ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1054": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1943": "A New Dictionary of Kanji Usage",
+                "3414": "Classic Nelson (Andrew Nelson)",
+                "1860": "Essential Kanji (P.G. O’Neill)",
+                "1605": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2216": "Japanese Names (P.G. O’Neill)",
+                "1473": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1570": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1682": "Kanji in Context (Nishiguchi and Kono)",
+                "1483": "Kodansha Compact Kanji Guide",
+                "3348": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1735": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2356": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2048": "Les Kanjis dans la tete (Yves Maniette)",
+                "26116": "Morohashi",
+                "2700": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4315": "New Nelson (John Haig)",
+                "2029": "Remembering The Kanji (James Heisig)",
+                "2185": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1721": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2377": "2001 Kanji",
+                "6f8.15": "The Kanji Dictionary",
+                "2-6-8": "SKIP code",
+                "8860.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-53": "JIS X 0208-1997 kuten code",
+                "7b87": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ge4"
+                ],
+                "korean": [
+                    "gae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "⺮"
+            ],
+            "meaning": "bamboo",
+            "parts": [
+                "十",
+                "口",
+                "囗",
+                "竹",
+                "乞"
+            ],
+            "basis": "竹",
+            "kangxi_order": 118,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "箇",
+                    "reading": "カ",
+                    "meanings": [
+                        "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted)",
+                        "a noun read using its on-yomi"
+                    ]
+                },
+                {
+                    "kanji": "箇所",
+                    "reading": "カショ",
+                    "meanings": [
+                        "place",
+                        "point",
+                        "part",
+                        "spot",
+                        "area",
+                        "passage",
+                        "portion",
+                        "counter for places",
+                        "parts",
+                        "passages",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "個",
+                    "reading": "コ",
+                    "meanings": [
+                        "counter for articles",
+                        "counter for military units",
+                        "individual"
+                    ]
+                },
+                {
+                    "kanji": "個々",
+                    "reading": "ココ",
+                    "meanings": [
+                        "individual",
+                        "one by one",
+                        "separate",
+                        "each"
+                    ]
+                },
+                {
+                    "kanji": "真箇",
+                    "reading": "シンコ",
+                    "meanings": [
+                        "real",
+                        "true"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"訂\"",
+        "strokes": 9,
+        "main_meanings": [
+            "revise",
+            "correct",
+            "decide"
+        ],
+        "main_readings": {
+            "kun": [
+                "ただ.す"
+            ],
+            "on": [
+                "テイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1617": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1586": "A New Dictionary of Kanji Usage",
+                "4310": "Classic Nelson (Andrew Nelson)",
+                "1134": "Essential Kanji (P.G. O’Neill)",
+                "1739": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "894": "Japanese Names (P.G. O’Neill)",
+                "1019": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1058": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1206": "Kanji in Context (Nishiguchi and Kono)",
+                "1659": "Kodansha Compact Kanji Guide",
+                "1829": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "966": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1310": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "345": "Les Kanjis dans la tete (Yves Maniette)",
+                "35211": "Morohashi",
+                "1442": "New Japanese English Character Dictionary (Jack Halpern)",
+                "5553": "New Nelson (John Haig)",
+                "339": "Remembering The Kanji (James Heisig)",
+                "362": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1294": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3053": "2001 Kanji",
+                "7a2.3": "The Kanji Dictionary",
+                "1-7-2": "SKIP code",
+                "0162.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-36-91": "JIS X 0208-1997 kuten code",
+                "8a02": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ding4"
+                ],
+                "korean": [
+                    "jeong"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "訁"
+            ],
+            "meaning": "speech",
+            "parts": [
+                "一",
+                "亅",
+                "言"
+            ],
+            "basis": "言",
+            "kangxi_order": 149,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "訂す",
+                    "reading": "ただす",
+                    "meanings": [
+                        "to correct (a typo",
+                        "etc.)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "訂正",
+                    "reading": "テイセイ",
+                    "meanings": [
+                        "correction",
+                        "revision",
+                        "amendment"
+                    ]
+                },
+                {
+                    "kanji": "訂する",
+                    "reading": "テイスル",
+                    "meanings": [
+                        "to correct"
+                    ]
+                },
+                {
+                    "kanji": "装丁",
+                    "reading": "ソウテイ",
+                    "meanings": [
+                        "binding (of a book)",
+                        "design (of a book cover)"
+                    ]
+                },
+                {
+                    "kanji": "大改訂",
+                    "reading": "ダイカイテイ",
+                    "meanings": [
+                        "major revision"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"狭\"",
+        "strokes": 9,
+        "main_meanings": [
+            "cramped",
+            "narrow",
+            "contract",
+            "tight"
+        ],
+        "main_readings": {
+            "kun": [
+                "せま.い",
+                "せば.める",
+                "せば.まる",
+                "さ"
+            ],
+            "on": [
+                "キョウ",
+                "コウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1166": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1370": "A New Dictionary of Kanji Usage",
+                "2882": "Classic Nelson (Andrew Nelson)",
+                "1413": "Essential Kanji (P.G. O’Neill)",
+                "729": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "790": "Japanese Names (P.G. O’Neill)",
+                "1353": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1436": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "560": "Kanji in Context (Nishiguchi and Kono)",
+                "1301": "Kodansha Compact Kanji Guide",
+                "473": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "294": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "355": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1274": "Les Kanjis dans la tete (Yves Maniette)",
+                "20406P": "Morohashi",
+                "396": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3572": "New Nelson (John Haig)",
+                "1266": "Remembering The Kanji (James Heisig)",
+                "1356": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1279": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2963": "2001 Kanji",
+                "3g6.2": "The Kanji Dictionary",
+                "1-3-6": "SKIP code",
+                "4523.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-22-25": "JIS X 0208-1997 kuten code",
+                "72ed": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "はざ"
+                ],
+                "chinese": [
+                    "xia2"
+                ],
+                "korean": [
+                    "hyeob"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "犭"
+            ],
+            "meaning": "dog",
+            "parts": [
+                "丶",
+                "二",
+                "亠",
+                "人",
+                "并",
+                "大",
+                "犯"
+            ],
+            "basis": "犬",
+            "kangxi_order": 94,
+            "variants": [
+                "狹"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "狭い",
+                    "reading": "せまい",
+                    "meanings": [
+                        "narrow",
+                        "confined",
+                        "small",
+                        "cramped",
+                        "limited",
+                        "narrow-minded",
+                        "confining"
+                    ]
+                },
+                {
+                    "kanji": "狭める",
+                    "reading": "せばめる",
+                    "meanings": [
+                        "to narrow",
+                        "to reduce",
+                        "to contract"
+                    ]
+                },
+                {
+                    "kanji": "狭まる",
+                    "reading": "せばまる",
+                    "meanings": [
+                        "to narrow",
+                        "to contract"
+                    ]
+                },
+                {
+                    "kanji": "狭",
+                    "reading": "さ",
+                    "meanings": [
+                        "narrow",
+                        "thin"
+                    ]
+                },
+                {
+                    "kanji": "狭霧",
+                    "reading": "さぎり",
+                    "meanings": [
+                        "mist",
+                        "fog"
+                    ]
+                },
+                {
+                    "kanji": "若狭",
+                    "reading": "わかさ",
+                    "meanings": [
+                        "Wakasa (former province located in the south of present-day Fukui Prefecture)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "狭心症",
+                    "reading": "キョウシンショウ",
+                    "meanings": [
+                        "angina pectoris"
+                    ]
+                },
+                {
+                    "kanji": "狭義",
+                    "reading": "キョウギ",
+                    "meanings": [
+                        "narrow sense (e.g. of a word)"
+                    ]
+                },
+                {
+                    "kanji": "偏狭",
+                    "reading": "ヘンキョウ",
+                    "meanings": [
+                        "narrow-mindedness",
+                        "intolerance",
+                        "illiberality",
+                        "narrowness"
+                    ]
+                },
+                {
+                    "kanji": "広狭",
+                    "reading": "コウキョウ",
+                    "meanings": [
+                        "width",
+                        "width and narrowness"
+                    ]
+                }
+            ]
+        }
+    }
+}

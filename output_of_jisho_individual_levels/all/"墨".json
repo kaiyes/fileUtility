@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"墨\"",
+        "strokes": 14,
+        "main_meanings": [
+            "black ink",
+            "India ink",
+            "ink stick",
+            "Mexico"
+        ],
+        "main_readings": {
+            "kun": [
+                "すみ"
+            ],
+            "on": [
+                "ボク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1821": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1431": "A New Dictionary of Kanji Usage",
+                "5404": "Classic Nelson (Andrew Nelson)",
+                "1494": "Essential Kanji (P.G. O’Neill)",
+                "1167": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "2230": "Japanese Names (P.G. O’Neill)",
+                "1705": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1695": "Kanji in Context (Nishiguchi and Kono)",
+                "363": "Kodansha Compact Kanji Guide",
+                "3423": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1763": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2400": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "177": "Les Kanjis dans la tete (Yves Maniette)",
+                "5469X": "Morohashi",
+                "2753": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1086": "New Nelson (John Haig)",
+                "175": "Remembering The Kanji (James Heisig)",
+                "187": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1696": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3672": "2001 Kanji",
+                "3b11.4": "The Kanji Dictionary",
+                "2-7-7": "SKIP code",
+                "6010.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-43-47": "JIS X 0208-1997 kuten code",
+                "58a8": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "すの"
+                ],
+                "chinese": [
+                    "mo4"
+                ],
+                "korean": [
+                    "mug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "earth",
+            "parts": [
+                "土",
+                "杰",
+                "里",
+                "黒"
+            ],
+            "basis": "土",
+            "kangxi_order": null,
+            "variants": [
+                "墨"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "墨",
+                    "reading": "すみ",
+                    "meanings": [
+                        "sumi",
+                        "India ink",
+                        "Chinese ink",
+                        "ink stick",
+                        "ink-cake",
+                        "squid ink",
+                        "octopus ink",
+                        "carpenter's inking string"
+                    ]
+                },
+                {
+                    "kanji": "墨付き",
+                    "reading": "すみつき",
+                    "meanings": [
+                        "certificate",
+                        "certified document",
+                        "authorization",
+                        "authorisation",
+                        "(the) thumbs up",
+                        "seal of approval",
+                        "paper with signature of the shogun or lord"
+                    ]
+                },
+                {
+                    "kanji": "烏賊墨",
+                    "reading": "いかすみ",
+                    "meanings": [
+                        "squid ink"
+                    ]
+                },
+                {
+                    "kanji": "雪と墨",
+                    "reading": "ゆきとすみ",
+                    "meanings": [
+                        "diametric opposites",
+                        "night and day",
+                        "black and white",
+                        "snow and ink"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "墨",
+                    "reading": "ボク",
+                    "meanings": [
+                        "Mexico",
+                        "Mohism",
+                        "ink",
+                        "tattooing (as a form of punishment in ancient China)"
+                    ]
+                },
+                {
+                    "kanji": "墨書",
+                    "reading": "ボクショ",
+                    "meanings": [
+                        "writing in India ink"
+                    ]
+                },
+                {
+                    "kanji": "遺墨",
+                    "reading": "イボク",
+                    "meanings": [
+                        "autographs (brushwork) of departed person"
+                    ]
+                },
+                {
+                    "kanji": "水墨",
+                    "reading": "スイボク",
+                    "meanings": [
+                        "water and ink",
+                        "ink painting"
+                    ]
+                }
+            ]
+        }
+    }
+}

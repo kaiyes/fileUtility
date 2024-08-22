@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"湾\"",
+        "strokes": 12,
+        "main_meanings": [
+            "gulf",
+            "bay",
+            "inlet"
+        ],
+        "main_readings": {
+            "kun": [
+                "いりえ"
+            ],
+            "on": [
+                "ワン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1944": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1028": "A New Dictionary of Kanji Usage",
+                "2627": "Classic Nelson (Andrew Nelson)",
+                "1136": "Essential Kanji (P.G. O’Neill)",
+                "701": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1849": "Japanese Names (P.G. O’Neill)",
+                "670": "Kanji and Kana (Spahn and Hadamitzky)",
+                "681": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "910": "Kanji in Context (Nishiguchi and Kono)",
+                "1228": "Kodansha Compact Kanji Guide",
+                "748": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "447": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "562": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1765": "Les Kanjis dans la tete (Yves Maniette)",
+                "17920": "Morohashi",
+                "613": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3239": "New Nelson (John Haig)",
+                "1749": "Remembering The Kanji (James Heisig)",
+                "1886": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1562": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "352": "2001 Kanji",
+                "3a9.15": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "3012.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-47-49": "JIS X 0208-1997 kuten code",
+                "6e7e": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "wan1"
+                ],
+                "korean": [
+                    "man"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "亠",
+                "弓",
+                "汁"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "灣"
+            ]
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "湾",
+                    "reading": "ワン",
+                    "meanings": [
+                        "bay",
+                        "gulf",
+                        "inlet"
+                    ]
+                },
+                {
+                    "kanji": "湾岸",
+                    "reading": "ワンガン",
+                    "meanings": [
+                        "gulf coast",
+                        "bay coast"
+                    ]
+                },
+                {
+                    "kanji": "メキシコ湾",
+                    "reading": "メキシコワン",
+                    "meanings": [
+                        "Gulf of Mexico"
+                    ]
+                },
+                {
+                    "kanji": "内湾",
+                    "reading": "ナイワン",
+                    "meanings": [
+                        "enclosed bay",
+                        "inlet",
+                        "deep bay",
+                        "basin"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"押\"",
+        "strokes": 8,
+        "main_meanings": [
+            "push",
+            "stop",
+            "check",
+            "subdue",
+            "attach",
+            "seize",
+            "weight",
+            "shove",
+            "press",
+            "seal",
+            "do in spite of"
+        ],
+        "main_readings": {
+            "kun": [
+                "お.す",
+                "お.し-",
+                "お.っ-",
+                "お.さえる",
+                "おさ.える"
+            ],
+            "on": [
+                "オウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1033": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "587": "Japanese Names (P.G. O’Neill)",
+                "1885": "Classic Nelson (Andrew Nelson)",
+                "1632": "Essential Kanji (P.G. O’Neill)",
+                "563": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "986": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1021": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "256": "Kanji in Context (Nishiguchi and Kono)",
+                "868": "Kodansha Compact Kanji Guide",
+                "371": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "234": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "278": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1123": "Les Kanjis dans la tete (Yves Maniette)",
+                "11929": "Morohashi",
+                "314": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2128": "New Nelson (John Haig)",
+                "1114": "Remembering The Kanji (James Heisig)",
+                "1195": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1175": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1355": "2001 Kanji",
+                "3c5.5": "The Kanji Dictionary",
+                "1-3-5": "SKIP code",
+                "5605.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-18-01": "JIS X 0208-1997 kuten code",
+                "62bc": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おし、 おす、 おや"
+                ],
+                "chinese": [
+                    "ya1",
+                    "ya2"
+                ],
+                "korean": [
+                    "ab",
+                    "gab"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "｜",
+                "扎",
+                "日",
+                "田"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "押す",
+                    "reading": "おす",
+                    "meanings": [
+                        "to push",
+                        "to thrust",
+                        "to shove",
+                        "to press (down)",
+                        "to push (e.g. a button)",
+                        "to exert pressure on",
+                        "to stamp (e.g. one's name)",
+                        "to affix (a seal)",
+                        "to affix (e.g. gold leaf)",
+                        "to push (someone for something)",
+                        "to press",
+                        "to put pressure on (someone)",
+                        "to overwhelm",
+                        "to overpower",
+                        "to put (someone) under pressure",
+                        "to be superior to",
+                        "to push ahead (with a policy",
+                        "plan",
+                        "etc.)",
+                        "to proceed",
+                        "to stick to",
+                        "to do ... in spite of ...",
+                        "to defy",
+                        "to brave",
+                        "to push aside",
+                        "to make sure",
+                        "to fall behind schedule"
+                    ]
+                },
+                {
+                    "kanji": "押忍",
+                    "reading": "おっす",
+                    "meanings": [
+                        "hi!",
+                        "yo!",
+                        "hey man!",
+                        "hey dude!",
+                        "yessir!",
+                        "understood!"
+                    ]
+                },
+                {
+                    "kanji": "押さえる",
+                    "reading": "おさえる",
+                    "meanings": [
+                        "to pin down",
+                        "to hold down",
+                        "to press down",
+                        "to hold in place",
+                        "to hold steady",
+                        "to cover (esp. a part of one's body with one's hand)",
+                        "to clutch (a body part in pain)",
+                        "to press (a body part)",
+                        "to get a hold of",
+                        "to obtain",
+                        "to seize",
+                        "to catch",
+                        "to arrest",
+                        "to grasp (a point)",
+                        "to comprehend",
+                        "to quell",
+                        "to subdue",
+                        "to suppress",
+                        "to repress",
+                        "to hold back",
+                        "to check",
+                        "to curb",
+                        "to contain"
+                    ]
+                },
+                {
+                    "kanji": "押さえる",
+                    "reading": "おさえる",
+                    "meanings": [
+                        "to pin down",
+                        "to hold down",
+                        "to press down",
+                        "to hold in place",
+                        "to hold steady",
+                        "to cover (esp. a part of one's body with one's hand)",
+                        "to clutch (a body part in pain)",
+                        "to press (a body part)",
+                        "to get a hold of",
+                        "to obtain",
+                        "to seize",
+                        "to catch",
+                        "to arrest",
+                        "to grasp (a point)",
+                        "to comprehend",
+                        "to quell",
+                        "to subdue",
+                        "to suppress",
+                        "to repress",
+                        "to hold back",
+                        "to check",
+                        "to curb",
+                        "to contain"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "押収",
+                    "reading": "オウシュウ",
+                    "meanings": [
+                        "seizure",
+                        "confiscation"
+                    ]
+                },
+                {
+                    "kanji": "押印",
+                    "reading": "オウイン",
+                    "meanings": [
+                        "affixing a seal (to)",
+                        "putting one's seal (on)"
+                    ]
+                },
+                {
+                    "kanji": "花押",
+                    "reading": "カオウ",
+                    "meanings": [
+                        "written seal",
+                        "stylized signature"
+                    ]
+                }
+            ]
+        }
+    }
+}

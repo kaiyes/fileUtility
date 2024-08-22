@@ -1,0 +1,136 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"級\"",
+        "strokes": 9,
+        "main_meanings": [
+            "class",
+            "rank",
+            "grade"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "187": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "273": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "255": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "505": "A New Dictionary of Kanji Usage",
+                "3496": "Classic Nelson (Andrew Nelson)",
+                "228": "Essential Kanji (P.G. O’Neill)",
+                "811": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1680": "Japanese Names (P.G. O’Neill)",
+                "568": "Kanji and Kana (Spahn and Hadamitzky)",
+                "577": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "410": "Kanji in Context (Nishiguchi and Kono)",
+                "1513": "Kodansha Compact Kanji Guide",
+                "1630": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "859": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1175": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1365": "Les Kanjis dans la tete (Yves Maniette)",
+                "27258P": "Morohashi",
+                "1279": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4437": "New Nelson (John Haig)",
+                "1353": "Remembering The Kanji (James Heisig)",
+                "1453": "Remembering The Kanji, 6th edition (James Heisig)",
+                "373": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "323": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2767": "2001 Kanji",
+                "6a3.2": "The Kanji Dictionary",
+                "1-6-3": "SKIP code",
+                "1-6-4": "SKIP code",
+                "2794.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-73": "JIS X 0208-1997 kuten code",
+                "7d1a": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "しな"
+                ],
+                "chinese": [
+                    "ji2"
+                ],
+                "korean": [
+                    "geub"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "糹"
+            ],
+            "meaning": "silk",
+            "parts": [
+                "ノ",
+                "小",
+                "幺",
+                "及",
+                "糸"
+            ],
+            "basis": "糸",
+            "kangxi_order": 120,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "級",
+                    "reading": "キュウ",
+                    "meanings": [
+                        "(school) grade",
+                        "year",
+                        "class",
+                        "class",
+                        "grade",
+                        "rank",
+                        "level",
+                        "kyu (junior rank in martial arts",
+                        "go",
+                        "shogi",
+                        "etc.)"
+                    ]
+                },
+                {
+                    "kanji": "級友",
+                    "reading": "キュウユウ",
+                    "meanings": [
+                        "classmate",
+                        "friend in the same class"
+                    ]
+                },
+                {
+                    "kanji": "同級",
+                    "reading": "ドウキュウ",
+                    "meanings": [
+                        "the same grade",
+                        "same class"
+                    ]
+                },
+                {
+                    "kanji": "最高級",
+                    "reading": "サイコウキュウ",
+                    "meanings": [
+                        "highest grade",
+                        "top class"
+                    ]
+                }
+            ]
+        }
+    }
+}

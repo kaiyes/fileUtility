@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"国\"",
+        "strokes": 8,
+        "main_meanings": [
+            "country"
+        ],
+        "main_readings": {
+            "kun": [
+                "くに"
+            ],
+            "on": [
+                "コク"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "79": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "136": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "123": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "8": "A New Dictionary of Kanji Usage",
+                "1037": "Classic Nelson (Andrew Nelson)",
+                "111": "Essential Kanji (P.G. O’Neill)",
+                "36": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "745": "Japanese Names (P.G. O’Neill)",
+                "2.11": "Japanese for Busy People",
+                "40": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "151": "Kanji in Context (Nishiguchi and Kono)",
+                "344": "Kodansha Compact Kanji Guide",
+                "3831": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1964": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2659": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "588": "Les Kanjis dans la tete (Yves Maniette)",
+                "4752": "Morohashi",
+                "3087": "New Japanese English Character Dictionary (Jack Halpern)",
+                "950": "New Nelson (John Haig)",
+                "581": "Remembering The Kanji (James Heisig)",
+                "624": "Remembering The Kanji, 6th edition (James Heisig)",
+                "4": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "158": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3172": "2001 Kanji",
+                "3s5.1": "The Kanji Dictionary",
+                "3-3-5": "SKIP code",
+                "6010.3": "Four corner code"
+            },
+            "codepoints": {
+                "1-25-81": "JIS X 0208-1997 kuten code",
+                "56fd": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "くな、 こ"
+                ],
+                "chinese": [
+                    "guo2"
+                ],
+                "korean": [
+                    "gug"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "enclosure",
+            "parts": [
+                "丶",
+                "囗",
+                "王"
+            ],
+            "basis": "囗",
+            "kangxi_order": 31,
+            "variants": [
+                "國"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "国",
+                    "reading": "くに",
+                    "meanings": [
+                        "country",
+                        "state",
+                        "region",
+                        "national government",
+                        "central government",
+                        "home (i.e. hometown",
+                        "home country)",
+                        "province (of Japan)",
+                        "land",
+                        "earth"
+                    ]
+                },
+                {
+                    "kanji": "国人",
+                    "reading": "こくじん",
+                    "meanings": [
+                        "indigenous person",
+                        "inhabitant of a country",
+                        "local",
+                        "native",
+                        "local lords and samurai",
+                        "daimyo who did not leave his domains to meet the shogun in Kyoto (during the Muromachi period)"
+                    ]
+                },
+                {
+                    "kanji": "お国",
+                    "reading": "おくに",
+                    "meanings": [
+                        "your native country",
+                        "your hometown",
+                        "my home country (i.e. Japan)",
+                        "countryside",
+                        "country",
+                        "daimyo's territory (Edo period)"
+                    ]
+                },
+                {
+                    "kanji": "現国",
+                    "reading": "うつしくに",
+                    "meanings": [
+                        "world of mankind",
+                        "this world"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "国益",
+                    "reading": "コクエキ",
+                    "meanings": [
+                        "national interest"
+                    ]
+                },
+                {
+                    "kanji": "国営",
+                    "reading": "コクエイ",
+                    "meanings": [
+                        "government management",
+                        "state management"
+                    ]
+                },
+                {
+                    "kanji": "最恵国",
+                    "reading": "サイケイコク",
+                    "meanings": [
+                        "most favored nation",
+                        "most favoured nation",
+                        "MFN"
+                    ]
+                },
+                {
+                    "kanji": "異国",
+                    "reading": "イコク",
+                    "meanings": [
+                        "foreign country"
+                    ]
+                }
+            ]
+        }
+    }
+}

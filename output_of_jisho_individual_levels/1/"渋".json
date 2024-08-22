@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"渋\"",
+        "strokes": 11,
+        "main_meanings": [
+            "astringent",
+            "hesitate",
+            "reluctant",
+            "have diarrhea"
+        ],
+        "main_readings": {
+            "kun": [
+                "しぶ",
+                "しぶ.い",
+                "しぶ.る"
+            ],
+            "on": [
+                "ジュウ",
+                "シュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1364": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "729": "A New Dictionary of Kanji Usage",
+                "2600": "Classic Nelson (Andrew Nelson)",
+                "1025": "Essential Kanji (P.G. O’Neill)",
+                "1483": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1334": "Japanese Names (P.G. O’Neill)",
+                "1693": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1809": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1400": "Kanji in Context (Nishiguchi and Kono)",
+                "1209": "Kodansha Compact Kanji Guide",
+                "625": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "377": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "471": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1754": "Les Kanjis dans la tete (Yves Maniette)",
+                "17750P": "Morohashi",
+                "513": "New Japanese English Character Dictionary (Jack Halpern)",
+                "3200": "New Nelson (John Haig)",
+                "1738": "Remembering The Kanji (James Heisig)",
+                "1875": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1455": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "340": "2001 Kanji",
+                "3a8.19": "The Kanji Dictionary",
+                "1-3-8": "SKIP code",
+                "3113.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-29-34": "JIS X 0208-1997 kuten code",
+                "6e0b": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "se4"
+                ],
+                "korean": [
+                    "sab"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "氵",
+                "氺"
+            ],
+            "meaning": "water",
+            "parts": [
+                "冫",
+                "汁",
+                "止"
+            ],
+            "basis": "水",
+            "kangxi_order": 85,
+            "variants": [
+                "澁"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "渋",
+                    "reading": "しぶ",
+                    "meanings": [
+                        "kakishibu",
+                        "astringent persimmon juice used as a dye or to treat wood",
+                        "paper",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "渋い",
+                    "reading": "しぶい",
+                    "meanings": [
+                        "astringent",
+                        "bitter",
+                        "puckery",
+                        "rough",
+                        "harsh",
+                        "tart",
+                        "austere",
+                        "elegant (and unobtrusive)",
+                        "refined",
+                        "quiet (and simple)",
+                        "sober",
+                        "sombre",
+                        "subdued",
+                        "tasteful (in a quiet way)",
+                        "understated",
+                        "sour (look)",
+                        "glum",
+                        "grim",
+                        "sullen",
+                        "sulky",
+                        "stingy",
+                        "tight-fisted"
+                    ]
+                },
+                {
+                    "kanji": "柿渋",
+                    "reading": "かきしぶ",
+                    "meanings": [
+                        "kakishibu",
+                        "astringent persimmon juice used as a dye or to treat wood",
+                        "paper",
+                        "etc."
+                    ]
+                },
+                {
+                    "kanji": "鉄渋",
+                    "reading": "かなしぶ",
+                    "meanings": [
+                        "aqueous iron rust"
+                    ]
+                },
+                {
+                    "kanji": "渋い",
+                    "reading": "しぶい",
+                    "meanings": [
+                        "astringent",
+                        "bitter",
+                        "puckery",
+                        "rough",
+                        "harsh",
+                        "tart",
+                        "austere",
+                        "elegant (and unobtrusive)",
+                        "refined",
+                        "quiet (and simple)",
+                        "sober",
+                        "sombre",
+                        "subdued",
+                        "tasteful (in a quiet way)",
+                        "understated",
+                        "sour (look)",
+                        "glum",
+                        "grim",
+                        "sullen",
+                        "sulky",
+                        "stingy",
+                        "tight-fisted"
+                    ]
+                },
+                {
+                    "kanji": "渋い顔をする",
+                    "reading": "しぶいかおをする",
+                    "meanings": [
+                        "to frown (on)",
+                        "to be grim-faced",
+                        "to look sullen"
+                    ]
+                },
+                {
+                    "kanji": "渋る",
+                    "reading": "しぶる",
+                    "meanings": [
+                        "to be reluctant (to do)",
+                        "to be unwilling (to do)",
+                        "to hesitate (to do)",
+                        "to grudge",
+                        "to be tardy (in doing)",
+                        "to put off (doing)",
+                        "to falter",
+                        "to slacken",
+                        "to slow down",
+                        "to have a frequent urge to defecate but difficulty passing stool",
+                        "to suffer from tenesmus"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "渋滞",
+                    "reading": "ジュウタイ",
+                    "meanings": [
+                        "(traffic) congestion",
+                        "traffic jam",
+                        "gridlock",
+                        "delay",
+                        "stagnation"
+                    ]
+                },
+                {
+                    "kanji": "渋面",
+                    "reading": "ジュウメン",
+                    "meanings": [
+                        "grimace",
+                        "sullen face"
+                    ]
+                },
+                {
+                    "kanji": "難渋",
+                    "reading": "ナンジュウ",
+                    "meanings": [
+                        "suffering",
+                        "distress",
+                        "difficulty",
+                        "hardship",
+                        "misery",
+                        "being bogged down",
+                        "hurdle"
+                    ]
+                },
+                {
+                    "kanji": "晦渋",
+                    "reading": "カイジュウ",
+                    "meanings": [
+                        "ambiguous",
+                        "obscure",
+                        "equivocal"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"自\"",
+        "strokes": 6,
+        "main_meanings": [
+            "oneself"
+        ],
+        "main_readings": {
+            "kun": [
+                "みずか.ら",
+                "おの.ずから",
+                "おの.ずと"
+            ],
+            "on": [
+                "ジ",
+                "シ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "229": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "150": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "134": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "53": "A New Dictionary of Kanji Usage",
+                "3841": "Classic Nelson (Andrew Nelson)",
+                "60": "Essential Kanji (P.G. O’Neill)",
+                "242": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "340": "Japanese Names (P.G. O’Neill)",
+                "2.19": "Japanese for Busy People",
+                "62": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "63": "Kanji in Context (Nishiguchi and Kono)",
+                "1587": "Kodansha Compact Kanji Guide",
+                "4338": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2195": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2954": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "36": "Remembering The Kanji, 6th edition (James Heisig)",
+                "30095": "Morohashi",
+                "3525": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4900": "New Nelson (John Haig)",
+                "14": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "126": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "879": "2001 Kanji",
+                "5c1.1": "The Kanji Dictionary",
+                "4-6-2": "SKIP code",
+                "2600.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-28-11": "JIS X 0208-1997 kuten code",
+                "81ea": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "より"
+                ],
+                "chinese": [
+                    "zi4"
+                ],
+                "korean": [
+                    "ja"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "self",
+            "parts": [
+                "目",
+                "自"
+            ],
+            "basis": "自",
+            "kangxi_order": 132,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "自ら",
+                    "reading": "みずから",
+                    "meanings": [
+                        "oneself",
+                        "oneself",
+                        "for oneself",
+                        "personally",
+                        "in person"
+                    ]
+                },
+                {
+                    "kanji": "自ら進んで",
+                    "reading": "みずからすすんで",
+                    "meanings": [
+                        "by choice",
+                        "of one's own free will",
+                        "on one's own initiative",
+                        "off one's own bat"
+                    ]
+                },
+                {
+                    "kanji": "自ずから",
+                    "reading": "おのずから",
+                    "meanings": [
+                        "naturally",
+                        "in due course",
+                        "by itself",
+                        "of its own accord"
+                    ]
+                },
+                {
+                    "kanji": "自ずから明らか",
+                    "reading": "おのずからあきらか",
+                    "meanings": [
+                        "self-evident"
+                    ]
+                },
+                {
+                    "kanji": "自ずと",
+                    "reading": "おのずと",
+                    "meanings": [
+                        "naturally",
+                        "in due course",
+                        "by itself",
+                        "of its own accord"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "自",
+                    "reading": "ジ",
+                    "meanings": [
+                        "self-",
+                        "from ...",
+                        "this ... (in contrast to some other ...)",
+                        "aforementioned"
+                    ]
+                },
+                {
+                    "kanji": "自営",
+                    "reading": "ジエイ",
+                    "meanings": [
+                        "running one's own business",
+                        "doing business on one's own",
+                        "self-employment"
+                    ]
+                },
+                {
+                    "kanji": "出自",
+                    "reading": "シュツジ",
+                    "meanings": [
+                        "origin",
+                        "birthplace",
+                        "descent",
+                        "lineage",
+                        "ancestry",
+                        "stock"
+                    ]
+                },
+                {
+                    "kanji": "海自",
+                    "reading": "カイジ",
+                    "meanings": [
+                        "Maritime Self-Defense Force"
+                    ]
+                },
+                {
+                    "kanji": "自然界",
+                    "reading": "シゼンカイ",
+                    "meanings": [
+                        "nature",
+                        "the natural world",
+                        "realm of nature"
+                    ]
+                },
+                {
+                    "kanji": "自然",
+                    "reading": "シゼン",
+                    "meanings": [
+                        "nature",
+                        "natural",
+                        "spontaneous",
+                        "automatic",
+                        "naturally",
+                        "spontaneously",
+                        "automatically"
+                    ]
+                },
+                {
+                    "kanji": "己がじし",
+                    "reading": "オノガジシ",
+                    "meanings": [
+                        "each (and every one)",
+                        "individually"
+                    ]
+                }
+            ]
+        }
+    }
+}

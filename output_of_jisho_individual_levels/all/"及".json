@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"及\"",
+        "strokes": 3,
+        "main_meanings": [
+            "reach out",
+            "exert",
+            "exercise",
+            "cause"
+        ],
+        "main_readings": {
+            "kun": [
+                "およ.ぶ",
+                "およ.び",
+                "および",
+                "およ.ぼす"
+            ],
+            "on": [
+                "キュウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1148": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "748": "A New Dictionary of Kanji Usage",
+                "154": "Classic Nelson (Andrew Nelson)",
+                "888": "Essential Kanji (P.G. O’Neill)",
+                "1120": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "83": "Japanese Names (P.G. O’Neill)",
+                "1257": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1328": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1098": "Kanji in Context (Nishiguchi and Kono)",
+                "21": "Kodansha Compact Kanji Guide",
+                "4192": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "2122": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2868": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "695": "Les Kanjis dans la tete (Yves Maniette)",
+                "3118P": "Morohashi",
+                "3385": "New Japanese English Character Dictionary (Jack Halpern)",
+                "670": "New Nelson (John Haig)",
+                "688": "Remembering The Kanji (James Heisig)",
+                "743": "Remembering The Kanji, 6th edition (James Heisig)",
+                "422": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "1012": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "3567": "2001 Kanji",
+                "0a3.24": "The Kanji Dictionary",
+                "4-3-1": "SKIP code",
+                "4-4-1": "SKIP code",
+                "1724.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-21-58": "JIS X 0208-1997 kuten code",
+                "53ca": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "おい、 の"
+                ],
+                "chinese": [
+                    "ji2"
+                ],
+                "korean": [
+                    "geub"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "right",
+            "parts": [
+                "丶",
+                "ノ",
+                "乃",
+                "及"
+            ],
+            "basis": "又",
+            "kangxi_order": null,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "及ぶ",
+                    "reading": "およぶ",
+                    "meanings": [
+                        "to reach",
+                        "to amount to",
+                        "to befall",
+                        "to happen to",
+                        "to extend",
+                        "to go on (for",
+                        "until)",
+                        "to be up to the task",
+                        "to come up to",
+                        "to compare with",
+                        "to be a match (for)",
+                        "to commit (a crime)",
+                        "to require (to do)"
+                    ]
+                },
+                {
+                    "kanji": "及び",
+                    "reading": "および",
+                    "meanings": [
+                        "and",
+                        "as well as"
+                    ]
+                },
+                {
+                    "kanji": "及び腰",
+                    "reading": "およびごし",
+                    "meanings": [
+                        "bent back",
+                        "indecisive attitude",
+                        "timidity",
+                        "lack of nerve"
+                    ]
+                },
+                {
+                    "kanji": "及び",
+                    "reading": "および",
+                    "meanings": [
+                        "and",
+                        "as well as"
+                    ]
+                },
+                {
+                    "kanji": "及び腰",
+                    "reading": "およびごし",
+                    "meanings": [
+                        "bent back",
+                        "indecisive attitude",
+                        "timidity",
+                        "lack of nerve"
+                    ]
+                },
+                {
+                    "kanji": "及ぼす",
+                    "reading": "およぼす",
+                    "meanings": [
+                        "to exert (influence)",
+                        "to exercise",
+                        "to cause (e.g. damage)",
+                        "to do (e.g. harm)",
+                        "to bring about (e.g. benefits)",
+                        "to extend",
+                        "to have an effect (on)"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "及第",
+                    "reading": "キュウダイ",
+                    "meanings": [
+                        "passing (an examination)",
+                        "making the grade"
+                    ]
+                },
+                {
+                    "kanji": "及第者",
+                    "reading": "キュウダイシャ",
+                    "meanings": [
+                        "successful examinee"
+                    ]
+                },
+                {
+                    "kanji": "波及",
+                    "reading": "ハキュウ",
+                    "meanings": [
+                        "spread",
+                        "extension",
+                        "influence",
+                        "aftereffect",
+                        "ripple"
+                    ]
+                },
+                {
+                    "kanji": "責任追及",
+                    "reading": "セキニンツイキュウ",
+                    "meanings": [
+                        "pursuing liability",
+                        "finding out who is at fault",
+                        "trying to pin the blame on someone"
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"娠\"",
+        "strokes": 10,
+        "main_meanings": [
+            "with child",
+            "pregnancy"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "シン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1436": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1772": "A New Dictionary of Kanji Usage",
+                "1220": "Classic Nelson (Andrew Nelson)",
+                "1543": "Essential Kanji (P.G. O’Neill)",
+                "1195": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "956": "Kanji and Kana (Spahn and Hadamitzky)",
+                "986": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1331": "Kanji in Context (Nishiguchi and Kono)",
+                "444": "Kodansha Compact Kanji Guide",
+                "490": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "304": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "369": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "2031": "Les Kanjis dans la tete (Yves Maniette)",
+                "6322": "Morohashi",
+                "408": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1224": "New Nelson (John Haig)",
+                "2012": "Remembering The Kanji (James Heisig)",
+                "2168": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1323": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1765": "2001 Kanji",
+                "3e7.10": "The Kanji Dictionary",
+                "1-3-7": "SKIP code",
+                "4143.2": "Four corner code"
+            },
+            "codepoints": {
+                "1-31-17": "JIS X 0208-1997 kuten code",
+                "5a20": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "shen1",
+                    "chen2",
+                    "zhen4"
+                ],
+                "korean": [
+                    "sin"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "woman,",
+            "parts": [
+                "厂",
+                "女",
+                "衣",
+                "辰"
+            ],
+            "basis": "女",
+            "kangxi_order": 38,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "双胎妊娠",
+                    "reading": "ソウタイニンシン",
+                    "meanings": [
+                        "twin pregnancy"
+                    ]
+                },
+                {
+                    "kanji": "多胎妊娠",
+                    "reading": "タタイニンシン",
+                    "meanings": [
+                        "multiple pregnancy",
+                        "polycyesis"
+                    ]
+                }
+            ]
+        }
+    }
+}

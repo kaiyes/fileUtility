@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"児\"",
+        "strokes": 7,
+        "main_meanings": [
+            "newborn babe",
+            "child",
+            "young of animals"
+        ],
+        "main_readings": {
+            "kun": [
+                "こ",
+                "-こ",
+                "-っこ"
+            ],
+            "on": [
+                "ジ",
+                "ニ",
+                "ゲイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "801": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "526": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "697": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "556": "A New Dictionary of Kanji Usage",
+                "572": "Classic Nelson (Andrew Nelson)",
+                "782": "Essential Kanji (P.G. O’Neill)",
+                "338": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "497": "Japanese Names (P.G. O’Neill)",
+                "1217": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1280": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1375": "Kanji in Context (Nishiguchi and Kono)",
+                "148": "Kodansha Compact Kanji Guide",
+                "3153": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1617": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2203": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "58": "Remembering The Kanji (James Heisig)",
+                "1364": "Morohashi",
+                "2546": "New Japanese English Character Dictionary (Jack Halpern)",
+                "355": "New Nelson (John Haig)",
+                "62": "Remembering The Kanji, 6th edition (James Heisig)",
+                "482": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1257": "2001 Kanji",
+                "4c3.3": "The Kanji Dictionary",
+                "2-5-2": "SKIP code",
+                "1-2-5": "SKIP code",
+                "1-1-6": "SKIP code",
+                "2621.0": "Four corner code"
+            },
+            "codepoints": {
+                "1-27-89": "JIS X 0208-1997 kuten code",
+                "5150": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "る"
+                ],
+                "chinese": [
+                    "er2"
+                ],
+                "korean": [
+                    "a"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": null,
+            "meaning": "legs",
+            "parts": [
+                "｜",
+                "儿",
+                "日"
+            ],
+            "basis": "儿",
+            "kangxi_order": 10,
+            "variants": [
+                "兒"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "子",
+                    "reading": "こ",
+                    "meanings": [
+                        "child",
+                        "kid",
+                        "teenager",
+                        "youngster",
+                        "young (non-adult) person",
+                        "(one's) child",
+                        "offspring",
+                        "young woman",
+                        "young (animal)",
+                        "offshoot",
+                        "interest",
+                        "new share",
+                        "player who is not a dealer",
+                        "young geisha",
+                        "young prostitute",
+                        "bird egg",
+                        "-er (often of young women)"
+                    ]
+                },
+                {
+                    "kanji": "克鯨",
+                    "reading": "こくくじら",
+                    "meanings": [
+                        "gray whale (Eschrichtius robustus)"
+                    ]
+                },
+                {
+                    "kanji": "江戸っ子",
+                    "reading": "えどっこ",
+                    "meanings": [
+                        "(true) Tokyoite",
+                        "Edoite",
+                        "Tokyo native",
+                        "Edokko"
+                    ]
+                },
+                {
+                    "kanji": "駄々っ子",
+                    "reading": "だだっこ",
+                    "meanings": [
+                        "unmanageable child",
+                        "spoiled child (spoilt)",
+                        "spoiled brat"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "児",
+                    "reading": "ジ",
+                    "meanings": [
+                        "child",
+                        "boy",
+                        "I",
+                        "me"
+                    ]
+                },
+                {
+                    "kanji": "児童",
+                    "reading": "ジドウ",
+                    "meanings": [
+                        "children",
+                        "juvenile"
+                    ]
+                },
+                {
+                    "kanji": "新生児",
+                    "reading": "シンセイジ",
+                    "meanings": [
+                        "newborn baby"
+                    ]
+                },
+                {
+                    "kanji": "遺児",
+                    "reading": "イジ",
+                    "meanings": [
+                        "orphan",
+                        "child left by the deceased",
+                        "abandoned child"
+                    ]
+                }
+            ]
+        }
+    }
+}

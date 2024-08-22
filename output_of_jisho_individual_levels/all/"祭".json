@@ -1,0 +1,226 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"祭\"",
+        "strokes": 11,
+        "main_meanings": [
+            "ritual",
+            "offer prayers",
+            "celebrate",
+            "deify",
+            "enshrine",
+            "worship"
+        ],
+        "main_readings": {
+            "kun": [
+                "まつ.る",
+                "まつ.り",
+                "まつり"
+            ],
+            "on": [
+                "サイ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "400": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "299": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "283": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "899": "A New Dictionary of Kanji Usage",
+                "3247": "Classic Nelson (Andrew Nelson)",
+                "423": "Essential Kanji (P.G. O’Neill)",
+                "775": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1467": "Japanese Names (P.G. O’Neill)",
+                "617": "Kanji and Kana (Spahn and Hadamitzky)",
+                "627": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "473": "Kanji in Context (Nishiguchi and Kono)",
+                "1414": "Kodansha Compact Kanji Guide",
+                "3311": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1715": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2329": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1111": "Les Kanjis dans la tete (Yves Maniette)",
+                "24700": "Morohashi",
+                "2672": "New Japanese English Character Dictionary (Jack Halpern)",
+                "4092": "New Nelson (John Haig)",
+                "1102": "Remembering The Kanji (James Heisig)",
+                "1183": "Remembering The Kanji, 6th edition (James Heisig)",
+                "371": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2541": "2001 Kanji",
+                "4e6.3": "The Kanji Dictionary",
+                "2-6-5": "SKIP code",
+                "2-7-4": "SKIP code",
+                "2790.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-26-55": "JIS X 0208-1997 kuten code",
+                "796d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "ji4",
+                    "zhai4"
+                ],
+                "korean": [
+                    "je",
+                    "chae"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "礻"
+            ],
+            "meaning": "sign",
+            "parts": [
+                "二",
+                "个",
+                "小",
+                "癶",
+                "示"
+            ],
+            "basis": "示",
+            "kangxi_order": 113,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "祭る",
+                    "reading": "まつる",
+                    "meanings": [
+                        "to deify",
+                        "to enshrine",
+                        "to pray",
+                        "to worship"
+                    ]
+                },
+                {
+                    "kanji": "祭り",
+                    "reading": "まつり",
+                    "meanings": [
+                        "festival",
+                        "feast",
+                        "matsuri",
+                        "harassment by an Internet pitchfork mob",
+                        "online shaming",
+                        "flaming",
+                        "galore (as in \"goals galore\")",
+                        "frenzy",
+                        "mania"
+                    ]
+                },
+                {
+                    "kanji": "祭り上げる",
+                    "reading": "まつりあげる",
+                    "meanings": [
+                        "to set up (in high position)",
+                        "to kick upstairs",
+                        "to hold sacred",
+                        "to worship"
+                    ]
+                },
+                {
+                    "kanji": "秋祭り",
+                    "reading": "あきまつり",
+                    "meanings": [
+                        "autumn festival",
+                        "fall festival",
+                        "autumn matsuri"
+                    ]
+                },
+                {
+                    "kanji": "葵祭",
+                    "reading": "あおいまつり",
+                    "meanings": [
+                        "Aoi Festival (Kyoto",
+                        "May 15)",
+                        "Aoi Matsuri"
+                    ]
+                },
+                {
+                    "kanji": "祭り",
+                    "reading": "まつり",
+                    "meanings": [
+                        "festival",
+                        "feast",
+                        "matsuri",
+                        "harassment by an Internet pitchfork mob",
+                        "online shaming",
+                        "flaming",
+                        "galore (as in \"goals galore\")",
+                        "frenzy",
+                        "mania"
+                    ]
+                },
+                {
+                    "kanji": "祭り上げる",
+                    "reading": "まつりあげる",
+                    "meanings": [
+                        "to set up (in high position)",
+                        "to kick upstairs",
+                        "to hold sacred",
+                        "to worship"
+                    ]
+                },
+                {
+                    "kanji": "秋祭り",
+                    "reading": "あきまつり",
+                    "meanings": [
+                        "autumn festival",
+                        "fall festival",
+                        "autumn matsuri"
+                    ]
+                },
+                {
+                    "kanji": "葵祭",
+                    "reading": "あおいまつり",
+                    "meanings": [
+                        "Aoi Festival (Kyoto",
+                        "May 15)",
+                        "Aoi Matsuri"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "祭典",
+                    "reading": "サイテン",
+                    "meanings": [
+                        "festival"
+                    ]
+                },
+                {
+                    "kanji": "祭壇",
+                    "reading": "サイダン",
+                    "meanings": [
+                        "altar"
+                    ]
+                },
+                {
+                    "kanji": "葬祭",
+                    "reading": "ソウサイ",
+                    "meanings": [
+                        "funerals and ceremonial occasions"
+                    ]
+                },
+                {
+                    "kanji": "慰霊祭",
+                    "reading": "イレイサイ",
+                    "meanings": [
+                        "memorial service"
+                    ]
+                }
+            ]
+        }
+    }
+}

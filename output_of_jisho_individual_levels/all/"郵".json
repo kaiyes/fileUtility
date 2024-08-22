@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"郵\"",
+        "strokes": 11,
+        "main_meanings": [
+            "mail",
+            "stagecoach stop"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "994": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "983": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "835": "A New Dictionary of Kanji Usage",
+                "4768": "Classic Nelson (Andrew Nelson)",
+                "964": "Essential Kanji (P.G. O’Neill)",
+                "970": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "524": "Kanji and Kana (Spahn and Hadamitzky)",
+                "533": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "226": "Kanji in Context (Nishiguchi and Kono)",
+                "763": "Kodansha Compact Kanji Guide",
+                "2121": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1107": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "1506": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "1864": "Les Kanjis dans la tete (Yves Maniette)",
+                "39485": "Morohashi",
+                "1687": "New Japanese English Character Dictionary (Jack Halpern)",
+                "6147": "New Nelson (John Haig)",
+                "1847": "Remembering The Kanji (James Heisig)",
+                "1990": "Remembering The Kanji, 6th edition (James Heisig)",
+                "935": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2244": "2001 Kanji",
+                "2d8.12": "The Kanji Dictionary",
+                "1-8-3": "SKIP code",
+                "1-8-2": "SKIP code",
+                "2712.7": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-25": "JIS X 0208-1997 kuten code",
+                "90f5": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "you2"
+                ],
+                "korean": [
+                    "u"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "阝 right) 邑 (阝"
+            ],
+            "meaning": "town",
+            "parts": [
+                "一",
+                "｜",
+                "ノ",
+                "邦"
+            ],
+            "basis": "town",
+            "kangxi_order": 163,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "郵政省",
+                    "reading": "ユウセイショウ",
+                    "meanings": [
+                        "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
+                    ]
+                },
+                {
+                    "kanji": "郵政",
+                    "reading": "ユウセイ",
+                    "meanings": [
+                        "postal system"
+                    ]
+                },
+                {
+                    "kanji": "電郵",
+                    "reading": "デンユウ",
+                    "meanings": [
+                        "(an item of) electronic mail (e-mail)",
+                        "e-mail message",
+                        "electronic mail (e-mail) service",
+                        "electronic mail (e-mail) system"
+                    ]
+                },
+                {
+                    "kanji": "携帯電郵",
+                    "reading": "ケイタイデンユウ",
+                    "meanings": [
+                        "email from a cell phone or mobile phone"
+                    ]
+                }
+            ]
+        }
+    }
+}

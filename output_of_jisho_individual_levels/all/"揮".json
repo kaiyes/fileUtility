@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"揮\"",
+        "strokes": 12,
+        "main_meanings": [
+            "brandish",
+            "wave",
+            "wag",
+            "swing",
+            "shake"
+        ],
+        "main_readings": {
+            "kun": [
+                "ふる.う"
+            ],
+            "on": [
+                "キ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "846": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "833": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "883": "A New Dictionary of Kanji Usage",
+                "1960": "Classic Nelson (Andrew Nelson)",
+                "1565": "Essential Kanji (P.G. O’Neill)",
+                "1371": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1652": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1766": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "776": "Kanji in Context (Nishiguchi and Kono)",
+                "914": "Kodansha Compact Kanji Guide",
+                "717": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "430": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "538": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "669": "Les Kanjis dans la tete (Yves Maniette)",
+                "12394": "Morohashi",
+                "589": "New Japanese English Character Dictionary (Jack Halpern)",
+                "2229": "New Nelson (John Haig)",
+                "662": "Remembering The Kanji (James Heisig)",
+                "715": "Remembering The Kanji, 6th edition (James Heisig)",
+                "939": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "1355": "2001 Kanji",
+                "3c9.14": "The Kanji Dictionary",
+                "1-3-9": "SKIP code",
+                "5705.6": "Four corner code"
+            },
+            "codepoints": {
+                "1-20-88": "JIS X 0208-1997 kuten code",
+                "63ee": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": null,
+                "chinese": [
+                    "hui1"
+                ],
+                "korean": [
+                    "hwi"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "扌龵"
+            ],
+            "meaning": "hand",
+            "parts": [
+                "冖",
+                "扎",
+                "車"
+            ],
+            "basis": "手",
+            "kangxi_order": 64,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "振るう",
+                    "reading": "ふるう",
+                    "meanings": [
+                        "to swing",
+                        "to wield (physically)",
+                        "to exert",
+                        "to exercise (e.g. power",
+                        "ability)",
+                        "to exhibit",
+                        "to display",
+                        "to wield (metaphorically)",
+                        "to flourish",
+                        "to prosper",
+                        "to thrive"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "揮発",
+                    "reading": "キハツ",
+                    "meanings": [
+                        "volatilization",
+                        "volatilisation"
+                    ]
+                },
+                {
+                    "kanji": "揮毫",
+                    "reading": "キゴウ",
+                    "meanings": [
+                        "writing (esp. commissioned calligraphy)",
+                        "drawing",
+                        "painting"
+                    ]
+                },
+                {
+                    "kanji": "総指揮",
+                    "reading": "ソウシキ",
+                    "meanings": [
+                        "supreme command",
+                        "direction over all"
+                    ]
+                },
+                {
+                    "kanji": "陣頭指揮",
+                    "reading": "ジントウシキ",
+                    "meanings": [
+                        "taking command of a corps in a battle",
+                        "command exercised by the leader of a group"
+                    ]
+                }
+            ]
+        }
+    }
+}

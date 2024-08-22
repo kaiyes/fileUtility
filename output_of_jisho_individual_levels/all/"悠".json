@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"悠\"",
+        "strokes": 11,
+        "main_meanings": [
+            "permanence",
+            "distant",
+            "long time",
+            "leisure"
+        ],
+        "main_readings": {
+            "kun": null,
+            "on": [
+                "ユウ"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "1866": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "1881": "A New Dictionary of Kanji Usage",
+                "1701": "Classic Nelson (Andrew Nelson)",
+                "1298": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "1481": "Japanese Names (P.G. O’Neill)",
+                "1597": "Kanji and Kana (Spahn and Hadamitzky)",
+                "1704": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "1699": "Kanji in Context (Nishiguchi and Kono)",
+                "787": "Kodansha Compact Kanji Guide",
+                "3407": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "1755": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "2389": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "967": "Les Kanjis dans la tete (Yves Maniette)",
+                "10681": "Morohashi",
+                "2741": "New Japanese English Character Dictionary (Jack Halpern)",
+                "1872": "New Nelson (John Haig)",
+                "958": "Remembering The Kanji (James Heisig)",
+                "1031": "Remembering The Kanji, 6th edition (James Heisig)",
+                "1432": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2158": "2001 Kanji",
+                "4k7.20": "The Kanji Dictionary",
+                "2-7-4": "SKIP code",
+                "1-3-8": "SKIP code",
+                "2833.4": "Four corner code"
+            },
+            "codepoints": {
+                "1-45-10": "JIS X 0208-1997 kuten code",
+                "60a0": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "ゆ"
+                ],
+                "chinese": [
+                    "you1"
+                ],
+                "korean": [
+                    "yu"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "忄",
+                "⺗"
+            ],
+            "meaning": "heart",
+            "parts": [
+                "｜",
+                "化",
+                "夂",
+                "心",
+                "乞",
+                "攵"
+            ],
+            "basis": "心",
+            "kangxi_order": 61,
+            "variants": null
+        },
+        "reading_examples": {
+            "kun": null,
+            "on": [
+                {
+                    "kanji": "悠",
+                    "reading": "ユウ",
+                    "meanings": [
+                        "quiet",
+                        "calm",
+                        "leisurely",
+                        "composed",
+                        "distant",
+                        "far-off",
+                        "boundless",
+                        "endless",
+                        "eternal"
+                    ]
+                },
+                {
+                    "kanji": "悠々",
+                    "reading": "ユウユウ",
+                    "meanings": [
+                        "quiet",
+                        "calm",
+                        "leisurely",
+                        "composed",
+                        "easily",
+                        "comfortably",
+                        "without difficulty",
+                        "distant",
+                        "far-off",
+                        "boundless",
+                        "endless",
+                        "eternal"
+                    ]
+                }
+            ]
+        }
+    }
+}

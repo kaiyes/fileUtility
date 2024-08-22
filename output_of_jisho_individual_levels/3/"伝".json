@@ -1,0 +1,250 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "kanji": "\"伝\"",
+        "strokes": 6,
+        "main_meanings": [
+            "transmit",
+            "go along",
+            "walk along",
+            "follow",
+            "report",
+            "communicate",
+            "legend",
+            "tradition"
+        ],
+        "main_readings": {
+            "kun": [
+                "つた.わる",
+                "つた.える",
+                "つた.う",
+                "つだ.う",
+                "-づた.い",
+                "つて"
+            ],
+            "on": [
+                "デン",
+                "テン"
+            ]
+        },
+        "meta": {
+            "education": {
+                "grade": null,
+                "jlpt": null,
+                "newspaper_rank": null
+            },
+            "dictionary_idxs": {
+                "681": "A Guide To Reading and Writing Japanese (Florence Sakade)",
+                "580": "A Guide To Reading and Writing Japanese 3rd edition (Henshall, Seeley and De Groot)",
+                "553": "A Guide To Remembering Japanese Characters (Kenneth G. Henshall)",
+                "494": "A New Dictionary of Kanji Usage",
+                "379": "Classic Nelson (Andrew Nelson)",
+                "554": "Essential Kanji (P.G. O’Neill)",
+                "308": "Japanese Kanji Flashcards (Max Hodges and Tomoko Okazaki)",
+                "359": "Japanese Names (P.G. O’Neill)",
+                "3.3": "Japanese for Busy People",
+                "434": "Kanji and Kana (Spahn and Hadamitzky)",
+                "440": "Kanji and Kana, 2nd Edition (Spahn and Hadamitzky)",
+                "278": "Kanji in Context (Nishiguchi and Kono)",
+                "68": "Kodansha Compact Kanji Guide",
+                "48": "Kodansha Kanji Dictionary (Jack Halpern)",
+                "28": "Kodansha Kanji Learner’s Dictionary (Jack Halpern)",
+                "29": "Kodansha Kanji Learner’s Dictionary, 2nd Edition (Jack Halpern)",
+                "972": "Les Kanjis dans la tete (Yves Maniette)",
+                "462P": "Morohashi",
+                "44": "New Japanese English Character Dictionary (Jack Halpern)",
+                "141": "New Nelson (John Haig)",
+                "963": "Remembering The Kanji (James Heisig)",
+                "1036": "Remembering The Kanji, 6th edition (James Heisig)",
+                "331": "The Kanji Way to Japanese Language Power (Dale Crowley)",
+                "470": "Tuttle Kanji Cards (Alexander Kask)"
+            },
+            "classifications": {
+                "2171": "2001 Kanji",
+                "2a4.14": "The Kanji Dictionary",
+                "1-2-4": "SKIP code",
+                "2123.1": "Four corner code"
+            },
+            "codepoints": {
+                "1-37-33": "JIS X 0208-1997 kuten code",
+                "4f1d": "Unicode hex code"
+            },
+            "readings": {
+                "japanese": [
+                    "つたえ"
+                ],
+                "chinese": [
+                    "yun2"
+                ],
+                "korean": [
+                    "jeon"
+                ]
+            }
+        },
+        "radical": {
+            "alt_forms": [
+                "亻"
+            ],
+            "meaning": "man,",
+            "parts": [
+                "二",
+                "化",
+                "厶"
+            ],
+            "basis": "人",
+            "kangxi_order": 9,
+            "variants": [
+                "傳"
+            ]
+        },
+        "reading_examples": {
+            "kun": [
+                {
+                    "kanji": "伝わる",
+                    "reading": "つたわる",
+                    "meanings": [
+                        "to spread (of a rumour",
+                        "news",
+                        "etc.)",
+                        "to travel",
+                        "to circulate",
+                        "to go around",
+                        "to be passed around",
+                        "to become known",
+                        "to be handed down (from generation to generation)",
+                        "to be passed down",
+                        "to be introduced (to a country",
+                        "region",
+                        "etc.)",
+                        "to be brought",
+                        "to come",
+                        "to be conveyed (of a feeling",
+                        "impression",
+                        "etc.)",
+                        "to be felt",
+                        "to come across",
+                        "to travel (of sound",
+                        "electricity",
+                        "etc.)",
+                        "to propagate",
+                        "to be conducted",
+                        "to be transmitted",
+                        "to go along",
+                        "to move along"
+                    ]
+                },
+                {
+                    "kanji": "伝える",
+                    "reading": "つたえる",
+                    "meanings": [
+                        "to convey",
+                        "to report",
+                        "to transmit",
+                        "to communicate",
+                        "to tell",
+                        "to impart",
+                        "to propagate",
+                        "to teach",
+                        "to bequeath"
+                    ]
+                },
+                {
+                    "kanji": "伝う",
+                    "reading": "つたう",
+                    "meanings": [
+                        "to go along",
+                        "to walk along",
+                        "to follow"
+                    ]
+                },
+                {
+                    "kanji": "伝",
+                    "reading": "つて",
+                    "meanings": [
+                        "means of making contact",
+                        "intermediary",
+                        "go-between",
+                        "connections",
+                        "influence",
+                        "pull",
+                        "good offices"
+                    ]
+                },
+                {
+                    "kanji": "伝言",
+                    "reading": "つてこと",
+                    "meanings": [
+                        "(verbal) message",
+                        "word (from someone)",
+                        "rumour",
+                        "rumor"
+                    ]
+                },
+                {
+                    "kanji": "風のつて",
+                    "reading": "かぜのつて",
+                    "meanings": [
+                        "hearsay",
+                        "rumor",
+                        "grapevine"
+                    ]
+                }
+            ],
+            "on": [
+                {
+                    "kanji": "伝",
+                    "reading": "デン",
+                    "meanings": [
+                        "legend",
+                        "tradition",
+                        "biography",
+                        "life",
+                        "method",
+                        "way",
+                        "horseback transportation and communication relay system used in ancient Japan"
+                    ]
+                },
+                {
+                    "kanji": "伝記",
+                    "reading": "デンキ",
+                    "meanings": [
+                        "biography",
+                        "life story"
+                    ]
+                },
+                {
+                    "kanji": "駅伝",
+                    "reading": "エキデン",
+                    "meanings": [
+                        "long-distance relay race",
+                        "stagecoach",
+                        "post horse"
+                    ]
+                },
+                {
+                    "kanji": "評伝",
+                    "reading": "ヒョウデン",
+                    "meanings": [
+                        "critical biography"
+                    ]
+                },
+                {
+                    "kanji": "転手",
+                    "reading": "テンジュ",
+                    "meanings": [
+                        "tuning peg (on a biwa or shamisen)"
+                    ]
+                },
+                {
+                    "kanji": "伝奏",
+                    "reading": "テンソウ",
+                    "meanings": [
+                        "delivering a message to the emperor"
+                    ]
+                }
+            ]
+        }
+    }
+}
