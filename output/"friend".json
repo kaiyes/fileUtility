@@ -1,0 +1,921 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "友達",
+            "is_common": true,
+            "tags": [
+                "wanikani18"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "友達",
+                    "reading": "ともだち"
+                },
+                {
+                    "word": "友だち",
+                    "reading": "ともだち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "companion"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "友人",
+            "is_common": true,
+            "tags": [
+                "wanikani3"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "友人",
+                    "reading": "ゆうじん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "友達"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "more formal than 友達"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "味方",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "味方",
+                    "reading": "みかた"
+                },
+                {
+                    "word": "身方",
+                    "reading": "みかた"
+                },
+                {
+                    "word": "御方",
+                    "reading": "みかた"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "ally",
+                        "supporter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [
+                        "敵"
+                    ],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "taking sides (with)",
+                        "supporting",
+                        "standing by",
+                        "backing up"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "友",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "友",
+                    "reading": "とも"
+                },
+                {
+                    "word": "朋",
+                    "reading": "とも"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "companion",
+                        "comrade",
+                        "pal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "accompaniment",
+                        "companion (e.g. book)",
+                        "complement",
+                        "accessory"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "知人",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "知人",
+                    "reading": "ちじん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "acquaintance"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "交友",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "交友",
+                    "reading": "こうゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "companion",
+                        "acquaintance"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "friendship",
+                        "companionship"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "交遊"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "仲間",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "仲間",
+                    "reading": "なかま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "companion",
+                        "fellow",
+                        "friend",
+                        "mate",
+                        "comrade",
+                        "partner",
+                        "colleague",
+                        "coworker",
+                        "associate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "group",
+                        "company",
+                        "circle",
+                        "set",
+                        "gang"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "member of the same category (family, class)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親友",
+            "is_common": true,
+            "tags": [
+                "wanikani10"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "親友",
+                    "reading": "しんゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "close friend",
+                        "bosom friend",
+                        "buddy",
+                        "crony",
+                        "chum"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "仲良し",
+            "is_common": true,
+            "tags": [
+                "wanikani13"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "仲良し",
+                    "reading": "なかよし"
+                },
+                {
+                    "word": "仲よし",
+                    "reading": "なかよし"
+                },
+                {
+                    "word": "仲好し",
+                    "reading": "なかよし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "close friendship",
+                        "close friend",
+                        "good friend",
+                        "bosom buddy",
+                        "chum",
+                        "pal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "intimate relations",
+                        "sexual intercourse",
+                        "sex"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Euphemistic",
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "交遊",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "交遊",
+                    "reading": "こうゆう"
+                },
+                {
+                    "word": "交游",
+                    "reading": "こうゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friendship",
+                        "companionship",
+                        "fraternity",
+                        "comradeship"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "朋友",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "朋友",
+                    "reading": "ほうゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "companion"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "兄弟",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "兄弟",
+                    "reading": "きょうだい"
+                },
+                {
+                    "word": "兄弟",
+                    "reading": "けいてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "siblings",
+                        "brothers and sisters"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ご兄弟"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "brothers"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "siblings-in-law",
+                        "brothers-in-law",
+                        "sisters-in-law"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mate",
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language",
+                        "Male term or language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "幼なじみ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "幼なじみ",
+                    "reading": "おさななじみ"
+                },
+                {
+                    "word": "幼なじみ",
+                    "reading": "おさなじみ"
+                },
+                {
+                    "word": "幼馴染み",
+                    "reading": "おさななじみ"
+                },
+                {
+                    "word": "幼馴染み",
+                    "reading": "おさなじみ"
+                },
+                {
+                    "word": "幼馴染",
+                    "reading": "おさななじみ"
+                },
+                {
+                    "word": "幼馴染",
+                    "reading": "おさなじみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "childhood friend",
+                        "friend from infancy",
+                        "old playmate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お友達",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お友達",
+                    "reading": "おともだち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Polite (teineigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "child (one does not know)",
+                        "another child",
+                        "other children"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "used by parents, guardians, etc."
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "友朋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "友朋",
+                    "reading": "ゆうほう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "友つ人",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "友つ人",
+                    "reading": "ともつひと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend",
+                        "comrade",
+                        "companion"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "友垣",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "友垣",
+                    "reading": "ともがき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "顔なじみ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "顔なじみ",
+                    "reading": "かおなじみ"
+                },
+                {
+                    "word": "顔馴染み",
+                    "reading": "かおなじみ"
+                },
+                {
+                    "word": "顔馴染",
+                    "reading": "かおなじみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "acquaintance",
+                        "friend",
+                        "familiar face"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "フレンド",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "フレンド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "アミ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "アミ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "French"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

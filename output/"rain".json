@@ -1,0 +1,903 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "雨",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "雨",
+                    "reading": "あめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rainy day",
+                        "rainy weather"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "the November suit (in hanafuda)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "花札"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Rain"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Rain” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Rain?oldid=493013115"
+                        },
+                        {
+                            "text": "Read “雨” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/雨?oldid=42665243"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "降雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "降雨",
+                    "reading": "こうう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rainfall",
+                        "rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "土砂降り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "土砂降り",
+                    "reading": "どしゃぶり"
+                },
+                {
+                    "word": "どしゃ降り",
+                    "reading": "どしゃぶり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "downpour",
+                        "pouring rain",
+                        "heavy rain",
+                        "pelting rain",
+                        "cloudburst"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "降り出す",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "降り出す",
+                    "reading": "ふりだす"
+                },
+                {
+                    "word": "降りだす",
+                    "reading": "ふりだす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to begin to rain",
+                        "to begin to snow"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'su' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雨具",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "雨具",
+                    "reading": "あまぐ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rain gear"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "豪雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "豪雨",
+                    "reading": "ごうう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "torrential rain",
+                        "heavy rain",
+                        "cloudburst",
+                        "downpour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "慈雨",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "慈雨",
+                    "reading": "じう"
+                },
+                {
+                    "word": "滋雨",
+                    "reading": "じう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "welcome rain",
+                        "beneficial rain",
+                        "blessed rain",
+                        "rain that comes after a drought"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雨水",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "雨水",
+                    "reading": "あまみず"
+                },
+                {
+                    "word": "雨水",
+                    "reading": "うすい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rain water"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "\"rain water\" solar term (approx. February 19)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "うすい"
+                    ],
+                    "see_also": [
+                        "二十四節気"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Yushui (solar term)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Yushui (solar term)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Yushui_(solar_term)?oldid=490873906"
+                        },
+                        {
+                            "text": "Read “雨水” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/雨水?oldid=41297327"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雨模様",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "雨模様",
+                    "reading": "あまもよう"
+                },
+                {
+                    "word": "雨模様",
+                    "reading": "あめもよう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "signs of rain",
+                        "threat of rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雨が降る",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "雨が降る",
+                    "reading": "あめがふる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to rain"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Godan verb with 'ru' ending"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ame ga Furu"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Ame ga Furu” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Ame_ga_Furu?oldid=486074584"
+                        },
+                        {
+                            "text": "Read “雨が降る” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/雨が降る?oldid=41987340"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "大雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "大雨",
+                    "reading": "おおあめ"
+                },
+                {
+                    "word": "大雨",
+                    "reading": "たいう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "heavy rain",
+                        "torrential rainfall",
+                        "downpour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "小雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "小雨",
+                    "reading": "こさめ"
+                },
+                {
+                    "word": "小雨",
+                    "reading": "しょうう"
+                },
+                {
+                    "word": "小雨",
+                    "reading": "こあめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light rain",
+                        "drizzle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "恵みの雨",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "恵みの雨",
+                    "reading": "めぐみのあめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "welcome rain",
+                        "merciful rain",
+                        "blessed rain",
+                        "rain after a long dry period"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Megumi no Ame"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Megumi no Ame” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Megumi_no_Ame?oldid=415199830"
+                        },
+                        {
+                            "text": "Read “恵みの雨” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/恵みの雨?oldid=41920185"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "梅雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "梅雨",
+                    "reading": "つゆ"
+                },
+                {
+                    "word": "梅雨",
+                    "reading": "ばいう"
+                },
+                {
+                    "word": "黴雨",
+                    "reading": "つゆ"
+                },
+                {
+                    "word": "黴雨",
+                    "reading": "ばいう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(East Asian) rainy season (in Japan, usu. from early June to mid-July)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rain during the rainy season"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "East Asian rainy season"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “East Asian rainy season” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/East_Asian_rainy_season?oldid=494082673"
+                        },
+                        {
+                            "text": "Read “梅雨” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/梅雨?oldid=42590689"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レーン-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "レーン"
+                },
+                {
+                    "word": null,
+                    "reading": "レイン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "降り注ぐ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "降り注ぐ",
+                    "reading": "ふりそそぐ"
+                },
+                {
+                    "word": "降りそそぐ",
+                    "reading": "ふりそそぐ"
+                },
+                {
+                    "word": "降注ぐ",
+                    "reading": "ふりそそぐ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to rain incessantly",
+                        "to downpour"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'gu' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "俄雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "にわか雨",
+                    "reading": "にわかあめ"
+                },
+                {
+                    "word": "俄雨",
+                    "reading": "にわかあめ"
+                },
+                {
+                    "word": "俄か雨",
+                    "reading": "にわかあめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rain shower"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "長雨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "長雨",
+                    "reading": "ながあめ"
+                },
+                {
+                    "word": "長雨",
+                    "reading": "ながめ"
+                },
+                {
+                    "word": "霖",
+                    "reading": "ながあめ"
+                },
+                {
+                    "word": "霖",
+                    "reading": "ながめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "long spell of rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雨上がり",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "雨上がり",
+                    "reading": "あめあがり"
+                },
+                {
+                    "word": "雨上がり",
+                    "reading": "あまあがり"
+                },
+                {
+                    "word": "雨あがり",
+                    "reading": "あめあがり"
+                },
+                {
+                    "word": "雨あがり",
+                    "reading": "あまあがり"
+                },
+                {
+                    "word": "雨上り",
+                    "reading": "あめあがり"
+                },
+                {
+                    "word": "雨上り",
+                    "reading": "あまあがり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "after the rain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "梅雨前線",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "梅雨前線",
+                    "reading": "ばいうぜんせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "seasonal rain front"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

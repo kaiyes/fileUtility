@@ -1,0 +1,609 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "同僚",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "同僚",
+                    "reading": "どうりょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "coworker",
+                        "co-worker",
+                        "colleague",
+                        "associate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "仲間",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "仲間",
+                    "reading": "なかま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "companion",
+                        "fellow",
+                        "friend",
+                        "mate",
+                        "comrade",
+                        "partner",
+                        "colleague",
+                        "coworker",
+                        "associate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "group",
+                        "company",
+                        "circle",
+                        "set",
+                        "gang"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "member of the same category (family, class)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "僚友",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "僚友",
+                    "reading": "りょうゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "colleague",
+                        "workmate",
+                        "comrade",
+                        "coworker"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "相役",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "相役",
+                    "reading": "あいやく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "同役",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "同役",
+                    "reading": "どうやく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "社友",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "社友",
+                    "reading": "しゃゆう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "colleague",
+                        "company friend"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "同輩",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "同輩",
+                    "reading": "どうはい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fellows",
+                        "comrade",
+                        "colleague",
+                        "one's equal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "朋輩",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "朋輩",
+                    "reading": "ほうばい"
+                },
+                {
+                    "word": "傍輩",
+                    "reading": "ほうばい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "comrade",
+                        "friend",
+                        "associate",
+                        "colleague",
+                        "fellow student",
+                        "fellow apprentice"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "同人",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "同人",
+                    "reading": "どうじん"
+                },
+                {
+                    "word": "同人",
+                    "reading": "どうにん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "same person"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "said person",
+                        "the person in question"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "coterie",
+                        "clique",
+                        "fraternity",
+                        "kindred spirits",
+                        "comrade",
+                        "colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "dōjin",
+                        "doujin",
+                        "Japanese fans or hobbyists who produce their own magazines, manga, software, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "どうじん"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Dōjin"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Dōjin” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Dōjin?oldid=486615157"
+                        },
+                        {
+                            "text": "Read “同人” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/同人?oldid=42487481"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "棒組み",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "棒組み",
+                    "reading": "ぼうぐみ"
+                },
+                {
+                    "word": "棒組",
+                    "reading": "ぼうぐみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "galley setting"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "palanquin bearer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "fellow",
+                        "colleague",
+                        "comrade"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "相番",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "相番",
+                    "reading": "あいばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "being on duty with a colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "partner",
+                        "colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "オフィスラブ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "オフィスラブ"
+                },
+                {
+                    "word": null,
+                    "reading": "オフィス・ラブ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "office romance",
+                        "workplace romance",
+                        "love affair with colleague"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "内の者",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "内の者",
+                    "reading": "うちのもの"
+                },
+                {
+                    "word": "うちの者",
+                    "reading": "うちのもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "member of one's in-group (e.g. family member, colleague)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

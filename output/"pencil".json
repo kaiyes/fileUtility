@@ -1,0 +1,857 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "鉛筆",
+            "is_common": true,
+            "tags": [
+                "wanikani26"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "鉛筆",
+                    "reading": "えんぴつ"
+                },
+                {
+                    "word": null,
+                    "reading": "エンピツ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Pencil” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Pencil?oldid=493082027"
+                        },
+                        {
+                            "text": "Read “鉛筆” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/鉛筆?oldid=42539992"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シャープペンシル",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シャープペンシル"
+                },
+                {
+                    "word": null,
+                    "reading": "シャープ・ペンシル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mechanical pencil",
+                        "automatic pencil",
+                        "propelling pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "シャーペン"
+                    ],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mechanical pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Mechanical pencil” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mechanical_pencil?oldid=494356427"
+                        },
+                        {
+                            "text": "Read “シャープペンシル” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/シャープペンシル?oldid=42436859"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "光束",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "光束",
+                    "reading": "こうそく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "luminous flux"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Physics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "pencil (of light)",
+                        "beam"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Luminous flux"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Luminous flux” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Luminous_flux?oldid=483164875"
+                        },
+                        {
+                            "text": "Read “光束” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/光束?oldid=41740598"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "光線束",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "光線束",
+                    "reading": "こうせんそく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil (of light rays)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ペンシル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ペンシル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シャーペン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シャーペン"
+                },
+                {
+                    "word": null,
+                    "reading": "シャープペン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mechanical pencil",
+                        "automatic pencil",
+                        "propelling pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "シャープペンシル"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "色鉛筆",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "色鉛筆",
+                    "reading": "いろえんぴつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "colored pencil",
+                        "coloured pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "筆箱",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "筆箱",
+                    "reading": "ふでばこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil case",
+                        "pencil box",
+                        "writing brush case"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Pencil case"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Pencil case” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Pencil_case?oldid=492580724"
+                        },
+                        {
+                            "text": "Read “筆箱” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/筆箱?oldid=41488451"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "替え心",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "替え芯",
+                    "reading": "かえしん"
+                },
+                {
+                    "word": "替芯",
+                    "reading": "かえしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "spare pencil lead",
+                        "pen refill (cartridge)",
+                        "replacement wick (e.g. of a lantern)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "芯"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鉛筆書き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鉛筆書き",
+                    "reading": "えんぴつがき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawing or writing in pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "泥棒削り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "泥棒削り",
+                    "reading": "どろぼうけずり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil sharpened at both ends",
+                        "sharpening a pencil at both ends"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "貧乏削り びんぼうけずり"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "貧乏削り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "貧乏削り",
+                    "reading": "びんぼうけずり"
+                },
+                {
+                    "word": "びんぼう削り",
+                    "reading": "びんぼうけずり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil sharpened at both ends",
+                        "sharpening a pencil at both ends"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鉛筆削り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鉛筆削り",
+                    "reading": "えんぴつけずり"
+                },
+                {
+                    "word": "えんぴつ削り",
+                    "reading": "えんぴつけずり"
+                },
+                {
+                    "word": "エンピツ削り",
+                    "reading": "エンピツけずり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil sharpener"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Pencil sharpener"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Pencil sharpener” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Pencil_sharpener?oldid=495288418"
+                        },
+                        {
+                            "text": "Read “鉛筆削り” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/鉛筆削り?oldid=42737141"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "硬筆",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "硬筆",
+                    "reading": "こうひつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pen or pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シャー芯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "シャー芯",
+                    "reading": "シャーしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mechanical pencil lead"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "シャーペン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from シャーペン + 芯"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "カンペン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "缶ペン",
+                    "reading": "かんペン"
+                },
+                {
+                    "word": null,
+                    "reading": "カンペン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "metal pencil box",
+                        "metal pencil case"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "缶ペンケース かんペンケース"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kampen (The Netherlands)"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "筆入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "筆入れ",
+                    "reading": "ふでいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil case",
+                        "pen case",
+                        "writing case",
+                        "brush case"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "芯ケース",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "芯ケース",
+                    "reading": "しんケース"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pencil lead case (for a mechanical pencil)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鉛筆柏槙",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鉛筆柏槙",
+                    "reading": "えんぴつびゃくしん"
+                },
+                {
+                    "word": "鉛筆柏槇",
+                    "reading": "えんぴつびゃくしん"
+                },
+                {
+                    "word": null,
+                    "reading": "エンピツビャクシン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eastern red cedar (Juniperus virginiana)",
+                        "red cedar",
+                        "red juniper",
+                        "pencil cedar",
+                        "aromatic cedar"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Juniperus virginiana"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Juniperus virginiana” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Juniperus_virginiana?oldid=487254737"
+                        },
+                        {
+                            "text": "Read “エンピツビャクシン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/エンピツビャクシン?oldid=42072085"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "石筆",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "石筆",
+                    "reading": "せきひつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "slate pencil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,728 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "引き出し",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "引き出し",
+                    "reading": "ひきだし"
+                },
+                {
+                    "word": "引出し",
+                    "reading": "ひきだし"
+                },
+                {
+                    "word": "抽き出し",
+                    "reading": "ひきだし"
+                },
+                {
+                    "word": "抽出し",
+                    "reading": "ひきだし"
+                },
+                {
+                    "word": "抽斗",
+                    "reading": "ひきだし"
+                },
+                {
+                    "word": "抽匣",
+                    "reading": "ひきだし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "withdrawal (of money from an account)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "not 抽斗,抽匣"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "variety of knowledge and experience useful for handling things impromptu"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "not 抽斗,抽匣"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "書き手",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "書き手",
+                    "reading": "かきて"
+                },
+                {
+                    "word": "書手",
+                    "reading": "かきて"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "writer",
+                        "painter",
+                        "drawer",
+                        "calligrapher"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "skilful writer",
+                        "skilful painter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ドロア",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ドロワー"
+                },
+                {
+                    "word": null,
+                    "reading": "ドロア"
+                },
+                {
+                    "word": null,
+                    "reading": "ドロワ"
+                },
+                {
+                    "word": null,
+                    "reading": "ドロアー"
+                },
+                {
+                    "word": null,
+                    "reading": "ドローワー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "引き出し"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "隠し引き出し",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "隠し引き出し",
+                    "reading": "かくしひきだし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "secret drawer",
+                        "hidden drawer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "脇机",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "脇机",
+                    "reading": "わきづくえ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawer unit (next to a desk)",
+                        "return"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "金箱",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "金箱",
+                    "reading": "かねばこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cashbox",
+                        "till",
+                        "cash drawer",
+                        "strongbox"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rich patron",
+                        "financial supporter",
+                        "income source"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "野菜庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "野菜庫",
+                    "reading": "やさいこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "crisper (e.g. in refrigerator)",
+                        "vegetable drawer",
+                        "produce compartment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "野菜室"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "野菜室",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "野菜室",
+                    "reading": "やさいしつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "crisper (e.g. in refrigerator)",
+                        "vegetable drawer",
+                        "produce compartment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "温蔵庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "温蔵庫",
+                    "reading": "おんぞうこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "heating cabinet",
+                        "warming drawer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インワゴン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "インワゴン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "desk pedestal",
+                        "free-standing desk drawer unit"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ズロース",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ズロース"
+                },
+                {
+                    "word": null,
+                    "reading": "ドロワーズ"
+                },
+                {
+                    "word": null,
+                    "reading": "ドロワース"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawers",
+                        "knickers",
+                        "bloomers"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Drawer"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Drawer” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Drawer?oldid=485280071"
+                        },
+                        {
+                            "text": "Read “ドロワ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ドロワ?oldid=33930056"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "奥",
+            "is_common": true,
+            "tags": [
+                "wanikani38"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "奥",
+                    "reading": "おく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "inner part",
+                        "interior",
+                        "back (of a drawer, one's throat, etc.)",
+                        "depths (e.g. of a forest)",
+                        "recesses (e.g. of a cave)",
+                        "heart",
+                        "end (of a road, garden, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "living quarters (at the back of a house)",
+                        "inner room"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "recesses (of one's mind)",
+                        "bottom (of one's heart)",
+                        "behind (someone's words)",
+                        "mysteries (of an art)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "探す",
+            "is_common": true,
+            "tags": [
+                "wanikani25",
+                "wanikani31"
+            ],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "探す",
+                    "reading": "さがす"
+                },
+                {
+                    "word": "捜す",
+                    "reading": "さがす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to search for",
+                        "to look for",
+                        "to hunt for",
+                        "to seek"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'su' ending",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 探す for something desired and 捜す for something lost"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "to search (a house, pocket, etc.)",
+                        "to search through",
+                        "to rummage in (e.g. a drawer)",
+                        "to fish around"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'su' ending",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "がじゃがじゃ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "がじゃがじゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rummaging (in a drawer)"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Onomatopoeic or mimetic word"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "引っ掻き回す",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "引っ掻き回す",
+                    "reading": "ひっかきまわす"
+                },
+                {
+                    "word": "引っかき回す",
+                    "reading": "ひっかきまわす"
+                },
+                {
+                    "word": "ひっかき回す",
+                    "reading": "ひっかきまわす"
+                },
+                {
+                    "word": "引っ搔き回す",
+                    "reading": "ひっかきまわす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to rummage through",
+                        "to ransack (e.g. a drawer)"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'su' ending",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to throw into confusion",
+                        "to disrupt",
+                        "to upset",
+                        "to meddle in"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'su' ending",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

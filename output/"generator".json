@@ -1,0 +1,679 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "生成器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "生成器",
+                    "reading": "せいせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "generator (e.g. signal generator)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "発電機",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "発電機",
+                    "reading": "はつでんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "dynamo",
+                        "power generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Electric generator"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Electric generator” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Electric_generator?oldid=495009460"
+                        },
+                        {
+                            "text": "Read “発電機” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/発電機?oldid=41636839"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ジェネレータ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ジェネレータ"
+                },
+                {
+                    "word": null,
+                    "reading": "ジェネレーター"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "音源",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "音源",
+                    "reading": "おんげん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sound source",
+                        "sound generator",
+                        "tone generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sound generator"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sound generator” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sound_generator?oldid=490988320"
+                        },
+                        {
+                            "text": "Read “音源” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/音源?oldid=40593438"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "風力発電機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "風力発電機",
+                    "reading": "ふうりょくはつでんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wind power generator",
+                        "wind turbine generator",
+                        "aerogenerator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "オーディオ信号発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "オーディオ信号発生器",
+                    "reading": "オーディオしんごうはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tone generator",
+                        "audio signal generator",
+                        "AF signal generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "放射線発生装置",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "放射線発生装置",
+                    "reading": "ほうしゃせんはっせいそうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "radiation generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "交流発電機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "交流発電機",
+                    "reading": "こうりゅうはつでんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "AC generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "曲線発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "曲線発生器",
+                    "reading": "きょくせんはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "curve generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "超音波発生装置",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "超音波発生装置",
+                    "reading": "ちょうおんぱはっせいそうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ultrasonic generator",
+                        "sonicator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "起電機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "起電機",
+                    "reading": "きでんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "electric generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "生成子完全集合",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "生成子完全集合",
+                    "reading": "せいせいしかんぜんしゅうごう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "complete generator set"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "文字発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "文字発生器",
+                    "reading": "もじはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "character generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "交流電源",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "交流電源",
+                    "reading": "こうりゅうでんげん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "alternator",
+                        "AC generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "オルタネタ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "関数発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "関数発生器",
+                    "reading": "かんすうはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "function generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "信号発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "信号発生器",
+                    "reading": "しんごうはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "signal generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "生成子部分集合",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "生成子部分集合",
+                    "reading": "せいせいしぶぶんしゅうごう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "partial generator set"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "可変関数発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "可変関数発生器",
+                    "reading": "かへんかんすうはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "variable function generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電源車",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電源車",
+                    "reading": "でんげんしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vehicle-mounted electricity generator (e.g. for filming, emergencies, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "power-generating railway car (e.g. for air-conditioning on a non-electric train)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "固定関数発生器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "固定関数発生器",
+                    "reading": "こていかんすうはっせいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fixed function generator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

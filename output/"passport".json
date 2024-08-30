@@ -1,0 +1,717 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "旅券",
+            "is_common": true,
+            "tags": [
+                "wanikani28"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "旅券",
+                    "reading": "りょけん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "パスポート"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パスポート",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パスポート"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Passport"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Passport” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Passport?oldid=494592968"
+                        },
+                        {
+                            "text": "Read “パスポート” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/パスポート?oldid=42699390"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "渡航免状",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "渡航免状",
+                    "reading": "とこうめんじょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Historical term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "安全通行証",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "安全通行証",
+                    "reading": "あんぜんつうこうしょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passport (guaranteeing safe passage)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "通行証",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "通行証",
+                    "reading": "つうこうしょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pass (e.g. backstage pass)",
+                        "permit (to pass or travel)",
+                        "laissez passer",
+                        "passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "護照",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "護照",
+                    "reading": "ごしょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(Chinese) passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "旅券法",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "旅券法",
+                    "reading": "りょけんほう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Passport Act"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Law"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パスポートｔｏパリ-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "パスポートｔｏパリ",
+                    "reading": "パスポートツーパリ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Passport to Paris (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "数次旅券",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "数次旅券",
+                    "reading": "すうじりょけん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passport valid for multiple journeys"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "偽造パスポート",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "偽造パスポート",
+                    "reading": "ぎぞうパスポート"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fake passport",
+                        "forged passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "外交旅券",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "外交旅券",
+                    "reading": "がいこうりょけん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "diplomatic passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一次旅券",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一次旅券",
+                    "reading": "いちじりょけん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one-time use passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "数次旅券"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "接種証明書",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "接種証明書",
+                    "reading": "せっしゅしょうめいしょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vaccination certificate",
+                        "vaccine passport"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "集印帖",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "集印帖",
+                    "reading": "しゅういんじょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "stamp book",
+                        "pilgrim's passport",
+                        "souvenir seal album",
+                        "book for collecting commemorative seals or stamps (at tourist sights, temples, shrines, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "集印帳",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "集印帳",
+                    "reading": "しゅういんちょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "stamp book",
+                        "pilgrim's passport",
+                        "souvenir seal album",
+                        "book for collecting commemorative seals or stamps (at tourist sights, temples, shrines, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ワクチンパスポート",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ワクチンパスポート"
+                },
+                {
+                    "word": null,
+                    "reading": "ワクチン・パスポート"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vaccine passport",
+                        "vaccination certificate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "接種証明書"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "提示",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "提示",
+                    "reading": "ていじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "presentation (of a passport, ID, etc.)",
+                        "showing",
+                        "production (e.g. of documents)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "presentation (of a plan, response, etc.)",
+                        "bringing up",
+                        "citing (an example)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "発給",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "発給",
+                    "reading": "はっきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "issuance (e.g. of a passport)",
+                        "issuing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "発行",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "発行",
+                    "reading": "はっこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "publication (of a newspaper, magazine, book, etc.)",
+                        "issue"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "issue (of banknotes, bonds, passport, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "raising (an event)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "再発行",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "再発行",
+                    "reading": "さいはっこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "reissue (of a book, bond, passport, etc.)",
+                        "republication"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

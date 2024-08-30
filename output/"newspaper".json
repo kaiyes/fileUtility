@@ -1,0 +1,721 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "新聞",
+            "is_common": true,
+            "tags": [
+                "wanikani10"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "新聞",
+                    "reading": "しんぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Newspaper” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Newspaper?oldid=495554613"
+                        },
+                        {
+                            "text": "Read “新聞” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/新聞?oldid=42420586"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞社",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "新聞社",
+                    "reading": "しんぶんしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper company"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞紙",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞紙",
+                    "reading": "しんぶんし"
+                },
+                {
+                    "word": "新聞紙",
+                    "reading": "しんぶんがみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newsprint",
+                        "newspaper used for wrapping, packing, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "しんぶんし"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Newsprint"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Newsprint” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Newsprint?oldid=494581118"
+                        },
+                        {
+                            "text": "Read “新聞紙” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/新聞紙?oldid=42087340"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞記事",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞記事",
+                    "reading": "しんぶんきじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper story (article, account)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "各紙",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "各紙",
+                    "reading": "かくし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "each newspaper",
+                        "every newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "朝刊",
+            "is_common": true,
+            "tags": [
+                "wanikani38"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "朝刊",
+                    "reading": "ちょうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "morning newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "紙-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "紙",
+                    "reading": "し"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix",
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "新聞紙"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ニュースペーパー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ニュースペーパー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "産経新聞",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "産経新聞",
+                    "reading": "さんけいしんぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Sankei newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sankei Shimbun"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sankei Shimbun” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sankei_Shimbun?oldid=492163190"
+                        },
+                        {
+                            "text": "Read “産経新聞” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/産経新聞?oldid=42780663"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞記者",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞記者",
+                    "reading": "しんぶんきしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper reporter",
+                        "print journalist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞広告",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞広告",
+                    "reading": "しんぶんこうこく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper advertisement"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "主要紙",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "主要紙",
+                    "reading": "しゅようし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "major newspaper",
+                        "leading newspaper",
+                        "widely circulated newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "英字新聞",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "英字新聞",
+                    "reading": "えいじしんぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "English-language newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "地元紙",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "地元紙",
+                    "reading": "じもとし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "local newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日刊新聞",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "日刊新聞",
+                    "reading": "にっかんしんぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "daily newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞売店",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞売店",
+                    "reading": "しんぶんばいてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newsstand",
+                        "newspaper kiosk",
+                        "newspaper stand"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞受け",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞受け",
+                    "reading": "しんぶんうけ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper slot",
+                        "newspaper box"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞屋",
+                    "reading": "しんぶんや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper stand",
+                        "newspaper seller",
+                        "paper carrier"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "newspaper reporter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "新聞売り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "新聞売り",
+                    "reading": "しんぶんうり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "newspaper-seller",
+                        "newsboy",
+                        "newspaper vendor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "有力紙",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "有力紙",
+                    "reading": "ゆうりょくし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "influential newspaper",
+                        "leading newspaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

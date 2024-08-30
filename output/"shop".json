@@ -1,0 +1,892 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "商店",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "商店",
+                    "reading": "しょうてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store",
+                        "firm"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "売店",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "売店",
+                    "reading": "ばいてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "stand",
+                        "stall",
+                        "booth",
+                        "kiosk",
+                        "store"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "店",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "店",
+                    "reading": "みせ"
+                },
+                {
+                    "word": "見世",
+                    "reading": "みせ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "store",
+                        "shop",
+                        "establishment",
+                        "restaurant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ショップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ショップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "店舗",
+            "is_common": true,
+            "tags": [
+                "wanikani53"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "店舗",
+                    "reading": "てんぽ"
+                },
+                {
+                    "word": "店鋪",
+                    "reading": "てんぽ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store",
+                        "establishment",
+                        "restaurant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "屋",
+            "is_common": false,
+            "tags": [
+                "wanikani9"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "屋",
+                    "reading": "や"
+                },
+                {
+                    "word": "家",
+                    "reading": "や"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store",
+                        "restaurant"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "パン屋"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. 屋"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "someone who sells (something) or works as (something)"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "殺し屋"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. 屋, can be derog."
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "someone with a (certain) personality trait"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "照れ屋"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. 屋"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "house"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. 家"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "roof"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "店-1",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "店",
+                    "reading": "てん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "store",
+                        "shop",
+                        "restaurant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お店-1",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お店",
+                    "reading": "おみせ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "store",
+                        "shop",
+                        "establishment",
+                        "restaurant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Polite (teineigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "店"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "喫茶店",
+            "is_common": true,
+            "tags": [
+                "wanikani18"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "喫茶店",
+                    "reading": "きっさてん"
+                },
+                {
+                    "word": "喫茶店",
+                    "reading": "きっちゃてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "coffee shop",
+                        "tearoom",
+                        "coffee lounge",
+                        "coffeehouse",
+                        "cafe"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kissaten"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Kissaten” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Kissaten?oldid=477172089"
+                        },
+                        {
+                            "text": "Read “喫茶店” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/喫茶店?oldid=42731238"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "八百屋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "八百屋",
+                    "reading": "やおや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "greengrocer",
+                        "fruit and vegetable shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "jack of all trades"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Greengrocer"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Greengrocer” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Greengrocer?oldid=474482217"
+                        },
+                        {
+                            "text": "Read “八百屋” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/八百屋?oldid=40836278"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "床屋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "床屋",
+                    "reading": "とこや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "barbershop",
+                        "barber shop",
+                        "barber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "店員",
+            "is_common": true,
+            "tags": [
+                "wanikani12"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "店員",
+                    "reading": "てんいん"
+                },
+                {
+                    "word": "店員",
+                    "reading": "ていいん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "employee (of a store)",
+                        "shop assistant",
+                        "clerk",
+                        "salesperson"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "専門店",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "専門店",
+                    "reading": "せんもんてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "specialist shop",
+                        "shop specializing in a particular type of product"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Specialty store"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Specialty store” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Specialty_store?oldid=486985015"
+                        },
+                        {
+                            "text": "Read “専門店” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/専門店?oldid=42053714"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "販売店",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "販売店",
+                    "reading": "はんばいてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "store",
+                        "shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "店屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "店屋",
+                    "reading": "みせや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "store",
+                        "shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "商屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "商屋",
+                    "reading": "あきないや"
+                },
+                {
+                    "word": "商い屋",
+                    "reading": "あきないや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store",
+                        "merchant",
+                        "shopkeeper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Dated term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "商舗",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "商舗",
+                    "reading": "しょうほ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "酒屋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "酒屋",
+                    "reading": "さかや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "liquor store",
+                        "wine shop",
+                        "bottle shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sake dealer",
+                        "liquor-store owner",
+                        "brewer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "肉屋",
+            "is_common": false,
+            "tags": [
+                "wanikani9"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "肉屋",
+                    "reading": "にくや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "butcher's shop",
+                        "butcher",
+                        "meat shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "舗",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "舗",
+                    "reading": "ほ"
+                },
+                {
+                    "word": "鋪",
+                    "reading": "ほ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shop",
+                        "store"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for foldable things such as maps, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "畳物"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

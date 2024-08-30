@@ -1,0 +1,909 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "バス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "バス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bath (Britain)",
+                        "Basse",
+                        "Buss"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "乗合自動車",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "乗合自動車",
+                    "reading": "のりあいじどうしゃ"
+                },
+                {
+                    "word": "乗り合い自動車",
+                    "reading": "のりあいじどうしゃ"
+                },
+                {
+                    "word": "乗合い自動車",
+                    "reading": "のりあいじどうしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus (on a regular route)",
+                        "transit bus",
+                        "fixed-route bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "路線バス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "始発",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "始発",
+                    "reading": "しはつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "first departure (of the day)",
+                        "first train",
+                        "first bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "終発"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "departing one's home station (of a train, bus, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "沿線",
+            "is_common": true,
+            "tags": [
+                "wanikani34"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "沿線",
+                    "reading": "えんせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "places alongside a railway line, bus route, major thoroughfare, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "乗合バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "乗合バス",
+                    "reading": "のりあいバス"
+                },
+                {
+                    "word": "乗り合いバス",
+                    "reading": "のりあいバス"
+                },
+                {
+                    "word": "乗合いバス",
+                    "reading": "のりあいバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus (on a regular route)",
+                        "transit bus",
+                        "fixed-route bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "路線バス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "乗り場",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "乗り場",
+                    "reading": "のりば"
+                },
+                {
+                    "word": "乗場",
+                    "reading": "のりば"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "place for boarding vehicles",
+                        "bus stop",
+                        "bus terminal",
+                        "railway platform",
+                        "taxi stand",
+                        "jetty",
+                        "wharf"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光バス",
+                    "reading": "かんこうバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist bus",
+                        "sightseeing bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Tour bus service"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Tour bus service” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Tour_bus_service?oldid=494303109"
+                        },
+                        {
+                            "text": "Read “観光バス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/観光バス?oldid=42660141"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シャトルバス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シャトルバス"
+                },
+                {
+                    "word": null,
+                    "reading": "シャトル・バス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shuttle bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shuttle bus service"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Shuttle bus service” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Shuttle_bus_service?oldid=487480547"
+                        },
+                        {
+                            "text": "Read “シャトルバス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/シャトルバス?oldid=42250264"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "バス停",
+            "is_common": true,
+            "tags": [
+                "wanikani23"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "バス停",
+                    "reading": "バスてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus stop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "バスツアー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "バスツアー"
+                },
+                {
+                    "word": null,
+                    "reading": "バス・ツアー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus tour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "市バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "市バス",
+                    "reading": "しバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "city bus",
+                        "city-operated bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "母線",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "母線",
+                    "reading": "ぼせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "generating line"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "路線バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "路線バス",
+                    "reading": "ろせんバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus on a regular route",
+                        "fixed-route bus",
+                        "transit bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Transit bus"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Transit bus” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Transit_bus?oldid=490050448"
+                        },
+                        {
+                            "text": "Read “路線バス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/路線バス?oldid=42698811"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "バスターミナル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "バスターミナル"
+                },
+                {
+                    "word": null,
+                    "reading": "バス・ターミナル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus terminal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bus terminus"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bus terminus” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bus_terminus?oldid=465981646"
+                        },
+                        {
+                            "text": "Read “バスターミナル” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/バスターミナル?oldid=42530381"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "駅",
+            "is_common": true,
+            "tags": [
+                "wanikani13"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "駅",
+                    "reading": "えき"
+                },
+                {
+                    "word": "驛",
+                    "reading": "えき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "railway station",
+                        "train station"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "staging post on a highway (in pre-modern Japan)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Historical term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for railway stations and bus stations"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "自動車駅",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "自動車駅",
+                    "reading": "じどうしゃえき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bus station",
+                        "bus terminal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "スクールバス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "スクールバス"
+                },
+                {
+                    "word": null,
+                    "reading": "スクール・バス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "school bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "School bus"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “School bus” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/School_bus?oldid=495018633"
+                        },
+                        {
+                            "text": "Read “スクールバス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/スクールバス?oldid=42632312"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "送迎バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "送迎バス",
+                    "reading": "そうげいバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shuttle bus",
+                        "pickup bus",
+                        "courtesy bus",
+                        "hotel bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "循環バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "循環バス",
+                    "reading": "じゅんかんバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "loop-line bus",
+                        "loop bus",
+                        "bus on a circular route",
+                        "bus following a circular route"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "リムジンバス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "リムジンバス"
+                },
+                {
+                    "word": null,
+                    "reading": "リムジン・バス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "airport shuttle bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Airport bus"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Airport bus” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Airport_bus?oldid=460280817"
+                        },
+                        {
+                            "text": "Read “リムジンバス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/リムジンバス?oldid=38750699"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,831 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "ソケット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ソケット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "socket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Socket"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Socket” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Socket?oldid=481733515"
+                        },
+                        {
+                            "text": "Read “ソケット” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ソケット?oldid=42310389"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンセント",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンセント"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "electrical outlet",
+                        "wall socket",
+                        "power plug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "眼窩",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "眼窩",
+                    "reading": "がんか"
+                },
+                {
+                    "word": "眼窠",
+                    "reading": "がんか"
+                },
+                {
+                    "word": "眼窩",
+                    "reading": "がんわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eye socket",
+                        "orbit"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Anatomy"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Orbit (anatomy)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Orbit (anatomy)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Orbit_(anatomy)?oldid=494365298"
+                        },
+                        {
+                            "text": "Read “眼窩” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/眼窩?oldid=42659169"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "受け口",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "受け口",
+                    "reading": "うけぐち"
+                },
+                {
+                    "word": "受け口",
+                    "reading": "うけくち"
+                },
+                {
+                    "word": "受口",
+                    "reading": "うけぐち"
+                },
+                {
+                    "word": "受口",
+                    "reading": "うけくち"
+                },
+                {
+                    "word": "承口",
+                    "reading": "うけぐち"
+                },
+                {
+                    "word": "承口",
+                    "reading": "うけくち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mouth with a protruding lower lip and jaw"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "socket",
+                        "receiving window",
+                        "slot"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "うけぐち"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ukeguchi"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "六角穴付き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "六角穴付き",
+                    "reading": "ろっかくあなつき"
+                },
+                {
+                    "word": "六角穴付",
+                    "reading": "ろっかくあなつき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hexagon socket head",
+                        "Allen socket head"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ボックスレンチ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ボックスレンチ"
+                },
+                {
+                    "word": null,
+                    "reading": "ボックス・レンチ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "socket wrench",
+                        "box wrench",
+                        "socket spanner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Lug wrench"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Lug wrench” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Lug_wrench?oldid=478207548"
+                        },
+                        {
+                            "text": "Read “ボックスレンチ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ボックスレンチ?oldid=41409816"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＳＳＬ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＳＳＬ",
+                    "reading": "エス・エス・エル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Secure Sockets Layer",
+                        "SSL"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "眼孔",
+            "is_common": false,
+            "tags": [
+                "wanikani46"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "眼孔",
+                    "reading": "がんこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eye socket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "歯槽",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "歯槽",
+                    "reading": "しそう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(dental) alveolus",
+                        "tooth socket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Anatomy"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ソケットレンチ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ソケットレンチ"
+                },
+                {
+                    "word": null,
+                    "reading": "ソケット・レンチ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "socket wrench"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Socket wrench"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Socket wrench” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Socket_wrench?oldid=490310127"
+                        },
+                        {
+                            "text": "Read “ソケットレンチ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ソケットレンチ?oldid=41468742"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "口金",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "口金",
+                    "reading": "くちがね"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(metal) cap"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "clasp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mouthpiece"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "socket (for light, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ソケットサービス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ソケットサービス"
+                },
+                {
+                    "word": null,
+                    "reading": "ソケット・サービス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "socket services"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ソケットサンナナマル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ソケットサンナナマル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Socket 370"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ソケットセブン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ソケットセブン"
+                },
+                {
+                    "word": null,
+                    "reading": "ソケット・セブン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Socket 7"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "六角穴付きボルト",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "六角穴付きボルト",
+                    "reading": "ろっかくあなつきボルト"
+                },
+                {
+                    "word": "六角穴付ボルト",
+                    "reading": "ろっかくあなつきボルト"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hex socket head cap bolt"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シガーソケット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シガーソケット"
+                },
+                {
+                    "word": null,
+                    "reading": "シガー・ソケット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cigarette lighter socket (in an automobile)",
+                        "cigarette lighter receptacle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "シガーライターソケット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シガーライターソケット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シガーライターソケット"
+                },
+                {
+                    "word": null,
+                    "reading": "シガー・ライター・ソケット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cigarette lighter socket (in an automobile)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電源コンセント",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電源コンセント",
+                    "reading": "でんげんコンセント"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "electrical outlet",
+                        "wall socket",
+                        "electrical power"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "眼窩底",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "眼窩底",
+                    "reading": "がんかてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "orbital floor (thin bone floor of eye socket)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "伝達",
+            "is_common": true,
+            "tags": [
+                "wanikani18"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "伝達",
+                    "reading": "でんたつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission (e.g. news, chemical signals, electricity)",
+                        "communication",
+                        "delivery",
+                        "conveyance",
+                        "transfer",
+                        "relay",
+                        "propagation",
+                        "conduction"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "送信",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "送信",
+                    "reading": "そうしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission",
+                        "sending"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "受信"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "通信",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "通信",
+                    "reading": "つうしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "correspondence",
+                        "communication",
+                        "transmission",
+                        "news",
+                        "signal",
+                        "telecommunications"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝送",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝送",
+                    "reading": "でんそう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission",
+                        "communication",
+                        "circulation",
+                        "dissemination",
+                        "diffusion",
+                        "propagation",
+                        "delivery"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Transmission (telecommunications)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Transmission (telecommunications)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Transmission_(telecommunications)?oldid=484939371"
+                        },
+                        {
+                            "text": "Read “伝送” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/伝送?oldid=42740265"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝導",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝導",
+                    "reading": "でんどう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "conduction (of heat or electricity)",
+                        "transmission (of light or sound)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Physics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "conduction (of a nerve impulse)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Physiology"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Conductivity"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Conductivity” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Conductivity?oldid=476760469"
+                        },
+                        {
+                            "text": "Read “伝導” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/伝導?oldid=41310753"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝播",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝播",
+                    "reading": "でんぱ"
+                },
+                {
+                    "word": "伝播",
+                    "reading": "でんぱん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission",
+                        "propagation",
+                        "spread",
+                        "circulation",
+                        "diffusion",
+                        "dissemination"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "転送",
+            "is_common": true,
+            "tags": [
+                "wanikani10"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "転送",
+                    "reading": "てんそう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transfer (of a call, patient, etc.)",
+                        "forwarding (a letter, email, etc.)",
+                        "redirection"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "transfer (of data)",
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Transmit (FTP client)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Transmit (FTP client)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Transmit_(FTP_client)?oldid=490182201"
+                        },
+                        {
+                            "text": "Read “転送” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/転送?oldid=34186030"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "送話",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "送話",
+                    "reading": "そうわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(telephonic) transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝来",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "伝来",
+                    "reading": "でんらい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "introduction (from abroad)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "transmission (through successive generations)",
+                        "being handed down (from generation to generation)",
+                        "being passed down"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "変速機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "変速機",
+                    "reading": "へんそくき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission",
+                        "gearbox"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝搬",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝搬",
+                    "reading": "でんぱん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission",
+                        "propagation",
+                        "spread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "媒介",
+            "is_common": false,
+            "tags": [
+                "wanikani58"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "媒介",
+                    "reading": "ばいかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mediation",
+                        "agency",
+                        "serving as a medium",
+                        "acting as an intermediary",
+                        "acting as a go-between"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "carrying (germs, diseases, etc.)",
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mediation (in Hegelianism)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Philosophy"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "トランスミッション",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "トランスミッション"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Transmission (mechanics)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Transmission (mechanics)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Transmission_(mechanics)?oldid=495069135"
+                        },
+                        {
+                            "text": "Read “トランスミッション” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/トランスミッション?oldid=42463873"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "発信",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "発信",
+                    "reading": "はっしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "dispatch",
+                        "despatch",
+                        "transmission",
+                        "submission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "受信"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "informing (e.g. of opinion)",
+                        "sharing (thoughts, etc.)",
+                        "telling"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝承",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝承",
+                    "reading": "でんしょう"
+                },
+                {
+                    "word": "傳承",
+                    "reading": "でんしょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "handing down (information)",
+                        "legend",
+                        "tradition",
+                        "folklore",
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Folklore"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Folklore” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Folklore?oldid=495505625"
+                        },
+                        {
+                            "text": "Read “伝承” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/伝承?oldid=42254048"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "透過",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "透過",
+                    "reading": "とうか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "penetration",
+                        "permeation",
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "配信",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "配信",
+                    "reading": "はいしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "distribution (of information, news, etc.)",
+                        "broadcast",
+                        "delivery",
+                        "transmission",
+                        "streaming (over the Internet)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "変速装置",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "変速装置",
+                    "reading": "へんそくそうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gearbox",
+                        "transmission"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伝動",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伝動",
+                    "reading": "でんどう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission (of motive power)",
+                        "drive",
+                        "gearing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "送像",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "送像",
+                    "reading": "そうぞう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "transmission (of a television picture)",
+                        "sending"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "受像"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,719 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "隣人",
+            "is_common": true,
+            "tags": [
+                "wanikani40"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "隣人",
+                    "reading": "りんじん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "neighbour",
+                        "neighbor",
+                        "(people in the) neighbourhood",
+                        "neighborhood"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お隣さん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お隣さん",
+                    "reading": "おとなりさん"
+                },
+                {
+                    "word": "御隣さん",
+                    "reading": "おとなりさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(next-door) neighbour",
+                        "neighbor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Polite (teineigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "隣"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "近所さん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ご近所さん",
+                    "reading": "ごきんじょさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "neighbor",
+                        "neighbour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Polite (teineigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "近所"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "隣",
+            "is_common": true,
+            "tags": [
+                "wanikani40"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "隣",
+                    "reading": "となり"
+                },
+                {
+                    "word": "隣り",
+                    "reading": "となり"
+                },
+                {
+                    "word": "鄰",
+                    "reading": "となり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "next (to)",
+                        "adjoining",
+                        "adjacent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "house next door",
+                        "neighbouring house",
+                        "next-door neighbour",
+                        "next-door neighbor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "隣る",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "隣る",
+                    "reading": "となる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to neighbor (neighbour)",
+                        "to be adjacent to",
+                        "to be next to",
+                        "to border"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'ru' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "隣"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "善隣",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "善隣",
+                    "reading": "ぜんりん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "good neighbour",
+                        "good neighbor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "相接する",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "相接する",
+                    "reading": "あいせっする"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to be adjacent (with each other)",
+                        "to come into contact (with each other)",
+                        "to touch (each other)",
+                        "to neighbor (neighbour)",
+                        "to border"
+                    ],
+                    "parts_of_speech": [
+                        "Suru verb - special class",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "隣接局通知",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "隣接局通知",
+                    "reading": "りんせつきょくつうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "neighbor notification"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お向かいさん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お向かいさん",
+                    "reading": "おむかいさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "neighbor across the street"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Polite (teineigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "合壁",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "合壁",
+                    "reading": "がっぺき"
+                },
+                {
+                    "word": "合壁",
+                    "reading": "かっぺき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "neighbour with just a wall between"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "善隣政策",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "善隣政策",
+                    "reading": "ぜんりんせいさく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Good Neighbor Policy"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "となりのトトロ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "となりのトトロ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "My Neighbor Totoro (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "My Neighbor Totoro"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “My Neighbor Totoro” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/My_Neighbor_Totoro?oldid=495175576"
+                        },
+                        {
+                            "text": "Read “となりのトトロ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/となりのトトロ?oldid=42742988"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お向かい",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お向かい",
+                    "reading": "おむかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "house across the street",
+                        "neighbor across the street"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "下の人",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "下の人",
+                    "reading": "したのひと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "downstairs neighbour (neighbor)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "subordinate"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "汝の隣人を愛せよ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "汝の隣人を愛せよ",
+                    "reading": "なんじのりんじんをあいせよ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "love your neighbour (neighbor)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Proverb"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from Matthew 5:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "尻が長い",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "尻が長い",
+                    "reading": "しりがながい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "being a guest for too long (e.g. of a neighbor)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "床ドン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "床ドン",
+                    "reading": "ゆかドン"
+                },
+                {
+                    "word": null,
+                    "reading": "ユカドン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pinning someone on the floor by lying on them"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "壁ドン かべドン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "banging on the floor (e.g. to quieten one's neighbor)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "壁ドン かべドン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "上の人",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "上の人",
+                    "reading": "うえのひと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "superior",
+                        "boss",
+                        "higher-up"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "them (as opposed to \"us\")",
+                        "the elite"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "person above",
+                        "upstairs neighbour (neighbor)"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

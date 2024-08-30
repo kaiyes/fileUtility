@@ -1,0 +1,1327 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "皿",
+            "is_common": true,
+            "tags": [
+                "wanikani4"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "皿",
+                    "reading": "さら"
+                },
+                {
+                    "word": "盤",
+                    "reading": "さら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate",
+                        "dish",
+                        "platter",
+                        "disc"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "お皿"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "serving",
+                        "helping",
+                        "course"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix",
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "kanji radical 108 (at the bottom)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sara"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Plate (dishware)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Plate (dishware)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Plate_(dishware)?oldid=491652967"
+                        },
+                        {
+                            "text": "Read “皿” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/皿?oldid=41894318"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お皿",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "お皿",
+                    "reading": "おさら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate",
+                        "dish"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "皿"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "版",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "版",
+                    "reading": "はん"
+                },
+                {
+                    "word": "版",
+                    "reading": "ばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "edition",
+                        "version",
+                        "printing",
+                        "impression",
+                        "implementation (of software)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "ばん when a suffix"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "plate",
+                        "block",
+                        "cast"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Printing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "also written 板"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "counter for editions of a publication"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "プレート",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "プレート"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate (e.g. nameplate, license plate)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "plate (dish)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(tectonic) plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Geology"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(home) plate",
+                        "pitcher's mound"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Baseball"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Photography"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Printing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "plate (of a vacuum tube)",
+                        "anode"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Electronics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "板",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "板",
+                    "reading": "いた"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "board",
+                        "plank"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sheet (of metal)",
+                        "plate (of glass)",
+                        "pane",
+                        "slab"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cutting board",
+                        "chopping board"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "俎板"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "chef (esp. of high-end Japanese cuisine)",
+                        "cook"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "板前",
+                        "板場 いたば"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. as 板さん"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "stage (i.e. at a theatre)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Board"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Board” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Board?oldid=487129414"
+                        },
+                        {
+                            "text": "Read “板” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/板?oldid=38238502"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "図版",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "図版",
+                    "reading": "ずはん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate",
+                        "illustration",
+                        "figure"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "名札",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "名札",
+                    "reading": "なふだ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "name plate",
+                        "name tag",
+                        "label"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Name tag"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Name tag” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Name_tag?oldid=492536777"
+                        },
+                        {
+                            "text": "Read “名札” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/名札?oldid=42070406"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "着せる",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "着せる",
+                    "reading": "きせる"
+                },
+                {
+                    "word": "被せる",
+                    "reading": "きせる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to put clothes on (someone)",
+                        "to dress",
+                        "to clothe"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to cover",
+                        "to coat",
+                        "to plate",
+                        "to gild",
+                        "to veneer"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to pin (e.g. a crime on someone)",
+                        "to lay (blame)",
+                        "to charge (with an offence)",
+                        "to give (a bad name)",
+                        "to remind someone of (their indebtedness)"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一皿",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一皿",
+                    "reading": "ひとさら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate",
+                        "dish (of food)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "盤",
+            "is_common": true,
+            "tags": [
+                "wanikani38"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "盤",
+                    "reading": "ばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "board (in shogi, go, chess, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(phonograph) record",
+                        "disc",
+                        "disk"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "board",
+                        "panel",
+                        "plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "器皿",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "器皿",
+                    "reading": "きべい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bowl",
+                        "plate",
+                        "dish"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "錻力",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "錻力",
+                    "reading": "ブリキ"
+                },
+                {
+                    "word": "鉄葉",
+                    "reading": "ブリキ"
+                },
+                {
+                    "word": "錻",
+                    "reading": "ブリキ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tin plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "偏光板",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "偏光板",
+                    "reading": "へんこうばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "polarizing plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Polarizer"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Polarizer” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Polarizer?oldid=492800862"
+                        },
+                        {
+                            "text": "Read “偏光板” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/偏光板?oldid=40725408"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鉄板",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鉄板",
+                    "reading": "てっぱん"
+                },
+                {
+                    "word": null,
+                    "reading": "テッパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "iron plate",
+                        "steel plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sure thing",
+                        "certain winner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "no-fail joke",
+                        "joke that gets people every time"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "盛り付ける",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "盛り付ける",
+                    "reading": "もりつける"
+                },
+                {
+                    "word": "盛りつける",
+                    "reading": "もりつける"
+                },
+                {
+                    "word": "盛付ける",
+                    "reading": "もりつける"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to dish up",
+                        "to arrange (food) on a plate"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ナンバー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ナンバー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "number"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "number plate",
+                        "license plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ナンバープレート"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "札-1",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "札",
+                    "reading": "ふだ"
+                },
+                {
+                    "word": "札",
+                    "reading": "ふみた"
+                },
+                {
+                    "word": "札",
+                    "reading": "ふんだ"
+                },
+                {
+                    "word": "簡",
+                    "reading": "ふだ"
+                },
+                {
+                    "word": "簡",
+                    "reading": "ふみた"
+                },
+                {
+                    "word": "簡",
+                    "reading": "ふんだ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ticket",
+                        "token",
+                        "check",
+                        "receipt"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "label",
+                        "tag"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sign",
+                        "card",
+                        "plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "playing card"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "charm",
+                        "talisman"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "守り札"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "slip of paper posted on shrine pillars by pilgrims"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Fuda"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ランチ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ランチ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "lunch"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(Western-style) single-plate lunch set",
+                        "plate lunch",
+                        "lunch set"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "原版",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "原版",
+                    "reading": "げんぱん"
+                },
+                {
+                    "word": "原版",
+                    "reading": "げんばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "form (printing)",
+                        "forme",
+                        "typesetting plate",
+                        "original plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "original edition (of a publication)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "刷版",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "刷版",
+                    "reading": "さっぱん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "machine plate",
+                        "press plate",
+                        "printing plate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Printing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

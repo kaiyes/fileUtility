@@ -1,0 +1,1183 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "硝子",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "硝子",
+                    "reading": "ガラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass",
+                        "pane"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "洋杯",
+                    "reading": "コップ"
+                },
+                {
+                    "word": "洋盃",
+                    "reading": "コップ"
+                },
+                {
+                    "word": "骨杯",
+                    "reading": "コップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass (drinking vessel)",
+                        "tumbler"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Portuguese"
+                        },
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cups (playing card suit)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "also written as コツフ"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "グラス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "グラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass (drinking vessel)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "glass (material)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ガラス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "glasses (eyewear)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一杯",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "一杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "１杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "一盃",
+                    "reading": "いっぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one cup (of)",
+                        "one glass (of)",
+                        "one bowl (of)",
+                        "cupful",
+                        "glassful",
+                        "bowlful",
+                        "spoonful"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one drink (of alcohol)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "full",
+                        "filled (with)",
+                        "brimming (with)",
+                        "crowded",
+                        "packed"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "fully",
+                        "to capacity",
+                        "to the maximum",
+                        "as much as possible"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "a lot",
+                        "much",
+                        "many"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "all of ...",
+                        "the entire ..."
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (squid, octopus, crab, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (boat)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ippai"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "グラスファイバー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "グラスファイバー"
+                },
+                {
+                    "word": null,
+                    "reading": "グラス・ファイバー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass fiber",
+                        "glass fibre"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ギヤマン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ギヤマン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass",
+                        "glassware"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "diamond"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Obsolete term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. meaning"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "硝子-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "硝子",
+                    "reading": "しょうし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ガラス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "拡大鏡",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "拡大鏡",
+                    "reading": "かくだいきょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magnifying glass",
+                        "magnifier",
+                        "loupe"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "虫眼鏡"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Magnifying glass"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Magnifying glass” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Magnifying_glass?oldid=492135508"
+                        },
+                        {
+                            "text": "Read “拡大鏡” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/拡大鏡?oldid=41207958"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "水飲み",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "水飲み",
+                    "reading": "みずのみ"
+                },
+                {
+                    "word": "水呑み",
+                    "reading": "みずのみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(act of) drinking water"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(water) drinking container",
+                        "glass",
+                        "tumbler"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "peasant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "水呑み百姓"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "玻璃",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "玻璃",
+                    "reading": "はり"
+                },
+                {
+                    "word": "頗梨",
+                    "reading": "はり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "quartz"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Buddhism"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "七宝",
+                        "七宝"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ガラス張り",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ガラス張り",
+                    "reading": "ガラスばり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glazing",
+                        "fitting with glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "transparency",
+                        "openness",
+                        "lack of secrecy",
+                        "openness to scrutiny"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "乾杯",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "乾杯",
+                    "reading": "かんぱい"
+                },
+                {
+                    "word": "乾盃",
+                    "reading": "かんぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cheers",
+                        "bottoms-up",
+                        "prosit"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "toast",
+                        "drink (in honor or celebration of someone or something)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "drinking one's glass dry"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Toast (honor)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Toast (honor)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Toast_(honor)?oldid=494440817"
+                        },
+                        {
+                            "text": "Read “乾杯” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/乾杯?oldid=42517671"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ソーダ石灰ガラス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ソーダ石灰ガラス",
+                    "reading": "ソーダせっかいガラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "soda-lime-silica glass",
+                        "soda-lime glass (most common type of glass)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Soda-lime glass"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Soda-lime glass” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Soda-lime_glass?oldid=491057421"
+                        },
+                        {
+                            "text": "Read “ソーダ石灰ガラス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ソーダ石灰ガラス?oldid=34568878"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ワイングラス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ワイングラス"
+                },
+                {
+                    "word": null,
+                    "reading": "ワイン・グラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wine glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Wine glass"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Wine glass” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Wine_glass?oldid=494888060"
+                        },
+                        {
+                            "text": "Read “ワイングラス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ワイングラス?oldid=42558123"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "窓ガラス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "窓ガラス",
+                    "reading": "まどガラス"
+                },
+                {
+                    "word": "窓硝子",
+                    "reading": "まどガラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "windowpane",
+                        "window glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Flat glass"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Flat glass” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Flat_glass?oldid=480277579"
+                        },
+                        {
+                            "text": "Read “窓ガラス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/窓ガラス?oldid=41505641"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "箱眼鏡",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "箱眼鏡",
+                    "reading": "はこめがね"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "water glass",
+                        "hydroscope",
+                        "box, etc. with glass bottom for viewing underwater"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "板ガラス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "板ガラス",
+                    "reading": "いたガラス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plate glass",
+                        "sheet glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ガラス玉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ガラス玉",
+                    "reading": "ガラスだま"
+                },
+                {
+                    "word": "硝子球",
+                    "reading": "ガラスだま"
+                },
+                {
+                    "word": "ガラス球",
+                    "reading": "ガラスだま"
+                },
+                {
+                    "word": "硝子玉",
+                    "reading": "ガラスだま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass sphere",
+                        "glass bead",
+                        "glass marble"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "飛散防止フィルム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "飛散防止フィルム",
+                    "reading": "ひさんぼうしフィルム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "glass safety film",
+                        "glass protective film",
+                        "anti-shattering film for glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "旭硝子",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "旭硝子",
+                    "reading": "あさひがらす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Asahi Glass"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Company name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Asahi Glass"
+                    ],
+                    "parts_of_speech": [
+                        "Company"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Asahi Glass Co."
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Asahi Glass Co.” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Asahi_Glass_Co.?oldid=471794709"
+                        },
+                        {
+                            "text": "Read “旭硝子” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/旭硝子?oldid=42312977"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

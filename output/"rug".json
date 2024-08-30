@@ -1,0 +1,814 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "絨毯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2",
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "絨毯",
+                    "reading": "じゅうたん"
+                },
+                {
+                    "word": "絨緞",
+                    "reading": "じゅうたん"
+                },
+                {
+                    "word": null,
+                    "reading": "ジュータン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug",
+                        "runner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Carpet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Carpet?oldid=494665223"
+                        },
+                        {
+                            "text": "Read “絨毯” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/絨毯?oldid=42516222"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷物",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き物",
+                    "reading": "しきもの"
+                },
+                {
+                    "word": "敷物",
+                    "reading": "しきもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug",
+                        "matting",
+                        "carpeting"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mat, mattress, quilt etc. spread out on the floor (or ground) and used to sit or sleep on"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "spread",
+                        "(cloth) cover",
+                        "coaster"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ラグ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ラグ"
+                },
+                {
+                    "word": null,
+                    "reading": "ラッグ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Lag"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Lag” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Lag?oldid=493316686"
+                        },
+                        {
+                            "text": "Read “ラグ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ラグ?oldid=41103641"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ラグマット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ラグマット"
+                },
+                {
+                    "word": null,
+                    "reading": "ラグ・マット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ラグ"
+                    ],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "上敷き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "上敷き",
+                    "reading": "うわしき"
+                },
+                {
+                    "word": "上敷き",
+                    "reading": "うわじき"
+                },
+                {
+                    "word": "上敷",
+                    "reading": "うわしき"
+                },
+                {
+                    "word": "上敷",
+                    "reading": "うわじき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bordered matting",
+                        "rug",
+                        "carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "saddlecloth",
+                        "harness"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毛氈",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "毛氈",
+                    "reading": "もうせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug (esp. felt)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "氈",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "氈",
+                    "reading": "かも"
+                },
+                {
+                    "word": "氈",
+                    "reading": "せん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug (esp. felt)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "毛氈 もうせん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "中敷",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中敷",
+                    "reading": "なかじき"
+                },
+                {
+                    "word": "中敷き",
+                    "reading": "なかじき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "insole",
+                        "(shoe) insert",
+                        "intermediate layer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rug",
+                        "carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "馬着",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "馬着",
+                    "reading": "ばちゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "horse blanket",
+                        "horse rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Horse blanket"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Horse blanket” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Horse_blanket?oldid=484805881"
+                        },
+                        {
+                            "text": "Read “馬着” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/馬着?oldid=39170374"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "東洋段通",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "東洋段通",
+                    "reading": "とうようだんつう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Oriental rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷き皮",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き皮",
+                    "reading": "しきがわ"
+                },
+                {
+                    "word": "敷き革",
+                    "reading": "しきがわ"
+                },
+                {
+                    "word": "敷皮",
+                    "reading": "しきがわ"
+                },
+                {
+                    "word": "敷革",
+                    "reading": "しきがわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fur rug",
+                        "fur cushion"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "insole",
+                        "inner sole"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ちびっ子",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ちびっ子",
+                    "reading": "ちびっこ"
+                },
+                {
+                    "word": "チビッ子",
+                    "reading": "チビッこ"
+                },
+                {
+                    "word": "チビっ子",
+                    "reading": "チビっこ"
+                },
+                {
+                    "word": null,
+                    "reading": "チビッコ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "small child",
+                        "kid",
+                        "kiddy",
+                        "tot",
+                        "rug rat",
+                        "ankle-biter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone",
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "緞通",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "緞通",
+                    "reading": "だんつう"
+                },
+                {
+                    "word": "段通",
+                    "reading": "だんつう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cotton carpet",
+                        "jute rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Chinese"
+                        }
+                    ],
+                    "info": [
+                        "from 毯子"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "玄関マット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "玄関マット",
+                    "reading": "げんかんマット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rug one steps onto from the foyer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "玄関 げんかん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "doormat (outside the door of a house, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "梯子を外される",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "梯子を外される",
+                    "reading": "はしごをはずされる"
+                },
+                {
+                    "word": "はしごを外される",
+                    "reading": "はしごをはずされる"
+                },
+                {
+                    "word": "ハシゴを外される",
+                    "reading": "はしごをはずされる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to be left lonely at the top",
+                        "to be left high and dry by one's friends",
+                        "to be abandoned by one's supporters",
+                        "to have the rug pulled from under one",
+                        "to have the ladder pulled out from under one"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Ichidan verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Idiomatic expression"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ぱたぱた",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パタパタ"
+                },
+                {
+                    "word": null,
+                    "reading": "ぱたぱた"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "flapping (of a flag, fan, etc.)",
+                        "fluttering",
+                        "whack-whack (e.g. beating dust out of a rug)",
+                        "whap-whap"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Adverb taking the 'to' particle",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Onomatopoeic or mimetic word"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "pitter-patter (of footsteps)"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Adverb taking the 'to' particle"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Onomatopoeic or mimetic word"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "quickly (making progress)",
+                        "in quick succession"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Adverb taking the 'to' particle"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Onomatopoeic or mimetic word"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

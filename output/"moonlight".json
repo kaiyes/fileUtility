@@ -1,0 +1,813 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "月光",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月光",
+                    "reading": "げっこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight",
+                        "moonbeam"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月灯かり",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月明かり",
+                    "reading": "つきあかり"
+                },
+                {
+                    "word": "月あかり",
+                    "reading": "つきあかり"
+                },
+                {
+                    "word": "月明り",
+                    "reading": "つきあかり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月",
+            "is_common": true,
+            "tags": [
+                "wanikani2"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "月",
+                    "reading": "つき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Moon"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "month"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(a) moon",
+                        "natural satellite"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "衛星"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Moon"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Moon” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Moon?oldid=494566371"
+                        },
+                        {
+                            "text": "Read “月” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/月?oldid=42637138"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月明",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月明",
+                    "reading": "げつめい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月色",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月色",
+                    "reading": "げっしょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月影",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月影",
+                    "reading": "げつえい"
+                },
+                {
+                    "word": "月影",
+                    "reading": "つきかげ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight",
+                        "moon",
+                        "moonbeams"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Tsukikage"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ムーンライト",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ムーンライト"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "夜逃げ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "夜逃げ",
+                    "reading": "よにげ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "running off in the night (to leave one's old life behind, e.g. to get away from debt)",
+                        "moonlight flit",
+                        "skipping town overnight",
+                        "upping and leaving under the cover of darkness",
+                        "midnight vanishing act"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "金波",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "金波",
+                    "reading": "きんぱ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "golden waves",
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月桂",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月桂",
+                    "reading": "げっけい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bay laurel (Laurus nobilis)",
+                        "bay tree",
+                        "sweet bay",
+                        "laurel tree"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "月桂樹"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "moon",
+                        "moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "katsura tree on the moon (in Chinese legends)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. meaning"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "月夜茸",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月夜茸",
+                    "reading": "つきよたけ"
+                },
+                {
+                    "word": null,
+                    "reading": "ツキヨタケ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonlight mushroom (Omphalotus guepiniformis)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ムーンライト＆ヴァレンチノ-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ムーンライト＆ヴァレンチノ",
+                    "reading": "ムーンライトアンドヴァレンチノ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Moonlight and Valentino (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月虹",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月虹",
+                    "reading": "げっこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moonbow",
+                        "lunar rainbow",
+                        "whitish rainbow cast by moonlight",
+                        "lunar bow",
+                        "space rainbow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Moonbow"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Moonbow” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Moonbow?oldid=491534177"
+                        },
+                        {
+                            "text": "Read “月虹” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/月虹?oldid=41986698"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月下",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月下",
+                    "reading": "げっか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "in the moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "亮月",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "亮月",
+                    "reading": "りょうげつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bright moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月下に",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月下に",
+                    "reading": "げっかに"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "in the moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "夕月夜",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "夕月夜",
+                    "reading": "ゆうづきよ"
+                },
+                {
+                    "word": "夕月夜",
+                    "reading": "ゆうづくよ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "evening moon",
+                        "moonlit evening",
+                        "moonlight evening"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "花天月地",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "花天月地",
+                    "reading": "かてんげっち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "flowers blooming in moonlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "金波銀波",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "金波銀波",
+                    "reading": "きんぱぎんぱ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sparkling waves",
+                        "waves sparkling in the moonlight or with the light of the rising (setting) sun"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Yojijukugo (four character compound)"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月光仮面",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月光仮面",
+                    "reading": "げっこうかめん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Moonlight Mask (fictional superhero)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Moonlight Mask"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Moonlight Mask” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Moonlight_Mask?oldid=494503310"
+                        },
+                        {
+                            "text": "Read “月光仮面” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/月光仮面?oldid=42745300"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

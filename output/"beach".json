@@ -1,0 +1,928 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "海",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "海",
+                    "reading": "うみ"
+                },
+                {
+                    "word": "海",
+                    "reading": "み"
+                },
+                {
+                    "word": "海",
+                    "reading": "わた"
+                },
+                {
+                    "word": "海",
+                    "reading": "わだ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea",
+                        "ocean",
+                        "waters"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea?oldid=495364042"
+                        },
+                        {
+                            "text": "Read “海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海?oldid=41851228"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海岸",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "海岸",
+                    "reading": "かいがん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "coast",
+                        "beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kaigan"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Coast"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Coast” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Coast?oldid=495122791"
+                        },
+                        {
+                            "text": "Read “海岸” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海岸?oldid=41860600"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "浜辺",
+            "is_common": true,
+            "tags": [
+                "wanikani28"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "浜辺",
+                    "reading": "はまべ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "beach",
+                        "foreshore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "浜",
+            "is_common": true,
+            "tags": [
+                "wanikani28"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "浜",
+                    "reading": "はま"
+                },
+                {
+                    "word": null,
+                    "reading": "ハマ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "beach",
+                        "seashore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "captured pieces",
+                        "captured stones"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Go (game)",
+                        "Abbreviation",
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "揚げ浜"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Yokohama"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "横浜"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "riverbank",
+                        "riverside"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic",
+                        "Osaka dialect"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海辺",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海辺",
+                    "reading": "うみべ"
+                },
+                {
+                    "word": "海べ",
+                    "reading": "うみべ"
+                },
+                {
+                    "word": "海邊",
+                    "reading": "うみべ"
+                },
+                {
+                    "word": "海辺",
+                    "reading": "かいへん"
+                },
+                {
+                    "word": "海邊",
+                    "reading": "かいへん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "beach",
+                        "seashore",
+                        "seaside",
+                        "coast"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "水際",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "水際",
+                    "reading": "みずぎわ"
+                },
+                {
+                    "word": "水際",
+                    "reading": "すいさい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "water's edge",
+                        "waterside",
+                        "shore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "before coming ashore",
+                        "before entering the country",
+                        "(at the) border"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "みずぎわ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "渚",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "渚",
+                    "reading": "なぎさ"
+                },
+                {
+                    "word": "汀",
+                    "reading": "なぎさ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "water's edge",
+                        "beach",
+                        "shore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ビーチ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ビーチ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "磯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "磯",
+                    "reading": "いそ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(rocky) beach",
+                        "seashore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "磯辺",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "磯辺",
+                    "reading": "いそべ"
+                },
+                {
+                    "word": "磯べ",
+                    "reading": "いそべ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "seashore",
+                        "beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "food wrapped in nori"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "磯辺揚げ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "波打ち際",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "波打ち際",
+                    "reading": "なみうちぎわ"
+                },
+                {
+                    "word": "波打際",
+                    "reading": "なみうちぎわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "water's edge",
+                        "beach",
+                        "foreshore"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "砂浜",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "砂浜",
+                    "reading": "すなはま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sandy beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Beach"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Beach” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Beach?oldid=495053141"
+                        },
+                        {
+                            "text": "Read “砂浜” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/砂浜?oldid=42548297"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海浜",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海浜",
+                    "reading": "かいひん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "seashore",
+                        "seaside",
+                        "beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海水浴場",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海水浴場",
+                    "reading": "かいすいよくじょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "swimming area (in the ocean)",
+                        "swimming beach",
+                        "seawater baths"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Seaside resort"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Seaside resort” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Seaside_resort?oldid=494451557"
+                        },
+                        {
+                            "text": "Read “海水浴場” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海水浴場?oldid=42548303"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "遠浅",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "遠浅",
+                    "reading": "とおあさ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shoal",
+                        "wide shallow beach"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Tooasa"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "浦",
+            "is_common": true,
+            "tags": [
+                "wanikani51"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "浦",
+                    "reading": "うら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "inlet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "seashore",
+                        "beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "河原",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "河原",
+                    "reading": "かわら"
+                },
+                {
+                    "word": "川原",
+                    "reading": "かわら"
+                },
+                {
+                    "word": "磧",
+                    "reading": "かわら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "dry riverbed",
+                        "river beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "人工海岸",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "人工海岸",
+                    "reading": "じんこうかいがん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "man-made beach",
+                        "artificial beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "磯浜-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "磯浜",
+                    "reading": "いそはま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pebbly beach",
+                        "rocky beach"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ザビーチ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ザビーチ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "The Beach (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

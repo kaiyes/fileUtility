@@ -1,0 +1,806 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "マットレス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マットレス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mattress",
+                        "mattress pad (under a futon)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Mattress” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mattress?oldid=495532036"
+                        },
+                        {
+                            "text": "Read “マットレス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/マットレス?oldid=42459341"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "布団",
+            "is_common": true,
+            "tags": [
+                "wanikani19"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "布団",
+                    "reading": "ふとん"
+                },
+                {
+                    "word": "蒲団",
+                    "reading": "ふとん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "futon",
+                        "Japanese bedding consisting of a mattress and a duvet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "敷き布団 しきぶとん",
+                        "掛け布団 かけぶとん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Futon"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Futon” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Futon?oldid=492804681"
+                        },
+                        {
+                            "text": "Read “布団” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/布団?oldid=41616312"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷き布団",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き布団",
+                    "reading": "しきぶとん"
+                },
+                {
+                    "word": "敷布団",
+                    "reading": "しきぶとん"
+                },
+                {
+                    "word": "敷き蒲団",
+                    "reading": "しきぶとん"
+                },
+                {
+                    "word": "敷蒲団",
+                    "reading": "しきぶとん"
+                },
+                {
+                    "word": "敷ぶとん",
+                    "reading": "しきぶとん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "futon (laid on the floor)",
+                        "(Japanese) mattress",
+                        "underquilt",
+                        "sleeping mat"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "掛蒲団"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "茵",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "茵",
+                    "reading": "しとね"
+                },
+                {
+                    "word": "褥",
+                    "reading": "しとね"
+                },
+                {
+                    "word": "褥",
+                    "reading": "じょく"
+                },
+                {
+                    "word": "蓐",
+                    "reading": "じょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cushion",
+                        "pillow",
+                        "mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shitone"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷物",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き物",
+                    "reading": "しきもの"
+                },
+                {
+                    "word": "敷物",
+                    "reading": "しきもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug",
+                        "matting",
+                        "carpeting"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mat, mattress, quilt etc. spread out on the floor (or ground) and used to sit or sleep on"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "spread",
+                        "(cloth) cover",
+                        "coaster"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ベッドパッド",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ベッドパッド"
+                },
+                {
+                    "word": null,
+                    "reading": "ベッド・パッド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mattress pad",
+                        "mattress topper",
+                        "underpad"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "すくい綴じ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "すくい綴じ",
+                    "reading": "すくいとじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mattress stitch"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電気布団",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電気布団",
+                    "reading": "でんきぶとん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "heated mattress pad",
+                        "heating pad"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "藁布団",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "藁布団",
+                    "reading": "わらぶとん"
+                },
+                {
+                    "word": "わら布団",
+                    "reading": "わらぶとん"
+                },
+                {
+                    "word": "藁蒲団",
+                    "reading": "わらぶとん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "straw futon",
+                        "straw mattress",
+                        "palliasse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "布団"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "空気袋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "空気袋",
+                    "reading": "くうきぶくろ"
+                },
+                {
+                    "word": "空気袋",
+                    "reading": "くうきふくろ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air sac",
+                        "bladder",
+                        "air bag",
+                        "windbag"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "タンス預金",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "タンス預金",
+                    "reading": "タンスよきん"
+                },
+                {
+                    "word": "たんす預金",
+                    "reading": "たんすよきん"
+                },
+                {
+                    "word": "箪笥預金",
+                    "reading": "たんすよきん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mattress money"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "タンス貯金",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "タンス貯金",
+                    "reading": "タンスちょきん"
+                },
+                {
+                    "word": "たんす貯金",
+                    "reading": "たんすちょきん"
+                },
+                {
+                    "word": "箪笥貯金",
+                    "reading": "たんすちょきん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mattress money"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "タンス預金"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアマット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアマット"
+                },
+                {
+                    "word": null,
+                    "reading": "エアーマット"
+                },
+                {
+                    "word": null,
+                    "reading": "エア・マット"
+                },
+                {
+                    "word": null,
+                    "reading": "エアー・マット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air mattress",
+                        "airbed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアーベッド",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアーベッド"
+                },
+                {
+                    "word": null,
+                    "reading": "エアベッド"
+                },
+                {
+                    "word": null,
+                    "reading": "エアー・ベッド"
+                },
+                {
+                    "word": null,
+                    "reading": "エア・ベッド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "airbed",
+                        "air bed",
+                        "air mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "低反発マットレス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "低反発マットレス",
+                    "reading": "ていはんぱつマットレス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "memory foam mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "マットプレイ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マットプレイ"
+                },
+                {
+                    "word": null,
+                    "reading": "マット・プレイ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sexual activity (at a brothel) involving body lotion and an air mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き",
+                    "reading": "しき"
+                },
+                {
+                    "word": "敷",
+                    "reading": "しき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "spreading",
+                        "laying out",
+                        "covering"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Noun, used as a prefix",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "security deposit"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "敷金"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Japanese mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "敷き布団"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

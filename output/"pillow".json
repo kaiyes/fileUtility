@@ -1,0 +1,900 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "枕",
+            "is_common": true,
+            "tags": [
+                "wanikani30"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "枕",
+                    "reading": "まくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow",
+                        "bolster"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "introduction (e.g. to a rakugo story)",
+                        "lead-in"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Pillow” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Pillow?oldid=495181310"
+                        },
+                        {
+                            "text": "Read “枕” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/枕?oldid=41224708"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "茵",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "茵",
+                    "reading": "しとね"
+                },
+                {
+                    "word": "褥",
+                    "reading": "しとね"
+                },
+                {
+                    "word": "褥",
+                    "reading": "じょく"
+                },
+                {
+                    "word": "蓐",
+                    "reading": "じょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cushion",
+                        "pillow",
+                        "mattress"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shitone"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ピロー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ピロー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕投げ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕投げ",
+                    "reading": "まくらなげ"
+                },
+                {
+                    "word": "まくら投げ",
+                    "reading": "まくらなげ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow fight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Makura-Nage"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Makura-Nage” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Makura-Nage?oldid=406366017"
+                        },
+                        {
+                            "text": "Read “枕投げ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/枕投げ?oldid=42623643"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕銭",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕銭",
+                    "reading": "まくらぜに"
+                },
+                {
+                    "word": "枕銭",
+                    "reading": "まくらせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow money",
+                        "pillow tip",
+                        "tip left by the pillow for the room maid"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "抱き枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "抱き枕",
+                    "reading": "だきまくら"
+                },
+                {
+                    "word": "抱きまくら",
+                    "reading": "だきまくら"
+                },
+                {
+                    "word": "抱枕",
+                    "reading": "だきまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "body pillow",
+                        "hug pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Dakimakura"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Dakimakura” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Dakimakura?oldid=493024742"
+                        },
+                        {
+                            "text": "Read “抱き枕” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/抱き枕?oldid=42218324"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕元",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕元",
+                    "reading": "まくらもと"
+                },
+                {
+                    "word": "枕もと",
+                    "reading": "まくらもと"
+                },
+                {
+                    "word": "枕許",
+                    "reading": "まくらもと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bedside",
+                        "near one's pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕詞",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕詞",
+                    "reading": "まくらことば"
+                },
+                {
+                    "word": "枕言葉",
+                    "reading": "まくらことば"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow word",
+                        "decorative word used prefixally in classical Japanese literature"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Linguistics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "preface",
+                        "introduction"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Makurakotoba"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Makurakotoba” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Makurakotoba?oldid=488948367"
+                        },
+                        {
+                            "text": "Read “枕詞” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/枕詞?oldid=40857774"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕草子",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕草子",
+                    "reading": "まくらのそうし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "The Pillow Book (Heian-period collection of writings by Sei Shōnagon)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "The Pillow Book"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “The Pillow Book” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/The_Pillow_Book?oldid=493764436"
+                        },
+                        {
+                            "text": "Read “枕草子” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/枕草子?oldid=42280358"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "軸受け",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "軸受け",
+                    "reading": "じくうけ"
+                },
+                {
+                    "word": "軸受",
+                    "reading": "じくうけ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bearing",
+                        "shaft bearing",
+                        "axle bearing",
+                        "plummer block",
+                        "pillow block"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕状溶岩",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕状溶岩",
+                    "reading": "まくらじょうようがん"
+                },
+                {
+                    "word": "枕状溶岩",
+                    "reading": "ちんじょうようがん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow lava"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Geology"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinjouyougan"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "木枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "木枕",
+                    "reading": "きまくら"
+                },
+                {
+                    "word": "木枕",
+                    "reading": "こまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wooden pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Komakura"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ピローマネー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ピローマネー"
+                },
+                {
+                    "word": null,
+                    "reading": "ピロー・マネー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow money",
+                        "tip left by the pillow for the room maid"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "枕銭"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "籠枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "籠枕",
+                    "reading": "かごまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow made from bamboo or cane (for use during the summer)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "括り枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "括り枕",
+                    "reading": "くくりまくら"
+                },
+                {
+                    "word": "くくり枕",
+                    "reading": "くくりまくら"
+                },
+                {
+                    "word": "括枕",
+                    "reading": "くくりまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow stuffed with buckwheat chaff, rice husks or similar material"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "箱枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "箱枕",
+                    "reading": "はこまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow with a box-shaped wooden base"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "寝物語",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "寝物語",
+                    "reading": "ねものがたり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow talk",
+                        "conversation in bed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bedtime story"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "菊枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "菊枕",
+                    "reading": "きくまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow stuffed with chrysanthemum petals (allegedly good for headaches)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "枕叩き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "枕叩き",
+                    "reading": "まくらたたき"
+                },
+                {
+                    "word": "まくら叩き",
+                    "reading": "まくらたたき"
+                },
+                {
+                    "word": "枕たたき",
+                    "reading": "まくらたたき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pillow fight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ピローファイト"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "高枕",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "高枕",
+                    "reading": "たかまくら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "high pillow"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

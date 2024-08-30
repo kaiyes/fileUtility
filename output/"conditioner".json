@@ -1,0 +1,728 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "リンス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "リンス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(hair) conditioner",
+                        "rinse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rinsing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Lins"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Hair conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Hair conditioner” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Hair_conditioner?oldid=491750541"
+                        },
+                        {
+                            "text": "Read “リンス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/リンス?oldid=42542846"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "クーラー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "クーラー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cooler"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアコン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアコン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner",
+                        "air conditioning",
+                        "aircon"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "エアコンディショナー",
+                        "エアコンディショニング"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンディショナー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンディショナー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "conditioner (hair, skin, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "柔軟剤",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "柔軟剤",
+                    "reading": "じゅうなんざい"
+                },
+                {
+                    "word": "柔軟材",
+                    "reading": "じゅうなんざい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fabric softener",
+                        "fabric conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Fabric softener"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Fabric softener” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Fabric_softener?oldid=492371069"
+                        },
+                        {
+                            "text": "Read “柔軟剤” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/柔軟剤?oldid=41147291"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "空調設備",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "空調設備",
+                    "reading": "くうちょうせつび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "冷房器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "冷房機",
+                    "reading": "れいぼうき"
+                },
+                {
+                    "word": "冷房器",
+                    "reading": "れいぼうき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner",
+                        "cooler"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "空気調和機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "空気調和機",
+                    "reading": "くうきちょうわき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioning unit",
+                        "AC unit",
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "空調機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "空調機",
+                    "reading": "くうちょうき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioning unit",
+                        "AC unit",
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "空気調和機"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアコンディショナー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアコンディショナー"
+                },
+                {
+                    "word": null,
+                    "reading": "エア・コンディショナー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアーコンディショナー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアーコンディショナー"
+                },
+                {
+                    "word": null,
+                    "reading": "エアー・コンディショナー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioner",
+                        "air conditioning"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "エアコンディショニング",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "エアコンディショニング"
+                },
+                {
+                    "word": null,
+                    "reading": "エアーコンディショニング"
+                },
+                {
+                    "word": null,
+                    "reading": "エア・コンディショニング"
+                },
+                {
+                    "word": null,
+                    "reading": "エアー・コンディショニング"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "air conditioning"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "空気調節",
+                        "空気調和"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ヘアコンディショナー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ヘアコンディショナー"
+                },
+                {
+                    "word": null,
+                    "reading": "ヘア・コンディショナー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hair conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "オートエアコン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "オートエアコン"
+                },
+                {
+                    "word": null,
+                    "reading": "オート・エアコン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "automatic climate control (in a vehicle)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ルームクーラー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ルームクーラー"
+                },
+                {
+                    "word": null,
+                    "reading": "ルーム・クーラー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "room cooler",
+                        "air conditioner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "室外機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "室外機",
+                    "reading": "しつがいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "outdoor unit (esp. air conditioner condenser)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "急風",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "急風",
+                    "reading": "きゅうふう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "high fan speed (setting on air conditioner)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "squall",
+                        "sudden gust"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "つけっ放し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "付けっぱなし",
+                    "reading": "つけっぱなし"
+                },
+                {
+                    "word": "点けっぱなし",
+                    "reading": "つけっぱなし"
+                },
+                {
+                    "word": "付けっ放し",
+                    "reading": "つけっぱなし"
+                },
+                {
+                    "word": "点けっ放し",
+                    "reading": "つけっぱなし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "leaving (a light, TV, etc.) on",
+                        "leaving engaged (e.g. a key in a lock)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "っぱなし"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

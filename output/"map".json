@@ -1,0 +1,869 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "地図",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "地図",
+                    "reading": "ちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "map",
+                        "atlas",
+                        "chart",
+                        "plan"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Map?oldid=494755623"
+                        },
+                        {
+                            "text": "Read “地図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/地図?oldid=42708484"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "図",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "図",
+                    "reading": "ず"
+                },
+                {
+                    "word": "圖",
+                    "reading": "ず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drawing",
+                        "picture",
+                        "diagram",
+                        "figure",
+                        "illustration",
+                        "chart",
+                        "graph",
+                        "map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sight",
+                        "scene"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "地点",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "地点",
+                    "reading": "ちてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "spot",
+                        "point",
+                        "place",
+                        "position"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "マップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写像",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写像",
+                    "reading": "しゃぞう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mapping",
+                        "map",
+                        "image",
+                        "representation"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Mathematics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Map (mathematics)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Map (mathematics)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Map_(mathematics)?oldid=491978450"
+                        },
+                        {
+                            "text": "Read “写像” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/写像?oldid=42451723"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "路線図",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "路線図",
+                    "reading": "ろせんず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "route map (for buses, trains, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Transit map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Transit map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Transit_map?oldid=490877944"
+                        },
+                        {
+                            "text": "Read “路線図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/路線図?oldid=41560533"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "構内図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "構内図",
+                    "reading": "こうないず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "map (of the inside of a building, station, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "道案内",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "道案内",
+                    "reading": "みちあんない"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "guidance",
+                        "showing the way",
+                        "guide"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "guidepost",
+                        "signpost",
+                        "waymark"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "白地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "白地図",
+                    "reading": "はくちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "outline map",
+                        "blank map",
+                        "base map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Blank map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Blank map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Blank_map?oldid=444226802"
+                        },
+                        {
+                            "text": "Read “白地図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/白地図?oldid=38782643"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "世界地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "世界地図",
+                    "reading": "せかいちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "world map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "World map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “World map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/World_map?oldid=493971056"
+                        },
+                        {
+                            "text": "Read “世界地図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/世界地図?oldid=42592644"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "区画図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "区画図",
+                    "reading": "くかくず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cadastral map",
+                        "plat map",
+                        "plat",
+                        "lot map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "道路地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "道路地図",
+                    "reading": "どうろちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "road (highway) map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "地形図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "地形図",
+                    "reading": "ちけいず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "topographic map",
+                        "elevation map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Topographic map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Topographic map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Topographic_map?oldid=491881707"
+                        },
+                        {
+                            "text": "Read “地形図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/地形図?oldid=42466123"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "略図",
+            "is_common": false,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "略図",
+                    "reading": "りゃくず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rough sketch",
+                        "rough map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "天気図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "天気図",
+                    "reading": "てんきず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "weather map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Weather map"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Weather map” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Weather_map?oldid=492138011"
+                        },
+                        {
+                            "text": "Read “天気図” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/天気図?oldid=40269188"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ロードマップ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ロードマップ"
+                },
+                {
+                    "word": null,
+                    "reading": "ロード・マップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "road map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Technology roadmap"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Technology roadmap” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Technology_roadmap?oldid=476409842"
+                        },
+                        {
+                            "text": "Read “ロードマップ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ロードマップ?oldid=42682744"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "詳細地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "詳細地図",
+                    "reading": "しょうさいちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "large-scale map",
+                        "detailed map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "広域地図"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電子地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電子地図",
+                    "reading": "でんしちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "digital map",
+                        "electronic map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "古地図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "古地図",
+                    "reading": "こちず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "old map",
+                        "antique map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "実測図",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "実測図",
+                    "reading": "じっそくず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "measured map",
+                        "surveyed map"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

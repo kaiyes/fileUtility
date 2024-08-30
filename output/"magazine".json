@@ -1,0 +1,816 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "雑誌",
+            "is_common": true,
+            "tags": [
+                "wanikani33"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "雑誌",
+                    "reading": "ざっし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine",
+                        "journal",
+                        "periodical"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Magazine” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Magazine?oldid=493525524"
+                        },
+                        {
+                            "text": "Read “雑誌” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/雑誌?oldid=42592266"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "誌",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "誌",
+                    "reading": "し"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine",
+                        "journal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "雑誌"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "火薬庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "火薬庫",
+                    "reading": "かやくこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gunpowder magazine",
+                        "magazine",
+                        "explosives warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "powder keg"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kayakuko"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ammunition dump"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Ammunition dump” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Ammunition_dump?oldid=482782238"
+                        },
+                        {
+                            "text": "Read “火薬庫” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/火薬庫?oldid=41760890"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "マガジン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マガジン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "週刊誌",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "週刊誌",
+                    "reading": "しゅうかんし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "weekly (publication)",
+                        "weekly magazine",
+                        "weekly journal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shūkanshi"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Shūkanshi” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Shūkanshi?oldid=446274025"
+                        },
+                        {
+                            "text": "Read “週刊誌” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/週刊誌?oldid=39521250"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "弾倉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "弾倉",
+                    "reading": "だんそう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine (for a firearm)",
+                        "cylinder (of a revolver)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Magazine (firearms)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Magazine (firearms)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Magazine_(firearms)?oldid=494456498"
+                        },
+                        {
+                            "text": "Read “弾倉” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/弾倉?oldid=37728123"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "雑誌社",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "雑誌社",
+                    "reading": "ざっししゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine (company)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "志集",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "志集",
+                    "reading": "ししゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "booklet of essays",
+                        "magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵",
+            "is_common": true,
+            "tags": [
+                "wanikani28",
+                "wanikani31",
+                "wanikani33"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "蔵",
+                    "reading": "くら"
+                },
+                {
+                    "word": "倉",
+                    "reading": "くら"
+                },
+                {
+                    "word": "庫",
+                    "reading": "くら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse",
+                        "storehouse",
+                        "cellar",
+                        "magazine",
+                        "granary",
+                        "godown",
+                        "depository",
+                        "treasury",
+                        "elevator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "弊誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "弊誌",
+                    "reading": "へいし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(our) magazine",
+                        "periodical",
+                        "journal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Humble (kenjougo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "専門誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "専門誌",
+                    "reading": "せんもんし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "specialist journal",
+                        "specialized magazine",
+                        "specialised magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "格納箱",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "格納箱",
+                    "reading": "かくのうばこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cabinet",
+                        "locker",
+                        "magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "経済誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "経済誌",
+                    "reading": "けいざいし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "business magazine",
+                        "financial magazine",
+                        "economic magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月刊雑誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月刊雑誌",
+                    "reading": "げっかんざっし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "monthly magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "月刊誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "月刊誌",
+                    "reading": "げっかんし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "monthly magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "月刊雑誌"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "弾薬庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "弾薬庫",
+                    "reading": "だんやくこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ammunition depot",
+                        "ammunition dump",
+                        "powder magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "娯楽雑誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "娯楽雑誌",
+                    "reading": "ごらくざっし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magazine for amusement",
+                        "entertainment magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "グラフイック",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "グラフィック"
+                },
+                {
+                    "word": null,
+                    "reading": "グラフイック"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "graphics",
+                        "graphic"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Na-adjective (keiyodoshi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "graphic magazine",
+                        "pictorial magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Graphics"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Graphics” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Graphics?oldid=494718377"
+                        },
+                        {
+                            "text": "Read “グラフィック” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/グラフィック?oldid=42144082"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "情報誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "情報誌",
+                    "reading": "じょうほうし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "listings magazine",
+                        "information magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "他誌",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "他誌",
+                    "reading": "たし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "different magazine (esp. by a different publisher)",
+                        "another magazine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

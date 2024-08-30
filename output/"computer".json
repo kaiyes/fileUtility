@@ -1,0 +1,1105 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "コンピュータ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンピュータ"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピューター"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Computer"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Computer” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Computer?oldid=495180673"
+                        },
+                        {
+                            "text": "Read “コンピュータ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コンピュータ?oldid=42715140"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電子計算機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電子計算機",
+                    "reading": "でんしけいさんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "コンピュータ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "計算器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "計算機",
+                    "reading": "けいさんき"
+                },
+                {
+                    "word": "計算器",
+                    "reading": "けいさんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "calculator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "電子計算機"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電脳",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電脳",
+                    "reading": "でんのう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "コンピューター"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from Chinese"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "cyberbrain",
+                        "digital brain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. from the manga \"Ghost in the Shell\""
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "電算",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電算",
+                    "reading": "でんさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "電子計算機"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "端末",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "端末",
+                    "reading": "たんまつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "terminal",
+                        "computer terminal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing",
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "端末装置"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "information access device (smartphone, tablet, book-reader, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "携帯端末 けいたいたんまつ",
+                        "通信端末 つうしんたんまつ",
+                        "情報端末 じょうほうたんまつ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "end (e.g. of a roll of film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Computer terminal"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Computer terminal” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Computer_terminal?oldid=495015783"
+                        },
+                        {
+                            "text": "Read “端末” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/端末?oldid=41720170"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パソコン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パソコン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "personal computer",
+                        "PC"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "パーソナルコンピューター"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "人工頭脳",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "人工頭脳",
+                    "reading": "じんこうずのう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mechanical brain",
+                        "computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "マイコン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マイコン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "microcomputer",
+                        "personal computer",
+                        "home computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing",
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "マイクロコンピュータ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "micro-controller",
+                        "micro-processor",
+                        "MCU"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "moving (animated) icon"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電算機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電算機",
+                    "reading": "でんさんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "electronic computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "計算手",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "計算手",
+                    "reading": "けいさんしゅ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer (person who makes calculations)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Rare term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Human computer"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Human computer” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Human_computer?oldid=488951371"
+                        },
+                        {
+                            "text": "Read “計算手” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/計算手?oldid=37636649"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＣＧ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＣＧ",
+                    "reading": "シー・ジー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer graphics",
+                        "CG"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "コンピューターグラフィックス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "computer-generated imagery",
+                        "CGI"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ＣＧＩ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パソコンショップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パソコンショップ"
+                },
+                {
+                    "word": null,
+                    "reading": "パソコン・ショップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer shop",
+                        "PC shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "パソコン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "対応",
+            "is_common": true,
+            "tags": [
+                "wanikani22"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "対応",
+                    "reading": "たいおう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "correspondence (to)",
+                        "equivalence"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "suitability",
+                        "coordination",
+                        "matching",
+                        "being appropriate (for)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "dealing with",
+                        "coping with",
+                        "handling",
+                        "response",
+                        "reception",
+                        "reaction"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "compatibility (with technology, software, etc.)",
+                        "capability",
+                        "support (for)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＰＣ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＰＣ",
+                    "reading": "ピー・シー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "PC",
+                        "personal computer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "prestressed concrete"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "precast concrete"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "polycarbonate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ポリカーボネート"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "political correctness"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ポリティカルコレクトネス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "patrol car",
+                        "police car"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "パトロールカー"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "public comment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "パブリックコメント"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "player character"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "プレイヤーキャラクター"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ノートＰＣ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ノートＰＣ",
+                    "reading": "ノートピーシー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "notebook computer",
+                        "laptop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ノートパソコン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "計算化学",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "計算化学",
+                    "reading": "けいさんかがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computational chemistry (i.e. computer simulation of chemical phenomena)",
+                        "computer chemistry"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Computational chemistry"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Computational chemistry” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Computational_chemistry?oldid=492210387"
+                        },
+                        {
+                            "text": "Read “計算化学” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/計算化学?oldid=40340820"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンピュータゲーム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンピュータゲーム"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピューターゲーム"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピュータ・ゲーム"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピューター・ゲーム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer game",
+                        "video game"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "PC game"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “PC game” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/PC_game?oldid=495501843"
+                        },
+                        {
+                            "text": "Read “コンピュータゲーム” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コンピュータゲーム?oldid=41240498"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パソコン教室",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "パソコン教室",
+                    "reading": "パソコンきょうしつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer class (esp. for learning the basics of using a computer)",
+                        "computer school"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンピューターシステム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンピューターシステム"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピューター・システム"
+                },
+                {
+                    "word": null,
+                    "reading": "コンピュータシステム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "computer system"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

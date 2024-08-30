@@ -1,0 +1,1391 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "カップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cup (drinking vessel, measure, brassiere, prize, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "コップ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Cup"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Cup” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Cup?oldid=488745829"
+                        },
+                        {
+                            "text": "Read “カップ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/カップ?oldid=41363445"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "茶わん",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2",
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "茶碗",
+                    "reading": "ちゃわん"
+                },
+                {
+                    "word": "茶わん",
+                    "reading": "ちゃわん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rice bowl",
+                        "tea cup",
+                        "teacup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chawan"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chawan” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chawan?oldid=491979661"
+                        },
+                        {
+                            "text": "Read “茶碗” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/茶碗?oldid=42396480"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お代わり",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "お代わり",
+                    "reading": "おかわり"
+                },
+                {
+                    "word": "お替り",
+                    "reading": "おかわり"
+                },
+                {
+                    "word": "お替わり",
+                    "reading": "おかわり"
+                },
+                {
+                    "word": "お代り",
+                    "reading": "おかわり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "another helping",
+                        "second helping",
+                        "seconds",
+                        "refill"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "代わり"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "other paw!"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "お手"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "dog command"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "一杯",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "一杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "１杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "一盃",
+                    "reading": "いっぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one cup (of)",
+                        "one glass (of)",
+                        "one bowl (of)",
+                        "cupful",
+                        "glassful",
+                        "bowlful",
+                        "spoonful"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one drink (of alcohol)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "full",
+                        "filled (with)",
+                        "brimming (with)",
+                        "crowded",
+                        "packed"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "fully",
+                        "to capacity",
+                        "to the maximum",
+                        "as much as possible"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "a lot",
+                        "much",
+                        "many"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "all of ...",
+                        "the entire ..."
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (squid, octopus, crab, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (boat)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ippai"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "杯-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "杯",
+                    "reading": "はい"
+                },
+                {
+                    "word": "盃",
+                    "reading": "はい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sake cup",
+                        "cup for alcoholic beverages"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "杯 さかずき"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for cupfuls, bowlfuls, spoonfuls, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for boats"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for octopuses and squid"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cup",
+                        "championship"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Sports"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "アジア杯"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一服",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一服",
+                    "reading": "いっぷく"
+                },
+                {
+                    "word": "１服",
+                    "reading": "いっぷく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "a puff",
+                        "a smoke",
+                        "a cup of tea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(short) rest",
+                        "break"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one dose (of medicine or poison)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(brief) lull"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Stock market"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "祝杯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "祝杯",
+                    "reading": "しゅくはい"
+                },
+                {
+                    "word": "祝盃",
+                    "reading": "しゅくはい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "toast",
+                        "congratulatory cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "杯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "杯",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "杯",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "盃",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "盃",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "坏",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "坏",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "巵",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "巵",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "卮",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "卮",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "盞",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "盞",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "觚",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "觚",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "觴",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "觴",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "酒盃",
+                    "reading": "さかずき"
+                },
+                {
+                    "word": "酒盃",
+                    "reading": "さかづき"
+                },
+                {
+                    "word": "盞",
+                    "reading": "うき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sake cup",
+                        "cup for alcoholic beverages"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sakadzuki"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "壷",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "壺",
+                    "reading": "つぼ"
+                },
+                {
+                    "word": "壷",
+                    "reading": "つぼ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pot",
+                        "jar",
+                        "vase"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "dice cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "depression",
+                        "basin (e.g. of a waterfall)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "滝壺"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "aim",
+                        "what one wants",
+                        "the mark"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "思うつぼ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "key point (of a conversation, etc.)",
+                        "essence"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "acupuncture point",
+                        "moxibustion point",
+                        "pressure point"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "position on the fingerboard (of a shamisen, koto, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "oft. written as ツボ"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "target (when aiming an arrow)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Hu (vessel)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Hu (vessel)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Hu_(vessel)?oldid=492149931"
+                        },
+                        {
+                            "text": "Read “壺” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/壺?oldid=42289684"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コーヒーカップ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コーヒーカップ"
+                },
+                {
+                    "word": null,
+                    "reading": "コーヒー・カップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "coffee cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Coffee cup"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Coffee cup” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Coffee_cup?oldid=484508288"
+                        },
+                        {
+                            "text": "Read “コーヒーカップ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コーヒーカップ?oldid=42330872"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "苦手",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "苦手",
+                    "reading": "にがて"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "poor (at)",
+                        "weak (in)",
+                        "not very good (at)"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "not one's cup of tea",
+                        "not one's favorite"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "原発不明がん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "原発不明がん",
+                    "reading": "げんぱつふめいがん"
+                },
+                {
+                    "word": "原発不明癌",
+                    "reading": "げんぱつふめいがん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cancer of unknown primary",
+                        "CUP"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Medicine"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コップ座",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "コップ座",
+                    "reading": "コップざ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Crater (constellation)",
+                        "the Cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Astronomy"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Crater (constellation)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Crater (constellation)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Crater_(constellation)?oldid=495088174"
+                        },
+                        {
+                            "text": "Read “コップ座” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コップ座?oldid=42763827"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "固めの杯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "固めの杯",
+                    "reading": "かためのさかずき"
+                },
+                {
+                    "word": "固めの盃",
+                    "reading": "かためのさかずき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cup of sake used to drink to the establishment of a partnership, commitment to marriage, etc.",
+                        "nuptial cup of sake"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ホール-1",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ホール"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hole"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "hole",
+                        "cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Golf"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(electron) hole"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Physics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "正孔"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "賜杯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "賜杯",
+                    "reading": "しはい"
+                },
+                {
+                    "word": "賜盃",
+                    "reading": "しはい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Emperor's cup",
+                        "trophy given by the Emperor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "酒杯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "酒杯",
+                    "reading": "しゅはい"
+                },
+                {
+                    "word": "酒盃",
+                    "reading": "しゅはい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sake cup",
+                        "wine cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "金杯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "金杯",
+                    "reading": "きんぱい"
+                },
+                {
+                    "word": "金盃",
+                    "reading": "きんぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gold cup",
+                        "gilded cup",
+                        "goblet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "吸い飲み",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "吸い飲み",
+                    "reading": "すいのみ"
+                },
+                {
+                    "word": "吸い呑み",
+                    "reading": "すいのみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "convalescent feeding cup",
+                        "spout cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "賞杯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "賞杯",
+                    "reading": "しょうはい"
+                },
+                {
+                    "word": "賞盃",
+                    "reading": "しょうはい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "trophy",
+                        "prize cup"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,865 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "倉庫",
+            "is_common": true,
+            "tags": [
+                "wanikani31"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "倉庫",
+                    "reading": "そうこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storehouse",
+                        "warehouse",
+                        "godown"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Warehouse” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Warehouse?oldid=495502462"
+                        },
+                        {
+                            "text": "Read “倉庫” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/倉庫?oldid=42754972"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵",
+            "is_common": true,
+            "tags": [
+                "wanikani28",
+                "wanikani31",
+                "wanikani33"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "蔵",
+                    "reading": "くら"
+                },
+                {
+                    "word": "倉",
+                    "reading": "くら"
+                },
+                {
+                    "word": "庫",
+                    "reading": "くら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse",
+                        "storehouse",
+                        "cellar",
+                        "magazine",
+                        "granary",
+                        "godown",
+                        "depository",
+                        "treasury",
+                        "elevator"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "保存庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "保存庫",
+                    "reading": "ほぞんこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage",
+                        "warehouse",
+                        "depot"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ウエアハウス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ウェアハウス"
+                },
+                {
+                    "word": null,
+                    "reading": "ウエアハウス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "火薬庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "火薬庫",
+                    "reading": "かやくこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gunpowder magazine",
+                        "magazine",
+                        "explosives warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "powder keg"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kayakuko"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ammunition dump"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Ammunition dump” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Ammunition_dump?oldid=482782238"
+                        },
+                        {
+                            "text": "Read “火薬庫” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/火薬庫?oldid=41760890"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "保管所",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "保管所",
+                    "reading": "ほかんじょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage center",
+                        "deposit",
+                        "depository",
+                        "repository",
+                        "warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "倉荷",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "倉荷",
+                    "reading": "くらに"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse goods"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "倉主",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "倉主",
+                    "reading": "くらぬし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse owner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵造り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蔵造り",
+                    "reading": "くらづくり"
+                },
+                {
+                    "word": "蔵づくり",
+                    "reading": "くらづくり"
+                },
+                {
+                    "word": "倉造り",
+                    "reading": "くらづくり"
+                },
+                {
+                    "word": "倉づくり",
+                    "reading": "くらづくり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse style",
+                        "house built like a kura, with the walls covered in mud"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "土蔵造り"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "building a kura storehouse",
+                        "someone who builds kura storehouses"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "保税倉庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "保税倉庫",
+                    "reading": "ほぜいそうこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bonded warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "倉敷料",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "倉敷料",
+                    "reading": "くらしきりょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage charges",
+                        "warehouse charges"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵払い",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蔵払い",
+                    "reading": "くらばらい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "clearance sale",
+                        "warehouse sale"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "蔵ざらえ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蔵入れ",
+                    "reading": "くらいれ"
+                },
+                {
+                    "word": "倉入れ",
+                    "reading": "くらいれ"
+                },
+                {
+                    "word": "庫入れ",
+                    "reading": "くらいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehousing",
+                        "storing in a warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "蔵出し"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵開き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蔵開き",
+                    "reading": "くらびらき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "first opening of warehouse after New Year"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ウエアハウスストア",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ウェアハウスストア"
+                },
+                {
+                    "word": null,
+                    "reading": "ウエアハウスストア"
+                },
+                {
+                    "word": null,
+                    "reading": "ウェアハウス・ストア"
+                },
+                {
+                    "word": null,
+                    "reading": "ウエアハウス・ストア"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "warehouse store"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Warehouse store"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Warehouse store” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Warehouse_store?oldid=458615603"
+                        },
+                        {
+                            "text": "Read “ウエアハウスストア” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ウエアハウスストア?oldid=9275025"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "データウェアハウス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "データウェアハウス"
+                },
+                {
+                    "word": null,
+                    "reading": "データ・ウェアハウス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "data warehouse",
+                        "data warehousing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Data warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Data warehouse” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Data_warehouse?oldid=495012169"
+                        },
+                        {
+                            "text": "Read “データウェアハウス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/データウェアハウス?oldid=40775011"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "内倉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "内倉",
+                    "reading": "うちぐら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "godown within a compound",
+                        "warehouse within a building complex"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Rare term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蔵元",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蔵元",
+                    "reading": "くらもと"
+                },
+                {
+                    "word": "倉本",
+                    "reading": "くらもと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brewery (sake, soy)",
+                        "brewer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "warehouse overseer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "倉庫に納める",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "倉庫に納める",
+                    "reading": "そうこにおさめる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to store in a warehouse"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "官庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "官庫",
+                    "reading": "かんこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "national treasury"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "warehouse owned by the government"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

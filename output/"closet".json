@@ -1,0 +1,822 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "押し入れ",
+            "is_common": true,
+            "tags": [
+                "wanikani32"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "押入れ",
+                    "reading": "おしいれ"
+                },
+                {
+                    "word": "押し入れ",
+                    "reading": "おしいれ"
+                },
+                {
+                    "word": "押入",
+                    "reading": "おしいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "closet (built into the wall, usu. with sliding doors)",
+                        "(built-in) wardrobe"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Closet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Closet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Closet?oldid=490041604"
+                        },
+                        {
+                            "text": "Read “押入れ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/押入れ?oldid=42069442"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "戸棚",
+            "is_common": true,
+            "tags": [
+                "wanikani44"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "戸棚",
+                    "reading": "とだな"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cupboard",
+                        "locker",
+                        "closet",
+                        "wardrobe",
+                        "cabinet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "便所",
+            "is_common": true,
+            "tags": [
+                "wanikani11"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "便所",
+                    "reading": "べんじょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "toilet",
+                        "lavatory",
+                        "water closet",
+                        "restroom",
+                        "bathroom"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "トイレ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Toilet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Toilet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Toilet?oldid=494608490"
+                        },
+                        {
+                            "text": "Read “便所” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/便所?oldid=42774491"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "小部屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "小部屋",
+                    "reading": "こべや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "small room",
+                        "closet",
+                        "cubicle",
+                        "booth",
+                        "stall"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "部屋"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "クローゼット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "クローゼット"
+                },
+                {
+                    "word": null,
+                    "reading": "クロゼット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "収納庫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "収納庫",
+                    "reading": "しゅうのうこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "closet",
+                        "(storage) shed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "収納家具",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "収納家具",
+                    "reading": "しゅうのうかぐ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "closet",
+                        "cabinet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "物入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "物入れ",
+                    "reading": "ものいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "place for storing things",
+                        "container",
+                        "compartment",
+                        "closet",
+                        "pocket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "納戸",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "納戸",
+                    "reading": "なんど"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage room",
+                        "storeroom",
+                        "closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "grayish blue"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "納戸色"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Nando"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "収納室",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "収納室",
+                    "reading": "しゅうのうしつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage room",
+                        "closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "押し込み",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "押し込み",
+                    "reading": "おしこみ"
+                },
+                {
+                    "word": "押込み",
+                    "reading": "おしこみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "forcing (something) in",
+                        "pushing in"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "burglary",
+                        "burglar"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "押入れ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "掃除用具入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "掃除用具入れ",
+                    "reading": "そうじようぐいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cleaning equipment closet",
+                        "broom closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "洋式",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "洋式",
+                    "reading": "ようしき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Western-style",
+                        "foreign"
+                    ],
+                    "parts_of_speech": [
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Western-style toilet",
+                        "flush toilet",
+                        "water closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＷＬＣ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＷＣＬ",
+                    "reading": "ダブリュー・シー・エル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "walk-in closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ウォークインクローゼット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "on floor plans"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ＳＣＬ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＳＣＬ",
+                    "reading": "エス・シー・エル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "walk-in closet with space for shoes (by the entrance of a house)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "シューズインクロゼット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＳＩＣ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＳＩＣ",
+                    "reading": "エス・アイ・シー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "walk-in closet with space for shoes (by the entrance of a house)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "シューズインクロゼット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＷＩＣ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＷＩＣ",
+                    "reading": "ダブリュー・アイ・シー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "walk-in closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ウォークインクローゼット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "on floor plans"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "衣装部屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "衣装部屋",
+                    "reading": "いしょうべや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "walk-in closet",
+                        "wardrobe room",
+                        "dressing room",
+                        "costume room"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "天袋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "天袋",
+                    "reading": "てんぶくろ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage space above closet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レーゼドラマ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "レーゼドラマ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "closet drama"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "German"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Closet drama"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Closet drama” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Closet_drama?oldid=483304430"
+                        },
+                        {
+                            "text": "Read “レーゼドラマ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/レーゼドラマ?oldid=42687450"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

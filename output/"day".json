@@ -1,0 +1,1195 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "当日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "当日",
+                    "reading": "とうじつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day in question",
+                        "appointed day",
+                        "that very day",
+                        "the day (of issue, publication, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日",
+            "is_common": true,
+            "tags": [
+                "wanikani2"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "日",
+                    "reading": "ひ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day",
+                        "days"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sun",
+                        "sunshine",
+                        "sunlight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(the) day",
+                        "daytime",
+                        "daylight"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "date",
+                        "deadline"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(past) days",
+                        "time (e.g. of one's childhood)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "case (esp. unfortunate)",
+                        "event"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "as 〜した日には, 〜と来た日には, etc."
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "Hi"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Day"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Day” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Day?oldid=494970012"
+                        },
+                        {
+                            "text": "Read “日” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/日?oldid=42374367"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "連日",
+            "is_common": true,
+            "tags": [
+                "wanikani19"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "連日",
+                    "reading": "れんじつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day after day",
+                        "every day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "日にち",
+                    "reading": "ひにち"
+                },
+                {
+                    "word": "日日",
+                    "reading": "ひにち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "date (of a planned event, act, etc.)",
+                        "day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(number of) days"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毎日",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "毎日",
+                    "reading": "まいにち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "every day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Every Single Day (band)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Every Single Day (band)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Every_Single_Day_(band)?oldid=466268769"
+                        },
+                        {
+                            "text": "Read “毎日” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/毎日?oldid=41511436"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "前日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "前日",
+                    "reading": "ぜんじつ"
+                },
+                {
+                    "word": "前日",
+                    "reading": "まえび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "previous day",
+                        "day before",
+                        "eve",
+                        "prior day",
+                        "preceding day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 〜の前日"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "終日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "終日",
+                    "reading": "しゅうじつ"
+                },
+                {
+                    "word": "終日",
+                    "reading": "ひねもす"
+                },
+                {
+                    "word": "終日",
+                    "reading": "ひめもす"
+                },
+                {
+                    "word": "終日",
+                    "reading": "ひもすがら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "all day",
+                        "for a whole day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "定休日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "定休日",
+                    "reading": "ていきゅうび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "regular holiday",
+                        "fixed day off",
+                        "regular closing day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "今日",
+            "is_common": true,
+            "tags": [
+                "wanikani3"
+            ],
+            "jlpt": [
+                "jlpt-n3",
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "今日",
+                    "reading": "きょう"
+                },
+                {
+                    "word": "今日",
+                    "reading": "こんにち"
+                },
+                {
+                    "word": "今日",
+                    "reading": "こんち"
+                },
+                {
+                    "word": "今日",
+                    "reading": "こんじつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "today",
+                        "this day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "these days",
+                        "recently",
+                        "nowadays"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "こんにち"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一日",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1",
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "一日",
+                    "reading": "いちにち"
+                },
+                {
+                    "word": "一日",
+                    "reading": "いちじつ"
+                },
+                {
+                    "word": "１日",
+                    "reading": "いちにち"
+                },
+                {
+                    "word": "１日",
+                    "reading": "いちじつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "all day (long)",
+                        "the whole day",
+                        "from morning till night"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "いちにち"
+                    ],
+                    "see_also": [
+                        "一日中"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "1st day of the month"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "１日 ついたち"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "二十日",
+            "is_common": true,
+            "tags": [
+                "wanikani4"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "２０日",
+                    "reading": "はつか"
+                },
+                {
+                    "word": "２０日",
+                    "reading": "にじゅうにち"
+                },
+                {
+                    "word": "二十日",
+                    "reading": "はつか"
+                },
+                {
+                    "word": "二十日",
+                    "reading": "にじゅうにち"
+                },
+                {
+                    "word": "二〇日",
+                    "reading": "はつか"
+                },
+                {
+                    "word": "二〇日",
+                    "reading": "にじゅうにち"
+                },
+                {
+                    "word": "廿日",
+                    "reading": "はつか"
+                },
+                {
+                    "word": "廿日",
+                    "reading": "にじゅうにち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "20th day of the month"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "20 days"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日に日に",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "日に日に",
+                    "reading": "ひにひに"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day by day",
+                        "by the day"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "daily",
+                        "every day"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "昼寝",
+            "is_common": true,
+            "tags": [
+                "wanikani22"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "昼寝",
+                    "reading": "ひるね"
+                },
+                {
+                    "word": "昼寐",
+                    "reading": "ひるね"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(afternoon) nap",
+                        "sleeping during the day",
+                        "siesta"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Hirune"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Nap"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Nap” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Nap?oldid=495430887"
+                        },
+                        {
+                            "text": "Read “昼寝” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/昼寝?oldid=39884472"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "昼間",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "昼間",
+                    "reading": "ひるま"
+                },
+                {
+                    "word": "昼間",
+                    "reading": "ちゅうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "daytime",
+                        "during the day",
+                        "time from sunrise until sunset",
+                        "diurnal period"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "記念日",
+            "is_common": true,
+            "tags": [
+                "wanikani16"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "記念日",
+                    "reading": "きねんび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "memorial day",
+                        "commemoration day",
+                        "anniversary"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Anniversary"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Anniversary” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Anniversary?oldid=495421377"
+                        },
+                        {
+                            "text": "Read “記念日” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/記念日?oldid=42498536"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "休暇",
+            "is_common": true,
+            "tags": [
+                "wanikani27"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "休暇",
+                    "reading": "きゅうか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "holiday",
+                        "day off",
+                        "furlough",
+                        "absence (from work)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "来る日も来る日も",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "来る日も来る日も",
+                    "reading": "くるひもくるひも"
+                },
+                {
+                    "word": "くる日もくる日も",
+                    "reading": "くるひもくるひも"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day after day",
+                        "day in and day out",
+                        "every single day"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "デー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "デー"
+                },
+                {
+                    "word": null,
+                    "reading": "デイ"
+                },
+                {
+                    "word": null,
+                    "reading": "ディ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day (as in holiday)"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "daytime"
+                    ],
+                    "parts_of_speech": [
+                        "Noun or verb acting prenominally"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "デーゲーム"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "休む",
+            "is_common": true,
+            "tags": [
+                "wanikani4"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "休む",
+                    "reading": "やすむ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to be absent",
+                        "to take a day off"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'mu' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to rest",
+                        "to have a break"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'mu' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to go to bed",
+                        "to (lie down to) sleep",
+                        "to turn in",
+                        "to retire"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'mu' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to stop doing some ongoing activity for a time",
+                        "to suspend business"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with 'mu' ending",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一昨日",
+            "is_common": true,
+            "tags": [
+                "wanikani17"
+            ],
+            "jlpt": [
+                "jlpt-n2",
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "一昨日",
+                    "reading": "おととい"
+                },
+                {
+                    "word": "一昨日",
+                    "reading": "おとつい"
+                },
+                {
+                    "word": "一昨日",
+                    "reading": "いっさくじつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day before yesterday"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Daytime (astronomy)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Daytime (astronomy)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Daytime_(astronomy)?oldid=492508826"
+                        },
+                        {
+                            "text": "Read “一昨日” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/一昨日?oldid=42531761"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

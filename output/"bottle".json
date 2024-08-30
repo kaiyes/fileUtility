@@ -1,0 +1,1010 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "瓶",
+            "is_common": true,
+            "tags": [
+                "wanikani51"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "瓶",
+                    "reading": "びん"
+                },
+                {
+                    "word": "壜",
+                    "reading": "びん"
+                },
+                {
+                    "word": "罎",
+                    "reading": "びん"
+                },
+                {
+                    "word": null,
+                    "reading": "ビン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bottle",
+                        "jar",
+                        "decanter",
+                        "flagon",
+                        "phial",
+                        "vial"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ボトル",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ボトル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "水筒",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "水筒",
+                    "reading": "すいとう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "canteen",
+                        "flask",
+                        "water bottle",
+                        "thermos"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Canteen (bottle)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Canteen (bottle)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Canteen_(bottle)?oldid=491977665"
+                        },
+                        {
+                            "text": "Read “水筒” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/水筒?oldid=42451639"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "哺乳瓶",
+            "is_common": false,
+            "tags": [
+                "wanikani54"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "哺乳瓶",
+                    "reading": "ほにゅうびん"
+                },
+                {
+                    "word": "哺乳びん",
+                    "reading": "ほにゅうびん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "baby bottle",
+                        "nursing bottle",
+                        "feeding bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Baby bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Baby bottle” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Baby_bottle?oldid=481347606"
+                        },
+                        {
+                            "text": "Read “哺乳瓶” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/哺乳瓶?oldid=40762099"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "魔法瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "魔法瓶",
+                    "reading": "まほうびん"
+                },
+                {
+                    "word": "魔法びん",
+                    "reading": "まほうびん"
+                },
+                {
+                    "word": null,
+                    "reading": "マホービン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "thermos bottle",
+                        "vacuum flask"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Vacuum flask"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Vacuum flask” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Vacuum_flask?oldid=492051937"
+                        },
+                        {
+                            "text": "Read “魔法瓶” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/魔法瓶?oldid=41624281"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "空き瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "空き瓶",
+                    "reading": "あきびん"
+                },
+                {
+                    "word": "空きびん",
+                    "reading": "あきびん"
+                },
+                {
+                    "word": "空き壜",
+                    "reading": "あきびん"
+                },
+                {
+                    "word": "空きビン",
+                    "reading": "あきビン"
+                },
+                {
+                    "word": "空瓶",
+                    "reading": "からびん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "empty bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "酒屋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "酒屋",
+                    "reading": "さかや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "liquor store",
+                        "wine shop",
+                        "bottle shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sake dealer",
+                        "liquor-store owner",
+                        "brewer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "徳利",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "徳利",
+                    "reading": "とっくり"
+                },
+                {
+                    "word": "徳利",
+                    "reading": "とくり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sake bottle",
+                        "tall and slender bottle with a narrow mouth made from ceramic, metal or glass that can be used for sake, shoyu or rice vinegar"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "turtleneck (sweater)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "non-swimmer",
+                        "person who cannot swim"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "人工栄養",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "人工栄養",
+                    "reading": "じんこうえいよう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bottle feeding"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "母乳栄養"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "artificial nourishment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "栓抜き",
+            "is_common": true,
+            "tags": [
+                "wanikani55"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "栓抜き",
+                    "reading": "せんぬき"
+                },
+                {
+                    "word": "栓抜",
+                    "reading": "せんぬき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bottle opener",
+                        "corkscrew"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bottle opener"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bottle opener” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bottle_opener?oldid=491942727"
+                        },
+                        {
+                            "text": "Read “栓抜き” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/栓抜き?oldid=42534885"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一瓶",
+                    "reading": "ひとびん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "尿瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "尿瓶",
+                    "reading": "しびん"
+                },
+                {
+                    "word": "溲瓶",
+                    "reading": "しびん"
+                },
+                {
+                    "word": "溲瓶",
+                    "reading": "しゅびん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "urine bottle",
+                        "(urinary) bedpan",
+                        "chamber pot (esp. medical)",
+                        "urinal"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ジャー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ジャー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vacuum bottle",
+                        "thermos"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "jar"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. meaning"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "破瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "破瓶",
+                    "reading": "はびん"
+                },
+                {
+                    "word": "破びん",
+                    "reading": "はびん"
+                },
+                {
+                    "word": "破ビン",
+                    "reading": "はビン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bottle breakage",
+                        "broken bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ポット",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ポット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pot (esp. teapot, coffee-pot)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "vacuum bottle",
+                        "thermos flask"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ghatam"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Ghatam” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Ghatam?oldid=486067342"
+                        },
+                        {
+                            "text": "Read “ポット” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ポット?oldid=36852574"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＰＥＴボトル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＰＥＴボトル",
+                    "reading": "ペットボトル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "plastic bottle (made of polyethylene terephthalate)",
+                        "PET bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "酒店",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "酒店",
+                    "reading": "さかだな"
+                },
+                {
+                    "word": "酒店",
+                    "reading": "さかみせ"
+                },
+                {
+                    "word": "酒店",
+                    "reading": "しゅてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "liquor store",
+                        "off-licence",
+                        "bottle shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "hotel (in China)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "しゅてん"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "集気瓶",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "集気瓶",
+                    "reading": "しゅうきびん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gas collecting bottle",
+                        "gas collection bottle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "瓢箪",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "瓢箪",
+                    "reading": "ひょうたん"
+                },
+                {
+                    "word": null,
+                    "reading": "ヒョウタン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "calabash (Lagenaria siceraria)",
+                        "bottle gourd"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "gourd (container)",
+                        "calabash"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Hyoutan"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Calabash"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Calabash” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Calabash?oldid=494429028"
+                        },
+                        {
+                            "text": "Read “ヒョウタン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ヒョウタン?oldid=42247530"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "マイボトル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "マイボトル"
+                },
+                {
+                    "word": null,
+                    "reading": "マイ・ボトル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(reusable) drinks bottle",
+                        "water bottle",
+                        "thermos bottle",
+                        "vacuum flask"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

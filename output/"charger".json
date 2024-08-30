@@ -1,0 +1,266 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "チャージャー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "チャージャー"
+                },
+                {
+                    "word": null,
+                    "reading": "チャージャ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "charger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Charger"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Charger” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Charger?oldid=478543637"
+                        },
+                        {
+                            "text": "Read “チャージャー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/チャージャー?oldid=37932551"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "充電器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "充電器",
+                    "reading": "じゅうでんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(battery) charger",
+                        "AC adapter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "チャージ機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "チャージ機",
+                    "reading": "チャージき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "card charger",
+                        "charge machine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "モバブ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "モバブ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "portable cellphone charger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. an abbr. for the trademark モバイルブースター"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "モバイルバッテリー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "モバイルバッテリー"
+                },
+                {
+                    "word": null,
+                    "reading": "モバイル・バッテリー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "portable battery charger",
+                        "external battery",
+                        "power bank"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "モバ充",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "モバ充",
+                    "reading": "モバじゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "portable battery charger",
+                        "power bank"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from モバイル + 充電器"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "持ち充",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "持ち充",
+                    "reading": "もちじゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "portable battery charger",
+                        "power bank"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "モバ充"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from 持ち歩く + 充電器"
+                    ]
+                }
+            ]
+        }
+    ]
+}

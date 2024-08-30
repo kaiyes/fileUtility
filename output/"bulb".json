@@ -1,0 +1,1096 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "球根",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "球根",
+                    "reading": "きゅうこん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(plant) bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bulb” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bulb?oldid=490521598"
+                        },
+                        {
+                            "text": "Read “球根” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/球根?oldid=42383821"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電球",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "電球",
+                    "reading": "でんきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "白熱電球"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Incandescent light bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Incandescent light bulb” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Incandescent_light_bulb?oldid=493816071"
+                        },
+                        {
+                            "text": "Read “電球” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/電球?oldid=41908466"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "バルブ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "バルブ"
+                },
+                {
+                    "word": null,
+                    "reading": "ヴァルヴ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "valve"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Valve"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Valve” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Valve?oldid=494123099"
+                        },
+                        {
+                            "text": "Read “バルブ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/バルブ?oldid=42321135"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "球",
+            "is_common": true,
+            "tags": [
+                "wanikani12"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "球",
+                    "reading": "きゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sphere",
+                        "globe",
+                        "ball",
+                        "bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "ball",
+                        "sphere"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Mathematics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "球体",
+                        "球面"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for pitches"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Baseball"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蹄球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蹄球",
+                    "reading": "ていきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bulb (of an animal's hoof)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "バルブ-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "バルブ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鱗茎",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鱗茎",
+                    "reading": "りんけい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bulb (of a lily, tulip, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Botany"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "玉",
+            "is_common": true,
+            "tags": [
+                "wanikani2",
+                "wanikani37"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "玉",
+                    "reading": "たま"
+                },
+                {
+                    "word": "球",
+                    "reading": "たま"
+                },
+                {
+                    "word": "珠",
+                    "reading": "たま"
+                },
+                {
+                    "word": "弾",
+                    "reading": "たま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ball",
+                        "sphere",
+                        "globe",
+                        "orb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bead (of sweat, dew, etc.)",
+                        "drop",
+                        "droplet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "ball (in sports)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 球"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "pile (of noodles, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bullet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 弾; also written as 弾丸"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "bulb (i.e. a light bulb)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 球"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "lens (of glasses, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bead (of an abacus)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 玉, 珠"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "ball (i.e. a testicle)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "金玉 きんたま"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 玉"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "gem",
+                        "jewel (esp. spherical; sometimes used figuratively)",
+                        "pearl"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 玉, 珠; also written as 璧"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "female entertainer (e.g. a geisha)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "person (when commenting on their nature)",
+                        "character"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Derogatory"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "item, funds or person used as part of a plot"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "egg"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "玉"
+                    ],
+                    "see_also": [
+                        "玉子"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "okonomiyaki"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Food, cooking"
+                    ],
+                    "restrictions": [
+                        "玉"
+                    ],
+                    "see_also": [
+                        "お好み焼き"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "coin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. だま"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "precious",
+                        "beautiful",
+                        "excellent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "裸電球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "裸電球",
+                    "reading": "はだかでんきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "naked light bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "白熱電球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "白熱電球",
+                    "reading": "はくねつでんきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light bulb",
+                        "incandescent light bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "電球"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "前庭球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "前庭球",
+                    "reading": "ぜんていきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vestibular bulb",
+                        "bulb of the vestibule"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Anatomy"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "麦球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "麦球",
+                    "reading": "むぎきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wheat bulb",
+                        "wheat grain light bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "嗅球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "嗅球",
+                    "reading": "きゅうきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "olfactory bulb",
+                        "bulbus olfactorius"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Olfactory bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Olfactory bulb” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Olfactory_bulb?oldid=487991661"
+                        },
+                        {
+                            "text": "Read “嗅球” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/嗅球?oldid=39784985"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "二連球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "二連球",
+                    "reading": "にれんきゅう"
+                },
+                {
+                    "word": "２連球",
+                    "reading": "にれんきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bulb with reservoir",
+                        "double balloon"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "閃光電球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "閃光電球",
+                    "reading": "せんこうでんきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "flash bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ナツメ球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ナツメ球",
+                    "reading": "ナツメきゅう"
+                },
+                {
+                    "word": "なつめ球",
+                    "reading": "なつめきゅう"
+                },
+                {
+                    "word": "棗球",
+                    "reading": "なつめきゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "night-light bulb",
+                        "jujube bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "棗"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "暑さ指数",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "暑さ指数",
+                    "reading": "あつさしすう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wet bulb globe temperature index",
+                        "WBGT index",
+                        "heat stress index"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "百合根",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "百合根",
+                    "reading": "ゆりね"
+                },
+                {
+                    "word": "ユリ根",
+                    "reading": "ユリね"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "lily bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電気の球",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電気の球",
+                    "reading": "でんきのたま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "electric (light) bulb"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "子株",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "子株",
+                    "reading": "こかぶ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "new bulb",
+                        "new root",
+                        "new stock"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "new share",
+                        "new stock"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Finance"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "新株"
+                    ],
+                    "antonyms": [
+                        "親株"
+                    ],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

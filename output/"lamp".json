@@ -1,0 +1,1012 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "灯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3",
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "灯",
+                    "reading": "ひ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Candlepower"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Candlepower” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Candlepower?oldid=491140098"
+                        },
+                        {
+                            "text": "Read “燭” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/燭?oldid=25340327"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "明かり",
+            "is_common": true,
+            "tags": [
+                "wanikani48"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "明かり",
+                    "reading": "あかり"
+                },
+                {
+                    "word": "明り",
+                    "reading": "あかり"
+                },
+                {
+                    "word": "灯り",
+                    "reading": "あかり"
+                },
+                {
+                    "word": "灯",
+                    "reading": "あかり"
+                },
+                {
+                    "word": "灯かり",
+                    "reading": "あかり"
+                },
+                {
+                    "word": "灯火",
+                    "reading": "あかり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "illumination",
+                        "glow",
+                        "gleam"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "明かり",
+                        "明り"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "lamp",
+                        "light"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "明かりを消す"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "洋灯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "洋灯",
+                    "reading": "ようとう"
+                },
+                {
+                    "word": "洋灯",
+                    "reading": "ランプ"
+                },
+                {
+                    "word": "洋燈",
+                    "reading": "ようとう"
+                },
+                {
+                    "word": "洋燈",
+                    "reading": "ランプ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ランプ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＬＡＭＰ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "ＬＡＭＰ",
+                    "reading": "ランプ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "LAMP",
+                        "solution stack of free, open source software"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "from initials of Linux, Apache, MySQL, PHP"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ランプ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ランプ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "lamp",
+                        "light"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        },
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "蛍光灯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "蛍光灯",
+                    "reading": "けいこうとう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fluorescent lamp",
+                        "fluorescent light"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "person who is slow to react",
+                        "someone slow on the uptake"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Dated term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Fluorescent lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Fluorescent lamp” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Fluorescent_lamp?oldid=495400012"
+                        },
+                        {
+                            "text": "Read “蛍光灯” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/蛍光灯?oldid=42271878"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯油",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "灯油",
+                    "reading": "とうゆ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "kerosene",
+                        "paraffin",
+                        "lamp oil"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ストロボ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ストロボ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "stroboscope",
+                        "strobe lamp",
+                        "stroboscopic lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(camera) flash"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "灯",
+                    "reading": "あかし"
+                },
+                {
+                    "word": "灯し",
+                    "reading": "あかし"
+                },
+                {
+                    "word": "明かし",
+                    "reading": "あかし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light (esp. as a religious offering)",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "御明かし"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "燭",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "燭",
+                    "reading": "しょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "obsolete unit of luminous intensity (approx. 1.0067 candela)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯火-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "灯火",
+                    "reading": "ともしび"
+                },
+                {
+                    "word": "灯",
+                    "reading": "ともしび"
+                },
+                {
+                    "word": "燭",
+                    "reading": "ともしび"
+                },
+                {
+                    "word": "燈火",
+                    "reading": "ともしび"
+                },
+                {
+                    "word": "灯し火",
+                    "reading": "ともしび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp",
+                        "torch"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "点火-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "点火",
+                    "reading": "とぼし"
+                },
+                {
+                    "word": "灯",
+                    "reading": "とぼし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Toboshi"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯-2",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "灯",
+                    "reading": "とう"
+                },
+                {
+                    "word": "燈",
+                    "reading": "とう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for electric lights"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix",
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯-3",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "灯",
+                    "reading": "ともし"
+                },
+                {
+                    "word": "照射",
+                    "reading": "ともし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "light",
+                        "lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "灯"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "baiting deer with a lighted torch"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. 照射"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ＬＡＭＰ法",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＬＡＭＰ法",
+                    "reading": "ランプほう"
+                },
+                {
+                    "word": "ランプ法",
+                    "reading": "ランプほう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "loop-mediated isothermal amplification",
+                        "LAMP"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Medicine"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "スタンド",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "スタンド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "stands",
+                        "bleachers"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "stand (e.g. newspaper stand)",
+                        "counter (e.g. lunch counter)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "stand (e.g. inkstand)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "desk lamp",
+                        "floor lamp",
+                        "standard lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "電気スタンド でんきスタンド"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "station (e.g. gas station)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ガソリンスタンド"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Stand"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Stand” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Stand?oldid=487227211"
+                        },
+                        {
+                            "text": "Read “スタンド” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/スタンド?oldid=37797868"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "点灯管",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "点灯管",
+                    "reading": "てんとうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gas discharge lamp starter",
+                        "fluorescent lamp starter",
+                        "glow starter"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "灯下",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "灯下",
+                    "reading": "とうか"
+                },
+                {
+                    "word": "燈下",
+                    "reading": "とうか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "place by the lamp",
+                        "area under the lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電気スタンド",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電気スタンド",
+                    "reading": "でんきスタンド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "desk lamp",
+                        "floor lamp",
+                        "standard lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "吊りランプ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "吊りランプ",
+                    "reading": "つりランプ"
+                },
+                {
+                    "word": "吊ランプ",
+                    "reading": "つりランプ"
+                },
+                {
+                    "word": "釣りランプ",
+                    "reading": "つりランプ"
+                },
+                {
+                    "word": "釣ランプ",
+                    "reading": "つりランプ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "droplight",
+                        "hanging lamp",
+                        "pendant",
+                        "pendent lamp",
+                        "swinging lamp"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

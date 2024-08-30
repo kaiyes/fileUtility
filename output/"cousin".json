@@ -1,0 +1,787 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "従兄弟",
+            "is_common": true,
+            "tags": [
+                "wanikani28"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "従兄弟",
+                    "reading": "いとこ"
+                },
+                {
+                    "word": "従兄弟",
+                    "reading": "じゅうけいてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (male)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "従姉妹"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "従姉妹",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "従姉妹",
+                    "reading": "いとこ"
+                },
+                {
+                    "word": "従姉妹",
+                    "reading": "じゅうしまい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (female)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "従兄弟"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "従兄",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "従兄",
+                    "reading": "じゅうけい"
+                },
+                {
+                    "word": "従兄",
+                    "reading": "いとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (older male)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "従弟"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "従姉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "従姉",
+                    "reading": "じゅうし"
+                },
+                {
+                    "word": "従姉",
+                    "reading": "いとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (older female)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "従妹"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "従弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "従弟",
+                    "reading": "じゅうてい"
+                },
+                {
+                    "word": "従弟",
+                    "reading": "いとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (younger male)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "従兄"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "従妹",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "従妹",
+                    "reading": "じゅうまい"
+                },
+                {
+                    "word": "従妹",
+                    "reading": "いとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin (younger female)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "従姉"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "カズン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カズン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "従兄弟",
+                        "従姉妹"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "又従兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "又従兄弟",
+                    "reading": "またいとこ"
+                },
+                {
+                    "word": "又従姉妹",
+                    "reading": "またいとこ"
+                },
+                {
+                    "word": "又従兄",
+                    "reading": "またいとこ"
+                },
+                {
+                    "word": "又従弟",
+                    "reading": "またいとこ"
+                },
+                {
+                    "word": "又従兄妹",
+                    "reading": "またいとこ"
+                },
+                {
+                    "word": "又従姉弟",
+                    "reading": "またいとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "再従兄弟 はとこ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "又従兄 and 又従弟 are abbr."
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "いとこ違い",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "いとこ違い",
+                    "reading": "いとこちがい"
+                },
+                {
+                    "word": "従兄弟違い",
+                    "reading": "いとこちがい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent's cousin",
+                        "first-cousin once removed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "いとこ婚",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "いとこ婚",
+                    "reading": "いとここん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cousin marriage",
+                        "marriage between cousins"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Cousin marriage"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Cousin marriage” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Cousin_marriage?oldid=495204304"
+                        },
+                        {
+                            "text": "Read “いとこ婚” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/いとこ婚?oldid=42627245"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "いとこ半",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "いとこ半",
+                    "reading": "いとこはん"
+                },
+                {
+                    "word": "従兄弟半",
+                    "reading": "いとこはん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "first cousin once removed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "二従兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "二従兄弟",
+                    "reading": "ふたいとこ"
+                },
+                {
+                    "word": "二従姉妹",
+                    "reading": "ふたいとこ"
+                },
+                {
+                    "word": "二従兄妹",
+                    "reading": "ふたいとこ"
+                },
+                {
+                    "word": "二従姉弟",
+                    "reading": "ふたいとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "又従兄弟 またいとこ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "弥従兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "弥従兄弟",
+                    "reading": "いやいとこ"
+                },
+                {
+                    "word": "弥従姉妹",
+                    "reading": "いやいとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone",
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "再従兄弟"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "再従兄",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "再従兄",
+                    "reading": "さいじゅうけい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "elder second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "再従弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "再従弟",
+                    "reading": "さいじゅうてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "younger second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "いとこのビニー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "いとこのビニー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "My Cousin Vinny (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Work of art, literature, music, etc. name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "My Cousin Vinny"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “My Cousin Vinny” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/My_Cousin_Vinny?oldid=492198391"
+                        },
+                        {
+                            "text": "Read “いとこのビニー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/いとこのビニー?oldid=42693861"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "三従兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "三従兄弟",
+                    "reading": "さんじゅうけいてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "はとこ",
+                        "又従兄弟 またいとこ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "三従兄弟-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "三従兄弟",
+                    "reading": "みいとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "third cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "再従兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "再従兄弟",
+                    "reading": "はとこ"
+                },
+                {
+                    "word": "再従姉妹",
+                    "reading": "はとこ"
+                },
+                {
+                    "word": "再従姉弟",
+                    "reading": "はとこ"
+                },
+                {
+                    "word": "再従兄妹",
+                    "reading": "はとこ"
+                },
+                {
+                    "word": "再従兄弟",
+                    "reading": "はいとこ"
+                },
+                {
+                    "word": "再従兄弟",
+                    "reading": "さいじゅうけいてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "second cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "又従兄弟 またいとこ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "はいとこ is Tohoku dialect"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "51869197d5dda7b2c601efdd",
+            "is_common": null,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "いとこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Cousin"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Cousin” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Cousin?oldid=494101202"
+                        },
+                        {
+                            "text": "Read “いとこ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/いとこ?oldid=42757104"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

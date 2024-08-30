@@ -1,0 +1,897 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "写真",
+            "is_common": true,
+            "tags": [
+                "wanikani16"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "写真",
+                    "reading": "しゃしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photograph",
+                        "photo",
+                        "picture",
+                        "snapshot",
+                        "snap"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "moving picture",
+                        "movie"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Obsolete term",
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "活動写真"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Photography"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Photography” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Photography?oldid=495472756"
+                        },
+                        {
+                            "text": "Read “写真” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/写真?oldid=42778438"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "フォト",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "フォト"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Phot"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Phot” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Phot?oldid=477198725"
+                        },
+                        {
+                            "text": "Read “フォト” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/フォト?oldid=41432003"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "画面",
+            "is_common": true,
+            "tags": [
+                "wanikani16"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "画面",
+                    "reading": "がめん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "screen (of a TV, computer, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "image (on a screen)",
+                        "picture",
+                        "scene"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "surface of a painting (picture, drawing, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真屋",
+                    "reading": "しゃしんや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo studio",
+                        "photographer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "camera shop",
+                        "photography supplies shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "photo processing shop",
+                        "photo finishing shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "合成",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "合成",
+                    "reading": "ごうせい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "composition",
+                        "synthesis",
+                        "compounding",
+                        "combining"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "composite photo"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(function) composition"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Mathematics"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Synthesis"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Synthesis” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Synthesis?oldid=486947773"
+                        },
+                        {
+                            "text": "Read “合成” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/合成?oldid=42050312"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "焼き増し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "焼き増し",
+                    "reading": "やきまし"
+                },
+                {
+                    "word": "焼増し",
+                    "reading": "やきまし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo reprint"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真集",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真集",
+                    "reading": "しゃしんしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo book (esp. one featuring photos of female celebrities, models)",
+                        "photobook"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Photo-book"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Photo-book” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Photo-book?oldid=494975601"
+                        },
+                        {
+                            "text": "Read “写真集” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/写真集?oldid=41414690"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "天然色写真",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "天然色写真",
+                    "reading": "てんねんしょくしゃしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "color photo",
+                        "colour photo"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "資料写真",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "資料写真",
+                    "reading": "しりょうしゃしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "archive photo",
+                        "file photo"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "撮影会",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "撮影会",
+                    "reading": "さつえいかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photography event",
+                        "photo session",
+                        "photo shoot"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "書影",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "書影",
+                    "reading": "しょえい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "outward appearance of a book",
+                        "photo of a book's exterior",
+                        "photo of a book's cover"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真判定",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真判定",
+                    "reading": "しゃしんはんてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "deciding the winner from a photo"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Photo finish"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Photo finish” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Photo_finish?oldid=492046642"
+                        },
+                        {
+                            "text": "Read “写真判定” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/写真判定?oldid=38648669"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "間違い探し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "間違い探し",
+                    "reading": "まちがいさがし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "spot the difference (puzzle)",
+                        "photo hunt"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Spot the difference"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Spot the difference” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Spot_the_difference?oldid=489726049"
+                        },
+                        {
+                            "text": "Read “間違い探し” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/間違い探し?oldid=37591054"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真立て",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真立て",
+                    "reading": "しゃしんたて"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo frame (with stand)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "フォトフレーム"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真展",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真展",
+                    "reading": "しゃしんてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo exhibition",
+                        "exhibition of photographs",
+                        "photograph exhibition",
+                        "photographic exhibition"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "顔出し看板",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "顔出し看板",
+                    "reading": "かおだしかんばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo stand-in",
+                        "face in the hole board",
+                        "face cutout stand"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "奇跡の一枚",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "奇跡の一枚",
+                    "reading": "きせきのいちまい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo in which its subject looks much more attractive than their usual self"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Jocular, humorous term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真館",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真館",
+                    "reading": "しゃしんかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo studio"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真投影法",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真投影法",
+                    "reading": "しゃしんとうえいほう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo projective method (esp. in psych.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Rare term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "フォトＣＤ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "フォトＣＤ",
+                    "reading": "フォトシーディー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo CD"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

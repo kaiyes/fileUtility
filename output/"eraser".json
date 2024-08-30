@@ -1,0 +1,740 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "消しゴム",
+            "is_common": true,
+            "tags": [
+                "wanikani14"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "消しゴム",
+                    "reading": "けしゴム"
+                },
+                {
+                    "word": "消ゴム",
+                    "reading": "けしゴム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser",
+                        "rubber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Eraser” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Eraser?oldid=495386694"
+                        },
+                        {
+                            "text": "Read “消しゴム” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/消しゴム?oldid=42679485"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "護謨",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "護謨",
+                    "reading": "ゴム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "gum",
+                        "rubber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Dutch; Flemish"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation",
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "消しゴム"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "condom"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial",
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "字消し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "字消し",
+                    "reading": "じけし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "消しゴム"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "イレーザー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "イレーザー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser",
+                        "rubber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "拭き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "拭き",
+                    "reading": "ふき"
+                },
+                {
+                    "word": "拭き",
+                    "reading": "ぶき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cleaner",
+                        "wiper",
+                        "eraser",
+                        "cloth"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "汗拭き あせふき"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cleaning",
+                        "wiping",
+                        "polishing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "窓拭き まどふき"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "消しカス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "消しカス",
+                    "reading": "けしカス"
+                },
+                {
+                    "word": "消しかす",
+                    "reading": "けしかす"
+                },
+                {
+                    "word": "消し粕",
+                    "reading": "けしかす"
+                },
+                {
+                    "word": "消し滓",
+                    "reading": "けしかす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser dust",
+                        "eraser shavings",
+                        "eraser crumbs"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "消しクズ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "消しクズ",
+                    "reading": "けしくず"
+                },
+                {
+                    "word": "消しくず",
+                    "reading": "けしくず"
+                },
+                {
+                    "word": "消し屑",
+                    "reading": "けしくず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser dust",
+                        "eraser shavings",
+                        "eraser crumbs"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "砂消しゴム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "砂消しゴム",
+                    "reading": "すなけしゴム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sand eraser",
+                        "ink eraser",
+                        "eraser (rubber) that contains sand which makes it able to remove ink"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "字消し板",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "字消し板",
+                    "reading": "じけしばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eraser shield"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "黒板消し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "黒板消し",
+                    "reading": "こくばんけし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "blackboard eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "練り消し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "練り消し",
+                    "reading": "ねりけし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "kneaded eraser",
+                        "putty rubber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "黒板拭き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "黒板拭き",
+                    "reading": "こくばんふき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "blackboard eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インク消し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "インク消し",
+                    "reading": "インクけし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ink eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ink eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Ink eraser” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Ink_eraser?oldid=488027791"
+                        },
+                        {
+                            "text": "Read “インク消し” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/インク消し?oldid=41961885"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "練り消しゴム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "練り消しゴム",
+                    "reading": "ねりけしゴム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "kneaded eraser",
+                        "putty rubber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "練り消し"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kneaded eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Kneaded eraser” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Kneaded_eraser?oldid=492274308"
+                        },
+                        {
+                            "text": "Read “練り消しゴム” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/練り消しゴム?oldid=42478204"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "メディアイレーザ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "メディアイレーザ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "media eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "メディア消磁装置",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "メディア消磁装置",
+                    "reading": "メディアしょうじそうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "media eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "518698f8d5dda7b2c6055fcb",
+            "is_common": null,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "イレイザー (映画)",
+                    "reading": null
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Eraser (film)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Eraser (film)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Eraser_(film)?oldid=483113748"
+                        },
+                        {
+                            "text": "Read “イレイザー (映画)” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/イレイザー_(映画)?oldid=42707733"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "5186a012d5dda7b2c608bd88",
+            "is_common": null,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ジ・イレイザー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "The Eraser"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “The Eraser” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/The_Eraser?oldid=494344982"
+                        },
+                        {
+                            "text": "Read “ジ・イレイザー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ジ・イレイザー?oldid=38452480"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

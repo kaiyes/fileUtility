@@ -1,0 +1,783 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "週",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "週",
+                    "reading": "しゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Week"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Week” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Week?oldid=493867029"
+                        },
+                        {
+                            "text": "Read “週” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/週?oldid=42617478"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "週間",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "週間",
+                    "reading": "しゅうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "先週",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "先週",
+                    "reading": "せんしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "last week",
+                        "the week before"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "来週",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "来週",
+                    "reading": "らいしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "next week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "今週",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "今週",
+                    "reading": "こんしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "this week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毎週",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "毎週",
+                    "reading": "まいしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "every week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "再来週",
+            "is_common": true,
+            "tags": [
+                "wanikani26"
+            ],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "再来週",
+                    "reading": "さらいしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "week after next"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ウィーク",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ウィーク"
+                },
+                {
+                    "word": null,
+                    "reading": "ウイーク"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "週明け",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "週明け",
+                    "reading": "しゅうあけ"
+                },
+                {
+                    "word": "週あけ",
+                    "reading": "しゅうあけ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "beginning of next week (usu. Monday)",
+                        "early next week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "翌週",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "翌週",
+                    "reading": "よくしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "the following week",
+                        "the next week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "彼岸",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "彼岸",
+                    "reading": "ひがん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "equinoctial week (when Buddhist services are held)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Buddhist services during the equinoctial week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "彼岸会"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "nirvana"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Buddhism"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "此岸"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "opposite bank",
+                        "opposite shore",
+                        "shore on the other side"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Formal or literary term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Higan"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Higan” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Higan?oldid=457192820"
+                        },
+                        {
+                            "text": "Read “彼岸” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/彼岸?oldid=40620501"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "当週",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "当週",
+                    "reading": "とうしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "week in question",
+                        "appointed week",
+                        "that very week",
+                        "the week (of issue, publication, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "曜日",
+            "is_common": true,
+            "tags": [
+                "wanikani16"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "曜日",
+                    "reading": "ようび"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "day of the week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Names of the days of the week"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Names of the days of the week” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Names_of_the_days_of_the_week?oldid=495312378"
+                        },
+                        {
+                            "text": "Read “曜日” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/曜日?oldid=42035969"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一週間",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一週間",
+                    "reading": "いっしゅうかん"
+                },
+                {
+                    "word": "１週間",
+                    "reading": "いっしゅうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "丸一週間",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "丸一週間",
+                    "reading": "まるいっしゅうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "the whole week",
+                        "all the week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "先週の今日",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "先週の今日",
+                    "reading": "せんしゅうのきょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "this day last week",
+                        "a week ago today"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "次週",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "次週",
+                    "reading": "じしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "next week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一週",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一週",
+                    "reading": "いっしゅう"
+                },
+                {
+                    "word": "１週",
+                    "reading": "いっしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one week"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "一週間"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "今週中に",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "今週中に",
+                    "reading": "こんしゅうちゅうに"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "before the week is out",
+                        "before the week is over",
+                        "within the week",
+                        "sometime this week"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "前週",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "前週",
+                    "reading": "ぜんしゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "last week",
+                        "the week before"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,968 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "親",
+            "is_common": true,
+            "tags": [
+                "wanikani10"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "親",
+                    "reading": "おや"
+                },
+                {
+                    "word": "祖",
+                    "reading": "おや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent",
+                        "parents",
+                        "mother and father"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "親"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "dealer",
+                        "banker"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Card games",
+                        "Mahjong"
+                    ],
+                    "restrictions": [
+                        "親"
+                    ],
+                    "see_also": [
+                        "子"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "founder",
+                        "inventor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(pet) owner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "親"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "key",
+                        "parent (organization)",
+                        "main"
+                    ],
+                    "parts_of_speech": [
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "親"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "ancestor",
+                        "forefather"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Parent"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Parent” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Parent?oldid=492801562"
+                        },
+                        {
+                            "text": "Read “親” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/親?oldid=42420282"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "保護者",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "保護者",
+                    "reading": "ほごしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "guardian",
+                        "protector",
+                        "patron",
+                        "parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親バカ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親バカ",
+                    "reading": "おやばか"
+                },
+                {
+                    "word": "親ばか",
+                    "reading": "おやばか"
+                },
+                {
+                    "word": "親馬鹿",
+                    "reading": "おやばか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "over-fond parent",
+                        "doting parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親子",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親子",
+                    "reading": "おやこ"
+                },
+                {
+                    "word": "親子",
+                    "reading": "しんし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent and child"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ペアレント",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ペアレント"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Parent"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "子持ち",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "子持ち",
+                    "reading": "こもち"
+                },
+                {
+                    "word": "子持",
+                    "reading": "こもち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parenthood",
+                        "parent or someone with children on the way (esp. an expecting mother)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(of a fish) containing roe (eggs)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Komochi"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親鳥",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親鳥",
+                    "reading": "おやどり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent bird"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "本社",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "本社",
+                    "reading": "ほんしゃ"
+                },
+                {
+                    "word": "本社",
+                    "reading": "ほんじゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "head office",
+                        "main office",
+                        "headquarters",
+                        "parent company"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "ほんしゃ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "main shrine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "this company",
+                        "this shrine"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "ほんしゃ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "片親",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "片親",
+                    "reading": "かたおや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "二親 ふたおや"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "single parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親譲り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親譲り",
+                    "reading": "おやゆずり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "inheritance from a parent (property, trait, physique, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親の七光",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親の七光り",
+                    "reading": "おやのななひかり"
+                },
+                {
+                    "word": "親の七光",
+                    "reading": "おやのななひかり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "benefiting from the fame or influence of a parent",
+                        "riding a parent's coat-tails"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Idiomatic expression"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "垂乳根",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "垂乳根",
+                    "reading": "たらちね"
+                },
+                {
+                    "word": "足乳根",
+                    "reading": "たらちね"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother",
+                        "father",
+                        "parent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "母体",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "母体",
+                    "reading": "ぼたい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mother's body (esp. when pregnant or after giving birth)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "parent body",
+                        "parent organization",
+                        "base",
+                        "basis",
+                        "nucleus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "三者面談",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "三者面談",
+                    "reading": "さんしゃめんだん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent and child meeting (with teacher for course, career guidance, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "養親",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "養親",
+                    "reading": "ようしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "adopter",
+                        "adopting parent or parents",
+                        "adoptive parent or parents",
+                        "foster parent or parents"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "完全親会社",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "完全親会社",
+                    "reading": "かんぜんおやがいしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "full parent company",
+                        "wholly-owning parent company",
+                        "sole parent company"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "里親",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "里親",
+                    "reading": "さとおや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "foster parent",
+                        "foster parents"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "里子"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(pet) caretaker"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Foster care"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Foster care” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Foster_care?oldid=494053636"
+                        },
+                        {
+                            "text": "Read “里親” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/里親?oldid=41833970"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親会社",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親会社",
+                    "reading": "おやがいしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent company"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "親株",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "親株",
+                    "reading": "おやかぶ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "parent plant",
+                        "mother plant",
+                        "parent stock"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "parent strain"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Biology"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "old shares",
+                        "old stock",
+                        "previously issued shares"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Finance"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "旧株"
+                    ],
+                    "antonyms": [
+                        "子株"
+                    ],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毒親",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "毒親",
+                    "reading": "どくおや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "toxic parent",
+                        "parent who interferes excessively in their children's lives"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

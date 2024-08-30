@@ -1,0 +1,1395 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "容器",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "容器",
+                    "reading": "ようき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container",
+                        "receptacle",
+                        "vessel",
+                        "packaging"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "入れ物",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "入れ物",
+                    "reading": "いれもの"
+                },
+                {
+                    "word": "容れ物",
+                    "reading": "いれもの"
+                },
+                {
+                    "word": "入物",
+                    "reading": "いれもの"
+                },
+                {
+                    "word": "容物",
+                    "reading": "いれもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container",
+                        "case",
+                        "receptacle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "coffin",
+                        "casket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Euphemistic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "棺"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "器",
+            "is_common": true,
+            "tags": [
+                "wanikani13"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "器",
+                    "reading": "うつわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bowl",
+                        "vessel",
+                        "container"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "ability",
+                        "capacity",
+                        "calibre",
+                        "caliber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "入れ",
+                    "reading": "いれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container",
+                        "receptacle",
+                        "case",
+                        "bag",
+                        "pouch",
+                        "box",
+                        "holder"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "名刺入れ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "inserting",
+                        "putting in"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "車庫入れ",
+                        "質入れ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "物入れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "物入れ",
+                    "reading": "ものいれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "place for storing things",
+                        "container",
+                        "compartment",
+                        "closet",
+                        "pocket"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ボックス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ボックス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "box",
+                        "container",
+                        "bin"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "box (in a theatre)",
+                        "booth (in a restaurant, etc.)",
+                        "(orchestra) pit"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "small rectangular building (e.g. telephone box)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rectangular field area (e.g. batter's box, catcher's box)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Baseball"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "box (calfskin)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "central 4x4 area (othello)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "器物",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "器物",
+                    "reading": "きぶつ"
+                },
+                {
+                    "word": "器物",
+                    "reading": "うつわもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "receptacle",
+                        "container",
+                        "vessel"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "utensil",
+                        "implement",
+                        "furniture"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "personal property"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Law"
+                    ],
+                    "restrictions": [
+                        "きぶつ"
+                    ],
+                    "see_also": [
+                        "器物損壊"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "calibre",
+                        "talent",
+                        "ability"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [
+                        "うつわもの"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一杯",
+            "is_common": true,
+            "tags": [
+                "wanikani29"
+            ],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "一杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "１杯",
+                    "reading": "いっぱい"
+                },
+                {
+                    "word": "一盃",
+                    "reading": "いっぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one cup (of)",
+                        "one glass (of)",
+                        "one bowl (of)",
+                        "cupful",
+                        "glassful",
+                        "bowlful",
+                        "spoonful"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one drink (of alcohol)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "full",
+                        "filled (with)",
+                        "brimming (with)",
+                        "crowded",
+                        "packed"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)",
+                        "Noun which may take the genitive case particle 'no'",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "fully",
+                        "to capacity",
+                        "to the maximum",
+                        "as much as possible"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "a lot",
+                        "much",
+                        "many"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "all of ...",
+                        "the entire ..."
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (squid, octopus, crab, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one (boat)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ippai"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンテナ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンテナ"
+                },
+                {
+                    "word": null,
+                    "reading": "コンテナー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container (e.g. shipping)",
+                        "skip"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Intermodal container"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Intermodal container” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Intermodal_container?oldid=490512253"
+                        },
+                        {
+                            "text": "Read “コンテナ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コンテナ?oldid=42412541"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "升",
+            "is_common": false,
+            "tags": [
+                "wanikani60"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "升",
+                    "reading": "ます"
+                },
+                {
+                    "word": "枡",
+                    "reading": "ます"
+                },
+                {
+                    "word": "桝",
+                    "reading": "ます"
+                },
+                {
+                    "word": "斗",
+                    "reading": "ます"
+                },
+                {
+                    "word": null,
+                    "reading": "マス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "measuring container",
+                        "measuring box",
+                        "measure"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "box (seating at a theatre, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "square on a grid",
+                        "cell of a grid"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "esp. マス"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "square bearing block (at the top of a pillar)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "斗"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Masu (Japanese)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Masu (Japanese)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Masu_(Japanese)?oldid=495168556"
+                        },
+                        {
+                            "text": "Read “枡” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/枡?oldid=42485526"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "笥",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "笥",
+                    "reading": "け"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container (esp. for food)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パック",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パック"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pack",
+                        "packet",
+                        "carton"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to pack",
+                        "to package",
+                        "to wrap"
+                    ],
+                    "parts_of_speech": [
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(cosmetic) face pack",
+                        "face mask",
+                        "facial mask",
+                        "facial"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "package (tour, holiday, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Puck"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Puck” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Puck?oldid=483593465"
+                        },
+                        {
+                            "text": "Read “パック” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/パック?oldid=42732973"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "擦り切り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "すり切り",
+                    "reading": "すりきり"
+                },
+                {
+                    "word": "擦り切り",
+                    "reading": "すりきり"
+                },
+                {
+                    "word": "擦切り",
+                    "reading": "すりきり"
+                },
+                {
+                    "word": "摩り切り",
+                    "reading": "すりきり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "levelling a powder or liquid (when measuring)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun or verb acting prenominally"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "保存容器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "保存容器",
+                    "reading": "ほぞんようき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "storage container",
+                        "preservation container"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "大器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "大器",
+                    "reading": "たいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "large container"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "person of great talent"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "身",
+            "is_common": true,
+            "tags": [
+                "wanikani8"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "身",
+                    "reading": "み"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one's body",
+                        "one's person"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "oneself",
+                        "one's appearance"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one's place (in society, etc.)",
+                        "one's position"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "main part",
+                        "meat (as opposed to bone, skin, etc.)",
+                        "wood (as opposed to bark)",
+                        "blade (as opposed to its handle)",
+                        "container (as opposed to its lid)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "コンテナターミナル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "コンテナターミナル"
+                },
+                {
+                    "word": null,
+                    "reading": "コンテナ・ターミナル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container terminal",
+                        "container port"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Container terminal"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Container terminal” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Container_terminal?oldid=478820958"
+                        },
+                        {
+                            "text": "Read “コンテナターミナル” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/コンテナターミナル?oldid=36408763"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "水差し",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "水差し",
+                    "reading": "みずさし"
+                },
+                {
+                    "word": "水差",
+                    "reading": "みずさし"
+                },
+                {
+                    "word": "水指",
+                    "reading": "みずさし"
+                },
+                {
+                    "word": "水指し",
+                    "reading": "みずさし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pitcher",
+                        "water jug",
+                        "watering can"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "container of fresh water for replenishing the kettle and rinsing bowls (tea ceremony)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. not 水差し"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "竹筒",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "竹筒",
+                    "reading": "たけづつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "container made by cutting a piece of bamboo lengthways",
+                        "bamboo tube",
+                        "bamboo cylinder"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Takedzutsu"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "器-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "器",
+                    "reading": "き"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "device",
+                        "instrument"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "vessel",
+                        "container"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "ability",
+                        "capacity",
+                        "calibre",
+                        "caliber"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

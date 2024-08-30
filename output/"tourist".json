@@ -1,0 +1,859 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "観光客",
+            "is_common": true,
+            "tags": [
+                "wanikani24"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光客",
+                    "reading": "かんこうきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "旅客",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "旅客",
+                    "reading": "りょかく"
+                },
+                {
+                    "word": "旅客",
+                    "reading": "りょきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "passenger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "traveller",
+                        "traveler",
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Passenger"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Passenger” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Passenger?oldid=494600580"
+                        },
+                        {
+                            "text": "Read “旅客” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/旅客?oldid=42696205"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "客",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4"
+            ],
+            "japanese": [
+                {
+                    "word": "客",
+                    "reading": "きゃく"
+                },
+                {
+                    "word": "客",
+                    "reading": "かく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "guest",
+                        "visitor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "customer",
+                        "client",
+                        "shopper",
+                        "spectator",
+                        "audience",
+                        "tourist",
+                        "sightseer",
+                        "passenger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "counter for containers used to entertain guests"
+                    ],
+                    "parts_of_speech": [
+                        "Counter"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kyaku"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "旅人",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "旅人",
+                    "reading": "たびびと"
+                },
+                {
+                    "word": "たび人",
+                    "reading": "たびびと"
+                },
+                {
+                    "word": "旅人",
+                    "reading": "りょじん"
+                },
+                {
+                    "word": "旅人",
+                    "reading": "たびと"
+                },
+                {
+                    "word": "旅人",
+                    "reading": "たひと"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "traveller",
+                        "traveler",
+                        "wayfarer",
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "旅行客",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "旅行客",
+                    "reading": "りょこうきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist",
+                        "traveler",
+                        "traveller",
+                        "visitor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "行楽客",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "行楽客",
+                    "reading": "こうらくきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist",
+                        "vacationer",
+                        "vacationist",
+                        "holidaymaker"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ツーリスト",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ツーリスト"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光局",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光局",
+                    "reading": "かんこうきょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(national) tourist bureau",
+                        "tourist board",
+                        "tourist office"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お客さま",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お客様",
+                    "reading": "おきゃくさま"
+                },
+                {
+                    "word": "お客さま",
+                    "reading": "おきゃくさま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "guest",
+                        "visitor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "customer",
+                        "client",
+                        "shopper",
+                        "spectator",
+                        "audience",
+                        "tourist",
+                        "sightseer",
+                        "passenger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光案内所",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光案内所",
+                    "reading": "かんこうあんないじょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist information center",
+                        "tourist information centre"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "行楽地",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "行楽地",
+                    "reading": "こうらくち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist resort",
+                        "holiday resort"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "遊覧客",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "遊覧客",
+                    "reading": "ゆうらんきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sightseer",
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "漫遊客",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "漫遊客",
+                    "reading": "まんゆうきゃく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sightseer",
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "来遊者",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "来遊者",
+                    "reading": "らいゆうしゃ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "visitor",
+                        "tourist"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光地",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光地",
+                    "reading": "かんこうち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist attraction",
+                        "sight-seeing area"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Tourist attraction"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Tourist attraction” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Tourist_attraction?oldid=495405574"
+                        },
+                        {
+                            "text": "Read “観光地” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/観光地?oldid=42648404"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お客さん",
+            "is_common": false,
+            "tags": [
+                "wanikani9"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お客さん",
+                    "reading": "おきゃくさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "guest",
+                        "visitor"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "customer",
+                        "client",
+                        "shopper",
+                        "spectator",
+                        "audience",
+                        "tourist",
+                        "sightseer",
+                        "passenger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "催し物",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "催し物",
+                    "reading": "もよおしもの"
+                },
+                {
+                    "word": "催し物",
+                    "reading": "もようしもの"
+                },
+                {
+                    "word": "催物",
+                    "reading": "もよおしもの"
+                },
+                {
+                    "word": "催物",
+                    "reading": "もようしもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(program of) entertainments",
+                        "special events",
+                        "exhibitions",
+                        "amusements",
+                        "attractions"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光業",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光業",
+                    "reading": "かんこうぎょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist trade",
+                        "travel industry",
+                        "tourist business",
+                        "tourist enterprise"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "観光産業"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光産業",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光産業",
+                    "reading": "かんこうさんぎょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourism industry",
+                        "tourist industry"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "観光バス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "観光バス",
+                    "reading": "かんこうバス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tourist bus",
+                        "sightseeing bus"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Tour bus service"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Tour bus service” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Tour_bus_service?oldid=494303109"
+                        },
+                        {
+                            "text": "Read “観光バス” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/観光バス?oldid=42660141"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

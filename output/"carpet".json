@@ -1,0 +1,911 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "絨毯",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2",
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "絨毯",
+                    "reading": "じゅうたん"
+                },
+                {
+                    "word": "絨緞",
+                    "reading": "じゅうたん"
+                },
+                {
+                    "word": null,
+                    "reading": "ジュータン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug",
+                        "runner"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Carpet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Carpet?oldid=494665223"
+                        },
+                        {
+                            "text": "Read “絨毯” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/絨毯?oldid=42516222"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "カーペット",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カーペット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "敷物",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "敷き物",
+                    "reading": "しきもの"
+                },
+                {
+                    "word": "敷物",
+                    "reading": "しきもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug",
+                        "matting",
+                        "carpeting"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "mat, mattress, quilt etc. spread out on the floor (or ground) and used to sit or sleep on"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "spread",
+                        "(cloth) cover",
+                        "coaster"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毛氈",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "毛氈",
+                    "reading": "もうせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug (esp. felt)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "氈",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "氈",
+                    "reading": "かも"
+                },
+                {
+                    "word": "氈",
+                    "reading": "せん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet",
+                        "rug (esp. felt)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "毛氈 もうせん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "上敷き",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "上敷き",
+                    "reading": "うわしき"
+                },
+                {
+                    "word": "上敷き",
+                    "reading": "うわじき"
+                },
+                {
+                    "word": "上敷",
+                    "reading": "うわしき"
+                },
+                {
+                    "word": "上敷",
+                    "reading": "うわじき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bordered matting",
+                        "rug",
+                        "carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "saddlecloth",
+                        "harness"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "魔法のじゅうたん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "魔法のじゅうたん",
+                    "reading": "まほうのじゅうたん"
+                },
+                {
+                    "word": "魔法の絨毯",
+                    "reading": "まほうのじゅうたん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "magic carpet",
+                        "flying carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Magic carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Magic carpet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Magic_carpet?oldid=489887285"
+                        },
+                        {
+                            "text": "Read “魔法の絨毯” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/魔法の絨毯?oldid=41087603"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "大瀬",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "大瀬",
+                    "reading": "おおせ"
+                },
+                {
+                    "word": null,
+                    "reading": "オオセ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Japanese wobbegong (Orectolobus japonicus, species of carpet shark)",
+                        "Japanese carpet shark",
+                        "fringe shark"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Japanese wobbegong"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Japanese wobbegong” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Japanese_wobbegong?oldid=461043056"
+                        },
+                        {
+                            "text": "Read “オオセ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/オオセ?oldid=42462387"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "中敷",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "中敷",
+                    "reading": "なかじき"
+                },
+                {
+                    "word": "中敷き",
+                    "reading": "なかじき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "insole",
+                        "(shoe) insert",
+                        "intermediate layer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "rug",
+                        "carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "絨毯爆撃",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "絨毯爆撃",
+                    "reading": "じゅうたんばくげき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet bombing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Carpet bombing"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Carpet bombing” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Carpet_bombing?oldid=493439948"
+                        },
+                        {
+                            "text": "Read “絨毯爆撃” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/絨毯爆撃?oldid=42500264"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "カーペットニシキヘビ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カーペットニシキヘビ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet python (Morelia spilota)",
+                        "carpet snake"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "錦蛇"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Morelia spilota variegata"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Morelia spilota variegata” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Morelia_spilota_variegata?oldid=484005346"
+                        },
+                        {
+                            "text": "Read “カーペットニシキヘビ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/カーペットニシキヘビ?oldid=41811825"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ペルシャ絨毯",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ペルシャ絨毯",
+                    "reading": "ペルシャじゅうたん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Persian carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "姫鰹節虫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "姫鰹節虫",
+                    "reading": "ひめかつおぶしむし"
+                },
+                {
+                    "word": null,
+                    "reading": "ヒメカツオブシムシ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "black carpet beetle (Attagenus unicolor japonicus)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "花毛氈",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "花毛氈",
+                    "reading": "はなもうせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "figured carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "南海偽角平虫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "南海偽角平虫",
+                    "reading": "なんかいにせつのひらむし"
+                },
+                {
+                    "word": null,
+                    "reading": "ナンカイニセツノヒラムシ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Persian carpet flatworm (Pseudobiceros bedfordi)",
+                        "Bedford's flatworm"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "緞通",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "緞通",
+                    "reading": "だんつう"
+                },
+                {
+                    "word": "段通",
+                    "reading": "だんつう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cotton carpet",
+                        "jute rug"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Chinese"
+                        }
+                    ],
+                    "info": [
+                        "from 毯子"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "足をすくう",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "足をすくう",
+                    "reading": "あしをすくう"
+                },
+                {
+                    "word": "足を掬う",
+                    "reading": "あしをすくう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to trip someone up",
+                        "to pull the carpet from under"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Godan verb with 'u' ending"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Idiomatic expression"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "掬う"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レッドカーペット",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "レッドカーペット"
+                },
+                {
+                    "word": null,
+                    "reading": "レッド・カーペット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "red carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Red carpet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Red carpet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Red_carpet?oldid=489339485"
+                        },
+                        {
+                            "text": "Read “レッドカーペット” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/レッドカーペット?oldid=42089642"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "水に流す",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "水に流す",
+                    "reading": "みずにながす"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to forgive and forget",
+                        "to let bygones be bygones",
+                        "to sweep under the carpet",
+                        "to wipe the slate clean"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Godan verb with 'su' ending"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "姫丸鰹節虫",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "姫丸鰹節虫",
+                    "reading": "ひめまるかつおぶしむし"
+                },
+                {
+                    "word": null,
+                    "reading": "ヒメマルカツオブシムシ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "carpet beetle (Anthrenus verbasci)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

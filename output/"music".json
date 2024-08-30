@@ -1,0 +1,1030 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "音楽",
+            "is_common": true,
+            "tags": [
+                "wanikani8"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "音楽",
+                    "reading": "おんがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Music"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Music” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Music?oldid=495280530"
+                        },
+                        {
+                            "text": "Read “音楽” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/音楽?oldid=42736287"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ミュージック",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ミュージック"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "作曲",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "作曲",
+                    "reading": "さっきょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "composition (of music)",
+                        "setting",
+                        "writing music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Musical composition"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Musical composition” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Musical_composition?oldid=490632844"
+                        },
+                        {
+                            "text": "Read “作曲” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/作曲?oldid=42711609"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "楽譜",
+            "is_common": true,
+            "tags": [
+                "wanikani58"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "楽譜",
+                    "reading": "がくふ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "score",
+                        "sheet music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Music"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sheet music"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sheet music” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sheet_music?oldid=495544665"
+                        },
+                        {
+                            "text": "Read “楽譜” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/楽譜?oldid=42782821"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "吹奏楽",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "吹奏楽",
+                    "reading": "すいそうがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wind music",
+                        "wind instrument music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Concert band"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Concert band” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Concert_band?oldid=490005856"
+                        },
+                        {
+                            "text": "Read “吹奏楽” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/吹奏楽?oldid=42760190"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "音譜",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "音譜",
+                    "reading": "おんぷ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "music",
+                        "notes",
+                        "notation"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "曲",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "曲",
+                    "reading": "きょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "composition",
+                        "piece of music",
+                        "song",
+                        "track (on a record)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "tune",
+                        "melody",
+                        "air"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "enjoyment",
+                        "fun",
+                        "interest",
+                        "pleasure"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "譜",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "譜",
+                    "reading": "ふ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(sheet) music",
+                        "(musical) note",
+                        "(musical) score"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "genealogy",
+                        "family tree"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "record of a game of go, shogi, chess, etc."
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "棋譜"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "音楽大学",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "音楽大学",
+                    "reading": "おんがくだいがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "college of music",
+                        "school of music",
+                        "music college"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "音大"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Ongaku University"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "声楽",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "声楽",
+                    "reading": "せいがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vocal music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Vocal music"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Vocal music” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Vocal_music?oldid=493122035"
+                        },
+                        {
+                            "text": "Read “声楽” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/声楽?oldid=42453920"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "近代音楽",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "近代音楽",
+                    "reading": "きんだいおんがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "modern music",
+                        "contemporary music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Modernism (music)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Modernism (music)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Modernism_(music)?oldid=495223070"
+                        },
+                        {
+                            "text": "Read “近代音楽” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/近代音楽?oldid=42711599"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "クラシック",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "クラシック"
+                },
+                {
+                    "word": null,
+                    "reading": "クラッシック"
+                },
+                {
+                    "word": null,
+                    "reading": "クラッシク"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "classical music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "クラシック音楽"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "classic",
+                        "classical"
+                    ],
+                    "parts_of_speech": [
+                        "Na-adjective (keiyodoshi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "classic (work)",
+                        "the classics"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "古典"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "歌舞伎",
+            "is_common": true,
+            "tags": [
+                "wanikani36"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "歌舞伎",
+                    "reading": "かぶき"
+                },
+                {
+                    "word": "歌舞妓",
+                    "reading": "かぶき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "kabuki",
+                        "traditional form of drama and music performed by male actors wearing makeup mainly in white and red"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kabuki"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kabuki"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Kabuki” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Kabuki?oldid=495151621"
+                        },
+                        {
+                            "text": "Read “歌舞伎” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/歌舞伎?oldid=42594649"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "邦楽",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "邦楽",
+                    "reading": "ほうがく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Japanese music (esp. traditional Japanese music)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "洋楽"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Music of Japan"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Music of Japan” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Music_of_Japan?oldid=495202343"
+                        },
+                        {
+                            "text": "Read “邦楽” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/邦楽?oldid=42712327"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "管弦",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "管弦",
+                    "reading": "かんげん"
+                },
+                {
+                    "word": "管絃",
+                    "reading": "かんげん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wind and string instruments",
+                        "music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "楽-2",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "楽",
+                    "reading": "がく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "音楽"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "old Japanese court music",
+                        "gagaku"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "雅楽 ががく"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "曲譜",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "曲譜",
+                    "reading": "きょくふ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "musical notes",
+                        "(sheet) music",
+                        "score"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鳴り物",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鳴り物",
+                    "reading": "なりもの"
+                },
+                {
+                    "word": "鳴物",
+                    "reading": "なりもの"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "musical instrument",
+                        "music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "accompaniment instruments used in kabuki (excluding the shamisen)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＢＧＭ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＢＧＭ",
+                    "reading": "ビー・ジー・エム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "background music",
+                        "BGM"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "バックグラウンドミュージック"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ポップス",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ポップス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pop music",
+                        "popular music"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        }
+                    ],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

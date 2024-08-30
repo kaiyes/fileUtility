@@ -1,0 +1,1047 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "弟",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n1",
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "弟",
+                    "reading": "おとうと"
+                },
+                {
+                    "word": "弟",
+                    "reading": "てい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "younger brother",
+                        "little brother",
+                        "kid brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "brother-in-law (spouse's younger brother or younger sister's husband)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "おとうと"
+                    ],
+                    "see_also": [
+                        "義弟"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "pupil",
+                        "apprentice"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [
+                        "てい"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "兄",
+            "is_common": true,
+            "tags": [
+                "wanikani5"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "兄",
+                    "reading": "あに"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "older brother",
+                        "elder brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お兄さん",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "お兄さん",
+                    "reading": "おにいさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "older brother",
+                        "elder brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "兄さん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "young man",
+                        "buddy",
+                        "fella",
+                        "laddie"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "兄さん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "oft. vocative"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "入満",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "入満",
+                    "reading": "イルマン"
+                },
+                {
+                    "word": "伊留満",
+                    "reading": "イルマン"
+                },
+                {
+                    "word": "由婁漫",
+                    "reading": "イルマン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brother",
+                        "lay brother",
+                        "non-ordained member of a Christian religious order"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic",
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Portuguese"
+                        }
+                    ],
+                    "info": [
+                        "early Japanese Christian term"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ブラザー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ブラザー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Brother"
+                    ],
+                    "parts_of_speech": [
+                        "Company"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "兄さん",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "兄さん",
+                    "reading": "にいさん"
+                },
+                {
+                    "word": "兄さん",
+                    "reading": "あにさん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "older brother",
+                        "elder brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "お兄さん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "brother (as older-brother figure in friendly and or work relationship)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "young man",
+                        "buddy",
+                        "fella",
+                        "laddie"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "usu. vocative"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "兄貴",
+            "is_common": true,
+            "tags": [
+                "wanikani34"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "兄貴",
+                    "reading": "あにき"
+                },
+                {
+                    "word": null,
+                    "reading": "アニキ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "elder brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language",
+                        "Honorific or respectful (sonkeigo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "one's senior"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "older man",
+                        "man older than oneself"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Aniki"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Aniki” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Aniki?oldid=457265545"
+                        },
+                        {
+                            "text": "Read “アニキ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/アニキ?oldid=42732450"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "兄ちゃん-1",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "兄ちゃん",
+                    "reading": "にいちゃん"
+                },
+                {
+                    "word": "兄ちゃん",
+                    "reading": "あんちゃん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(one's) older brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "お兄ちゃん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "young man",
+                        "sonny",
+                        "lad"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "お兄ちゃん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ブラザー-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ブラザー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Company name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "末弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "末弟",
+                    "reading": "ばってい"
+                },
+                {
+                    "word": "末弟",
+                    "reading": "まってい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "youngest brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "last disciple"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ブラコン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ブラコン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brother complex",
+                        "excessive attachment to one's brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ブラザーコンプレックス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "black contemporary (music)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ブラックコンテンポラリー"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "お兄ちゃん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "お兄ちゃん",
+                    "reading": "おにいちゃん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(one's) older brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "lad",
+                        "sonny"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Familiar language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "oft. vocative"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "愚弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "愚弟",
+                    "reading": "ぐてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(one's) younger brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Humble (kenjougo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "foolish younger brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "義兄弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "義兄弟",
+                    "reading": "ぎきょうだい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brother-in-law",
+                        "stepbrother",
+                        "sworn brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Blood brother"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Blood brother” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Blood_brother?oldid=494966360"
+                        },
+                        {
+                            "text": "Read “義兄弟” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/義兄弟?oldid=42389146"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "伯仲",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "伯仲",
+                    "reading": "はくちゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "being evenly matched",
+                        "being equal with",
+                        "being on a par with",
+                        "being well contested"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "eldest and second eldest brother",
+                        "older and younger brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Archaic"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. meaning"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "Hakuchuu"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "小弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "小弟",
+                    "reading": "しょうてい"
+                },
+                {
+                    "word": "少弟",
+                    "reading": "しょうてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "little brother",
+                        "younger brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "my younger brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Humble (kenjougo) language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "I",
+                        "me"
+                    ],
+                    "parts_of_speech": [
+                        "Pronoun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Humble (kenjougo) language",
+                        "Male term or language"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "大兄"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "used mainly in letters"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "阿兄",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "阿兄",
+                    "reading": "あけい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "elder brother",
+                        "my dear brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "兄姉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "兄姉",
+                    "reading": "けいし"
+                },
+                {
+                    "word": "兄姉",
+                    "reading": "きょうだい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brother and sister"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "賢弟",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "賢弟",
+                    "reading": "けんてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wise younger brother",
+                        "polite reference to another's younger brother, or to one's junior"
+                    ],
+                    "parts_of_speech": [
+                        "Pronoun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "実兄",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "実兄",
+                    "reading": "じっけい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "biological older brother"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

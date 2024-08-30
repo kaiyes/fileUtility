@@ -1,0 +1,902 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "インターネット",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "インターネット"
+                },
+                {
+                    "word": null,
+                    "reading": "インタネット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Internet"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Internet” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Internet?oldid=495418433"
+                        },
+                        {
+                            "text": "Read “インターネット” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/インターネット?oldid=42746069"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "電網",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "電網",
+                    "reading": "でんもう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet",
+                        "WWW",
+                        "web"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Jocular, humorous term",
+                        "Rare term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ネット",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ネット"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "network"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ネットワーク"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Internet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "インターネット"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "net (e.g. hairnet, tennis net)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "net (price, weight, etc.)",
+                        "nett"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "NET"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “NET” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/NET?oldid=482010410"
+                        },
+                        {
+                            "text": "Read “ネット” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ネット?oldid=41650634"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "祭",
+            "is_common": true,
+            "tags": [
+                "wanikani12"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "祭り",
+                    "reading": "まつり"
+                },
+                {
+                    "word": "祭",
+                    "reading": "まつり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "festival",
+                        "feast",
+                        "matsuri"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "お祭り"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "harassment by an Internet pitchfork mob",
+                        "online shaming",
+                        "flaming"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "galore (as in \"goals galore\")",
+                        "frenzy",
+                        "mania"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Japanese festivals"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Japanese festivals” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Japanese_festivals?oldid=495000127"
+                        },
+                        {
+                            "text": "Read “祭” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/祭?oldid=42543723"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ネットカフェ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ネットカフェ"
+                },
+                {
+                    "word": null,
+                    "reading": "ネット・カフェ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet cafe",
+                        "net cafe"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ネカフェ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ネカフェ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ネカフェ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet cafe",
+                        "net cafe"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ネットカフェ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インターネットサイト",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "インターネットサイト"
+                },
+                {
+                    "word": null,
+                    "reading": "インターネット・サイト"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet site"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インターネットテレビ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "インターネットテレビ"
+                },
+                {
+                    "word": null,
+                    "reading": "インターネット・テレビ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet television",
+                        "Internet TV"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Internet television"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Internet television” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Internet_television?oldid=494498206"
+                        },
+                        {
+                            "text": "Read “インターネットテレビ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/インターネットテレビ?oldid=41798173"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "炎上",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "炎上",
+                    "reading": "えんじょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "going up in flames",
+                        "destruction by fire (esp. of a large building)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "stirring up a storm of criticism online (of an article, tweet, statement, etc.)",
+                        "becoming the target of an Internet pitchfork mob"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ネット上",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ネット上",
+                    "reading": "ネットじょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "on the net",
+                        "on the Internet",
+                        "on the Web"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インターネットＶＰＮ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "インターネットＶＰＮ",
+                    "reading": "インターネットブイピーエン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Virtual Private Network"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩＰアドレス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩＰアドレス",
+                    "reading": "アイピーアドレス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Protocol address",
+                        "IP address"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "インターネットプロトコルアドレス"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩＰ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩＰ",
+                    "reading": "アイ・ピー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Protocol",
+                        "IP"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "インターネットプロトコル"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "intellectual property"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "知的財産"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インターネットサービス",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "インターネットサービス"
+                },
+                {
+                    "word": null,
+                    "reading": "インターネット・サービス"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet service",
+                        "Internet-based service"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩｏＴ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩｏＴ",
+                    "reading": "アイ・オー・ティー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet of Things",
+                        "IoT"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩＳＰ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩＳＰ",
+                    "reading": "アイ・エス・ピー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Service Provider",
+                        "ISP"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Telecommunications"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "インターネットサービスプロバイダー"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩＩＪ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩＩＪ",
+                    "reading": "アイアイジェイ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Initiative Japan (internet service provider)",
+                        "IIJ"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Company name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ＩＣＡＮＮ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ＩＣＡＮＮ",
+                    "reading": "アイキャン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet Corporation for Assigned Names and Numbers",
+                        "ICANN"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Company name"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "硬派厨",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "硬派厨",
+                    "reading": "こうはちゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet tough guy"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Internet slang",
+                        "Derogatory"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "インターネット掲示板",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "インターネット掲示板",
+                    "reading": "インターネットけいじばん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Internet forum",
+                        "Internet bulletin board"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "庭",
+            "is_common": true,
+            "tags": [
+                "wanikani12"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "庭",
+                    "reading": "にわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden",
+                        "yard",
+                        "courtyard"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "field (of action)",
+                        "area"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "庭園",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "庭園",
+                    "reading": "ていえん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden",
+                        "park"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Garden"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Garden” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Garden?oldid=495466632"
+                        },
+                        {
+                            "text": "Read “庭園” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/庭園?oldid=42752570"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園-2",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "園",
+                    "reading": "えん"
+                },
+                {
+                    "word": "苑",
+                    "reading": "えん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden",
+                        "orchard",
+                        "park",
+                        "plantation"
+                    ],
+                    "parts_of_speech": [
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "kindergarten",
+                        "nursery school",
+                        "preschool"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "幼稚園",
+                        "保育園"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ガーデン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ガーデン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "前栽",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "前栽",
+                    "reading": "せんざい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden",
+                        "trees and flowers in a garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Senzai"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園",
+            "is_common": true,
+            "tags": [
+                "wanikani16"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "園",
+                    "reading": "その"
+                },
+                {
+                    "word": "苑",
+                    "reading": "その"
+                },
+                {
+                    "word": "薗",
+                    "reading": "その"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden",
+                        "orchard",
+                        "park"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "place",
+                        "world",
+                        "environment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "学びの園"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "畑",
+            "is_common": true,
+            "tags": [
+                "wanikani41"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "畑",
+                    "reading": "はたけ"
+                },
+                {
+                    "word": "畑",
+                    "reading": "はた"
+                },
+                {
+                    "word": "畠",
+                    "reading": "はたけ"
+                },
+                {
+                    "word": "畠",
+                    "reading": "はた"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "field (for growing wheat, fruit, vegetables, etc.)",
+                        "cultivated land",
+                        "vegetable plot",
+                        "kitchen garden",
+                        "plantation"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "field (of specialization)",
+                        "sphere",
+                        "area",
+                        "line"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "はたけ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "ばたけ when a suffix"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "womb",
+                        "birth",
+                        "birthplace"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquial"
+                    ],
+                    "restrictions": [
+                        "はたけ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Field (agriculture)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Field (agriculture)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Field_(agriculture)?oldid=488126198"
+                        },
+                        {
+                            "text": "Read “畑” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/畑?oldid=41588722"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "植木",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "植木",
+                    "reading": "うえき"
+                },
+                {
+                    "word": "植え木",
+                    "reading": "うえき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden shrubs",
+                        "trees",
+                        "potted plant"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "庭前",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "庭前",
+                    "reading": "ていぜん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園庭",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "園庭",
+                    "reading": "えんてい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "kindergarten yard",
+                        "playground"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "狭庭",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "狭庭",
+                    "reading": "さにわ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(one's own) garden",
+                        "narrow garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Poetical term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日本庭園",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "日本庭園",
+                    "reading": "にほんていえん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Japanese-style garden",
+                        "traditional Japanese landscape garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Nihonteien"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Japanese garden"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Japanese garden” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Japanese_garden?oldid=494308703"
+                        },
+                        {
+                            "text": "Read “日本庭園” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/日本庭園?oldid=42613992"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "植物園",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "植物園",
+                    "reading": "しょくぶつえん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "botanical garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shokubutsuen"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Botanical garden"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Botanical garden” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Botanical_garden?oldid=494742672"
+                        },
+                        {
+                            "text": "Read “植物園” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/植物園?oldid=42111881"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "庭木",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "庭木",
+                    "reading": "にわき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden tree"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Niwaki"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Niwaki” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Niwaki?oldid=490865547"
+                        },
+                        {
+                            "text": "Read “庭木” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/庭木?oldid=39304517"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "菜園",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "菜園",
+                    "reading": "さいえん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vegetable garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Saien"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "楽園",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "楽園",
+                    "reading": "らくえん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paradise",
+                        "Eden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Rakuen"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "有り触れた",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "有り触れた",
+                    "reading": "ありふれた"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "common",
+                        "commonplace",
+                        "ordinary",
+                        "familiar",
+                        "everyday",
+                        "garden-variety",
+                        "trite",
+                        "stale",
+                        "hackneyed",
+                        "stereotyped"
+                    ],
+                    "parts_of_speech": [
+                        "Noun or verb acting prenominally"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園地",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "園地",
+                    "reading": "えんち"
+                },
+                {
+                    "word": "苑地",
+                    "reading": "えんち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "park",
+                        "garden"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園生",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "園生",
+                    "reading": "えんせい"
+                },
+                {
+                    "word": "園生",
+                    "reading": "そのう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden (esp. with trees)",
+                        "park"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "園遊会",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "園遊会",
+                    "reading": "えんゆうかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "garden party"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

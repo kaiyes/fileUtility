@@ -1,0 +1,1102 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "海",
+            "is_common": true,
+            "tags": [
+                "wanikani6"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "海",
+                    "reading": "うみ"
+                },
+                {
+                    "word": "海",
+                    "reading": "み"
+                },
+                {
+                    "word": "海",
+                    "reading": "わた"
+                },
+                {
+                    "word": "海",
+                    "reading": "わだ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea",
+                        "ocean",
+                        "waters"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea?oldid=495364042"
+                        },
+                        {
+                            "text": "Read “海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海?oldid=41851228"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海面",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海面",
+                    "reading": "かいめん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea level",
+                        "(surface of) sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea level"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea level” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea_level?oldid=493153155"
+                        },
+                        {
+                            "text": "Read “海面” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海面?oldid=42694031"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海洋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "海洋",
+                    "reading": "かいよう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ocean",
+                        "sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Kaiyou"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海上",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海上",
+                    "reading": "かいじょう"
+                },
+                {
+                    "word": "海上",
+                    "reading": "かいしょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(on the) sea",
+                        "surface of the sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "沖",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "沖",
+                    "reading": "おき"
+                },
+                {
+                    "word": "澳",
+                    "reading": "おき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "open sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Okinawa"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [
+                        "沖"
+                    ],
+                    "see_also": [
+                        "沖縄"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海水浴",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "海水浴",
+                    "reading": "かいすいよく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "swimming in the ocean",
+                        "sea bathing",
+                        "seawater bath",
+                        "going for a dip in the ocean"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea bathing"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea bathing” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea_bathing?oldid=493157421"
+                        },
+                        {
+                            "text": "Read “海水浴” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海水浴?oldid=42600009"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海路",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "海路",
+                    "reading": "かいろ"
+                },
+                {
+                    "word": "海路",
+                    "reading": "うみじ"
+                },
+                {
+                    "word": "海路",
+                    "reading": "うなじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea route"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海抜",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "海抜",
+                    "reading": "かいばつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "height above sea level"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海原",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海原",
+                    "reading": "うなばら"
+                },
+                {
+                    "word": "海原",
+                    "reading": "うなはら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "ocean",
+                        "sea",
+                        "the deep"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "地中海",
+            "is_common": true,
+            "tags": [
+                "wanikani8"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "地中海",
+                    "reading": "ちちゅうかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Mediterranean Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mediterranean sea (oceanography)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chichuukai"
+                    ],
+                    "parts_of_speech": [
+                        "Place"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mediterranean Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Mediterranean Sea” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mediterranean_Sea?oldid=495505883"
+                        },
+                        {
+                            "text": "Read “地中海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/地中海?oldid=42705709"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海賊",
+            "is_common": true,
+            "tags": [
+                "wanikani57"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海賊",
+                    "reading": "かいぞく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pirate"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Piracy"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Piracy” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Piracy?oldid=494796031"
+                        },
+                        {
+                            "text": "Read “海賊” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/海賊?oldid=42439478"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "日本海",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "日本海",
+                    "reading": "にほんかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Sea of Japan"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea of Japan"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea of Japan” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea_of_Japan?oldid=494577573"
+                        },
+                        {
+                            "text": "Read “日本海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/日本海?oldid=42681544"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "鯛",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "鯛",
+                    "reading": "たい"
+                },
+                {
+                    "word": null,
+                    "reading": "タイ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea bream (Sparidae)",
+                        "porgy"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "tai (species of reddish-brown Pacific sea bream, Pagrus major)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sparidae"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sparidae” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sparidae?oldid=486914916"
+                        },
+                        {
+                            "text": "Read “鯛” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/鯛?oldid=42570381"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "北海",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "北海",
+                    "reading": "ほっかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "northern sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "North Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Hokkaido"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a prefix"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "北海道"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "North Sea"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “North Sea” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/North_Sea?oldid=492290303"
+                        },
+                        {
+                            "text": "Read “北海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/北海?oldid=42079181"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "深海",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "深海",
+                    "reading": "しんかい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "deep sea",
+                        "depths of the sea",
+                        "ocean depths"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Deep sea"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Deep sea” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Deep_sea?oldid=494831682"
+                        },
+                        {
+                            "text": "Read “深海” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/深海?oldid=42704451"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "シー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "シー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "See"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “See” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/See?oldid=495150990"
+                        },
+                        {
+                            "text": "Read “シー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/シー?oldid=40701750"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海がめ",
+            "is_common": false,
+            "tags": [
+                "wanikani35"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海がめ",
+                    "reading": "うみがめ"
+                },
+                {
+                    "word": "海亀",
+                    "reading": "うみがめ"
+                },
+                {
+                    "word": "海ガメ",
+                    "reading": "うみガメ"
+                },
+                {
+                    "word": null,
+                    "reading": "ウミガメ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sea turtle"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea turtle"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea turtle” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea_turtle?oldid=495342064"
+                        },
+                        {
+                            "text": "Read “ウミガメ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ウミガメ?oldid=41102200"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海驢",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海驢",
+                    "reading": "あしか"
+                },
+                {
+                    "word": "葦鹿",
+                    "reading": "あしか"
+                },
+                {
+                    "word": "海馬",
+                    "reading": "あしか"
+                },
+                {
+                    "word": "海驢",
+                    "reading": "みち"
+                },
+                {
+                    "word": null,
+                    "reading": "アシカ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eared seal (esp. the California sea lion, Zalophus californianus)",
+                        "sea lion"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "アザラシ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Sea lion"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Sea lion” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Sea_lion?oldid=494985560"
+                        },
+                        {
+                            "text": "Read “アシカ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/アシカ?oldid=39489896"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "海中",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "海中",
+                    "reading": "かいちゅう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "in the sea"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "外洋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "外洋",
+                    "reading": "がいよう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "open sea",
+                        "ocean"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

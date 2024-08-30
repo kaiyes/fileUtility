@@ -1,0 +1,953 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "時",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "時",
+                    "reading": "とき"
+                },
+                {
+                    "word": "刻",
+                    "reading": "とき"
+                },
+                {
+                    "word": "秋",
+                    "reading": "とき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time",
+                        "hour",
+                        "moment"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "刻 signifies a time of day; 秋 signifies an important time"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "occasion",
+                        "case"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "時"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "chance",
+                        "opportunity",
+                        "season"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "時"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "the times",
+                        "the age",
+                        "the day"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "時"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "tense"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Grammar"
+                    ],
+                    "restrictions": [
+                        "時"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Autumn"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Autumn” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Autumn?oldid=495262198"
+                        },
+                        {
+                            "text": "Read “秋” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/秋?oldid=42761225"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時刻",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "時刻",
+                    "reading": "じこく"
+                },
+                {
+                    "word": "時剋",
+                    "reading": "じこく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time",
+                        "(the) hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "favourable time",
+                        "opportunity",
+                        "chance"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時間",
+            "is_common": true,
+            "tags": [
+                "wanikani8"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "時間",
+                    "reading": "じかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "period",
+                        "class",
+                        "lesson"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Time"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Time” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Time?oldid=495174770"
+                        },
+                        {
+                            "text": "Read “時間” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/時間?oldid=42528718"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時-1",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "時",
+                    "reading": "じ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hour",
+                        "o'clock"
+                    ],
+                    "parts_of_speech": [
+                        "Suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "(specified) time",
+                        "when ...",
+                        "during ..."
+                    ],
+                    "parts_of_speech": [
+                        "Suffix",
+                        "Noun which may take the genitive case particle 'no'"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "緊急時"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時分",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "時分",
+                    "reading": "じぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time",
+                        "hour",
+                        "season",
+                        "time of the year"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "アワー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "アワー"
+                },
+                {
+                    "word": null,
+                    "reading": "アウア"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "刻々",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "刻々",
+                    "reading": "こっこく"
+                },
+                {
+                    "word": "刻々",
+                    "reading": "こくこく"
+                },
+                {
+                    "word": "刻刻",
+                    "reading": "こっこく"
+                },
+                {
+                    "word": "刻刻",
+                    "reading": "こくこく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "moment by moment",
+                        "hour by hour"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)",
+                        "Adverb taking the 'to' particle"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "今更",
+            "is_common": true,
+            "tags": [
+                "wanikani32"
+            ],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "今更",
+                    "reading": "いまさら"
+                },
+                {
+                    "word": "今さら",
+                    "reading": "いまさら"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "now (when it is already much too late)",
+                        "at this stage"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "afresh",
+                        "anew",
+                        "again"
+                    ],
+                    "parts_of_speech": [
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "夕刻",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "夕刻",
+                    "reading": "ゆうこく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "evening",
+                        "evening hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ラッシュアワー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ラッシュアワー"
+                },
+                {
+                    "word": null,
+                    "reading": "ラッシュ・アワー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rush hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時辰",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "時辰",
+                    "reading": "じしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time",
+                        "hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "一時間",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "一時間",
+                    "reading": "いちじかん"
+                },
+                {
+                    "word": "１時間",
+                    "reading": "いちじかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "土壇場",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "土壇場",
+                    "reading": "どたんば"
+                },
+                {
+                    "word": "どたん場",
+                    "reading": "どたんば"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "last moment",
+                        "eleventh hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Idiomatic expression"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "platform made of dirt used to perform executions (decapitations) in the Edo period"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "orig. meaning"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "潮時",
+            "is_common": false,
+            "tags": [
+                "wanikani45"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "潮時",
+                    "reading": "しおどき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tidal hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "right time",
+                        "favourable opportunity (favorable)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "毎時",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "毎時",
+                    "reading": "まいじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "every hour",
+                        "hourly"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "何時-1",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "何時",
+                    "reading": "なんじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "what time",
+                        "which hour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "今時",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "今時",
+                    "reading": "いまどき"
+                },
+                {
+                    "word": "今どき",
+                    "reading": "いまどき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "these days",
+                        "nowadays",
+                        "present day",
+                        "modern times"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "at this time (of the day)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Adverb (fukushi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "断末魔",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "断末魔",
+                    "reading": "だんまつま"
+                },
+                {
+                    "word": "断末摩",
+                    "reading": "だんまつま"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "one's last moments",
+                        "hour of death",
+                        "death throes",
+                        "agonies of death"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "時針",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "時針",
+                    "reading": "じしん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hour hand (watch, clock)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "死期",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "死期",
+                    "reading": "しき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "time of death",
+                        "one's final hour",
+                        "one's end"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

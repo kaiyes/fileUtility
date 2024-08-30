@@ -1,0 +1,905 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "パン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread",
+                        "(sweet) pastry"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Portuguese"
+                        }
+                    ],
+                    "info": [
+                        "originally written 麺麭 or 麪包"
+                    ]
+                },
+                {
+                    "english_definitions": [
+                        "staff of life",
+                        "one's bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bread"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bread” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bread?oldid=494617239"
+                        },
+                        {
+                            "text": "Read “パン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/パン?oldid=42576596"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "食パン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "食パン",
+                    "reading": "しょくパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(loaf of) bread",
+                        "bread in a rectangular shape"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Pain de mie"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Pain de mie” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Pain_de_mie?oldid=449443682"
+                        },
+                        {
+                            "text": "Read “食パン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/食パン?oldid=42353289"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ブレッド",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ブレッド"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Food, cooking"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bled"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bled” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bled?oldid=472996731"
+                        },
+                        {
+                            "text": "Read “ブレッド” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ブレッド?oldid=42192159"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "麪包",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "麺麭",
+                    "reading": "めんぽう"
+                },
+                {
+                    "word": "麪包",
+                    "reading": "めんぽう"
+                },
+                {
+                    "word": "麵麭",
+                    "reading": "めんぽう"
+                },
+                {
+                    "word": "麪包",
+                    "reading": "メンパオ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Rare term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "パン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [
+                        "めんぽう orig. a military term; メンパオ is from the Chinese \"mianbao\""
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "蒸餅",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "蒸餅",
+                    "reading": "じょうべい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "steamed mochi",
+                        "manjū",
+                        "bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "餅 もち",
+                        "饅頭"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ロールパン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ロールパン"
+                },
+                {
+                    "word": null,
+                    "reading": "ロール・パン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread roll"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English"
+                        },
+                        {
+                            "language": "Portuguese"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bread roll"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bread roll” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bread_roll?oldid=493371599"
+                        },
+                        {
+                            "text": "Read “ロールパン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ロールパン?oldid=42575344"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "惣菜パン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "惣菜パン",
+                    "reading": "そうざいパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "dressed bread",
+                        "bread to which something has been added (sandwich, pirogi, etc.)",
+                        "stuffed bread (rolls, buns, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "調理パン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chip butty"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Chip butty” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Chip_butty?oldid=494972549"
+                        },
+                        {
+                            "text": "Read “惣菜パン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/惣菜パン?oldid=41410690"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "山食",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "山食",
+                    "reading": "やましょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "English bread",
+                        "roundtop bread",
+                        "high tin loaf"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "角食 かくしょく"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "生活の糧",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "生活の糧",
+                    "reading": "せいかつのかて"
+                },
+                {
+                    "word": "生活のかて",
+                    "reading": "せいかつのかて"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "source of one's livelihood",
+                        "one's bread and butter"
+                    ],
+                    "parts_of_speech": [
+                        "Expressions (phrases, clauses, etc.)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パン焼き機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "パン焼き機",
+                    "reading": "パンやきき"
+                },
+                {
+                    "word": "パン焼き器",
+                    "reading": "パンやきき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread baking machine",
+                        "bread machine",
+                        "bread maker"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "調理パン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "調理パン",
+                    "reading": "ちょうりパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "dressed bread",
+                        "bread to which something has been added (sandwich, pirogi, etc.)",
+                        "stuffed bread (rolls, buns, etc.)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "フランスパン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "フランスパン"
+                },
+                {
+                    "word": null,
+                    "reading": "フランス・パン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "French bread (esp. baguette)",
+                        "breadstick"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Food, cooking"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Baguette"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Baguette” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Baguette?oldid=495129581"
+                        },
+                        {
+                            "text": "Read “フランスパン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/フランスパン?oldid=41362413"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "茶飯事",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "茶飯事",
+                    "reading": "さはんじ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "matter of no importance",
+                        "commonly occurring thing",
+                        "commonplace event",
+                        "bread and butter item"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "日常茶飯事"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "菓子パン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "菓子パン",
+                    "reading": "かしパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "baked sweet goods (e.g. Danish pastry, melon bread)",
+                        "sweet pastry",
+                        "sweet bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "強力粉",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "強力粉",
+                    "reading": "きょうりきこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread flour (high gluten)",
+                        "strong flour",
+                        "hard flour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "チョコパン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "チョコパン"
+                },
+                {
+                    "word": null,
+                    "reading": "チョコ・パン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread with chocolate filling",
+                        "chocolate bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "チョコレートパン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "チョコレートパン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "チョコレートパン"
+                },
+                {
+                    "word": null,
+                    "reading": "チョコレート・パン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "bread with chocolate filling",
+                        "chocolate bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "パン粉",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "パン粉",
+                    "reading": "パンこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "breadcrumbs",
+                        "panko"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bread flour"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bread crumbs"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bread crumbs” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bread_crumbs?oldid=493508364"
+                        },
+                        {
+                            "text": "Read “パン粉” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/パン粉?oldid=41473417"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "黒パン",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "黒パン",
+                    "reading": "くろパン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "brown bread",
+                        "rye bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "角食",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "角食",
+                    "reading": "かくしょく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "square bread",
+                        "Pullman loaf",
+                        "sandwich loaf"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bread"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Hokkaido dialect"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

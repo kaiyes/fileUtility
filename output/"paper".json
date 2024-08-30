@@ -1,0 +1,1022 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "紙",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": "紙",
+                    "reading": "かみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Paper"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Paper” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Paper?oldid=491286234"
+                        },
+                        {
+                            "text": "Read “紙” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/紙?oldid=42316082"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "論文",
+            "is_common": true,
+            "tags": [
+                "wanikani20"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "論文",
+                    "reading": "ろんぶん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "thesis",
+                        "essay",
+                        "treatise",
+                        "paper",
+                        "article"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Thesis"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Thesis” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Thesis?oldid=495496461"
+                        },
+                        {
+                            "text": "Read “論文” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/論文?oldid=42753173"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レポート",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n4",
+                "jlpt-n3",
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "レポート"
+                },
+                {
+                    "word": null,
+                    "reading": "リポート"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "report",
+                        "paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "reportage"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Transitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ぱあ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "パー"
+                },
+                {
+                    "word": null,
+                    "reading": "ぱー"
+                },
+                {
+                    "word": null,
+                    "reading": "ぱあ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper (in rock-paper-scissors)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "じゃんけん"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "disappearing completely",
+                        "coming to nought",
+                        "becoming worthless",
+                        "losing everything"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "foolishness",
+                        "stupidity"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Na-adjective (keiyodoshi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "ぱあ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "証書",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "証書",
+                    "reading": "しょうしょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "document (of proof)",
+                        "certificate",
+                        "paper",
+                        "bond",
+                        "deed"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Academic certificate"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Academic certificate” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Academic_certificate?oldid=495327216"
+                        },
+                        {
+                            "text": "Read “証書” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/証書?oldid=42549998"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ペーパー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ペーパー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "張り紙",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "張り紙",
+                    "reading": "はりがみ"
+                },
+                {
+                    "word": "貼り紙",
+                    "reading": "はりがみ"
+                },
+                {
+                    "word": "はり紙",
+                    "reading": "はりがみ"
+                },
+                {
+                    "word": "張紙",
+                    "reading": "はりがみ"
+                },
+                {
+                    "word": "貼紙",
+                    "reading": "はりがみ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper patch attached to something",
+                        "paper backing",
+                        "sticker",
+                        "label"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "notice",
+                        "poster"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ちり紙",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "ちり紙",
+                    "reading": "ちりがみ"
+                },
+                {
+                    "word": "ちり紙",
+                    "reading": "ちりし"
+                },
+                {
+                    "word": "チリ紙",
+                    "reading": "ちりがみ"
+                },
+                {
+                    "word": "チリ紙",
+                    "reading": "ちりし"
+                },
+                {
+                    "word": "塵紙",
+                    "reading": "ちりがみ"
+                },
+                {
+                    "word": "塵紙",
+                    "reading": "ちりし"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "tissue paper",
+                        "toilet paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "紙屑",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "紙くず",
+                    "reading": "かみくず"
+                },
+                {
+                    "word": "紙屑",
+                    "reading": "かみくず"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "wastepaper",
+                        "scrap of paper",
+                        "paper scraps"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "紙幣",
+            "is_common": true,
+            "tags": [
+                "wanikani47"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "紙幣",
+                    "reading": "しへい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper money",
+                        "note",
+                        "bill"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Banknote"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Banknote” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Banknote?oldid=495240008"
+                        },
+                        {
+                            "text": "Read “紙幣” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/紙幣?oldid=42316162"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "紙切れ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "紙切れ",
+                    "reading": "かみきれ"
+                },
+                {
+                    "word": "紙きれ",
+                    "reading": "かみきれ"
+                },
+                {
+                    "word": "紙切れ",
+                    "reading": "かみぎれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "piece of paper",
+                        "slip of paper",
+                        "strip of paper",
+                        "scrap of paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "札",
+            "is_common": true,
+            "tags": [
+                "wanikani7"
+            ],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "札",
+                    "reading": "さつ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "banknote",
+                        "bill",
+                        "note",
+                        "paper money"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Noun, used as a suffix"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "答案",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n3"
+            ],
+            "japanese": [
+                {
+                    "word": "答案",
+                    "reading": "とうあん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "examination paper",
+                        "examination script",
+                        "answer sheet"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "answer (to an exam question)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "紙飛行機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "紙飛行機",
+                    "reading": "かみひこうき"
+                },
+                {
+                    "word": "紙ヒコーキ",
+                    "reading": "かみひこうき"
+                },
+                {
+                    "word": "紙ひこうき",
+                    "reading": "かみひこうき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper plane",
+                        "paper airplane",
+                        "paper aeroplane"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Paper plane"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Paper plane” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Paper_plane?oldid=494789834"
+                        },
+                        {
+                            "text": "Read “紙飛行機” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/紙飛行機?oldid=41901123"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "夕刊",
+            "is_common": true,
+            "tags": [
+                "wanikani38"
+            ],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "夕刊",
+                    "reading": "ゆうかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "evening paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "便箋",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2"
+            ],
+            "japanese": [
+                {
+                    "word": "便箋",
+                    "reading": "びんせん"
+                },
+                {
+                    "word": "便せん",
+                    "reading": "びんせん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "writing paper",
+                        "stationery",
+                        "notepaper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "じゃん拳",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n2",
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": "じゃん拳",
+                    "reading": "じゃんけん"
+                },
+                {
+                    "word": "ジャン拳",
+                    "reading": "ジャンけん"
+                },
+                {
+                    "word": null,
+                    "reading": "ジャンケン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "rock-paper-scissors (game)",
+                        "janken"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb",
+                        "Intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "書付",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "書付",
+                    "reading": "かきつけ"
+                },
+                {
+                    "word": "書き付け",
+                    "reading": "かきつけ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "paper",
+                        "note",
+                        "document"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "bill"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "白書",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "白書",
+                    "reading": "はくしょ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "white paper (government report)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "White paper"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “White paper” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/White_paper?oldid=493713267"
+                        },
+                        {
+                            "text": "Read “白書” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/白書?oldid=42598219"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "トイレットペーパー",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "トイレットペーパー"
+                },
+                {
+                    "word": null,
+                    "reading": "トイレット・ペーパー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "toilet paper",
+                        "lavatory paper"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Toilet paper"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Toilet paper” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Toilet_paper?oldid=494647478"
+                        },
+                        {
+                            "text": "Read “トイレットペーパー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/トイレットペーパー?oldid=42714490"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}

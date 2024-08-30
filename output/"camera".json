@@ -1,0 +1,885 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "カメラ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n5"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カメラ"
+                },
+                {
+                    "word": null,
+                    "reading": "キャメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Camera"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Camera” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Camera?oldid=495518991"
+                        },
+                        {
+                            "text": "Read “カメラ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/カメラ?oldid=42778473"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真器",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真機",
+                    "reading": "しゃしんき"
+                },
+                {
+                    "word": "写真器",
+                    "reading": "しゃしんき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "(photographic) camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Dated term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "カメラ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "撮像機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "撮像機",
+                    "reading": "さつぞうき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera (photo, optical)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レンズ付きフィルム",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "レンズ付きフィルム",
+                    "reading": "レンズつきフィルム"
+                },
+                {
+                    "word": "レンズ付フィルム",
+                    "reading": "レンズつきフィルム"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "disposable camera",
+                        "single-use camera",
+                        "film with camera lens"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "使い捨てカメラ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Disposable camera"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Disposable camera” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Disposable_camera?oldid=493534689"
+                        },
+                        {
+                            "text": "Read “レンズ付きフィルム” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/レンズ付きフィルム?oldid=41711193"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ビデオカメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ビデオカメラ"
+                },
+                {
+                    "word": null,
+                    "reading": "ビデオ・カメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "video camera",
+                        "video camcorder"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Video camera"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Video camera” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Video_camera?oldid=495172745"
+                        },
+                        {
+                            "text": "Read “ビデオカメラ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ビデオカメラ?oldid=42693749"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "３Ｄカメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "３Ｄカメラ",
+                    "reading": "スリーディーカメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "3D camera",
+                        "stereo camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "ステレオカメラ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "撮影機",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "撮影機",
+                    "reading": "さつえいき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "movie camera",
+                        "motion picture camera",
+                        "cinecamera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "カメラマン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [
+                "jlpt-n1"
+            ],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "カメラマン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photographer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cameraman",
+                        "camera operator",
+                        "cinematographer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "テレビカメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "テレビカメラ"
+                },
+                {
+                    "word": null,
+                    "reading": "テレビ・カメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "television camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ウェブカメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "ウェブカメラ"
+                },
+                {
+                    "word": null,
+                    "reading": "ウェブ・カメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "web camera",
+                        "webcam"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Computing"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "ミラーレス一眼カメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "ミラーレス一眼カメラ",
+                    "reading": "ミラーレスいちがんカメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "mirrorless camera",
+                        "mirrorless interchangeable-lens camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Mirrorless interchangeable-lens camera"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Mirrorless interchangeable-lens camera” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera?oldid=494659066"
+                        },
+                        {
+                            "text": "Read “ミラーレス一眼カメラ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ミラーレス一眼カメラ?oldid=42757060"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "監視カメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "監視カメラ",
+                    "reading": "かんしカメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "surveillance camera",
+                        "security camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Closed-circuit television"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Closed-circuit television” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Closed-circuit_television?oldid=495318534"
+                        },
+                        {
+                            "text": "Read “監視カメラ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/監視カメラ?oldid=42609432"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "レフ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": null,
+                    "reading": "レフ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "reflex camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "レフレックスカメラ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "reflector"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Abbreviation"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "レフレクター"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Bulgarian lev"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Bulgarian lev” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Bulgarian_lev?oldid=494947467"
+                        },
+                        {
+                            "text": "Read “レフ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/レフ?oldid=42560236"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真屋",
+                    "reading": "しゃしんや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "photo studio",
+                        "photographer"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "camera shop",
+                        "photography supplies shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "photo processing shop",
+                        "photo finishing shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "カメラ屋",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "カメラ屋",
+                    "reading": "カメラや"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera shop",
+                        "camera store"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "暗箱",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "暗箱",
+                    "reading": "あんばこ"
+                },
+                {
+                    "word": "暗函",
+                    "reading": "あんばこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera obscura"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "black box"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真嫌い",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真嫌い",
+                    "reading": "しゃしんぎらい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "cameraphobia",
+                        "being camera-shy",
+                        "dislike of having one's photograph taken"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Na-adjective (keiyodoshi)"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "写真機店",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "写真機店",
+                    "reading": "しゃしんきてん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera shop"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "手ぶれ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "手ぶれ",
+                    "reading": "てぶれ"
+                },
+                {
+                    "word": "手振れ",
+                    "reading": "てぶれ"
+                },
+                {
+                    "word": "手ブレ",
+                    "reading": "てブレ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "camera shake"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        },
+        {
+            "slug": "使い切りカメラ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "使い切りカメラ",
+                    "reading": "つかいきりカメラ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "disposable camera",
+                        "single-use camera"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "使い捨てカメラ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ]
+        }
+    ]
+}
