@@ -7,9 +7,5 @@ node_modules/
 field_icons/
 npm-debug.log
 yarn-error.log
-files/
 pics/
 outputPics/
-
-# Ignore large JSON and JS files
-*.json
